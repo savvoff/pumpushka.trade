@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "astro build && npx tinacms build && rm -f public/admin/.gitignore",
+    "build": "tinacms build && rm -f public/admin/.gitignore && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
