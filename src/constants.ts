@@ -5,6 +5,7 @@ export interface SiteConfig {
   siteDescription: string;
   author: string;
   defaultLanguage: string;
+  isIndexing?: boolean;
 }
 
 const typedConfig = siteConfig as SiteConfig;
@@ -13,6 +14,7 @@ const SITE_TITLE = typedConfig.siteTitle;
 const SITE_DESCRIPTION = typedConfig.siteDescription;
 const AUTHOR = typedConfig.author;
 const DEFAULT_LANG = typedConfig.defaultLanguage;
+const ALLOW_ROBOTS = typedConfig.isIndexing;
 
 const TRANSLATIONS: Record<string, any> = {
   'uk': {
@@ -28,5 +30,6 @@ export {
   SITE_DESCRIPTION,
   AUTHOR,
   DEFAULT_LANG,
-  TRANSLATIONS
+  TRANSLATIONS,
+  ALLOW_ROBOTS
 }

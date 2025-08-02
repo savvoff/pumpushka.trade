@@ -7,11 +7,17 @@ interface Props {
 	title: string;
 	description: string;
 	image?: string;
+  allowRobots?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = '/og.png' } = Astro.props;
+const { title, description, image = '/og.png', allowRobots = false } = Astro.props;
+
+const robotsContent = allowRobots ? 'index, follow' : 'noindex, nofollow';
+const googlebotContent = allowRobots
+  ? 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
+  : 'noindex, nofollow';
 ---
 
 <!-- Global Metadata -->
@@ -27,6 +33,10 @@ const { title, description, image = '/og.png' } = Astro.props;
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
+
+<!-- Robots -->
+<meta name="robots" content={robotsContent} />
+<meta name="googlebot" content={googlebotContent} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />

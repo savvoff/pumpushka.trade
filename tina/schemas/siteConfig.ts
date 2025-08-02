@@ -14,7 +14,7 @@ export const siteConfig: Collection = {
       delete: false,
     },
   },
-  fields: [
+  fields: [    
     {
       name: 'siteTitle',
       label: 'Заголовок сайту',
@@ -34,6 +34,11 @@ export const siteConfig: Collection = {
       name: 'defaultLanguage',
       label: 'Мова по-замовчуванню',
       type: 'string',
+    },
+    {
+      name: 'isIndexing',
+      label: 'Дозволити індексацію',
+      type: 'boolean',
     },
   ],
 };
