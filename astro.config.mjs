@@ -13,7 +13,7 @@ export default defineConfig({
   server: {
     port: 4343
   },
-  site: 'https://pumpushka.trade',
+  site: 'https://www.pumpushka.trade',
   compressHTML: false,
   integrations: [
     tailwind(),
