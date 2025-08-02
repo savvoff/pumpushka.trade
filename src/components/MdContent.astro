@@ -1,0 +1,12 @@
+---
+import { Markdown } from 'astro-remote';
+
+interface Props {
+  content: string;
+}
+
+const { content } = Astro.props;
+
+const normalized = content.replace(/\n/g, '  \n');
+---
+<Markdown content={normalized} />

@@ -1,0 +1,109 @@
+ .lang {
+    &-switcher {
+      position: relative;
+      display: flex;
+      margin: 0 auto;
+      &.show-langs {
+        & > a {
+          span {
+            transform: scaleY(-1);
+          }
+        }
+        .dropdown {
+          top: calc(100% + theme('padding.4'));
+          visibility: visible;
+          opacity: 1;
+          transition-delay: 0s;
+        }
+      }
+      .dropdown {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        box-shadow: theme('boxShadow.DEFAULT');
+        background-color: theme('colors.white');
+        border-radius: theme('borderRadius.DEFAULT');
+        visibility: hidden;
+        opacity: 0;
+        transition: 0.3s 0.3s;
+        z-index: 1;
+        a {
+          display: block;
+          padding: 0 theme('padding.8') 0 theme('padding[3.5]');
+          border-radius: 0;
+          &:hover {
+            background-color: theme('colors.black' / 0.06);
+          }
+        }
+      }
+    }   
+  }
+  .site-header {
+    & > div::before {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      display: block;
+      width: theme('width[7.5]');
+      height: theme('height[7.5]');
+      border-radius: theme('borderRadius.full');
+      background-color: theme('colors.orange.DEFAULT');
+      transform: scale(0);
+      box-shadow: theme('boxShadow.xl');
+      transition: 0.8s theme('transitionTimingFunction.out-cubic');
+    }
+    &.show-menu {
+      position: fixed;
+      left: 0;
+      right: 0;
+      height: 100%;
+      & > div::before {
+        border-radius: 0;
+        transform: scale(60);    
+        @media screen and (min-width: theme('screens.md')) { 
+          transform: scale(100);   
+        }
+      }
+      .site-header__nav {
+        top: 5.75rem;
+        visibility: visible;
+        opacity: 1;
+        transition: opacity 0.3s 0.3s;
+      }
+      & + main {
+        margin-top: 7.25rem;
+      }
+    }
+    &__nav {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      visibility: hidden;
+      opacity: 0;
+      .show-submenu {
+        & > a {
+          span {
+            transform: scaleY(-1);
+          }
+        }
+        .dropdown {
+          display: flex;
+          visibility: visible;
+          opacity: 1;
+        }
+      }
+      .dropdown {  
+        flex-direction: column;                          
+        border-radius: theme('borderRadius.3xl');
+        visibility: hidden;
+        opacity: 0;
+        transition: 0.3s 0.3s;
+      }
+    }
+  }

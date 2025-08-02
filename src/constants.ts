@@ -1,0 +1,32 @@
+import siteConfig from './content/site-config.json';
+
+export interface SiteConfig {
+  siteTitle: string;
+  siteDescription: string;
+  author: string;
+  defaultLanguage: string;
+}
+
+const typedConfig = siteConfig as SiteConfig;
+
+const SITE_TITLE = typedConfig.siteTitle;
+const SITE_DESCRIPTION = typedConfig.siteDescription;
+const AUTHOR = typedConfig.author;
+const DEFAULT_LANG = typedConfig.defaultLanguage;
+
+const TRANSLATIONS: Record<string, any> = {
+  'uk': {
+    month: 'місяць'
+  },
+  'en': {
+    month: 'month'
+  }
+};
+
+export {
+  SITE_TITLE,
+  SITE_DESCRIPTION,
+  AUTHOR,
+  DEFAULT_LANG,
+  TRANSLATIONS
+}

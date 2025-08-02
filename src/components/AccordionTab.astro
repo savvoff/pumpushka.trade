@@ -1,0 +1,66 @@
+---
+import { Icon } from 'astro-icon/components';
+
+interface Props {
+  text: string;
+  class?: string;
+  link?: string;
+}
+
+const { text, link, class: className } = Astro.props;
+---
+
+<div class:list={["group border-t border-black/[0.1] hover:border-blue transition", className]} data-tab>
+  <div class="flex justify-between items-center py-7 cursor-pointer tab">
+    <p class="font-medium group-[.is-expanded]:text-blue text-2xl text-left">{text}</p>
+    <a href="" class="bg-black hover:bg-blue px-5 py-3 text-white scale-0 group-[.is-expanded]:scale-100 duration-500" href={link ?? '#'}>
+      Learn More
+      <Icon class="my-auto ml-3 w-3 h-3" name="arrow-right" />
+    </a>
+  </div>
+  <div class="max-h-0 group-[.is-expanded]:max-h-full overflow-hidden transition-all duration-500">
+    <div class="pb-8 md:w-4/5">
+      <slot />
+    </div>
+  </div>
+</div>
+
+<script>
+  const tabs = document.querySelectorAll<HTMLDivElement>('[data-tab] .tab');
+  [...tabs].forEach((el) => {
+    const tabEl = el.parentNode as HTMLElement;
+    const content = el.nextElementSibling as HTMLElement; 
+    if (tabEl && tabEl.classList.contains('is-expanded')) {
+      content.style.maxHeight = `${content.scrollHeight}px`;
+    }
+    el.addEventListener("click", (ev: Event): void => {
+      tabs.forEach((tab) => {
+        const tabEl = tab.parentNode as HTMLElement;
+        const content = tab.nextElementSibling as HTMLElement;        
+        tabEl.classList.remove('is-expanded');
+        content.style.maxHeight = '';
+      });
+      if (content.style.maxHeight) {
+        content.style.maxHeight = '';
+      } else {
+        content.style.maxHeight = `${content.scrollHeight}px`;
+      }
+      tabEl.classList.add('is-expanded');
+    });
+  });
+</script>
+
+<style lang="scss" is:global>
+  [data-tab] {    
+    &.is-expanded {
+      .minus {
+        order: 1;
+        opacity: 1;
+      }
+      .plus {
+        order: 0;
+        opacity: 0;
+      }
+    }
+  }
+</style>

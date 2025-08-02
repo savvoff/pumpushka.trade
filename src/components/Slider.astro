@@ -1,0 +1,19 @@
+---
+import '@splidejs/splide/css/core';
+
+interface Props {
+  class?: string;
+  options?: string;
+  overflow?: boolean;
+}
+
+const { class: className, options, overflow, ...props } = Astro.props;
+---
+
+<div class:list={["splide", className]} data-splide={options ?? '{}'} {...props}>
+  <div class:list={["splide__track", overflow ? '' : '!overflow-visible']}>
+		<ul class="splide__list">
+      <slot />
+		</ul>
+  </div>
+</div>

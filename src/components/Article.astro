@@ -1,0 +1,13 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+
+import '../styles/_article.scss';
+
+type Props = HTMLAttributes<'article'>;
+
+const { class: className, ...props } = Astro.props;
+---
+
+<article class:list={['select-none', className]} {...props}>
+	<slot />
+</article>

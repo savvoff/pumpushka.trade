@@ -1,0 +1,35 @@
+---
+// import { Image } from 'astro:assets';
+import SocialsButtons from '@components/SocialsButtons.astro';
+import { SITE_TITLE, AUTHOR } from '../constants';
+
+const today = new Date();
+---
+
+<footer class="bottom-0 z-0 fixed bg-black w-full">
+	<div class="md:text-left text-center container">
+    <div class="flex md:flex-row flex-col md:justify-between space-y-8 md:space-y-0 mx-auto md:mx-0">
+      <a class="mx-auto md:mx-0 w-40 font-heading brand" href={Astro.url.origin}>
+        <!-- <Image src={'#'} alt={SITE_TITLE} format="svg" /> -->
+        <span class="text-white uppercase tracking-widest">{ SITE_TITLE }</span>
+      </a>
+      <SocialsButtons class="mx-auto md:mx-0" />
+      <ul class="hidden mt-8 font-medium">
+        <li>
+          <a class="hover:opacity-50 text-white transition" href="tel:+1 123 45 678">+1 123 45 678</a>
+        </li>
+        <li>
+          <a class="hover:opacity-50 text-white transition" href="mailto:">mail@dummy.mail</a>
+        </li>
+      </ul>
+    </div>
+		<div class="flex flex-wrap justify-center md:justify-between gap-x-8 gap-y-4 mt-8 py-10 border-white/[0.3] border-t text-sm">
+			<p class="text-white/[0.5]">
+				&copy; { today.getFullYear() + ' ' + SITE_TITLE }. All rights reserved
+			</p>
+			<p class="text-white/[0.5]">
+				Designed by { AUTHOR }
+			</p>
+		</div>
+	</div>
+</footer>

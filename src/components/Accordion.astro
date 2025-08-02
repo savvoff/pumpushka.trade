@@ -1,0 +1,62 @@
+---
+import { Icon } from 'astro-icon';
+
+interface Props {
+  text: string;
+  link?: string;
+}
+
+const { text, link } = Astro.props;
+---
+
+<div class="group bg-light border border-light hover:border-blue transition rounded-lg" data-accordion>
+
+  <button class:list={[link ? "hidden" : "flex", "w-full items-center text-left font-medium p-7"]} type="button" title={text}>
+    {text}
+    <span class="flex ml-auto">
+      <Icon class="minus w-3 h-3 opacity-0" name="minus" />
+      <Icon class="plus w-3 h-3 opacity-100" name="plus" />
+    </span>
+  </button>
+  {
+    link && (
+      <a class="flex w-full items-center text-left font-medium p-7" href={link}>
+        {text}
+        <span class="flex ml-auto">
+          <Icon class="w-3.5 h-3.5 text-blue" name="arrow-right" />
+        </span>
+      </a>
+    )
+  }
+  <div class="max-h-0 group-[.is-expanded]:max-h-[100vmax] transition-all duration-500 overflow-hidden">
+    <div class="py-9 px-7 border-t border-gray">
+      <slot />
+    </div>
+  </div>
+</div>
+
+<script>
+  const accordionTabs = document.querySelectorAll("[data-accordion] button");
+  [...accordionTabs].forEach((el) => {
+    el.addEventListener("click", (ev: Event): void => {
+      const btn = ev.currentTarget as HTMLButtonElement;     
+      const tabEl = btn.parentNode as HTMLElement;
+      tabEl.classList.toggle('is-expanded');
+    });
+  });
+</script>
+
+<style lang="scss" is:global>
+  [data-accordion] {    
+    &.is-expanded {
+      .minus {
+        order: 1;
+        opacity: 1;
+      }
+      .plus {
+        order: 0;
+        opacity: 0;
+      }
+    }
+  }
+</style>

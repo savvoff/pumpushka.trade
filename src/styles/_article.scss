@@ -1,0 +1,96 @@
+article {
+  h1 {
+    font-size: theme("fontSize.4xl");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      font-size: theme("fontSize.8xl");
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  h2 {
+    font-size: theme("fontSize.3xl");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      font-size: theme("fontSize.4xl");
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  h3 {
+    font-size: theme("fontSize.2xl");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      font-size: theme("fontSize.3xl");
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  h4 {
+    font-size: theme("fontSize.base");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      font-size: theme("fontSize.2xl");
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  h5 {
+    font-size: theme("fontSize.base");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  h6 {
+    font-size: theme("fontSize.sm");
+    margin-bottom: theme("spacing[6]");
+    @media screen and (min-width: theme("screens.lg")) {
+      margin-bottom: theme("spacing[8]");
+    }
+  }
+  hr {
+    border-color: theme("colors.black");
+    margin: theme("spacing[8]") 0;
+    opacity: 0.1;
+    @media screen and (min-width: theme("screens.lg")) {
+      margin: theme("spacing[8]") 0;
+    }
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  strong {
+    @apply font-bold;
+  }
+  ul,
+  ol {
+    &:not(:last-child) {
+      list-style: disc;
+      padding-left: theme("spacing.8");
+      margin-bottom: 2em;
+    }
+  }
+  ol {
+    // list-style: upper-roman;
+    list-style: decimal;
+  }
+  a {
+    color: theme("colors.blue.DEFAULT");
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  video,
+  embed,
+  iframe {
+    width: 100%;
+    min-height: theme("height.52");
+  }
+  h1,
+  h2,
+  h3,
+  p {
+    br {
+      @media screen and (max-width: theme("screens.sm")) {
+        display: none;
+      }
+    }
+  }  
+}

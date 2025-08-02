@@ -1,0 +1,147 @@
+/*
+  The CSS in this style tag is based off of Bear Blog's default CSS.
+  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
+  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
+ */
+@use "./common" as *;
+
+@tailwind base;
+
+@layer base {
+  :root {
+    font-size: theme('fontSize.base');
+    @media screen and (min-width: $width-vw) { 
+      font-size: get-vw($base-value, $width-vw);
+    }
+  }
+  input, textarea {
+    outline: none;
+  }
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+	input[type=number] {
+    -moz-appearance: textfield;
+	}
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-black;
+    @apply leading-tight;
+    hyphens: auto;
+    @media screen and (min-width: theme('screens.xl')) { 
+      hyphens: none;
+    }
+  }
+  // a {
+	// 	position: relative;
+	// 	&::after {
+	// 		content: "";
+	// 		position: absolute;
+	// 		left: 1%;
+	// 		bottom: calc(theme('spacing.1') * -1) ;
+	// 		display: block;
+	// 		width: 98%;
+	// 		height: theme('borderWidth.2');
+	// 		background-color: theme('colors.blue.DEFAULT');
+	// 		transform-origin: right;
+	// 		transform: scaleX(0);
+	// 		transition: transform .3s theme('transitionTimingFunction.DEFAULT');
+	// 	}
+	// 	&:hover::after, &.is-active::after {
+	// 		transform-origin: left;
+	// 		transform: scaleX(1);
+	// 	}
+	// }
+}
+
+body {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: theme('fontWeight.normal');
+	margin: auto;
+	padding: 0;
+	line-height: 1.5 !important;
+	color: theme('colors.black');
+	text-align: left;
+	background-color: theme('colors.black');
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.page-section {
+	position: relative;
+  z-index: 1;
+  &:last-of-type {
+    margin-bottom: 20rem;
+    @media screen and (min-width: theme('screens.md')) { 
+      margin-bottom: 14rem;
+    }
+  }
+}
+
+.menu-button {
+  .dot {
+    position: absolute;
+    display: inline-block;
+    height: 1px;
+    border: {
+      left: 1px solid theme('colors.black');
+      right: 1px solid theme('colors.black');
+    };
+    transition: opacity 0.1s;
+    opacity: 1;
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: auto;
+      display: inline-block;
+      width: 1px;
+      height: 1px;
+      background-color: theme('colors.black');
+    }
+    .show-menu & {
+      opacity: 0;
+		}
+  }
+	.burger-icon {
+		@include burger(1rem, 1px, 2px, transparent, 0);
+		.show-menu & {
+      @include burger-to-cross(theme('colors.black'));
+		}
+	}	
+}
+
+@keyframes flying {
+  to {
+    transform: translateY(-5%);
+  }
+}
+
+@keyframes rotating-scale {
+  from {
+    transform: scale(4) rotate(0deg);
+  }
+  to {
+    transform: scale(4) rotate(360deg);
+  }
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}

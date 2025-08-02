@@ -1,0 +1,145 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+import { Icon } from 'astro-icon/components';
+import Form from './Form.astro';
+
+type Props = HTMLAttributes<'div'>;
+
+const { class: className, ...props } = Astro.props;
+---
+
+<div class:list={["tabs", className]} {...props}>
+   <div class="flex max-md:flex-col justify-between gap-x-5 gap-y-3 mb-6 border-black/[0.1] md:border-b overflow-hidden font-medium whitespace-nowrap tabs__links">
+      <div class="group relative cursor-pointer is-active">
+        <a class="after:bottom-0 after:-left-[10%] after:absolute flex justify-center items-center after:bg-blue py-3.5 border-2 border-dark/[0.1] md:border-0 group-[.is-active]:border-blue rounded-lg after:w-[120%] after:h-px md:group-[.is-active]:after:scale-x-100 after:scale-x-0 after:transition-transform after:duration-500" data-href="#video">
+          <Icon class="mr-4 w-6 h-5 text-[#7f809D] group-[.is-active]:text-blue group-hover:text-blue transition-all" name="camera" />
+          <span class="text-[#7f809D] group-[.is-active]:text-black group-hover:text-black transition">Video Appointment</span>
+        </a>
+      </div>
+      <div class="group relative cursor-pointer">
+        <a class="after:bottom-0 after:-left-[10%] after:absolute flex justify-center items-center after:bg-blue py-3.5 border-2 border-dark/[0.1] md:border-0 group-[.is-active]:border-blue rounded-lg after:w-[120%] after:h-px md:group-[.is-active]:after:scale-x-100 after:scale-x-0 after:transition-transform after:duration-500" data-href="#callback">
+          <Icon class="mr-4 w-6 h-5 text-[#7f809D] group-[.is-active]:text-blue group-hover:text-blue transition-all" name="phone" />
+          <span class="text-[#7f809D] group-[.is-active]:text-black group-hover:text-black transition">Callback Service</span>
+        </a>
+      </div>
+      <div class="group relative cursor-pointer">
+        <a class="after:bottom-0 after:-left-[10%] after:absolute flex justify-center items-center after:bg-blue py-3.5 border-2 border-dark/[0.1] md:border-0 group-[.is-active]:border-blue rounded-lg after:w-[120%] after:h-px md:group-[.is-active]:after:scale-x-100 after:scale-x-0 after:transition-transform after:duration-500" data-href="#workshops">
+          <Icon class="mr-4 w-6 h-5 text-[#7f809D] group-[.is-active]:text-blue group-hover:text-blue transition-all" name="message" />
+          <span class="text-[#7f809D] group-[.is-active]:text-black group-hover:text-black transition">Workshops</span>
+        </a>
+      </div>
+   </div>
+   <div id="video" class="tab__content">
+    <p class="mb-6 text-sm">Send us your contact details and we will contact you</p>
+    <Form data-need-validate="1">
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">First Name</span>
+      </div>
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Last Name</span>
+      </div>
+      <div class="relative col-span-full bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Phone Number</span>
+      </div>
+      
+      <div class="relative col-span-full bg-light">
+        <textarea class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" placeholder="" rows="5" data-validate="maxlength_300"></textarea> 
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">One sentence about you</span>
+      </div> 
+      <div class="relative flex max-sm:flex-col justify-between items-center gap-5 col-span-full bg-light">
+        <button class="!bg-black hover:!bg-blue px-8 py-3 rounded-3xl max-sm:w-full font-medium text-white text-center transition" type="submit">Send</button>
+        <div class="flex flex-wrap justify-center sm:justify-end items-center gap-2 whitespace-nowrap">
+          <p class="text-sm text-center max-sm:basis-full">Or contact us:</p>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="tel:+100203042" rel="noindex,nofollow">+ 1 002 03 042</a>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="mailto:info@chekov-enterprise.com" rel="noindex,nofollow">info@chekov-enterprise.com</a>
+        </div>
+      </div>
+    </Form>
+   </div>
+   <div id="callback" class="hidden tab__content">
+    <p class="mb-6 text-sm">Send us your contact details and we will contact you</p>
+    <Form data-need-validate="2">
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">First Name</span>
+      </div>
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Last Name</span>
+      </div>
+      <div class="relative col-span-full bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Phone Number</span>
+      </div>
+      
+      <div class="relative flex max-sm:flex-col justify-between items-center gap-5 col-span-full bg-light">
+        <button class="!bg-black hover:!bg-blue px-8 py-3 rounded-3xl max-sm:w-full font-medium text-white text-center transition" type="submit">Send</button>
+        <div class="flex flex-wrap justify-center sm:justify-end items-center gap-2 whitespace-nowrap">
+          <p class="text-sm text-center max-sm:basis-full">Or contact us:</p>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="tel:+100203042" rel="noindex,nofollow">+ 1 002 03 042</a>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="mailto:info@chekov-enterprise.com" rel="noindex,nofollow">info@chekov-enterprise.com</a>
+        </div>
+      </div>
+    </Form>
+   </div>
+   <div id="workshops" class="hidden tab__content">
+    <p class="mb-6 text-sm">Send us your contact details and we will contact you</p>
+    <Form data-need-validate="3">
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">First Name</span>
+      </div>
+      <div class="relative bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require letters">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Last Name</span>
+      </div>
+      <div class="relative col-span-full bg-light">
+        <input class="peer bg-light px-4 py-3 border border-black/[0.1] focus:border-blue rounded-md w-full text-black" type="text" placeholder="" data-validate="require">
+        <span class="text-red text-xs error-message"></span>
+        <span class="top-3 peer-focus:top-0 left-4 absolute bg-light -mx-2 px-2 text-black/[0.5] peer-focus:text-blue peer-focus:text-xs transition-all peer-focus:-translate-y-1/2 pointer-events-none">Phone Number</span>
+      </div>
+      
+      <div class="relative flex max-sm:flex-col justify-between items-center gap-5 col-span-full bg-light">
+        <button class="!bg-black hover:!bg-blue px-8 py-3 rounded-3xl max-sm:w-full font-medium text-white text-center transition" type="submit">Send</button>
+        <div class="flex flex-wrap justify-center sm:justify-end items-center gap-2 whitespace-nowrap">
+          <p class="text-sm text-center max-sm:basis-full">Or contact us:</p>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="tel:+100203042" rel="noindex,nofollow">+ 1 002 03 042</a>
+          <a class="bg-blue/[0.1] hover:bg-blue/[0.2] px-3 py-2 rounded-[1.125rem] font-normal" href="mailto:info@chekov-enterprise.com" rel="noindex,nofollow">info@chekov-enterprise.com</a>
+        </div>
+      </div>
+    </Form>
+   </div>
+</div>
+
+<script>
+  const tabsLink = document.querySelectorAll<HTMLAnchorElement>('.tabs__links a');
+  const tabsContent = document.querySelectorAll<HTMLDivElement>('.tab__content');
+  [...tabsLink].forEach((el): void => {
+    el.addEventListener('click', (ev: Event) => {
+      ev.preventDefault();
+      const targetEl = el.dataset.href as string;
+      const targetContent = document.querySelector(targetEl);
+      const tab = el.parentNode as HTMLElement;
+
+      [...tabsContent].forEach((contentEl): void => contentEl.classList.add('hidden'));      
+      [...tabsLink].forEach((link): void => {
+        const tab = link.parentNode as HTMLElement;
+        tab.classList.remove('is-active');
+      });
+      targetContent?.classList.remove('hidden');
+      tab.classList.add('is-active');
+    });
+  });
+</script>

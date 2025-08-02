@@ -1,0 +1,31 @@
+---
+import type { HTMLAttributes } from 'astro/types';
+
+type Props = HTMLAttributes<'form'>;
+
+const { class: className, ...props } = Astro.props;
+---
+
+<form class:list={["relative", className]} {...props}>
+  <div class="grid sm:grid-cols-2 gap-4">
+    <slot />
+  </div> 
+</form>
+
+<style lang="scss" is:global>
+  form {
+    input:invalid, input.is-error,
+    textarea:invalid, textarea.is-error {
+      border-color: theme('colors.red');
+    }
+    input:not(:placeholder-shown), 
+    textarea:not(:placeholder-shown) {
+      & ~ span:not(.error-message) {
+        top: 0;
+        color: theme('colors.blue');
+        transform: translateY(-50%);
+        font-size: theme('fontSize.xs');
+      }
+    }
+  }
+</style>

@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Black.woff2') format('woff2'),
+        url('Daikon-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-ExtraLight.woff2') format('woff2'),
+        url('Daikon-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-BoldItalic.woff2') format('woff2'),
+        url('Daikon-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-LightItalic.woff2') format('woff2'),
+        url('Daikon-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-MediumItalic.woff2') format('woff2'),
+        url('Daikon-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-ExtraLightItalic.woff2') format('woff2'),
+        url('Daikon-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Thin.woff2') format('woff2'),
+        url('Daikon-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-ThinItalic.woff2') format('woff2'),
+        url('Daikon-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Light.woff2') format('woff2'),
+        url('Daikon-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Bold.woff2') format('woff2'),
+        url('Daikon-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-BlackItalic.woff2') format('woff2'),
+        url('Daikon-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-SemiBoldItalic.woff2') format('woff2'),
+        url('Daikon-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Medium.woff2') format('woff2'),
+        url('Daikon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Regular.woff2') format('woff2'),
+        url('Daikon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-Italic.woff2') format('woff2'),
+        url('Daikon-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Daikon';
+    src: url('Daikon-SemiBold.woff2') format('woff2'),
+        url('Daikon-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
