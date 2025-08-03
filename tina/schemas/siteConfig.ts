@@ -51,6 +51,11 @@ export const siteConfig: Collection = {
           type: 'image' 
         },
         { 
+          name: 'botLinkTitle', 
+          label: 'Текст кнопки на бота', 
+          type: 'string' 
+        },
+        { 
           name: 'botLink', 
           label: 'Посилання на бота', 
           type: 'string' 

@@ -14,6 +14,7 @@ interface Header {
   logo: string;
   menu: MenuItem[];
   botLink: string;
+  botLinkTitle: string;
 }
 
 import config from '../content/site-config.json';
@@ -93,8 +94,8 @@ const header = config.header as Header;
               </li>
             </ul>
           </div>
-          <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href="https://t.me/pumpushka_bot">
-            <span class="truncate">ЗАПУСТИТИ У ТЕЛЕГРАМ</span>
+          <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href={header.botLink} target="_blank">
+            <span class="truncate">{header.botLinkTitle}</span>
             <Icon name="telegram" class="shrink-0" size={32} />
           </a>          
         </nav>
