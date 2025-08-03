@@ -49,13 +49,13 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
   <section id="hero" class="bg-gradient-to-b from-blue-100 to-blue-200 pt-28 pb-5 rounded-b-3xl min-h-96 overflow-hidden page-section">
     <div class="container">
       <div class="flex flex-col space-y-3">
-        <div class="space-y-2 sm:text-center">
+        <div class="z-[1] relative space-y-2 sm:text-center">
           <h1 class="text-5xl/[0.9]">
             <MdContent content={ content.heroTitle } />
           </h1>
           <p class="font-semibold text-white">{ content.heroSubtitle }</p>
         </div>
-        <div class="relative text-center">
+        <div class="z-0 relative text-center">
           <div class="top-1/2 left-1/2 absolute -translate-x-1/2 -translate-y-1/2">
             <Image
               class="animate-[rotating-scale_60000ms_linear_forwards_infinite]"
