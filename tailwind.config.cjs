@@ -2,6 +2,9 @@
 import defaultTheme from 'tailwindcss/defaultTheme';
 
 module.exports = {
+  safelist: [
+    'text-orange-100'
+  ],
 	content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
 	theme: {
 		container: {

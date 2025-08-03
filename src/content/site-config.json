@@ -1,6 +1,24 @@
 {
   "siteTitle": "Pumpushka Bot",
-  "siteDescription": "Pumpushka Bot description",
+  "siteDescription": "Крипто-бот, що поєднує технічний, сентиментальний, макро- та on-chain аналіз із whale-рухами; генерує long/short сигнали з ймовірністю успіху.\n",
   "author": "savvoff",
-  "defaultLanguage": "uk"
+  "defaultLanguage": "uk",
+  "header": {
+    "logo": "/media/logo.svg",
+    "botLink": "http://t.me/pumpushka_bot",
+    "menu": [
+      {
+        "label": "Нове посилання",
+        "href": "/"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "label": "Нове посилання",
+        "href": "/"
+      }
+    ]
+  }
 }

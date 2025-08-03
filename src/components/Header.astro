@@ -1,8 +1,23 @@
 ---
 import { Image } from 'astro:assets';
-import { Icon } from "astro-icon/components";
-import HeaderLink from "@components/HeaderLink.astro";
-import { SITE_TITLE } from "../constants";
+import { Icon } from 'astro-icon/components';
+import HeaderLink from '@components/HeaderLink.astro';
+import { DEFAULT_LANG, SITE_TITLE } from '../constants';
+
+type MenuItem = {
+  image: string;
+  label: string;
+  href: string;
+};
+
+interface Header {
+  logo: string;
+  menu: MenuItem[];
+  botLink: string;
+}
+
+import config from '../content/site-config.json';
+const header = config.header as Header;
 ---
 
 <header class="group top-0 z-40 fixed mb-6 lg:mb-20 w-full site-header">
@@ -31,9 +46,9 @@ import { SITE_TITLE } from "../constants";
           class="relative font-heading text-2xl uppercase text-nowrap brand"
           href={Astro.url.origin}
         >
-          <Image src={import("public/logo.svg")} alt={SITE_TITLE} format="svg" />
+          <img src={header.logo} alt={SITE_TITLE} />
         </a>
-        <a class="relative" href="http://t.me/pumpushka_bot" target="_blank">
+        <a class="relative" href={header.botLink} target="_blank">
           <Icon name="telegram" class="shrink-0" size={32} />
         </a>
         <nav class="flex flex-col space-y-3.5 mx-auto px-6 pb-4 max-h-[80vh] overflow-y-auto site-header__nav container">
@@ -46,85 +61,27 @@ import { SITE_TITLE } from "../constants";
             />
           </div>
           <ul class="relative space-y-1">
-            <li class="bg-white p-2 border rounded-lg">
+            {header.menu && header.menu.map((item) => (
+              <li class="bg-white p-2 border rounded-lg">
               <HeaderLink
                 class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
+                href={Astro.url.origin + item.href}>
                 <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
+                  <img src={item.image} alt={SITE_TITLE} />
                 </span>
-                що вміє бот?
+                {item.label}
               </HeaderLink>
             </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                як працює?
-              </HeaderLink>
-            </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link-cta.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                тарифи
-              </HeaderLink>
-            </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                відгуки
-              </HeaderLink>
-            </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                відгуки
-              </HeaderLink>
-            </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                FAQ
-              </HeaderLink>
-            </li>
-            <li class="bg-white p-2 border rounded-lg">
-              <HeaderLink
-                class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + "#"}>
-                <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <Image src={import("public/menu-link.png")} alt={SITE_TITLE} format="webp" />
-                </span>
-                контакти
-              </HeaderLink>
-            </li>
+            ))}
           </ul>         
           <div class="p-0.5 pl-4 border-2 rounded-3xl lang-switcher">
             <div class="flex items-center gap-2 text-sm cursor-pointer">
               <p id="cur_lang" class="inline-flex justify-center font-black align-middle">
-                UA
+                UK
               </p>
               <span class="inline-block shrink-0">
                 <!-- <Icon name="arrow-down" /> -->
-                 <Image class="border rounded-full w-8 h-8" src={import("public/uk.png")} format="webp" alt="uk" />
+                 <img class="border rounded-full w-8 h-8" src={`/${DEFAULT_LANG}.png`} alt={DEFAULT_LANG} />
               </span>
             </div>
             <ul class="gap-3 py-2 dropdown">

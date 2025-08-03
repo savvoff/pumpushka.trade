@@ -86,10 +86,10 @@ body {
   .dot {
     position: absolute;
     display: inline-block;
-    height: 1px;
+    height: 2px;
     border: {
-      left: 1px solid theme('colors.black');
-      right: 1px solid theme('colors.black');
+      left: 2px solid theme('colors.black');
+      right: 2px solid theme('colors.black');
     };
     transition: opacity 0.1s;
     opacity: 1;
@@ -100,8 +100,8 @@ body {
       right: 0;
       margin: auto;
       display: inline-block;
-      width: 1px;
-      height: 1px;
+      width: 2px;
+      height: 2px;
       background-color: theme('colors.black');
     }
     .show-menu & {

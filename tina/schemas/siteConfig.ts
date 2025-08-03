@@ -2,7 +2,7 @@ import type { Collection } from 'tinacms';
 
 export const siteConfig: Collection = {
   name: 'site',
-  label: 'Глобальна конфігурація',
+  label: 'Конфігурація сайту',
   path: 'src/content',
   match: {
     exclude: 'pages/**',
@@ -39,6 +39,67 @@ export const siteConfig: Collection = {
       name: 'isIndexing',
       label: 'Дозволити індексацію',
       type: 'boolean',
+    },
+    {
+      name: 'header',
+      label: 'Header',
+      type: 'object',
+      fields: [
+        { 
+          name: 'logo', 
+          label: 'Логотип', 
+          type: 'image' 
+        },
+        { 
+          name: 'botLink', 
+          label: 'Посилання на бота', 
+          type: 'string' 
+        },
+        {
+          name: 'menu',
+          label: 'Меню',
+          type: 'object',
+          list: true,
+          ui: {
+            itemProps: item => ({ label: item?.label }),
+            defaultItem: () => ({
+              label: 'Нове посилання',
+              href: '/',
+            }),
+          },
+          fields: [
+            { name: 'image', label: 'Зображення', type: 'image' },
+            { name: 'label', label: 'Назва', type: 'string' },
+            { name: 'href', label: 'Посилання', type: 'string' },
+          ],
+        },
+      ],
+    },
+
+    {
+      name: 'footer',
+      label: 'Footer',
+      type: 'object',
+      fields: [
+        {
+          name: 'links',
+          label: 'Footer соц. мережі',
+          type: 'object',
+          list: true,
+          ui: {
+            itemProps: item => ({ label: item?.label }),
+            defaultItem: () => ({
+              label: 'Нове посилання',
+              href: '/',
+            }),
+          },
+          fields: [
+            { name: 'icon', label: 'Іконка', type: 'image' },
+            { name: 'label', label: 'Назва', type: 'string' },
+            { name: 'href', label: 'Посилання', type: 'string' },
+          ],
+        },
+      ],
     },
   ],
 };
