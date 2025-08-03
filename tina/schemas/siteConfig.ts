@@ -14,16 +14,24 @@ export const siteConfig: Collection = {
       delete: false,
     },
   },
-  fields: [    
+  fields: [
     {
       name: 'siteTitle',
       label: 'Заголовок сайту',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
     {
       name: 'siteDescription',
       label: 'Опис сайту',
-      type: 'rich-text',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'rich-text' },
+        { name: 'en', label: 'English', type: 'rich-text' },
+      ],
     },
     {
       name: 'author',
@@ -45,20 +53,24 @@ export const siteConfig: Collection = {
       label: 'Header',
       type: 'object',
       fields: [
-        { 
-          name: 'logo', 
-          label: 'Логотип', 
-          type: 'image' 
+        {
+          name: 'logo',
+          label: 'Логотип',
+          type: 'image',
         },
-        { 
-          name: 'botLinkTitle', 
-          label: 'Текст кнопки на бота', 
-          type: 'string' 
+        {
+          name: 'botLinkTitle',
+          label: 'Текст кнопки на бота',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
         },
-        { 
-          name: 'botLink', 
-          label: 'Посилання на бота', 
-          type: 'string' 
+        {
+          name: 'botLink',
+          label: 'Посилання на бота',
+          type: 'string',
         },
         {
           name: 'menu',
@@ -66,21 +78,28 @@ export const siteConfig: Collection = {
           type: 'object',
           list: true,
           ui: {
-            itemProps: item => ({ label: item?.label }),
+            itemProps: item => ({ label: item?.label?.uk }),
             defaultItem: () => ({
-              label: 'Нове посилання',
+              label: { uk: 'Нове посилання', en: 'New Link' },
               href: '/',
             }),
           },
           fields: [
             { name: 'image', label: 'Зображення', type: 'image' },
-            { name: 'label', label: 'Назва', type: 'string' },
+            {
+              name: 'label',
+              label: 'Назва',
+              type: 'object',
+              fields: [
+                { name: 'uk', label: 'Українська', type: 'string' },
+                { name: 'en', label: 'English', type: 'string' },
+              ],
+            },
             { name: 'href', label: 'Посилання', type: 'string' },
           ],
         },
       ],
     },
-
     {
       name: 'footer',
       label: 'Footer',
@@ -92,15 +111,23 @@ export const siteConfig: Collection = {
           type: 'object',
           list: true,
           ui: {
-            itemProps: item => ({ label: item?.label }),
+            itemProps: item => ({ label: item?.label?.uk }),
             defaultItem: () => ({
-              label: 'Нове посилання',
+              label: { uk: 'Нове посилання', en: 'New Link' },
               href: '/',
             }),
           },
           fields: [
             { name: 'icon', label: 'Іконка', type: 'image' },
-            { name: 'label', label: 'Назва', type: 'string' },
+            {
+              name: 'label',
+              label: 'Назва',
+              type: 'object',
+              fields: [
+                { name: 'uk', label: 'Українська', type: 'string' },
+                { name: 'en', label: 'English', type: 'string' },
+              ],
+            },
             { name: 'href', label: 'Посилання', type: 'string' },
           ],
         },

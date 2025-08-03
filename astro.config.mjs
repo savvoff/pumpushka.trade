@@ -5,6 +5,13 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
+  i18n: {
+    locales: ['en', 'uk'],
+    defaultLocale: 'uk',
+    routing: {
+      prefixDefaultLocale: false
+    }
+  },
   image: {
     service: passthroughImageService(),
   },

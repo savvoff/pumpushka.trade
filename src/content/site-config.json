@@ -1,15 +1,28 @@
 {
-  "siteTitle": "Pumpushka Bot",
-  "siteDescription": "Крипто-бот, що поєднує технічний, сентиментальний, макро- та on-chain аналіз із whale-рухами; генерує long/short сигнали з ймовірністю успіху.\n",
+  "siteTitle": {
+    "uk": "Pumpushka Bot",
+    "en": "Pumpushka Bot"
+  },
+  "siteDescription": {
+    "uk": "Крипто-бот, що поєднує технічний, сентиментальний, макро- та on-chain аналіз із whale-рухами; генерує long/short сигнали з ймовірністю успіху.\n",
+    "en": "Crypto bot that combines technical, sentimental, macro and on-chain analysis with whale movements; generates long/short signals with a probability of success.\n"
+  },
   "author": "savvoff",
   "defaultLanguage": "uk",
   "header": {
     "logo": "/media/logo.svg",
-    "botLinkTitle": "ЗАПУСТИТИ У ТЕЛЕГРАМ",
+    "botLinkTitle": {
+      "uk": "ЗАПУСТИТИ У ТЕЛЕГРАМ",
+      "en": "START IN TELEGRAM"
+    },
     "botLink": "http://t.me/pumpushka_bot",
     "menu": [
       {
-        "label": "Нове посилання",
+        "image": "/media/menu-link-glasses.png",
+        "label": {
+          "uk": "Test",
+          "en": "Test"
+        },
         "href": "/"
       }
     ]
@@ -17,7 +30,7 @@
   "footer": {
     "links": [
       {
-        "label": "Нове посилання",
+        "label": {},
         "href": "/"
       }
     ]

@@ -1,8 +1,8 @@
 import siteConfig from './content/site-config.json';
 
 export interface SiteConfig {
-  siteTitle: string;
-  siteDescription: string;
+  siteTitle: Record<string, string>;
+  siteDescription: Record<string, string>;
   author: string;
   defaultLanguage: string;
   isIndexing?: boolean;

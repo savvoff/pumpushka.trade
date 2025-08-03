@@ -2,11 +2,17 @@
 import { Image } from 'astro:assets';
 import { Icon } from 'astro-icon/components';
 import HeaderLink from '@components/HeaderLink.astro';
-import { DEFAULT_LANG, SITE_TITLE } from '../constants';
+import { useI18n } from '@utils/translate';
+import { SITE_TITLE } from '../constants';
+import config from '../content/site-config.json';
+
+type Props = {
+  locale: string;
+}
 
 type MenuItem = {
   image: string;
-  label: string;
+  label:  Record<string, string>;
   href: string;
 };
 
@@ -14,10 +20,11 @@ interface Header {
   logo: string;
   menu: MenuItem[];
   botLink: string;
-  botLinkTitle: string;
+  botLinkTitle: Record<string, string>;
 }
 
-import config from '../content/site-config.json';
+const { locale } = Astro.props;
+const t = useI18n(locale);
 const header = config.header as Header;
 ---
 
@@ -47,7 +54,7 @@ const header = config.header as Header;
           class="relative font-heading text-2xl uppercase text-nowrap brand"
           href={Astro.url.origin}
         >
-          <img src={header.logo} alt={SITE_TITLE} />
+          <img src={header.logo} alt={ t(SITE_TITLE) } />
         </a>
         <a class="relative" href={header.botLink} target="_blank">
           <Icon name="telegram" class="shrink-0" size={32} />
@@ -68,9 +75,9 @@ const header = config.header as Header;
                 class="flex items-center gap-3 text-2xl"
                 href={Astro.url.origin + item.href}>
                 <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <img src={item.image} alt={SITE_TITLE} />
+                  <img src={item.image} alt={ t(SITE_TITLE) } />
                 </span>
-                {item.label}
+                { t(item.label) }
               </HeaderLink>
             </li>
             ))}
@@ -78,24 +85,24 @@ const header = config.header as Header;
           <div class="p-0.5 pl-4 border-2 rounded-3xl lang-switcher">
             <div class="flex items-center gap-2 text-sm cursor-pointer">
               <p id="cur_lang" class="inline-flex justify-center font-black align-middle">
-                UK
+                { locale.toUpperCase() }
               </p>
               <span class="inline-block shrink-0">
                 <!-- <Icon name="arrow-down" /> -->
-                 <img class="border rounded-full w-8 h-8" src={`/${DEFAULT_LANG}.png`} alt={DEFAULT_LANG} />
+                 <img class="border rounded-full w-8 h-8" src={`/${locale}.png`} alt={ locale } />
               </span>
             </div>
             <ul class="gap-3 py-2 dropdown">
               <li>
-                <a href="#"> UK </a>
+                <a href="/"> UK </a>
               </li>
               <li>
-                <a href="#"> EN </a>
+                <a href="/en"> EN </a>
               </li>
             </ul>
           </div>
-          <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href={header.botLink} target="_blank">
-            <span class="truncate">{header.botLinkTitle}</span>
+          <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href={ header.botLink } target="_blank">
+            <span class="truncate">{ t(header.botLinkTitle) }</span>
             <Icon name="telegram" class="shrink-0" size={32} />
           </a>          
         </nav>

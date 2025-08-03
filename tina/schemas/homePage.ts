@@ -15,18 +15,29 @@ export const homePage: Collection = {
     {
       name: 'heroTitle',
       label: 'Hero: Заголовок',
-      type: 'rich-text',
-      toolbarOverride: ['heading', 'bold', 'italic'],
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+        { name: 'en', label: 'English', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+      ],
     },
     {
       name: 'heroSubtitle',
       label: 'Hero: Підзаголовок',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
     {
       name: 'heroButtonText',
       label: 'Hero: Текст кнопки',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
     {
       name: 'heroButtonUrl',
@@ -36,65 +47,106 @@ export const homePage: Collection = {
     {
       name: 'featuresTitle',
       label: 'Список можливостей: Заголовок',
-      type: 'rich-text',
-      toolbarOverride: ['heading', 'bold', 'italic'],
+      type: 'object',
+      fields: [
+        { name: 'uk', type: 'rich-text', label: 'Українська', toolbarOverride: ['heading', 'bold', 'italic'] },
+        { name: 'en', type: 'rich-text', label: 'English', toolbarOverride: ['heading', 'bold', 'italic'] },
+      ],
     },
     {
       name: 'features',
       label: 'Список можливостей',
-      type: 'string',
+      type: 'object',
       list: true,
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
+
     {
       name: 'howItWorksTitle',
       label: 'Як працює бот: Заголовок',
-      type: 'rich-text',
-      toolbarOverride: ['heading', 'bold', 'italic'],
+      type: 'object',
+      fields: [
+        { name: 'uk', type: 'rich-text', label: 'Українська', toolbarOverride: ['heading', 'bold', 'italic'] },
+        { name: 'en', type: 'rich-text', label: 'English', toolbarOverride: ['heading', 'bold', 'italic'] },
+      ],
     },
+
     {
       name: 'howItWorksVideo',
       label: 'Як працює бот: Відео',
       type: 'string',
     },
+
     {
       name: 'howItWorks',
-      label: 'Як працює бот',
-      type: 'string',
+      label: 'Як працює бот: Кроки',
+      type: 'object',
       list: true,
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
+
     {
       name: 'testTitle',
       label: 'Тестуй: Заголовок',
-      type: 'string',
-      ui: {
-        component: 'textarea',
-      },
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string', ui: { component: 'textarea' } },
+        { name: 'en', label: 'English', type: 'string', ui: { component: 'textarea' } },
+      ],
     },
+
     {
       name: 'testButtonText',
       label: 'Тестуй: Текст кнопки',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
+
     {
       name: 'testButtonUrl',
       label: 'Тестуй: Посилання на кнопку',
       type: 'string',
     },
+
     {
       name: 'tariffsTitle',
       label: 'Тарифи: Заголовок',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
+
     {
       name: 'tariffsSubTitle',
       label: 'Тарифи: Підзаголовок',
-      type: 'string',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
     },
+
     {
       name: 'tariffs',
       label: 'Тарифи',
       type: 'object',
       list: true,
+      ui: {
+        itemProps: (item) => ({
+          label: item?.title?.uk ?? 'Новий тариф',
+        }),
+      },
       fields: [
         {
           name: 'isPopular',
@@ -109,7 +161,11 @@ export const homePage: Collection = {
         {
           name: 'title',
           label: 'Назва тарифу',
-          type: 'string',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
         },
         {
           name: 'price',
@@ -119,18 +175,30 @@ export const homePage: Collection = {
         {
           name: 'description',
           label: 'Опис',
-          type: 'string',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
         },
         {
           name: 'benefits',
           label: 'Переваги',
-          type: 'string',
+          type: 'object',
           list: true,
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
         },
         {
           name: 'buttonText',
           label: 'Текст кнопки',
-          type: 'string',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
         },
         {
           name: 'buttonUrl',
@@ -143,11 +211,6 @@ export const homePage: Collection = {
           type: 'image',
         },
       ],
-      ui: {
-        itemProps: (item) => ({
-          label: item?.title ?? 'Новий тариф',
-        }),
-      },
     },
   ],
 };

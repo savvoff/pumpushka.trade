@@ -1,11 +1,16 @@
 ---
-// import { Image } from 'astro:assets';
 import SocialsButtons from '@components/SocialsButtons.astro';
+import { useI18n } from '@utils/translate';
 import { SITE_TITLE, AUTHOR } from '../constants';
+import config from '../content/site-config.json';
+
+type Props = {
+  locale: string;
+}
 
 type SocialItem = {
   icon: string;
-  label: string;
+  label: Record<string, string>;
   href: string;
 };
 
@@ -13,7 +18,8 @@ interface Footer {
   links: SocialItem[];
 }
 
-import config from '../content/site-config.json';
+const { locale } = Astro.props;
+const t = useI18n(locale);
 const today = new Date();
 const footer = config.footer as Footer;
 ---
@@ -23,14 +29,14 @@ const footer = config.footer as Footer;
 	<div class="md:text-left text-center container">
     <div class="flex md:flex-row flex-col md:justify-between space-y-8 md:space-y-0 mx-auto md:mx-0">
       <a class="mx-auto md:mx-0 w-40 font-heading brand" href={Astro.url.origin}>
-        <span class="text-white uppercase tracking-widest">{ SITE_TITLE }</span>
+        <span class="text-white uppercase tracking-widest">{ t(SITE_TITLE) }</span>
       </a>
       <SocialsButtons class="mx-auto md:mx-0" />
       <ul class="hidden mt-8 font-medium">
         {footer.links && footer.links.map((item) => (
           <li class="group">
             <a class="inline-flex bg-white/[0.2] rounded-full w-11 h-11" href={item.href} target="_blank" rel="noopener noreferrer">
-              <img class="relative m-auto w-5 h-5 scale-100 group-hover:scale-90 transition-transform duration-500" src={item.icon} alt={item.label} />
+              <img class="relative m-auto w-5 h-5 scale-100 group-hover:scale-90 transition-transform duration-500" src={item.icon} alt={ t(item.label) } />
             </a>
           </li>
         ))}
@@ -38,7 +44,7 @@ const footer = config.footer as Footer;
     </div>
 		<div class="flex flex-wrap justify-center md:justify-between gap-x-8 gap-y-4 mt-8 py-10 border-white/[0.3] border-t text-sm">
 			<p class="text-white/[0.5]">
-				&copy; { today.getFullYear() + ' ' + SITE_TITLE }. All rights reserved
+				&copy; { today.getFullYear() + ' ' + t(SITE_TITLE) }. All rights reserved
 			</p>
 			<p class="text-white/[0.5]">
 				Designed by { AUTHOR }

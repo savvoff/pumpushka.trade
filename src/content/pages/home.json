@@ -1,82 +1,130 @@
 {
-  "heroTitle": "твій AI-бот\nдля трейдінгу\n*в балансі*\n",
-  "heroSubtitle": "3 дні безкоштовно",
-  "heroButtonText": "ЗАПУСТИТИ У ТЕЛЕГРАМ",
+  "heroTitle": {
+    "uk": "твій AI-бот\nдля трейдінгу\n*в балансі*\n",
+    "en": "your AI-bot\nfor trading\n*in balance*\n"
+  },
+  "heroSubtitle": {
+    "uk": "3 дні безкоштовно",
+    "en": "3 days free"
+  },
+  "heroButtonText": {
+    "uk": "ЗАПУСТИТИ У ТЕЛЕГРАМ",
+    "en": "START IN TELEGRAM"
+  },
   "heroButtonUrl": "https://t.me/pumpushka_bot",
-  "featuresTitle": "що *вміє* бот?\n",
+  "featuresTitle": {
+    "uk": "що *вміє* бот?\n",
+    "en": "what *can* a bot do?\n"
+  },
   "features": [
-    "Аналізує графік, обʼєми, волатильність, EMA, MACD, RSI",
-    "Враховує фінансування, open interest, позиції ринку",
-    "Додає макро-фактори: новини, BTC.D, greed index",
-    "Розраховує TP/SL, RRR і дає signal success percent",
-    "Покриває top монети на таймфреймах 15m / 30m / 1h / 4h",
-    "Показує performance активу за 1 рік (Sharpe, Sortino, Calmar)"
+    {
+      "uk": "Аналізує графік, обʼєми, волатильність, EMA, MACD, RSI",
+      "en": "Analyzes chart, volumes, volatility, EMA, MACD, RSI"
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
   ],
-  "howItWorksTitle": "як працює бот?\n",
+  "howItWorksTitle": {
+    "uk": "як *працює* бот?\n",
+    "en": "how does the bot *work*?\n"
+  },
   "howItWorks": [
-    "Обробляє теханаліз, настрої ринку, фандінг, OI, макро.",
-    "Видає сигнал з TP/SL і success rate.",
-    "Все — мовою, якою ти думаєш."
+    {
+      "uk": "Обробляє теханаліз, настрої ринку, фандінг, OI, макро."
+    },
+    {
+      "uk": "Видає сигнал з TP/SL і success rate."
+    },
+    {
+      "uk": "Все — мовою, якою ти думаєш."
+    }
   ],
-  "testTitle": "Тестуй перші <span class=\"text-orange-100\"><em>3 дні — безкоштовно</em></span><br />\nПросто Telegram.\n",
-  "testButtonText": "ОТРИМАТИ СИГНАЛ",
+  "testTitle": {
+    "uk": "Тестуй перші <span class=\"text-orange-100\"><em>3 дні — безкоштовно</em></span><br>\nПросто Telegram.",
+    "en": "Test the first <span class=\"text-orange-100\"><em>3 days for free</em></span><br>\nJust Telegram."
+  },
+  "testButtonText": {
+    "uk": "ОТРИМАТИ СИГНАЛ",
+    "en": "RECEIVE SIGNAL"
+  },
   "testButtonUrl": "https://t.me/pumpushka_bot",
-  "tariffsTitle": "Тарифи",
-  "tariffsSubTitle": "Обери свій рівень пампушковості",
+  "tariffsTitle": {
+    "uk": "Тарифи",
+    "en": "Tariffs"
+  },
+  "tariffsSubTitle": {
+    "uk": "Обери свій рівень пампушковості",
+    "en": "Get your PUMPushka level"
+  },
   "tariffs": [
     {
       "image": "/media/angel.png",
-      "title": "Pump Free",
+      "title": {
+        "uk": "Pump Free",
+        "en": "Pump Free"
+      },
       "price": "ФРІ",
-      "description": "Спробуй безкоштовно — протестуй бот на повну!",
+      "description": {},
       "benefits": [
-        "30 сигналів",
-        "3 дні доступу"
+        {},
+        {}
       ],
-      "buttonText": "СТАРТ",
+      "buttonText": {},
       "buttonUrl": "https://t.me/pumpushka_bot",
       "buttonIcon": "/media/free.png"
     },
     {
       "image": "/media/devil.png",
-      "title": "Pump Premium",
+      "title": {
+        "uk": "Pump Premium",
+        "en": "Pump Premium"
+      },
       "price": "$17",
-      "description": "Для активних трейдерів, які хочуть більше",
+      "description": {},
       "benefits": [
-        "вартість 1 сигналу ~$0.056",
-        "300 сигналів",
-        "30 днів доступу"
+        {},
+        {},
+        {}
       ],
-      "buttonText": "Взяти PREMIUM",
+      "buttonText": {},
       "buttonUrl": "https://t.me/pumpushka_bot",
       "buttonIcon": "/media/flame.png"
     },
     {
       "isPopular": true,
       "image": "/media/rich.png",
-      "title": "Pump PRO",
+      "title": {
+        "uk": "Pump Pro",
+        "en": "Pump Pro"
+      },
       "price": "$22",
-      "description": "Максимум сигналів — мінімум сумнівів",
+      "description": {},
       "benefits": [
-        "вартість 1 сигналу ~$0.036",
-        "600 сигналів",
-        "30 днів доступу"
+        {},
+        {},
+        {}
       ],
-      "buttonText": "Я хочу PRO",
+      "buttonText": {},
       "buttonUrl": "https://t.me/pumpushka_bot",
       "buttonIcon": "/media/diamond.png"
     },
     {
       "image": "/media/king.png",
-      "title": "Pump VIP",
+      "title": {
+        "uk": "Pump Vip",
+        "en": "Pump Vip"
+      },
       "price": "$30",
-      "description": "Лише для тих, хто грає по-крупному 👑",
+      "description": {},
       "benefits": [
-        "вартість 1 сигналу ~$0.033",
-        "900 сигналів",
-        "30 днів доступу"
+        {},
+        {},
+        {}
       ],
-      "buttonText": "БЕРУ МАКСИМУМ!",
+      "buttonText": {},
       "buttonUrl": "https://t.me/pumpushka_bot",
       "buttonIcon": "/media/crown.png"
     }
