@@ -18,10 +18,6 @@
   },
   "features": [
     {
-      "uk": "...і це тільки частина того, що він вміє.",
-      "en": "...and that's just part of what he can do."
-    },
-    {
       "uk": "Аналізує графік, обʼєми, волатильність, EMA, MACD, RSI",
       "en": "Analyzes chart, volumes, volatility, EMA, MACD, RSI"
     },
@@ -44,6 +40,10 @@
     {
       "uk": "Показує performance активу за 1 рік (Sharpe, Sortino, Calmar)",
       "en": "Shows the asset's performance for 1 year (Sharpe, Sortino, Calmar)"
+    },
+    {
+      "uk": "...і це тільки частина того, що він вміє",
+      "en": "...and that's just part of what he can do"
     }
   ],
   "howItWorksTitle": {
