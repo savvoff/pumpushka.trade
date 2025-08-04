@@ -52,16 +52,16 @@
   },
   "howItWorks": [
     {
-      "uk": "💬 Ти пишете боту в Telegram",
-      "en": " 💬 You are writing to the bot in Telegram"
+      "uk": "Пишеш боту в Telegram, через команду /start або /analyze",
+      "en": " 💬 Writing to the bot in Telegram by command /start or /analyze"
     },
     {
       "uk": "✅ Після перевірки доступу отримуєш доступ до інструментів",
       "en": " ✅ After verification of access, you get access to the tools"
     },
     {
-      "uk": "📩 Ти отримаєш детальний аналіз у форматі зручного повідомлення",
-      "en": " 📩 You will receive a detailed analysis in a convenient message format"
+      "uk": "📩 Ти отримаєш детальний аналіз у форматі зручного повідомлення (включаючи аналіз торгової пари, метрики і сигнал)",
+      "en": " 📩 You will receive a detailed analysis in a convenient message format (includes symbol market analysis, metrics and signal)"
     },
     {
       "uk": "Все — мовою, якою ти думаєш.",
