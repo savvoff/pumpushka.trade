@@ -20,18 +20,60 @@
       {
         "image": "/media/menu-link-glasses.png",
         "label": {
-          "uk": "Test",
-          "en": "Test"
+          "uk": "що вміє бот?",
+          "en": "what can a bot do?"
         },
-        "href": "/"
+        "href": "#skills"
+      },
+      {
+        "image": "/media/menu-link.png",
+        "label": {
+          "uk": "як працює?",
+          "en": "how does work?"
+        },
+        "href": "#how-works"
+      },
+      {
+        "image": "/media/menu-link-cta.png",
+        "label": {
+          "uk": "тарифи",
+          "en": "tariffs"
+        },
+        "href": "#tariffs"
+      },
+      {
+        "image": "/media/menu-link-lol.png",
+        "label": {
+          "uk": "контакти",
+          "en": "contacts"
+        },
+        "href": "#page-footer"
       }
     ]
   },
   "footer": {
     "links": [
       {
-        "label": {},
-        "href": "/"
+        "icon": "/media/thread.png",
+        "label": {
+          "uk": "Threads",
+          "en": "Threads"
+        },
+        "href": {
+          "uk": "https://www.threads.com/@savv.off",
+          "en": "https://www.threads.com/@savv.off"
+        }
+      },
+      {
+        "icon": "/media/telegram.png",
+        "label": {
+          "uk": "Телеграм канал",
+          "en": "Telegram channel"
+        },
+        "href": {
+          "uk": "http://t.me/pumpushka_official_ua",
+          "en": "http://t.me/pumpushka_official"
+        }
       }
     ]
   }
