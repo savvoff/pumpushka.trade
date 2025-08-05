@@ -160,10 +160,6 @@
       },
       "benefits": [
         {
-          "uk": "повідомлення wale alerts ",
-          "en": "wale alerts message"
-        },
-        {
           "uk": "вартість 1 сигналу ~$0.1",
           "en": "cost of 1 signal ~$0.1"
         },
@@ -174,6 +170,10 @@
         {
           "uk": "30 днів доступу",
           "en": "30 days of access"
+        },
+        {
+          "uk": "повідомлення wale alerts ",
+          "en": "wale alerts message"
         }
       ],
       "buttonText": {
