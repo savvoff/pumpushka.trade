@@ -75,7 +75,7 @@ const header = config.header as Header;
                 class="flex items-center gap-3 text-2xl"
                 href={Astro.url.origin + item.href}>
                 <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                  <img src={item.image} alt={ t(SITE_TITLE) } />
+                  <img class="w-full" src={item.image} alt={ t(SITE_TITLE) } />
                 </span>
                 { t(item.label) }
               </HeaderLink>
@@ -149,11 +149,11 @@ const header = config.header as Header;
     const target = ev.target as HTMLElement;
     if (!target) return;
 
-    if (target.closest("li")) {
-      target.closest("li")?.classList.toggle("show-submenu");
-    } else {
-      document.querySelector(".show-submenu")?.classList.remove("show-submenu");
-    }
+    // if (target.closest("li")) {
+    //   target.closest("li")?.classList.toggle("show-submenu");
+    // } else {
+    //   document.querySelector(".show-submenu")?.classList.remove("show-submenu");
+    // }
 
     if (target.closest(".lang-switcher")) {
       target.closest(".lang-switcher")?.classList.toggle("show-langs");
