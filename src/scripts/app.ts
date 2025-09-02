@@ -1,6 +1,13 @@
 import opts from './options';
 import sliders from './sliders';
 
+ interface AccordionElements {
+  item: HTMLElement;
+  trigger: HTMLElement;
+  panel: HTMLElement;
+  icon: HTMLElement;
+}
+
 const setIntersectionObserver = (section: HTMLElement, callback: Function) => {
   const target = section;
 
@@ -49,7 +56,37 @@ class App implements AppInterface {
   initSliders() {
     sliders.forEach((item) => item.mount());
     this.sliders = sliders;
-  } 
+  }
+
+
+  initAccordion(cls = '.accordion-item') {
+    const accordionItems = document.querySelectorAll<HTMLElement>(cls);
+    const accordionElements: AccordionElements[] = Array.from(accordionItems).map((item) => {
+      const trigger = item.querySelector<HTMLElement>('.accordion-trigger')!;
+      const panel = item.querySelector<HTMLElement>('.accordion-panel')!;
+      const icon = item.querySelector<HTMLElement>('.accordion-icon')!;
+
+      return { item, trigger, panel, icon };
+    });
+
+    accordionElements.forEach(({ item, trigger, panel, icon }) => {
+      trigger.addEventListener('click', () => {
+        const expanded = item.getAttribute('aria-expanded') === 'true';
+
+        accordionElements.forEach((el) => {
+          el.item.setAttribute('aria-expanded', 'false');
+          el.panel.style.maxHeight = '0px';
+          el.icon.classList.remove('rotate-90');
+        });
+
+        if (!expanded) {
+          item.setAttribute('aria-expanded', 'true');
+          panel.style.maxHeight = panel.scrollHeight + 'px';
+          icon.classList.add('rotate-90');
+        }
+      });
+    });
+  }
 
   watchBlocks(cls = '[data-watch]') {
     [...document.querySelectorAll<HTMLElement>(cls)].forEach((el) => {
@@ -107,6 +144,7 @@ class App implements AppInterface {
       console.info('Debug is ON');
     }
     this.watchBlocks();
+    this.initAccordion();
     // this.initValidation();
     this.initSliders();
     document.dispatchEvent(this._initScriptsEvent);

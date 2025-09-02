@@ -77,7 +77,7 @@ export const homePage: Collection = {
     {
       name: 'howItWorksVideo',
       label: 'Як працює бот: Відео',
-      type: 'string',
+      type: 'image',
     },
 
     {
@@ -144,7 +144,7 @@ export const homePage: Collection = {
       list: true,
       ui: {
         itemProps: (item) => ({
-          label: item?.title?.uk ?? 'Новий тариф',
+          label: item?.title?.uk || item?.title?.en || 'Новий тариф',
         }),
       },
       fields: [
@@ -209,8 +209,58 @@ export const homePage: Collection = {
           name: 'buttonIcon',
           label: 'Іконка кнопки',
           type: 'image',
-        },
+        },        
       ],
     },
+    {
+      name: 'tariffsHint',
+      label: 'Тарифи: Помітка',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'string' },
+        { name: 'en', label: 'English', type: 'string' },
+      ],
+    },
+
+    {
+      name: 'faqTitle',
+      label: 'ЧаПи: Заголовок',
+      type: 'object',
+      fields: [
+        { name: 'uk', type: 'rich-text', label: 'Українська', toolbarOverride: ['heading', 'bold', 'italic'] },
+        { name: 'en', type: 'rich-text', label: 'English', toolbarOverride: ['heading', 'bold', 'italic'] },
+      ],
+    },
+    {
+      name: 'faqList',
+      label: 'Список ЧаПи',
+      type: 'object',
+      list: true,
+      ui: {
+        itemProps: (item) => ({
+          label: item?.title?.uk || item?.title?.en || 'ЧаПи пункт',
+        }),
+      },
+      fields: [
+        {
+          name: 'title',
+          label: 'Заголовок',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'string' },
+            { name: 'en', label: 'English', type: 'string' },
+          ],
+        },
+        {
+          name: 'content',
+          label: 'Контент',
+          type: 'object',
+          fields: [
+            { name: 'uk', label: 'Українська', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+            { name: 'en', label: 'English', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+          ],
+        },
+      ],
+    }
   ],
 };

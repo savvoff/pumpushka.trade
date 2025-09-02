@@ -7,35 +7,7 @@ import Article from '@components/Article.astro';
 import MdContent from '@components/MdContent.astro';
 import { useI18n } from '@utils/translate';
 import { SITE_DESCRIPTION, SITE_TITLE, TRANSLATIONS } from 'src/constants';
-
-interface Tariff {
-  isPopular: boolean;
-  image: string;
-  title: Record<string, string>;
-  price: string;
-  description: Record<string, string>;
-  benefits: Record<string, string>[];
-  buttonText: Record<string, string>;
-  buttonUrl: string;
-  buttonIcon: string;
-}
-
-interface HomePageContent {
-  heroTitle: Record<string, string>;
-  heroSubtitle: Record<string, string>;
-  heroButtonText: Record<string, string>;
-  heroButtonUrl: string;
-  featuresTitle: Record<string, string>;
-  features: Record<string, string>[];
-  howItWorksTitle: Record<string, string>;
-  howItWorks: Record<string, string>[];
-  testTitle: Record<string, string>;
-  testButtonText: Record<string, string>;
-  testButtonUrl: string;
-  tariffsTitle: Record<string, string>;
-  tariffsSubTitle: Record<string, string>;
-  tariffs: Tariff[];
-}
+import type { HomePageContent } from 'src/types';
 
 import home from '../content/pages/home.json';
 const content = home as HomePageContent;
@@ -135,7 +107,10 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
       <div class="flex flex-col">
         <h2 class="mb-6 text-4xl"><MdContent content={ t(content.howItWorksTitle) } /></h2>
         <div class="relative bg-dark mr-9 mb-28 border-10 border-black max-h-96 aspect-7/12">
-          <div class="right-0 bottom-0 absolute translate-x-1/2 translate-y-2/3">
+          <video class="w-full h-full" controls preload="none" poster="/poster.jpg">
+            <source src={content.howItWorksVideo} type="video/mp4">
+          </video>
+          <div class="right-0 bottom-0 absolute translate-x-1/2 translate-y-2/3 pointer-events-none">
             <Image
               class="mx-auto w-auto max-h-72"
               src={import("public/candle-finger.png")}
@@ -243,11 +218,55 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
             </li>
             ))}
         </div>
+        <p class="my-2 font-medium text-lg tracking-tight">{ t(content.tariffsHint) }</p>
       </div>
     </div>
     <div class="bg-orange-200 py-1">
       <div class="block font-heading text-lg uppercase whitespace-nowrap animate-[marquee_20000ms_linear_alternate_infinite]">
         <Fragment set:html={ Array(12).fill(advText).join('&nbsp;&nbsp;&nbsp;') } />
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" class="bg-black py-10 overflow-hidden page-section">
+    <div class="top-0 left-0 absolute flex justify-between items-center gap-3 w-full h-full">
+      <div class="py-3 h-full max-h-[80vh]">
+        <Image
+          class="w-auto h-full object-contain"
+          src={import("public/bear.png")}
+          format="webp"
+          alt="Bear"
+        />
+      </div>
+      <div class="py-3 h-full max-h-[80vh]">
+         <Image
+          class="w-auto h-full object-contain"
+          src={import("public/bull.png")}
+          format="webp"
+          alt="Bull"
+        />
+      </div>
+    </div>
+    <div class="relative bg-black mb-5 rounded container">
+      <div class="space-y-20">
+        <Article class="text-white">
+         <h2><MdContent content={ t(content.faqTitle) } /></h2>
+         <ul class="space-y-2">
+          {content.faqList && content.faqList.map((item) => (
+            <li class="bg-clip-padding bg-gradient-to-br from-gold/20 border-2 border-gold/20 rounded-xl accordion-item" aria-expanded="false">
+              <div class="flex items-center gap-3 px-4 py-3 accordion-trigger">
+                { t(item.title) }
+                <span class="inline-flex bg-black ml-auto border border-gold/30 rounded-full w-8 h-8 transition accordion-icon">
+                  <Icon name="arrow" class="m-auto text-gold" size={18} />
+                </span>
+              </div>
+              <div class="max-h-0 overflow-hidden transition-all accordion-panel">
+                <div class="px-4 py-3">{ t(item.content) }</div>
+              </div>
+            </li>
+          ))}
+         </ul>
+        </Article>
       </div>
     </div>
   </section>
