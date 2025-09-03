@@ -1,0 +1,8 @@
+# production
+User-agent: *
+Allow: /
+
+# Tina admin
+Disallow: /admin/
+Disallow: /tina/
+Disallow: /api/tina/
