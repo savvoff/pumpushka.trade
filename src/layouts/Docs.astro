@@ -1,4 +1,5 @@
 ---
+import { Icon } from 'astro-icon/components';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import LeftSidebar from '@components/LeftSidebar.astro';
@@ -26,21 +27,33 @@ const {
 	<body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
 		<Header locale={lang} />
 		<div class="grid grid-cols-12 pt-24">
-			<div class="top-12 sticky flex col-span-3 mt-12 h-screen">
-				<div class="ml-auto">
+			<div class="group top-12 left-0 fixed lg:sticky flex col-span-3 mt-12 h-screen transition -translate-x-64 lg:translate-x-0 navigation">
+				<div class="flex items-start gap-x-4 ml-auto">
 					<LeftSidebar currentPage={content.slug} sidebar={sidebar} />
+          <button class="lg:hidden flex bg-blue-200 hover:bg-blue my-1 px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
+            <Icon name="burger" class="hidden group-[.-translate-x-64]:inline m-auto" size={22} />
+            <Icon name="arrow" class="group-[.-translate-x-64]:hidden m-auto -scale-100" size={22} />
+          </button>
 				</div>
 			</div>
-			<main class="col-span-6 mt-12 pb-32 overflow-auto container">        
+			<main class="col-span-full lg:col-span-9 xl:col-span-6 mt-12 pb-32 max-lg:pl-20 overflow-auto container">        
         <PageContent content={content} lang={lang}>
           <slot />
         </PageContent>
 			</main>
-			<div class="top-12 sticky flex col-span-2 mt-24 h-screen">
+			<div class="hidden top-12 sticky xl:flex col-span-3 mt-24 h-screen">
 				<RightSidebar headings={headings} />
 			</div>
 		</div>
 	</body>	
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      const nav = document.querySelector('.navigation');
+      document.querySelector('.show-nav')?.addEventListener('click', () => {
+        nav?.classList.toggle('-translate-x-64');
+      });
+    });
+  </script>
 	<script>
 		import '../scripts/app.ts';
 	</script>
