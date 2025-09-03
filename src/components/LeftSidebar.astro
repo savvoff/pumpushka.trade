@@ -30,8 +30,8 @@ const getLinkClasses = (link: SideBarType) => {
 	}
 }
 ---
-<aside title="Site Navigation">
-	<nav aria-labelledby="grid-left" class="bg-slate-100 px-4 border-r w-64">
+<aside title="Site Navigation" class="max-lg:bg-white rounded-e-xl lg:rounded-none">
+	<nav aria-labelledby="grid-left" class="px-4 border-r w-64">
 		<ul>
 			{sidebar.map(item => (item.header ? 
 				<h2 class="mt-4 font-semibold text-slate-700">{item.text}</h2> : 

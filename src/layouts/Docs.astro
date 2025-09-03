@@ -30,13 +30,13 @@ const {
 			<div class="group top-12 left-0 fixed lg:sticky flex col-span-3 mt-12 h-screen transition -translate-x-64 lg:translate-x-0 navigation">
 				<div class="flex items-start gap-x-4 ml-auto">
 					<LeftSidebar currentPage={content.slug} sidebar={sidebar} />
-          <button class="lg:hidden flex bg-blue-200 hover:bg-blue my-1 px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
+          <button class="lg:hidden flex bg-blue-200 hover:bg-blue px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
             <Icon name="burger" class="hidden group-[.-translate-x-64]:inline m-auto" size={22} />
             <Icon name="arrow" class="group-[.-translate-x-64]:hidden m-auto -scale-100" size={22} />
           </button>
 				</div>
 			</div>
-			<main class="col-span-full lg:col-span-9 xl:col-span-6 mt-12 pb-32 max-lg:pl-20 overflow-auto container">        
+			<main class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 pb-32 max-lg:pl-20 overflow-auto container">        
         <PageContent content={content} lang={lang}>
           <slot />
         </PageContent>
