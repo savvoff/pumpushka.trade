@@ -6,7 +6,8 @@
     "dev": "tinacms dev -c \"astro dev\"",
     "build": "tinacms build && rm -f public/admin/.gitignore && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "postinstall": "pnpm rebuild better-sqlite3"
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
@@ -32,8 +33,5 @@
     "ignoredBuiltDependencies": [
       "esbuild"
     ]
-  },
-  "engines": {
-    "node": "20.x"
   }
 }
