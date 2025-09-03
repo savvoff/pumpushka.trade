@@ -1,26 +1,22 @@
 ---
-type SideBarType = {
-  text: string;
-  link?: string;
-  header?: boolean;
-};
+import type { SidebarItem } from 'src/types';
 
 type Props = {
-  sidebar: SideBarType[];
+  sidebar: SidebarItem[];
   currentPage: string;
 }
 
 const { currentPage, sidebar } = Astro.props;
 const currentPageMatch = currentPage.slice(1);
 
-const isCurrentPage = (item: SideBarType) => {
+const isCurrentPage = (item: SidebarItem) => {
 	if (item.link) {
 		return item.link.includes(currentPageMatch);
 	}
 	return false;
 };
 
-const getLinkClasses = (link: SideBarType) => {
+const getLinkClasses = (link: SidebarItem) => {
 	const baseClasses = 'block py-2 px-6 my-1 transition-colors border-l hover:border-slate-400 text-slate-500 hover:text-slate-900'
 
 	if (isCurrentPage(link)) {

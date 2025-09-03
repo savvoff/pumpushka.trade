@@ -17,6 +17,7 @@ const {
   headings,
   sidebar
 } = Astro.props;
+
 ---
 
 <html class="scroll-smooth" lang={lang}>
@@ -37,7 +38,7 @@ const {
 				</div>
 			</div>
 			<main class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 pb-32 max-lg:pl-20 overflow-auto container">        
-        <PageContent content={content} lang={lang}>
+        <PageContent content={content} lang={lang} sidebar={sidebar}>
           <slot />
         </PageContent>
 			</main>
