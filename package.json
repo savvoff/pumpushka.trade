@@ -32,5 +32,8 @@
     "ignoredBuiltDependencies": [
       "esbuild"
     ]
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
