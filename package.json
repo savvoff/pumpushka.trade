@@ -4,10 +4,9 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "tinacms build && rm -f public/admin/.gitignore && astro build",
+    "build": "tinacms build --skip-search-index && rm -f public/admin/.gitignore && astro build",
     "preview": "astro preview",
-    "astro": "astro",
-    "postinstall": "pnpm rebuild better-sqlite3"
+    "astro": "astro"
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
