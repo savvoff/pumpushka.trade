@@ -1,7 +1,7 @@
 ---
 import SocialsButtons from '@components/SocialsButtons.astro';
 import { useI18n } from '@utils/translate';
-import { SITE_TITLE, AUTHOR } from '../constants';
+import { SITE } from '../constants';
 import config from '../content/site-config.json';
 
 type Props = {
@@ -29,7 +29,7 @@ const footer = config.footer as Footer;
 	<div class="md:text-left text-center container">
     <div class="flex md:flex-row flex-col md:justify-between space-y-8 md:space-y-0 mx-auto md:mx-0">
       <a class="mx-auto md:mx-0 w-40 font-heading brand" href={Astro.url.origin}>
-        <span class="text-white uppercase tracking-widest">{ t(SITE_TITLE) }</span>
+        <span class="text-white uppercase tracking-widest">{ t(SITE.title) }</span>
       </a>
       <SocialsButtons class="mx-auto md:mx-0">
         {footer.links && footer.links.map((item) => (
@@ -43,10 +43,10 @@ const footer = config.footer as Footer;
     </div>
 		<div class="flex flex-wrap justify-center md:justify-between gap-x-8 gap-y-4 mt-8 py-10 border-white/[0.3] border-t text-sm">
 			<p class="text-white/[0.5]">
-				&copy; { today.getFullYear() + ' ' + t(SITE_TITLE) }. All rights reserved
+				&copy; { today.getFullYear() + ' ' + t(SITE.title) }. All rights reserved
 			</p>
 			<p class="text-white/[0.5]">
-				Designed by { AUTHOR }
+				Designed by { SITE.author }
 			</p>
 		</div>
 	</div>

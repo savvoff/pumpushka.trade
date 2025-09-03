@@ -1,5 +1,5 @@
 import { defineConfig } from 'tinacms';
-import { siteConfig, homePage } from './schemas';
+import { siteConfig, homePage, docPage } from './schemas';
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -30,7 +30,16 @@ export default defineConfig({
   schema: {
     collections: [
       siteConfig,
-      homePage
+      homePage,
+      docPage
     ],
+  },
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_TOKEN,
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });

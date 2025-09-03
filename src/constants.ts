@@ -10,26 +10,28 @@ export interface SiteConfig {
 
 const typedConfig = siteConfig as SiteConfig;
 
-const SITE_TITLE = typedConfig.siteTitle;
-const SITE_DESCRIPTION = typedConfig.siteDescription;
-const AUTHOR = typedConfig.author;
-const DEFAULT_LANG = typedConfig.defaultLanguage;
-const ALLOW_ROBOTS = typedConfig.isIndexing;
+const SITE = {
+  title: typedConfig.siteTitle,
+  description: typedConfig.siteDescription,
+  defaultLanguage: typedConfig.defaultLanguage,
+  author: typedConfig.author,
+  robots: typedConfig.isIndexing
+};
 
 const TRANSLATIONS: Record<string, any> = {
   'uk': {
-    month: 'місяць'
+    month: 'місяць',
+    updated: 'Оновлено'
   },
   'en': {
-    month: 'month'
+    month: 'month',
+    updated: 'Updated'
   }
 };
 
+export type LangCode = keyof typeof TRANSLATIONS;
+
 export {
-  SITE_TITLE,
-  SITE_DESCRIPTION,
-  AUTHOR,
-  DEFAULT_LANG,
+  SITE,
   TRANSLATIONS,
-  ALLOW_ROBOTS
 }

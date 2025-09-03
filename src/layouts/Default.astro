@@ -3,14 +3,14 @@
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
-import { ALLOW_ROBOTS, DEFAULT_LANG } from '../constants';
+import { SITE } from '../constants';
 
-const { title, description, image, lang = DEFAULT_LANG } = Astro.props;
+const { title, description, image, lang = SITE.defaultLanguage } = Astro.props;
 ---
 
 <html class="scroll-smooth" lang={lang}>
 	<head>
-		<BaseHead title={title} description={description} image={image} allowRobots={ALLOW_ROBOTS} locale={lang} />
+		<BaseHead title={title} description={description} image={image} allowRobots={SITE.robots} locale={lang} />
 	</head>
 
 	<body class="flex flex-col min-h-screen has-[.show-menu]:overflow-hidden select-none">

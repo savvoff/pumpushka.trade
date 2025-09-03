@@ -23,7 +23,10 @@
           "uk": "що вміє бот?",
           "en": "what can a bot do?"
         },
-        "href": "#skills"
+        "href": {
+          "uk": "#",
+          "en": "#"
+        }
       },
       {
         "image": "/media/menu-link.png",
@@ -31,7 +34,7 @@
           "uk": "як працює?",
           "en": "how does work?"
         },
-        "href": "#how-works"
+        "href": {}
       },
       {
         "image": "/media/menu-link-cta.png",
@@ -39,7 +42,7 @@
           "uk": "тарифи",
           "en": "tariffs"
         },
-        "href": "#tariffs"
+        "href": {}
       },
       {
         "image": "/media/menu-link-lol.png",
@@ -47,7 +50,7 @@
           "uk": "контакти",
           "en": "contacts"
         },
-        "href": "#page-footer"
+        "href": {}
       }
     ]
   },

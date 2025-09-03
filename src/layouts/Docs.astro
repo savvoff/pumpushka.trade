@@ -1,0 +1,47 @@
+---
+import BaseHead from '@components/BaseHead.astro';
+import Header from '@components/Header.astro';
+import LeftSidebar from '@components/LeftSidebar.astro';
+import RightSidebar from '@components/RightSidebar.astro';
+import PageContent from '@components/PageContent.astro';
+
+import { SITE } from '../constants';
+
+const { 
+  title, 
+  description, 
+  image, 
+  lang = SITE.defaultLanguage, 
+  content = {}, 
+  headings,
+  sidebar
+} = Astro.props;
+---
+
+<html class="scroll-smooth" lang={lang}>
+	<head>
+		<BaseHead title={title} description={description} image={image} allowRobots={SITE.robots} locale={lang} />
+	</head>
+
+	<body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
+		<Header locale={lang} />
+		<div class="grid grid-cols-12 pt-24">
+			<div class="top-12 sticky flex col-span-3 mt-12 h-screen">
+				<div class="ml-auto">
+					<LeftSidebar currentPage={content.slug} sidebar={sidebar} />
+				</div>
+			</div>
+			<main class="col-span-6 mt-12 pb-32 overflow-auto container">        
+        <PageContent content={content} lang={lang}>
+          <slot />
+        </PageContent>
+			</main>
+			<div class="top-12 sticky flex col-span-2 mt-24 h-screen">
+				<RightSidebar headings={headings} />
+			</div>
+		</div>
+	</body>	
+	<script>
+		import '../scripts/app.ts';
+	</script>
+</html>

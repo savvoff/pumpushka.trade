@@ -1,3 +1,22 @@
+import type { LangCode } from './constants';
+
+export type FM = {
+  title: string;
+  lang: LangCode;
+  description: string;
+  navTitle?: string,
+  image?: string;
+  draft?: boolean;
+  publishedAt?: string | Date;
+  order?: number;
+};
+
+export type SidebarItem = { 
+  text: string; 
+  link?: string; 
+  header?: boolean 
+};
+
 export interface Tariff {
   isPopular: boolean;
   image: string;

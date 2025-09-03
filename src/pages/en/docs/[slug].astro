@@ -1,0 +1,53 @@
+---
+import type { MarkdownInstance } from 'astro';
+import DocsLayout from '@layouts/Docs.astro';
+import { buildDocsSidebar, pathToSlug } from '@utils/buildDocsSidebar';
+import type { FM } from 'src/types';
+
+export async function getStaticPaths() {
+  const enModules = import.meta.glob('/src/content/docs/**/*.en.md');
+
+  const entries = await Promise.all(
+    Object.entries(enModules).map(async ([path, load]) => {
+      const mod = (await load()) as MarkdownInstance<FM>;
+      if (mod.frontmatter?.draft) return null;
+
+      return {
+        params: { slug: pathToSlug(path, 'en') },
+        // Pass the loader so we don't need the glob later
+        props: { load },
+      };
+    })
+  );
+
+  return entries.filter(Boolean) as {
+    params: { slug: string };
+    props: { load: () => Promise<unknown> };
+  }[];
+}
+
+const { load } = Astro.props;
+const mod = (await load()) as MarkdownInstance<FM>;
+const { Content, frontmatter, getHeadings } = mod;
+const headings = getHeadings?.() ?? [];
+
+const title = frontmatter.title;
+const description = frontmatter.description;
+const image = frontmatter.image;
+const lang = 'en';
+
+const content = { ...frontmatter, slug: Astro.params.slug };
+const sidebar = await buildDocsSidebar(lang);
+---
+
+<DocsLayout
+  title={title}
+  description={description}
+  image={image}
+  lang={lang}
+  content={content}
+  headings={headings}
+  sidebar={sidebar}
+>
+  <Content />
+</DocsLayout>

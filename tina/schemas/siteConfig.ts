@@ -81,7 +81,7 @@ export const siteConfig: Collection = {
             itemProps: item => ({ label: item?.label?.uk }),
             defaultItem: () => ({
               label: { uk: 'Нове посилання', en: 'New Link' },
-              href: '/',
+              href: { uk: '/', en: '/' },
             }),
           },
           fields: [
@@ -95,7 +95,15 @@ export const siteConfig: Collection = {
                 { name: 'en', label: 'English', type: 'string' },
               ],
             },
-            { name: 'href', label: 'Посилання', type: 'string' },
+            {
+              name: 'href',
+              label: 'Посилання',
+              type: 'object',
+              fields: [
+                { name: 'uk', label: 'Українська', type: 'string' },
+                { name: 'en', label: 'English', type: 'string' },
+              ],
+            },
           ],
         },
       ],

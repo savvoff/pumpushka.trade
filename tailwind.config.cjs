@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 import defaultTheme from 'tailwindcss/defaultTheme';
+import colors from 'tailwindcss/colors';
 
 module.exports = {
   safelist: [
@@ -16,6 +17,7 @@ module.exports = {
       },
 		},
 		colors: {
+      ...colors,
 			'white': '#ffffff',
 			'black': '#000000', 
 			'red': '#ff0000',

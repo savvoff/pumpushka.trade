@@ -5,6 +5,8 @@
   "compilerOptions": {
     "strictNullChecks": true,
     "baseUrl": ".",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "@components/*": ["src/components/*"],
       "@layouts/*": ["src/layouts/*"],
