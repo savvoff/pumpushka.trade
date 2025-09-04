@@ -50,7 +50,7 @@
     "uk": "як *працює* бот?\n",
     "en": "how does the bot *work*?\n"
   },
-  "howItWorksVideo": "",
+  "howItWorksVideo": "/media/how-works.mp4",
   "howItWorks": [
     {
       "uk": " 💬 Пишеш боту в Telegram, через команду /start або /analyze",
@@ -232,22 +232,112 @@
   "faqList": [
     {
       "title": {
-        "uk": "Test",
-        "en": "Test"
+        "uk": "Що таке Pumpushka Bot і як він працює?",
+        "en": "What is Pumpushka Bot and how does it work?"
       },
       "content": {
-        "uk": "Актуальні котирування з Binance для оцінки співвідношення між обсягами покупок (bidQty) та продажів (askQty), а також розрахунку коефіцієнтів.\n",
-        "en": "Актуальні котирування з Binance для оцінки співвідношення між обсягами покупок (bidQty) та продажів (askQty), а також розрахунку коефіцієнтів.\n"
+        "uk": "Бот аналізує ринок на основі десятків факторів (теханаліз, деривативи, стакан, ончейн, новини, сентимент) і видає сигнали з TP/SL і заданим RR.\n",
+        "en": "The bot analyzes the market based on dozens of factors (technical analysis, derivatives, Stake, on-chain, news, sentiment) and issues signals with TP/SL and a given RR.\n"
       }
     },
     {
       "title": {
-        "uk": "Тест",
-        "en": "Test"
+        "uk": "Чи бот реально торгує за мене?",
+        "en": "Does the bot really trade for me?"
       },
       "content": {
-        "uk": "Отримання історичних даних (свічок) для аналізу ринкових трендів, підтримки/опору та визначення оптимальних точок входу та виходу.\n",
-        "en": "Отримання історичних даних (свічок) для аналізу ринкових трендів, підтримки/опору та визначення оптимальних точок входу та виходу.\n"
+        "uk": "Ні, він не відкриває угоди автоматично. Це аналітичний асистент, який допомагає приймати рішення.\n",
+        "en": "No, it does not open deals automatically. It is an analytical assistant that helps you make decisions.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Які дані бот враховує при аналізі?",
+        "en": "What data does the bot take into account during analysis?"
+      },
+      "content": {
+        "uk": "Свічки, order book, трейд-стрічку, деривативи (OI, funding, liquidations), волатильність, кореляції, ончейн-сигнали, новини і макро-події.\n",
+        "en": "Candlesticks, order book, trade tape, derivatives (OI, funding, liquidations), volatility, correlations, on-chain signals, news and macro events.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Як працює система TP/SL і стратегії?",
+        "en": "How does the TP/SL system and strategies work?"
+      },
+      "content": {
+        "uk": "Бот пропонує до 3 тейків та стоп за кількома стратегіями (normal, aggressive, conservative, safe), з урахуванням ризик/нагороди.\n",
+        "en": "The bot offers up to 3 TPs and SLs according to several strategies (normal, aggressive, conservative, safe), taking into account risk/reward.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Чи можна налаштувати під себе?",
+        "en": "Can I customize it?"
+      },
+      "content": {
+        "uk": "Так - є різні параметри: рівень ризику, стратегія TP/SL, відстежувані монети/улюблені монети, повідомлення про статус угоди.\n",
+        "en": "Yes - there are various parameters: risk level, TP/SL strategy, tracked coins/favorite coins, trade status notifications.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Чи потрібен досвід трейдингу, щоб користуватись ботом?",
+        "en": "Do I need trading experience to use the bot?"
+      },
+      "content": {
+        "uk": "Ні, базових знань вистачить (як користуватись біржею, як відкривати угоди). Але бот буде особливо корисним трейдерам, які хочуть швидко перевіряти ідеї, читати повну аналітику, знати статус ринку, бачити всі рівні ціни на графіку.\n",
+        "en": "No, basic knowledge is enough (how to use the exchange, how to open order). But the bot will be especially useful for traders who want to quickly test ideas, read full analytics, get market status, and see all price levels on the chart.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Чи можна довіряти сигналам на 100%?",
+        "en": "Can signals be trusted 100%?"
+      },
+      "content": {
+        "uk": "Ні - це інструмент для аналізу, а не гарантія результату. Користувач сам приймає фінальне рішення. Але в більшості випадків сигнал по боту відпрацьовує успішно.\n",
+        "en": "No - it is a tool for analysis, not a guarantee of the result. The user himself makes the final decision. But in most cases, the signal on the bot works successfully.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "На яких біржах можна використовувати сигнали?",
+        "en": "On which exchanges can signals be used?"
+      },
+      "content": {
+        "uk": "Сигнали універсальні (Binance, Bybit, OKX та інші). Важливо, щоб у біржі був потрібний інструмент (пара).\n",
+        "en": "The signals are universal (Binance, Bybit, OKX and others). It is important that the exchange has the required instrument (pair).\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Як швидко надходять сигнали і їх результати?",
+        "en": "How quickly do signals and their results arrive?"
+      },
+      "content": {
+        "uk": "Аналітика разом з сигналом приходить протягом 30 секунд. Відслідковування - у режимі реального часу, бот моніторить дані 24/7 і відправляє повідомлення одразу після спрацювання умов.\n",
+        "en": "Analytics along with the signal arrive within 30 seconds. Tracking - in real time, the bot monitors data 24/7 and sends messages immediately after the conditions are triggered.\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Як підключитись до бота?",
+        "en": "How to connect to the bot?"
+      },
+      "content": {
+        "uk": "Кроки підключення: натиснути /start, зареєструватись (поділитися номером телефону), вибрати тариф (або користуватися free період).\n",
+        "en": "Connection steps: click /start, register (share your phone number), choose a tariff (or use the free period).\n"
+      }
+    },
+    {
+      "title": {
+        "uk": "Чи зберігаються мої дані?",
+        "en": "Is my data stored?"
+      },
+      "content": {
+        "uk": "Так, мінімально необхідні дані зберігаються у захищеній базі, ніяких ключів для торгівлі не потрібно.\n",
+        "en": "Yes, the minimum necessary data is stored in a secure database, no trading keys are required.\n"
       }
     }
   ]

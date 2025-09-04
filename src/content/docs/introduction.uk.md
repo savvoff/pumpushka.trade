@@ -1,9 +1,7 @@
 ---
 lang: uk
-title: Інтро
-description: Інтро по документам
-order: 0
-navTitle: Основна інформація
+title: Introduction
+description: Docs intro
 publishedAt: 2025-09-02T21:00:00.000Z
 ---
 
