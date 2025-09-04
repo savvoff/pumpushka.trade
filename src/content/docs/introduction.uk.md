@@ -4,6 +4,7 @@ title: Інтро
 description: Інтро по документам
 order: 0
 navTitle: Основна інформація
+draft: true
 publishedAt: 2025-09-02T21:00:00.000Z
 ---
 
@@ -21,7 +22,7 @@ To show the section on the left side navigation, add it to the navigation config
 
 Example:
 
-```js
+```ts
 export const SIDEBAR = [
   { text: "Core", header: true },
   { text: "Introduction", link: "/core/introduction" },
