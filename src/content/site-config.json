@@ -24,8 +24,8 @@
           "en": "what can a bot do?"
         },
         "href": {
-          "uk": "#",
-          "en": "#"
+          "uk": "https://www.pumpushka.trade/#skills",
+          "en": "https://www.pumpushka.trade/en#skills"
         }
       },
       {
@@ -34,7 +34,10 @@
           "uk": "як працює?",
           "en": "how does work?"
         },
-        "href": {}
+        "href": {
+          "uk": "https://www.pumpushka.trade/#how-works",
+          "en": "https://www.pumpushka.trade/en/#how-works"
+        }
       },
       {
         "image": "/media/menu-link-cta.png",
@@ -42,7 +45,21 @@
           "uk": "тарифи",
           "en": "tariffs"
         },
-        "href": {}
+        "href": {
+          "uk": "https://www.pumpushka.trade/#tariffs",
+          "en": "https://www.pumpushka.trade/en/#tariffs"
+        }
+      },
+      {
+        "image": "/media/menu-link-glasses.png",
+        "label": {
+          "uk": "часті питання",
+          "en": "FAQ"
+        },
+        "href": {
+          "uk": "https://www.pumpushka.trade/#faq",
+          "en": "https://www.pumpushka.trade/en/#faq"
+        }
       },
       {
         "image": "/media/menu-link-lol.png",
@@ -50,7 +67,20 @@
           "uk": "контакти",
           "en": "contacts"
         },
-        "href": {}
+        "href": {
+          "uk": "https://www.pumpushka.trade/#page-footer",
+          "en": "https://www.pumpushka.trade/en/#page-footer"
+        }
+      },
+      {
+        "label": {
+          "uk": "документація",
+          "en": "documentation"
+        },
+        "href": {
+          "uk": "https://www.pumpushka.trade/docs/introduction",
+          "en": "https://www.pumpushka.trade/en/docs/introduction"
+        }
       }
     ]
   },
