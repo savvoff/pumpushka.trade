@@ -58,6 +58,11 @@ export const homePage: Collection = {
       label: 'Список можливостей',
       type: 'object',
       list: true,
+      ui: {
+        itemProps: (item) => ({
+          label: item?.uk || item?.en || 'Нова можливість',
+        }),
+      },
       fields: [
         { name: 'uk', label: 'Українська', type: 'string' },
         { name: 'en', label: 'English', type: 'string' },
@@ -85,6 +90,11 @@ export const homePage: Collection = {
       label: 'Як працює бот: Кроки',
       type: 'object',
       list: true,
+       ui: {
+        itemProps: (item) => ({
+          label: item?.uk || item?.en || 'Новий крок',
+        }),
+      },
       fields: [
         { name: 'uk', label: 'Українська', type: 'string' },
         { name: 'en', label: 'English', type: 'string' },
