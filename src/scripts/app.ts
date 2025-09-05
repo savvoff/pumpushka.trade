@@ -121,22 +121,6 @@ class App implements AppInterface {
     window.addEventListener('resize', () => {
 
     });
-
-    // Elements events
-    document.querySelectorAll<HTMLAnchorElement>('a[href*="#"]').forEach((el) => {
-      el.addEventListener('click', (ev: Event) => {
-        ev.preventDefault();
-        const link = new URL(el.href);
-        const headerHeight = 100;
-        const target = document.querySelector(link.hash);
-        if (!target) return;
-        const y = target.getBoundingClientRect().top + window.scrollY - headerHeight;
-        window.scroll({
-          top: y,
-          behavior: 'smooth'
-        });
-      });
-    });
   }
 
   init() {

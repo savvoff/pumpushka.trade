@@ -33,6 +33,9 @@
       hyphens: none;
     }
   }
+  :where([id]) { 
+    scroll-margin-top: 100px;
+  }
   // a {
 	// 	position: relative;
 	// 	&::after {
