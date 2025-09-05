@@ -46,5 +46,5 @@ Just a few steps — and you’ll start receiving your first signals.
 
 ## 5. Next Steps
 
-* Check **[Data for Analysis](https://www.pumpushka.trade/docs/analyze)** to understand which factors the bot uses.
+* Check **[Data for Analysis](https://www.pumpushka.trade/docs/data-for-analysis)** to understand which factors the bot uses.
 * Review **[TP/SL Strategies](https://www.pumpushka.trade/docs/strategies)** to choose an approach that matches your trading style.
