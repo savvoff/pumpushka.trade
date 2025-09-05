@@ -5,7 +5,7 @@ description: >-
   What is Pumpushka Bot, what is it made of and what data blocks/functions does
   it consume
 order: 1
-navTitle: Overview
+navTitle: Bot overview
 draft: false
 publishedAt: 2025-09-04T21:00:00.000Z
 ---
