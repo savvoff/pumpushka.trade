@@ -29,7 +29,7 @@ Just a few steps — and you’ll start receiving your first signals.
 
 * **/analyze** — analyze trading pairs (you can also type `/analyze btcusdt`).
 * **/market** — quick market snapshot and current news.
-* **/track** — list of coin trades (up to 10) you’re tracking (add via the *“🔔 Track”* button in the signal description).
+* **/track** — list of coin trades (up to 10) you’re tracking (add via the *“🔔 Track”*  button in the signal description).
 * **/favorites** — your favorite coins (add via the ⭐️ button in the signal description).
 * **/settings** — change parameters (risk, language, strategy, position size, candle interval, execution mode).
 * **/pay** — subscription status and payment.
