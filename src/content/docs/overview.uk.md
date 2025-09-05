@@ -3,7 +3,7 @@ lang: uk
 title: Документація — Огляд
 description: 'Що таке Pumpushka Bot, з чого складається і які блоки даних/функцій охоплює'
 order: 1
-navTitle: Огляд
+navTitle: Огляд бота
 draft: false
 publishedAt: 2025-09-04T21:00:00.000Z
 ---
