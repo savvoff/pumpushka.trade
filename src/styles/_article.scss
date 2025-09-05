@@ -116,8 +116,10 @@ article {
   }
 
   table {
-    @apply bg-white shadow-sm border border-gray-200 rounded-lg w-full border-separate;
+    @apply block bg-white shadow-sm border border-gray-200 rounded-lg w-full overflow-x-auto border-separate;
     border-spacing: 0;
+    margin-bottom: 1em;
+    -webkit-overflow-scrolling: touch;
   }
   
   .dark table {
@@ -127,7 +129,7 @@ article {
   table thead th,
   table tbody td,
   table tfoot td {
-    @apply text-slate-900 text-sm text-left align-top leading-5;
+    @apply text-slate-900 text-sm text-left align-top leading-5 whitespace-nowrap;
     padding: 0.75rem 1rem; /* py-3 px-4 */
   }
   .dark table thead th,
