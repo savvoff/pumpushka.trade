@@ -9,24 +9,33 @@ publishedAt: 2025-09-04T21:00:00.000Z
 
 # Pumpushka Bot — Introduction
 
-**Pumpushka Bot** is an analytical Telegram bot that combines classic technical analysis with modern AI algorithms.\
-It helps traders quickly assess the market and make well-founded decisions.
+**Pumpushka Bot** is an analytical Telegram bot that combines artificial intelligence, technical analysis, and market data.\
+Its goal is to help traders quickly evaluate the market, see the strengths and weaknesses of a trade, and make informed decisions.
 
 ## Key Features
 
-* Automatic real-time market analysis.
-* Evaluation of 50+ factors: technical indicators, order book, derivatives, on-chain data, sentiment, news, and macro events.
-* TP/SL strategy building with different risk levels (Normal, Aggressive, Conservative, Safe).
-* A system for estimating the probability of trade success.
-* Coin tracking and instant signal alerts.
+* Real-time automatic market analysis.
+* Evaluation of over **50 factors**: technical indicators, order book, derivatives, sentiment, on-chain data, news, and macro events.
+* TP/SL strategy presets with different risk levels (Normal, Aggressive, Conservative, Safe).
+* **Rationale Score** system to measure trade quality.
+* Instant alerts on signals and market events.
+
+## How It Works
+
+1. The bot collects data from exchange APIs and external sources.
+2. Processes it through a factor system (with weights, time-decay, and correlations).
+3. Generates a signal (long / short / none) with TP, SL, and success probability based on RRR.
+4. Outputs results in a clear, concise format.
 
 ## Who It’s For
 
-* **Beginner traders** — to get guidance and avoid basic mistakes.
-* **Experienced traders** — as an extra source of ideas and scenario confirmation.
-* **Analysts** — for rapid market data collection in one place.
+* **Beginner traders** — to avoid common mistakes and follow structured trade plans.
+* **Experienced traders** — as a tool to validate scenarios and add an extra analytical layer.
+* **Analysts & enthusiasts** — for fast market data aggregation and interpretation.
 
-## Why It’s Useful
+## Important
 
-Pumpushka Bot saves time, reduces the risk of emotional decisions, and provides structured data for trading.\
-It’s a serious tool in your arsenal.
+Pumpushka Bot **is not an auto-trading tool** and does not open trades for you.\
+It acts as an analytical assistant to support your own decision-making.
+
+***
