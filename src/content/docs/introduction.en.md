@@ -37,5 +37,3 @@ Its goal is to help traders quickly evaluate the market, see the strengths and w
 
 Pumpushka Bot **is not an auto-trading tool** and does not open trades for you.\
 It acts as an analytical assistant to support your own decision-making.
-
-***
