@@ -3,7 +3,7 @@ import { Image } from 'astro:assets';
 import { Icon } from 'astro-icon/components';
 import HeaderLink from '@components/HeaderLink.astro';
 import { useI18n } from '@utils/translate';
-import { SITE } from '../constants';
+import { SITE, TRANSLATIONS } from '../constants';
 import config from '../content/site-config.json';
 
 type Props = {
@@ -24,8 +24,22 @@ interface Header {
 }
 
 const { locale } = Astro.props;
+const { pathname, search, hash } = Astro.url;
+
 const t = useI18n(locale);
 const header = config.header as Header;
+
+const nonDefault = Object.keys(TRANSLATIONS).filter(lang => lang !== SITE.defaultLanguage);
+const prefixRe = new RegExp(`^\\/(${nonDefault.join('|')})(?=\\/|$)`);
+const m = pathname.match(prefixRe);
+
+// Path without any lang prefix (always starts with "/")
+const strippedPath = m ? pathname.replace(prefixRe, '') : pathname;
+
+function hrefFor(targetLang: string) {
+  const prefix = targetLang === SITE.defaultLanguage ? '' : `/${targetLang}`;
+  return `${prefix}${strippedPath}${search}${hash}`;
+}
 ---
 
 <header class="group top-0 z-40 fixed mb-6 lg:mb-20 w-full site-header">
@@ -95,12 +109,16 @@ const header = config.header as Header;
               </span>
             </div>
             <ul class="gap-3 py-2 dropdown">
-              <li>
-                <a href="/"> UK </a>
-              </li>
-              <li>
-                <a href="/en"> EN </a>
-              </li>
+              {Object.keys(TRANSLATIONS).map((lang) => (
+                <li>
+                  <a
+                    href={hrefFor(lang)}
+                    aria-current={lang === locale ? 'page' : undefined}
+                  >
+                    { lang.toUpperCase() }
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
           <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href={ header.botLink } target="_blank">

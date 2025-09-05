@@ -92,7 +92,7 @@ article {
         display: none;
       }
     }
-  }  
+  }
 
   .component-preview {
     padding: 4rem;
@@ -113,5 +113,87 @@ article {
     padding: 1rem;
     border-radius: 0.44rem;
     margin-bottom: 0.5em;
+  }
+
+  table {
+    @apply bg-white shadow-sm border border-gray-200 rounded-lg w-full border-separate;
+    border-spacing: 0;
+  }
+  
+  .dark table {
+    @apply bg-slate-900 shadow-none border-gray-700;
+  }
+
+  table thead th,
+  table tbody td,
+  table tfoot td {
+    @apply text-slate-900 text-sm text-left align-top leading-5;
+    padding: 0.75rem 1rem; /* py-3 px-4 */
+  }
+  .dark table thead th,
+  .dark table tbody td,
+  .dark table tfoot td {
+    @apply text-gray-200;
+  }
+
+  table :is(th, td):first-child {
+    @apply pl-6;
+  }
+  table :is(th, td):last-child {
+    @apply pr-6;
+  }
+
+  table thead th {
+    @apply bg-gray-50 border-gray-200 border-b font-semibold text-gray-500 uppercase tracking-wider;
+  }
+  .dark table thead th {
+    @apply bg-slate-800 border-gray-700 text-gray-400;
+  }
+
+  table tbody td {
+    @apply border-gray-200 border-t;
+  }
+  .dark table tbody td {
+    @apply border-gray-700;
+  }
+
+  table tbody tr:nth-child(even) td {
+    @apply bg-gray-50;
+  }
+  .dark table tbody tr:nth-child(even) td {
+    @apply bg-slate-900;
+  }
+
+  table tbody tr:hover td {
+    @apply bg-gray-100;
+  }
+  .dark table tbody tr:hover td {
+    @apply bg-slate-800;
+  }
+
+  table :is(th, td)[align="right"] {
+    @apply text-right;
+  }
+  table :is(th, td)[align="center"] {
+    @apply text-center;
+  }
+
+  table caption {
+    caption-side: bottom;
+    @apply px-4 py-3 text-gray-500 text-xs text-left leading-4;
+  }
+  .dark table caption {
+    @apply text-gray-400;
+  }
+
+  .dark table :is(th, td) code {
+    @apply bg-slate-700;
+  }
+
+  table thead th:first-child {
+    @apply rounded-tl-lg;
+  }
+  table thead th:last-child {
+    @apply rounded-tr-lg;
   }
 }
