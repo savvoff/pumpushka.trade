@@ -1,69 +1,41 @@
 ---
 lang: uk
-title: Introduction
-description: Docs intro
-publishedAt: 2025-09-02T21:00:00.000Z
+title: Документація — Вступ
+description: >-
+  Pumpushka Bot — це аналітичний Telegram-бот, який поєднує класичний технічний
+  аналіз із сучасними AI-алгоритмами. 
+order: 0
+navTitle: Вступ
+publishedAt: 2025-09-04T21:00:00.000Z
 ---
 
-# Astro Design System Theme
+# Pumpushka Bot — Вступ
 
-Astro Design System is the easiest way to start your our design system. Since Astro is compatible with many frameworks, you can import your components and document them right in the markdown files.
+**Pumpushka Bot** — це аналітичний Telegram-бот, який поєднує штучний інтелект, технічний аналіз і ринкові дані.\
+Його мета — допомогти трейдерам швидко оцінювати ринок, бачити сильні та слабкі сторони угоди і приймати обґрунтовані рішення.
 
-## Getting started
+## Основні можливості
 
-### Adding new sections
+* Автоматичний аналіз у реальному часі.
+* Оцінка понад **50 факторів**: технічні індикатори, order book, деривативи, sentiment, ончейн-дані, новини та макро-події.
+* Побудова стратегій **TP/SL** із різними рівнями ризику (Normal, Aggressive, Conservative, Safe).
+* Система **Rationale Score** для оцінки якості угоди.
+* Повідомлення про сигнали та сповіщення щодо важливих подій на ринку.
 
-Although it's not required, you can create folders for new sections.
+## Як це працює
 
-To show the section on the left side navigation, add it to the navigation config file at `src/config.ts`.
+1. Бот отримує дані з біржових і зовнішніх джерел.
+2. Обробляє їх через систему факторів (з урахуванням ваг, часових затухань та кореляцій).
+3. Формує сигнал (long / short / none) з TP, SL і оцінкою ймовірності успіху по заданному RRR.
+4. Виводить результат у зрозумілому форматі без зайвої «води».
 
-Example:
+## Для кого створений
 
-```js
-export const SIDEBAR = [
-  { text: "Core", header: true },
-  { text: "Introduction", link: "/core/introduction" },
-  ...,
-  { text: "Components", header: true },
-  { text: "Buttons", link: "/components/buttons" },
-  ...,
-  { text: "New section", header: true },
-  { text: "New component", link: "/new-section/new-component.md" },
-];
-```
+* **Початківці трейдери** — щоб уникати базових помилок і бачити структурований план угоди.
+* **Досвідчені трейдери** — як інструмент перевірки сценаріїв і додатковий аналітичний шар.
+* **Аналітики та ентузіасти** — для швидкого збору та інтерпретації ринкових даних.
 
-### Adding new pages
+## Важливо
 
-To add new pages just create an .astro or markdown file in `src/pages/[section]/my-page.md`. Remember to add it to the navigation config in `src/config.ts` so it shows up in the left side navigation.
-
-You're free to organize the pages however you want.
-
-### Customizing Core section (colors, typography, shadows...)
-
-If you want to customize the default colors, typography or shadows you can find the configuration file at `src/config/design.config.ts`.
-
-Feel free to add new pages to the Core section
-
-### Customizing the page layout
-
-You can find the css for the pages in `src/styles/content.scss`.
-
-### Adding your components
-
-Astro is great for design systems because it allows you to import components from different frameworks like react, vue or svelte.
-
-To get started check how the `MainButton` component is used in the `src/pages/en/buttons.md` file.
-
-You can import your component library or create your own and document it easily.
-
-### `.component-preview` utility
-
-There's a class called `.component-preview` that you can use to wrap your component in a grid, and it will look like this:
-
-<div class="component-preview">
-  <button class="text-white bg-blue-200 hover:bg-blue px-4 py-2 rounded-md">Your component</button>
-</div>
-
-### Have fun!
-
-Astro Design System template was made by **[@jordienr](https://twitter.com/jordienr)** for personal and commercial use.
+Pumpushka Bot **не є автотрейдером** і не відкриває угоди замість вас.\
+Він виступає як аналітичний асистент, що допомагає приймати власні усвідомлені рішення.
