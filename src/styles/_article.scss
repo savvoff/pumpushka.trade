@@ -133,7 +133,7 @@ article {
   table thead th,
   table tbody td,
   table tfoot td {
-    @apply text-slate-900 text-sm text-left align-top leading-5 whitespace-nowrap;
+    @apply w-full text-slate-900 text-sm text-left align-top leading-5 whitespace-nowrap;
     padding: 0.75rem 1rem; /* py-3 px-4 */
   }
   .dark table thead th,
