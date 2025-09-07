@@ -1,5 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components';
+import Analytics from '@vercel/analytics/astro';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import LeftSidebar from '@components/LeftSidebar.astro';
@@ -46,6 +47,7 @@ const {
 				<RightSidebar headings={headings} />
 			</div>
 		</div>
+    <Analytics/>
 	</body>	
   <script is:inline>
     window.addEventListener('DOMContentLoaded', () => {

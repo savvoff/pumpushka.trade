@@ -1,5 +1,5 @@
 ---
-// Components
+import Analytics from '@vercel/analytics/astro';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import Footer from '@components/Footer.astro';
@@ -19,6 +19,7 @@ const { title, description, image, lang = SITE.defaultLanguage } = Astro.props;
 			<slot />
 		</main>
 		<Footer locale={lang} />
+    <Analytics/>
 	</body>	
 	<script>
 		import '../scripts/app.ts';
