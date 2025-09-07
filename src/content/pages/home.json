@@ -242,6 +242,16 @@
     },
     {
       "title": {
+        "uk": "Чим відрізняється Pumpushka Bot від платної версії ChatGPT або будь-якого ШІ?",
+        "en": " How is Pumpushka Bot different from the paid version of ChatGPT or any AI?"
+      },
+      "content": {
+        "uk": "ChatGPT — це універсальний штучний інтелект, який відповідає на будь-які запити і ще треба навчити трейдингу, підключати дані і придумувати промпти.\n\nPumpushka Bot — вузькоспеціалізований готовий продукт під трейдинг, вже з даними, сигналами і логікою:\n\n-використовує біржові, ончейн та макроекономічні дані у реальному часі, а також враховує настрої, технічні індикатори, новини;\n\n-будує графіки з зонами ліквідності, рівнями та FVG (навіть TradingView не вміє робити автоматично;\n\n-враховує понад 50 факторів для аналізу;\n\n-автоматично розраховує TP/SL стратегії по Risk/Reward;\n\n-дає сигнали у форматі, готовому для трейдингу (Entry, TP1–TP3, SL, ймовірність);\n\n-коштує дешевше.\n\nТобто це аналітичний асистент, а не просто чат-бот.\n",
+        "en": "ChatGPT is a universal artificial intelligence that responds to any requests and still needs to be taught trading, connected to data and come up with prompts.\n\nPumpushka Bot is a highly specialized ready-made product for trading, already with data, signals and logic:\n\n-uses stock, on-chain and macroeconomic data in real time, and also takes into account sentiment, technical indicators, news;\n\n-builds charts with liquidity zones, levels and FVG (even TradingView cannot do this automatically);\n\n-takes into account over 50 factors for analysis;\n\n-automatically calculates TP/SL of Risk/Reward strategies;\n\n-gives signals in a format ready for trading (Entry, TP1–TP3, SL, probability);\n\n-costs less.\n\nThat is, it is an analytical assistant, not just a chatbot.\n"
+      }
+    },
+    {
+      "title": {
         "uk": "Чи бот реально торгує за мене?",
         "en": "Does the bot really trade for me?"
       },
