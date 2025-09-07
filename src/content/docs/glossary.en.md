@@ -65,7 +65,7 @@ Below are the key terms and abbreviations used in Pumpushka Bot signals and docu
 **Stochastic Oscillator** — momentum oscillator based on %K and %D lines.\
 **Stop Loss (SL)** — exit level for limiting losses.\
 **Swing High/Low** — local peaks and troughs of price.\
-**Take Profit (TP)** — exit level for locking profits.
+**Take Profit (TP)** — exit level for locking profits.\
 **TOTAL** — total cryptocurrency market capitalization (including BTC and ETH).\
 **TOTAL2** — market capitalization excluding Bitcoin (all altcoins).\
 **TOTAL3** — market capitalization excluding both Bitcoin and Ethereum (altcoins only).
