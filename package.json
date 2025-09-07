@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
+    "@vercel/analytics": "^1.5.0",
     "astro": "^5.13.5",
     "astro-icon": "^1.1.5",
     "astro-remote": "^0.3.4",

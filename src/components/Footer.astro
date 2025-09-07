@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro';
 import SocialsButtons from '@components/SocialsButtons.astro';
 import { useI18n } from '@utils/translate';
 import { SITE } from '../constants';
@@ -51,3 +52,4 @@ const footer = config.footer as Footer;
 		</div>
 	</div>
 </footer>
+<Analytics />
