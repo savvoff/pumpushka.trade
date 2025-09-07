@@ -94,6 +94,10 @@ article {
     }
   }
 
+  blockquote {
+    @apply pl-6 border-left;
+  }
+
   .component-preview {
     padding: 4rem;
     display: flex;

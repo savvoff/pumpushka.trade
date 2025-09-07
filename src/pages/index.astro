@@ -261,7 +261,9 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
                 </span>
               </div>
               <div class="max-h-0 overflow-hidden transition-all accordion-panel">
-                <div class="px-4 py-3 text-sm">{ t(item.content) }</div>
+                <div class="px-4 py-3 text-sm">
+                  <MdContent content={ t(item.content) } />
+                </div>
               </div>
             </li>
           ))}
