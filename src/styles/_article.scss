@@ -85,8 +85,7 @@ article {
   }
   h1,
   h2,
-  h3,
-  p {
+  h3 {
     br {
       @media screen and (max-width: theme("screens.sm")) {
         display: none;
