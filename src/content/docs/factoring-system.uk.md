@@ -42,8 +42,8 @@ Pumpushka Bot оцінює угоди на основі десятків фак�
 | `deriv.funding.avg24h`      | Середній funding    | **LONG:** ≤ 0 при ціні ↑; **SHORT:** ≫ 0 при домінуванні лонгів |
 | `deriv.funding.last`        | Останній funding    | Аналогічно до avg24h                                            |
 | `deriv.ls_ratio.topTraders` | L/S топ-трейдерів   | **LONG:** \< 1 + ціна ↑; **SHORT:** > 1.5 + стагнація/↓         |
-| `deriv.short_squeeze_setup` | Сетап на шорт-сквіз | **LONG**: `price↑`, `OI↑`, `funding ≤ 0`                        |
-| `deriv.long_squeeze_setup`  | Сетап на лонг-сквіз | **SHORT**: `price↓`, `OI↑`, `funding > 0`                       |
+| `deriv.short_squeeze_setup` | Сетап на шорт-сквіз | **LONG**: price↑, OI↑, funding ≤ 0                              |
+| `deriv.long_squeeze_setup`  | Сетап на лонг-сквіз | **SHORT**: price↓, OI↑, funding > 0                             |
 
 ### Order Book
 
@@ -75,13 +75,13 @@ Pumpushka Bot оцінює угоди на основі десятків фак�
 
 ### Regime / Sentiment
 
-| Ключ                            | Опис                   | Джерело                       | LONG / SHORT                                      |
-| ------------------------------- | ---------------------- | ----------------------------- | ------------------------------------------------- |
-| `regime.btc_trend_alignment`    | Узгодження з BTC       | `btcCorrelation`, `dominance` | **LONG:** BTC ↑; **SHORT:** BTC ↓                 |
-| `regime.altseason.proxy`        | Altseason Index        | `altcoinSeasonIndex`          | **LONG** при рості альтів                         |
-| `regime.fear_greed_swing`       | Fear/Greed зміна       | `index`                       | **LONG:** зі страху; **SHORT:** екстр. жадібність |
-| `sentiment.lr_topTraders_shift` | Зсув L/S топ-трейдерів | `ratio`                       | Контр-натовп                                      |
-| `sentiment.fear_greed_level`    | Рівень F/G             | `index`                       | **LONG:** зі страху; **SHORT:** з жадібності      |
+| Ключ                            | Опис                   | LONG / SHORT                                      |
+| ------------------------------- | ---------------------- | ------------------------------------------------- |
+| `regime.btc_trend_alignment`    | Узгодження з BTC       | **LONG:** BTC ↑; **SHORT:** BTC ↓                 |
+| `regime.altseason.proxy`        | Altseason Index        | **LONG** при рості альтів                         |
+| `regime.fear_greed_swing`       | Fear/Greed зміна       | **LONG:** зі страху; **SHORT:** екстр. жадібність |
+| `sentiment.lr_topTraders_shift` | Зсув L/S топ-трейдерів | Контр-натовп                                      |
+| `sentiment.fear_greed_level`    | Рівень F/G             | **LONG:** зі страху; **SHORT:** з жадібності      |
 
 ### Momentum Factors
 
