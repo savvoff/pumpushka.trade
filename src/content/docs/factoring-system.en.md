@@ -19,77 +19,77 @@ All factors contribute to the **Rationale Score** and influence the signal direc
 
 ### Technical
 
-| Key                          | Description              | Source                         | LONG / SHORT Conditions                                         |
-| ---------------------------- | ------------------------ | ------------------------------ | --------------------------------------------------------------- |
-| `tech.trend.adx_di`          | Trend strength (+DI/−DI) | `adx`, `plusDI`, `minusDI`     | **LONG:** ADX > 25 & +DI > −DI; **SHORT:** ADX > 25 & −DI > +DI |
-| `tech.trend.ema_slope`       | EMA slope                | `ema[]`                        | **LONG:** `ema[-1] > ema[0]`; **SHORT:** opposite               |
-| `tech.trend.psar`            | PSAR trend               | `psar.trends[-1]`              | **LONG:** rising; **SHORT:** falling                            |
-| `tech.trend.aroon`           | Recency of high/low      | `aroon.up`, `aroon.down`       | **LONG:** up > down + 20; **SHORT:** down > up + 20             |
-| `tech.momentum.macd`         | MACD momentum            | `macdLine`, `signalLine`       | **LONG:** histogram > 0; **SHORT:** \< 0                        |
-| `tech.momentum.rsi.zone`     | RSI zone                 | `rsi`                          | **LONG:** 50–70 rising; **SHORT:** \< 45 falling                |
-| `tech.momentum.stoch.cross`  | Stochastic cross         | `stochastic.k`, `stochastic.d` | **LONG:** k > d & k \< 60; **SHORT:** k \< d & k > 40           |
-| `tech.volatility.atr_pct`    | ATR%                     | `atr`, `price`                 | Trend amplifier (contextual, no fixed direction)                |
-| `tech.volatility.bb_break`   | Bollinger Bands breakout | `bb.upper/lower`, `price`      | **LONG:** close > upper; **SHORT:** close \< lower              |
-| `tech.volatility.bb_squeeze` | BB squeeze               | `bbWidthPercent`               | Setup / context (directionless)                                 |
-| `tech.volume.obv_slope`      | OBV direction            | `obvSlope`                     | **LONG:** slope > 0; **SHORT:** slope \< 0                      |
-| `tech.volume.cmf`            | Money flow (CMF)         | `cmf`                          | **LONG:** > 0.05; **SHORT:** \< −0.05                           |
+| Key                          | Description              | LONG / SHORT Conditions                                         |
+| ---------------------------- | ------------------------ | --------------------------------------------------------------- |
+| `tech.trend.adx_di`          | Trend strength (+DI/−DI) | **LONG:** ADX > 25 & +DI > −DI; **SHORT:** ADX > 25 & −DI > +DI |
+| `tech.trend.ema_slope`       | EMA slope                | **LONG:** `ema[-1] > ema[0]`; **SHORT:** opposite               |
+| `tech.trend.psar`            | PSAR trend               | **LONG:** rising; **SHORT:** falling                            |
+| `tech.trend.aroon`           | Recency of high/low      | **LONG:** up > down + 20; **SHORT:** down > up + 20             |
+| `tech.momentum.macd`         | MACD momentum            | **LONG:** histogram > 0; **SHORT:** \< 0                        |
+| `tech.momentum.rsi.zone`     | RSI zone                 | **LONG:** 50–70 rising; **SHORT:** \< 45 falling                |
+| `tech.momentum.stoch.cross`  | Stochastic cross         | **LONG:** k > d & k \< 60; **SHORT:** k \< d & k > 40           |
+| `tech.volatility.atr_pct`    | ATR%                     | Trend amplifier (contextual, no fixed direction)                |
+| `tech.volatility.bb_break`   | Bollinger Bands breakout | **LONG:** close > upper; **SHORT:** close \< lower              |
+| `tech.volatility.bb_squeeze` | BB squeeze               | Setup / context (directionless)                                 |
+| `tech.volume.obv_slope`      | OBV direction            | **LONG:** slope > 0; **SHORT:** slope \< 0                      |
+| `tech.volume.cmf`            | Money flow (CMF)         | **LONG:** > 0.05; **SHORT:** \< −0.05                           |
 
 ### Derivatives
 
-| Key                         | Description         | Source                         | LONG / SHORT                                                        |
-| --------------------------- | ------------------- | ------------------------------ | ------------------------------------------------------------------- |
-| `deriv.oi.delta_24h`        | 24h OI change       | `openInterest[]`               | **LONG:** price ↑ & OI ↑; **SHORT:** price ↓ & OI ↑                 |
-| `deriv.funding.avg24h`      | Average funding 24h | `fundingRate[]`                | **LONG:** ≤ 0 with rising price; **SHORT:** ≫ 0 with long dominance |
-| `deriv.funding.last`        | Last funding        | `lastFundingRate`              | Same logic as avg24h                                                |
-| `deriv.ls_ratio.topTraders` | L/S of top traders  | `longShortRatioTopTraders`     | **LONG:** \< 1 with price ↑; **SHORT:** > 1.5 with flat/↓           |
-| `deriv.short_squeeze_setup` | Short-squeeze setup | `price↑`, `OI↑`, `funding ≤ 0` | **LONG**                                                            |
-| `deriv.long_squeeze_setup`  | Long-squeeze setup  | `price↓`, `OI↑`, `funding > 0` | **SHORT**                                                           |
+| Key                         | Description         | LONG / SHORT                                                        |
+| --------------------------- | ------------------- | ------------------------------------------------------------------- |
+| `deriv.oi.delta_24h`        | 24h OI change       | **LONG:** price ↑ & OI ↑; **SHORT:** price ↓ & OI ↑                 |
+| `deriv.funding.avg24h`      | Average funding 24h | **LONG:** ≤ 0 with rising price; **SHORT:** ≫ 0 with long dominance |
+| `deriv.funding.last`        | Last funding        | Same logic as avg24h                                                |
+| `deriv.ls_ratio.topTraders` | L/S of top traders  | **LONG:** \< 1 with price ↑; **SHORT:** > 1.5 with flat/↓           |
+| `deriv.short_squeeze_setup` | Short-squeeze setup | **LONG** price↑, OI↑, funding ≤ 0                                   |
+| `deriv.long_squeeze_setup`  | Long-squeeze setup  | **SHORT** price↓, OI↑, funding > 0                                  |
 
 ### Order Book
 
-| Key                      | Description        | Source             | LONG / SHORT                              |
-| ------------------------ | ------------------ | ------------------ | ----------------------------------------- |
-| `ob.imbalance.bids_asks` | Bid/ask imbalance  | `whaleVolume`      | **LONG:** bid > ask; **SHORT:** ask > bid |
-| `ob.whales.bid_walls`    | Bid walls          | `bidWhaleOrders[]` | **LONG:** presence/strength of bid walls  |
-| `ob.whales.ask_walls`    | Ask walls          | `askWhaleOrders[]` | **SHORT:** presence/strength of ask walls |
-| `ob.whales.count_ratio`  | Whale orders count | `bid/ask count`    | **LONG:** bidCount > askCount             |
+| Key                      | Description        | LONG / SHORT                              |
+| ------------------------ | ------------------ | ----------------------------------------- |
+| `ob.imbalance.bids_asks` | Bid/ask imbalance  | **LONG:** bid > ask; **SHORT:** ask > bid |
+| `ob.whales.bid_walls`    | Bid walls          | **LONG:** presence/strength of bid walls  |
+| `ob.whales.ask_walls`    | Ask walls          | **SHORT:** presence/strength of ask walls |
+| `ob.whales.count_ratio`  | Whale orders count | **LONG:** bidCount > askCount             |
 
 ### On-chain
 
-| Key                                  | Description        | Source              | LONG / SHORT                                       |
-| ------------------------------------ | ------------------ | ------------------- | -------------------------------------------------- |
-| `onchain.exchange_outflow_vs_inflow` | Outflow > Inflow   | `whaleAlerts`       | **LONG** when outflow consistently dominates       |
-| `onchain.whales.accumulation`        | Whale accumulation | `tx+alerts`         | **LONG**                                           |
-| `onchain.whales.distribution`        | Distribution       | `tx+alerts`         | **SHORT**                                          |
-| `onchain.tx.activity_rate`           | Tx activity rate   | `txCount`, `volume` | **LONG:** activity ↑; **SHORT:** spike before drop |
-| `onchain.big_txs.count`              | Large tx count     | `bigTxCount`        | Contextual                                         |
+| Key                                  | Description        | LONG / SHORT                                       |
+| ------------------------------------ | ------------------ | -------------------------------------------------- |
+| `onchain.exchange_outflow_vs_inflow` | Outflow > Inflow   | **LONG** when outflow consistently dominates       |
+| `onchain.whales.accumulation`        | Whale accumulation | **LONG** transactions and alerts algorithm         |
+| `onchain.whales.distribution`        | Distribution       | **SHORT** transactions and alerts algorithm        |
+| `onchain.tx.activity_rate`           | Tx activity rate   | **LONG:** activity ↑; **SHORT:** spike before drop |
+| `onchain.big_txs.count`              | Large tx count     | Contextual                                         |
 
 ### News / Macro
 
-| Key                          | Description     | Source                     | LONG / SHORT                           |
-| ---------------------------- | --------------- | -------------------------- | -------------------------------------- |
-| `news.relevance.positive`    | Positive news   | `importantNews`            | **LONG**                               |
-| `news.relevance.negative`    | Negative news   | `importantNews`            | **SHORT**                              |
-| `macro.upcoming.high_impact` | Upcoming events | `futureEvents`             | Neutral buffer                         |
-| `macro.risk_on_off`          | Risk regime     | `dominance`, `stablecoins` | **LONG:** risk-on; **SHORT:** risk-off |
+| Key                          | Description     | LONG / SHORT                           |
+| ---------------------------- | --------------- | -------------------------------------- |
+| `news.relevance.positive`    | Positive news   | **LONG** news sentiment algorithm      |
+| `news.relevance.negative`    | Negative news   | **SHORT** news sentiment algorithm     |
+| `macro.upcoming.high_impact` | Upcoming events | Neutral buffer                         |
+| `macro.risk_on_off`          | Risk regime     | **LONG:** risk-on; **SHORT:** risk-off |
 
 ### Regime / Sentiment
 
-| Key                             | Description           | Source                        | LONG / SHORT                                  |
-| ------------------------------- | --------------------- | ----------------------------- | --------------------------------------------- |
-| `regime.btc_trend_alignment`    | Alignment with BTC    | `btcCorrelation`, `dominance` | **LONG:** BTC ↑; **SHORT:** BTC ↓             |
-| `regime.altseason.proxy`        | Altseason Index       | `altcoinSeasonIndex`          | **LONG** when alts are gaining                |
-| `regime.fear_greed_swing`       | Fear/Greed swing      | `index`                       | **LONG:** from fear; **SHORT:** extreme greed |
-| `sentiment.lr_topTraders_shift` | Top traders L/S shift | `ratio`                       | Contrarian to the crowd                       |
-| `sentiment.fear_greed_level`    | Fear/Greed level      | `index`                       | **LONG:** from fear; **SHORT:** from greed    |
+| Key                             | Description           | LONG / SHORT                                  |
+| ------------------------------- | --------------------- | --------------------------------------------- |
+| `regime.btc_trend_alignment`    | Alignment with BTC    | **LONG:** BTC ↑; **SHORT:** BTC ↓             |
+| `regime.altseason.proxy`        | Altseason Index       | **LONG** when alts are gaining                |
+| `regime.fear_greed_swing`       | Fear/Greed swing      | **LONG:** from fear; **SHORT:** extreme greed |
+| `sentiment.lr_topTraders_shift` | Top traders L/S shift | Contrarian to the crowd                       |
+| `sentiment.fear_greed_level`    | Fear/Greed level      | **LONG:** from fear; **SHORT:** from greed    |
 
 ### Momentum Factors
 
-| Key                           | Description         | Source                  | LONG / SHORT                                        |
-| ----------------------------- | ------------------- | ----------------------- | --------------------------------------------------- |
-| `impulse.price.move`          | Sharp price move    | `klines`, `trades`      | **LONG:** upward impulse; **SHORT:** downward       |
-| `impulse.volume.flow.confirm` | Volume confirmation | `trades`, `volumeDelta` | **LONG** if volume confirms the move                |
-| `impulse.oi.confirm`          | OI confirmation     | `OI`, `funding`         | **LONG:** price ↑ + OI ↑; **SHORT:** price ↓ + OI ↑ |
+| Key                           | Description         | LONG / SHORT                                        |
+| ----------------------------- | ------------------- | --------------------------------------------------- |
+| `impulse.price.move`          | Sharp price move    | **LONG:** upward impulse; **SHORT:** downward       |
+| `impulse.volume.flow.confirm` | Volume confirmation | **LONG** if volume confirms the move                |
+| `impulse.oi.confirm`          | OI confirmation     | **LONG:** price ↑ + OI ↑; **SHORT:** price ↓ + OI ↑ |
 
 ***
 
