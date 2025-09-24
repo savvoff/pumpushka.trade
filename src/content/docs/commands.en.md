@@ -5,7 +5,7 @@ description: ' All available Pumpushka Bot commands'
 order: 8
 navTitle: Commands
 draft: false
-publishedAt: 2025-09-06T21:00:00.000Z
+publishedAt: 2025-09-23T21:00:00.000Z
 ---
 
 # Commands
@@ -38,10 +38,11 @@ Below is the list of all available commands.
 
 ## Other
 
-| Command    | Description                                                                   |
-| ---------- | ----------------------------------------------------------------------------- |
-| **/pay**   | Pay for a subscription via NowPayments and check your current account status. |
-| **/about** | Bot version and a link to the documentation.                                  |
+| Command     | Description                                                                                                                                                                                                                                                                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **/pay**    | Pay for a subscription via NowPayments and check your current account status.                                                                                                                                                                                                                                                                      |
+| **/about**  | Bot version and a link to the documentation.                                                                                                                                                                                                                                                                                                       |
+| **/detail** | Extended info about Coin. Sort of info: Identity, Timeline, Engagement, URLs, Prices & Changes, Market Cap & Ranks, Volumes, Price Ranges, All-Time Extremes, Yesterday Snapshot, Supply (Snapshot), Supply Details, Platforms/Contracts, Relations, Token Unlocks, Earn Programs, Supported Wallets, Flags, Profile Completion Score, Misc/Other  |
 
 ***
 
