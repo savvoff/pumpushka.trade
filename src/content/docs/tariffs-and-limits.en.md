@@ -17,12 +17,12 @@ They differ by duration, number of subscriptions, coins, and requests.
 
 ## Plan Comparison
 
-| Plan        | Duration | Requests | Benefits\*              |
-| ----------- | -------- | -------- | ----------------------- |
-| **Free**    | 3 days   | 15       | -                       |
-| **Premium** | 30 days  | 150      | -                       |
-| **Pro**     | 30 days  | 240      | + on-chain whale alerts |
-| **VIP**     | 30 days  | 360      | + on-chain whale alerts |
+| Plan        | Duration | Requests | Benefits\*                                |
+| ----------- | -------- | -------- | ----------------------------------------- |
+| **Free**    | 3 days   | 15       | -                                         |
+| **Premium** | 30 days  | 150      | -                                         |
+| **Pro**     | 30 days  | 240      | on-chain whale alerts; detailed coin info |
+| **VIP**     | 30 days  | 360      | on-chain whale alerts; detailed coin info |
 
 \*As features evolve, benefits may be updated.
 
