@@ -17,12 +17,12 @@ They differ by duration, number of subscriptions, coins, and requests.
 
 ## Plan Comparison
 
-| Plan        | Duration | Requests | Benefits\*                                       |
-| ----------- | -------- | -------- | ------------------------------------------------ |
-| **Free**    | 3 days   | 15       | -                                                |
-| **Premium** | 30 days  | 150      | -                                                |
-| **Pro**     | 30 days  | 240      | + on-chain whale alerts&#xA;+ detailed coin info |
-| **VIP**     | 30 days  | 360      | + on-chain whale alerts&#xA;+ detailed coin info |
+| Plan        | Duration | Requests | Benefits\*              |
+| ----------- | -------- | -------- | ----------------------- |
+| **Free**    | 3 days   | 15       | -                       |
+| **Premium** | 30 days  | 150      | -                       |
+| **Pro**     | 30 days  | 240      | + on-chain whale alerts |
+| **VIP**     | 30 days  | 360      | + on-chain whale alerts |
 
 \*As features evolve, benefits may be updated.
 
@@ -48,6 +48,7 @@ They differ by duration, number of subscriptions, coins, and requests.
 * 30 days of access.
 * Limit: 240 requests.
 * On-chain whale alerts enabled.
+* Detailed coin info (overview, stats, supply details, upcoming unlocks etc.).
 * Best balance of price and features.
 
 ## VIP
@@ -56,6 +57,7 @@ They differ by duration, number of subscriptions, coins, and requests.
 * 30 days of access.
 * Limit: 360 requests.
 * On-chain whale alerts enabled.
+* Detailed coin info (overview, stats, supply details, upcoming unlocks etc.).
 * Expanded limits for experienced traders.
 
 ## Test (tester)
