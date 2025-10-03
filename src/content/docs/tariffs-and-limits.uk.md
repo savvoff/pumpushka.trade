@@ -5,7 +5,7 @@ description: Огляд планів використання Pumpushka Bot
 order: 7
 navTitle: Тарифи та ліміти
 draft: false
-publishedAt: 2025-09-05T21:00:00.000Z
+publishedAt: 2025-10-03T21:00:00.000Z
 ---
 
 # Тарифи та ліміти
