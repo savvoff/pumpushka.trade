@@ -5,7 +5,7 @@ description: ' Overview of Pumpushka Bot usage plans'
 order: 7
 navTitle: Tariffs and limits
 draft: false
-publishedAt: 2025-10-03T21:00:00.000Z
+publishedAt: 2025-10-07T21:00:00.000Z
 ---
 
 # Tariffs & Limits
