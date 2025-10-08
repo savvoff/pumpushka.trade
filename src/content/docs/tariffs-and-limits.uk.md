@@ -5,7 +5,7 @@ description: Огляд планів використання Pumpushka Bot
 order: 7
 navTitle: Тарифи та ліміти
 draft: false
-publishedAt: 2025-10-03T21:00:00.000Z
+publishedAt: 2025-10-07T21:00:00.000Z
 ---
 
 # Тарифи та ліміти
@@ -17,12 +17,12 @@ Pumpushka Bot має кілька тарифних планів.\
 
 ## Порівняння планів
 
-| План        | Строк дії | Запитів | Переваги \*                               |
-| ----------- | --------- | ------- | ----------------------------------------- |
-| **Free**    | 3 дні     | 15      | -                                         |
-| **Premium** | 30 днів   | 150     | -                                         |
-| **Pro**     | 30 днів   | 240     | on-chain whale alerts; detailed coin info |
-| **VIP**     | 30 днів   | 360     | on-chain whale alerts; detailed coin info |
+| План        | Строк дії | Запитів | Переваги \*                                                   |
+| ----------- | --------- | ------- | ------------------------------------------------------------- |
+| **Free**    | 3 дні     | 15      | -                                                             |
+| **Premium** | 30 днів   | 150     | gifts systems;                                                |
+| **Pro**     | 30 днів   | 240     | on-chain whale alerts; detailed coin info;&#xA;gifts systems; |
+| **VIP**     | 30 днів   | 360     | on-chain whale alerts; detailed coin info;&#xA;gifts systems; |
 
 \*з ростом функціональності — переваги можуть оновлюватись
 
