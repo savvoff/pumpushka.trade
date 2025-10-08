@@ -40,6 +40,7 @@ They differ by duration, number of subscriptions, coins, and requests.
 * Optimal plan for most traders.
 * 30 days of access.
 * Limit: 150 requests.
+* Gifts sytem (you can win +1/3/5 signals every day).
 * Core functionality for longer testing.
 
 ## Pro
@@ -49,6 +50,7 @@ They differ by duration, number of subscriptions, coins, and requests.
 * Limit: 240 requests.
 * On-chain whale alerts enabled.
 * Detailed coin info (overview, stats, supply details, upcoming unlocks etc.).
+* Gifts sytem (you can win +1/3/5 signals every day).
 * Best balance of price and features.
 
 ## VIP
@@ -58,6 +60,7 @@ They differ by duration, number of subscriptions, coins, and requests.
 * Limit: 360 requests.
 * On-chain whale alerts enabled.
 * Detailed coin info (overview, stats, supply details, upcoming unlocks etc.).
+* Gifts sytem (you can win +1/3/5 signals every day).
 * Expanded limits for experienced traders.
 
 ## Test (tester)
