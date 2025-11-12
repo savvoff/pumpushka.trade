@@ -12,8 +12,8 @@
   "isIndexing": true,
   "postsPerPage": 12,
   "slogan": {
-    "uk": "Не ринок росте — \nросте терпіння.\n",
-    "en": "It’s not the market that grows — \nit’s patience.\n"
+    "uk": "Не ринок росте —\nросте терпіння.\n",
+    "en": "It’s not the market that grows —\nit’s patience.\n"
   },
   "header": {
     "logo": "/media/logo.svg",
@@ -79,6 +79,17 @@
         }
       },
       {
+        "image": "/media/menu-link-lol.png",
+        "label": {
+          "uk": "Блог",
+          "en": "Blog"
+        },
+        "href": {
+          "uk": "/blog",
+          "en": "/en/blog"
+        }
+      },
+      {
         "image": "/media/menu-link.png",
         "label": {
           "uk": "документація",
@@ -135,6 +146,17 @@
         "href": {
           "uk": "https://www.tiktok.com/@pumpushka.bot",
           "en": "https://www.tiktok.com/@pumpushka.bot"
+        }
+      },
+      {
+        "icon": "/media/rss.png",
+        "label": {
+          "uk": "RSS",
+          "en": "RSS"
+        },
+        "href": {
+          "uk": "https://www.pumpushka.trade/rss.xml",
+          "en": "#https://www.pumpushka.trade/en/rss.xml"
         }
       }
     ]
