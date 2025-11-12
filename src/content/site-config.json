@@ -79,6 +79,17 @@
         }
       },
       {
+        "image": "/media/menu-link-lol.png",
+        "label": {
+          "uk": "Блог",
+          "en": "Blog"
+        },
+        "href": {
+          "uk": "/blog",
+          "en": "/en/blog"
+        }
+      },
+      {
         "image": "/media/menu-link.png",
         "label": {
           "uk": "документація",
