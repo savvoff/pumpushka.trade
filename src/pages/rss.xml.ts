@@ -17,7 +17,7 @@ export async function GET(context: APIContext) {
     site: context.site!,
     items: blogCollection.map((post) => ({
       title: post.data.title,
-      pubDate: post.data.publishedAt,
+      pubDate: post.data.updatedAt ?? post.data.publishedAt,
       description: post.data.description,
       // Compute RSS link from post `id`
       link: `/blog/${pathToSlug(post.id, SITE.defaultLanguage)}/`,
