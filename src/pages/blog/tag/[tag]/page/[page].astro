@@ -122,7 +122,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
           { post.data.stickyWeight > 0 ? (<Icon name="tabler:pin-filled" class="top-0 right-0 absolute size-5" />) : null }
           <div class="border rounded aspect-6/5 lg:aspect-2/1 overflow-hidden lg:basis-2/5">
             <Image
-              class="w-full h-full object-cover bg-slate-300"
+              class="bg-slate-300 w-full h-full object-cover"
               width={ 400 }
               height={ 300 } 
               src={ post.data.coverImage?.small ?? SITE.placeholder() }
@@ -137,7 +137,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
           <!-- Meta -->
           <div class="mt-auto">
             <p class="space-x-1 text-slate-500 text-xs">
-              <span class="inline-flex items-start gap-1"><Icon name="tabler:calendar-week-filled" class="size-4" /> { post.data.publishedAt.toLocaleDateString(post.data.lang, { timeZone: 'UTC' }) }</span>
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:calendar-week-filled" class="size-4" /> { (post.data.updatedAt ?? post.data.publishedAt).toLocaleDateString(post.data.lang, { timeZone: 'UTC' }) }</span>
               <span class="inline-flex items-start gap-1"><Icon name="tabler:hourglass-high" class="size-4" /> { readingTime(calculateWordCountFromHtml(post.body)) }</span>
             </p>
             <p class="space-x-1 text-slate-500 text-xs">
