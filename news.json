@@ -1,110 +1,5 @@
 [
   {
-    "id": 54281924,
-    "published": 1762892918000,
-    "title": "Coinbase Abandons $2 Billion Acquisition of Stablecoin Firm BVNK: Fortune",
-    "body": "American crypto exchange Coinbase has scrapped plans to acquire stablecoin firm BVNK, according to a report Tuesday.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54282763,
-    "published": 1762894820000,
-    "title": "Uniswap Founder Submits Governance Proposal To Burn UNI — Token Jumps 50%",
-    "body": "Uniswap is once again making headlines in the DeFi sector after Hayden Adams, founder and CEO of Uniswap Labs, announced a major governance proposal to activate protocol fees and align incentives across the Uniswap ecosystem. The announcement sent shockwaves through the market, with UNI’s price surging more than 50% in the hours following the news — reflecting renewed optimism among investors and traders. Related Reading: Anti-CZ Whale Flips Bullish On Ethereum: Now Up $15M On A $119.6M Long Position In a post shared on X, Adams reflected on Uniswap’s evolution: “Uniswap has been my passion and singular focus for the past 8 years. What started as a small side project is now global financial infrastructure powering thousands of applications with ~$1.8 trillion in annual trading.” Since UNI’s launch in 2020, Uniswap Labs has been largely unable to meaningfully participate in governance, constrained by regulatory pressures that Adams said cost “thousands of hours and tens of millions in legal fees.” Now, with the regulatory environment shifting, those limitations appear to be easing. Inside Hayden Adams’ Vision to Reshape Uniswap’s Future In his new governance proposal, Uniswap founder Hayden Adams outlined a sweeping plan to overhaul how the protocol operates, distributes value, and aligns incentives across its ecosystem. “At a high level,” Adams explained, the proposal seeks to activate protocol fees and direct them toward UNI burns, creating a sustainable mechanism for value accrual. The plan also includes sending Unichain sequencer fees to the UNI burn, further tightening the token’s supply, and burning 100 million UNI from the treasury, representing the fees that could have been burned if the mechanism had been active since launch. Another major component introduces Protocol Fee Discount Auctions, a new feature designed to improve liquidity provider (LP) outcomes and capture MEV (miner extractable value) directly for the protocol. Adams also proposes “aggregator hooks” for Uniswap v4, turning it into an on-chain aggregator capable of collecting fees from external liquidity sources — a move that could expand Uniswap’s reach across the DeFi ecosystem. Beyond these technical changes, the proposal redefines the role of Uniswap Labs, directing it to focus exclusively on protocol growth and governance-aligned initiatives, while ending fee collection on its interface, wallet, and API to encourage wider adoption. Finally, the plan would merge Foundation employees into Labs under a new growth fund and move governance-owned Unisocks liquidity to v4 on Unichain, where it would be burned. However, not everyone sees this as purely bullish. Some analysts argue the move reflects growing pressure from rivals like Aerodrome Finance, whose rapid ecosystem expansion has drawn liquidity away from Uniswap. From this perspective, the proposal may represent both a bold strategic pivot and a defensive play to reassert Uniswap’s dominance in a fast-evolving DeFi landscape. Related Reading: Ethereum Trading Volume On Binance Surpasses $6 Trillion: A Speculative Frenzy Unfolds UNI Price Analysis: Massive Breakout Follows Governance Proposal Uniswap’s native token, UNI, posted a powerful rebound following Hayden Adams’ governance proposal, with price action reflecting a decisive change in sentiment. As seen on the 3-day chart, UNI surged nearly +50%, climbing from around $5.80 to a local high above $10.30 before stabilizing near $8.20 at the time of writing. The spike came alongside a sharp rise in trading volume, indicating strong market participation and renewed investor confidence. Technically, UNI’s breakout has reclaimed both the 50-day and 100-day moving averages, suggesting a potential shift in momentum after months of bearish consolidation. However, the 200-day moving average near the $9.50–$10.00 zone remains a critical resistance level to watch. A clean break above it could open the door for a continuation toward the $12–$14 range, where UNI last faced heavy distribution. Related Reading: SharpLink Gaming Wallet Moves Freshly Redeemed Ethereum to OKX – Details The volume profile highlights significant accumulation pressure beneath $6, aligning with long-term support tested multiple times since mid-2024. While the market may see short-term retracement following such a sharp move, the combination of bullish fundamentals and structural recovery on the chart suggests UNI could be entering a new medium-term accumulation phase — with its next trajectory likely tied to community approval of the newly proposed protocol fee activation. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Uniswap|UNI|Uniswap analysis|Uniswap Foundation|Uniswap governance|Uniswap news|Uniswap Price|UNIUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54283209,
-    "published": 1762894396000,
-    "title": "Coinbase Says $2 Billion Deal for BVNK Won’t Move Forward",
-    "body": "Coinbase Global Inc., the biggest US crypto exchange, said it won’t move forward with plans to acquire stablecoin infrastructure startup BVNK in what was a roughly $2 billion transaction.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:COIN",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54284312,
     "published": 1762898438000,
     "title": "Cardano (ADA) DeFi TVL Hits 3-Year High as Whales Accumulate 348M Tokens",
@@ -4007,6 +3902,204 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54320424,
+    "published": 1762979505000,
+    "title": "Polymarket's Shayne Coplan: Blockchain Let Him Build a Global Force From His Bedroom",
+    "body": "The founder of the prediction marketplace spoke at Cantor Fitzgerald’s crypto, AI and blockchain conference in Miami.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Polymarket|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54320406,
+    "published": 1762979219000,
+    "title": "Bitdeer in flames: Ohio mining facility fire extends stock sell-off",
+    "body": "The incident at the Massillon, Ohio, facility followed the company's Q3 earnings report on Monday, showing a net loss of over $266 million.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      }
+    ]
+  },
+  {
+    "id": 54320192,
+    "published": 1762978977000,
+    "title": "Altcoin index metric hints at early revival: Is the next rally close?",
+    "body": "New data shows stable altcoin speculation despite Bitcoin’s price drop, hinting at early signs of risk re-entry and a more mature altcoin cycle ahead.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54320405,
+    "published": 1762957282000,
+    "title": "XRP ‘distribution’ phase does not change $30 price target: Analysts",
+    "body": "XRP analysts are still confident of a bullish continuation with targets from $10 to $30 for cycle tops, fuelled by multiple tailwinds.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54320463,
+    "published": 1762945320000,
+    "title": "Bridge is a compliant crypto communication tool that ‘doesn’t suck’",
+    "body": "While Telegram and WhatsApp are fine for most retail users, institutions are held to higher standards when it comes to compliant messaging apps.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54321533,
+    "published": 1762982094000,
+    "title": "Yahoo Finance Taps Polymarket as Exclusive Prediction Market Provider",
+    "body": "Polymarket said data from its prediction market platform will be integrated into Yahoo Finance, expanding its product to more people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   }
