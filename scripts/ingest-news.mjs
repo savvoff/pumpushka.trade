@@ -172,9 +172,13 @@ function yaml(obj, indent = 0) {
     if (v === undefined) continue;
 
     if (Array.isArray(v)) {
-      out += `${pad}${k}:\n`;
-      for (const i of v) {
-        out += `${pad}  - ${yamlScalar(i)}\n`;
+      if (v.length === 0) {
+        out += `${pad}${k}: []\n`;
+      } else {
+        out += `${pad}${k}:\n`;
+        for (const i of v) {
+          out += `${pad}  - ${yamlScalar(i)}\n`;
+        }
       }
       continue;
     }

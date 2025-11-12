@@ -10,7 +10,7 @@ source:
   key: cointelegraph
   type: RSS
 category: OTHER
-tags: null
+tags: []
 stickyWeight: 0
 sentiment: POSITIVE
 score: 0
