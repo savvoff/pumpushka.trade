@@ -71,7 +71,7 @@ export function makeTags(category_data = [], keywords = '') {
 
 function toISO(ms) { return new Date(ms).toISOString(); }
 
-const raw = JSON.parse(await fs.readFile(INPUT, 'utf8')).slice(0, LAST_COUNT);
+const raw = JSON.parse(await fs.readFile(INPUT, 'utf8')).slice(-LAST_COUNT); // Last - newer!
 let index = {};
 try { 
   index = JSON.parse(await fs.readFile(INDEX_PATH, 'utf8')); 
