@@ -160,6 +160,7 @@ async function main() {
       ...data,
       lang: 'en',
       description: enDescription || data.description || undefined,
+      updatedAt: new Date().toISOString(),
       ai: {
         ...(data.ai ?? {}),
         rewritten: true,
