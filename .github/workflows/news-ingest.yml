@@ -15,7 +15,10 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20 }
 
-      - run: npm ci
+      - uses: pnpm/action-setup@v4
+        with: { version: 10 }
+
+      - run: pnpm install --frozen-lockfile
 
       - name: Fetch feed (Basic Auth)
         run: node scripts/fetch-news.mjs
@@ -28,7 +31,7 @@ jobs:
       - name: Ingest → Markdown
         run: node scripts/ingest-news.mjs news.json
         env:
-          FRESH_DAYS: 30
+          FRESH_DAYS: 1
           
       - name: Rewrite & translate posts (GPT)
         run: node scripts/expand-and-translate.mjs
