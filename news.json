@@ -1,52 +1,5 @@
 [
   {
-    "id": 54285916,
-    "published": 1762902023000,
-    "title": "Bitcoin STH-MVRV Rebounds From Local Low – Potential Recovery Toward $115K–$120K",
-    "body": "Bitcoin has regained footing after a turbulent week of selling pressure, reclaiming crucial support levels and signaling early signs of recovery. Bulls are cautiously stepping back in, though conviction remains limited as the $110K resistance — a key psychological and technical barrier — has yet to be tested. Related Reading: Anti-CZ Whale Flips Bullish On Ethereum: Now Up $15M On A $119.6M Long Position According to CryptoQuant data, underlying market dynamics suggest that a continuation of current momentum could fuel a potential surge toward $115K. The rebound follows a period of heightened liquidations and bearish sentiment that briefly pushed Bitcoin below $100K, triggering panic among short-term traders. On-chain metrics now show improving stability across several fronts. Spot exchange outflows have increased, suggesting that investors are once again moving BTC into self-custody, a sign of renewed holding behavior. At the same time, derivatives market data indicates cooling open interest and reduced leverage — conditions that historically precede healthier, more sustainable uptrends. Short-Term Holder MVRV Suggests Potential for Bitcoin Recovery Top analyst Axel Adler highlights that Bitcoin’s Short-Term Holder (STH) MVRV ratio has shown early signs of recovery following last week’s sharp correction. On November 7, the metric reached a local low of 0.9124, nearing the lower boundary of its historical range — a zone that has often aligned with short-term market bottoms. As of today, the STH MVRV has climbed to 0.9514, signaling that selling pressure among short-term holders may be easing. This stabilization suggests a potential shift from capitulation to recovery, as traders who bought at higher levels begin to reduce loss-taking behavior. Historically, when the STH MVRV holds above 0.92 and begins trending upward, it often precedes a renewed bullish impulse. Adler notes that if this pattern continues, the metric could rise toward the upper boundary of its range, typically associated with price levels between $115K and $120K. This trend aligns with Bitcoin’s recent technical rebound and improving on-chain sentiment. While further confirmation is needed, maintaining the MVRV above this critical threshold could indicate that the market has absorbed much of the short-term selling pressure — laying the groundwork for a potential recovery phase in the weeks ahead. Related Reading: Ethereum Trading Volume On Binance Surpasses $6 Trillion: A Speculative Frenzy Unfolds Reclaiming Ground After Sharp Correction Bitcoin is showing early signs of recovery after a volatile drop below $100K, reclaiming key technical levels and stabilizing near $105,000. The daily chart shows a short-term bullish reaction following the bounce from the 200-day moving average (red line) — a critical dynamic support level that has repeatedly marked the bottom of corrective phases throughout this cycle. However, the broader trend remains cautious. The 50-day (blue) and 100-day (green) moving averages are above the current price, and both are flattening, signaling that momentum remains weak. A decisive breakout above the $108K–$110K resistance zone is needed to confirm a potential trend reversal and shift sentiment. Related Reading: SharpLink Gaming Wallet Moves Freshly Redeemed Ethereum to OKX – Details If Bitcoin maintains support above $103K and consolidates with rising volume, the next target could align with the $115K region — in line with on-chain signals pointing to a recovery. Conversely, a breakdown below $100K could reopen downside risk toward $95K. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin MVRV|Bitcoin news|Bitcoin STH|Bitcoin STH MVRV|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54286776,
     "published": 1762903841000,
     "title": "User Revolt Erupts on X as Character AI Quit Posts Go Viral",
@@ -66,64 +19,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54286426,
-    "published": 1762902972000,
-    "title": "Coinbase, stablecoin startup BVNK walk away from $2B deal: Report",
-    "body": "Fortune reports that Coinbase’s $2 billion acquisition of BVNK fell through in the due diligence stage, the final stage before closing a deal.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54286886,
-    "published": 1762902972000,
-    "title": "Coinbase, stablecoin startup BVNK walk away from $2B deal: Report",
-    "body": "Fortune reports that Coinbase’s $2 billion acquisition of BVNK fell through during due diligence, the final stage before closing a deal.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -4193,6 +4088,227 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54323769,
+    "published": 1762950139000,
+    "title": "Sonic Labs pivots from speed to survival with business-first strategy",
+    "body": "Sonic Labs’ strategic shift aims to bring “measurable, lasting value” for builders, validators and S token holders through upgraded fees, token burns and institutional partnerships.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54323663,
+    "published": 1762950139000,
+    "title": "Sonic Labs pivots from speed to survival with business-first strategy",
+    "body": "Sonic Labs’ strategic shift aims to bring “measurable, lasting value” for builders, validators and S token holders through upgraded fees, token burns and institutional partnerships.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54323836,
+    "published": 1762950139000,
+    "title": "Sonic Labs pivots from speed to survival with business-first strategy",
+    "body": "Sonic Labs’ strategic shift aims to bring “measurable, lasting value” for builders, validators and S token holders through upgraded fees, token burns and institutional partnerships.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54324163,
+    "published": 1762988419000,
+    "title": "Bitcoin’s Historical Liquidity Indicator Just Lit Up — Big Move Incoming?",
+    "body": "According to an analyst, Bitcoin sits in a liquidity set-up that has shown up before big rallies. Prices are not shooting higher yet. At press time Bitcoin trades around $104,500, down 0.5% over the past day. Related Reading: XRP’s Next ‘Face-Melting’ Rally Could Hit Within 6 Weeks—Analyst Traders watched a decline of about 1.8% earlier that pushed the price near $103,400 and it briefly touched $102,850 during the move. Stablecoin Signal Points Toward Accumulation CryptoQuant analyst Moreno points to the Stablecoin Supply Ratio, or SSR, as the first clear indicator. The SSR compares Bitcoin’s market cap to the total market cap of stablecoins. It has dropped back into the 13 range. Based on historical readings, that 13 area has lined up with market lows in mid-2021 and at several moments across 2024. Reports show that when SSR fell to similar levels, liquidity quietly built up and buying followed after a period of low volatility. Liquidity Pattern Has Appeared Before Every Bitcoin Surge — And It’s Back “We’re witnessing a liquidity configuration that has only appeared a handful of times since 2020, and each instance marked a pivotal moment for Bitcoin’s trajectory.” – By @MorenoDV_ pic.twitter.com/vWKcCkyn55 — CryptoQuant.com (@cryptoquant_com) November 11, 2025 Binance Reserve Trends Add A Second Layer The second metric Moreno highlights comes from Binance. On that exchange, stablecoin balances are rising while Bitcoin reserves are shrinking. In plain terms: more cash-like tokens sit on the exchange and fewer coins are being held there. That pattern has appeared only a handful of times since 2020, according to the data he referenced. Each time, the movement suggested capital waiting on the sidelines and holders moving coins off exchanges into longer-term storage. Market Calm Can Hide Big Moves The current trading backdrop is cautious. Many investors expected a lift after news that the US Congress approved short-term federal funding through January 30, yet crypto did not rally with other risk assets. Some capital rotated back to stocks. At the same time, large holders took profits after recent highs, and momentum cooled. That mix shows how macro events can shift flows without immediately turning into crypto buying. Risk Still Exists — Structure Could Break Moreno warns this liquidity zone acts like a final structural support. If the metrics break down decisively, it could signal a deeper reset before any sustained recovery. In that scenario, buying would likely be delayed and volatility would rise. This is not a guaranteed outcome, but it is a clear risk that traders watch closely. Outlook: Limited Downside, Growing Upside Based on reports and on-chain signals, Moreno believes the risk-to-reward favors buyers at these levels. He points to the built-up stablecoin supply and falling exchange BTC reserves as reasons for that view. Related Reading: Could Shiba Inu Triple? Analyst Sees 200% Move Coming Historical patterns suggest the last three months of the year often bring gains for Bitcoin, but past behavior does not promise future returns. For now, the indicators show capital parked in stablecoins and fewer coins available on major exchanges. That creates a setup where fresh buying could push the market higher quickly if sentiment turns. Yet the opposite is possible: a break below these levels would reshape the cycle and force many participants to rethink positions. Markets will decide which path comes next. Featured image from Gemini, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Bitcoin News|bitcoin|btc|btcusd|crypto|digital currency|federal reserve|liquidity|US shutdown",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54323946,
+    "published": 1762950600000,
+    "title": "Altcoins aren’t dead; long live altcoins",
+    "body": "Bitcoin won’t win as a monetary asset while tokens power adoption through incentive layers. Zero-knowledge transport layer security unlocks verifiable data portability.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54324047,
+    "published": 1762950600000,
+    "title": "Altcoins aren’t dead; long live altcoins",
+    "body": "Bitcoin won’t win as a monetary asset while tokens power adoption through incentive layers. Zero-knowledge transport layer security unlocks verifiable data portability.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54324097,
+    "published": 1762950600000,
+    "title": "Altcoins aren’t dead; long live altcoins",
+    "body": "Bitcoin won’t win as a monetary asset while tokens power adoption through incentive layers. Zero-knowledge transport layer security unlocks verifiable data portability.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
