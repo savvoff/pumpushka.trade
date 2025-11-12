@@ -56,6 +56,8 @@ const pageHref = (p: number) => p === 1 ? '/blog/' : `/blog/page/${p}/`;
     ]}
   />
 
+  <h1 class="font-bold text-3xl">{ blogTitle }</h1>
+
   <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1 mb-8" data-pagefind-ignore="all">
     <ListLd items={ posts.map(p => ({
       url: new URL(`/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
@@ -81,7 +83,7 @@ const pageHref = (p: number) => p === 1 ? '/blog/' : `/blog/page/${p}/`;
             />
           </div>
          <div class="flex flex-col h-full lg:basis-3/5">
-          <h3 class="mb-2 font-semibold text-lg leading-tight">{ post.data.title }</h3>
+          <h2 class="mb-2 font-semibold text-lg leading-tight">{ post.data.title }</h3>
           <p class="mb-2 text-sm line-clamp-3">
             { post.data.description }
           </p>

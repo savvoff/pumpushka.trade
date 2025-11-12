@@ -73,12 +73,12 @@ const headingId = `recent-${Math.random().toString(36).slice(2,8)}`;
                 </a>
               )}
               <div class="min-w-0">
-                <h4 class="font-medium text-sm leading-snug">
+                <p class="font-medium text-sm leading-snug">
                   <a href={ href } aria-label={`Open post: ${p.data.title}`}
                      class="hover:underline line-clamp-3">
                     { p.data.title }
                   </a>
-                </h4>
+                </p>
                 <p class="mt-0.5 text-slate-500 text-xs">
                   { p.data.category } · <time datetime={ dateIso }>{ datePretty }</time>
                 </p>
