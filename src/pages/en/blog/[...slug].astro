@@ -55,6 +55,7 @@ const wordsCount = calculateWordCountFromHtml(entry.body);
 <BlogLayout 
   title={ title } 
   description={ description ?? postText } 
+  image={ coverImage?.regular ?? undefined }
   showToc={ Boolean(headings?.length) } 
   showSearch={ false }
   withSidebar={ true }
