@@ -148,7 +148,7 @@ export async function fetchUnsplashRandom(query, cacheKey = query) {
   if (cache[cacheKey]) return cache[cacheKey];
 
   if (!UNSPLASH_KEY) {
-    console.warn('[Unsplash] No UNSPLASH_ACCESS_KEY; skip coverImage');
+    console.warn('[Unsplash] No UNSPLASH_ACCESS key; skip coverImage');
     return null;
   }
 

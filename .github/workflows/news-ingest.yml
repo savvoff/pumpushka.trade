@@ -31,6 +31,7 @@ jobs:
       - name: Ingest → Markdown
         run: node scripts/ingest-news.mjs news.json
         env:
+          UNSPLASH_ACCESS: ${{ secrets.UNSPLASH_ACCESS }}
           FRESH_DAYS: 1
           
       - name: Rewrite & translate posts (GPT)
