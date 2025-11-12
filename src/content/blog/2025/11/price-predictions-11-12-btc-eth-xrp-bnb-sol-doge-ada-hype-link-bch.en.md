@@ -1,10 +1,10 @@
 ---
 title: 'Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH'
-description: 'Recent market activity has seen Bitcoin bulls attempt to initiate a recovery, but they faced significant selling pressure. This trend was mirrored across multiple altcoins, which…'
+description: 'Recent market activity has seen Bitcoin bulls attempting to initiate a recovery, only to be met with significant selling pressure. This trend was echoed across the altcoin…'
 publishedAt: '2025-11-12T19:27:07.000Z'
-updatedAt: '2025-11-12T20:27:36.368Z'
+updatedAt: '2025-11-12T22:23:47.406Z'
 lang: en
-externalId: '54318859'
+externalId: '54322199'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -20,31 +20,31 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1625563173884-e7ea909dcb2a?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5NzkxNTJ8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1625563173884-e7ea909dcb2a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5NzkxNTJ8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1625563173884-e7ea909dcb2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5NzkxNTJ8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1625563173884-e7ea909dcb2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5NzkxNTJ8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1625563173884-e7ea909dcb2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5NzkxNTJ8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1625563173884-e7ea909dcb2a'
+  raw: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1629963917356-e0aa1c2a0f9d'
 ai:
   rewritten: true
-  expandedAt: '2025-11-12T20:27:36.368Z'
+  expandedAt: '2025-11-12T22:23:47.406Z'
   version: 1
 ---
 ## Overview
 
-Recent market activity has seen Bitcoin bulls attempt to initiate a recovery, but they faced significant selling pressure. This trend was mirrored across multiple altcoins, which also encountered resistance.
+Recent market activity has seen Bitcoin bulls attempting to initiate a recovery, only to be met with significant selling pressure. This trend was echoed across the altcoin market, where many cryptocurrencies faced similar challenges.
 
-## Market Activity
+## What Happened
 
-Bitcoin bulls made an effort to push the price higher, aiming for a recovery. However, they encountered heavy selling pressure close to the $107,000 mark. This resistance proved to be a significant barrier, ultimately hindering any upward momentum.
+Bitcoin experienced a push from bulls who aimed to trigger a recovery. However, this effort was thwarted as heavy selling pressure emerged around the $107,000 mark. This resistance level proved to be a barrier that prevented further upward movement. 
 
-In addition to Bitcoin, most altcoins experienced a similar downturn. As these cryptocurrencies approached their respective resistance levels, they faced selling pressure that led to a sell-off. This pattern indicates a prevailing trend of resistance within the market, impacting various digital assets.
+In addition to Bitcoin, most altcoins also encountered selling pressure as they approached their respective resistance levels. This widespread selling indicates a challenging environment for cryptocurrencies, as both Bitcoin and altcoins struggled to maintain upward momentum.
 
 ## Impact on the crypto market
 
-- Heavy selling pressure near key resistance levels has created a challenging environment for Bitcoin and altcoins.
-- The inability of Bitcoin to sustain upward movement could lead to increased caution among investors.
-- Similar sell-off patterns in altcoins suggest a broader trend of resistance that may affect market sentiment.
-- The current market dynamics may influence trading strategies as traders assess potential entry and exit points.
-- Overall, the market is facing significant challenges that could impact future performance and investor confidence.
+- Bitcoin faced substantial selling pressure near a key resistance level.
+- Most altcoins also experienced sell-offs from their respective resistance points.
+- The market sentiment appears cautious, indicating potential challenges ahead for both Bitcoin and altcoins.
+- The inability to sustain upward movement could affect trader confidence in the short term.
+- Selling pressure highlights the ongoing volatility in the cryptocurrency market.
