@@ -80,7 +80,7 @@ const pageHref = (p: number) => p === 1 ? '/blog/' : `/blog/page/${p}/`;
     <ListLd items={ posts.map(p => ({
       url: new URL(`/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
       name: p.data.title,
-      datePublished: p.data.publishedAt.toISOString()
+      datePublished: (p.data.updatedAt ?? p.data.publishedAt).toISOString()
     }))} />
 
     { posts.length > 0 ?

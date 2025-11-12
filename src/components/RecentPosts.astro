@@ -57,8 +57,8 @@ const headingId = `recent-${Math.random().toString(36).slice(2,8)}`;
     <ul class="space-y-3">
       { posts.map((p) => {
         const href = `${langPrefix}/blog/${pathToSlug(p.id, lang)}/`;
-        const dateIso = p.data.publishedAt.toISOString();
-        const datePretty = p.data.publishedAt.toLocaleDateString(lang, { timeZone: 'UTC' });
+        const dateIso = (p.data.updatedAt ?? p.data.publishedAt).toISOString();
+        const datePretty = (p.data.updatedAt ?? p.data.publishedAt).toLocaleDateString(lang, { timeZone: 'UTC' });
         const thumb = p.data.coverImage?.thumb && showThumbnails;
 
         return (

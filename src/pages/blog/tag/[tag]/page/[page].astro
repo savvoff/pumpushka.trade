@@ -109,7 +109,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
     <ListLd items={ posts.map(p => ({
       url: new URL(`/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
       name: p.data.title,
-      datePublished: p.data.publishedAt.toISOString()
+      datePublished: (p.data.updatedAt ?? p.data.publishedAt).toISOString()
     }))} />
 
     { posts.length > 0 ?
