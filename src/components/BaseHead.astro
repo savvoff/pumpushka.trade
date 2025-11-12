@@ -1,22 +1,21 @@
 ---
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
-import { useI18n } from '@utils/translate';
 import '../styles/global.scss';
 
 interface Props {
-	title: Record<string, string>;
-	description: Record<string, string>;
-  locale: string;
+	title: string;
+	description: string;
 	image?: string;
   allowRobots?: boolean;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = '/og.png', allowRobots = false, locale } = Astro.props;
+const { title, description, image = '/og.png', allowRobots = false, prevUrl, nextUrl } = Astro.props;
 
-const t = useI18n(locale);
 const robotsContent = allowRobots ? 'index, follow' : 'noindex, nofollow';
 const googlebotContent = allowRobots
   ? 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'
@@ -26,16 +25,19 @@ const googlebotContent = allowRobots
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="theme-color" content="orange" />
 <link rel="icon" type="image/png" href="/favicon.png" />
 <meta name="generator" content={ Astro.generator } />
 
 <!-- Canonical URL -->
 <link rel="canonical" href={ canonicalURL } />
+{ prevUrl && <link rel="prev" href={ prevUrl } />}
+{ nextUrl && <link rel="next" href={ nextUrl } />}
 
 <!-- Primary Meta Tags -->
-<title>{ t(title) ?? title }</title>
-<meta name="title" content={ t(title) ?? title } />
-<meta name="description" content={ t(description) ?? description } />
+<title>{ title }</title>
+<meta name="title" content={ title } />
+<meta name="description" content={ description } />
 
 <!-- Robots -->
 <meta name="robots" content={robotsContent} />
@@ -44,13 +46,13 @@ const googlebotContent = allowRobots
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content={ Astro.url } />
-<meta property="og:title" content={ t(title) ?? title } />
-<meta property="og:description" content={ t(description) ?? description } />
-<meta property="og:image" content={new URL(image, Astro.url)} />
+<meta property="og:title" content={ title } />
+<meta property="og:description" content={ description } />
+<meta property="og:image" content={ new URL(image, Astro.url) } />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={ Astro.url } />
-<meta property="twitter:title" content={ t(title) ?? title } />
-<meta property="twitter:description" content={ t(description) ?? description } />
-<meta property="twitter:image" content={ new URL(image, Astro.url) } />
+<meta property="twitter:title" content={ title } />
+<meta property="twitter:description" content={ description } />
+<meta property="twitter:image" content={ new URL( image, Astro.url ) } />

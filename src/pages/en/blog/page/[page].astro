@@ -1,0 +1,145 @@
+---
+import { Image } from 'astro:assets';
+import { Icon } from 'astro-icon/components'
+import { getCollection } from 'astro:content';
+import BlogLayout from '@layouts/Blog.astro';
+import Breadcrumbs from '@components/Breadcrumbs.astro';
+import Categories from '@components/Categories.astro';
+import Tags from '@components/Tags.astro';
+import ListLd from '@components/seo/ListLd.astro';
+import RecentPosts from '@components/RecentPosts.astro';
+import { calculateWordCountFromHtml, readingTime } from '@utils/postTools';
+import { pathToSlug } from '@utils/buildDocsSidebar';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+const lang = 'en';
+const PAGE_SIZE = SITE.postsPerPage;
+
+export async function getStaticPaths() {
+  const lang = 'en';
+ const PAGE_SIZE = SITE.postsPerPage;
+  const all = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
+    .sort((a, b) => (b.data.stickyWeight - a.data.stickyWeight)
+                 || (b.data.publishedAt.getTime() - a.data.publishedAt.getTime()));
+  const total = all.length;
+  const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+
+  const paths = [];
+  for (let p = 2; p <= totalPages; p++) {
+    paths.push({ params: { page: String(p) }, props: { totalPages } });
+  }
+  return paths;
+}
+
+const { totalPages } = Astro.props;
+const page = Number(Astro.params.page);
+if (!Number.isFinite(page) || page < 2) {
+  Astro.response.status = 404;
+  return;
+};
+
+const blogTitle = TRANSLATIONS[lang].blog;
+const blogDescription = TRANSLATIONS[lang].blogDescription;
+const categoriesText = TRANSLATIONS[lang].categories;
+const tagsText = TRANSLATIONS[lang].tags;
+const pageText = TRANSLATIONS[lang].page;
+const nextText = TRANSLATIONS[lang].next;
+const prevText = TRANSLATIONS[lang].prev;
+
+const all = (await getCollection('blog'))
+  .filter((post) => !post.data.draft && post.data.lang === lang)
+  .sort(
+    (a, b) =>
+      b.data.stickyWeight - a.data.stickyWeight ||
+      b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+  );
+
+const start = (page - 1) * PAGE_SIZE;
+const posts = all.slice(start, start + PAGE_SIZE);
+
+const pageHref = (p: number) => p === 1 ? `/${lang}/blog/` : `/${lang}/blog/page/${p}/`;
+---
+
+<BlogLayout
+  title={ `${blogTitle} — ${pageText} ${page}` }
+  description={ blogDescription }
+  showSearch={ true }
+  withSidebar={ true }
+  prev={ page > 1 ? pageHref(page - 1) : undefined }
+  next={ page < totalPages ? pageHref(page + 1) : undefined }
+  lang={ lang }
+>
+  <Breadcrumbs
+    slot="breadcrumbs"
+    items={[
+      { label: blogTitle, href: `/${lang}/blog`, icon: 'tabler:library' },
+      { label: `Page ${page}` },
+    ]}
+  />
+
+  <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1" data-pagefind-ignore="all">
+    <ListLd items={ posts.map(p => ({
+      url: new URL(`/${lang}/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
+      name: p.data.title,
+      datePublished: p.data.publishedAt.toISOString()
+    }))} />
+
+    { posts.length > 0 ?
+      posts.map((post) => (
+        <a
+          href={ `/${lang}/blog/${pathToSlug(post.id, lang)}/` }
+          class="relative flex lg:flex-row flex-col gap-3 bg-white shadow-black shadow-xs hover:shadow-lg px-4 py-5 border-2 border-black rounded-md transition-all hover:-translate-y-1"
+          aria-label={`Open category: ${post.data.title}` }
+        >
+          { post.data.stickyWeight > 0 ? (<Icon name="tabler:pin-filled" class="top-0 right-0 absolute size-5" />) : null }
+          <div class="border rounded aspect-6/5 lg:aspect-2/1 overflow-hidden lg:basis-2/5">
+            <Image
+              class="bg-slate-300 w-full h-full object-cover"
+              width={ 400 }
+              height={ 300 } 
+              src={ post.data.coverImage?.small ?? SITE.placeholder() }
+              alt={ post.data.title }
+            />
+          </div>
+         <div class="flex flex-col h-full lg:basis-3/5">
+          <h3 class="mb-2 font-semibold text-lg leading-tight">{ post.data.title }</h3>
+          <p class="mb-2 text-sm line-clamp-3">
+            { post.data.description }
+          </p>
+          <!-- Meta -->
+          <div class="mt-auto">
+            <p class="space-x-1 text-slate-500 text-xs">
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:calendar-week-filled" class="size-4" /> { post.data.publishedAt.toLocaleDateString(post.data.lang, { timeZone: 'UTC' }) }</span>
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:hourglass-high" class="size-4" /> { readingTime(calculateWordCountFromHtml(post.body)) }</span>
+            </p>
+            <p class="space-x-1 text-slate-500 text-xs">
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:category" class="size-4" /> { post.data.category }</span>
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:tags" class="size-4" /> { post.data.tags.map(tag => `#${tag}`).slice(0, 3).join(' ') }</span>              
+            </p>
+          </div>
+         </div>
+        </a>
+      )) :
+      <div class="text-4xl xl:text-8xl text-center text-nowrap" set:text="¯\_(ツ)_/¯"></div>
+    }
+  </div>
+
+  <nav class="flex justify-between items-center my-8" aria-label="Pagination">
+    <div>
+      <a class="underline" href={ pageHref(page - 1) }>← { prevText }</a>
+    </div>
+    <span class="opacity-70 text-sm">{ pageText } { page } / { totalPages }</span>
+    <div>
+      { page < totalPages
+        ? <a class="underline" href={ pageHref(page + 1) }>{ nextText } →</a>
+        : <span /> }
+    </div>
+  </nav>
+
+  <!-- sidebar slots --> 
+  <RecentPosts slot="recent" lang={ lang } />
+  <Categories slot="categories" title={ categoriesText } lang={ lang } />
+  <Tags slot="tags" title={ tagsText } lang={ lang } />
+<!-- <div slot="ad-sidebar"></div>
+  <div slot="ad-top"></div> -->
+</BlogLayout>

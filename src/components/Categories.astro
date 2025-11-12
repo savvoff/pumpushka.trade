@@ -1,0 +1,60 @@
+---
+import { Icon } from 'astro-icon/components'
+import { getCollection } from 'astro:content';
+import { SITE, type LangCode } from 'src/constants';
+
+interface Props {
+  title?: string;
+  currentCategory?: string;
+  limit?: number;
+  showCount?: boolean;
+  lang?: LangCode;
+}
+
+const {
+  title = 'Categories',
+  currentCategory = '',
+  limit = 0,
+  showCount = true,
+  lang = SITE.defaultLanguage
+} = Astro.props;
+
+const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
+const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+
+const counts = new Map<string, number>();
+for (const e of entries) {
+  const c = (e.data.category || 'OTHER').toString().trim();
+  counts.set(c, (counts.get(c) ?? 0) + 1);
+}
+
+let items = [...counts.entries()]
+  .sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0]));
+
+if (limit > 0) items = items.slice(0, limit);
+
+function toPath(seg: string) {
+  return `${langPrefix}/blog/category/${encodeURIComponent(seg.toLowerCase())}/`;
+}
+---
+<section class="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md">
+  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:category" class="size-4" />{ title }</p>
+  <ul class="space-y-1">
+    { items.map(([name, count]) => {
+      const active = name.toUpperCase() === currentCategory.toUpperCase();
+      return (
+        <li>
+          <a href={ toPath(name) }
+             class={`group flex items-center justify-between rounded-lg px-2 py-1.5 transition
+                     ${ active
+                      ? 'bg-orange text-white'
+                      : 'hover:bg-slate-100'}`}
+                      aria-label={`Open category: ${name}`}>
+            <span class="truncate">{name}</span>
+            { showCount && <span class={`text-xs tabular-nums ${active ? 'opacity-90' : 'opacity-60'}`}>({ count })</span> }
+          </a>
+        </li>
+      );
+    }) }
+  </ul>
+</section>

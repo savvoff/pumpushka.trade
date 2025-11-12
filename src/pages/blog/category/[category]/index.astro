@@ -1,0 +1,132 @@
+---
+import { Image } from 'astro:assets';
+import { Icon } from 'astro-icon/components'
+import { getCollection } from 'astro:content';
+import Breadcrumbs from '@components/Breadcrumbs.astro';
+import BlogLayout from '@layouts/Blog.astro';
+import { calculateWordCountFromHtml, readingTime } from '@utils/postTools';
+import Categories from '@components/Categories.astro';
+import Tags from '@components/Tags.astro';
+import ListLd from '@components/seo/ListLd.astro';
+import RecentPosts from '@components/RecentPosts.astro';
+import { pathToSlug } from '@utils/buildDocsSidebar';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+const PAGE_SIZE = SITE.postsPerPage;
+const lang = SITE.defaultLanguage;
+
+export async function getStaticPaths() {
+  const lang = SITE.defaultLanguage;
+  const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+  const cats = new Map<string, number>();
+
+  for (const e of entries) {
+    const c = (e.data.category || 'OTHER').toString().trim();
+    cats.set(c, (cats.get(c) ?? 0) + 1);
+  }
+
+  return [...cats.keys()].map((name) => ({
+    params: { category: name.toLowerCase() },
+    props: { categoryName: name },
+  }));
+}
+
+const blogTitle = TRANSLATIONS[lang].blog;
+const categoriesText = TRANSLATIONS[lang].categories;
+const tagsText = TRANSLATIONS[lang].tags;
+const pageText = TRANSLATIONS[lang].page;
+const nextText = TRANSLATIONS[lang].next;
+
+const { categoryName } = Astro.props;
+const all = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
+  .filter(post => (post.data.category || 'OTHER').toString().toLowerCase() === categoryName.toLowerCase()) 
+  .sort((a,b) => (b.data.stickyWeight - a.data.stickyWeight)
+              || (b.data.publishedAt.getTime() - a.data.publishedAt.getTime()));
+
+const page = 1;
+const total = all.length;
+const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+const posts = all.slice(0, PAGE_SIZE);
+
+const pageHref = (p: number) => p === 1 ? `/blog/category/${categoryName.toLowerCase()}/` : `/blog/category/${categoryName.toLowerCase()}/page/${p}/`;
+---
+<BlogLayout 
+  title={`Category: ${categoryName}`} 
+  description={ categoryName }
+  showSearch={ false }
+  withSidebar={ true }
+  next={ total > 1 ? pageHref(2) : undefined }
+  >
+  <Breadcrumbs
+    slot="breadcrumbs"
+    items={[
+      { label: blogTitle, href: '/blog', icon: 'tabler:library' },
+      { label: categoryName, href: Astro.url.toString(), icon: 'tabler:category' },
+    ]}
+  />
+
+  <h1 class="font-semibold text-2xl">{ categoriesText }: { categoryName }</h1>
+
+  <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1 mb-8" data-pagefind-ignore="all">
+    <ListLd items={ posts.map(p => ({
+      url: new URL(`/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
+      name: p.data.title,
+      datePublished: p.data.publishedAt.toISOString()
+    }))} />
+    
+    { posts.length > 0 ?
+      posts.map((post) => (
+        <a
+          href={ `/blog/${pathToSlug(post.id, lang)}/` }
+          class="relative flex lg:flex-row flex-col gap-3 bg-white shadow-black shadow-xs hover:shadow-lg px-4 py-5 border-2 border-black rounded-md transition-all hover:-translate-y-1"
+          aria-label={`Open category: ${post.data.title}` }
+        >
+          { post.data.stickyWeight > 0 ? (<Icon name="tabler:pin-filled" class="top-0 right-0 absolute size-5" />) : null }
+          <div class="border rounded aspect-6/5 lg:aspect-2/1 overflow-hidden lg:basis-2/5">
+            <Image
+              class="bg-slate-300 w-full h-full object-cover"
+              width={ 400 }
+              height={ 300 } 
+              src={ post.data.coverImage?.small ?? SITE.placeholder() }
+              alt={ post.data.title }
+            />
+          </div>
+         <div class="flex flex-col h-full lg:basis-3/5">
+          <h3 class="mb-2 font-semibold text-lg leading-tight">{ post.data.title }</h3>
+          <p class="mb-2 text-sm line-clamp-3">
+            { post.data.description }
+          </p>
+          <!-- Meta -->
+          <div class="mt-auto">
+            <p class="space-x-1 text-slate-500 text-xs">
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:calendar-week-filled" class="size-4" /> { post.data.publishedAt.toLocaleDateString(post.data.lang, { timeZone: 'UTC' }) }</span>
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:hourglass-high" class="size-4" /> { readingTime(calculateWordCountFromHtml(post.body)) }</span>
+            </p>
+            <p class="space-x-1 text-slate-500 text-xs">
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:category" class="size-4" /> { post.data.category }</span>
+              <span class="inline-flex items-start gap-1"><Icon name="tabler:tags" class="size-4" /> { post.data.tags.map(tag => `#${tag}`).slice(0, 3).join(' ') }</span>              
+            </p>
+          </div>
+         </div>
+        </a>
+      )) :
+      <div class="text-4xl xl:text-8xl text-center text-nowrap" set:text="¯\_(ツ)_/¯"></div>
+    }
+  </div>
+
+  { totalPages > 1 && (
+    <nav class="flex justify-between items-center mb-8" aria-label="Pagination">
+      <span class="opacity-70 text-sm">{ pageText } { page } / { totalPages }</span>
+      <div class="space-x-2">
+        <a class="underline" href={ pageHref(2) }>{ nextText } →</a>
+      </div>
+    </nav>
+  )}
+
+  <!-- sidebar slots -->  
+  <RecentPosts slot="recent" category={ categoryName } />
+  <Categories slot="categories" title={ categoriesText } currentCategory={ categoryName } />
+  <Tags slot="tags" title={ tagsText } />
+<!-- <div slot="ad-sidebar"></div>
+  <div slot="ad-top"></div> -->
+</BlogLayout>

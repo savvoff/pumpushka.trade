@@ -7,9 +7,14 @@
     "uk": "Крипто-бот, що поєднує технічний, сентиментальний, макро- та on-chain аналіз із whale-рухами; генерує long/short сигнали з ймовірністю успіху.\n",
     "en": "Crypto bot that combines technical, sentimental, macro and on-chain analysis with whale movements; generates long/short signals with a probability of success.\n"
   },
-  "author": "savvoff",
+  "author": "Pumpushka",
   "defaultLanguage": "uk",
   "isIndexing": true,
+  "postsPerPage": 12,
+  "slogan": {
+    "uk": "Не ринок росте — \nросте терпіння.\n",
+    "en": "It’s not the market that grows — \nit’s patience.\n"
+  },
   "header": {
     "logo": "/media/logo.svg",
     "botLinkTitle": {

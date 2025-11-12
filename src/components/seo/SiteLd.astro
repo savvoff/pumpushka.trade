@@ -1,0 +1,37 @@
+---
+interface Props {
+  siteName: string;
+  siteUrl: string;
+  searchUrlTemplate?: string;  //"/search/?q={search_term_string}"
+}
+
+const {
+  siteName,
+  siteUrl,
+  searchUrlTemplate,
+} = Astro.props;
+
+const base = siteUrl.replace(/\/$/, '');
+
+let target: string | undefined;
+
+if (searchUrlTemplate && searchUrlTemplate.includes('{search_term_string}')) {
+  target = `${base}${searchUrlTemplate.startsWith('/') ? '' : '/'}${searchUrlTemplate}`;
+}
+
+const structuredData: any = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: siteName,
+  url: base
+};
+
+if (target) {
+  structuredData.potentialAction = {
+    '@type': 'SearchAction',
+    target,
+    'query-input': 'required name=search_term_string'
+  };
+}
+---
+<script type="application/ld+json" set:html={ JSON.stringify(structuredData) } />

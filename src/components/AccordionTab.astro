@@ -7,13 +7,13 @@ interface Props {
   link?: string;
 }
 
-const { text, link, class: className } = Astro.props;
+const { text, link = '#', class: className } = Astro.props;
 ---
 
-<div class:list={["group border-t border-black/[0.1] hover:border-blue transition", className]} data-tab>
+<div class:list={ ["group border-t border-black/[0.1] hover:border-blue transition", className] } data-tab>
   <div class="flex justify-between items-center py-7 cursor-pointer tab">
-    <p class="font-medium group-[.is-expanded]:text-blue text-2xl text-left">{text}</p>
-    <a href="" class="bg-black hover:bg-blue px-5 py-3 text-white scale-0 group-[.is-expanded]:scale-100 duration-500" href={link ?? '#'}>
+    <p class="font-medium group-[.is-expanded]:text-blue text-2xl text-left">{ text }</p>
+    <a href="" class="bg-black hover:bg-blue px-5 py-3 text-white scale-0 group-[.is-expanded]:scale-100 duration-500" href={ link }>
       Learn More
       <Icon class="my-auto ml-3 w-3 h-3" name="arrow-right" />
     </a>

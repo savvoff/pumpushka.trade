@@ -1,0 +1,6 @@
+---
+const { ...rest } = Astro.props
+---
+<nav aria-label="Breadcrumbs" data-slot="breadcrumb" { ...rest }>
+  <slot />
+</nav>

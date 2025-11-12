@@ -1,0 +1,48 @@
+name: Ingest News (Git-based)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 * * * *" # 1 hour
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+
+      - run: npm ci
+
+      - name: Fetch feed (Basic Auth)
+        run: node scripts/fetch-news.mjs
+        env:
+          NEWS_API_URL: ${{ secrets.NEWS_API_URL }}
+          NEWS_USER: ${{ secrets.NEWS_USER }}
+          NEWS_PASS: ${{ secrets.NEWS_PASS }}
+          NEWS_OUT: news.json
+
+      - name: Ingest → Markdown
+        run: node scripts/ingest-news.mjs news.json
+        env:
+          FRESH_DAYS: 30
+          
+      - name: Rewrite & translate posts (GPT)
+        run: node scripts/expand-and-translate.mjs
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit & Push
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "news-bot"
+            git config user.email "news-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "chore(news): ingest $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "No changes."
+          fi

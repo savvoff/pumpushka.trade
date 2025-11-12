@@ -1,7 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import { Icon } from 'astro-icon/components';
-import HeaderLink from '@components/HeaderLink.astro';
+import HeaderLink from '@components/ui/HeaderLink.astro';
 import { useI18n } from '@utils/translate';
 import { SITE, TRANSLATIONS } from '../constants';
 import config from '../content/site-config.json';
@@ -66,37 +66,37 @@ function hrefFor(targetLang: string) {
 
         <a
           class="relative font-heading text-2xl uppercase text-nowrap brand"
-          href={Astro.url.origin}
+          href={ Astro.url.origin }
         >
-          <img src={header.logo} alt={ t(SITE.title) } />
+          <img src={ header.logo } alt={ t(SITE.title) } />
         </a>
         <a class="relative" href={header.botLink} target="_blank">
-          <Icon name="telegram" class="shrink-0" size={32} />
+          <Icon name="telegram" class="shrink-0" size={ 32 } />
         </a>
         <nav class="flex flex-col space-y-3.5 mx-auto px-6 pb-4 max-h-[80vh] overflow-y-auto site-header__nav container">
           <div class="right-0 bottom-0 left-0 fixed flex justify-center overflow-clip">
             <Image
               class="scale-150 translate-y-1/2"
-              src={import("public/rays-menu.svg")}
+              src={ import("public/rays-menu.svg") }
               format="svg"
               alt="Rays"
             />
           </div>
           <ul class="relative space-y-1">
-            {header.menu && header.menu.map((item) => (
+            { header.menu && header.menu.map((item) => (
               <li class="bg-white p-2 border border-black rounded-xl">
               <HeaderLink
                 class="flex items-center gap-3 text-2xl"
-                href={Astro.url.origin + t(item.href)}>
+                href={ Astro.url.origin + t(item.href) }>
                 {item.image && (                  
                   <span class="bg-orange border rounded-lg w-14 aspect-square overflow-clip">
-                    <img class="w-full" src={item.image} alt={ t(SITE.title) } />
+                    <img class="w-full" src={ item.image } alt={ t(SITE.title) } />
                   </span>
                 )}
                 { t(item.label) }
               </HeaderLink>
             </li>
-            ))}
+            )) }
           </ul>         
           <div class="p-0.5 pl-4 border-2 rounded-3xl lang-switcher">
             <div class="flex items-center gap-2 text-sm cursor-pointer">
@@ -105,15 +105,15 @@ function hrefFor(targetLang: string) {
               </p>
               <span class="inline-block shrink-0">
                 <!-- <Icon name="arrow-down" /> -->
-                 <img class="border rounded-full w-8 h-8" src={`/${locale}.png`} alt={ locale } />
+                 <img class="border rounded-full w-8 h-8" src={ `/${locale}.png` } alt={ locale } />
               </span>
             </div>
             <ul class="gap-3 py-2 dropdown">
               {Object.keys(TRANSLATIONS).map((lang) => (
                 <li>
                   <a
-                    href={hrefFor(lang)}
-                    aria-current={lang === locale ? 'page' : undefined}
+                    href={ hrefFor(lang) }
+                    aria-current={ lang === locale ? 'page' : undefined }
                   >
                     { lang.toUpperCase() }
                   </a>

@@ -1,0 +1,138 @@
+---
+import { Icon } from 'astro-icon/components'
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import BlogLayout from '@layouts/Blog.astro';
+import Breadcrumbs from '@components/Breadcrumbs.astro';
+import { pathToSlug } from '@utils/buildDocsSidebar';
+import Categories from '@components/Categories.astro';
+import Tags from '@components/Tags.astro';
+import ArticleLd from '@components/seo/ArticleLd.astro';
+import { calculateWordCountFromHtml, readingTime } from '@utils/postTools';
+import RecentSlider from '@components/RecentSlider.astro';
+import SocialShare from '@components/SocialShare.astro';
+import Toc from '@components/Toc.astro';
+import RecentPosts from '@components/RecentPosts.astro';
+import Cta1 from '@components/adv/Cta1.astro';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+export async function getStaticPaths() {
+  const lang = 'en';
+  const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+  return posts.map((p) => {
+    const base = pathToSlug(p.id, lang);
+    return {
+      params: { slug: base },
+      props: { entry: p },
+    }
+  });
+}
+
+const { entry } = Astro.props;
+const { 
+  title, 
+  coverImage, 
+  description, 
+  publishedAt, 
+  updatedAt, 
+  category, 
+  tags, 
+  source, 
+  lang
+} = entry.data;
+
+const blogTitle = TRANSLATIONS[lang].blog;
+const postText = TRANSLATIONS[lang].post;
+const categoriesText = TRANSLATIONS[lang].categories;
+const tagsText = TRANSLATIONS[lang].tags;
+const updatedText = TRANSLATIONS[lang].updated;
+const backText = TRANSLATIONS[lang].back;
+
+const { Content, headings } = await entry.render();
+const wordsCount = calculateWordCountFromHtml(entry.body);
+---
+
+<BlogLayout 
+  title={ title } 
+  description={ description ?? postText } 
+  showToc={ Boolean(headings?.length) } 
+  showSearch={ false }
+  withSidebar={ true }
+  lang={ lang }
+>
+  <Breadcrumbs
+    slot="breadcrumbs"
+    items={[
+      { label: blogTitle, href: `/${lang}/blog`, icon: 'tabler:library' },
+      { label: category, href: `/${lang}/blog/category/${category.toLowerCase()}/`, icon: 'tabler:category' },
+      { label: title, href: Astro.url.toString(), icon: 'tabler:file-text' },
+    ]}
+  />
+
+  <ArticleLd 
+    headline={ title } 
+    description={ description }
+    url={ Astro.url.toString() }
+    image={ coverImage?.regular ?? undefined }
+    datePublished={ publishedAt.toISOString() }
+    dateModified={ updatedAt?.toISOString() }
+    authorName={ source?.name }
+    publisherName={ SITE.author }
+    publisherLogo={ new URL('/dzen.png', Astro.url).toString() }
+  />
+  <article data-pagefind-body data-pagefind-language={ lang } data-pagefind-filter={ `lang:${lang}` }>
+    <header class="space-y-4 mb-6">
+      <button class="flex items-center gap-1 bg-white hover:bg-slate-50 px-2 py-1 border rounded text-sm" onclick="APP.goBackSafely()" type="button">
+        <Icon name="tabler:arrow-back" class="size-4" />
+        { backText }
+      </button>
+      <div class="space-x-1 opacity-70 text-sm">
+        <span class="inline-flex items-center gap-1"><Icon name="tabler:calendar-week-filled" class="size-4" /> { (updatedAt ?? publishedAt).toLocaleDateString(lang, { timeZone: 'UTC' }) }</span>
+        <span class="inline-flex items-center gap-1"><Icon name="tabler:ballpen" class="size-4" />{ wordsCount } words</span>
+        <span class="inline-flex items-center gap-1"><Icon name="tabler:hourglass-high" class="size-4" /> { readingTime(wordsCount) }</span>
+      </div>
+      <h1 class="font-bold text-3xl">{ title }</h1>
+      { tags?.length ? (
+        <ul class="flex flex-wrap gap-2 opacity-80 p-0 text-xs list-none">
+          { tags.map((tag) => <li class="bg-slate-300 px-2 py-1 rounded">{ tag }</li>) }
+        </ul>
+      ) : null }
+    </header>
+
+    { coverImage && (
+    <div class="mb-5 rounded-md aspect-video overflow-hidden">
+      <Image
+        class="bg-slate-300 w-full h-full object-cover"
+        width={ 1080 }
+        height={ 720 } 
+        src={ coverImage.regular }
+        alt={ title }
+      />
+    </div>
+    ) }
+
+    <Content />
+
+    { updatedAt && (
+      <p class="opacity-60 mt-8 text-xs">
+        { updatedText }: { updatedAt.toLocaleString(lang, { timeZone: 'UTC' }) }
+      </p>
+    ) }
+  </article>
+
+  <!-- Share section -->
+  <SocialShare title={ title } description={ description } lang={ lang } />
+
+  <!-- CTA section -->
+  <Cta1 lang={ lang } />
+
+  <RecentSlider lang={ lang } />
+  
+  <!-- sidebar slots -->  
+  <RecentPosts slot="recent" limit={ 5 } showThumbnails={ true } lang={ lang } />
+  <Toc slot="toc" headings={ headings } />
+  <Categories slot="categories" title={ categoriesText } lang={ lang } />
+  <Tags slot="tags" title={ tagsText } lang={ lang } />
+<!-- <div slot="ad-sidebar"></div>
+  <div slot="ad-top"></div> -->
+</BlogLayout>

@@ -1,7 +1,7 @@
 import opts from './options';
 import sliders from './sliders';
 
- interface AccordionElements {
+interface AccordionElements {
   item: HTMLElement;
   trigger: HTMLElement;
   panel: HTMLElement;
@@ -58,6 +58,18 @@ class App implements AppInterface {
     this.sliders = sliders;
   }
 
+  goBackSafely() {
+    const ref = document.referrer;
+    const hasHistory = history.length > 1;
+    const sameOrigin = ref && new URL(ref).origin === location.origin;
+
+    if (hasHistory && sameOrigin) {
+      history.back();
+    } else {
+      // fallback
+      window.location.href = '/';
+    }
+  }
 
   initAccordion(cls = '.accordion-item') {
     const accordionItems = document.querySelectorAll<HTMLElement>(cls);

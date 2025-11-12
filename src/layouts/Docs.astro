@@ -1,4 +1,5 @@
 ---
+import type { MarkdownHeading } from 'astro';
 import { Icon } from 'astro-icon/components';
 import Analytics from '@vercel/analytics/astro';
 import BaseHead from '@components/BaseHead.astro';
@@ -6,47 +7,64 @@ import Header from '@components/Header.astro';
 import LeftSidebar from '@components/LeftSidebar.astro';
 import RightSidebar from '@components/RightSidebar.astro';
 import PageContent from '@components/PageContent.astro';
+import ToTopButton from '@components/ToTopButton.astro';
 
-import { SITE } from '../constants';
+import type { FM, SidebarItem } from 'src/types';
+import { SITE, type LangCode } from '../constants';
+
+interface Props {
+  title: string;
+  description: string;
+  sidebar: SidebarItem[];
+  content?: FM & { slug: string };
+  image?: string;
+  lang?: LangCode;
+  showToc?: boolean; 
+  headings?: MarkdownHeading[];
+}
 
 const { 
   title, 
   description, 
   image, 
   lang = SITE.defaultLanguage, 
-  content = {}, 
+  content = {} as FM & { slug: string }, 
   headings,
   sidebar
 } = Astro.props;
-
 ---
 
 <html class="scroll-smooth" lang={lang}>
 	<head>
-		<BaseHead title={title} description={description} image={image} allowRobots={SITE.robots} locale={lang} />
+		<BaseHead title={ title } description={ description } image={ image } allowRobots={ SITE.robots } />
 	</head>
 
 	<body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
-		<Header locale={lang} />
+		<Header locale={ lang } />
+    
 		<div class="grid grid-cols-12 pt-24">
-			<div class="group top-12 left-0 fixed lg:sticky flex col-span-3 mt-12 h-screen transition -translate-x-64 lg:translate-x-0 navigation">
-				<div class="flex items-start gap-x-4 ml-auto">
-					<LeftSidebar currentPage={content.slug} sidebar={sidebar} />
-          <button class="lg:hidden flex bg-blue-200 hover:bg-blue px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
-            <Icon name="burger" class="hidden group-[.-translate-x-64]:inline m-auto" size={22} />
-            <Icon name="arrow" class="group-[.-translate-x-64]:hidden m-auto -scale-100" size={22} />
+			<aside class="group lg:top-24 bottom-8 left-0 fixed lg:sticky flex self-end lg:self-start col-span-3 mt-12 transition -translate-x-64 lg:translate-x-0 navigation">
+				<div class="flex justify-end gap-x-4 ml-auto w-full">
+          <LeftSidebar currentPage={ content.slug } sidebar={ sidebar } />
+          <button class="lg:hidden flex self-end bg-blue-200 hover:bg-blue px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
+            <Icon name="burger" class="hidden group-[.-translate-x-64]:inline m-auto" size={ 22 } />
+            <Icon name="arrow" class="group-[.-translate-x-64]:hidden m-auto -scale-100" size={ 22 } />
           </button>
 				</div>
-			</div>
-			<main class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 pb-32 max-lg:pl-20 overflow-auto container">        
-        <PageContent content={content} lang={lang} sidebar={sidebar}>
+			</aside>
+      
+			<main id="content" class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 pb-32 container" data-pagefind-ignore="all" aria-label="Content">        
+        <PageContent content={ content } lang={ lang } sidebar={ sidebar }>
           <slot />
         </PageContent>
 			</main>
-			<div class="hidden top-12 sticky xl:flex col-span-3 mt-24 h-screen">
-				<RightSidebar headings={headings} />
+
+			<div class="hidden xl:block top-24 sticky self-start space-y-6 col-span-3 mt-24">
+				<RightSidebar headings={ headings } />
 			</div>
 		</div>
+    
+    <ToTopButton />
     <Analytics/>
 	</body>	
   <script is:inline>

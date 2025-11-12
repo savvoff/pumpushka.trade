@@ -1,0 +1,51 @@
+---
+import { Image } from 'astro:assets';
+import { useI18n } from '@utils/translate';
+import SocialsButtons from './SocialsButtons.astro';
+import { SITE } from '../constants';
+import MdContent from './MdContent.astro';
+import config from '../content/site-config.json';
+
+type Props = {
+  locale: string;
+}
+
+type SocialItem = {
+  icon: string;
+  label: Record<string, string>;
+  href: Record<string, string>;
+};
+
+interface Footer {
+  links: SocialItem[];
+}
+
+const { locale } = Astro.props;
+const t = useI18n(locale);
+const content = config.footer as Footer;
+---
+
+<section class="hidden lg:block space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md">
+  <figure class="space-y-2 text-center">
+    <div class="mx-auto p-2 border rounded-full w-28 h-28 aspect-square overflow-hidden">
+      <Image
+        class="w-full h-full object-contain"
+        src={ import("public/dzen.png") }
+        alt={ SITE.author }
+      />
+    </div>
+    <figcaption class="text-slate-500 italic leading-tight">
+      <MdContent content={ t(SITE.slogan) } />
+    </figcaption>
+  </figure>
+
+  <SocialsButtons class="items-center">
+    { content.links && content.links.map((item) => (
+      <li class="group">
+        <a class="inline-flex bg-white/[0.2] rounded-full w-8 h-8" href={ t(item.href) } target="_blank" rel="noopener noreferrer">
+          <img class="relative m-auto w-5 h-5 scale-100 group-hover:scale-90 transition-transform duration-500" src={ item.icon } alt={ t(item.label) } />
+        </a>
+      </li>
+    )) }
+  </SocialsButtons>
+</section>

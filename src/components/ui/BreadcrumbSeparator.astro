@@ -1,0 +1,27 @@
+---
+const { className = '', ...rest } = Astro.props;
+const { children } = Astro.slots;
+---
+
+<li
+  data-slot="breadcrumb-separator"
+  role="presentation"
+  aria-hidden="true"
+  class={`[&>svg]:size-3.5 ${className}`}
+  {...rest}
+>
+  {
+    children ? (
+      <slot />
+    ) : (
+      <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+        <path
+          d="M9 6l6 6-6 6"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+        />
+      </svg>
+    )
+  }
+</li>

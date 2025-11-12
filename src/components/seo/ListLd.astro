@@ -1,0 +1,24 @@
+---
+interface Item { 
+  url: string; 
+  name: string; 
+  datePublished?: string; 
+}
+interface Props { 
+  items: Item[]; 
+}
+const { items } = Astro.props;
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: items.map((it, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: it.url,
+    name: it.name,
+    datePublished: it.datePublished
+  }))
+};
+---
+<script type="application/ld+json" set:html={ JSON.stringify(structuredData) } />

@@ -1,0 +1,92 @@
+---
+import { Icon } from 'astro-icon/components'
+import { getCollection } from 'astro:content';
+import { pathToSlug } from '@utils/buildDocsSidebar';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+interface Props {
+  title?: string;
+  limit?: number;
+  lang?: string;            
+  category?: string
+  tag?: string;
+  excludeSlug?: string;
+  showThumbnails?: boolean;
+}
+
+const {
+  title,
+  limit = 7,
+  lang = SITE.defaultLanguage,
+  category,
+  tag,
+  excludeSlug,
+  showThumbnails = false,
+} = Astro.props;
+
+const heading = title || TRANSLATIONS[lang].recentPosts;
+
+const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
+  .filter((p) => {
+    if (excludeSlug && p.slug === excludeSlug) return false;
+    if (lang && String(p.data.lang || '').toLowerCase() !== lang.toLowerCase()) return false;
+    if (category && String(p.data.category || '').toLowerCase() !== category.toLowerCase()) return false;
+    if (tag) {
+      const tags = Array.isArray(p.data.tags) ? p.data.tags.map(String) : [];
+      const hit = tags.some(t => t.toLowerCase() === tag.toLowerCase());
+      if (!hit) return false;
+    }
+    return true;
+  })
+  .sort((a, b) =>
+    (b.data.stickyWeight - a.data.stickyWeight) ||
+    (b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  )
+  .slice(0, limit);
+
+const headingId = `recent-${Math.random().toString(36).slice(2,8)}`;
+---
+
+{ posts.length > 0 && (
+  <section class="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md"
+           aria-labelledby={ headingId }>
+    <p id={ headingId } class="flex items-center gap-1 mb-3 font-semibold"><Icon name="tabler:list-letters" class="size-4" />{ heading }</p>
+
+    <ul class="space-y-3">
+      { posts.map((p) => {
+        const href = `${langPrefix}/blog/${pathToSlug(p.id, lang)}/`;
+        const dateIso = p.data.publishedAt.toISOString();
+        const datePretty = p.data.publishedAt.toLocaleDateString(lang, { timeZone: 'UTC' });
+        const thumb = p.data.coverImage?.thumb && showThumbnails;
+
+        return (
+          <li>
+            <div class="flex items-start gap-3">
+              { thumb && (
+                <a href={ href } aria-label={ `Open post: ${p.data.title}` } class="shrink-0">
+                  <img src={ p.data.coverImage?.thumb ?? SITE.placeholder() }
+                       alt={ p.data.title }
+                       aria-hidden="true"
+                       class="bg-slate-300 border rounded w-20 h-14 object-cover" />
+                </a>
+              )}
+              <div class="min-w-0">
+                <h4 class="font-medium text-sm leading-snug">
+                  <a href={ href } aria-label={`Open post: ${p.data.title}`}
+                     class="hover:underline line-clamp-3">
+                    { p.data.title }
+                  </a>
+                </h4>
+                <p class="mt-0.5 text-slate-500 text-xs">
+                  { p.data.category } · <time datetime={ dateIso }>{ datePretty }</time>
+                </p>
+              </div>
+            </div>
+          </li>
+        );
+      }) }
+    </ul>
+  </section>
+)}

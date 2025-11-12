@@ -1,0 +1,115 @@
+---
+import { Icon } from 'astro-icon/components';
+import Search from 'astro-pagefind/components/Search';
+import Analytics from '@vercel/analytics/astro';
+import BaseHead from '@components/BaseHead.astro';
+import Header from '@components/Header.astro';
+import Author from '@components/Author.astro';
+import SiteLd from '@components/seo/SiteLd.astro';
+import ToTopButton from '@components/ToTopButton.astro';
+import { useI18n } from '@utils/translate';
+
+import { SITE, type LangCode } from '../constants';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  lang?: LangCode;
+  showToc?: boolean;
+  showAuthor?: boolean;
+  showSearch?: boolean;
+  withSidebar?: boolean;
+  prev?: string;
+  next?: string;
+}
+
+const { 
+  title, 
+  description, 
+  image, 
+  lang = SITE.defaultLanguage,
+  showToc = false,
+  showAuthor = true,
+  showSearch = true,
+  withSidebar = true,
+  prev,
+  next
+} = Astro.props;
+
+const t = useI18n(lang);
+---
+
+<html class="scroll-smooth" lang={ lang }>
+	<head>
+		<BaseHead 
+      title={ title } 
+      description={ description } 
+      image={ image } 
+      allowRobots={ SITE.robots } 
+      prevUrl= { prev }
+      nextUrl= { next }
+    />
+	</head>
+
+	<body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
+    <Header locale={ lang } />
+
+    <div class="grid grid-cols-12 pt-24">
+			<aside class="group bottom-8 left-0 fixed lg:sticky flex self-end col-span-3 mt-12 transition -translate-x-64 lg:translate-x-0 navigation">
+				<div class="flex justify-end gap-x-4 ml-auto w-full">
+          <div class="flex flex-col gap-y-6 w-64 xl:w-3/4">
+            <!-- aside slots -->
+            { showAuthor && (      
+              <Author locale={ lang } slot="author" />
+            )}
+            { showToc && (
+              <slot name="toc" />
+            )}          
+            <slot name="recent" />
+          </div>
+          <button class="lg:hidden flex self-end bg-blue-200 hover:bg-blue px-4 py-2 rounded-md h-10 text-white show-nav" type="button">
+            <Icon name="burger" class="hidden group-[.-translate-x-64]:inline m-auto" size={ 22 } />
+            <Icon name="arrow" class="group-[.-translate-x-64]:hidden m-auto -scale-100" size={ 22 } />
+          </button>
+				</div>
+			</aside>
+			<main id="content" class="flex flex-col gap-7 col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 container" aria-label="Content">      
+        <!-- Breadcrumbs slot -->
+        <slot name="breadcrumbs" />
+        { showSearch && (
+          <!-- Search -->
+          <SiteLd siteName={ t(SITE.title) } siteUrl={ Astro.site!.href } searchUrlTemplate="/?q={search_term_string}" />
+          <div class="top-24 [.site-header.is-hidden~.grid_&]:top-6 z-40 sticky transition-all">
+            <Search id="search" className="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md pagefind-ui" uiOptions={{ showImages: false }} />
+          </div>
+        )}
+        <slot />
+			</main>
+
+      { withSidebar && (
+			<div class="hidden xl:block bottom-8 sticky self-end col-span-3 mt-12">
+        <div class="flex flex-col space-y-6 mr-auto w-3/4">
+          <!-- sidebar slots -->
+          <slot name="categories" />
+          <slot name="tags" />
+          <slot name="ad-sidebar" />
+        </div>
+			</div>
+      )}
+		</div>
+    <ToTopButton />
+    <Analytics />
+  </body>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      const nav = document.querySelector('.navigation');
+      document.querySelector('.show-nav')?.addEventListener('click', () => {
+        nav?.classList.toggle('-translate-x-64');
+      });
+    });
+  </script>
+	<script>
+		import '../scripts/app.ts';
+	</script>
+</html>

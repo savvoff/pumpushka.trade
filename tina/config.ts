@@ -1,5 +1,5 @@
 import { defineConfig } from 'tinacms';
-import { siteConfig, homePage, docPage } from './schemas';
+import { siteConfig, homePage, docPage, blogPage, postPage } from './schemas';
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -31,7 +31,9 @@ export default defineConfig({
     collections: [
       siteConfig,
       homePage,
-      docPage
+      blogPage,
+      postPage,
+      docPage,
     ],
   },
   search: {

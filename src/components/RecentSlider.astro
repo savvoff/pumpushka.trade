@@ -1,0 +1,58 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import Slider from '@components/Slider.astro';
+import { pathToSlug } from '@utils/buildDocsSidebar';
+import { SITE, TRANSLATIONS, type LangCode } from 'src/constants';
+
+type Props = {
+  lang?: LangCode;
+  limit?: number;
+}
+
+const { 
+  lang = SITE.defaultLanguage,
+  limit = 4
+} = Astro.props;
+
+const title = TRANSLATIONS[lang].recentPosts;
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
+  .sort((a, b) =>
+    (b.data.stickyWeight - a.data.stickyWeight) ||
+    (b.data.publishedAt.getTime() - a.data.publishedAt.getTime())
+  )
+  .slice(0, limit);
+---
+
+<div class="space-y-6 my-7">
+  <h2 class="mb-6 font-bold text-3xl">{ title }</h2>
+  
+  <Slider options={ JSON.stringify({ perPage: 1, arrows: true, width: '100%', breakpoints: { 768: { perPage: 2 } } }) } overflow={ true }>
+    { posts && posts.map((post) => (
+    <li class="flex items-stretch splide__slide">
+      <a
+        href={ `/blog/${pathToSlug(post.id, lang)}/` }
+        class="block relative space-y-3 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md w-full"
+        aria-label={`Open category: ${post.data.title}` }
+      >
+        <div class="border rounded aspect-2/1 overflow-hidden">
+          <Image
+            class="bg-slate-300 w-full h-full object-cover"
+            width={ 400 }
+            height={ 300 } 
+            src={ post.data.coverImage?.small ?? SITE.placeholder() }
+            alt={ post.data.title }
+          />
+        </div>
+        <div class="flex flex-col gap-y-5">
+          <p class="font-semibold text-lg leading-tight">{ post.data.title }</p>
+          <p class="mt-auto text-sm line-clamp-3">
+            { post.data.description }
+          </p>
+        </div>
+      </a>
+    </li>
+    )) }
+  </Slider>
+</div>

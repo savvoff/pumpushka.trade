@@ -1,0 +1,102 @@
+---
+import { Icon } from 'astro-icon/components'
+import { getCollection } from 'astro:content';
+import { SITE, type LangCode } from 'src/constants';
+import { slugify } from 'scripts/slugify.mjs';
+
+interface Props {
+  title?: string;
+  currentTag?: string;
+  limit?: number;
+  minCount?: number;
+  compact?: boolean;
+  showCount?: boolean;
+  lang?: LangCode;
+}
+
+const {
+  title = 'Tags',
+  currentTag = '',
+  limit = 24,
+  minCount = 1,
+  compact = true,
+  showCount = false,
+  lang = SITE.defaultLanguage
+} = Astro.props;
+const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+
+const counts = new Map<string, number>();
+for (const e of entries) {
+  const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
+  for (const t of tags) {
+    const n = String(t || '').trim();
+    if (!n) continue;
+    counts.set(n, (counts.get(n) ?? 0) + 1);
+  }
+}
+
+const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
+
+let items = [...counts.entries()]
+  .filter(([, c]) => c >= minCount)
+  .sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0]));
+
+if (limit > 0) items = items.slice(0, limit);
+
+function toPath(seg: string) {
+  return `${langPrefix}/blog/tag/${slugify(seg)}/`;
+}
+
+const maxCount = items[0]?.[1] ?? 1;
+const minCountFound = items[items.length - 1]?.[1] ?? 1;
+
+function scale(count: number) {
+  if (compact) return 1;
+  if (maxCount === minCountFound) return 1;
+  const t = (count - minCountFound) / (maxCount - minCountFound); // 0..1
+  return 0.85 + t * (1.25 - 0.85);
+}
+---
+<section class="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md">
+  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:tags" class="size-4" />{ title }</p>
+
+  { compact ? (
+    <ul class="flex flex-wrap gap-2">
+      {items.map(([name, count]) => {
+        const active = name.toUpperCase() === currentTag.toUpperCase();
+        return (
+          <li class="max-w-full">
+            <a href={ toPath(name) }
+               class={`inline-flex items-center max-w-full rounded-lg border px-2.5 py-1 text-sm transition
+                       ${ active
+                        ? 'border-orange bg-orange text-white'
+                        : 'border-slate-200 hover:bg-slate-100'}` }
+                        aria-label={ `Open tag: ${name}` }>
+              <span class="truncate">{ name }</span>
+              { showCount && <span class="opacity-60 ml-1 text-xs">({ count })</span> }
+            </a>
+          </li>
+        );
+      }) }
+    </ul>
+  ) : (
+    <div class="flex flex-wrap gap-2">
+      { items.map(([name, count]) => {
+        const active = name.toUpperCase() === currentTag.toUpperCase();
+        const s = scale(count).toFixed(2);
+        return (
+          <a href={ toPath(name) }
+             style={`font-size:${s}rem`}
+             class={`inline-flex items-center rounded-lg px-2.5 py-1 transition
+                     ${ active
+                      ? 'bg-orange text-white'
+                      : 'hover:bg-slate-100'}` }
+                      aria-label={ `Open tag: ${name}` }>
+            <span class="truncate">{ name }</span>
+            { showCount && <span class="opacity-60 ml-1 tabular-nums text-xs">{ count }</span> }
+          </a>
+        );
+      }) }
+    </div>
+  )}
+</section>

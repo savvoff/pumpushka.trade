@@ -2,6 +2,8 @@
 import { defineConfig, passthroughImageService } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import icon from 'astro-icon';
+import pagefind from 'astro-pagefind';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
@@ -27,7 +29,28 @@ export default defineConfig({
   compressHTML: false,
   integrations: [
     tailwind(),
+    pagefind(),
+    sitemap({
+       i18n: {
+        defaultLocale: 'uk',
+        locales: {
+          en: 'en-US',
+          uk: 'uk-UA',
+        },
+      },
+      changefreq: 'hourly',
+      priority: 0.7,
+      filter: (page) => {
+        if (page.startsWith('/search/')) return false;
+        if (page.startsWith('/draft/')) return false;
+        if (page.startsWith('/admin/')) return false;
+        return true;
+      },
+    }),
     icon({
+      include: {
+        tabler: ['*']
+      },
       svgoOptions: {
         multipass: true,
         plugins: [

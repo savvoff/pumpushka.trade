@@ -1,0 +1,210 @@
+---
+import { Icon } from 'astro-icon/components';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+interface Props {
+  title: string;
+  lang?: string;
+  url?: string;              // absolute or relative; if empty - take from Astro.url
+  description?: string;      // optional (for some socials)
+  tags?: string[];           // for X/LinkedIn/Reddit (optional)
+  via?: string;              // X: @handle without @ (optional)
+  campaign?: string;         // UTM campaign; default: "share"
+}
+
+const {
+  title,
+  lang = SITE.defaultLanguage,
+  url,
+  description = '',
+  tags = [],
+  via = '',
+  campaign = 'share',
+} = Astro.props;
+
+const currTranslations = TRANSLATIONS[lang];
+const site = Astro.site?.href?.replace(/\/$/, '') || '';
+const pageUrl = url
+  ? (url.startsWith('http') ? url : `${site}${url.startsWith('/') ? '' : '/'}${url}`)
+  : `${site}${Astro.url.pathname}${Astro.url.search || ''}`;
+
+
+function withUtm(raw: string, source: string) {
+  const u = new URL(raw, site);
+  u.searchParams.set('utm_source', source.toLowerCase());
+  u.searchParams.set('utm_medium', 'social');
+  u.searchParams.set('utm_campaign', campaign);
+  return u.toString();
+}
+
+const cleanTags = tags
+  .map(t => String(t).replace(/[^a-z0-9_]/gi, ''))
+  .filter(Boolean)
+  .slice(0, 5); // 5 - it's pretty ok
+
+const links = [
+  { key: 'brand-twitter', label: `${currTranslations.share} X (Twitter)`,
+    href: (() => {
+      const u = new URL('https://twitter.com/intent/tweet');
+      u.searchParams.set('url', withUtm(pageUrl, 'x'));
+      u.searchParams.set('text', title);
+      if (cleanTags.length) u.searchParams.set('hashtags', cleanTags.join(','));
+      if (via) u.searchParams.set('via', via.replace('@', ''));
+      return u.toString();
+    })()
+  },
+  { key: 'brand-facebook', label: `${currTranslations.share} Facebook`,
+    href: (() => {
+      const u = new URL('https://www.facebook.com/sharer/sharer.php');
+      u.searchParams.set('u', withUtm(pageUrl, 'facebook'));
+      return u.toString();
+    })()
+  },
+  { key: 'brand-linkedin', label: `${currTranslations.share} LinkedIn`,
+    href: (() => {
+      const u = new URL('https://www.linkedin.com/sharing/share-offsite/');
+      u.searchParams.set('url', withUtm(pageUrl, 'linkedin'));
+      return u.toString();
+    })()
+  },
+  { key: 'brand-telegram', label: `${currTranslations.share} Telegram`,
+    href: (() => {
+      const u = new URL('https://t.me/share/url');
+      u.searchParams.set('url', withUtm(pageUrl, 'telegram'));
+      u.searchParams.set('text', title);
+      return u.toString();
+    })()
+  },
+  { key: 'brand-reddit', label: `${currTranslations.share} Reddit`,
+    href: (() => {
+      const u = new URL('https://www.reddit.com/submit');
+      u.searchParams.set('url', withUtm(pageUrl, 'reddit'));
+      u.searchParams.set('title', title);
+      return u.toString();
+    })()
+  },
+  { key: 'mail', label: `${currTranslations.share} email`,
+    href: (() => {
+      const u = new URL('mailto:');
+      u.searchParams.set('subject', title);
+      const body = `${description ? description + '\n\n' : ''}${withUtm(pageUrl, 'email')}`;
+      u.searchParams.set('body', body);
+      return u.toString();
+    })()
+  },
+] as const;
+
+const clientData = {
+  title,
+  description,
+  pageUrl,
+  links,
+};
+---
+
+<section aria-labelledby="Share-heading">
+  <p id="share-heading" class="flex items-center gap-2 mb-4 font-semibold text-xl">
+    <Icon name="tabler:share" class="size-5" />
+    { currTranslations.share }
+  </p>
+
+   <div class="flex flex-wrap gap-2 lg:w-3/4" id="share-buttons">
+    <!-- system share -->
+    <button type="button" class="flex items-center gap-1 bg-white hover:bg-slate-50 px-2 py-1 border rounded text-sm"
+            aria-label={ currTranslations.share } data-key="system">
+      <Icon name="tabler:printer" class="size-4" />
+      <span aria-hidden="true">{ currTranslations.share }</span>
+      <span class="sr-only">{ currTranslations.share }...</span>
+    </button>
+
+    <!-- copy link -->
+    <button type="button" class="flex items-center gap-1 bg-white hover:bg-slate-50 px-2 py-1 border rounded text-sm"
+            aria-label={ currTranslations.copy } data-key="copy">
+      <Icon name="tabler:copy" class="size-4" />
+      <span aria-hidden="true">{ currTranslations.copy }</span>
+      <span class="sr-only">{ currTranslations.copy }</span>
+    </button>
+
+    { links.map(l => (
+      <a href={ l.href }
+         target="_blank" rel="noopener nofollow"
+         aria-label={ l.label }
+         class="flex items-center gap-1 bg-white hover:bg-slate-50 px-2 py-1 border rounded text-sm"
+      >
+        <Icon name={`tabler:${l.key}`} class="size-4" />
+        <span class="capitalize" aria-hidden="true">
+          { l.key.replace('brand-', '') }
+        </span>
+        <span class="sr-only">{ l.label }</span>
+      </a>
+    )) }
+  </div>
+
+  <p id="share-status" class="opacity-70 mt-2 text-xs" role="status" aria-live="polite"></p>
+
+  <script type="application/json" id="share-data" set:html={ JSON.stringify(clientData) }></script>
+  <script is:inline>
+    (() => {
+      const dataEl = document.getElementById('share-data');
+      const host = document.getElementById('share-buttons');
+      const status = document.getElementById('share-status');
+      if (!dataEl || !host) return;
+
+      const cfg = JSON.parse(dataEl.textContent || '{}');
+
+      function setStatus(text) {
+        if (!status) return;
+        status.textContent = text;
+        clearTimeout(window.__shareTimer);
+        window.__shareTimer = setTimeout(() => (status.textContent = ''), 2500);
+      }
+
+      function openPopup(url) {
+        const w = 700, h = 560;
+        const y = window.top.outerHeight / 2 + window.top.screenY - ( h / 2);
+        const x = window.top.outerWidth / 2 + window.top.screenX - ( w / 2);
+        window.open(url, 'share', `width=${w},height=${h},left=${x},top=${y},noopener,noreferrer`);
+      }
+
+      host.addEventListener('click', async (e) => {
+        const t = e.target.closest('[data-key]');
+        if (!t) return;
+        const key = t.getAttribute('data-key');
+
+        if (key === 'copy') {
+          try {
+            await navigator.clipboard.writeText(cfg.pageUrl);
+            setStatus('✅ Copied');
+          } catch {
+            setStatus('🚫 Error');
+          }
+          return;
+        }
+
+        if (key === 'system') {
+          if ('share' in navigator) {
+            try {
+              await navigator.share({
+                title: cfg.title,
+                text: cfg.description || '',
+                url: cfg.pageUrl
+              });
+              setStatus('✅ Shared');
+            } catch { /* user cancelled */ }
+          } else {
+            const first = host.querySelector('a[href]');
+            if (first) openPopup(first.getAttribute('href'));
+          }
+          return;
+        }
+      });
+
+      host.querySelectorAll('a[target="_blank"]').forEach(a => {
+        a.addEventListener('click', (e) => {
+          e.preventDefault();
+          openPopup(a.href);
+        });
+      });
+    })();
+  </script>
+</section>

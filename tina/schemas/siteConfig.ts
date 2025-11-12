@@ -14,6 +14,9 @@ export const siteConfig: Collection = {
       delete: false,
     },
   },
+  defaultItem: () => ({
+    postsPerPage: 12,
+  }),
   fields: [
     {
       name: 'siteTitle',
@@ -47,6 +50,20 @@ export const siteConfig: Collection = {
       name: 'isIndexing',
       label: 'Дозволити індексацію',
       type: 'boolean',
+    },
+    {
+      name: 'postsPerPage',
+      label: 'Кількість постів на сторінку',
+      type: 'number',
+    },
+    {
+      name: 'slogan',
+      label: 'Дивіз',
+      type: 'object',
+      fields: [
+        { name: 'uk', label: 'Українська', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+        { name: 'en', label: 'English', type: 'rich-text', toolbarOverride: ['heading', 'bold', 'italic'] },
+      ],
     },
     {
       name: 'header',

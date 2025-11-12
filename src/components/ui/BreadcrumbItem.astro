@@ -1,0 +1,6 @@
+---
+const { className = '', ...rest } = Astro.props
+---
+<li data-slot="breadcrumb-item" class={`inline-flex items-center gap-1.5 ${className}`} {...rest}>
+  <slot />
+</li>

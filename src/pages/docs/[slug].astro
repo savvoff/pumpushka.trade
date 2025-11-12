@@ -1,53 +1,48 @@
 ---
-import type { MarkdownInstance } from 'astro';
+import { getCollection, getEntry } from 'astro:content';
 import DocsLayout from '@layouts/Docs.astro';
 import { buildDocsSidebar, pathToSlug } from '@utils/buildDocsSidebar';
 import { SITE } from 'src/constants';
-import type { FM } from 'src/types';
 
 export async function getStaticPaths() {
-
-  // Literal glob (required), then filter by current default language.
-  const allModules = import.meta.glob('/src/content/docs/**/*.md');
-
-  const entries = await Promise.all(
-    Object.entries(allModules).map(async ([path, load]) => {
-      if (!path.endsWith(`.${SITE.defaultLanguage}.md`)) return null;
-      const mod = (await load()) as MarkdownInstance<FM>;
-      if (mod.frontmatter?.draft) return null;
-
-      return {
-        params: { slug: pathToSlug(path, SITE.defaultLanguage) },
-        // Pass the loader so we don't need the glob later
-        props: { load },
-      };
-    })
+  const docs = await getCollection(
+    'docs',
+    ({ data }) => !data.draft && (data.lang ?? SITE.defaultLanguage) === SITE.defaultLanguage
   );
 
-  return entries.filter(Boolean) as {
-    params: { slug: string };
-    props: { load: () => Promise<unknown> };
-  }[];
+  return docs.map((entry) => {
+    const base = pathToSlug(entry.id, SITE.defaultLanguage);
+    return {
+      params: { slug: base },
+      props: { slug: entry.slug }
+    };
+  });
 }
 
-const { load } = Astro.props;
-const mod = (await load()) as MarkdownInstance<FM>;
-const { Content, frontmatter, getHeadings } = mod;
-const headings = getHeadings?.() ?? [];
+const { slug } = Astro.props;
 
+const entry = await getEntry('docs', slug);
+
+if (!entry) {
+  Astro.response.status = 404;
+  return;
+}
+
+const rendered = await entry.render();
+const { Content, headings } = rendered;
+
+const frontmatter = entry.data;
 const title = frontmatter.title;
 const description = frontmatter.description;
-const image = frontmatter.image;
 const lang = SITE.defaultLanguage;
 
-const content = { ...frontmatter, slug: Astro.params.slug };
-const sidebar = await buildDocsSidebar(SITE.defaultLanguage, { withLangPrefix: false });
+const sidebar = await buildDocsSidebar(lang, { withLangPrefix: false });
+const content = { ...frontmatter, slug: slug };
 ---
 
 <DocsLayout
   title={title}
   description={description}
-  image={image}
   lang={lang}
   content={content}
   headings={headings}

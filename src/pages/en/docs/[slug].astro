@@ -1,49 +1,48 @@
 ---
-import type { MarkdownInstance } from 'astro';
+import { getCollection, getEntry } from 'astro:content';
 import DocsLayout from '@layouts/Docs.astro';
 import { buildDocsSidebar, pathToSlug } from '@utils/buildDocsSidebar';
-import type { FM } from 'src/types';
+import { SITE } from 'src/constants';
 
 export async function getStaticPaths() {
-  const enModules = import.meta.glob('/src/content/docs/**/*.en.md');
-
-  const entries = await Promise.all(
-    Object.entries(enModules).map(async ([path, load]) => {
-      const mod = (await load()) as MarkdownInstance<FM>;
-      if (mod.frontmatter?.draft) return null;
-
-      return {
-        params: { slug: pathToSlug(path, 'en') },
-        // Pass the loader so we don't need the glob later
-        props: { load },
-      };
-    })
+  const docs = await getCollection(
+    'docs',
+    ({ data }) => !data.draft && (data.lang ?? SITE.defaultLanguage) === 'en'
   );
 
-  return entries.filter(Boolean) as {
-    params: { slug: string };
-    props: { load: () => Promise<unknown> };
-  }[];
+  return docs.map((entry) => {
+    const base = pathToSlug(entry.id, 'en');
+    return {
+      params: { slug: base },
+      props: { slug: entry.slug }
+    };
+  });
 }
 
-const { load } = Astro.props;
-const mod = (await load()) as MarkdownInstance<FM>;
-const { Content, frontmatter, getHeadings } = mod;
-const headings = getHeadings?.() ?? [];
+const { slug } = Astro.props;
 
+const entry = await getEntry('docs', slug);
+
+if (!entry) {
+  Astro.response.status = 404;
+  return;
+}
+
+const rendered = await entry.render();
+const { Content, headings } = rendered;
+
+const frontmatter = entry.data;
 const title = frontmatter.title;
 const description = frontmatter.description;
-const image = frontmatter.image;
 const lang = 'en';
 
-const content = { ...frontmatter, slug: Astro.params.slug };
-const sidebar = await buildDocsSidebar(lang);
+const sidebar = await buildDocsSidebar(lang, { withLangPrefix: false });
+const content = { ...frontmatter, slug: slug };
 ---
 
 <DocsLayout
   title={title}
   description={description}
-  image={image}
   lang={lang}
   content={content}
   headings={headings}

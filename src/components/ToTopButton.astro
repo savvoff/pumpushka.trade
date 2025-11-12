@@ -1,0 +1,19 @@
+---
+import { Icon } from 'astro-icon/components'
+---
+<div class="group to-top right-4 bottom-6 z-10 fixed">
+  <a href="#content" class="inline-block bg-white shadow-black shadow-xs p-2 border-2 border-black rounded-md transition-transform translate-x-20 group-[.is-visible]:translate-x-0" aria-label="Back to top">
+    <Icon name="tabler:chevron-up" class="size-5 lg:size-7" />
+  </a>
+</div>
+
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    const toTop = document.querySelector('.to-top');
+    function updateToTop() {
+      toTop.classList.toggle('is-visible', window.scrollY >= window.innerHeight);
+    }
+    updateToTop();
+    window.addEventListener('scroll', updateToTop, { passive: true });
+  });
+</script>

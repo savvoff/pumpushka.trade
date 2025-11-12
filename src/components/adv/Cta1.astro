@@ -1,0 +1,40 @@
+---
+import { Icon } from 'astro-icon/components'
+import { Image } from 'astro:assets';
+import { SITE, type LangCode } from 'src/constants';
+
+type Props = {
+  lang?: LangCode;
+}
+
+const { lang = SITE.defaultLanguage } = Astro.props;
+
+const translations: Record<LangCode, any> = {
+  'uk': {
+    title: 'AI Crypto Signal бот <br>з щоденною аналітикою',
+    buttonText: 'СПРОБУВАТИ В TELEGRAM',
+    subtext: '15 сигналів БЕЗКОШТОВНО',
+  },
+  'en': {
+    title: 'AI Crypto Signal bot <br>with everyday analytics',
+    buttonText: 'TRY IN TELEGRAM',
+    subtext: '15 signals FREE',
+  }
+}
+---
+
+<section class="relative flex flex-col justify-center items-center border border-black rounded-md aspect-6/5 md:aspect-2/1 overflow-hidden lg:basis-2/5">
+  <Image
+    class="top-0 left-0 absolute bg-slate-300 w-full h-full object-cover"
+    src={ import("public/cta.jpg") }
+    alt='Call to action'
+  />
+  <div class="relative space-y-4 text-center">
+    <p class="font-semibold text-white text-2xl uppercase" set:html={ translations[lang].title }></p>
+    <a href="#" class="top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all">
+      <span class="truncate">{ translations[lang].buttonText }</span>
+      <Icon name="telegram" class="shrink-0" size={ 32 } />
+    </a>
+    <p class="text-white text-sm">{ translations[lang].subtext }</p>
+  </div>
+</section>

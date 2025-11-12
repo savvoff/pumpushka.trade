@@ -4,6 +4,7 @@ export const homePage: Collection = {
   name: 'home',
   label: 'Головна сторінка',
   path: 'src/content/pages',
+  match: { include: 'home' },
   format: 'json',
   ui: {
     allowedActions: {

@@ -1,5 +1,5 @@
 ---
-import '@splidejs/splide/css/core';
+import '@splidejs/splide/css';
 
 interface Props {
   class?: string;
@@ -10,10 +10,23 @@ interface Props {
 const { class: className, options, overflow, ...props } = Astro.props;
 ---
 
-<div class:list={["splide", className]} data-splide={options ?? '{}'} {...props}>
+<div class:list={ ["splide", className] } data-splide={ options ?? '{}' } {...props}>
   <div class:list={["splide__track", overflow ? '' : '!overflow-visible']}>
 		<ul class="splide__list">
       <slot />
 		</ul>
   </div>
 </div>
+
+<style lang="scss" is:global>
+  .splide__arrow {
+     @media screen and (min-width: theme("screens.xl")) { 
+      &--prev {
+        left: -3rem;
+      }
+      &--next {
+        right: -3rem;
+      }
+    }
+  }
+</style>

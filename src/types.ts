@@ -17,6 +17,42 @@ export type SidebarItem = {
   header?: boolean 
 };
 
+export type Post = {
+  title: string;
+  description?: string;
+  publishedAt: EpochTimeStamp; // epoch ms
+  updatedAt?: EpochTimeStamp;
+  lang: LangCode;
+  externalId: string; // id
+  source?: { 
+    name:string; 
+    key:string; 
+    type:string; 
+    url?:string 
+  };
+  category: string; 
+  tags: string[];
+  stickyWeight?: number; 
+  canonicalUrl?: string;
+  coverImage?: {
+    raw: string;
+    full: string;
+    regular: string;
+    small: string;
+    thumb: string;
+    small_s3?: string;
+  };
+  sentiment?: 'POSITIVE' | 'NEGATIVE' | 'NEUTRAL';
+  score?: number;
+  draft: boolean;
+  ai?: {
+    rewritten: boolean,
+    expandedAt?: EpochTimeStamp,
+    version?: number,
+    translatedFrom?: string,
+  }
+}
+
 export interface Tariff {
   isPopular: boolean;
   image: string;
@@ -53,4 +89,9 @@ export interface HomePageContent {
   tariffs: Tariff[];
   faqTitle: Record<string, string>;
   faqList: FaqItem[];
+}
+
+export interface BlogPageContent {
+  blogTitle: Record<string, string>;
+  blogDescription: Record<string, string>;
 }

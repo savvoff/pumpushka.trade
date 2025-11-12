@@ -1,0 +1,76 @@
+---
+import { Icon } from 'astro-icon/components'
+import { SITE, TRANSLATIONS, type LangCode } from 'src/constants'
+import Breadcrumb from './ui/Breadcrumb.astro'
+import BreadcrumbItem from './ui/BreadcrumbItem.astro'
+import BreadcrumbLink from './ui/BreadcrumbLink.astro'
+import BreadcrumbList from './ui/BreadcrumbList.astro'
+import BreadcrumbPage from './ui/BreadcrumbPage.astro'
+import BreadcrumbSeparator from './ui/BreadcrumbSeparator.astro'
+import BreadcrumbsLd from './seo/BreadcrumbsLd.astro'
+
+export interface BreadcrumbItem {
+  href?: string;
+  label: string;
+  icon?: string;
+}
+
+interface Props {
+  items: BreadcrumbItem[];
+  lang?: LangCode;
+}
+
+const { items, lang = SITE.defaultLanguage } = Astro.props
+
+const homePageLink = SITE.defaultLanguage === lang ? '/' : `/${lang}`;
+
+const ldItems = items.reduce((acc, item) => {
+  const newItem = {
+    url: item.href ?? '',
+    name: item.label,
+  };
+  acc.push(newItem);
+  return acc;
+}, [{
+  url: homePageLink,
+  name: TRANSLATIONS[lang].home,
+}])
+---
+
+<BreadcrumbsLd items={ ldItems } />
+
+<Breadcrumb>
+  <BreadcrumbList>
+    <BreadcrumbItem>
+      <BreadcrumbLink href={ homePageLink }>
+        <Icon name="tabler:home" class="size-5 shrink-0" />
+      </BreadcrumbLink>
+    </BreadcrumbItem>
+    {
+      items.map((item, index) => (        
+        <BreadcrumbSeparator />
+        <BreadcrumbItem>
+          { index === items.length - 1 ? (
+            <BreadcrumbPage>
+              <span class="flex items-center gap-x-1">
+                { item.icon && (
+                  <Icon name={ item.icon } class="size-5 shrink-0" />
+                ) }
+                <span>{ item.label }</span>
+              </span>
+            </BreadcrumbPage>
+          ) : (
+            <BreadcrumbLink href={ item.href }>
+              <span class="flex items-center gap-x-1">
+                { item.icon && (
+                  <Icon name={ item.icon } class="size-5 shrink-0" />
+                ) }
+                <span>{ item.label }</span>
+              </span>
+            </BreadcrumbLink>
+          )}
+        </BreadcrumbItem>        
+      ))
+    }
+  </BreadcrumbList>
+</Breadcrumb>
