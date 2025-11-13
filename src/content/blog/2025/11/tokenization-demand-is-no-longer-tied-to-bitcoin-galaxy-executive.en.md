@@ -1,10 +1,10 @@
 ---
 title: 'Tokenization demand is no longer tied to Bitcoin: Galaxy executive'
-description: Recent statements from Galaxy tokenization head Thomas Cowan highlight a significant shift in the demand for tokenization. Cowan asserts that this interest is now independent of…
+description: 'The demand for tokenization has evolved, becoming less reliant on the price movements of Bitcoin. According to Galaxy''s tokenization head, Thomas Cowan, institutions are…'
 publishedAt: '2025-11-13T02:18:57.000Z'
-updatedAt: '2025-11-13T14:25:06.331Z'
+updatedAt: '2025-11-13T15:29:31.056Z'
 lang: en
-externalId: '54350514'
+externalId: '54351410'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,33 +18,31 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1627538917217-c81f8e7133bf'
+  raw: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1623402103541-3bcd5e6ea2b2'
 ai:
   rewritten: true
-  expandedAt: '2025-11-13T14:25:06.331Z'
+  expandedAt: '2025-11-13T15:29:31.056Z'
   version: 1
 ---
 ## Overview
 
-Recent statements from Galaxy tokenization head Thomas Cowan highlight a significant shift in the demand for tokenization. Cowan asserts that this interest is now independent of Bitcoin's price, indicating a growing recognition of the benefits of tokenization among institutions.
+The demand for tokenization has evolved, becoming less reliant on the price movements of Bitcoin. According to Galaxy's tokenization head, Thomas Cowan, institutions are increasingly recognizing the advantages of tokenization.
 
-## What Happened
+## Institutional Interest in Tokenization
 
-Thomas Cowan, the head of tokenization at Galaxy, has observed that the demand for tokenization has evolved. He emphasizes that institutions are increasingly recognizing the advantages of tokenization, which suggests a maturation of the market. This shift indicates that the interest in tokenization is no longer directly influenced by the fluctuations in Bitcoin's price.
+Thomas Cowan, who leads the tokenization efforts at Galaxy, has observed a shift in the way institutions view tokenization. He states that the interest in tokenization is now independent of Bitcoin's price fluctuations. This indicates a growing understanding among institutions of the benefits that tokenization can offer, regardless of the performance of Bitcoin in the market.
 
-## Why It Matters
-
-The independence of tokenization demand from Bitcoin's price reflects a broader trend in the cryptocurrency and blockchain space. As institutions continue to explore the potential of tokenization, it may lead to a more stable and diversified market environment. This trend could ultimately encourage further innovations and applications within the blockchain ecosystem.
+This change in perspective is significant, as it suggests that the motivations for engaging with tokenization are becoming more diverse. Institutions are starting to appreciate the various applications and efficiencies that tokenization can provide, moving beyond the traditional correlation with Bitcoin's value.
 
 ## Impact on the crypto market
 
-- Increased institutional interest in tokenization may drive further developments in blockchain technology.
-- The decoupling of tokenization demand from Bitcoin's price could lead to more stable investment opportunities.
-- A growing recognition of tokenization benefits may attract new participants to the market.
-- This shift might encourage the development of more diverse tokenized assets beyond cryptocurrencies.
-- The evolution of tokenization practices could foster regulatory advancements and clearer frameworks in the industry.
+- Increased institutional engagement in tokenization could lead to broader adoption of blockchain technology.
+- A decoupling of tokenization demand from Bitcoin's price may result in more stable growth in the tokenization sector.
+- Institutions may explore new use cases for tokenization, enhancing innovation in the crypto space.
+- The shift could attract a wider range of investors and projects interested in the benefits of tokenization.
+- Overall, this trend may contribute to a more mature and diversified cryptocurrency market.

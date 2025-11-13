@@ -1,10 +1,10 @@
 ---
 title: 'Попит на токенізацію більше не пов''язаний з Bitcoin: виконавчий директор Galaxy'
-description: 'Останні заяви голови токенізації Galaxy Томаса Коуена підкреслюють значний зсув у попиті на токенізацію. Коуен стверджує, що цей інтерес тепер незалежний від…'
+description: 'Попит на токенізацію еволюціонував, ставши менш залежним від цінових коливань Bitcoin. Згідно з головою токенізації Galaxy, Томасом Коуаном, установи…'
 publishedAt: '2025-11-13T02:18:57.000Z'
-updatedAt: '2025-11-13T14:25:06.332Z'
+updatedAt: '2025-11-13T15:29:31.057Z'
 lang: uk
-externalId: '54350514'
+externalId: '54351410'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,32 +18,30 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1627538917217-c81f8e7133bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDM3MjB8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1627538917217-c81f8e7133bf'
+  raw: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1623402103541-3bcd5e6ea2b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNDc0OTF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1623402103541-3bcd5e6ea2b2'
 ai:
-  translatedFrom: '54350514'
+  translatedFrom: '54351410'
   version: 1
 ---
 ## Огляд
 
-Недавні заяви Тома Коуена, керівника токенізації в Galaxy, підкреслюють значний зсув у попиті на токенізацію. Коуен стверджує, що цей інтерес тепер є незалежним від ціни Bitcoin, що свідчить про зростаюче визнання переваг токенізації серед установ.
+Попит на токенізацію еволюціонував, ставши менш залежним від цінових коливань Bitcoin. Згідно з головою токенізації Galaxy, Томасом Коуеном, установи все більше усвідомлюють переваги токенізації.
 
-## Що сталося
+## Інституційний інтерес до токенізації
 
-Том Коуен, керівник токенізації в Galaxy, спостерігає, що попит на токенізацію еволюціонує. Він підкреслює, що установи все більше визнають переваги токенізації, що свідчить про зрілість ринку. Цей зсув вказує на те, що інтерес до токенізації вже не залежить від коливань ціни Bitcoin.
+Томас Коуен, який очолює зусилля з токенізації в Galaxy, спостерігає зміни в тому, як установи сприймають токенізацію. Він стверджує, що інтерес до токенізації тепер незалежний від коливань цін на Bitcoin. Це вказує на зростаюче розуміння серед установ переваг, які може запропонувати токенізація, незалежно від продуктивності Bitcoin на ринку.
 
-## Чому це важливо
-
-Незалежність попиту на токенізацію від ціни Bitcoin відображає ширшу тенденцію в криптовалютному та блокчейн-просторі. Оскільки установи продовжують досліджувати потенціал токенізації, це може призвести до більш стабільного та різноманітного ринкового середовища. Ця тенденція врешті-решт може стимулювати подальші інновації та застосування в екосистемі блокчейн.
+Ця зміна в перспективі є значною, оскільки вона свідчить про те, що мотивації для взаємодії з токенізацією стають більш різноманітними. Установи починають цінувати різноманітні застосування та ефективності, які може забезпечити токенізація, виходячи за межі традиційної кореляції з вартістю Bitcoin.
 
 ## Вплив на крипторинок
 
-- Зростання інституційного інтересу до токенізації може сприяти подальшому розвитку технології блокчейн.
-- Відокремлення попиту на токенізацію від ціни Bitcoin може призвести до більш стабільних інвестиційних можливостей.
-- Зростаюче визнання переваг токенізації може залучити нових учасників на ринок.
-- Цей зсув може сприяти розвитку більш різноманітних токенізованих активів за межами криптовалют.
-- Еволюція практик токенізації може сприяти регуляторним вдосконаленням і чіткішим рамкам у галузі.
+- Збільшення інституційної участі в токенізації може призвести до ширшого впровадження технології блокчейн.
+- Відокремлення попиту на токенізацію від цін на Bitcoin може призвести до більш стабільного зростання в секторі токенізації.
+- Установи можуть досліджувати нові випадки використання токенізації, підвищуючи інновації в криптопросторі.
+- Ця зміна може залучити ширший спектр інвесторів і проектів, зацікавлених у перевагах токенізації.
+- В цілому, ця тенденція може сприяти більш зрілому та різноманітному ринку криптовалют.
