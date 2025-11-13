@@ -1,10 +1,10 @@
 ---
 title: 'Прогнози цін 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH'
-description: 'Остання активність на ринку показала, що бики Біткоїна намагаються розпочати відновлення, але стикаються з істотним тиском продажу. Ця тенденція була відзначена і серед альткоїнів…'
+description: 'Останні ринкові активності свідчать про те, що бики Біткоїна намагаються розпочати відновлення. Однак ці зусилля були зірвані значним тиском продажу поблизу ключового рівня ціни.'
 publishedAt: '2025-11-12T19:27:07.000Z'
-updatedAt: '2025-11-12T22:23:47.407Z'
+updatedAt: '2025-11-13T10:26:50.864Z'
 lang: uk
-externalId: '54322199'
+externalId: '54342960'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -20,30 +20,30 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1629963917356-e0aa1c2a0f9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI5ODYxMTV8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1629963917356-e0aa1c2a0f9d'
+  raw: 'https://images.unsplash.com/photo-1629788963611-dd36eadb71bd?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMjk1NzZ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1629788963611-dd36eadb71bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMjk1NzZ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1629788963611-dd36eadb71bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMjk1NzZ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1629788963611-dd36eadb71bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMjk1NzZ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1629788963611-dd36eadb71bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwMjk1NzZ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1629788963611-dd36eadb71bd'
 ai:
-  translatedFrom: '54322199'
+  translatedFrom: '54342960'
   version: 1
 ---
 ## Огляд
 
-Нещодавня активність на ринку свідчить про те, що бики Біткойна намагалися ініціювати відновлення, але зіткнулися з значним тиском продажів. Ця тенденція також була відзначена на ринку альткойнів, де багато криптовалют стикалися з подібними труднощами.
+Нещодавні ринкові активності свідчать про те, що ведмеді Біткойна намагаються ініціювати відновлення. Однак ці зусилля були зірвані значним тиском продажів поблизу ключового рівня цін. Ця тенденція була відзначена і серед різних альткойнів, які також стикалися з продажами з їхніх рівнів опору.
 
-## Що сталося
+## Ринкова активність
 
-Біткойн зазнав тиску з боку биків, які прагнули спровокувати відновлення. Однак ця спроба була зірвана, оскільки навколо позначки $107,000 виник сильний тиск продажів. Цей рівень опору виявився бар’єром, який завадив подальшому зростанню.
+Біткойн зазнав тиску з боку ведмедів, які прагнуть відновитися після нещодавніх падінь. Незважаючи на їхні зусилля, ціна натрапила на потужний тиск продажів навколо певного порогу, що призвело до зупинки висхідного імпульсу.
 
-Окрім Біткойна, більшість альткойнів також зустріли тиск продажів, коли наближалися до своїх відповідних рівнів опору. Цей широкий продаж свідчить про складну ситуацію для криптовалют, оскільки як Біткойн, так і альткойни намагалися підтримувати висхідний імпульс.
+Цей тиск продажів не обмежувався лише Біткойном; більшість альткойнів також стикалися з труднощами. Коли вони наближалися до своїх відповідних рівнів опору, розпочалася хвиля продажів, що призвело до більшого спаду на ринку. Ця схема підкреслює труднощі у підтримці висхідних рухів у поточному ринковому середовищі.
 
-## Вплив на крипторинок
+## Вплив на крипто ринок
 
-- Біткойн зазнав значного тиску продажів поблизу ключового рівня опору.
-- Більшість альткойнів також пережили розпродажі з їхніх відповідних точок опору.
-- Настрій на ринку виглядає обережним, що вказує на можливі труднощі попереду як для Біткойна, так і для альткойнів.
-- Нездатність підтримувати висхідний рух може вплинути на довіру трейдерів у короткостроковій перспективі.
-- Тиск продажів підкреслює постійну волатильність на ринку криптовалют.
+- Спроба Біткойна відновитися вказує на постійну волатильність на ринку.
+- Сильний тиск продажів свідчить про те, що рівні опору залишаються значними бар'єрами для висхідного руху.
+- Реакція альткойнів на рівні опору демонструє кореляцію з показниками Біткойна.
+- Ринкові настрої можуть змінюватися, оскільки трейдери реагують на ці тиски продажів.
+- Загальний ринок може зіткнутися зі збільшеною обережністю з боку інвесторів після цих подій.
