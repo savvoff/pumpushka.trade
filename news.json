@@ -1,263 +1,5 @@
 [
   {
-    "id": 54290556,
-    "published": 1762912854000,
-    "title": "Bitcoin Spot Demand Growing For First Time Since Early October: CryptoQuant Head",
-    "body": "CryptoQuant’s head of research has revealed how the “Apparent Demand” metric is now showing growth for the first time in more than a month. Bitcoin Apparent Demand Has Flipped Positive Recently In a new post on X, Julio Moreno, head of research at on-chain analytics firm CryptoQuant, has talked about the latest trend in the Apparent Demand for Bitcoin. This metric measures, as its name suggests, the amount of spot demand that’s currently present for the cryptocurrency. Related Reading: XRP To $10? Analyst Reveals What Could Be The Spark The indicator’s value is calculated by taking the difference between BTC’s production and changes in its inventory. “Production” here refers to the amount that miners are introducing into circulation each day. Similarly, the asset’s “inventory” is the amount stashed away in the 1-year inactive supply. Now, here is the chart shared by Moreno that shows how the 30-day sum of the Apparent Demand has changed over the last few months: As displayed in the above graph, the 30-day sum of the Bitcoin Apparent Demand fell into the negative territory last month, suggesting demand for the asset was decreasing. Recently, however, the metric has witnessed a sharp surge back into the positive territory. Thus, it would appear that, for the first time since early October, demand for BTC is growing again. While spot buying demand may be growing now, attention over in the perpetual futures market is down. As on-chain analytics firm Glassnode has pointed out in an X post, the Bitcoin Futures Open Interest has remained at low levels since last month’s leverage flush. The Futures Open Interest here refers to an indicator that keeps track of the total amount of perpetual futures positions related to Bitcoin that are currently open on all centralized exchanges. From the chart, it’s visible this metric saw a huge plunge in October as the drawdown in the BTC price liquidated a large amount of positions. The indicator has remained at its lows since this decline, indicating that there isn’t much speculative buildup happening in the market. “Derivatives activity has slowed materially, mirroring the broader backdrop of subdued market sentiment,” noted Glassnode. Related Reading: XRP Jumps To $2.56 Despite 240% Increase In Profit Taking Another side of the sector where demand has been weak is the US spot exchange-traded funds (ETFs). As the chart shared by Glassnode in a separate X post shows, the US Bitcoin spot ETFs have mostly seen outflows since early October. “This trend points to a broader de-risking phase among ETF investors,” explained the analytics firm. BTC Price Bitcoin has retraced some of its latest recovery as its price has come down to $103,200. Featured image from Dall-E, Glassnode.com, CryptoQuant.com, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin apparent demand|Bitcoin demand|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54290999,
-    "published": 1762913648000,
-    "title": "Canary Capital filing signals spot XRP ETF set for launch this week",
-    "body": "Canary Capital’s XRP ETF is set to be the first US-based fund to directly hold the token, following the company’s key SEC filing that could see it launch on Thursday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54290801,
-    "published": 1762913178000,
-    "title": "Bank of England’s Breeden warns watered-down stablecoin rules risk stability",
-    "body": "Bank of England deputy governor Sarah Breeden has backed the central bank’s proposed rules for stablecoins, some of which the local crypto industry had criticized.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54291153,
-    "published": 1762914191000,
-    "title": "Asia Morning Briefing: Bitcoin ETFs Pull In $300M as Traders Rush to Buy the Dip",
-    "body": "After two weeks of heavy redemptions, U.S.-listed spot Bitcoin ETFs turned positive again, led by Fidelity and Ark, even as global fund flows remain uneven.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|btc|ETH|Bitcoin ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54291104,
-    "published": 1762914053000,
-    "title": "Bitcoin Recovery Falters — Weak Volume Signals Possible Exhaustion of Buyers",
-    "body": "Bitcoin price failed to recover above $107,000. BTC is trimming gains and might could continue to move down if it trades below $102,500. Bitcoin started a fresh decline after it failed to clear $107,000. The price is trading below $105,500 and the 100 hourly Simple moving average. There was a break below a bullish trend line with support at $104,200 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $102,500 zone. Bitcoin Price Trims Gains Bitcoin price started a recovery wave above $105,000. BTC recovered above the $105,500 and $106,000 resistance levels. However, the bears remained active near the $107,000 zone. A high was formed at $107,400 and the price started a fresh decline. There was a drop below the $105,500 and $105,000 levels. The price dipped below the 50% Fib retracement level of the upward move from the $99,222 swing low to the $107,400 high. Besides, there was a break below a bullish trend line with support at $104,200 on the hourly chart of the BTC/USD pair. Bitcoin is now trading below $105,000 and the 100 hourly Simple moving average . If the bulls attempt another recovery wave, the price could face resistance near the $104,000 level. The first key resistance is near the $104,750 level. The next resistance could be $105,500. A close above the $105,500 resistance might send the price further higher. In the stated case, the price could rise and test the $107,000 resistance. Any more gains might send the price toward the $107,500 level. The next barrier for the bulls could be $108,800 and $109,500. More Losses In BTC? If Bitcoin fails to rise above the $105,000 resistance zone, it could start another decline. Immediate support is near the $102,800 level. The first major support is near the $102,400 level and the 61.8% Fib retracement level of the upward move from the $99,222 swing low to the $107,400 high. The next support is now near the $101,200 zone. Any more losses might send the price toward the $100,200 support in the near term. The main support sits at $100,000, below which BTC might struggle to recover in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $102,500, followed by $101,200. Major Resistance Levels – $104,000 and $105,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54292288,
-    "published": 1762916424000,
-    "title": "Nationally chartered bank SoFi rolls out crypto trading for US customers",
-    "body": "SoFi CEO Anthony Noto says the bank also plans to introduce a stablecoin called SoFi USD and views blockchain and crypto as a “super cycle technology.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54293846,
     "published": 1762920057000,
     "title": "SUI Eyes Key Retest As Price Breaks Out Of Downtrend – Rally To $3 Ahead?",
@@ -663,35 +405,6 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54299040,
-    "published": 1762913178000,
-    "title": "Bank of England’s Breeden warns watered-down stablecoin rules risk stability",
-    "body": "Breeden said loosening UK stablecoin rules could fuel risky bank outflows, urging stronger safeguards as the Bank of England finalizes its crypto framework.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
       },
       {
         "TYPE": "122",
@@ -2176,35 +1889,6 @@
     ]
   },
   {
-    "id": 54312941,
-    "published": 1762913178000,
-    "title": "Bank of England’s Breeden warns watered-down stablecoin rules risk stability",
-    "body": "Breeden said loosening UK stablecoin rules could fuel risky bank outflows, urging stronger safeguards as the Bank of England finalizes its crypto framework.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54313368,
     "published": 1762962300000,
     "title": "U.S. SEC Chief Atkins Says Clarity Coming on Crypto Tied to Investment Contracts",
@@ -2224,99 +1908,6 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54313351,
-    "published": 1762913178000,
-    "title": "Bank of England’s Breeden warns watered-down stablecoin rules risk stability",
-    "body": "Breeden said loosening UK stablecoin rules could fuel risky bank outflows, urging stronger safeguards as the Bank of England finalizes its crypto framework.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54313211,
-    "published": 1762913178000,
-    "title": "Bank of England’s Breeden warns watered-down stablecoin rules risk stability",
-    "body": "Breeden said loosening UK stablecoin rules could fuel risky bank outflows, urging stronger safeguards as the Bank of England finalizes its crypto framework.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54313990,
-    "published": 1762913648000,
-    "title": "Canary Capital filing signals spot XRP ETF set for launch this week",
-    "body": "Canary Capital’s XRP ETF is set to be the first US-based fund to directly hold the token, following the company’s key SEC filing that could see it launch on Thursday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -4356,6 +3947,385 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54329085,
+    "published": 1762999213000,
+    "title": "Uniswap (UNI) Soars 63% as ‘UNIfication’ Fee Proposal and $842M Token Burn Ignite a Frenzy",
+    "body": "Uniswap (UNI) has sparked a storm across DeFi after founder Hayden Adams unveiled the long-awaited “UNIfication” proposal, a sweeping governance overhaul that introduces protocol fees, a substantial $842 million token burn, and a strategic buyback plan. Related Reading: XRP’s Next ‘Face-Melting’ Rally Could Hit Within 6 Weeks—Analyst The move marks Uniswap’s biggest reform since its 2020 token launch, designed to transform UNI from a passive governance token into a deflationary, yield-generating asset. Under the proposal, 0.3% of all trading volume will now be split between liquidity providers (0.25%) and a UNI buyback pool (0.05%), creating continuous demand for the token. With over $1 trillion in annualized trading volume, analysts project roughly $38 million in monthly buybacks, about $450 million annually. Whales Accumulate as Uniswap (UNI) Skyrockets 63% The market reaction was explosive. Uniswap (UNI) surged by over 63% in one week, peaking at $10 before stabilizing around $8.57. On-chain data from Santiment shows rising whale accumulation and a steady increase in UNI held outside of exchanges, indicating long-term investor confidence. BitMEX founder Arthur Hayes reportedly purchased $244,000 worth of UNI, joining institutional buyers positioning for a supply shock. CryptoQuant CEO Ki Young Ju predicted that if protocol fees remain active, annual burns could exceed $500 million, drastically tightening supply. “Even with unlocks, a UNI supply shock seems inevitable,” Ju noted. The rally also extended to other DeFi assets, such as AAVE, Synthetix, and Compound, as traders speculated that Uniswap’s model could set a new standard for protocol-owned liquidity and value distribution. UNI's price trends to the upside on the daily chart. Source: UNIUSD on Tradingview UNIfication Ushers in the Next Era of DeFi Governance Beyond tokenomics, UNIfication unites Uniswap Labs, the Foundation, and the Unichain L2 network under one ecosystem. The proposal eliminates interface fees, introduces fee discount auctions to enhance LP returns, and compensates governance delegates, turning Uniswap’s decision-making into a professionalized, revenue-sharing system. Adams emphasized that the initiative represents more than a technical upgrade, it’s a cultural shift. “Uniswap can be the primary place tokens are traded globally,” he said. “This proposal ends a restrictive chapter and begins the decade of Uniswap.” Related Reading: Ethereum Ready To Explode To $12,000 By January, Says Tom Lee With UNI up more than 66% this week and investors anticipating formal governance approval, the DeFi giant appears poised to reclaim its dominance as crypto’s flagship decentralized exchange. Cover image from ChatGPT, UNIUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Uniswap|UNI|UNI price|uniusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54329647,
+    "published": 1763000346000,
+    "title": "Bitcoin Drops Again After Failed Recovery — $100K Support Now in Focus",
+    "body": "Bitcoin price failed to recover above $105,000. BTC is trimming gains and might could continue to move down if it trades below $101,200. Bitcoin started a fresh decline after it failed to clear $105,500. The price is trading below $105,000 and the 100 hourly Simple moving average. There is a bearish trend line forming with resistance at $103,300 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $101,200 zone. Bitcoin Price Dips Further Bitcoin price failed to stay in a positive zone above the $105,500 pivot level. BTC bears remained active below $105,500 and pushed the price lower. The last swing high was formed at $107,400 before the price started a fresh decline. There was a drop below the $105,000 and $104,000 levels. The price dipped below the 61.8% Fib retracement level of the upward move from the $99,220 swing low to the $107,400 high. Bitcoin is now trading below $104,000 and the 100 hourly Simple moving average . Besides, there is a bearish trend line forming with resistance at $103,300 on the hourly chart of the BTC/USD pair. If the bulls attempt another recovery wave, the price could face resistance near the $102,500 level. The first key resistance is near the $103,250 level and the trend line. The next resistance could be $103,500. A close above the $103,500 resistance might send the price further higher. In the stated case, the price could rise and test the $105,000 resistance. Any more gains might send the price toward the $105,500 level. The next barrier for the bulls could be $106,800 and $107,000. More Losses In BTC? If Bitcoin fails to rise above the $103,500 resistance zone, it could start another decline. Immediate support is near the $101,200 level and the 76.4% Fib retracement level of the upward move from the $99,220 swing low to the $107,400 high. The first major support is near the $100,500 level. The next support is now near the $100,000 zone. Any more losses might send the price toward the $98,800 support in the near term. The main support sits at $96,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $101,200, followed by $100,500. Major Resistance Levels – $103,250 and $103,500.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54329682,
+    "published": 1763000337000,
+    "title": "Tokenization demand is no longer tied to Bitcoin: Galaxy executive",
+    "body": "Galaxy tokenization head Thomas Cowan says interest in tokenization is now “independent of the price of Bitcoin” as institutions have started to see the benefits.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330361,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330167,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330110,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330759,
+    "published": 1763002848000,
+    "title": "Ethereum Whale Adds $105M To His ETH Position – $1.33B Bought Since Nov 4",
+    "body": "Ethereum has entered a consolidation phase following a turbulent period of selling pressure driven by macroeconomic uncertainty and market fear surrounding the US government shutdown. Over the past week, Ethereum’s price has stabilized around the $3,500 level after briefly dipping below key supports, as traders and institutions reassess risk exposure across the crypto market. Related Reading: Bitcoin STH-MVRV Rebounds From Local Low – Potential Recovery Toward $115K–$120K Despite the cautious sentiment, on-chain data reveals a contrasting story — large holders, or “whales,” are quietly accumulating ETH during the downturn. According to data from Lookonchain and CryptoQuant, several high-value wallets have increased their Ethereum positions significantly, signaling growing confidence among long-term investors even as broader market momentum slows. This accumulation phase suggests that sophisticated players view current price levels as an opportunity rather than a sign of broader weakness. Historically, similar patterns of whale buying during macro uncertainty have preceded periods of recovery and renewed market strength. Whale Activity Suggests Strategic Accumulation Despite Market Uncertainty According to data from Lookonchain, a whale known for aggressive Ethereum accumulation has just purchased an additional 30,548 ETH ($105.36 million) within the past hour. This move brings his total acquisitions since November 4 to an astonishing 385,718 ETH, worth roughly $1.33 billion. Notably, around $270 million of the funds used for these purchases were borrowed from the decentralized lending platform Aave, highlighting a highly leveraged but strategic positioning. This type of activity often signals strong institutional confidence in Ethereum’s medium-term outlook. Borrowing large sums to accumulate ETH indicates that the whale expects price appreciation substantial enough to offset borrowing costs and volatility risks. It also reflects growing demand for Ethereum exposure within decentralized finance (DeFi), where whales utilize platforms like Aave to optimize capital efficiency. Such large-scale buying can have multiple implications: it absorbs available market liquidity, strengthens psychological support zones, and may trigger a sentiment shift among retail investors who interpret the move as bullish. However, it also introduces potential short-term risk — if prices correct further, leveraged positions could amplify volatility. Overall, the data points toward renewed accumulation momentum, suggesting that sophisticated market participants are positioning for Ethereum’s next major move. Related Reading: Uniswap Founder Submits Governance Proposal To Burn UNI — Token Jumps 50% Bulls Attempt to Reclaim Momentum Ethereum (ETH) is currently showing signs of stabilization after weeks of intense selling pressure, trading around $3,479 at the time of writing. The daily chart shows ETH holding just above the 200-day moving average (red line) — a key long-term support level that has historically acted as a launch point for bullish recoveries. After dipping below $3,200 earlier in the week, Ethereum bounced strongly, supported by renewed whale accumulation and improving market sentiment. However, the 50-day (blue) and 100-day (green) moving averages remain above the current price, indicating that the short-term trend is still tilted to the downside. For bulls to regain control, ETH needs to close decisively above $3,650–$3,700, where a confluence of resistance sits. Related Reading: Ethereum Trading Volume On Binance Surpasses $6 Trillion: A Speculative Frenzy Unfolds Volume data suggests that selling pressure is gradually fading, but momentum remains weak. If Ethereum fails to maintain the $3,400–$3,450 zone, the next major support lies near $3,200. On the upside, reclaiming the $3,700 mark could open the door to a recovery toward $4,000. Overall, Ethereum appears to be in a consolidation phase, with large holders accumulating while retail traders remain cautious — a structure that often precedes a stronger directional move. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ethereum|Ethereum accumulation|Ethereum Analysis|ethereum news|Ethereum Price analysis|Ethereum Whale|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330649,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330787,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330686,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54330554,
+    "published": 1762956137000,
+    "title": "Bybit finds 16 blockchains with power to freeze user funds",
+    "body": "After analyzing 166 blockchains, Bybit’s Lazarus Security Lab found 16 networks that can freeze or restrict user funds, raising questions about decentralization.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
