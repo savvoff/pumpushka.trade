@@ -1,297 +1,5 @@
 [
   {
-    "id": 54318827,
-    "published": 1762975735000,
-    "title": "LINK Drops 4% as Chainlink ETF News Fails to Push Break of Technical Resistance",
-    "body": "The oracle token encountered selling pressure at $16.25 alongside a sizable decline in the broader crypto market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Chainlink|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54318859,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls attempted to initiate a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54318613,
-    "published": 1762975209000,
-    "title": "Dubai Court Freezes $456M Linked to Justin Sun’s Bailout of TrueUSD Issuer Techteryx",
-    "body": "Dubai’s Digital Economy Court said there was compelling evidence of a breach of trust and ordered a worldwide freeze to protect the assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 173,
-        "NAME": "TUSD",
-        "CATEGORY": "TUSD"
-      }
-    ]
-  },
-  {
-    "id": 54318969,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54319628,
-    "published": 1762977612000,
-    "title": "Crypto Long & Short:  The Rise of Digital Asset Treasury Companies",
-    "body": "In this week’s Crypto Long & Short Newsletter, Abdul Rafay Gadit writes about how DATCO’s are reshaping corporate finance. Then, we take a look back at crypto rates and a look ahead at signs of strength as the country emerges from the government shutdown, with Andy Baehr’s “Vibe Check.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|Treasury|MicroStrategy|CoinDesk Indices|Crypto Long & Short|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54319555,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54319406,
-    "published": 1762977124000,
-    "title": "Crypto Investor Dan Tapiero Sees AI-Blockchain Crossover Fueling Next Big Wave",
-    "body": "‘Blockchain is the money of AI,’ said the 10T founder, who’s betting 20% of his next fund on startups that don’t yet exist.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Exclusive|Dan Tapiero|10T Holdings|AI|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54319752,
-    "published": 1762977866000,
-    "title": "Nasdaq-Traded Solana Company Plans to Tokenize Shares via Superstate",
-    "body": "Solana Company intends to tokenize shares on Superstate’s Opening Bell, a regulated platform enabling companies to move stocks on-chain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54320424,
     "published": 1762979505000,
     "title": "Polymarket's Shayne Coplan: Blockchain Let Him Build a Global Force From His Bedroom",
@@ -498,53 +206,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54322199,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -1666,640 +1327,6 @@
     ]
   },
   {
-    "id": 54342179,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54342479,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54342420,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54342836,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343074,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343130,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54342722,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54342960,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343479,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343420,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343252,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343307,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343478,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343419,
-    "published": 1762975627000,
-    "title": "Price predictions 11/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, BCH",
-    "body": "Bitcoin bulls tried to spark a recovery, but were met with heavy selling pressure near $107,000. A similar fate awaited most altcoins, which sold off from their respective resistance levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54343980,
     "published": 1763030668000,
     "title": "Best Altcoins to Watch as Solana Whales Start Buying",
@@ -2337,496 +1364,6 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54344020,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54343897,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54343965,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54343848,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343896,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343963,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343729,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54343656,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54344458,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54344325,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54344199,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54344324,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54344456,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54344198,
-    "published": 1762975945000,
-    "title": "XStocks hits $10B in volume 4 months after launch as tokenized stocks gain traction",
-    "body": "Backed and Kraken’s xStocks sees rapid growth as investor interest in blockchain-based equities accelerates despite regulatory uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
@@ -2954,111 +1491,6 @@
     ]
   },
   {
-    "id": 54344854,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54344833,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54344581,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 54345397,
     "published": 1763033400000,
     "title": "Crypto Markets Today: Bitcoin Holds $103K, Altcoins Consolidate on `Fearful' Sentiment",
@@ -3172,41 +1604,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54345107,
-    "published": 1762977300000,
-    "title": "Prosecutors request February or March retrial for MEV bot brothers",
-    "body": "After a jury deadlocked on a verdict for two brothers accused of perpetrating a $25 million exploit on Ethereum, prosecutors are looking to retry them in 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
       }
     ]
   },
@@ -6453,6 +4850,146 @@
         "ID": 25,
         "NAME": "EXCHANGE",
         "CATEGORY": "EXCHANGE"
+      }
+    ]
+  },
+  {
+    "id": 54359587,
+    "published": 1763062599000,
+    "title": "Czech Republic Invests in Crypto, With Eye on Eventual Bitcoin Reserve",
+    "body": "The nation’s central bank has unveiled a pilot investment in Bitcoin, stablecoins, and tokenized deposits to better understand how to adopt digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54359513,
+    "published": 1763062518000,
+    "title": "This One Weird Trick Defeats AI Safety Features in 99% of Cases",
+    "body": "New research shows that AI's extended reasoning creates a security vulnerability, with extremely high attack success rates across major models including GPT, Claude, and Gemini.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 54360161,
+    "published": 1763064049000,
+    "title": "Solana at a Breaking Point: Fading Memecoin Hype and Alameda Unlocks Test the $140 Support Zone",
+    "body": "Solana (SOL) is once again under intense market scrutiny as a combination of fading memecoin activity, declining user engagement, and continuous token unlocks by Alameda Research puts pressure on one of crypto’s strongest 2025 performers. Related Reading: Ethereum Ready To Explode To $12,000 By January, Says Tom Lee While institutional inflows via ETFs remain robust, Solana’s ability to defend key technical levels, particularly the $140–$150 demand zone, will determine whether the asset stabilizes or slides into a deeper correction. Memecoin Cooldown Sends User Activity to One-Year Low Solana’s explosive rise in late 2024 and early 2025 was largely fueled by rapid memecoin launches and hyperactive retail speculation. But that frenzy has sharply cooled. According to Glassnode and The Block, the number of daily active addresses has dropped to 3.3 million, down from over 9 million at the start of the year, marking a 12-month low. Most of the decline comes from the disappearance of bots and short-term users who flooded the chain during its speculative peak. This slowdown has immediate consequences. Lower address activity has translated into softer fee revenue and thinner liquidity, making SOL more sensitive to market shocks. Analysts warn that until new high-utility use cases, such as payments, gaming, or real-world asset apps, attract stickier users, Solana’s engagement metrics may continue to oscillate with speculative cycles. Despite this decline, Solana’s ecosystem remains fundamentally strong. Its DeFi TVL stands at nearly $10 billion, supported by Jupiter, Jito, and Kamino, while developers continue to build stablecoin primitives, high-throughput consumer applications, and institutional-grade infrastructure, such as Firedancer. SOL's price trends to the downside on the daily chart. Source: SOLUSD chart from Tradingview Alameda Unlocks Clash With Record Solana ETF Inflows Another major pressure point is the ongoing monthly SOL unlocks from the FTX/Alameda bankruptcy estate. On November 11, Alameda unstaked 193,000 SOL ($30 million), part of a vesting schedule that runs through 2028. These tokens often find their way to exchanges, creating short-term selling pressure. However, institutional demand is delivering the opposite effect. Solana has now recorded 10–11 consecutive days of ETF inflows, totaling $336 million for the week. Bitwise and Grayscale Solana ETFs collectively hold $351 million, and even traditional institutions like Rothschild Investment and PNC Financial Services have disclosed new positions. SoFi Bank’s move to enable direct SOL purchases from U.S. checking accounts has further legitimized Solana within the regulated finance sector. This tug-of-war, systematic selling vs. accelerating inflows, defines Solana’s current volatility. Technical Setup: $140 Is the Line in the Sand SOL is trading around $152–$156, having broken below key support at $156 amid rising volume. Indicators remain bearish: OBV continues trending downward, signaling persistent seller dominance. Market structure shows lower highs and lower lows since early November. Liquidity heatmaps reveal strong magnetic zones at $144 and $140, making a retest highly likely. Analysts view $140 as the crucial support area. If it fails, liquidity extends toward $120, opening the door for a deeper correction. Related Reading: Bitcoin Death Cross Is Coming: Don’t Be Fooled By The Name But a successful defense could trigger a sharp rebound toward $165–$180, especially if ETF flows remain steady and Bitcoin holds above the $98k–$100k range. Cover image from ChatGPT, SOLUSD chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|Sol|SOL Price|SOLUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54360572,
+    "published": 1763026800000,
+    "title": "Trader torches $3M to punch a $5M hole in Hyperliquid’s vault",
+    "body": "A community member called the $3 million wipeout “performance art,” saying that only in crypto do villains torch millions purely for the sake of the plot.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
