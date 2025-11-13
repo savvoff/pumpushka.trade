@@ -1,10 +1,10 @@
 ---
-title: 'Canary Capital подає заявку на MOG ETF, підвищуючи популярність маловідомого мемкоїну.'
-description: 'Canary Capital подала заявку на запуск біржового фонду (ETF), який буде відстежувати Mog Coin, менш відомий мемкойн. Після цього оголошення ціна Mog Coin зазнала…'
+title: 'Canary Capital подає заявку на MOG ETF, підтримуючи маловідомий мемкойн.'
+description: 'Canary Capital нещодавно подала заявку на запуск біржового фонду (ETF), який буде відстежувати Mog Coin, менш відомий мемкоін. Цей розвиток призвів до незначного зростання в…'
 publishedAt: '2025-11-13T06:08:32.000Z'
-updatedAt: '2025-11-13T17:24:05.049Z'
+updatedAt: '2025-11-13T18:33:14.607Z'
 lang: uk
-externalId: '54355365'
+externalId: '54355623'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,32 +18,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1744782211816-c5224434614f?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTQ1MjF8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1744782211816-c5224434614f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTQ1MjF8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1744782211816-c5224434614f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTQ1MjF8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1744782211816-c5224434614f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTQ1MjF8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1744782211816-c5224434614f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTQ1MjF8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1744782211816-c5224434614f'
+  raw: 'https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTg3NDF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTg3NDF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTg3NDF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTg3NDF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1620228885847-9eab2a1adddc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMwNTg3NDF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1620228885847-9eab2a1adddc'
 ai:
-  translatedFrom: '54355365'
+  translatedFrom: '54355623'
   version: 1
 ---
 ## Огляд
 
-Canary Capital подала заявку на запуск біржового фонду (ETF), який буде відслідковувати Mog Coin, менш відомий мемкоін. Після цього оголошення, ціна Mog Coin зазнала незначного зростання в середу.
+Canary Capital нещодавно подала заявку на запуск біржового фонду (ETF), який буде відслідковувати Mog Coin, менш відомий мемкойн. Цей розвиток призвів до незначного зростання ціни Mog Coin.
 
 ## Що сталося
 
-Подання заявки на ETF компанією Canary Capital є значним розвитком для Mog Coin, оскільки воно має на меті забезпечити структурований інвестиційний інструмент для інвесторів, зацікавлених у цьому конкретному мемкоіні. Цей крок підкреслює зростаючий інтерес до альтернативних криптовалют та потенціал їх включення до основних фінансових продуктів.
+У середу ціна Mog Coin зазнала незначного зростання після оголошення про намір Canary Capital створити ETF, орієнтований на цей конкретний токен. Подання заявки свідчить про зростаючий інтерес до Mog Coin, що може залучити більше інвесторів і підвищити його видимість на ринку криптовалют.
 
-## Важливість подання
+## Чому це важливо
 
-Запуск ETF може підвищити легітимність Mog Coin на ринку криптовалют. Пропонуючи регульований інвестиційний варіант, він може залучити ширший спектр інвесторів, які наразі вагаються інвестувати безпосередньо в мемкоіни через їхню волатильність та спекулятивний характер.
+Запуск ETF, що відслідковує мемкойн, такий як Mog Coin, є значним, оскільки він представляє собою зміщення інтересу інвесторів до альтернативних цифрових активів. ETF зазвичай розглядаються як більш доступний спосіб для інвесторів отримати експозицію до криптовалют, що потенційно призведе до підвищення легітимності мемкойнів. Подання заявки компанією Canary Capital також може спонукати інші фінансові установи досліджувати подібні інвестиційні продукти.
 
-## Вплив на крипторинок
+## Вплив на ринок криптовалют
 
-- Подання заявки на ETF Mog Coin може призвести до збільшення видимості токена в більш широкому криптовалютному ландшафті.
-- Це може спонукати інші інвестиційні компанії досліджувати подібні продукти для інших мемкоінів та криптовалют.
-- Потенціал для структурованих інвестиційних варіантів може сприяти більшій довірі серед інвесторів щодо стабільності та життєздатності мемкоінів.
-- Збільшений інтерес до Mog Coin може призвести до більшої торговельної активності та ліквідності на ринку.
-- Цей розвиток відображає ширшу тенденцію інтеграції традиційних фінансів з сектором криптовалют.
+- Подання заявки може збільшити інтерес інвесторів до Mog Coin та подібних мемкойнів.
+- Введення ETF може підвищити легітимність мемкойнів на ширшому ринку.
+- Збільшена видимість для Mog Coin може призвести до вищих обсягів торгівлі та участі.
+- Цей крок може надихнути інші фінансові установи розглянути можливість створення ETF для інших менш відомих криптовалют.
+- Це підкреслює еволюцію інвестицій у криптовалюти та зростаючу прийнятність різноманітних типів активів.
