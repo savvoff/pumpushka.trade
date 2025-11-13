@@ -1,169 +1,5 @@
 [
   {
-    "id": 54296314,
-    "published": 1762925279000,
-    "title": "JPMorgan Rolls Out JPM Coin Leveraging Coinbase's Base: Report",
-    "body": "Unlike stablecoins, deposit tokens are digital claims on existing bank funds and can be interest-bearing, offering a new option for institutional investors.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|JPMorgan|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54296007,
-    "published": 1762924844000,
-    "title": "XRP Faces Bearish Cross Risk, Sinks 5% Even as ETFs Move Further",
-    "body": "The token's ability to defend the $2.39–$2.41 range will determine if it rebounds or faces further declines.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54297145,
-    "published": 1762927229000,
-    "title": "China’s Cybersecurity Agency Alleges US Government Stole $13 Billion In Bitcoin",
-    "body": "According to a recent report by Bloomberg, the cybersecurity arm of China has openly accused the US government of orchestrating the theft of approximately $13 billion in Bitcoin (BTC), adding tension to the ongoing cyber relations between the two nations. China Alleges State-Level Operation The incident in question revolves around the theft of 127,272 BTC from the LuBian Bitcoin mining pool in December 2020, constituting one of the most substantial crypto heists in history. Related Reading: Bitcoin To Bottom Out In 300 Days: Top Expert Forecasts $38,000 To $50,000 Price Point The Chinese National Computer Virus Emergency Response Center suggests that this large-scale hack was likely a planned “state-level hacker operation” orchestrated by the US. The agency points to the discreet and delayed movement of the stolen Bitcoin as indicative of governmental involvement rather than typical criminal behavior. The report further links the Bitcoin from LuBian, a former Bitcoin mining firm, to tokens seized by the US government, which authorities claim are linked to Chen Zhi, the chairman of the Cambodian conglomerate Prince Group. Chen Zhi had been accused by the US of participating in a wire-fraud conspiracy and running a money-laundering scheme in October. Notably, details on when and how the Bitcoin was confiscated by the US remain undisclosed. The narrative put forth in the report suggests that the US government might have employed hacking tactics as early as 2020 to appropriate the 127,000 Bitcoin associated with Chen Zhi, characterizing the operation as an example of a “black eats black” maneuver orchestrated by a state-level hacking entity. Bitcoin Forfeiture Fallout Federal prosecutors involved in the Chen case have refrained from disclosing the methods used to gain control of the Bitcoin, following the Department of Justice’s civil forfeiture complaint seizing the 127,271 BTC, which stands as the most substantial forfeiture action undertaken by the US government. Recent statements from the Chinese government have highlighted a growing trend of accusing the American government of engaging in hacking activities. Related Reading: Crypto Treasuries Shift Focus From Bitcoin And Ether To These Lesser-Known Altcoins Earlier this year, China asserted that the US exploited vulnerabilities in Microsoft Exchange servers to target Chinese companies. Just last month, China alleged that it possessed undeniable evidence of a US cyber attack on the National Time Service Center. In response to the allegations, a lawyer representing Chen Zhi has filed a request for additional time in a US court to allow for tracing of the stolen BTC from LuBian. The attorney, Matthew L. Schwartz has criticized the government’s claims against Chen as being “seriously misguided.” Schwartz, who serves as counsel to Mr. Chen and the Prince Group, stated that they are collaborating with cryptocurrency experts to trace the Bitcoin seized over a year ago and stolen back in 2020. T At the time of writing, BTC was trading at $102,550, recording losses of 3% in the 24-hour time frame. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|Bitcoin Seizure|BTCUSDT|crypto|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54297277,
-    "published": 1762927386000,
-    "title": "UAE’s ‘digital dirham’ CBDC pilot completes first transaction",
-    "body": "The United Arab Emirates' central bank digital currency pilot has made its first transaction, reportedly completed in under two minutes.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
     "id": 54299100,
     "published": 1762929508000,
     "title": "First U.S. Spot XRP ETF Could Go Live on Thursday",
@@ -4572,6 +4408,871 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54334687,
+    "published": 1763011601000,
+    "title": "XRP Moves 3% as Ripple-Linked Token's ETF to Go Live at U.S. Market Open",
+    "body": "Token rallies through key resistance with 31% volume surge as Nasdaq certifies first U.S. spot XRP ETF",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54334661,
+    "published": 1762996203000,
+    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
+    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335645,
+    "published": 1763013619000,
+    "title": "SEC Chair Sets Out Plans For Crypto Taxonomy To Define Digital Asset Classification",
+    "body": "In recent statements made by Chair Paul Atkins, the US Securities and Exchange Commission (SEC) announced a strategic plan targeted at giving much-needed clarity on the classification of crypto assets. Howey Test And Token Taxonomy In Crypto Atkins highlighted the forthcoming consideration of establishing a “token taxonomy” within the Commission, a structured framework rooted in legal rationale to discern between securities and commodities. He emphasized the importance of adhering to “limiting principles” in laws and regulations to ensure a cohesive approach towards crypto asset classification. Related Reading: Bitcoin To Bottom Out In 300 Days: Top Expert Forecasts $38,000 To $50,000 Price Point Atkins commended the efforts of Commissioner Hester Peirce, particularly her work in providing a transparent and economically grounded treatment of crypto assets under federal securities laws. The Chair emphasized three key themes in his address: the significance of a clear token taxonomy, the application of the Howey test in recognizing the temporary nature of investment contracts, and the practical implications for innovators, intermediaries, and investors in the evolving crypto landscape. Addressing the prevalent issue of distinguishing between securities and non-securities in the crypto space, Atkins noted that while most tokens are not inherently securities, certain tokens may have been sold within the context of an investment contract during a securities offering. However, he refuted the notion that every token involved in an investment contract perpetually retains its security status, emphasizing the importance of contextual analysis and recognizing the dynamic nature of investment contracts. Atkins Pledges Support For Evolving Digital Asset Laws In his remarks, Atkins also underscored the challenges faced by developers, exchanges, custodians, and investors in navigating the crypto ecosystem, where tokens serve various functions beyond traditional securities. He criticized the previous administration’s “blanket treatment” of all tokens as securities, highlighting the need for a more nuanced and practical approach to regulation to prevent stifling innovation and driving it offshore. Related Reading: China’s Cybersecurity Agency Alleges US Government Stole $13 Billion In Bitcoin In alignment with ongoing legislative efforts, Atkins reassured that the SEC aims to complement, rather than replace, existing crypto legislative initiatives. He emphasized the agency’s commitment to robust fraud enforcement and the development of clearer regulatory guidelines to ensure the safety of US investors. In closing, Atkins emphasized the importance of forward-looking regulatory practices, rejecting a stagnant approach rooted in fear of change. He reiterated the SEC’s commitment to delineating clear boundaries and providing transparent guidance. The statement concluded: That is what Project Crypto is about. That is what the Commission should be about. And that is the commitment I make to you today as Chairman: we will not let fear of the future trap us in the past. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|crypto|crypto market|crypto news|cryptocurrency|US crypto news|US crypto regulation|US Securities and Exchange Commission",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335716,
+    "published": 1763009381000,
+    "title": "US shutdown ends, crypto progress resumes as Trump signs bill",
+    "body": "US President Donald Trump signed the bill ending the record 43-day government shutdown and resuming federal operations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335478,
+    "published": 1762974000000,
+    "title": "Skittish risk managers could turn Bitcoin’s institutional boom into bust, CEO warns",
+    "body": "Markus Thielen warns Bitcoin’s institutional rally could reverse as ETF outflows and market fatigue weigh on risk appetite.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335714,
+    "published": 1762965600000,
+    "title": "Franklin Templeton expands Benji tokenization platform to Canton Network",
+    "body": "Franklin Templeton has linked its Benji tokenization platform to the Canton Network, expanding institutional access to regulated onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54335503,
+    "published": 1762965600000,
+    "title": "Franklin Templeton expands Benji tokenization platform to Canton Network",
+    "body": "Franklin Templeton has linked its Benji tokenization platform to the Canton Network, expanding institutional access to regulated onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54336028,
+    "published": 1763014112000,
+    "title": "Canary Capital files for MOG ETF, boosting the little-known memecoin",
+    "body": "The memecoin Mog Coin saw a slight lift in its price on Wednesday after Canary Capital filed to launch an ETF tracking the token.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 185,
+        "NAME": "MOG",
+        "CATEGORY": "MOG"
+      }
+    ]
+  },
+  {
+    "id": 54336138,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336050,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336164,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336162,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336137,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335807,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54335806,
+    "published": 1762965600000,
+    "title": "Franklin Templeton expands Benji tokenization platform to Canton Network",
+    "body": "Franklin Templeton has linked its Benji tokenization platform to the Canton Network, expanding institutional access to regulated onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54336136,
+    "published": 1762965600000,
+    "title": "Franklin Templeton expands Benji tokenization platform to Canton Network",
+    "body": "Franklin Templeton has linked its Benji tokenization platform to the Canton Network, expanding institutional access to regulated onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54336160,
+    "published": 1762965600000,
+    "title": "Franklin Templeton expands Benji tokenization platform to Canton Network",
+    "body": "Franklin Templeton has linked its Benji tokenization platform to the Canton Network, expanding institutional access to regulated onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54336584,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336363,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336492,
+    "published": 1762968873000,
+    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
+    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336583,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336490,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54336362,
+    "published": 1762967381000,
+    "title": "Bitcoin falls to $101K as stocks, gold rally ahead of vote to end government shutdown",
+    "body": "Bitcoin fell to weekly lows at $101,300 as US equities and gold rallied ahead of the key vote to end the US government shutdown, signaling a shift in investor sentiment to traditional assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
