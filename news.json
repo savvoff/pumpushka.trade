@@ -1,116 +1,5 @@
 [
   {
-    "id": 54338089,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54339123,
-    "published": 1763020838000,
-    "title": "$30M Manipulation On Hyperliquid: The POPCAT Connection And What You Need To Know",
-    "body": "Memecoin POPCAT experienced a significant downturn on Wednesday following a major manipulation event on Hyperliquid (HYPE), one of the leading decentralized exchanges in the cryptocurrency market. POPCAT Faces 43% Drop Following Manipulative Scheme According to a detailed analysis of the situation by DeFi researcher Hanzo on social media site X (previously Twitter), an unknown trader executed a well-coordinated strategy approximately 13 hours prior to the market disruption. The trader withdrew $3 million in USDC from the OKX exchange and distributed the funds across 19 different wallets on Hyperliquid. Subsequently, they initiated sizable long positions on POPCAT, accumulating total exposure estimated between $20 million and $30 million. Related Reading: Bitcoin To Bottom Out In 300 Days: Top Expert Forecasts $38,000 To $50,000 Price Point To create an illusion of demand for the memecoin, the trader placed a massive buy wall at the price point of $0.21, with orders totaling $30 million lined up on the order book. This artificial façade of high buying interest successfully attracted real traders, prompting them to jump on the bandwagon and increase their own buying activity. However, the situation took a swift turn when the trader removed the buy wall without warning, leading to an instantaneous collapse in the price of POPCAT. This shift resulted in the liquidation of all the long positions taken by traders. The unknown trader lost their $3 million collateral, while Hyperliquid’s HLP system automatically absorbed the open positions. This action triggered an additional loss of approximately $4.9 million to the HLP, exacerbating a broader market selloff across the token. Hyperliquid Faces Third Major Disruption This Year In the wake of the incident, the Hyperliquid team took emergency measures to stabilize the market and close any remaining exposures. Shortly after, the platform paused its Arbitrum (ARB) bridge, although it continued processing deposits and withdrawals normally. The community has expressed skepticism regarding the circumstances surrounding this incident, with many suggesting it may not have been a random liquidation. Instead, some believe the event could resemble a deliberate stress test or an attack aimed at destabilizing Hyperliquid’s liquidity system. Some contend that the rapid loss of millions in such a short time frame seems too calculated to be merely coincidental. Related Reading: China’s Cybersecurity Agency Alleges US Government Stole $13 Billion In Bitcoin This incident marks the third major market disruption on Hyperliquid in 2025, raising serious questions about the exchange’s approach to handling liquidity concentration and its systemic risk management practices, as noted by Hanzo in his analysis. Following the manipulation, the POPCAT memecoin saw a steep decline of approximately 43%, dropping from $0.21 to $0.12, with total liquidations reaching around $63 million. The decentralized exchange’s native token, HYPE, also declined significantly following the event. According to CoinGecko data, it is currently trading at $38.25, which is a 7% decrease on the weekly timeframe. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto news|HYPE price|Hyperliquid|Hyperliquid (HYPE)|Hyperliquid manipulation|Hyperliquid news|HYPEUSDT|POPCAT|Popcat news|Popcat price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 71,
-        "NAME": "ARB",
-        "CATEGORY": "ARB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54338983,
-    "published": 1763020268000,
-    "title": "Tokyo exchange operator eyes crackdown on Bitcoin-holding firms after DAT rout",
-    "body": "Metaplanet CEO Simon Gerovich said JPX’s concerns are with companies that feature poor approvals and insisted the critique doesn’t apply to them.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      }
-    ]
-  },
-  {
     "id": 54341724,
     "published": 1763026242000,
     "title": "Will The Shiba Inu Price Hit A New All-Time High In 2025? Machine Learning Algorithm Answers",
@@ -2027,129 +1916,6 @@
     ]
   },
   {
-    "id": 54336050,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356270,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356583,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54356839,
     "published": 1763057313000,
     "title": "‘The Worst Outcome’—Bitcoin Suddenly Drops Under $100,000 Price As Stark Fed Warning Fuels Crash Fears",
@@ -2216,88 +1982,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356708,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356904,
-    "published": 1763018492000,
-    "title": "How Ripple plans to bridge crypto and Wall Street in its $4B expansion",
-    "body": "Ripple bundles custody, prime brokerage, treasury and stablecoins so institutions can operate like banks with crypto rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
@@ -2462,29 +2146,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54358092,
-    "published": 1763020268000,
-    "title": "Tokyo exchange operator eyes crackdown on Bitcoin-holding firms after DAT rout",
-    "body": "Metaplanet CEO Simon Gerovich said JPX’s concerns are with companies that feature poor approvals and insisted the critique doesn’t apply to them.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
       }
     ]
   },
@@ -4070,6 +3731,29 @@
         "NAME": "XRP",
         "CATEGORY": "XRP"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54381833,
+    "published": 1763107506000,
+    "title": "Aave to offer zero-fee stablecoin ramps in Europe after MiCA approval",
+    "body": "Aave said compliant, audited payment pathways are crucial for onboarding new users to decentralized finance.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
