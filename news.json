@@ -1,116 +1,5 @@
 [
   {
-    "id": 54325549,
-    "published": 1762991394000,
-    "title": "Brazil Targets Illegal Bitcoin, Stablecoin Use Through New Proposals",
-    "body": "Brazil's government and central bank are tightening rules on crypto use in targeting criminals.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54327893,
-    "published": 1762996203000,
-    "title": "Bitwise’s exec says 2026 will be crypto’s real bull year, here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, this only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54328134,
-    "published": 1762996973000,
-    "title": "NYSE-Listed Exodus Posts Solid Third-Quarter Lift as Bitcoin Revenue Climbs",
-    "body": "Exodus posted stronger third-quarter results and unveiled a new Latin America payments acquisition as it expands its Bitcoin-driven business.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54329085,
     "published": 1762999213000,
     "title": "Uniswap (UNI) Soars 63% as ‘UNIfication’ Fee Proposal and $842M Token Burn Ignite a Frenzy",
@@ -517,41 +406,6 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54334661,
-    "published": 1762996203000,
-    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -1654,41 +1508,6 @@
     ]
   },
   {
-    "id": 54350145,
-    "published": 1762996203000,
-    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54350445,
     "published": 1763043173000,
     "title": "Crypto Asset Manager Grayscale Files for IPO in the U.S.",
@@ -1878,140 +1697,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54350537,
-    "published": 1762996963000,
-    "title": "Funding bill set to reopen US government heads to Trump’s desk",
-    "body": "The House passed a funding bill to end the longest US government shutdown in history, which had previously delayed crypto ETF approvals and key crypto bills.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54350535,
-    "published": 1762996203000,
-    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54350256,
-    "published": 1762996203000,
-    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54350281,
-    "published": 1762996203000,
-    "title": "Bitwise exec says 2026 will be crypto’s real bull year; here’s why",
-    "body": "With crypto markets failing to meaningfully rally toward the end of 2025, it only sets up 2026 for more upside, according to Bitwise’s Matt Hougan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -4709,6 +4394,146 @@
         "ID": 6,
         "NAME": "ASIA",
         "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 54367116,
+    "published": 1763078423000,
+    "title": "SUI Silent Comeback: The Underdog Preparing For A $20 Charge",
+    "body": "In a latest update, BeLaunch posed the high-stakes question: Could SUI really reach $20 in the next bull cycle? After getting hit hard during the October 10 flash crash, SUI is starting to show strength again, and the charts are now painting a very interesting picture that could signal the beginning of a major turnaround. Potential Scenarios For SUI BeLaunch recently outlined two possible scenarios for SUI’s next move, each with distinct probabilities and implications. According to the analysis, the token is currently at a critical juncture, where its next few moves could determine the broader market‘s direction. Related Reading: SUI Eyes Key Retest As Price Breaks Out Of Downtrend – Rally To $3 Ahead? In the primary scenario, which carries an 8/10 probability, SUI is testing a crucial breakout above the red dashed resistance line. Wave (2) appears to have completed its cycle, setting the stage for Wave (3) — typically one of the most impulsive moves in the Elliott Wave structure. A confirmed breakout at this level could propel SUI toward new highs. The alternative scenario, rated at a 3/10 probability, suggests that the current price structure could remain corrective. In this case, SUI may form an alternative X wave near the $5.37 region before extending into another corrective phase (Alt Y). Although less likely, BeLaunch noted that traders should still monitor this possibility closely. Technical and On-Chain Alignment Suggests Market Bottom Nearing According to BeLaunch, on-chain fundamentals for SUI are showing early signs of recovery, despite broader market attention remaining elsewhere. The data reveals that Total Value Locked (TVL) has been holding firm around $1.4 billion, though the analyst notes that a move above the $2 billion threshold would mark a more decisive shift in momentum. At the same time, Daily Active Users (DAU) have been climbing gradually, now sitting near 900,000. Related Reading: Analyst Says SUI Price Could Be Heading To $9: 4 Reasons Why BeLaunch noted that despite this encouraging on-chain behavior, SUI’s price remains lagging, a common indicator of a classic accumulation phase. During such periods, investors often underestimate the asset’s underlying strength while long-term players quietly position themselves ahead of a potential breakout. Historically, SUI has shown a tendency to rally within two to four weeks after both TVL and DAU metrics begin trending upward. If this pattern repeats, it could signal that SUI is currently in a quiet accumulation window before a stronger move to the upside. This alignment between historical behavior and present data gives a subtle yet compelling bullish undertone. Overall, BeLaunch emphasized that the technical and on-chain setup appears robust. Fundamentals are stabilizing, momentum indicators are shifting, and WaveTrend signals are flashing a bottom below 40. If the current trend persists, SUI could soon emerge from consolidation and enter a new bullish phase. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "SUI|belaunch|daily active users|DAU|SUI price|SUIUSD|SUIUSDT|Total Value Locked|TVL",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54367824,
+    "published": 1763079783000,
+    "title": "Threshold: Upgraded bridge to funnel $500B institutional BTC into DeFi",
+    "body": "Threshold has introduced upgrades to its tBTC bridge, which it claims will better position the $500 billion worth of Bitcoin held by institutions and whales to access DeFi opportunities.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54368601,
+    "published": 1763081320000,
+    "title": "Blue Origin Marks First Ocean Landing of New Glenn Booster After Second Attempt",
+    "body": "Blue Origin has landed its New Glenn booster at sea after launching NASA’s ESCAPADE Mars mission.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Space",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54368565,
+    "published": 1763081144000,
+    "title": "3 reasons why Bitcoin and risk markets sold off: Is a recovery on the horizon?",
+    "body": "Bitcoin’s recent weakness mirrors broader economic uncertainty, as unreliable economic data and shifting expectations on US growth and policy cloud investor confidence.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
