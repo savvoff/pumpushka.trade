@@ -1,122 +1,5 @@
 [
   {
-    "id": 54359587,
-    "published": 1763062599000,
-    "title": "Czech Republic Invests in Crypto, With Eye on Eventual Bitcoin Reserve",
-    "body": "The nation’s central bank has unveiled a pilot investment in Bitcoin, stablecoins, and tokenized deposits to better understand how to adopt digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54359513,
-    "published": 1763062518000,
-    "title": "This One Weird Trick Defeats AI Safety Features in 99% of Cases",
-    "body": "New research shows that AI's extended reasoning creates a security vulnerability, with extremely high attack success rates across major models including GPT, Claude, and Gemini.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54360161,
-    "published": 1763064049000,
-    "title": "Solana at a Breaking Point: Fading Memecoin Hype and Alameda Unlocks Test the $140 Support Zone",
-    "body": "Solana (SOL) is once again under intense market scrutiny as a combination of fading memecoin activity, declining user engagement, and continuous token unlocks by Alameda Research puts pressure on one of crypto’s strongest 2025 performers. Related Reading: Ethereum Ready To Explode To $12,000 By January, Says Tom Lee While institutional inflows via ETFs remain robust, Solana’s ability to defend key technical levels, particularly the $140–$150 demand zone, will determine whether the asset stabilizes or slides into a deeper correction. Memecoin Cooldown Sends User Activity to One-Year Low Solana’s explosive rise in late 2024 and early 2025 was largely fueled by rapid memecoin launches and hyperactive retail speculation. But that frenzy has sharply cooled. According to Glassnode and The Block, the number of daily active addresses has dropped to 3.3 million, down from over 9 million at the start of the year, marking a 12-month low. Most of the decline comes from the disappearance of bots and short-term users who flooded the chain during its speculative peak. This slowdown has immediate consequences. Lower address activity has translated into softer fee revenue and thinner liquidity, making SOL more sensitive to market shocks. Analysts warn that until new high-utility use cases, such as payments, gaming, or real-world asset apps, attract stickier users, Solana’s engagement metrics may continue to oscillate with speculative cycles. Despite this decline, Solana’s ecosystem remains fundamentally strong. Its DeFi TVL stands at nearly $10 billion, supported by Jupiter, Jito, and Kamino, while developers continue to build stablecoin primitives, high-throughput consumer applications, and institutional-grade infrastructure, such as Firedancer. SOL's price trends to the downside on the daily chart. Source: SOLUSD chart from Tradingview Alameda Unlocks Clash With Record Solana ETF Inflows Another major pressure point is the ongoing monthly SOL unlocks from the FTX/Alameda bankruptcy estate. On November 11, Alameda unstaked 193,000 SOL ($30 million), part of a vesting schedule that runs through 2028. These tokens often find their way to exchanges, creating short-term selling pressure. However, institutional demand is delivering the opposite effect. Solana has now recorded 10–11 consecutive days of ETF inflows, totaling $336 million for the week. Bitwise and Grayscale Solana ETFs collectively hold $351 million, and even traditional institutions like Rothschild Investment and PNC Financial Services have disclosed new positions. SoFi Bank’s move to enable direct SOL purchases from U.S. checking accounts has further legitimized Solana within the regulated finance sector. This tug-of-war, systematic selling vs. accelerating inflows, defines Solana’s current volatility. Technical Setup: $140 Is the Line in the Sand SOL is trading around $152–$156, having broken below key support at $156 amid rising volume. Indicators remain bearish: OBV continues trending downward, signaling persistent seller dominance. Market structure shows lower highs and lower lows since early November. Liquidity heatmaps reveal strong magnetic zones at $144 and $140, making a retest highly likely. Analysts view $140 as the crucial support area. If it fails, liquidity extends toward $120, opening the door for a deeper correction. Related Reading: Bitcoin Death Cross Is Coming: Don’t Be Fooled By The Name But a successful defense could trigger a sharp rebound toward $165–$180, especially if ETF flows remain steady and Bitcoin holds above the $98k–$100k range. Cover image from ChatGPT, SOLUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Solana|Sol|SOL Price|SOLUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54360961,
     "published": 1763065651000,
     "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
@@ -172,47 +55,6 @@
       "source_type": "RSS"
     },
     "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54360997,
-    "published": 1763064979000,
-    "title": "Bitcoin Sinks Deeper Below $100,000 as Bear Market Grips Crypto",
-    "body": "Bitcoin sank deeper below the $100,000 mark, dragged down by a fresh wave of risk aversion and a selloff in tech stocks that reignited Wall Street jitters.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
       {
         "TYPE": "122",
         "ID": 211,
@@ -3349,6 +3191,123 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54403072,
+    "published": 1763150411000,
+    "title": "Dogecoin Shows Relative Strength: Breakout Signal Sits At This Price",
+    "body": "Dogecoin is showing unexpected resilience while the broader crypto market trades in a weak pattern, according to trader Daan Crypto Trades (@DaanCrypto). In a chart posted on X on November 13, he highlighted a potential “range retake” that could set up a move toward the previous range high at roughly $0.218—if DOGE can break and hold above $0.18. Dogecoin Bulls Have A Target “DOGE has been relatively strong the past few days. Overall market is obviously weak and choppy,” he wrote. At the time of his chart, Dogecoin traded around $0.172 on Binance, sitting just below a key green support band marking the range low between $0.17 and $0.18 . The range high—drawn at $0.21817 —remains the upside target if price can reclaim the lower boundary. The distance between the band and the top of the range is 23.1%, a move Daan considers technically clean if momentum aligns. The trader also pointed to a narrative circulating in US markets: proposed 2,000-dollar stimulus or dividend checks by the Trump administration. He noted the psychological connection many retail traders still have to the “stimmy check” era of 2020–2021, when Dogecoin was one of the cycle’s strongest performers. Related Reading: Dogecoin Whales Load Up: 4.72 Billion DOGE Vanish Into Mega Wallets “I think the 2,000 dollar stimulus/dividend checks to US workers might have re-ignited some muscle memory,” he said, adding that younger traders often look for speculative assets rather than Bitcoin or Ethereum when deploying unexpected cash. Technically, the setup he is monitoring is straightforward: DOGE previously broke below its established range, flushed to lower lows, and is now attempting to push back into the band. His chart shows two rounded swing lows, suggesting a potential base forming. A reclaim of the green zone—validated by closing strength above $0.18 —would signal that sellers have lost control and that the upper boundary at $0.218 could come back into focus. Related Reading: Dogecoin Whales Load Up: 4.72 Billion DOGE Vanish Into Mega Wallets “Regardless of all that, I am watching closely here for this range retake,” he wrote. “I think it could make for a clean setup for a move back to the range highs. Need BTC & ETH to hold the floor for that to play out obviously.” That final clause underscores the conditional nature of his view. Dogecoin often behaves as a high-beta expression of market risk, and Daan is explicit that a broader market breakdown would invalidate the scenario, even if DOGE briefly trades above $0.18. Questions about his seemingly long-oriented emphasis prompted clarification. One user asked why he focuses mainly on upside setups, prompting Daan to respond: “I do both sides personally for short term scalps. But the moment you post short setups people get quite angry.” He added that long setups tend to offer better risk-to-reward for most traders and that shorting after recent “big liquidation flushes” like the October 10 event is generally less appealing. His posted chart reflects that preference: a potential bullish reclaim rather than an attempt to fade resistance. For now, the key remains unchanged—confirmation only comes with a sustained break above $0.18. Without that level, Dogecoin stays inside its lower consolidation, with Bitcoin and Ethereum setting the broader context for whether the memecoin can extend its relative strength. At press time, DOGE traded at $0.15943. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54403588,
+    "published": 1763151004000,
+    "title": "‘Volatility is your friend’: Eric Trump not bothered by Bitcoin, crypto carnage",
+    "body": "Eric Trump shrugs off an extended crypto sell-off as American Bitcoin ramps up its holdings and climbs into the top ranks of public BTC treasuries.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54403660,
+    "published": 1763088419000,
+    "title": "Bitfarms plunges 18% after plan to wind down Bitcoin mining ops",
+    "body": "Bitfarms said it plans to shift its Bitcoin mining sites over the next two years and convert them to power AI, starting with its major site in Washington.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
       },
       {
         "TYPE": "122",
