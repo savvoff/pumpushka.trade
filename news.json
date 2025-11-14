@@ -1,168 +1,5 @@
 [
   {
-    "id": 54360961,
-    "published": 1763065651000,
-    "title": "Solana Slides 5% to $145 as Technical Breakdown Overshadows ETF Momentum",
-    "body": "The token fell through key support despite elevated trading volume and continued institutional inflows into spot ETFs.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|Solana|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54360999,
-    "published": 1763065239000,
-    "title": "FDIC Considers Guidance Over Tokenized Deposit Insurance",
-    "body": "The head of the Federal Deposit Insurance Corp. said the regulator is working on guidance for tokenized deposit insurance, a move that would help steer financial institutions that want to broaden their footprint in digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54361381,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54362341,
-    "published": 1763068500000,
-    "title": "Ether’s chance of turning bullish before 2025 ends depends on 4 critical factors",
-    "body": "Ether’s struggle to reclaim $4,000 is the result of weakening onchain activity, a decline in fees, and competition from Solana, BNB Chain, and upcoming altcoin ETFs.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54362144,
-    "published": 1763068263000,
-    "title": "WBTC expands to Hedera as Bitcoin liquidity flows into new DeFi rails",
-    "body": "Wrapped Bitcoin's move to Hedera brings tokenized BTC and increased liquidation to the network's growing decentralized finance ecosystem.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54363620,
     "published": 1763071312000,
     "title": "Bitcoin Price Tumbles Toward $98,000: What’s Driving The Drop And What Lies Ahead",
@@ -2246,29 +2083,6 @@
     ]
   },
   {
-    "id": 54393539,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54393974,
     "published": 1763132393000,
     "title": "Ether Tumbles 8% as ETFs Bleed Over $1.4B, Long-Term Holders Sell",
@@ -2306,75 +2120,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54393943,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54394029,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54393693,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
       }
     ]
   },
@@ -2422,52 +2167,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54394443,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54394274,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
       }
     ]
   },
@@ -2548,29 +2247,6 @@
     ]
   },
   {
-    "id": 54394904,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54395318,
     "published": 1763135046000,
     "title": "This $2.5 Billion BlackRock Fund Is Coming to Binance and BNB Chain",
@@ -2608,29 +2284,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54395157,
-    "published": 1763066162000,
-    "title": "UFC taps Polymarket to add betting signals for live fight coverage",
-    "body": "Polymarket’s onchain prediction data and fan-sentiment feeds will be integrated across UFC events, creating a new interactive layer for viewers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
       }
     ]
   },
@@ -3308,6 +2961,303 @@
         "ID": 39,
         "NAME": "MINING",
         "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54403788,
+    "published": 1763151564000,
+    "title": "Strategy’s NAV falls under 1, critics raise alarm after $5.7B Bitcoin wallet move",
+    "body": "Strategy moves $5.7 billion in Bitcoin as its net asset value to its Bitcoin holdings drops below one for the first time, sparking valuation concerns amid marketwide speculation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404084,
+    "published": 1763089334000,
+    "title": "Ban on rewards tied to stablecoin payments is un-American: Coinbase",
+    "body": "Coinbase Institute has criticized banking groups for asking regulators to prevent merchant rewards for stablecoin customers, arguing the request has no merit under the GENIUS Act.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404083,
+    "published": 1763088419000,
+    "title": "Bitfarms plunges 18% after plan to wind down Bitcoin mining ops",
+    "body": "Bitfarms said it plans to shift its Bitcoin mining sites over the next two years and convert them to power AI, starting with its major site in Washington.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404653,
+    "published": 1763089334000,
+    "title": "Ban on rewards tied to stablecoin payments is un-American: Coinbase",
+    "body": "Coinbase Institute has criticized banking groups for asking regulators to prevent merchant rewards for stablecoin customers, arguing the request has no merit under the GENIUS Act.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404528,
+    "published": 1763089334000,
+    "title": "Ban on rewards tied to stablecoin payments is un-American: Coinbase",
+    "body": "Coinbase Institute has criticized banking groups for asking regulators to prevent merchant rewards for stablecoin customers, arguing the request has no merit under the GENIUS Act.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404207,
+    "published": 1763089334000,
+    "title": "Ban on rewards tied to stablecoin payments is un-American: Coinbase",
+    "body": "Coinbase Institute has criticized banking groups for asking regulators to prevent merchant rewards for stablecoin customers, arguing the request has no merit under the GENIUS Act.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54405162,
+    "published": 1763154031000,
+    "title": "Why This Pundit Believes XRP Could Become A ‘Joke’ As ETFs Go Live",
+    "body": "A recently shared image on X showing the full lineup of pending XRP ETF filings prompted a blunt response from market commentator Robert Ledferd. Instead of offering predictions or excitement, he framed the moment as a straightforward test for the asset, noting that if XRP cannot climb into double-digit territory once this many ETFs are live, the market may end up treating it as a joke. The comment brings into question what price level actually represents meaningful progress once institutional money enters the picture for XRP. Why The Comment Landed Strongly Ledferd reacted to a screenshot listing nearly every major issuer preparing an XRP product, including firms such as Bitwise, Grayscale, Fidelity, VanEck, Invesco, CoinShares, Franklin Templeton, Hashdex, and ARK Invest. The number of issuers alone means that XRP is entering a phase where institutional exposure will no longer be theoretical. Related Reading: Analyst Predicts XRP “Supply Crisis” To Trigger The Next Parabolic Rally The general consensus is that when these ETFs hit the market, XRP will receive massive institutional inflows comparable to that of Bitcoin and Ethereum, which, in turn, would be reflected in its price action. With this in mind, the pundit noted that XRP will be the “joke of the year” if these ETFs do not bring the cryptocurrency’s price to at least double digits.” Where XRP Needs To Trade For ETFs To Matter The numerical reality behind this expectation is straightforward. XRP is currently trading well below the $3 price level. Particularly, XRP is trading at $2.3, which means even a return to its $3.65 all-time high would require a price increase of about 40% from present levels. To reach actual double digits above $10, it means the price of XRP would need to rise more than 320% from its current price. Before XRP can target double digits, however, it must convincingly break and close above the region between $3 and $3.65. This region is a structural pivot because it is where previous rallies have lost momentum If ETF demand is genuine, the first sign of it will be whether XRP can push above the $3 line and hold it as support. Such a move would confirm that new inflows are not being neutralized by selling pressure and that the buying pressure is absorbing tokens at a faster rate than they are being distributed. Related Reading: Analyst Says Don’t Get Left Behind As Massive Liquidity Wave Is Coming For XRP XRP currently has a total circulating supply of 60 billion tokens. Therefore, a move to $4 implies a market cap of $240 billion. On the other hand, a move to $10 implies a valuation above $600 billion. A $600-billion valuation would place XRP behind only Bitcoin in terms of market cap rankings. These numbers matter because ETF impact is not measured by price alone but by how much capital is required to move an asset of this size. If Spot XRP ETFs begin attracting even a small fraction of the inflows seen in early Bitcoin ETF trading, the push to $4 becomes more realistic. At the time of writing, the first US Spot XRP-backed ETF has officially been launched by Canary Capital with ticker XRPC and began trading on the Nasdaq Stock Market on November 13, 2025. Featured image from Peakpx, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|ark invest|bitwise|Canary Capital|coinshares|fidelity|Franklin Templeton|grayscale|Hashdex|Invesco|Ripple|Robert Ledferd|Spot XRP ETF|VanEck|xrp|xrp news|XRP Price|XRPC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54404896,
+    "published": 1763089334000,
+    "title": "Ban on rewards tied to stablecoin payments is un-American: Coinbase",
+    "body": "Coinbase Institute has criticized banking groups for asking regulators to prevent merchant rewards for stablecoin customers, arguing the request has no merit under the GENIUS Act.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54405319,
+    "published": 1763154238000,
+    "title": "Binance adds BlackRock’s BUIDL as off-exchange collateral for institutional traders",
+    "body": "The integration marks another step in centralized exchanges adopting tokenized Treasurys, expanding RWA collateral across major trading platforms.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
