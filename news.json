@@ -1,169 +1,5 @@
 [
   {
-    "id": 54355519,
-    "published": 1763054485000,
-    "title": "Stellar Tumbles Below Key $0.285 Support as Bears Take Over",
-    "body": "XLM retreated to $0.281 as selling pressure intensified during afternoon trading, with volume surging amid failed resistance test.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 56,
-        "NAME": "XLM",
-        "CATEGORY": "XLM"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356613,
-    "published": 1763056830000,
-    "title": "XRP Price Jumps as First U.S. Spot ETF Debuts on Nasdaq, Analysts Predict Rally in Weeks",
-    "body": "The XRP market just hit a historic milestone as the first U.S. spot XRP ETF, Canary Capital’s XRPC, officially debuts on Nasdaq, sending bullish shockwaves for the XRP price and other assets in the market. Related Reading: Ethereum Ready To Explode To $12,000 By January, Says Tom Lee The launch gives traditional investors direct exposure to XRP through regulated brokerage accounts, and analysts say this could be the spark that propels prices sharply higher in the coming weeks. XRP's price moving sideways on the daily chart. Source: XRPUSD on Tradingview First Spot XRP ETF on Nasdaq Unlocks New Demand Nasdaq has certified the Canary Capital XRP ETF for trading under the ticker XRPC, making it the first fully spot-based XRP ETF in the U.S. The fund holds XRP directly and tracks the XRP-USD CCIXber Reference Rate Index, offering a simple, regulated way for institutions and retail investors to gain exposure without managing wallets or private keys. The ETF’s approval comes after the fund completed its Form 8-A filing with the SEC, clearing key regulatory hurdles. Other heavyweights, Franklin Templeton, Bitwise, CoinShares, and 21Shares, also have XRP ETF applications in the pipeline, signaling a second wave of products that could further deepen liquidity and demand. On-chain data already shows shifting behavior ahead of the launch. Exchange inflows are down, suggesting holders are accumulating rather than selling, even as XRP trades around the $2.39–$2.50 zone and consolidates above support near $2.20–$2.40. Analysts See ‘Face-Melting’ XRP Price Rally as Technicals Coil Popular crypto analyst Egrag Crypto believes XRP is entering the final stages of a major consolidation that could lead to an explosive move within 4–6 weeks. Drawing on historical rallies in 2017 and 2021, he notes that XRP is once again forming a large symmetrical triangle, typically a “compression before expansion” structure. Using Fibonacci projections, Egrag highlights potential long-term targets between $10 and $37, while acknowledging that short-term market sentiment remains cautious. He argues that impatience and emotional selling often precede the biggest upside moves, and that today’s sideways action is more “preparation” than weakness. BlackRock Narrative and Macro Tailwinds Add Fuel Institutional narratives are also lining up behind XRP. At Swell 2025, BlackRock’s Maxwell Stein described the XRP Ledger as a scalable rail for trillions of dollars in tokenized assets and cross-border payments, reinforcing XRP’s status as a utility-driven asset rather than a purely speculative token. Related Reading: Bitcoin Death Cross Is Coming: Don’t Be Fooled By The Name With the Fed’s December rate decision approaching and risk appetite poised to shift, XRP now sits at the intersection of a powerful trio. Fresh ETF inflows, tightening technical patterns, and growing institutional validation. If these forces align, the XRPC launch may be remembered as the moment XRP’s next major rally truly began. Cover image from ChatGPT, XRPUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ripple|xrp|XRP Price|XRPUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54356839,
-    "published": 1763057313000,
-    "title": "‘The Worst Outcome’—Bitcoin Suddenly Drops Under $100,000 Price As Stark Fed Warning Fuels Crash Fears",
-    "body": "Analysts are scrambling to decode what the data blackout might mean for the coming Federal Reserve interest rate meeting...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 54356762,
-    "published": 1763057048000,
-    "title": "Bitcoin Dives Below $100K for Third Time This Month as Crypto Liquidations Top $500 Million",
-    "body": "Bitcoin dropped below $100,000 per coin for the third time this month as broader concerns over the U.S. economy weighed on investors.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54358043,
     "published": 1763059353000,
     "title": "21Shares launches crypto index ETFs under SEC’s Act 40",
@@ -3676,6 +3512,204 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54398455,
+    "published": 1763141401000,
+    "title": "'Some Bad Shit. Very Bad': Jeffrey Epstein Was Worried About Bitcoin and Crypto Taxes, Emails Reveal",
+    "body": "A year prior to his death, the sex offender attempted to influence the Trump administration's crypto policy through Steve Bannon.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54398123,
+    "published": 1763140797000,
+    "title": "Oklahoma Man Gets Five-Year Sentence for $9.4M Crypto Ponzi Scheme",
+    "body": "Travis Ford pleaded guilty to conspiracy to commit wire fraud in January, in a case involving millions in investor losses.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 54398936,
+    "published": 1763142409000,
+    "title": "U.S. DOJ Pursues North Korea's Illicit Money Machine, Seizes More Crypto",
+    "body": "U.S. authorities secured several criminal convictions and gathered another $15 million in proceeds from North Korean crypto heists, the Justice Department said.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Federal bureau of investigation|U.S. Department of Justice|Crypto Seizures|North Korea|Bitcoin Strategic Reserve|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54398965,
+    "published": 1763142356000,
+    "title": "Michael Saylor Denies Bitcoin Sale Rumors, Says Strategy's BTC Buys Are 'Accelerating'",
+    "body": "Strategy's co-founder and executive chairman described the company's hunger for Bitcoin as insatiable, while denying rumors of a recent sale.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54399367,
+    "published": 1763143203000,
+    "title": "Analyst Highlights Interesting Dogecoin Double Top Adam & Eve Pattern",
+    "body": "Crypto analyst Tripy has highlighted a double-top Adam and Eve pattern that could send the Dogecoin price as low as $0.16. Meanwhile, crypto XAU has also highlighted a bearish setup that could spark a further decline to $0.15. Dogecoin Price Risks Drop To $0.16 With Double Top Adam And Eve Pattern In a TradingView post, Tripy revealed that a classic Adam and Eve pattern has formed for the Dogecoin price. The analyst warned that market participants may see volatility around the breakdown, but that the pattern rarely fails. His accompanying chart showed that DOGE could suffer a decline to as low as $0.16 due to this double top pattern. Related Reading: Analyst Predicts Dogecoin Price “Historic Mega Run” – Here’s The Target Tripy also revealed that the MACD and volume are falling, indicating that a sell-off is coming for the Dogecoin price. A positive is that the analyst expects DOGE to rebound from the $0.16 range. The sell-off in the foremost meme coin is underway, with DOGE recording a significant decline yesterday as Bitcoin dropped below $100,000 for the second time this month. Crypto analyst XAU drew a bearish setup toward $0.15 for the Dogecoin price. He noted that DOGE remains under strong bearish pressure, following multiple Breaks of Structure (BOS) and Market Structure (MSS) on the 3-hour timeframe. The analyst further stated that after a brief consolidation phase, the price continues to respect the descending trend, indicating a lack of bullish strength. Notably, the Dogecoin price had attempted a minor upward correction toward the psychological $0.2 level but failed to reclaim the zone. As a result, XAU has warned that this may trigger a sharp drop toward the $0.15 level, which will confirm continuation of the broader bearish trend. The analyst added that momentum remains weak and sellers continue to dominate short-term rallies, indicating further downside pressure. DOGE Reenters Broadening Wedge In an X post, crypto analyst Trader Tardigrade revealed that the Dogecoin price has reentered the broadening wedge after a “Spring Action.” He added that this pattern was last seen in 2024, just before a massive surge. His accompanying chart showed that DOGE could still rally to $0.8, despite the current bearish price action. A rally to this level would mark a new all-time high (ATH) for the foremost meme coin. Related Reading: Dogecoin Price Rally Above $0.74 ATHs In The Works As HTF Trend Holds In the short term, Trader Tradigrade indicated that the Dogecoin price could reclaim the $0.2 level. He stated that DOGE has returned to the previous level as the RSI indicates a breakout of a trendline. His accompanying chart showed that DOGE could reach $0.26 after reclaiming the $0.2 level. At the time of writing, the Dogecoin price is trading at around $0.163, down over 5% in the last 24 hours, according to data from CoinMarketCap. Featured image from Peakpx, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|Adam and Eve Pattern|bitcoin|BOS|Breaks of Structure|CoinMarketCap|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|MACD|Market Structure|meme coin|MSS|RSI|Trader Tardigrade|Tripy|xau",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54399782,
+    "published": 1763144040000,
+    "title": "Tether eyes €1bn funding deal with AI robotics start-up Neura",
+    "body": "Cryptocurrency giant seeks to build on sprawling investment portfolio with bet on German humanoid robotics group",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
