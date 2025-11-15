@@ -1,146 +1,5 @@
 [
   {
-    "id": 54372675,
-    "published": 1763089687000,
-    "title": "Ethereum Sheds 5% Amid Market Pullback, Raising Risks of Deeper Correction",
-    "body": "Ethereum price failed to stay above $3,350 and extended losses. ETH is down over 5% and might struggle to recover above $3,450 in the near term. Ethereum started a fresh decline after it failed to stay above $3,500. The price is trading below $3,350 and the 100-hourly Simple Moving Average. There is a key bearish trend line forming with resistance at $3,500 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move down if it settles below the $3,150 zone. Ethereum Price Dips Sharply Ethereum price failed to continue higher above $3,550 and started a fresh decline, like Bitcoin . ETH price dipped below $3,500 and entered a short-term bearish zone. The decline gathered pace below $3,350 and the price dipped below $3,250. A low was formed at $3,153 and the price is now correcting some losses. There was a move toward the 23.6% Fib retracement level of the recent decline from the $3,561 swing high to the $3,153 low. Ethereum price is now trading below $3,350 and the 100-hourly Simple Moving Average. If there is another recovery wave , the price could face resistance near the $3,300 level. The next key resistance is near the $3,350 level and the 50% Fib retracement level of the recent decline from the $3,561 swing high to the $3,153 low. The first major resistance is near the $3,500 level. There is also a key bearish trend line forming with resistance at $3,500 on the hourly chart of ETH/USD. A clear move above the $3,500 resistance might send the price toward the $3,650 resistance. An upside break above the $3,650 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,800 resistance zone or even $3,880 in the near term. More Losses In ETH? If Ethereum fails to clear the $3,350 resistance, it could start a fresh decline. Initial support on the downside is near the $3,200 level. The first major support sits near the $3,150 zone. A clear move below the $3,150 support might push the price toward the $3,050 support. Any more losses might send the price toward the $3,000 region in the near term. The next key support sits at $2,880 and $2,850. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI – The RSI for ETH/USD is now below the 50 zone. Major Support Level – $3,150 Major Resistance Level – $3,350",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54374313,
-    "published": 1763092847000,
-    "title": "Bitcoin Sentiment Most Fearful Since March: Is A Bottom Near?",
-    "body": "As Bitcoin continues to show a bearish trajectory, the cryptocurrency Fear & Greed Index has fallen to its lowest extreme fear level since March. Bitcoin Fear & Greed Index Suggests Investors Are Extremely Fearful The “Fear & Greed Index” refers to an indicator created by Alternative that tells us about the average sentiment that’s present among traders in the Bitcoin and wider cryptocurrency markets. Related Reading: Chainlink’s Next Major Move Comes After This Range, Analyst Says The index uses the data of the following five factors to determine the investor mentality: trading volume, volatility, market cap dominance, social sentiment, and Google Trends. It then represents the sentiment using a scale running from 0 to 100. All values above 53 correspond to a net sentiment of greed, while those below 47 imply fear in the market. The indicator being between these two cutoffs naturally suggests a neutral mentality among the investors. Besides these three main zones, there are also two “extreme” sentiments: extreme fear and extreme greed. The former takes place below 25 and the latter above 75. Currently, the Fear & Greed Index is in one of these zones. As is visible above, the Fear & Greed Index has a value of 15 at the moment, firmly inside the extreme fear territory. Sentiment among investors was already poor on Wednesday, but this latest value is even worse. The deterioration of sentiment is a result of Bitcoin retracing its recent recovery. While traders may be highly bearish toward the market right now, BTC and other assets don’t necessarily have to live up to expectations. In fact, if history is anything to go by, cryptocurrencies have often shown moves that directly go contrary to the crowd’s opinion. Many major tops and bottoms in the sector have formed alongside a sentiment of extreme greed and extreme fear, respectively. Given this, it’s possible that the latest foray into extreme fear could also lead to a bottom for Bitcoin and others. When that might happen, however, is anyone’s guess. The latest extreme fear sentiment is the strongest since early March, but the low back then didn’t coincide with BTC’s real bottom. That said, Bitcoin did find a temporary turnaround just a few days after, which lasted until the end of the month. In April, the market crashed again, and the Fear & Greed Index declined to a low of 18. This time, the extreme fear sentiment was enough to reignite real bullish momentum. Related Reading: Bitcoin “Arguably Undervalued,” Says Analytics Firm: Here’s Why It now remains to be seen whether the current low in the indicator will be enough for the market to reach a bottom, or if sentiment will worsen still. BTC Price At the time of writing, Bitcoin is trading around $103,100, down 2% over the last 24 hours. Featured image from Dall-E, Alternative.me, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin Extreme Fear|Bitcoin Fear & Greed Index|bitcoin sentiment|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54374590,
-    "published": 1763093327000,
-    "title": "XRP Price Turns Red as Bulls Step Back and Bears Test Market Strength",
-    "body": "XRP price started a fresh decline from $2.550. The price is now showing bearish signs and might extend losses if it dips below $2.250. XRP price started a fresh decline below the $2.450 zone. The price is now trading below $2.40 and the 100-hourly Simple Moving Average. There is a short-term contracting triangle forming with resistance at $2.235 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move down if it settles below $2.250. XRP Price Dips Further XRP price attempted more gains above $2.50 but failed to continue higher, like Bitcoin and Ethereum . The price started a fresh decline below $2.450 and $2.420. There was a move below the $2.320 pivot level. A low was formed at $2.2754, and the price is now consolidating losses with a bearish angle below the 23.6% Fib retracement level of the recent decline from the $2.525 swing high to the $2.2754 low. The price is now trading below $2.40 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $2.2350 level. There is also a short-term contracting triangle forming with resistance at $2.235 on the hourly chart of the XRP/USD pair. The first major resistance is near the $2.40 level, above which the price could rise and test $2.450 or the 76.4% Fib retracement level of the recent decline from the $2.525 swing high to the $2.2754 low. A clear move above the $2.450 resistance might send the price toward the $2.520 resistance. Any more gains might send the price toward the $2.580 resistance. The next major hurdle for the bulls might be near $2.650. Another Decline? If XRP fails to clear the $2.40 resistance zone, it could start a fresh decline. Initial support on the downside is near the $2.280 level. The next major support is near the $2.250 level. If there is a downside break and a close below the $2.250 level, the price might continue to decline toward $2.20. The next major support sits near the $2.120 zone, below which the price could continue lower toward $2.050. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level. Major Support Levels – $2.250 and $2.20. Major Resistance Levels – $2.40 and $2.450.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54375464,
     "published": 1763095102000,
     "title": "Canary's XRP ETF Tops 2025 Debuts with $58M Day-One Volume",
@@ -4735,6 +4594,296 @@
   },
   {
     "id": 54417049,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417400,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417113,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417463,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417230,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417283,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417699,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54418049,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54417631,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54418214,
+    "published": 1763116189000,
+    "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
+    "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54418165,
     "published": 1763116189000,
     "title": "Cathie Wood’s ARK bags $46M of Circle stock as price dips below $90",
     "body": "Cathie Wood’s investment company, ARK Invest, is back to buying Circle, making its first purchases since selling 1.7 million shares in June.",
