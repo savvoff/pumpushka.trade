@@ -1,10 +1,10 @@
 ---
 title: Дебют XRP ETF перевершує всі запуски 2025 року з $250M вливаннями та рекордним обсягом.
-description: 'XRP ETF Canary Capital справив значний вплив, перевершивши всі 900 запусків ETF 2025 року, що стало помітним моментом у сфері інвестицій у криптовалюти. Це…'
+description: 'XRP ETF Canary Capital справив значний вплив, перевершивши всі 900 запусків ETF 2025 року. Ця продуктивність викликала бичачий настрій серед відомих трейдерів у…'
 publishedAt: '2025-11-14T11:43:37.000Z'
-updatedAt: '2025-11-14T12:53:17.968Z'
+updatedAt: '2025-11-15T11:18:15.238Z'
 lang: uk
-externalId: '54388188'
+externalId: '54432287'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,32 +18,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMjQzOTh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMjQzOTh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMjQzOTh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMjQzOTh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMjQzOTh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1672617195387-1a890be98e28'
+  raw: 'https://images.unsplash.com/photo-1635236269199-3c71295855b3?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyMDU0MDl8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1635236269199-3c71295855b3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyMDU0MDl8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1635236269199-3c71295855b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyMDU0MDl8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1635236269199-3c71295855b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyMDU0MDl8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1635236269199-3c71295855b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyMDU0MDl8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1635236269199-3c71295855b3'
 ai:
-  translatedFrom: '54388188'
+  translatedFrom: '54432287'
   version: 1
 ---
 ## Огляд
 
-XRP ETF від Canary Capital справив значний вплив, перевершивши всі 900 запусків ETF 2025 року, що стало помітним моментом у світі інвестицій у криптовалюти. Цей дебют викликав бичачий настрій серед успішних трейдерів, які тепер позиціонують себе для потенційного зростання ціни XRP.
+XRP ETF компанії Canary Capital справила значний вплив, перевершивши всі 900 запусків ETF 2025 року. Ця продуктивність викликала оптимістичні настрої серед відомих трейдерів у галузі, що призвело до збільшення спекуляцій навколо руху ціни XRP.
 
 ## Що сталося
 
-XRP ETF, запущений Canary Capital, став видатним у переповненому ринку ETF 2025 року. Його показники перевищили результати всіх інших нових ETF, що привернуло увагу трейдерів та інвесторів. Сильний початковий прийом XRP ETF призвів до зміни динаміки ринку, і багато трейдерів тепер зосереджують свої стратегії на XRP, очікуючи зростання його вартості.
+Запуск XRP ETF компанії Canary Capital привернув увагу завдяки своїй винятковій продуктивності в порівнянні з іншими ETF, запущеними в 2025 році. Це досягнення викликало хвилю оптимізму серед трейдерів, багато з яких тепер зосереджують свої стратегії на XRP. Значні вливання та обсяги торгів, пов'язані з ETF, свідчать про підвищений інтерес до XRP на фінансових ринках.
 
 ## Чому це важливо
 
-Успішний запуск XRP ETF є значущим з кількох причин. Він не лише підкреслює зростаючий інтерес до фінансових продуктів на основі криптовалют, але й демонструє потенціал ETF впливати на ринкову поведінку. Бичачий ротаційний настрій серед трейдерів свідчить про відновлену впевненість у XRP, що може призвести до збільшення торгової активності та інвестицій у сектор криптовалют.
+Успіх XRP ETF є ключовим моментом як для активу, так і для ширшого ринку криптовалют. Бичачий ротація серед трейдерів свідчить про відновлену впевненість у XRP, що потенційно може вплинути на ринкову динаміку та поведінку трейдерів. Продуктивність цього ETF може встановити прецедент для майбутніх запусків ETF у крипто-просторі, підкреслюючи зростаюче визнання цифрових активів у традиційних інвестиційних портфелях.
 
-## Вплив на ринок криптовалют
+## Вплив на крипто-ринок
 
-- Показники XRP ETF можуть призвести до зростання інтересу до криптовалютних ETF в цілому.
-- Бичачий настрій успішних трейдерів може стимулювати попит на XRP.
-- Дебют може встановити прецедент для майбутніх запусків ETF у крипто-просторі.
-- Збільшення торгової активності навколо XRP може покращити його ринкову ліквідність.
-- Успіх XRP ETF може заохотити інші фінансові установи досліджувати подібні пропозиції.
+- Зростаючий інтерес до XRP та його потенціалу для підвищення ціни.
+- Зміна торгових стратегій серед успішних трейдерів, які зосереджуються на XRP.
+- Потенційний еталон для майбутніх запусків криптовалютних ETF.
+- Підвищена ринкова активність та обсяги торгів навколо XRP.
+- Відображення зростаючого інституційного інтересу до криптовалютних активів.
