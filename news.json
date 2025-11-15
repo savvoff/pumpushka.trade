@@ -1,40 +1,5 @@
 [
   {
-    "id": 54408175,
-    "published": 1763159400000,
-    "title": "SOL drops to 5-month low despite Solana spot ETF success: Is $100 next?",
-    "body": "Solana ETFs recorded inflows for 13 consecutive days, but SOL price lost key technical support levels, sparking fears of a drop to $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54410234,
     "published": 1763163000000,
     "title": "BItcoin hits 6-month low as AI fears add to risk-off mood: How are pro traders positioned?",
@@ -956,6 +921,53 @@
         "ID": 47,
         "NAME": "SPONSORED",
         "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54455270,
+    "published": 1763247646000,
+    "title": "Bitcoin Price In Trouble As Sell-Side Momentum Spikes — $92,000 Next?",
+    "body": "The Bitcoin price has ostensibly continued down in its bearish direction, which started in the second week of October. After slipping beneath the psychological $100,000 support, worries have surfaced among Bitcoin market participants regarding the broader market structure. Interestingly, the latest on-chain evaluation justifies this worry, as the downside bias for the Bitcoin price seems to be on the rise. Binance Taker Imbalance Falls Into Negative Territory In a Quicktake post on the CryptoQuant platform, on-chain research firm Arab Chain revealed an increase in sell-side momentum for Bitcoin on Binance, the world’s largest exchange by trading volume. This revelation revolves around the BTC Taker Imbalance % metric, which tracks whether the market is dominated by aggressive buyers or sellers. Narrowing it down, this metric offers insights into taker activity on Binance. Related Reading: Bitcoin Moves Beyond Retail — Institutional Ownership Now Defines The Market Because the metric works by revealing the percentage difference between taker buy volume and taker sell volume, readings with positive values suggest the dominance of buyers in the market. On the contrary, negative readings reveal a seller-dominated market. As Arab Chain reported, there has been an evident spike in the amount of selling pressure in recent hours. A Taker Imbalance % reading of -0.17%, which typically reflects continued bearish action, supports this observation. Moreover, the research firm pointed out that there has been an evident difference between the selling and buying volumes recently. The Quicktake post revealed a record of $1.517 billion in selling volume against $1.058 billion dedicated to buying power, making it clear what party is currently winning this Bitcoin price tussle. Is $92,000 The Next Bitcoin Price Target? What’s interesting is, the current seller-dominated market has caused the BTC price to continuously hover around the key $94,000 level. Arab Chain noted that each attempt by the Bitcoin price to rise has faced an even greater amount of sell resistance, dousing any serious bullish momentum. The grey bars in the above chart suggest that this increasing bearish pressure might not just be a market correction; instead, it reflects a recurrent injection of sell-pressure, one which Arab Chain implied would eventually defeat the weaker buy-side liquidity at the current support. In the likely scenario where more bearish momentum is injected to push the market to the downside, the next level, which could act as a cushion for price, lies around $92,000. If a significant amount of liquidity is not introduced to neutralize the dominance of Bitcoin’s sellers, the Bitcoin price could see an even deeper bearish correction. At press time, Bitcoin is valued at $96,241, reflecting a nearly 2% loss in the past day. Related Reading: Bitcoin Crashes To $98,000 As HODLer Selling Accelerates Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|Bitcoin Taker Imbalance %|btc|BTC news|btc price|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
