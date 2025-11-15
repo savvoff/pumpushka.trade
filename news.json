@@ -1,81 +1,5 @@
 [
   {
-    "id": 54403788,
-    "published": 1763151564000,
-    "title": "Strategy’s NAV falls under 1, critics raise alarm after $5.7B Bitcoin wallet move",
-    "body": "Strategy moves $5.7 billion in Bitcoin as its net asset value to its Bitcoin holdings drops below one for the first time, sparking valuation concerns amid marketwide speculation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54405162,
-    "published": 1763154031000,
-    "title": "Why This Pundit Believes XRP Could Become A ‘Joke’ As ETFs Go Live",
-    "body": "A recently shared image on X showing the full lineup of pending XRP ETF filings prompted a blunt response from market commentator Robert Ledferd. Instead of offering predictions or excitement, he framed the moment as a straightforward test for the asset, noting that if XRP cannot climb into double-digit territory once this many ETFs are live, the market may end up treating it as a joke. The comment brings into question what price level actually represents meaningful progress once institutional money enters the picture for XRP. Why The Comment Landed Strongly Ledferd reacted to a screenshot listing nearly every major issuer preparing an XRP product, including firms such as Bitwise, Grayscale, Fidelity, VanEck, Invesco, CoinShares, Franklin Templeton, Hashdex, and ARK Invest. The number of issuers alone means that XRP is entering a phase where institutional exposure will no longer be theoretical. Related Reading: Analyst Predicts XRP “Supply Crisis” To Trigger The Next Parabolic Rally The general consensus is that when these ETFs hit the market, XRP will receive massive institutional inflows comparable to that of Bitcoin and Ethereum, which, in turn, would be reflected in its price action. With this in mind, the pundit noted that XRP will be the “joke of the year” if these ETFs do not bring the cryptocurrency’s price to at least double digits.” Where XRP Needs To Trade For ETFs To Matter The numerical reality behind this expectation is straightforward. XRP is currently trading well below the $3 price level. Particularly, XRP is trading at $2.3, which means even a return to its $3.65 all-time high would require a price increase of about 40% from present levels. To reach actual double digits above $10, it means the price of XRP would need to rise more than 320% from its current price. Before XRP can target double digits, however, it must convincingly break and close above the region between $3 and $3.65. This region is a structural pivot because it is where previous rallies have lost momentum If ETF demand is genuine, the first sign of it will be whether XRP can push above the $3 line and hold it as support. Such a move would confirm that new inflows are not being neutralized by selling pressure and that the buying pressure is absorbing tokens at a faster rate than they are being distributed. Related Reading: Analyst Says Don’t Get Left Behind As Massive Liquidity Wave Is Coming For XRP XRP currently has a total circulating supply of 60 billion tokens. Therefore, a move to $4 implies a market cap of $240 billion. On the other hand, a move to $10 implies a valuation above $600 billion. A $600-billion valuation would place XRP behind only Bitcoin in terms of market cap rankings. These numbers matter because ETF impact is not measured by price alone but by how much capital is required to move an asset of this size. If Spot XRP ETFs begin attracting even a small fraction of the inflows seen in early Bitcoin ETF trading, the push to $4 becomes more realistic. At the time of writing, the first US Spot XRP-backed ETF has officially been launched by Canary Capital with ticker XRPC and began trading on the Nasdaq Stock Market on November 13, 2025. Featured image from Peakpx, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|ark invest|bitwise|Canary Capital|coinshares|fidelity|Franklin Templeton|grayscale|Hashdex|Invesco|Ripple|Robert Ledferd|Spot XRP ETF|VanEck|xrp|xrp news|XRP Price|XRPC|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54405319,
     "published": 1763154238000,
     "title": "Binance adds BlackRock’s BUIDL as off-exchange collateral for institutional traders",
@@ -1103,6 +1027,41 @@
         "ID": 49,
         "NAME": "TECHNOLOGY",
         "CATEGORY": "TECHNOLOGY"
+      }
+    ]
+  },
+  {
+    "id": 54451277,
+    "published": 1763240420000,
+    "title": "Harvard Endowment Takes Rare Leap Into Bitcoin With $443M Bet on BlackRock's IBIT",
+    "body": "The investment, which accounts for 20% of Harvard's reported U.S.-listed public equity holdings, is notable.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Harvard University|Bitcoin ETF|BlackRock|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
