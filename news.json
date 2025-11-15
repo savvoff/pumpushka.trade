@@ -1,134 +1,5 @@
 [
   {
-    "id": 54390961,
-    "published": 1763126461000,
-    "title": "Morning Minute: Bitcoin Breaks Below $95K",
-    "body": "It's a bloody morning for the crypto board and has got people asking—has the bear market officially begun?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54392134,
-    "published": 1763128803000,
-    "title": "Crypto On Alert: Raoul Pal Hints At Macro Twist Post-US Govt Shutdown",
-    "body": "As the latest US government shutdown ends and markets refocus on macro plumbing, Raoul Pal has sketched out a strikingly liquidity-heavy roadmap on X – one that, in his framework, has direct implications for crypto. “So now the US Gov has reopened, what’s next?” Pal asks. He immediately points to the Treasury General Account (TGA): “Expect a few days for TGA spending to begin to significantly add to liquidity and should persist for several months.Obviously, QT ends in Dec and the balance sheet will crawl higher. We should see the dollar begin to weaken again.” Mechanically, TGA drawdowns push cash back into bank reserves and money markets, reversing the reserve drain that built up while the government was partially shut. At the same time, the Federal Reserve has already confirmed that quantitative tightening (QT) will end on December 1, 2025, shifting from active balance-sheet reduction to full reinvestment of maturing Treasuries and a more “maintenance” stance. When Will Crypto Prices Rise Again? Pal’s point is that both channels tilt the system toward more dollars sloshing through funding markets, a backdrop he has long argued is constructive for risk assets, including crypto. The near-term risk, in his view, is a classic year-end funding squeeze. “The next key step is to avoid a Year End funding squeeze. Expect several ‘temporary’ measures to add liquidity. Term Funding and SRF operations are most likely.” Related Reading: SEC Chair Sets Out Plans For Crypto Taxonomy To Define Digital Asset Classification Here he is referring to term repo or funding facilities and the Standing Repo Facility (SRF), which the Fed can scale up to backstop banks’ access to cash if overnight rates spike. That reading aligns with recent Fed communication that elevated SRF usage and tighter money-market conditions were central reasons for ending QT early. Pal then escalates from tactical tools to structural regulation: “That will eventually morph into the desperately needed changes to the SLR to allow banks to absorb more issuance and re-lever their balance sheets. This is a big liquidity bazooka. Expect in Q1. SLR should lower rates as banks buy more bonds.” The Supplementary Leverage Ratio (SLR) caps large banks’ overall balance-sheet size, regardless of asset risk. Loosening it for Treasuries and reserves has been debated for years as a way to let dealers warehouse more government debt without breaching constraints. If regulators move in that direction, it would, as Pal notes, free capacity for banks to buy more bonds and could exert downward pressure on yields—again easing financial conditions. Related Reading: The 2025 Year-End Crypto Outlook: The Catalysts That Will Decide Everything For crypto, that matters indirectly: Pal’s core macro thesis is that improving liquidity and lower real yields are the primary tailwinds for digital assets. Regulation is explicitly on his radar too: “Also expect CLARITY Act for crypto to begin to get finalized.” The Digital Asset Market Clarity Act of 2025 (“CLARITY Act”) has already passed the US House and is now before the Senate. It would define digital asset categories and divide oversight between the CFTC and SEC, replacing much of the current “regulation by enforcement” model. Pal’s remark signals his expectation that the shutdown’s end clears the way for renewed legislative momentum – a key piece of the institutional puzzle for non-bitcoin crypto. He closes by broadening the lens to global and fiscal policy: “There will also be stimulus payments and the Big Beautiful Bill fiscal goosing. China will continue balance sheet expansion. Europe will add fiscal stimulus or extra spending. The debts must be rolled and the Gov wants to super heat the economy into the Mid-Terms. This is the Liquidity Flood…. the spice must flow.” Taken together, Pal is describing a synchronised regime: post-shutdown TGA spending, the end of QT, potential SLR relief, progressing US crypto legislation, and ongoing fiscal and monetary support in China and Europe. For crypto investors who share his liquidity-centric lens, the message is not subtle: the macro “spice,” in his view, is about to flow again. At press time, the total crypto market cap dropped to $3.24 trillion. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto|Crypto market news|crypto news|Crypto Prices|Raoul Pal",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54391855,
-    "published": 1763127932000,
-    "title": "Uniswap revives ICO-style token launches with new onchain auction system",
-    "body": "Uniswap launched Continuous Clearing Auctions, a new onchain token sale mechanism designed to offer transparent price discovery, debuting with Aztec’s sale.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 205,
-        "NAME": "TOKEN SALE",
-        "CATEGORY": "TOKEN SALE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54392573,
     "published": 1763129371000,
     "title": "UK central bank still ‘disproportionately cautious’ about stablecoins",
@@ -1775,6 +1646,53 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54437796,
+    "published": 1763215238000,
+    "title": "Bitcoin Price Correction Could Last Until Mid-2026 — Here’s How",
+    "body": "The Bitcoin price has continued its horrendous run of form in the final quarter of 2025, ending the year pretty much as it began. Having lost the psychological $100,000 level on Thursday, November 13, the premier cryptocurrency appears to be free-falling under significant bearish pressure. Theories and debates continue to swirl around whether the Bitcoin price is merely feeling the effect of a naturally volatile crypto market or the bear season is slowly kicking in. A specific hypothesis explains that a loss of a certain technical level could spell a longer period of correction for BTC. Factors Behind The Bitcoin Price Collapse In a Quicktake post on the CryptoQuant platform, XWIN Research hypothesized and proposed how long the current Bitcoin price downturn could last. Before diving into its theory, the digital asset research firm first highlighted some of the factors behind the current decline in BTC’s price. Related Reading: How Low Can Bitcoin Price Go? JPMorgan Points To A Key Threshold XWIN Research revealed that the decreased expectations for a December rate cut are one of the reasons behind the recent decline. The shift in the Federal Reserve’s stance dragged the Bitcoin price below the key $100,000 level. Secondly, the crypto analytics firm noted that capital flows into spot exchange-traded funds (ETFs) have reversed sharply, with the investment products seeing nearly $1.1 billion in outflows in recent days. These massive withdrawals signal a waning institutional demand and general market sentiment. Finally, XWIN Research revealed that the excessive leverage in the market unwound violently. “Once major supports broke, cascading liquidations triggered more than 600 million USD in forced long closures within hours. Added to this were exchange-related rumors and DeFi security incidents, pushing sentiment into extreme fear,” the analytics firm wrote. How Long Could This Decline Continue? After outlining the factors behind this Bitcoin price decline, XWIN Research put forward a theory and a potential timeline for the future trajectory of the flagship cryptocurrency. With the $92,000 – $94,000 region being pinpointed as the next critical support, a breach of this zone could see the price of BTC fall to around $85,000. XWIN Research wrote in its Quicktake post that this $92,000 breakdown could see the Bitcoin price correction linger until early or mid-2026. However, the DeFi analytics firm noted that recent on-chain data offers a more optimistic outlook for the market leader. For instance, the cost basis of 6-to-12-month holders stands around $94,000, serving as a strong structural support. So long as the Bitcoin price stays above this band, the long-term bullish case for the premier cryptocurrency remains intact. XWIN Research added: Several catalysts could drive the next recovery. The most important is an improvement in macro conditions: a shift toward rate cuts or broader liquidity expansion in 2026 would draw capital back into risk assets. As of this writing, the price of BTC stands at around $94,930, reflecting a nearly 4% decline in the past 24 hours. Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|btc price|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
