@@ -706,5 +706,69 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54493504,
+    "published": 1763319600000,
+    "title": "Judge Should Not Acquit Tornado Cash Dev Roman Storm, Prosecutors Argue",
+    "body": "The DOJ filed its own post-trial motion last week, pushing back against Storm's motion for acquittal.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Roman storm|Tornado Cash|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54493179,
+    "published": 1763318974000,
+    "title": "Bitcoin Falls Below $94,000 for First Time Since May Amid 'Extreme Fear' Sentiment",
+    "body": "Analysts highlighted retail distress, rare social-dominance surges and warnings of a possible deeper pullback as several major tokens remained under pressure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Markets|Bitcoin News|btc|ETH|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
