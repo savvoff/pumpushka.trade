@@ -1,52 +1,5 @@
 [
   {
-    "id": 54427027,
-    "published": 1763193626000,
-    "title": "Circle Stock Plummets By Almost 70% Post-IPO Debut, Analysts Issue Warnings",
-    "body": "Following a notable debut on the Nasdaq earlier this year, Circle (CRCL), the issuer of the USDC stablecoin, has experienced a significant decline in its stock value. After hitting a peak of $298 on June 23, just 18 days post-launch, shares have now dropped by 68%, trading around $82. Circle Faces Challenges As Lockup Period Approaches Despite benefiting from a softer regulatory stance on digital assets in the US with President Trump’s crypto policies, Circle faces challenges that history does not favor, particularly as it approaches the end of its lockup period. Related Reading: Bitcoin Price Tumbles Toward $98,000: What’s Driving The Drop And What Lies Ahead Analysts, including Dan Dolev from Mizuho, highlighted that this lockup period prevents insiders from selling shares, typically for 180 days after an initial public offering. Circle’s initial public offering (IPO) filing indicated that this lockup period is set to expire two days after the company unveils its third-quarter earnings, which is this Friday. Mizuho’s analysis of over 750 IPOs with market capitalizations exceeding $1 billion reveals that 58% of companies that outperform the S&P 500 prior to their lockup period tend to underperform the index in the 180 days following it. These companies see an average decline of approximately 2%. The outlook is even bleaker for firms falling short of revenue expectations in the year after their IPOs, which tend to experience an average negative return of about 10% relative to the S&P 500. Circle may find itself in this latter category according to Mizuho. A significant portion of the company’s revenue comes from the interest on USDC reserves held in short-term US Treasuries, Treasury repurchase agreements, and cash. Consequently, a decline in interest rates or slower-than-anticipated growth of USDC could adversely impact revenue streams. Dolev noted: In our view, CRCL is likely to see downward revisions to consensus estimates over the coming years amid declining rates and less stellar proliferation of its USDC stablecoin, alongside growing distribution costs. Is CRCL A Buy-Low Opportunity? Despite these potential downward adjustments, Circle recently exceeded consensus estimates for both revenue and earnings in its third-quarter report. Related Reading: By The Numbers: First Spot XRP ETF Achieves Record Launch Amid 900 Competitors Following the announcement, JP Morgan issued a double-upgrade for the stock from Underweight to Overweight, raising its price target from $94 to $100. The bank underscored the ongoing acceptance of stablecoins within mainstream financial institutions, with USDC being a leading player in this space. However, the impending lockup expiration has already placed downward pressure on Circle’s stock, according to JP Morgan analyst Kenneth Worthington. He views the current situation as a “buy-low opportunity” for investors, suggesting that the stock’s decline post-lockup may have brought it to levels below its December 2026 price target, indicating potential for future upside. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|circle|Circle CRLC|Circle news|Circle stock|CRCL price|crypto|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54428997,
     "published": 1763197253000,
     "title": "Crypto ‘Pig-Butchering’ Scam Escalating Into A National Security Risk— Study",
@@ -792,6 +745,53 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54472227,
+    "published": 1763278694000,
+    "title": "XRP Falls 4.3% Even After XRPC ETF Launch on Bitcoin Weakness, Finds Buyers Near $2.22",
+    "body": "The market remains bearish with XRP struggling to break above the $2.23–$2.24 resistance zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|XRP News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
