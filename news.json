@@ -1,81 +1,5 @@
 [
   {
-    "id": 54439630,
-    "published": 1763218800000,
-    "title": "Crypto Liquidity Still Hollow After October Crash, Risking Sharp Price Swings",
-    "body": "Despite calmer prices after October’s brutal leverage wipeout, bitcoin and ether market depth remains structurally thin, creating a more fragile trading environment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Liquidity|Leverage|Order Books|market analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54439948,
-    "published": 1763219267000,
-    "title": "Harvard Triples Its Bitcoin Position as Emory Expands BTC ETF Holdings",
-    "body": "Harvard University and Emory both increased their Bitcoin exposure in the third quarter via ETF holdings, new filings show.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54440634,
     "published": 1763220615000,
     "title": "Bullish Signal On Binance: BTC/ETH Outflows Counter Surging Stablecoin Inflows",
@@ -903,6 +827,29 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54486816,
+    "published": 1763305200000,
+    "title": "Desperate Canadian Youth a Growing Target For Investment Scams",
+    "body": "Strapped for cash and facing one of the bleakest job markets in decades, Canada’s young people are increasingly falling victim to financial fraudsters.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   }
