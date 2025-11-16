@@ -1,63 +1,5 @@
 [
   {
-    "id": 54451277,
-    "published": 1763240420000,
-    "title": "Harvard Endowment Takes Rare Leap Into Bitcoin With $443M Bet on BlackRock's IBIT",
-    "body": "The investment, which accounts for 20% of Harvard's reported U.S.-listed public equity holdings, is notable.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Harvard University|Bitcoin ETF|BlackRock|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54451364,
-    "published": 1763240463000,
-    "title": "Prediction Markets Are Coming for Your Favorite Sport, Says NBA Star Tristan Thompson",
-    "body": "Prediction markets dominated politics last year, but now they’re making a notable splash in the big leagues, NBA star Tristan Thompson said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 54452281,
     "published": 1763242229000,
     "title": "Bitcoin In Bullish Confluence: Death Cross And Key Support Signal Upside",
@@ -727,6 +669,111 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54496761,
+    "published": 1763326153000,
+    "title": "SoFi Is Only The Beginning Of Bank-Based Crypto Products",
+    "body": "As crypto adoption continues to accelerate, SoFi is staking out a retail-first position",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54497599,
+    "published": 1763327554000,
+    "title": "Bitcoin Erases Year’s Gain as Crypto Bear Market Deepens",
+    "body": "Just a little more than a month after reaching an all-time high, Bitcoin has erased the more than 30% gain registered since the start of the year as the exuberance over the pro-crypto stance of the Trump administration fades and the recent cooling of high-flying technology stocks leads to a drop in overall risk appetite.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54497435,
+    "published": 1763327327000,
+    "title": "Peter Schiff calls Strategy's model 'fraud,' challenges Saylor to debate",
+    "body": "Schiff also challenged Binance co-founder Changpeng Zhao (CZ) to a debate, slated to take place in December in the United Arab Emirates.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
