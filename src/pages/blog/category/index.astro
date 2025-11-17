@@ -1,0 +1,83 @@
+---
+import { getCollection } from 'astro:content';
+import Breadcrumbs from '@components/Breadcrumbs.astro';
+import BlogLayout from '@layouts/Blog.astro';
+import Categories from '@components/Categories.astro';
+import Tags from '@components/Tags.astro';
+import RecentPosts from '@components/RecentPosts.astro';
+import { SITE, TRANSLATIONS } from 'src/constants';
+
+const lang = SITE.defaultLanguage;
+
+const blogTitle = TRANSLATIONS[lang].blog;
+const categoriesText = TRANSLATIONS[lang].categories;
+const tagsText = TRANSLATIONS[lang].tags;
+
+const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+
+const counts = new Map<string, number>();
+
+const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
+
+for (const e of entries) {
+  const c = (e.data.category || 'OTHER').toString().trim();
+  counts.set(c, (counts.get(c) ?? 0) + 1);
+}
+
+let items = [...counts.entries()]
+  .sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0]));
+
+function toPath(seg: string) {
+  return `${langPrefix}/blog/category/${encodeURIComponent(seg.toLowerCase())}/`;
+}
+
+const maxCount = items[0]?.[1] ?? 1;
+const minCountFound = items[items.length - 1]?.[1] ?? 1;
+
+function scale(count: number) {
+  if (maxCount === minCountFound) return 1;
+  const t = (count - minCountFound) / (maxCount - minCountFound); // 0..1
+  return 0.85 + t * (1.25 - 0.85);
+}
+
+---
+<BlogLayout 
+  title={ categoriesText } 
+  description={ categoriesText }
+  showSearch={ false }
+  withSidebar={ true }
+  >
+  <Breadcrumbs
+    slot="breadcrumbs"
+    items={[
+      { label: blogTitle, href: '/blog', icon: 'tabler:library' },
+      { label: categoriesText, href: Astro.url.toString(), icon: 'tabler:category' },
+    ]}
+  />
+
+  <h1 class="font-bold text-3xl">{ categoriesText }</h1>
+
+  <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1 mb-8" data-pagefind-ignore="all">    
+    <div class="flex flex-wrap gap-2">
+      { items.length ? items.map(([name, count]) => {
+          const s = scale(count).toFixed(2);
+          return (
+            <a href={ toPath(name) }
+              style={`font-size:${s}rem`}
+              class="inline-flex items-center px-2.5 py-1 border rounded-lg" aria-label={ `Open category: ${name}` }>
+              <span class="truncate">{ name }</span>
+            </a>
+          );
+        }) : (
+          <div class="text-4xl xl:text-8xl text-center text-nowrap" set:text="¯\_(ツ)_/¯"></div>
+        ) }
+    </div>
+  </div>
+
+  <!-- sidebar slots -->  
+  <RecentPosts slot="recent" />
+  <Categories slot="categories" title={ categoriesText } />
+  <Tags slot="tags" title={ tagsText } />
+<!-- <div slot="ad-sidebar"></div>
+  <div slot="ad-top"></div> -->
+</BlogLayout>

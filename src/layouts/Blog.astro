@@ -80,7 +80,7 @@ const t = useI18n(lang);
         { showSearch && (
           <!-- Search -->
           <SiteLd siteName={ t(SITE.title) } siteUrl={ Astro.site!.href } searchUrlTemplate="/?q={search_term_string}" />
-          <div class="top-24 [.site-header.is-hidden~.grid_&]:top-6 z-40 sticky transition-all">
+          <div class="top-24 [.site-header.is-hidden~.grid_&]:top-4 z-40 sticky transition-all">
             <Search id="search" className="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md pagefind-ui" uiOptions={{ showImages: false }} />
           </div>
         )}
@@ -98,6 +98,12 @@ const t = useI18n(lang);
 			</div>
       )}
 		</div>
+
+    <footer class="xl:hidden page-footer">
+      <div class="container">
+        <hr class="my-8">
+      </div>
+    </footer>
     <ToTopButton />
     <Analytics />
   </body>

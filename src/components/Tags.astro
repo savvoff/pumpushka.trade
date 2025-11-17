@@ -12,6 +12,7 @@ interface Props {
   compact?: boolean;
   showCount?: boolean;
   lang?: LangCode;
+  pageLink?: string;
 }
 
 const {
@@ -21,8 +22,10 @@ const {
   minCount = 1,
   compact = true,
   showCount = false,
-  lang = SITE.defaultLanguage
+  lang = SITE.defaultLanguage,
+  pageLink = '/blog/tag'
 } = Astro.props;
+
 const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
 
 const counts = new Map<string, number>();
@@ -58,11 +61,17 @@ function scale(count: number) {
 }
 ---
 <section class="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md">
-  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:tags" class="size-4" />{ title }</p>
+  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:tags" class="size-4" />
+    { pageLink ? (
+      <a class="hover:underline" href={ `${langPrefix}${pageLink}` } aria-label="Open tags page">{ title }</a>
+    ) : (
+      { title }
+    ) }
+  </p>
 
   { compact ? (
     <ul class="flex flex-wrap gap-2">
-      {items.map(([name, count]) => {
+      { items.map(([name, count]) => {
         const active = name.toUpperCase() === currentTag.toUpperCase();
         return (
           <li class="max-w-full">
@@ -98,5 +107,5 @@ function scale(count: number) {
         );
       }) }
     </div>
-  )}
+  ) }
 </section>

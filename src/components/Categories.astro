@@ -9,6 +9,7 @@ interface Props {
   limit?: number;
   showCount?: boolean;
   lang?: LangCode;
+  pageLink?: string;
 }
 
 const {
@@ -16,7 +17,8 @@ const {
   currentCategory = '',
   limit = 12,
   showCount = true,
-  lang = SITE.defaultLanguage
+  lang = SITE.defaultLanguage,
+  pageLink = '/blog/category'
 } = Astro.props;
 
 const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
@@ -38,7 +40,14 @@ function toPath(seg: string) {
 }
 ---
 <section class="space-y-4 bg-white shadow-black shadow-xs px-4 py-5 border-2 border-black rounded-md">
-  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:category" class="size-4" />{ title }</p>
+  <p class="flex items-center gap-1 font-semibold"><Icon name="tabler:category" class="size-4" />
+     { pageLink ? (
+      <a class="hover:underline" href={ `${langPrefix}${pageLink}` } aria-label="Open category page">{ title }</a>
+    ) : (
+      { title }
+    ) }
+  </p>
+  
   <ul class="space-y-1">
     { items.map(([name, count]) => {
       const active = name.toUpperCase() === currentCategory.toUpperCase();
@@ -50,7 +59,7 @@ function toPath(seg: string) {
                       ? 'bg-orange text-white'
                       : 'hover:bg-slate-100'}`}
                       aria-label={`Open category: ${name}`}>
-            <span class="truncate">{name}</span>
+            <span class="truncate">{ name }</span>
             { showCount && <span class={`text-xs tabular-nums ${active ? 'opacity-90' : 'opacity-60'}`}>({ count })</span> }
           </a>
         </li>
