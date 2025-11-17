@@ -1,69 +1,5 @@
 [
   {
-    "id": 54493504,
-    "published": 1763319600000,
-    "title": "Judge Should Not Acquit Tornado Cash Dev Roman Storm, Prosecutors Argue",
-    "body": "The DOJ filed its own post-trial motion last week, pushing back against Storm's motion for acquittal.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Roman storm|Tornado Cash|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54493179,
-    "published": 1763318974000,
-    "title": "Bitcoin Falls Below $94,000 for First Time Since May Amid 'Extreme Fear' Sentiment",
-    "body": "Analysts highlighted retail distress, rare social-dominance surges and warnings of a possible deeper pullback as several major tokens remained under pressure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Markets|Bitcoin News|btc|ETH|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54496761,
     "published": 1763326153000,
     "title": "SoFi Is Only The Beginning Of Bank-Based Crypto Products",
@@ -2548,6 +2484,152 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54536509,
+    "published": 1763403522000,
+    "title": "Kindly MD Delays Earnings Report Filing as Merger Losses Mount; Shares Drop",
+    "body": "Complex post-merger accounting prompts a late filing while losses mount and the shares slip further.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Nakamoto|Bitcoin News|Earnings|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54537079,
+    "published": 1763404661000,
+    "title": "UK Man Who Hacked Musk, Obama Accounts for Bitcoin Scam Ordered to Pay Back $5 Million",
+    "body": "A man convicted of hijacking celebrity and brand Twitter accounts in 2020 to perpetrate a Bitcoin scam has to pay back over $5 million.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 54536910,
+    "published": 1763404243000,
+    "title": "Serious $1 Trillion Crypto Price Crash Warning Sparks Panic As Bitcoin Drop Suddenly Accelerates",
+    "body": "Analysts are warning the crypto market could be about to lose another $1 trillion...",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54537514,
+    "published": 1763405648000,
+    "title": "What Next For Dogecoin as Bitcoin 'Death Cross' Puts Major Memecoin in Crosshairs",
+    "body": "Bitcoin's Death Cross, a bearish signal, occurred as the 50-day moving average fell below the 200-day moving average.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Dogecoin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
