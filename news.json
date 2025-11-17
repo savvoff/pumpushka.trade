@@ -1,34 +1,5 @@
 [
   {
-    "id": 54484792,
-    "published": 1763302085000,
-    "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-    "body": "Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Technology Guides",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54486816,
     "published": 1763305200000,
     "title": "Desperate Canadian Youth a Growing Target For Investment Scams",
@@ -1493,6 +1464,175 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54527778,
+    "published": 1763386251000,
+    "title": "Here’s Why The Ethereum Price Is Crashing Again, Can It Breach $3,000?",
+    "body": "The Ethereum price has slipped deeper into a bearish structure that has intensified over the past week. A combination of weakening momentum, strong ETF outflows, and selling from long-term holders has dragged the price of Ethereum lower at a pace that has led to concerns about whether the cryptocurrency is preparing for a deeper correction. The latest decline has now placed the $3,000 region back into view and it opens up the question of whether the momentum behind this downturn is strong enough to force another breakdown below $3,000. Ethereum Price Slips Below Moving Averages As ETF Outflows Deepen New data from 10x Research reveals that Ethereum is now trading firmly below both the 7-day and 30-day moving averages, confirming a clean shift toward bearish momentum. The latest one-week change shows a decline of -6.6%, with the price failing to regain the short-term trendline at any point during the sell-off. Related Reading: This Analyst Called The Bitcoin Crash Below $20,000 In 2021, He’s Back With A Shocking Prediction For Solana The chart provided by the research firm illustrates how ETH-USD rolled over throughout early November as both moving averages curved downward, indicating that market structure has fully weakened. This technical deterioration is unfolding at the same time the Ethereum ETF market is experiencing one of its heaviest redemptions on record. According to data from SoSoValue, spot ETH ETFs have now seen more than $1.4 billion in net outflows since the beginning of November, a change that shows the decisive shift in institutional appetite. The combination of sustained selling pressure and shrinking ETF demand has created a feedback loop that continues to pull ETH lower whenever each price support level fails. XRP Price Chart. Source: 10X Research On X Long-Term Holders Selling Fastest Since 2021, But Whales Are Accumulating On-chain flows paint a picture of an ecosystem under strain. Data shows that long-term ETH holders, wallets that have held their coins for three to ten years, are now selling at their fastest rate since 2021. This group is known to be dormant during most phases of the market, so their recent activity has introduced a strong supply wave that exchanges have struggled to absorb. Related Reading: What Will Trigger The XRP 1,300% Break To $36 This Bull Cycle? However, the dynamic is not entirely one-directional. On-chain data shows that a few large whale wallets have stepped in aggressively during the downturn and bought hundreds of thousands of ETH worth over $1 billion. Meanwhile, the scale of accumulation has not been large enough to counteract the broader selling from long-term holders or the ETF outflows, leaving the price of Ethereum trapped inside a downward-tilting trend channel. Ethereum is now trading around $3,182, but its intraday low has stretched as far as $3,023. This leaves very little margin between the current level and the support zone at $3,000. If sellers continue to dominate and push the price below the $3,150 to $3,200 range, a direct slide to $3,000 becomes increasingly likely during the new week. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54527466,
+    "published": 1763385264000,
+    "title": "Chat Control stumbles again as EU retreats from mandatory scanning",
+    "body": "EU lawmakers stripped out mandatory client-side message scanning from the latest Chat Control draft, but invasive age checks and voluntary scanning remain.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54528242,
+    "published": 1763386836000,
+    "title": "Trump Organization to tokenize Maldives resort development for early investors",
+    "body": "The tokenized luxury resort development plan may set a “new benchmark” for tokenized real estate investment, said Eric Trump.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 54528620,
+    "published": 1763387714000,
+    "title": "Bitcoin Hyper and the Hunt for the Next 1000x Crypto in 2025",
+    "body": "What to Know: Bitcoin volatility and extreme fear push investors toward infrastructure narratives like Bitcoin Layer-2s that can benefit if the macro bull case plays out. Bitcoin Hyper ($HYPER) uses an SVM-based Layer-2, canonical bridge, and ZK-secured rollup design to bring fast, low-fee $BTC transactions and DeFi. The $HYPER presale has raised over $27.8M with whale participation, creating a sizable runway for development and liquidity programs. Forecasts suggest potential 6.5x upside from today’s token price by 2026 if Bitcoin Hyper executes its roadmap and Layer-2 demand grows. Bitcoin’s latest cycle is in full drama mode. After ripping to six-figure territory earlier this year, it has since slipped back under $100K, with recent moves below $93K triggering a fear and greed reading near ‘ extreme panic ’. Zoom out, though, and the big picture still leans bullish. Several major research desks and high-profile analysts continue to float targets between $200K and beyond for this cycle, with Hayes even hinting at a $1M $BTC by 2028 as institutional adoption ramps and treasuries continue to accumulate. That mix of macro optimism and short-term volatility pushes more capital away from pure ‘number go up’ bets and into infrastructure plays. One of the loudest narratives for 2025 is Bitcoin scaling: Layer-2 solutions, rollups, and sidechains built to handle the fees and congestion created by Ordinals, Runes, and the first wave of Bitcoin DeFi. Bitcoin Hyper ($HYPER) fits straight into this setup. It is a Bitcoin Layer-2 that uses Solana’s Virtual Machine (SVM) to bring high-throughput and low-fee execution to $BTC, with a canonical bridge and rollup design that settles back to Bitcoin for security. Its presale has already attracted over $27.8M, with a token price of $0.013285 and massive post-launch potential. With a projected official launch window set for Q4 2025 – Q1 2026, $HYPER could become the next 1000x crypto in 2026 and beyond. Buy your $HYPER today before the presale window closes. Bitcoin Hyper Aims To Turn Bitcoin Into A High-Speed DeFi Rail Bitcoin Hyper’s ($HYPER) thesis is simple: keep Bitcoin’s base-layer security while offloading activity to a dedicated execution environment. Users deposit $BTC to a monitored address on Layer-1, a canonical bridge verifies the transaction, then equivalent $BTC is minted on the Bitcoin Hyper Layer-2. From there, transfers and interactions happen in an SVM environment designed for near-instant finality and high throughput, before batched state updates and zero-knowledge proofs are committed back to Bitcoin. In practice, that means cheap $BTC payments, on-chain order books, staking, and even meme coins that are still anchored to Bitcoin’s settlement layer. Developers who already understand Solana’s tooling get a familiar stack while tapping into Bitcoin liquidity, which is exactly the combo many builders have been waiting for. If Bitcoin DeFi volume continues to grow and programmable $BTC takes off, a performant Layer-2 designed for that flow is well-positioned to capture fees and user attention. That is the core utility bet behind $HYPER. If you want to support that utility, buy your $HYPER today. The $HYPER Presale and ROI Scenarios For 2025–2026 On the numbers side, the Bitcoin Hyper presale has already crossed $27.8M, helped by at least one $502K whale ticket and consistent daily inflows despite the broader market wobble. Based on the community hype, investor participation, and the project’s express utility, our price prediction for $HYPER suggests a high of $0.08625 in 2026, assuming the roadmap stays on track. Against a $0.013285 entry, this implies roughly a 6.5x return in a 2026 scenario where the DAO is live, node incentives are working, and Bitcoin Layer-2 adoption continues to compound. These are not moonshots compared with meme-coin pumps, but they are realistic multiples for an infrastructure token that actually has to run a chain. With a clear-cut roadmap , a narrative aligned with Bitcoin’s technical development, and an influx of investors, we can rank $HYPER among the best presales of 2025. This makes it a great investment opportunity for $BTC holders who want scaling exposure rather than another meme. If you’re sold, read our guide on how to buy $HYPER beforehand. Buy your $HYPER today before the presale ends. This isn’t financial advice. DYOR before investing. Authored by Aaron Walker, NewsBTC: www.newsbtc.com/news/next-1000x-crypto-bitcoin-is-hyper-2025-best-crypto-presale",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54529353,
+    "published": 1763388900000,
+    "title": "Meta (Facebook) Ushers In The AI Audit Era. Can Blockchain Verify?",
+    "body": "Meta (Facebook) starts AI audits to track employee results. This could spark a wider shift to verify AI performance and blockchain \"trust verification\" could help.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Business|/business|Innovation Rx: Technologies|/feature/innovation-rx/technologies|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
       }
     ]
   }
