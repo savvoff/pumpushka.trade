@@ -1676,5 +1676,157 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54531575,
+    "published": 1763393459000,
+    "title": "Figment, OpenTrade and Crypto.com Offer 15% Stablecoin Yield Product for Institutions",
+    "body": "The new offering uses SOL staking and futures to deliver returns without price exposure, targeting compliance-minded investors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Staking|Figment|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54532011,
+    "published": 1763382895000,
+    "title": "BONK Retreats as Resistance Rejection and Rising Volume Stall Uptrend",
+    "body": "BONK slipped back into its lower range after multiple failed pushes toward $0.00001090, with elevated trading activity underscoring consolidation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 113,
+        "NAME": "BONK",
+        "CATEGORY": "BONK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54532281,
+    "published": 1763394833000,
+    "title": "Bitcoin Accumulation Amid Market Weakness? Sharp Rise in 1K BTC Holders Suggests So",
+    "body": "Rising whale activity hints at strategic positioning during bitcoin’s downturn.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Glassnode|Whales|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54532632,
+    "published": 1763395376000,
+    "title": "Republic raises $100M for ETH purchases under unusual zero-interest deal",
+    "body": "Republic Technologies secured a zero-interest convertible loan to expand its Ether holdings, a structure that could limit shareholder dilution.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
