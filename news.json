@@ -1,34 +1,5 @@
 [
   {
-    "id": 54460857,
-    "published": 1763257529000,
-    "title": "Crypto index ETFs will be the next wave of adoption — WisdomTree exec",
-    "body": "WisdomTree’s Will Peck said that crypto index ETFs will solve the need for those who don’t want to take on “idiosyncratic risk.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54472227,
     "published": 1763278694000,
     "title": "XRP Falls 4.3% Even After XRPC ETF Launch on Bitcoin Weakness, Finds Buyers Near $2.22",
@@ -715,6 +686,76 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54502127,
+    "published": 1763336532000,
+    "title": "Bitcoin briefly erases 2025 gains as crypto bleeds over weekend",
+    "body": "Bitcoin’s latest tumble pushed it below the $93,507 price it entered the year at, despite the year mostly seeing positive industry developments from corporations and governments.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54502348,
+    "published": 1763337178000,
+    "title": "Arca CIO Jeff Dorman Rejects Claims Saylor’s Strategy (MSTR) Faces Forced Bitcoin-Sale Risk",
+    "body": "Dorman says fears that Strategy will be forced to sell bitcoin are misplaced, citing the firm’s balance sheet, governance and cash flow.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|btc|Peter Schiff|Jeff Dorman|Strategy|MSTR|Michael Saylor|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
