@@ -20,6 +20,7 @@ export async function getStaticPaths() {
 }
 
 const { slug } = Astro.props;
+const { slug: slugReal } = Astro.params;
 
 const entry = await getEntry('docs', slug);
 
@@ -37,7 +38,7 @@ const description = frontmatter.description;
 const lang = SITE.defaultLanguage;
 
 const sidebar = await buildDocsSidebar(lang, { withLangPrefix: false });
-const content = { ...frontmatter, slug: slug };
+const content = { ...frontmatter, slug: slugReal };
 ---
 
 <DocsLayout
