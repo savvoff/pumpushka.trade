@@ -1,40 +1,5 @@
 [
   {
-    "id": 54490441,
-    "published": 1763313476000,
-    "title": "Tom Lee Says Ether Is Entering a Bitcoin-Like 'Supercycle'; Critics Push Back",
-    "body": "BitMine Immersion Technologies’ executive chairman says ETH is beginning a bitcoin-style run as he highlights past drawdowns and patience.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Ether|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54493504,
     "published": 1763319600000,
     "title": "Judge Should Not Acquit Tornado Cash Dev Roman Storm, Prosecutors Argue",
@@ -1826,6 +1791,174 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54533070,
+    "published": 1763396359000,
+    "title": "Strategy steps up Bitcoin buys with 8,178 BTC purchase",
+    "body": "After weeks of reporting Bitcoin purchases hovering around 400 to 500 BTC, Michael Saylor’s company announced a massive crypto investment on Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54533655,
+    "published": 1763397510000,
+    "title": "High-Stakes Gambler Liquidated for $168M After Shorting the Bottom of Crypto Plunge",
+    "body": "A high-stakes crypto trader was wiped out on HyperLiquid before immediately piling back into massive leveraged shorts on GMX — echoing past blow-ups from reckless market punters.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|liquidation|short liquidation|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54533585,
+    "published": 1763397468000,
+    "title": "Money’s Too Tight To Mention: How The Fed Is Keeping Things Afloat",
+    "body": "Right now, money has gotten tight. The Fed has been shrinking its balance sheet for ages, trying at least to make it look less titanic while also draining excess cash.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54533470,
+    "published": 1763397172000,
+    "title": "BlackRock's Bitcoin ETF Sheds Record $463M as Crypto Funds See Worst Week Since February",
+    "body": "Digital asset investment products shed $2 billion last week amid monetary-policy uncertainty and accelerating risk-off sentiment.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54534529,
+    "published": 1763399476000,
+    "title": "Cboe to Debut Bitcoin, Ether ‘Perpetual-Style’ Crypto Futures on Dec. 15",
+    "body": "The contracts will offer long-term crypto exposure without rollovers, tailored for institutions avoiding offshore risk.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|CBOE|perpetual contracts|Derivatives|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54534408,
+    "published": 1763399148000,
+    "title": "DappRadar's token price plummets after platform announces shutdown",
+    "body": "The platform’s founders reached out through social media and email to say DappRadar would soon stop tracking blockchains and DApps.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }
