@@ -2644,5 +2644,127 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54538594,
+    "published": 1763407730000,
+    "title": "Bitcoin Just Erased All of Its 2025 Gains—And the 'Picture Remains Fragile', Says Analyst",
+    "body": "Bitcoin dropped below $93,000 on Monday, wiping out 2025 gains as analysts warn of breaking key support levels amid delayed cycle concerns.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54538956,
+    "published": 1763408279000,
+    "title": "Cboe to launch perpetual-style Bitcoin and Ether futures in US",
+    "body": "The exchange's 10-year Bitcoin and Ether contracts mimic perpetuals through daily cash adjustments, giving users a regulated way to trade crypto futures in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54538999,
+    "published": 1763350370000,
+    "title": "Tether mulls $1.15B deal with AI robotics startup Neura: Report",
+    "body": "Tether is reportedly considering a $1.15 billion bet on robotics startup Neura, which could see its valuation rise to over $10 billion should a deal be made.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54539896,
+    "published": 1763410453000,
+    "title": "Trump International Maldives Hotel Will Offer Tokenized Real Estate Investments",
+    "body": "The Trump Organization is tokenizing the development of its latest real estate venture, a collection of luxury villas in the Maldives.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
   }
 ]
