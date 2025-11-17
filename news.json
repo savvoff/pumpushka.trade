@@ -1,87 +1,5 @@
 [
   {
-    "id": 54482756,
-    "published": 1763298058000,
-    "title": "Bitcoin To Eclipse Gold, Eric Trump Says—Calling BTC The ‘Greatest Asset’ Ever",
-    "body": "According to remarks made at Yahoo Finance’s Invest event, Eric Trump told attendees he expects a major shift in how money flows between traditional stores of value and newer digital assets. Related Reading: Kiyosaki Stands His Ground—No Selling, More Bitcoin Buys Ahead He said Bitcoin’s fixed supply of 21 million coins and growing institutional buying are key drivers. In a separate interview with Fox Business in late September, he forecasted a long-term price target of $1 million per Bitcoin, a prediction that underscores how bullish his view is. Bitcoin Seen As A Faster Mover Of Value Eric argued that Bitcoin – which he called the “greatest asset” ever – moves value faster and cheaper across borders than metal that must be hauled and locked away. He called Bitcoin “digital gold,” and pushed the idea that its code-based supply gives it an advantage over physical bullion. Based on reports, he also framed crypto as a hedge against inflation, corruption, and weak monetary policy — reasons he said explain rising adoption around the globe. JUST IN: 🇺🇸 Eric Trump says a gold-to-Bitcoin rotation is imminent “The ratio will disproportionately shift to Bitcoin.” “It’s been the single greatest asset we’ve ever seen.” pic.twitter.com/4TYY1qALlm — Bitcoin Archive (@BitcoinArchive) November 14, 2025 American Bitcoin’s Rapid Rise Eric and his brother Donald Trump Jr. co-founded American Bitcoin (ABTC), which went public in September and now carries a market valuation approaching $4 billion. The firm has expanded quickly after merging with Gryphon Digital Mining. According to Bitcoin Treasuries, ABTC is the 25th-largest public company holder of Bitcoin in the US. Company officials say their West Texas mines benefit from low energy costs, allowing them to produce Bitcoin at roughly half of the current spot price. Source: Bitcoin Treasuries Company Growth And Risks Growth has been fast, but analysts and critics warn of clear risks. Mining firms gain when prices rise, and they can suffer when prices fall. Some worry that a combined ABTC-Gryphon business faces larger swings in earnings and asset values because crypto markets remain volatile. There are also concerns about mixing political ties with finance; World Liberty Financial, a Trump family-affiliated project, manages a WLFI governance token and a USD1 stablecoin, and some observers have flagged transparency questions. A Long Record Versus A Young Network Gold has centuries of use as a store of value and broad global acceptance. Bitcoin has existed since 2009 and shows rapid price moves that can create big winners and big losers. Historical data points to sharp shifts: during the 2017 rally, the Bitcoin-to-gold ratio hit record highs before it fell back when prices corrected. That history is often used to remind investors that gains can be followed by steep pullbacks. The correlation between the two has shifted over time, with each asset responding to different market pressures. Bitcoin and gold correlation. Source: Newhedge. What Analysts And Critics Warn Conflict of interest is one common critique: executives who publicly praise Bitcoin can also benefit directly when their companies hold or mine more coins. Forecasts that put a single Bitcoin at $1 million are seen by many as speculative rather than certain. Regulatory changes, tax rules, and policy moves in the US or abroad could change market conditions quickly, and those possibilities are stressed by cautious commentators. Related Reading: Forget The Obituaries—Cardano Is Alive, Says Bitcoin Analyst Eric Trump’s stance is clear: he believes capital will shift from gold to Bitcoin over time. Markets will decide if that prediction proves true. For now, both assets remain part of the conversation, each with different risks, costs, and histories that investors must weigh. Featured image from Alamy, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|American Bitcoin|bitcoin|btc|btcusd|crypto|Eric trump|gold|World Liberty Financial",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54482908,
-    "published": 1763298267000,
-    "title": "‘Flood Gates Are Now Being Opened’—Bitcoin Braced For Trump ‘Tsunami’ As He Promises 2026 Price Game-Changer",
-    "body": "Bitcoin and crypto traders are betting on the Trump administration unleashing “a tsunami” of spending in 2026...",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54484792,
     "published": 1763302085000,
     "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
@@ -1505,6 +1423,70 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54526487,
+    "published": 1763383674000,
+    "title": "Crypto ETPs see biggest weekly outflows since February as investors pull $2B",
+    "body": "Investors retreat from crypto ETPs across major regions, resulting in a 27% decline in AUM from October’s peak as uncertainty drives a shift toward safer products.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54527252,
+    "published": 1763384400000,
+    "title": "Crypto Firm LevelField Secures Illinois Approval to Buy Bank",
+    "body": "LevelField Financial Inc. said it secured an approval by the Illinois Department of Financial and Professional Regulation to buy Chicago-based Burling Bank and turn it into a full-service bank providing cryptocurrency services.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
