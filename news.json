@@ -2878,5 +2878,150 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54544009,
+    "published": 1763419132000,
+    "title": "Ethereum Is the Opposite of Sam Bankman-Fried's FTX, Says Vitalik Buterin",
+    "body": "Ethereum is decentralized, \"can’t be evil,\" and is a community—everything that FTX wasn’t, ETH founder Vitalik Buterin said Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|DeFi",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54544611,
+    "published": 1763420235000,
+    "title": "Survey of AI Founders Predicts Perplexity is the AI Giant Most Likely to Fail",
+    "body": "Perplexity’s growing stack of lawsuits and scraping allegations added fuel to the skepticism voiced by founders and investors last week.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 54544407,
+    "published": 1763419909000,
+    "title": "Bitcoin Miner Hive's Stock Rises After Record Q2 Revenue, AI Deal",
+    "body": "Hive Digital Technologies began rebounding Monday after an earnings win and Dell deal to power the Bitcoin miner’s growing AI ambitions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54545052,
+    "published": 1763421182000,
+    "title": "Google Unveils New AI Weather Model With Faster, More Accurate Forecasts",
+    "body": "Google WeatherNext 2 AI-powered Forecasts now support Search, Gemini, Pixel Weather, and Maps weather tools.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54544919,
+    "published": 1763420788000,
+    "title": "Crypto firm LevelField secures Illinois approval to buy Chicago bank",
+    "body": "LevelField could become the first crypto-friendly FDIC-insured bank to offer crypto services after receiving approval from the Illinois financial regulator to acquire Burling Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
