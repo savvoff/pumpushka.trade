@@ -1,10 +1,10 @@
 ---
 title: 'ETH падає до 4-місячного мінімуму нижче $3K: Чи закінчився бичачий ринок?'
-description: 'Ціна Ethereum впала нижче $3,000, що є значним зниженням, оскільки вона досягла чотиримісячного мінімуму. Цей рух цін викликав питання щодо поточного стану…'
+description: 'Ціна ETH нещодавно опустилася нижче $3,000, що стало її найнижчою точкою за чотири місяці. Це зниження викликало питання щодо майбутнього бичачого ринку для Ethereum і…'
 publishedAt: '2025-11-17T21:45:08.000Z'
-updatedAt: '2025-11-17T22:23:41.214Z'
+updatedAt: '2025-11-18T16:32:14.482Z'
 lang: uk
-externalId: '54542450'
+externalId: '54574211'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -19,32 +19,32 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0MTgxMDJ8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0MTgxMDJ8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0MTgxMDJ8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0MTgxMDJ8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1672617195387-1a890be98e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0MTgxMDJ8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1672617195387-1a890be98e28'
+  raw: 'https://images.unsplash.com/photo-1629103619880-1c0678a347b5?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0ODM1MTF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1629103619880-1c0678a347b5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0ODM1MTF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1629103619880-1c0678a347b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0ODM1MTF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1629103619880-1c0678a347b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0ODM1MTF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1629103619880-1c0678a347b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0ODM1MTF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1629103619880-1c0678a347b5'
 ai:
-  translatedFrom: '54542450'
+  translatedFrom: '54574211'
   version: 1
 ---
 ## Огляд
 
-Ціна Ethereum впала нижче $3,000, що стало значним зниженням, оскільки вона досягла чотиримісячного мінімуму. Цей рух цін викликав питання щодо поточного стану бичачого ринку.
+Ціна ETH нещодавно впала нижче $3,000, що стало її найнижчою точкою за чотири місяці. Це зниження викликало питання про майбутнє бичачого ринку для Ethereum і те, що може бути необхідним для потенційного розвороту тренду.
 
 ## Що сталося
 
-Ціна Ethereum впала нижче позначки $3,000 вперше з липня. Це зниження є помітним, оскільки сигналізує про зміну ринкового настрою і викликає занепокоєння щодо загального стану бичачого ринку криптовалют. Аналітики зараз обговорюють умови, необхідні для потенційного розвороту тренду, що вказує на те, що ринок може бути на критичному перехресті.
+Ціна ETH впала нижче позначки $3,000, що є значним зниженням, оскільки це перший раз, коли криптовалюта досягла цього рівня з липня. Це зниження свідчить про зміну динаміки ринку, спонукаючи до обговорень серед аналітиків та інвесторів щодо поточного тренду та його наслідків для майбутнього Ethereum.
 
 ## Чому це важливо
 
-Падіння ціни Ethereum може мати ширші наслідки для ринку криптовалют. Тривале зниження може вплинути на настрої інвесторів, потенційно призводячи до збільшення волатильності та обережності серед трейдерів. Розуміння факторів, які можуть сприяти розвороту тренду, стає важливим для учасників ринку, які прагнуть орієнтуватися в цій змінній ситуації.
+Недавнє падіння ціни ETH є значущим, оскільки воно може сигналізувати про можливий кінець чинного бичачого ринку. Розворот тренду може залежати від кількох факторів, включаючи ринковий настрій, поведінку інвесторів та зовнішні впливи, які впливають на ширшу криптовалютну сферу. Розуміння цих динамік є критично важливим для учасників крипторинку.
 
 ## Вплив на крипторинок
 
-- Зниження ціни Ethereum може вплинути на довіру інвесторів у всьому секторі криптовалют.
-- Тривале падіння нижче ключових рівнів може призвести до збільшення волатильності ринку.
-- Обговорення стратегій розвороту тренду можуть стати більш поширеними серед аналітиків і трейдерів.
-- Зміна динаміки цін Ethereum може вплинути на торгові стратегії та інвестиційні рішення.
-- Учасники ринку можуть стати більш обережними, що вплине на загальний обсяг торгівлі та активність.
+- Падіння нижче $3,000 може вплинути на довіру інвесторів до ETH та пов'язаних криптовалют.
+- Потенційний розворот тренду може спонукати до стратегічних змін серед трейдерів та інвесторів.
+- Аналітики ринку уважно стежитимуть за коливаннями ціни ETH на предмет ознак відновлення або подальшого зниження.
+- Ситуація може вплинути на загальний ринковий настрій щодо криптовалют, що вплине на обсяги торгівлі та інвестиційні стратегії.
+- Інвестори можуть переосмислити свої позиції на основі результатів ETH у найближчі тижні.
