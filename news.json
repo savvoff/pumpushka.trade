@@ -3136,5 +3136,174 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54557106,
+    "published": 1763445626000,
+    "title": "Crypto Market Wipes Out $1 Trillion Since October: Analyzing The Forces Behind The Crash",
+    "body": "Since October 6, the crypto market has lost over $1.1 trillion in value. Analysts from The Bull Theory examined the underlying causes of this behavior and identified significant issues causing such poor performance in what was expected to be a bullish fourth quarter for the industry. Market Liquidity Stumbles Post-October 10 Sell-Off One of the primary factors cited is the severe damage inflicted on market liquidity following the dramatic sell-off on October 10, which resulted in more than $20 billion liquidated from traders in a matter of minutes. This particularly impacted altcoins, with many seeing losses of 70% to 80%. With liquidity diminished, the current market environment allows prices to fluctuate easily, meaning even minor sell-offs can lead to rapid price drops. The analysts noted that the liquidity has failed to recover since this initial dump, resulting in the order books for major cryptocurrencies such as Bitcoin (BTC) and Ethereum (ETH) becoming increasingly sparse. Related Reading: The ‘Insanely Bullish’ Dogecoin Setup That Will Trigger A 600% Rally To $1 The consequences of this thin liquidity are stark; a small volume of selling can generate significant downward price movements. This observation matches the reality of recent market activity, where price declines appear more pronounced than the actual selling volume. Another contributing factor to the downturn, as pointed out by market analyst Tom Lee, is the behavior of major market makers. According to Lee, the ongoing correction may stem from one or two large entities facing considerable losses. Layered upon these issues is the excessive leverage in the market. Despite the unprecedented liquidations, many traders have reportedly returned to the market with increased leverage. The Bull Theory analysts contend that this high leverage, coupled with thin markets, enables market makers to trigger substantial liquidations with minimal price movement, making the sell-offs appear more aggressive. Crypto Fear Index Hits Lowest Level In Over 3 Years Compounding these issues, market sentiment has been plagued by fear, uncertainty, and doubt (FUD). Current narratives circulating, such as speculation regarding Strategy (previously MicroStrategy) facing forced liquidations if Bitcoin falls below $74,000, further exacerbate panic. It is worth noting that during the 2020-2021 cycle, Strategy’s cost basis hovered around $30,000 to $32,000. Even when Bitcoin dipped to $16,000—almost 50% below their cost—the company did not sell any coins. The Fear Index has also plummeted to 10, a level not seen in over three and a half years. The analysts belive that such extreme fear suggests two potential scenarios: either the market has reached its bottom, or it is approaching it. Related Reading: Here’s Why The Ethereum Price Is Crashing Again, Can It Breach $3,000? In conjunction with these sentiment measures, the Relative Strength Index (RSI) for Bitcoin has returned to levels comparable to those of January 2023, when Bitcoin was valued around $20,000. The analysts suggest that this signals a stretched market on the downside, particularly within altcoins, where speculative activity has diminished and retail interest is waning. Despite the current turmoil, the Bull Theory analysts find that fundamentally, little has changed within the crypto market. They highlighted that Bitcoin’s network remains robust, with increasing hashrate, ongoing institutional interest, and a supportive stance from the US government regarding regulated crypto. However, it remains to be seen what the eventual direction of the digital asset market will be, as neither negative nor bullish cycles follow straight lines. This suggests that despite the downtrend, a new recovery and future dips may occur, and vice versa. At the time of writing, Bitcoin was leading Monday’s crypto market drop, trading at $91,940—a 3% drop within 24 hours and a 13% drop within a week. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|altcoins|bitcoin|bitcoin price|btc|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency|ETH|ethereum",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54557098,
+    "published": 1763445597000,
+    "title": "Mt. Gox Moves $956M Worth of BTC As Prices Tank",
+    "body": "The latest on-chain move comes as BTC's spot price continues to slide.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Mt. Gox|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54556885,
+    "published": 1763445063000,
+    "title": "Bitcoin whales switch to buying as retail dumps on ‘extreme fear’",
+    "body": "On-chain data reveals Bitcoin whales are aggressively accumulating during the crash while smaller wallets capitulate.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54557036,
+    "published": 1763442000000,
+    "title": "Crypto’s 2025 U-turn",
+    "body": "Bitcoin has erased all of its gains from this year",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54557588,
+    "published": 1763446565000,
+    "title": "Efforts underway to digitize trade in Africa with blockchain, stablecoins",
+    "body": "Chido Munyati, head of Africa at the World Economic Forum, said in a statement that outdated payments and documents are a significant obstacle for African trade, one that he hopes digitization can solve.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
   }
 ]
