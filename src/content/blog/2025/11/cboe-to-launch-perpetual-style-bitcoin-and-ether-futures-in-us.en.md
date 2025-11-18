@@ -1,10 +1,10 @@
 ---
 title: Cboe to launch perpetual-style Bitcoin and Ether futures in US
-description: 'Cboe, a well-known exchange, is set to introduce Bitcoin and Ether futures contracts in the United States. These contracts are designed to resemble perpetual contracts, featuring…'
+description: Cboe is set to introduce perpetual-style Bitcoin and Ether futures contracts in the United States. These contracts are designed to provide a regulated trading option for…
 publishedAt: '2025-11-17T19:37:59.000Z'
-updatedAt: '2025-11-18T13:34:41.012Z'
+updatedAt: '2025-11-18T14:24:03.291Z'
 lang: en
-externalId: '54571330'
+externalId: '54571468'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,37 +18,33 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1620206978749-960fed56d5e3?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzI4NTN8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1620206978749-960fed56d5e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzI4NTN8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1620206978749-960fed56d5e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzI4NTN8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1620206978749-960fed56d5e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzI4NTN8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1620206978749-960fed56d5e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzI4NTN8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1620206978749-960fed56d5e3'
+  raw: 'https://images.unsplash.com/photo-1630654851802-90a02b1385f8?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzU4MDR8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1630654851802-90a02b1385f8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzU4MDR8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1630654851802-90a02b1385f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzU4MDR8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1630654851802-90a02b1385f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzU4MDR8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1630654851802-90a02b1385f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NzU4MDR8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1630654851802-90a02b1385f8'
 ai:
   rewritten: true
-  expandedAt: '2025-11-18T13:34:41.013Z'
+  expandedAt: '2025-11-18T14:24:03.291Z'
   version: 1
 ---
 ## Overview
 
-Cboe, a well-known exchange, is set to introduce Bitcoin and Ether futures contracts in the United States. These contracts are designed to resemble perpetual contracts, featuring daily cash adjustments, which allows users to engage in regulated trading of cryptocurrency futures.
+Cboe is set to introduce perpetual-style Bitcoin and Ether futures contracts in the United States. These contracts are designed to provide a regulated trading option for cryptocurrency futures, utilizing daily cash adjustments to mimic traditional perpetual contracts.
 
 ## What Happened
 
-The launch of these 10-year Bitcoin and Ether futures contracts by Cboe is significant as it provides traders with a regulated platform to trade cryptocurrency futures. The structure of these contracts mimics perpetual contracts, a popular trading instrument in the cryptocurrency market. The daily cash adjustments incorporated into these contracts facilitate a trading experience similar to that of perpetual futures, which are known for their continuous nature and flexibility.
+Cboe's new offering consists of 10-year futures contracts for Bitcoin and Ether, which will allow traders to engage in futures trading with a structure that resembles perpetual contracts. This innovative approach incorporates daily cash adjustments, enabling users to manage their positions more effectively in a regulated environment.
 
 ## Why It Matters
 
-Cboe's introduction of these contracts is important for several reasons:
-
-- It creates a regulated environment for trading Bitcoin and Ether futures, which can enhance investor confidence.
-- The mimicry of perpetual contracts may attract traders familiar with this trading style, potentially increasing market participation.
-- By offering these futures contracts, Cboe is expanding its product offerings in the cryptocurrency space, catering to the growing demand for regulated crypto trading options.
+The introduction of these futures contracts by Cboe is significant for several reasons. It provides traders with a new, regulated avenue to engage in cryptocurrency futures, which can enhance market liquidity and stability. Additionally, by mimicking perpetual contracts, these futures may appeal to a broader range of investors looking for flexible trading options within the crypto market.
 
 ## Impact on the crypto market
 
-- The introduction of regulated Bitcoin and Ether futures may lead to increased institutional involvement in the crypto market.
-- It could provide a more stable trading environment, potentially reducing volatility in the futures market.
-- The availability of these contracts may encourage more traders to enter the crypto space, boosting overall trading volume.
-- Cboe's move may influence other exchanges to consider launching similar products, thereby enhancing competition in the market.
-- The development signifies a growing acceptance of cryptocurrencies in traditional financial markets.
+- Cboe's launch may increase participation in cryptocurrency futures trading.
+- The regulated nature of the contracts could attract institutional investors.
+- Daily cash adjustments may provide a more dynamic trading experience.
+- The introduction of these contracts might enhance market liquidity for Bitcoin and Ether.
+- This move could signify a growing acceptance of cryptocurrency futures in traditional finance.
