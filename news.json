@@ -1,87 +1,5 @@
 [
   {
-    "id": 54506167,
-    "published": 1763344405000,
-    "title": "Harvard University triples stake in BlackRock’s Bitcoin ETF, filing shows",
-    "body": "The Ivy League university held 6.8 million shares in BlackRock’s Bitcoin ETF as of Sept. 30, 2025, and has also boosted its exposure to gold.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54507819,
-    "published": 1763347772000,
-    "title": "Bitcoin Slides Deeper Into Red, Extending Decline Toward Key Support Zones",
-    "body": "Bitcoin price failed to recover above $96,500. BTC is down over 3% and there are chances of more downsides below $92,000. Bitcoin started a fresh decline below $95,000 and $94,500. The price is trading below $98,000 and the 100 hourly Simple moving average. There is a bearish trend line forming with resistance at $96,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $92,500 zone. Bitcoin Price Dips Further Bitcoin price failed to stay in a positive zone above the $95,500 pivot level. BTC bears remained active below $95,500 and pushed the price lower. The bears gained strength and were able to push the price below the $94,000 zone. A low was formed at $92,890 and the price is now consolidating losses near the 23.6% Fib retracement level of the recent decline from the $103,998 swing high to the $92,890 low. Bitcoin is now trading below $95,000 and the 100 hourly Simple moving average . Besides, there is a bearish trend line forming with resistance at $96,600 on the hourly chart of the BTC/USD pair. If the bulls attempt another recovery wave, the price could face resistance near the $95,500 level. The first key resistance is near the $96,500 level and the trend line. The next resistance could be $97,200. A close above the $97,200 resistance might send the price further higher. In the stated case, the price could rise and test the $98,500 resistance. Any more gains might send the price toward the $99,500 level. The next barrier for the bulls could be $100,000 and $100,500. More Losses In BTC? If Bitcoin fails to rise above the $96,600 resistance zone, it could start another decline. Immediate support is near the $93,500 level. The first major support is near the $92,500 level. The next support is now near the $91,500 zone. Any more losses might send the price toward the $90,000 support in the near term. The main support sits at $88,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $92,500, followed by $90,000. Major Resistance Levels – $95,500 and $96,600.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54508384,
     "published": 1763348882000,
     "title": "Ethereum Slips to $3K, Highlighting Weakness After Recent Failed Rebound",
@@ -2747,6 +2665,199 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54549268,
+    "published": 1763428311000,
+    "title": "Digital Chamber seeks to guide crypto policy across US states",
+    "body": "Cody Carbone, CEO of The Digital Chamber, said in a statement that through collaboration with Future Caucus, the initiative hopes to develop leaders ready to introduce and support crypto legislation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54550339,
+    "published": 1763431597000,
+    "title": "VanEck Solana ETF goes live, Grayscale DOGE ETF expected on Monday",
+    "body": "The flood of crypto ETFs has begun, with VanEck’s Solana ETF launching on Monday, and many more ETFs expected to go live over the next week.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54550173,
+    "published": 1763431454000,
+    "title": "XRP ‘structurally fragile’ as 41.5% of supply at a loss",
+    "body": "XRP supply in profit is at its lowest levels in 12 months, and one analyst has warned of further downside if investors decide to cut their losses. Could XRP ETFs bring the bulls back?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54550753,
+    "published": 1763432877000,
+    "title": "Bitcoin Continues Lower, Raising Fears That $90K Support May Not Hold",
+    "body": "Bitcoin price failed to recover above $95,000. BTC is down over 4% and there are chances of more downsides below $90,000. Bitcoin started a fresh decline below $94,000 and $93,500. The price is trading below $93,000 and the 100 hourly Simple moving average. There is a bearish trend line forming with resistance at $95,850 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $91,500 zone. Bitcoin Price Continues To Weaken Bitcoin price failed to stay in a positive zone above the $93,500 pivot level . BTC bears remained active below $93,500 and pushed the price lower. The bears gained strength and were able to push the price below the $92,000 zone. A low was formed at $90,700 and the price is now showing bearish signs below the 23.6% Fib retracement level of the recent decline from the $95,888 swing high to the $90,700 low. Bitcoin is now trading below $92,000 and the 100 hourly Simple moving average. Besides, there is a bearish trend line forming with resistance at $95,850 on the hourly chart of the BTC/USD pair. If the bulls attempt another recovery wave, the price could face resistance near the $92,500 level. The first key resistance is near the $93,250 level and the 50% Fib retracement level of the recent decline from the $95,888 swing high to the $90,700 low. The next resistance could be $93,800. A close above the $93,800 resistance might send the price further higher. In the stated case, the price could rise and test the $94,500 resistance. Any more gains might send the price toward the $95,500 level. The next barrier for the bulls could be $95,800 and $96,500. More Losses In BTC? If Bitcoin fails to rise above the $93,500 resistance zone, it could start another decline. Immediate support is near the $90,800 level. The first major support is near the $90,500 level. The next support is now near the $90,000 zone. Any more losses might send the price toward the $88,000 support in the near term. The main support sits at $86,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $90,500, followed by $90,000. Major Resistance Levels – $92,500 and $95,800.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54551751,
+    "published": 1763434835000,
+    "title": "Bitcoin SSR Flashes Buy Signal: Rebound Incoming?",
+    "body": "On-chain data shows the Bitcoin Stablecoin Supply Ratio has declined into the buy territory. Here’s what followed this signal in the past. Bitcoin SSR RSI Is Giving A Buy Signal In a new post on X, CryptoQuant community analyst Maartunn has talked about the latest trend in the Stablecoin Supply Ratio (SSR) for Bitcoin. The SSR is an indicator that measures how the market cap of BTC compares against the total supply of the stablecoins. Stablecoins refer to cryptocurrencies that are pegged to a fiat currency. Investors generally park their capital in the form of these assets when they want to avoid the volatility associated with BTC and other assets. Related Reading: Bitcoin Social Dominance Hits 4-Month High: What It Means Such holders also usually eventually invest back into Bitcoin and company, however, exchanging away their stablecoins in favor of them once they feel the time is right. Because of this reason, the stablecoin supply is often looked at as a sort of “available buy supply” in the cryptocurrency sector. When the value of SSR is high, it means BTC’s value is high compared to the stablecoin supply. Such a trend suggests the market stablecoin buying power is low, which could be a bearish sign. On the other hand, the indicator being low implies the sector may have a high amount of dry powder available relative to the Bitcoin market cap, which can naturally be bullish. Now, here is the chart for the BTC SSR shared by the analyst that shows the trend in its Relative Strength Index (RSI) over the last couple of years: As is visible in the above graph, the Bitcoin SSR RSI has witnessed a decline recently as the BTC spot price has crashed. This suggests that there may be a high amount of stablecoin buying power available in the market now. The indicator’s drop has been so steep that it has entered into a zone that Maartunn has flagged as pertaining to a buy signal. From the chart, it’s apparent that past instances of this signal have often coincided with some sort of bottom or led into a price surge. In a lot of the instances, however, the signal has only resulted in a temporary reversal. It now remains to be seen whether any bullish shift will follow the latest signal, and if one does, whether it will be lasting. Related Reading: Solana Air Gap: Analyst Says No Major Support Level Until $24 In some other news, a large movement involving dormant tokens has just occurred on the Bitcoin network, as Maartunn has pointed out in another X post. “4,668 $BTC aged 3–5 years were just spent — a clear spike in dormant supply activation,” noted the analyst. Movement from dormant hands is often a sign of selling. BTC Price Bearish momentum hasn’t shown any signs of stopping for Bitcoin as its price has now dropped to the $92,500 level. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Buy Signal|Bitcoin SSR|Bitcoin Stablecoin Supply Ratio|btc|BTCUSDT|Stablecoins",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
