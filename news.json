@@ -1,179 +1,5 @@
 [
   {
-    "id": 54566682,
-    "published": 1763462803000,
-    "title": "Deutsche Börse to Add SocGen’s MiCA Stablecoins to Core Market Systems",
-    "body": "Move brings regulated euro and dollar stablecoins into Deutsche Börse’s settlement and collateral tools.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|SocGen|Deutsche Börse|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54567117,
-    "published": 1763463578000,
-    "title": "Bitcoin Drops to Seven-Month Low Under $90K",
-    "body": "Bitcoin ETFs have bled hundreds of millions as the market outlook deteriorates, driven by profit-taking and portfolio rebalancing.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54566791,
-    "published": 1763462818000,
-    "title": "Wallets tied to Libra scandal pull $4M and bet big on Solana",
-    "body": "Wallets tied to the Libra memecoin scandal continue to draw liquidity and have purchased $61.5 million in Solana, despite asset freezes and fraud probes.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54567438,
-    "published": 1763463843000,
-    "title": "Mastercard taps Polygon to turn clunky crypto addresses into simple usernames",
-    "body": "Mastercard is rolling out verified, human-readable crypto aliases to self-custody wallets, using Polygon for onchain support and Mercuryo for identity verification.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 38,
-        "NAME": "MATIC",
-        "CATEGORY": "MATIC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54567626,
-    "published": 1763462818000,
-    "title": "Libra memecoin-linked wallets pull $4M and bet big on Solana",
-    "body": "Wallets tied to the Libra memecoin continue to draw liquidity and have purchased $61.5 million in Solana, despite asset freezes and fraud probes.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54567685,
-    "published": 1763462818000,
-    "title": "Libra token-linked wallets pull $4M and bet big on Solana",
-    "body": "Wallets tied to the Libra token continue to draw liquidity and have purchased $61.5 million in Solana, despite asset freezes and fraud probes.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54568205,
     "published": 1763465400000,
     "title": "Crypto Markets Today: Fear Grips Market as BTC Tests Support, Volatility Spikes",
@@ -205,53 +31,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54567771,
-    "published": 1763464706000,
-    "title": "Best Crypto Under $1 to Watch as Whales Buy Bitcoin ETF Dip",
-    "body": "What to Know: Bitcoin ETFs have seen significant outflows, yet whales are purchasing, signaling long-term demand. Projects like Bitcoin Hyper and Maxi Doge show strong presale activity and innovative features. TRON continues to stand out with real-world utility and a well-established market presence. The market is ripe for undervalued cryptos, with many positioned for potential gains post-selloff. The crypto market is currently in a state of flux, with major shifts in investor sentiment as Bitcoin ETFs experience notable outflows. In conversation with MarketWatch, Julio Moreno, CryptoQuant’s head of research, discussed how holdings in Bitcoin ETFs have seen a drastic drop, from 441K $BTC in October to 271K $BTC in November. And data now shows four consecutive days of outflows . Retail investors seem to be avoiding this downturn; however, whales are stepping in with significant purchases. For example, a recent $31.16M Ethereum purchase in a single day has captured the market’s attention. Meanwhile, CryptoQuant posted about the ‘ Biggest $BTC Accumulation… in the Middle of a Selloff ,’ signaling long-term demand for the asset. This shift in market dynamics presents a unique opportunity for investors to keep an eye on undervalued cryptos, especially the best crypto under $1 , which may offer substantial growth potential once the market recovers. With whale activity and strong long-term demand driving the market, certain crypto projects are poised to deliver impressive gains. Bitcoin Hyper ($HYPER) , Maxi Doge ($MAXI) , and TRON ($TRX) are three promising cryptocurrencies under $1 that could benefit from the upcoming market rebound. 1. Bitcoin Hyper ($HYPER): Hyper-Speed Bitcoin is Here Tired of Bitcoin’s slow speeds and high fees? Bitcoin Hyper ($HYPER) is the next-generation Layer-2 solution designed to transform the world’s most secure asset from a static store of value into a dynamic, programmable ecosystem. By integrating the high-throughput Solana Virtual Machine (SVM) , $HYPER unleashes Bitcoin’s true potential, enabling near-instant transactions and minimal fees. This breakthrough paves the way for a fully functional Bitcoin DeFi world, supporting smart contracts, staking, and dApps without sacrificing Bitcoin’s legendary security. With over $27M raised in a wildly successful presale, the market has clearly signaled its demand for faster, cheaper $BTC utility. $HYPER is not competing with Bitcoin; it’s upgrading it, offering the speed of a modern blockchain while settling securely on the original L1. Position yourself at the forefront of the new Bitcoin economy; the future is hyper-fast. Still want more info though, check out our ‘ What is Bitcoin Hyper ’ guide for a full project run down. With Bitcoin ETFs in the news, Bitcoin Hyper stands to benefit from the growing interest in Bitcoin-related investments. The project’s alignment with the ongoing market trends makes it a prime candidate for those looking to invest in a project with both short-term potential and long-term growth. Invest in Bitcoin Hyper now for $0.013295 and don’t miss the 41% staking rewards. 2. Maxi Doge ($MAXI): The 1000X Leverage Lifestyle Token Forget the quiet, wholesome meme coins, Maxi Doge ($MAXI) is the crypto market’s new gym-bro degen mascot, embodying the relentless hustle and high-leverage energy of the bull market. $MAXI is not just a token; it’s a lifestyle rooted in green candles, gym reps, and the pursuit of maximal gains. This meme-powered coin provides more than hype. It features a live staking mechanism offering attractive APYs (currently 76%) to early investors, locking up supply and rewarding long-term conviction. Furthermore, the roadmap includes integration into futures trading platforms and weekly trading competitions, giving $MAXI a utility edge that elevates it above traditional meme coins. Sounds good and want in? Check out our ‘ How to Buy Maxi Doge ’ guide for all the details on getting started. With its presale raising over $4M, Maxi Doge is rallying a community ready to dominate the charts. It’s a high-octane blend of viral appeal and practical utility, built for traders who embrace the ‘never skip leg-day, never skip a pump’ mentality. Get your reps in $MAXI is set to pump! Buy $MAXI today for $0.0002685. 3. TRON ($TRX): The High-Speed Engine for Global Web3 Adoption TRON ($TRX) is the powerhouse layer-1 blockchain dedicated to building a truly decentralized internet. Born from the vision of empowering content creators and challenging centralized web monopolies, TRON has evolved into a global settlement layer known for its blazing speed and near-zero transaction fees. Leveraging a Delegated Proof-of-Stake (DPoS) consensus, the TRON network handles thousands of transactions per second, making it significantly faster and cheaper than many legacy blockchains. This performance has fueled its dominance in the global stablecoin market, hosting the largest circulating supply of $USDT, and making it the top choice for daily payments and remittances worldwide. $TRX is the fuel for this massive ecosystem, used for governance, staking, and interacting with thousands of dApps spanning DeFi, GameFi, and NFTs. By prioritizing accessibility and high throughput, TRON is actively bridging the gap between traditional finance and the decentralized web, welcoming the next billion users into the crypto space. Buy $TRX on major exchanges like Binance. Recap: As Bitcoin ETFs experience a dip, whales are stepping in, and now is the time to look for undervalued cryptos with high potential. Projects like Bitcoin Hyper , Maxi Doge , and TRON are well-positioned to capitalize on the market’s recovery, each offering unique opportunities for long-term growth. Remember, this isn’t intended as financial advice, and you should always do your own research before investing. Authored by Aaron Walker, NewsBTC — https://www.newsbtc.com/news/best-crypto-under-1-to-buy-now-as-whales-buy-bitcoin-etf-dip",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 51,
-        "NAME": "TRX",
-        "CATEGORY": "TRX"
       },
       {
         "TYPE": "122",
@@ -2753,6 +2532,111 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54604742,
+    "published": 1763547374000,
+    "title": "US and UK revolt forces Basel to rethink brutal crypto capital rules for banks",
+    "body": "Basel’s toughest crypto rules are under review as the US, UK, and the EU diverge, with booming stablecoin adoption forcing a rethink of 1,250% capital charges, the group’s chair told the FT.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54605619,
+    "published": 1763548763000,
+    "title": "BlackRock leads near $3B Bitcoin November ETF exodus with record $523M outflows",
+    "body": "US Bitcoin ETFs are nearing $3 billion in November outflows as a fresh death cross, fading Fed rate cut odds, and smart money shorts weigh on sentiment.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54606465,
+    "published": 1763550416000,
+    "title": "New Hampshire’s Bitcoin Bond Bet Puts $140T In Play – Bitcoin Hyper Steps Up",
+    "body": "What to Know: New Hampshire’s $100M Bitcoin-backed municipal bond gives $BTC a compliant route into a roughly $140T global debt market. The state’s strategic Bitcoin reserve law, allowing up to 5% of funds in Bitcoin, shows treasuries are treating crypto as long-term collateral. Bitcoin Hyper aims to provide a fast, SVM-powered Bitcoin Layer 2 so that this new collateral can move efficiently across DeFi and institutional rails. With $28M raised, audited contracts, and staking at 41%, $HYPER targets utility in Bitcoin’s evolving bond and reserve landscape. New Hampshire just did what crypto Twitter has been memeing about for years: it put Bitcoin in a suit and marched it into the bond market. The state’s Business Finance Authority has approved a first of its kind $100M municipal conduit bond backed by over-collateralized Bitcoin. The borrower posts around 160% of the bond value in $BTC as collateral, with liquidation only if coverage drops below roughly 130%. This mechanism effectively opens a path for digital assets into a global debt market worth about $140T. If more states, cities, and agencies copy the playbook, Bitcoin stops being just a macro hedge and starts behaving like high-grade collateral in traditional fixed income. New Hampshire is not acting in a vacuum either. Earlier this year, it became the first state to pass a strategic Bitcoin reserve law , letting the treasurer allocate up to 5% of public funds into Bitcoin and other mega-cap digital assets, held in tightly regulated custody. Taken together, a sovereign-style reserve plus a Bitcoin-backed bond framework is a clear signal: state-level actors are preparing to use Bitcoin as both reserve asset and working collateral. Once Bitcoin is locked into bonds, reserves, and tokenized debt rails, slow base layer transactions and high fees become a real problem. You cannot plug institutional-grade collateral into a creaky payment pipe. That is exactly where the Bitcoin Hyper ($HYPER) presale slides into the conversation. Bitcoin Hyper Builds Rails For Bitcoin’s New Collateral Era If Bitcoin is going to sit behind municipal bonds and state reserves, the market will need fast, programmable infrastructure that still respects Bitcoin’s security guarantees. Bitcoin Hyper ($HYPER) is aiming to be that middle layer. The project is building a Bitcoin Layer 2 that uses a canonical bridge and Solana Virtual Machine tech to move wrapped Bitcoin on a high-throughput chain. Users deposit $BTC to a monitored L1 address, an SVM smart contract verifies the transaction, and the equivalent amount is minted on the Hyper network. Transactions are then cleared on the L2 with near instant finality and are periodically settled back to Bitcoin. On top of that settlement layer, Bitcoin Hyper plans to support dApps, DeFi, NFTs, and gaming via SVM, so the same infrastructure that moves Bitcoin collateral can also host more complex products. $HYPER: The Potential ROI of $BTC’s New Infrastructure The alignment between what New Hampshire has just kicked off and what Bitcoin Hyper is building is hard to ignore. A Bitcoin that backs bonds and sits in strategic reserves needs more than cold storage vaults; it needs a performant, audited, programmable environment so value can actually move. Bitcoin Hyper is trying to occupy that lane while $HYPER is still under a cent and a half. The presale just surpassed $28M with $HYPER priced at $0.013295, which already makes this one of the best crypto presales of 2025. Considering the project’s long-term utility, investor support, and current presale numbers, our price prediction for $HYPER puts the token at $0.08625 by the end of 2026. A solid bull market could push it to $0.253 by 2030, likely higher once the implementation process kicks off. In terms of profit, think ROIs of 548% by 2026 and 1,802% or higher by 2030. If the thesis is that Bitcoin becomes pristine collateral for a chunk of that $140T debt pile, then high-speed, secure rails that keep that collateral moving are the picks and shovels. Bitcoin Hyper is positioning itself as one of those rails, so read our guide on how to buy $HYPER before the presale ends; Q4 2025-Q1 2026 is the projected window for the official launch. Go to the presale page and buy your $HYPER today. This isn’t financial advice. DYOR before investing. Authored by Aaron Walker, NewsBTC: https://www.newsbtc.com/news/new-hampshire-bitcoin-backed-bond-helps-bitcoin-hyper",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
       {
         "TYPE": "122",
         "ID": 211,
