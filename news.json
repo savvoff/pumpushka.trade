@@ -1,151 +1,5 @@
 [
   {
-    "id": 54545454,
-    "published": 1763421962000,
-    "title": "Bitcoin, Ethereum Dive Deeper Amid AI and Macro Angst",
-    "body": "Bitcoin dropped to its lowest level in six months. Ethereum dipped below $3,000, its lowest point since mid summer.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54548283,
-    "published": 1763427601000,
-    "title": "One Slip And Dogecoin Could Plunge Back Into A Bear Market: Analyst",
-    "body": "The Dogecoin multi-year recovery trend is under pressure as price slips below a key ascending support and rests on an historic horizontal level, according to a new chart from trader and analyst Rekt Capital. Dogecoin Is Inches Away From A Bear Market In an X post, Rekt Capital shared a 1-month DOGE/USDT chart from Binance, created on TradingView on Nov. 15, and warned: “Dogecoin needs to protect its multi-year technical uptrend heading into December to keep chances for macro upside alive.” The chart tracks Dogecoin from the 2021 blow-off top through the 2022–2023 bear market and the subsequent recovery. A rising trendline, built from the bear-market lows, currently runs just below the $0.18 region and has defined what Rekt Capital calls DOGE’s “multi-year technical uptrend.” The latest monthly candle, however, shows Dogecoin trading around $0.16355, beneath that trendline and pressed against a horizontal support level near $0.159. That horizontal area is not arbitrary. On the monthly timeframe it has repeatedly flipped role between resistance and support over the last two years. Related Reading: Dogecoin Price Could Bounce Very Quickly If This Happens At $0.166 From May to October 2024, the ~$0.159–0.16 band acted as a ceiling, repeatedly rejecting upside attempts. The eventual breakout above this level in October 2024 preceded an explosive move: Dogecoin’s price nearly tripled from roughly $0.16 to a December high of $0.4843. In 2025, the same zone then became crucial support. Between March and July, monthly candles showed downside wicks piercing below intramonth, but closes repeatedly held above the level, confirming it as a major structural floor. What To Watch Now That history is what makes the current retest so significant. With roughly half the month remaining, the red November candle has already lost the rising trendline near $0.18 and is now depending on the long-standing $0.159–0.16 horizontal area to arrest further downside. On a monthly chart, what matters is not just the intramonth excursion but where the candle closes. Related Reading: Dogecoin Shows Relative Strength: Breakout Signal Sits At This Price If DOGE can reclaim and close back above the trendline, the pattern of higher lows that has defined the multi-year uptrend would remain largely intact. A monthly close decisively below the horizontal level, by contrast, would mean both the ascending support and this historically pivotal price floor have failed, materially weakening the macro bullish structure. For now, Dogecoin sits exactly on that line in the sand. As Rekt Capital put it, DOGE “needs to protect its multi-year technical uptrend heading into December” if it is to avoid sliding back toward a bear-market profile. At press time, DOGE traded at $0.1626. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54548724,
-    "published": 1763428311000,
-    "title": "Digital Chamber seeks to guide crypto policy across US states",
-    "body": "Cody Carbone, the CEO of The Digital Chamber, said in a statement that through collaboration with Future Caucus, the initiative hopes to develop leaders ready to introduce and support crypto legislation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54549268,
-    "published": 1763428311000,
-    "title": "Digital Chamber seeks to guide crypto policy across US states",
-    "body": "Cody Carbone, CEO of The Digital Chamber, said in a statement that through collaboration with Future Caucus, the initiative hopes to develop leaders ready to introduce and support crypto legislation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54550339,
     "published": 1763431597000,
     "title": "VanEck Solana ETF goes live, Grayscale DOGE ETF expected on Monday",
@@ -722,35 +576,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54555187,
-    "published": 1763426964000,
-    "title": "FDT Welcomes Dubai’s $456M Freeze as Techteryx Seeks to Recover TrueUSD Reserves from Aria",
-    "body": "In a statement to CoinDesk, FDT's Vincent Chok said his company \"welcomes any steps that assist Techteryx in pursuing recovery of its funds from the Aria entities.\"",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 173,
-        "NAME": "TUSD",
-        "CATEGORY": "TUSD"
       }
     ]
   },
@@ -3466,6 +3291,70 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54584309,
+    "published": 1763512093000,
+    "title": "Trump Congressional Ally Discloses Latest Six-Figure Bitcoin Purchase",
+    "body": "Brandon Gill has purchased up to $2.6 million in Bitcoin this year, according to House transaction reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54584144,
+    "published": 1763511584000,
+    "title": "Bitfury pivots to launch $1B tech fund after 14 years of mining Bitcoin",
+    "body": "Bitcoin miner Bitfury started up in 2011, but has now pivoted to tech investing and will pour $1 billion into ethical AI and crypto startups.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
       },
       {
         "TYPE": "122",
