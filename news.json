@@ -457,122 +457,6 @@
     ]
   },
   {
-    "id": 54574292,
-    "published": 1763485262000,
-    "title": "Prediction Market Myriad Partners With Walrus Decentralized Data Storage Layer",
-    "body": "The partnership will see Myriad media stored on the developer platform, creating an immutable record with applications in DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Our Company",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54574245,
-    "published": 1763484135000,
-    "title": "Bitcoin Gains Tuesday as Traditional Markets Slump in Rare Occurrence of Crypto Outperformance",
-    "body": "After plunging below $90,000 overnight, BTC has regained the $93,000 level in U.S. morning action.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Breaking News|Market Wrap|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54574243,
-    "published": 1763483910000,
-    "title": "U.S. Regulator OCC Clarifies How Banks Can Handle Network 'Gas Fees'",
-    "body": "The U.S. Office of the Comptroller of the Currency explained to the national banks it oversees how they can hold crypto for paying gas fees.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Office of the Comptroller of the Currency|gas fees|crypto banking|Regulation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54574241,
-    "published": 1763483156000,
-    "title": "Société Générale’s SG-FORGE Issues First Tokenized Bond in U.S.",
-    "body": "The bond uses Broadridge Financial Solutions' tokenization technology and runs on the Canton Network, a privacy-enabled blockchain infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Société Générale|Bond Markets|Tokenization|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
     "id": 54574593,
     "published": 1763496202000,
     "title": "Paxos debuts USDG0 to extend its regulated stablecoin across multiple blockchains",
@@ -651,76 +535,6 @@
       "source_type": "RSS"
     },
     "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54574371,
-    "published": 1763486100000,
-    "title": "Stablecoin giant Tether backs Ledn, targets global crypto lending",
-    "body": "The investment from the stablecoin giant coincides with accelerating institutional interest and Wall Street participation in the crypto-backed loans sector.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54574368,
-    "published": 1763485200000,
-    "title": "'Crypto Winter Is Here' — Mark Yusko Explains What May Come Next",
-    "body": "In a recent Cointelegraph interview, Mark Yusko outlined the indicators pointing to a Bitcoin bear market and the forces shaping the road ahead.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
       {
         "TYPE": "122",
         "ID": 211,
@@ -2430,64 +2244,6 @@
     ]
   },
   {
-    "id": 54613867,
-    "published": 1763486100000,
-    "title": "Stablecoin giant Tether backs Ledn, targets global crypto lending",
-    "body": "The investment from the stablecoin giant coincides with accelerating institutional interest and Wall Street participation in the crypto-backed loans sector.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54613933,
-    "published": 1763486100000,
-    "title": "Stablecoin giant Tether backs Ledn, targets global crypto lending",
-    "body": "The investment from the stablecoin giant coincides with accelerating institutional interest and Wall Street participation in the crypto-backed loans sector.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54614013,
     "published": 1763565578000,
     "title": "Morning Minute: The White House and IRS Target Foreign Crypto Holdings",
@@ -2810,6 +2566,322 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54616054,
+    "published": 1763494200000,
+    "title": "Bitcoin charts flag $75K bottom, but analysts predict 40% rally before 2025 ends",
+    "body": "Bitcoin whales are accelerating their purchasing despite BTC’s short-term bearish outlook. Meanwhile, Wall Street analysts expect BTC to hit new all-time highs before the end of 2025.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54615835,
+    "published": 1763494200000,
+    "title": "Bitcoin charts flag $75K bottom, but analysts predict 40% rally before 2025 ends",
+    "body": "Bitcoin whales are accelerating their purchasing despite BTC’s short-term bearish outlook. Meanwhile, Wall Street analysts expect BTC to hit new all-time highs before the end of 2025.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54616017,
+    "published": 1763494200000,
+    "title": "Bitcoin charts flag $75K bottom, but analysts predict 40% rally before 2025 ends",
+    "body": "Bitcoin whales are accelerating their purchasing despite BTC’s short-term bearish outlook. Meanwhile, Wall Street analysts expect BTC to hit new all-time highs before the end of 2025.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54616476,
+    "published": 1763570356000,
+    "title": "ICP Softens as Failed Breakout Above $5.17 Shifts Market Back Into Consolidation",
+    "body": "A surge in trading activity at key resistance levels marked the exhaustion of Monday’s rally, sending ICP back toward its short-term support band.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 82,
+        "NAME": "ICP",
+        "CATEGORY": "ICP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54616474,
+    "published": 1763569772000,
+    "title": "BONK Extends Slide as Key Support Break Raises Prospect of Further Downside",
+    "body": "BONK slipped beneath a key support level amid a sharp rise in trading activity, with intraday charts now pointing toward a fragile short-term structure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 113,
+        "NAME": "BONK",
+        "CATEGORY": "BONK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54617479,
+    "published": 1763572361000,
+    "title": "Bitcoin Slips Back Below $90K — Crypto Correction Now Ranks Among Worst Since 2017, K33 Says",
+    "body": "After a rare spot of outperformance on Tuesday, bitcoin has resumed sliding, with one analyst eyeing $84,000–$86,000 as potential local bottom.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Market Wrap|K33|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54617500,
+    "published": 1763572320000,
+    "title": "The Biggest Challenges Facing Bitcoin Miners Going Into 2026",
+    "body": "Analysts warn that pressures around power, software, and hosting could change the economics of Bitcoin mining.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54617477,
+    "published": 1763572258000,
+    "title": "Stella's XLM Token Breaks Key $0.25 Support as Altcoins Suffer Continued Drawdown",
+    "body": "Technical breakdown gains momentum as institutional selling accelerates through overnight session.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
       },
       {
         "TYPE": "122",
