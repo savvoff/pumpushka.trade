@@ -1,69 +1,5 @@
 [
   {
-    "id": 54570938,
-    "published": 1763471362000,
-    "title": "Fidelity Introduces FSOL ETF, Bringing Major Wall Street Name to Solana Funds",
-    "body": "The firm’s staking-enabled Solana fund debuts as inflows into early SOL products accelerate.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Fidelity|ETFs|Solana News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54570867,
-    "published": 1763471159000,
-    "title": "Tether Invests in Ledn to Expand Bitcoin-Backed Lending Amid Surging Demand",
-    "body": "The stablecoin issuer's investment comes as BTC-backed lending scales rapidly, with Ledn surpassing $1 billion in originations this year and positioning for global expansion.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tether|Ledn|Lending|Crypto-Backed Lending|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54571205,
     "published": 1763471993000,
     "title": "How Pi Network’s 50M nodes could reshape the future of decentralized AI",
@@ -2565,6 +2501,199 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54609650,
+    "published": 1763556177000,
+    "title": "Kenya’s new crypto law faces stress test as Bitcoin ATMs appear in malls",
+    "body": "Kenyan regulators say no crypto firms are licensed under the new VASP Act and warn that providers claiming approval are doing so illegally.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54609367,
+    "published": 1763555393000,
+    "title": "Apex Group Said to Buy Broker Dealer Globacap for U.S. Tokenization Push",
+    "body": "London-based Globacap’s U.S. broker-dealer and alternative trading system (ATS) is regulated by FINRA and the SEC.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tokeny|mergers and acquisitions|Financial Services|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54609312,
+    "published": 1763553992000,
+    "title": "Abu Dhabi Fund Tripled Bitcoin Bet in Months Before Crypto Crash",
+    "body": "The Abu Dhabi Investment Council more than tripled the size of its position in a Bitcoin exchange-traded fund during the third quarter, shortly before the bull market in cryptocurrencies gave way to a brutal selloff.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54610072,
+    "published": 1763557212000,
+    "title": "Famous Trader Bets $27 Million That The XRP Price Will Crash",
+    "body": "A famous trader is betting on a significant XRP price crash amid this recent market downtrend. The altcoin continues to struggle despite the recent launch of Canary’s XRP ETF, with popular analyst Ali Martinez suggesting it could soon drop below the psychological $2 level. Famous Trader Opens $27 Million Short Position On XRP In an X post, the on-chain analytics platform Lookonchain revealed that a famous trader is shorting the market again, opening a 20x short on XRP worth $27.4 million. The trader has also opened short positions of 40x and 10x on Bitcoin and ZEC, respectively, worth $148.5 million and $20.4 million. Related Reading: Abundance of Catalysts Suggests XRP Price Could Take Off This Week This comes as the XRP price continues to struggle, putting it at risk of a further decline, especially with concerns that Bitcoin may already be in a bear market. Crypto analyst Ali Martinez also predicted that XRP could drop to as low as $1.73 if it loses the $2.15 support level. Meanwhile, XRP continues to face significant selling pressure despite increased institutional adoption through the launch of Canary’s XRP fund, with more XRP ETFs also set to launch. Santiment data shows that whales holding between 1 million and 10 million coins recently sold almost 200 million coins in the space of 48 hours. This may just be the start of a larger sell-off following Glassnode’s recent revelation. The on-chain analytics platform revealed that the share of XRP supply in profit has fallen to 58.5%, which is the lowest since November 2024, when the price was trading at around $0.53. Glassnode further noted that despite XRP trading 4x higher now, 41.5% of its supply (around 26.5 billion) sits in loss, which it claimed is a “sign of a top-heavy and structurally fragile market”. Macro Structure Points To A Decline To $2.03 Crypto analyst CasiTrades stated that XRP is still likely making its way down to the macro .5 fib support at $2.03. She claimed that the move is playing out perfectly as Wave 2s are corrective and that the choppiness is exactly how the market should behave. The analyst further revealed that the only invalidation of the drop to the $2.03 support is a decisive break above the macro .382 level at $2.41. Related Reading: Analyst Says XRP Has 2 Options Right Now, Reveals Why Investors Win Either Way CasiTrades explained that this $2.41 level remains the line in the sand and that, as long as XRP stays below it, the structure points to a final sweep of $2.03. She also raised the possibility of a drop to the “still-valid” macro target at $1.65, which is the .618 fib level. The analyst noted that Wave 2 corrections commonly reach the .618 and that the longer XRP ranges without breaking resistance, the more probable a drop to that level becomes. CasiTrades stated that a move to $1.65 would not be bearish, as it would build the kind of momentum needed for a powerful macro Wave 3 to new all-time highs (ATHs). She has predicted that XRP could rally to a new ATH of as high as $10. At the time of writing, the XRP price is trading at around $2.15, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ali Martinez|Canary’s XRP ETF|CasiTrades|CoinMarketCap|glassnode|Lookonchain|Ripple|Santiment|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54610015,
+    "published": 1763557028000,
+    "title": "Incumbents Win Big: What’s Inside Brazil’s New VASP Regulations",
+    "body": "Brazil's Central Bank released long awaited regulations for digital asset businesses, formalizing the sector and integrating stablecoins into its foreign exchange regime",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Investing|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
