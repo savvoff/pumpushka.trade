@@ -1,157 +1,5 @@
 [
   {
-    "id": 54579888,
-    "published": 1763504839000,
-    "title": "Crypto Exchange Kraken Raises $800 Million at a $20 Billion Valuation",
-    "body": "Kraken just raised $800 million, including $200 million from Ken Griffin’s Citadel Securities, ahead of a potential IPO.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54581060,
-    "published": 1763506804000,
-    "title": "Cardano on the Edge: Whale Loss Sparks Sell-Off as ADA Risks Drop to $0.43–$0.30 Range",
-    "body": "Cardano (ADA) is once again under heavy market pressure after a series of whale-driven shocks and broken support levels sent the asset spiraling toward multi-month lows. Related Reading: Why Is Bitcoin Price Crashing? Arthur Hayes Isn’t Surprised Trading around $0.46–$0.49, ADA has slipped beneath several key zones that protected the price structure throughout 2024 and early 2025. Analysts now warn that the sell-off could deepen toward the $0.43 – $0.30 range if downward momentum continues. ADA's price trends to the downside on the daily chart. Source: ADAUSD on Tradingview ADA Slides as Whale Loss and Support Break Intensify Selling Pressure Much of the latest volatility stems from a dramatic whale incident. A dormant wallet holding 14.45 million ADA, inactive for five years, executed a swap into USDA, a pool so thin that the wallet absorbed devastating slippage. The whale walked away with only $847,000, realizing a staggering $6.2 million loss. The market’s response was immediate, confidence cracked, liquidity thinned, and sellers accelerated their exit. On-chain data shows broader whale activity amplifying the impact. More than 440 million ADA has been offloaded by large holders over the last month, further weakening the structure. ADA’s breakdown below $0.52, a level untouched since 2024, confirmed a bearish market regime dominated by lower highs, lower lows, and widening volatility bands. Technical Outlook Points Toward $0.43… or Even $0.30 Traders monitoring ADA’s trajectory highlight a crucial zone at $0.43, a technical target that aligns with the expanding bearish momentum reflected in indicators such as the MACD, RSI, and Bollinger Bands. The MACD’s deepening bearish crossover signals intensifying sell pressure, while the RSI hovering near oversold territory around 37 suggests weakness without confirming a recovery. Market analysts like Ali Martinez and Mr. Brownstone warn that failure to reclaim broken levels could expose ADA to a broader decline. Martinez identifies $0.30 as a long-term structural support, a cycle reset area that historically attracts accumulation during deep corrections. Analysts note that while capitulation metrics such as MVRV point to undervaluation, they do not eliminate the risk of further downside before any recovery materializes. Midnight’s NIGHT Token Launch Could Shift Sentiment, but Uncertainty Remains Even as ADA struggles, Cardano’s broader ecosystem is gearing up for a major milestone: the launch of Midnight’s NIGHT token on December 8, 2025. Midnight introduces privacy-focused smart contracts with selective disclosure, aiming to balance confidentiality with regulatory compliance. Analysts believe the NIGHT rollout could eventually inject positive momentum if adoption accelerates. Still, traders caution that ADA’s immediate outlook remains tied to technical fragility, liquidity challenges, and overall market sentiment. Related Reading: Dogecoin Cup And Handle Pattern Is Returning, What Happens To Price If It’s Completed? For now, ADA sits on a razor’s edge, stabilizing near support, but vulnerable to a deeper drop toward $0.43 and potentially $0.30 if sellers keep control. Cover image from ChatGPT, ADAUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cardano|ADA|ADA price|adausd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54580991,
-    "published": 1763506705000,
-    "title": "Kraken Scores $800M Raise Backed by $200M Citadel Investment",
-    "body": "The funding, which values Kraken at $20B, accelerates plans to integrate traditional markets with crypto infrastructure across multiple regions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Kraken|Citadel Securities|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54581218,
-    "published": 1763506800000,
-    "title": "Bitcoin recovery expected as liquidity conditions change, but US macro remains a threat",
-    "body": "Bitcoin’s recent weakness reflects broader economic stress, but improving liquidity and investors’ positive outlook for 2026 could set the stage for a strong rebound.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54584309,
     "published": 1763512093000,
     "title": "Trump Congressional Ally Discloses Latest Six-Figure Bitcoin Purchase",
@@ -2556,6 +2404,181 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54627131,
+    "published": 1763591110000,
+    "title": "Cancer Diagnosis Helps Keep Jack Abramoff Out of Prison for 'AML Bitcoin' Fraud Scheme",
+    "body": "Disgraced lobbyist Jack Abramoff gets probation for crypto fraud, but must repay $2.2 million to victims of his bogus AML Bitcoin scheme.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54627092,
+    "published": 1763591036000,
+    "title": "Half Of Young Wealthy Investors Are Firing Their Advisors Over Crypto",
+    "body": "More than half of wealthy investors under 40 have fired financial advisors who don't offer crypto access, prompting platforms to race building crypto infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54628289,
+    "published": 1763593238000,
+    "title": "Bitcoin Capitulation Deepens Around $90K Level: Classic Late-Stage Fear Structure Emerging",
+    "body": "Bitcoin is trading at critical price levels as the market enters one of its most tense and uncertain stages of the year. The crypto market is showing clear signs of stress, and new data from CryptoQuant confirms that Bitcoin is now moving into one of the most severe short-term capitulation phases of this cycle. According to the latest on-chain metrics, short-term holders (STHs) are realizing losses at a scale typically seen only near major market turning points. Related Reading: XRP Supply In Profit Falls to 58.5% – Lowest Since 2024 Despite Higher Price The key indicator driving this analysis is STH-SOPR, which has plunged to deeply depressed readings around 0.97. This means STHs are selling coins at a clear loss, often driven by fear rather than strategy. Even more importantly, this metric has spent several consecutive weeks below the critical 1.0 threshold, forming what analysts refer to as a structural “capitulation band.” Historically, whenever STH-SOPR remained under 1.0 for extended periods, it signaled heavy emotional selling—typically from the most reactive and least informed market participants. These episodes have repeatedly aligned with late-stage corrections, market reversals, and shifts in long-term holder dominance. With Bitcoin now sitting at a crucial technical and psychological zone, the next phase could determine whether this becomes a deeper bear trend or a major reset before recovery. Short-Term Holders Under Extreme Stress as Capitulation Deepens According to XWIN Research on CryptoQuant, the current selloff is being amplified by the behavior of short-term holders, with the STH-MVRV ratio now sitting far below 1.0. This indicates that nearly all recent buyers are holding Bitcoin at a loss, placing short-term profitability in one of the weakest conditions in the entire dataset. Historically, these deep unrealized-loss phases are extremely rare and tend to compress selling pressure quickly, as weak hands eventually run out of coins to sell. This pattern is clearly visible in real market flows. A striking 65,200 BTC were recently sent to exchanges at a loss, showing that fear is not an abstract sentiment but is materializing in real, loss-driven capitulation. This kind of behavior aligns with classical capitulation structures: unrealized losses surge, panic selling intensifies, and eventually selling pressure becomes unsustainable. Once that happens, stronger hands begin absorbing supply quietly in the background. While this setup doesn’t guarantee an immediate rebound, the broader structure is shifting toward conditions that have historically preceded cyclical recoveries. STH losses remain at extreme levels, STH-SOPR is still below 1.0, and the pressure fueling exchange inflows is rooted in panic rather than fundamentals. Volatility is likely to persist, but the ongoing cleansing of weak hands is a process often seen near the end of major corrections — not at the start. Related Reading: Galaxy Digital Dumps 2,800 BTC as Bitcoin Crashes Below $90K Testing Weekly Support as Momentum Weakens Bitcoin’s weekly chart shows the market approaching a critical turning point as price trades just above $91,000 following a sharp multi-week decline. The recent breakdown from the $110,000–$105,000 range has confirmed a loss of bullish momentum, with sellers gaining control and pushing BTC toward its next major weekly support cluster near the 50-week moving average around $88,000–$90,000. This zone has historically acted as a key pivot level, often signaling whether a corrective phase deepens or stabilizes. Volume adds important context. The past several weekly candles show rising sell-side activity, reflecting panic-driven exits rather than orderly distribution. However, this surge in volume also indicates that the market may be approaching a capitulation threshold, where forced selling begins to exhaust itself — a setup often seen before stronger hands step in. Related Reading: Ethereum Approaches Historical Accumulation Level – Just 8% Away From LTH Cost Basis Structurally, Bitcoin is still trading above the 100-week and 200-week moving averages, both of which continue to trend upward. This suggests the aggressive downside move has not yet broken the broader macrotrend. But the loss of mid-term support levels and the sustained downward pressure highlight a market struggling to find confidence. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin capitulation|Bitcoin fear|Bitcoin news|Bitcoin Selling Pressure|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54628051,
+    "published": 1763592787000,
+    "title": "Samourai Wallet Co-Founder Bill Hill Sentenced to 4 Years in Prison for Unlicensed Money Transmitting",
+    "body": "The 67-year-old Hill’s recent autism diagnosis, as well as his advanced age, seemed to serve as mitigating factors for the sentencing judge.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Samourai Wallet|Mixers|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54628459,
+    "published": 1763593502000,
+    "title": "New XRP and Dogecoin ETFs Expected to Begin Trading in the Coming Days",
+    "body": "New ETFs separately tracking XRP and Dogecoin could debut in the next three trading days, according to analysts.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "dogecoin||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
