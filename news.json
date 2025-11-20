@@ -1,87 +1,5 @@
 [
   {
-    "id": 54616476,
-    "published": 1763570356000,
-    "title": "ICP Softens as Failed Breakout Above $5.17 Shifts Market Back Into Consolidation",
-    "body": "A surge in trading activity at key resistance levels marked the exhaustion of Monday’s rally, sending ICP back toward its short-term support band.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 82,
-        "NAME": "ICP",
-        "CATEGORY": "ICP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54616474,
-    "published": 1763569772000,
-    "title": "BONK Extends Slide as Key Support Break Raises Prospect of Further Downside",
-    "body": "BONK slipped beneath a key support level amid a sharp rise in trading activity, with intraday charts now pointing toward a fragile short-term structure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 113,
-        "NAME": "BONK",
-        "CATEGORY": "BONK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54617479,
     "published": 1763572361000,
     "title": "Bitcoin Slips Back Below $90K — Crypto Correction Now Ranks Among Worst Since 2017, K33 Says",
@@ -289,53 +207,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54617716,
-    "published": 1763571040000,
-    "title": "Crypto Majors Chop ahead of NVDA earnings! Kraken raises $800M! Fidelity launch SOL ETF!",
-    "body": "Crypto majors were slightly green ahead of tonight’s major NVDA earnings call, with BTC hovering around $91,300, ETH up 2% at $3,090, BNB up 1% at $922, and SOL also up 1% at $139. Among top movers, MYX (+38%), STRK (+30%), and ZEC (+10%) led the pack. Bitcoin’s latest 30% drawdown unfolded far more rapidly—over 42 days—compared with the previous two drawdowns in Summer 2024 (147 days) and April 2025 (77 days). Kraken raised $800M at a $20B valuation in a round led by Jane Street, DRW, Oppenheimer, and a $200M stake from Citadel. The Ethereum Foundation outlined new goals for its upcoming Interop Layer, designed to unify all EVM L2s and make them function as “one chain.” In regulatory news, the OCC said national banks may hold and spend crypto in certain cases, such as paying for gas or testing applications. New Hampshire launched the first Bitcoin-backed municipal bond, while Mt. Gox moved 10,608 BTC—nearly $1B—from a cold wallet to new addresses, renewing expectations of imminent creditor repayments. Meanwhile, Tether made a strategic investment in Ledn to expand bitcoin-backed lending.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
@@ -3624,6 +3495,205 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54663830,
+    "published": 1763655897000,
+    "title": "Proposed Bitcoin for America Bill Would Enable BTC Tax Payments, Which Go to Reserve",
+    "body": "Introduced Thursday, the bill would allow Americans to pay their taxes in Bitcoin, with those funds being used to grow the U.S. stockpile.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54663677,
+    "published": 1763655533000,
+    "title": "Ethereum’s Fusaka Upgrade Signals New Era for Value Accrual: Fidelity Digital Assets",
+    "body": "The upgrade marks a sharper strategic turn for the blockchain, aligning protocol development with economic intent and strengthening the case for ether.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum News|Fusaka|Fidelity Digital Assets|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54664903,
+    "published": 1763658047000,
+    "title": "Here’s The Resistance Zone Keeping The Dogecoin Price From Rallying",
+    "body": "The Dogecoin price has spent the past several days moving through a noticeably weaker phase, falling from the mid-$0.18 region into a prolonged decline that has kept the price tilted downward. The chart shows a major high forming near $0.18311 before sellers forced the price into a tight downtrend, but every attempted bounce has turned into another correction. Technical analysis from BitGuru focuses on why this rebound attempt is still weak and what Dogecoin must break above before any meaningful rally can begin. Dogecoin Price Downtrend And Repeated Corrections The structure of Dogecoin’s price action since reaching $0.183 on November 10 makes the weakness clear. After topping at $0.18311, Dogecoin slipped into a descending channel, with the downtrend highlighted by lower highs across November 11 and 12. Each time the price tried to push upward, the move stalled at a predictable level, creating another corrective swing. The chart shows this clearly during the November 13 and 14 period, where a modest recovery reached $0.16598 before sellers regained control. Related Reading: Analyst Says You’re Looking At XRP The Wrong Way, Here’s What It Actually Does Since then, the price pattern shows that the Dogecoin price has been following a controlled downtrend. The selling pressure is consistent, and every rebound so far has been capped by the same resistance around $0.166. The momentum has been drifting downward for most of the past week, keeping the Dogecoin price suppressed below this price level. the most recent candles on the chart show Dogecoin attempted another rebound after a drop into the $0.153 region. BitGuru noted that this bounce is not enough to confirm a reversal, and a stronger recovery will only be confirmed if it breaks above the nearby resistance zone. The current price action in the past few days shows Dogecoin is holding above short-term support, but it has not yet shown the strength required to break out of the sideways-to-downward structure. Until the candles break above the compression zone formed between November 15 and 16, then Dogecoin might continue trading sideways. Dogecoin / TetherUS. Source: BitGuru On X The Resistance Zone Dogecoin Must Break BitGuru’s main focus is the resistance zone that has repeatedly rejected Dogecoin. From the chart, this resistance stretches across the range between $0.163 and $0.167, coinciding with the point where the last two consolidation phases stalled. Each time Dogecoin reached this area, selling pressure increased, creating another correction. Related Reading: Model Shows How XRP Could Hit $24 After ETFs Go Live The chart shows this clearly in the boxed region leading into the November 16 decline, where Dogecoin hovered below $0.16598 for several hours before slipping again. This zone is acting as the barrier preventing Dogecoin from starting a new rally. According to BitGuru, the market needs a clean breakout above this range before any stronger recovery can be confirmed. Without that breakout, the Dogecoin price will still be vulnerable to further downside movement. At the time of writing, Dogecoin is trading around $0.1566 and is well below this resistance block. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54664889,
+    "published": 1763657961000,
+    "title": "The 100-Year-Old Wall Street Tool Being Rebuilt For Crypto",
+    "body": "RDC is reinventing Depositary Receipts for Bitcoin, Ethereum and Solana—bridging crypto tokens into DTC, prime brokerage, ETFs and ’40 Act funds.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54664658,
+    "published": 1763657537000,
+    "title": "Bitcoin's Nvidia-Led Gains Prove Short-Lived, With Price Slumping Back to $88K",
+    "body": "U.S. stocks are also giving up a major early advance, with the Nasdaq now ahead just 0.3%.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Market Wrap|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
