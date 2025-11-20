@@ -1,127 +1,5 @@
 [
   {
-    "id": 54604041,
-    "published": 1763546432000,
-    "title": "Crypto Traders See Bullish Tailwind: Hassett Jumps In Fed Chair Odds",
-    "body": "Donald Trump has pushed the Federal Reserve back into the center of the crypto macro narrative, telling reporters he “already” knows who should succeed Jerome Powell and triggering a sharp repricing in real-money prediction markets in favor of Kevin Hassett. In remarks in the Oval Office, Trump said: “I think I already know my choice,” when asked about the next Fed chair. He added that he would “love to get the guy currently in there out right now, but people are holding me back,” a clear swipe at Powell without naming him. Trump also hinted at the shape of his shortlist, saying, “We have some surprising names and we have some standard names that everybody’s talking about. And we may go the standard way. It’s nice to every once in a while go politically correct.” That was enough to move markets. On Polymarket and Kalshi, contracts on “Who will Trump nominate as Fed Chair?” quickly converged around Hassett, with odds in the mid-40s to high-40s percent range. Jim Bianco summarized the shift by writing: “He wants Bessent but will take Hassett. The rest get to take selfies in the Oval Office.” In a follow-up, he noted that “Hassett (blue) is separating himself from the pack and is on the verge of being the first person to trade over 50%,” as prediction markets pushed his contract well clear of rivals. Kalshi’s own social media account underscored the move: “BREAKING: Trump thinks he ‘already knows’ who will be next Fed Chair. 47% chance it’s Kevin Hassett.” The pseudonymous trader Byzantine General zoomed out to the timeline, pointing out that “Powell’s term ends May next year,” and sketching out a Q2 scenario with “a FED chair that listens to Trump” and “tariff dividends for plebs,” before cautioning that “you never know with Trump of course, but man, there could be something cooking.” Related Reading: Crypto Market Wipes Out $1 Trillion Since October: Analyzing The Forces Behind The Crash What Hassett Could Mean For The Crypto Market For macro-oriented crypto traders, the key is the policy signal embedded in those probabilities. Hassett is widely perceived as more dovish than Powell and more aligned with Trump’s preference for easier financial conditions. That is why trader CRG (@MacroCRG), framed the moment as the arrival of a “New hand picked super dove as Fed chair coming soon.” Macro and crypto analyst Alex Krüger went further, arguing that the Fed-chair race is the real medium-term driver for risk assets once the current FOMC noise fades. “Here’s the next macro catalyst after the FOMC. A bullish catalyst the market is paying no heed to atm. It’s hard to peer into the horizon when stressed to the marrow about the present,” he wrote, adding that “the most bullish choices would be Hassett (likely), Rieder (possibly) and Zervos (unlikely).” Related Reading: Crypto Carnage Continues — Tom Lee Exposes What’s Really Going On The reason crypto traders care is straightforward: crypto assets trade as high-beta, liquidity-sensitive risk assets. A chair seen as more willing to cut rates faster, tolerate easier financial conditions or respond aggressively to equity and growth weakness is, in market logic, a structural tailwind for the long-run liquidity environment that underpins speculative flows into bitcoin and other cryptocurrencies. At the same time, Trump’s open pressure on Powell and his readiness to talk about replacing the Fed chair in overtly political terms reinforce another strand of the crypto thesis. The more investors worry about the politicization of US monetary policy and the erosion of central-bank independence, the more compelling the “Bitcoin as hedge against political and institutional risk” narrative becomes for a subset of allocators. For now, nothing has changed at the Fed. Powell remains in office, and all that has moved is a set of probability distributions on prediction markets. But as those distributions shift toward Kevin Hassett, crypto traders are already treating the prospective hand-off as a latent, potentially significant bullish tailwind building in the background. At press time, the total crypto market cap was at $3.11 trillion. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|Bitcoin news|crypto|Crypto market news|crypto news|fed|Kevin Hassett|Next Fed Chair",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54603995,
-    "published": 1763546070000,
-    "title": "Senators warn Trump-linked crypto firm may pose national security threat",
-    "body": "Democratic senators are urging a probe into WLFI over alleged token sales to North Korea- and Russia-linked wallets, while researchers say some claims stem from false positives.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 205,
-        "NAME": "TOKEN SALE",
-        "CATEGORY": "TOKEN SALE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54604471,
-    "published": 1763546811000,
-    "title": "Ondo wins Liechtenstein approval to offer tokenized stocks in Europe",
-    "body": "US tokenization platform Ondo is preparing to offer tokenized stocks and ETFs in 30 European countries after receiving approval in Liechtenstein.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54604742,
-    "published": 1763547374000,
-    "title": "US and UK revolt forces Basel to rethink brutal crypto capital rules for banks",
-    "body": "Basel’s toughest crypto rules are under review as the US, UK, and the EU diverge, with booming stablecoin adoption forcing a rethink of 1,250% capital charges, the group’s chair told the FT.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54605619,
     "published": 1763548763000,
     "title": "BlackRock leads near $3B Bitcoin November ETF exodus with record $523M outflows",
@@ -2970,6 +2848,193 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54649976,
+    "published": 1763631120000,
+    "title": "Why Bitcoin Hyper’s $28M Presale Has Next 1000x Crypto Potential",
+    "body": "What to Know: Bitcoin Hyper aims to turn Bitcoin into a fast, smart-contract-ready Layer 2 using SVM, canonical bridging, and ZK-secured rollups. The $HYPER presale has raised over $28.16M at roughly $0.013305 per token, with strong whale entries and active retail demand. Stakers can lock $HYPER for around 41% APY, with over a billion tokens already committed, aligning early holders with long-term network growth. Price models suggest multi-X potential if the roadmap lands, but competition, delivery risk, and market shocks make $HYPER a high-risk, high-reward bet. Bitcoin is at $92K now, but it doesn’t exactly feel like victory lap season. Price action is choppy, majors are flashing double-digit red, and on-chain data keeps reminding everyone that the original crypto is still slow, expensive, and allergic to smart contracts. Bitcoin processes around seven transactions per second, fees spike whenever activity returns, and most of DeFi, NFTs, and on-chain experimentation still lives on faster networks like Solana. That leaves a strange gap: the most valuable asset in crypto is mostly sidelined from the high-growth side of Web3. That gap is exactly what new Bitcoin Layer-2 projects are trying to close. Among them, Bitcoin Hyper ($HYPER) has quietly pushed its presale past $28M at ~$0.013305/token, just as the market shifts back from panic to cautious dip-buying. Multiple market roundups now place it in the micro-cap, infrastructure-narrative bucket that speculators scan when they hunt the next 1000x crypto. Bitcoin Hyper’s pitch is simple but aggressive: turn Bitcoin into a high-throughput, smart-contract-ready Layer 2 while keeping Bitcoin-grade security. Under the hood, that means a Solana-style virtual machine, a canonical bridge for wrapped $BTC, and a rollup design secured with zero-knowledge proofs. Early investors have already staked over a billion $HYPER for yields around 41% APY, and whale buys in the hundreds of thousands of dollars ($500K just 6 days ago) suggest larger players are at least testing the waters. With the presale now past the $28M mark, the obvious question is whether Bitcoin Hyper is just another cycle narrative… or a serious contender for the next breakout Layer-2 play. Bitcoin Hyper Turns Bitcoin Into A DeFi-Capable Layer 2 At its core, Bitcoin Hyper is a rollup-style Layer-2 built specifically for Bitcoin. Users send $BTC to a monitored address on the main chain; an SVM-based smart contract verifies the deposit and mints an equivalent amount of $BTC on the Hyper network. Once bridged, that wrapped $BTC moves on a high-throughput chain with near-instant finality and sub-cent fees. Instead of forcing Bitcoin itself to run complex logic, Bitcoin Hyper batches transactions off-chain and periodically commits state back to Layer 1 using zero-knowledge proofs. That keeps the heavy security properties where they belong while shifting day-to-day activity to a faster execution layer. In practice, it lets Bitcoin behave like a settlement engine while Bitcoin Hyper handles payments, trading, and app activity. The Solana Virtual Machine is a key part of that design. By leaning on SVM tooling, Bitcoin Hyper lets developers deploy DeFi protocols, NFT marketplaces, games, and order-book DEXs with a familiar stack. Rust devs who already know Solana don’t need to relearn everything just to build on a Bitcoin-settled rollup. That cuts friction and gives the project a realistic path to a working ecosystem instead of a ghost chain. For anyone who wants exposure tied to Bitcoin and access to DeFi yields, NFT rails, and meme coin experiments, a $BTC-anchored Layer-2 like this is a clean narrative. If that thesis plays out and Bitcoin Hyper actually ships at scale, $HYPER stops being just a meme-wrapped token and starts looking like the core asset of a new Bitcoin DeFi stack. 📚 Read more about what Bitcoin Hyper is planning in our guide. Bitcoin Hyper Breaks $28M, Whales Continue Buying Stacks On the numbers side, $HYPER has already raised over $28M, placing $HYPER firmly in the early micro-cap bracket. The current stage price is $0.013305, up roughly 15% from the initial $0.0115, with fresh funding still flowing in despite broader market volatility. Presale buyers can also stake their tokens for 41% APY now, but this will drop as more people stake tokens. On the upside math, our Bitcoin Hyper price prediction outlines a 2026 high around $0.08625, assuming the roadmap is delivered and liquidity lands on major exchanges. From today’s presale price of $0.013305, that implies roughly a 6.5x to the 2026 high if everything clicks. Longer term, $HYPER could push a 2030 high near $0.253, which would be a 20x-plus move versus early presale levels. 🤑 Here’s how to buy $HYPER before it hits $30M. This is exactly type of asymmetric setup presale hunters look for. A Bitcoin-settled rollup with audited contracts, a live staking program, and more than $28M already committed has a very different risk profile from pure meme plays with no tech. Some analysts are already tagging $HYPER as a potential high-beta proxy on Bitcoin’s evolution, and in a market obsessed with the next 1000x crypto narrative, that combination of real infrastructure and early-stage pricing is why it keeps popping up on watchlists. Join the Bitcoin Hyper presale for just $0.013305/token! Disclaimer: This article is informational only, not financial advice. Crypto presales are highly risky; never invest more than you can afford to lose. Authored by Elena Bistreanu, NewsBTC – https://www.newsbtc.com/news/next-1000x-crypto-bitcoin-hyper-hits-28-million-upscales-bitcoin",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54649938,
+    "published": 1763630884000,
+    "title": "WLFI’s ‘community governed’ image strained as Trump-backed project freezes wallets",
+    "body": "Some users viewed the asset reallocation as an alarming sign of the platform’s ability to blacklist user funds without requiring a governance proposal.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54651046,
+    "published": 1763632849000,
+    "title": "CEO Cuts Cardano Founder’s Bitcoin Price Forecast, Warns Bear Market Just Starting",
+    "body": "Cardano (ADA) founder Charles Hoskinson previously projected that the Bitcoin price could reach an impressive price of $250,000 as early as this year. This bold forecast, made in April, came at a time when Bitcoin was trading at $77,000 after achieving a record high of $109,000 in January. Hoskinson’s Optimistic Bitcoin Price Forecast Hoskinson’s optimism was based on his belief that international negotiations, particularly between the US and China, would favor Bitcoin’s growth. The Cardano founder suggested that easing tariffs would lead to a positive market reaction and bolster adoption, particularly with the anticipated passage of the GENIUS Act, which was signed into law by President Trump a few months later. Related Reading: Bitcoin Dips Below $90,000—Yet Altcoins Remain Unscathed: Here’s Why However, the current market realities have raised doubts about Hoskinson’s prediction. Since then, Bitcoin has experienced significant fluctuations, briefly regaining momentum to reach $126,000 mid-October, only to see the broader crypto market subsequently shed over $1 trillion in total market cap. This downturn has largely been attributed to persistent selling pressure by concerned investors, and substantial outflows from the Bitcoin exchange-traded fund (ETF) sector, with nearly $2 billion sold over since October. As it stands, Bitcoin is trading at approximately $89,300, marking a nearly 30% decline from its recently achieved all-time highs. In light of this, Jacob King, CEO of Swandesk, publicly dismissed Hoskinson’s $250,000 price target, characterizing it as unrealistic. Is Bitcoin In A New Bear Market Cycle? In a post on social media platform X (formerly Twitter), King stated that such lofty price predictions are “pulled out of thin air” and reflect a market still grappling with “delusions.” King elaborated on his viewpoint, suggesting that the industry is in the early stages of a new bear market cycle. He is not alone in this assessment. Market expert Lark Davis recently noted that, based on the classic four-year Bitcoin price cycle, the cryptocurrency has officially entered bear market territory. Davis commented that this scenario leaves two possibilities: either the established four-year cycle is no longer relevant, or the market has indeed shifted into a bearish phase. Given the current macroeconomic backdrop, he leans toward the latter interpretation. Related Reading: Kraken Achieves $20 Billion Valuation With $200 Million Investment From Citadel Additionally, others in the market have echoed these bearish sentiments. An analyst known as Mr. Wall Street has recently speculated that the Bitcoin price peaked at $126,000. The analyst believes that this may mark the zenith for this cycle, predicting that the Bitcoin price could next face significant downward pressure, potentially slipping to a range between $74,000 and $82,000. He further forecasts a possible decline to levels between $54,000 and $60,000 by the fourth quarter of 2026. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin bear market|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT|crypto|Crypto bear market|crypto market|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54651071,
+    "published": 1763632800000,
+    "title": "MEXC taps Hacken for proof-of-reserves audits to boost transparency",
+    "body": "The exchange will publish monthly, independently verified reserve reports, giving users third-party confirmation that assets are fully backed.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54651166,
+    "published": 1763633020000,
+    "title": "Ark Invest Buys the Slide, Adds Almost $40M of Crypto Stocks, as Market Drops",
+    "body": "Cathie Wood's investment manager added to its holdings of Bullish (BLSH), Circle Internet (CRCL) and Bitmine (BMNR) as all three companies' stock prices fell.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|ARK Invest|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }
