@@ -29,41 +29,6 @@
     ]
   },
   {
-    "id": 54624935,
-    "published": 1763587084000,
-    "title": "Anchorage–Mezo partnership opens institutional access to BTC-backed loans",
-    "body": "Federally chartered Anchorage Digital Bank is integrating Mezo’s BitcoinFi tools into its custody platform, giving institutions a compliant path to borrow against BTC.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54625516,
     "published": 1763588351000,
     "title": "Nvidia Earnings Beat, Strong Outlook Calm Jittery Markets; Bitcoin Re-Takes $90K",
@@ -3777,6 +3742,93 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54671420,
+    "published": 1763670386000,
+    "title": "Elon Musk Is the Most Fit, Intelligent and Handsome Person Alive—Says Grok AI",
+    "body": "Elon Musk's chatbot went viral for declaring him the most wonderful man on earth—fitter than LeBron, smarter than da Vinci, and definitely not biased at all.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54672835,
+    "published": 1763673008000,
+    "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Continues: TechCrunch",
+    "body": "The CFTC-regulated exchange is gaining ground on crypto-native Polymarket, offering event contracts with fiat access and legal clarity.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Kalshi|Polymarket|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 54672891,
+    "published": 1763672975000,
+    "title": "AI hedge fund Numerai wins backing from top university endowments, token soars",
+    "body": "Numerai's NMR token jumped over 40% after it announced a new funding round led by major university endowments, pushing the hedge fund to a $500M valuation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
