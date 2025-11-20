@@ -1,191 +1,5 @@
 [
   {
-    "id": 54621063,
-    "published": 1763579708000,
-    "title": "Crypto Leverage Hits Record High in Q3 as DeFi Dominance Reshapes Market Structure: Galaxy",
-    "body": "Onchain lending drove crypto-collateralized debt to a new peak in last quarter, but the leverage underpinning the market is now better collateralized than during the previous cycle.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Leverage|Derivatives|DeFi|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54620862,
-    "published": 1763579130000,
-    "title": "New Hampshire Unveils $100 Million Bitcoin Collateralized Municipal Bond",
-    "body": "The bond requires overcollateralization by 160%, and will result in liquidation if the value of Bitcoin collateral falls below 130% of the bond’s value.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54621387,
-    "published": 1763580405000,
-    "title": "New Hampshire Awaits Bitcoin Bond Buyer to Get First State Effort Rolling",
-    "body": "The New Hampshire Business Finance Authority took the opening steps toward shepherding a potential $100 million private-sector bitcoin bond.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|New Hampshire|Bitcoin News|Bond|State Government|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54621421,
-    "published": 1763580337000,
-    "title": "21shares Solana ETF launches amid crash, but flows signal investor interest",
-    "body": "The 21shares Solana exchange-traded fund (TSOL) debuted with over $100 million in assets under management, signaling investor interest.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54621599,
-    "published": 1763580846000,
-    "title": "'Modern-Day Pablo Escobar': Treasury Sanctions Ex-Olympian Over Alleged Crypto-Fueled Crime Empire",
-    "body": "A former Olympic snowboarder turned \"drug kingpin\" is now facing U.S. sanctions as the FBI attempts to track him down in Mexico.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 54622395,
-    "published": 1763582664000,
-    "title": "Fed Rate Cut Odds Plunge Further on Jobs Data Delays",
-    "body": "Traders slash chances of a December cut to 33% as the Fed loses a key data point ahead of its final 2025 meeting.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Federal Reserve|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
     "id": 54625043,
     "published": 1763587375000,
     "title": "Crypto Miners in Malaysia Stole $1 Billion in Power Over Five Years",
@@ -3799,6 +3613,170 @@
         "ID": 62,
         "NAME": "ZRX",
         "CATEGORY": "ZRX"
+      }
+    ]
+  },
+  {
+    "id": 54668845,
+    "published": 1763665200000,
+    "title": "Bitcoin, stocks crumble after Nvidia earnings and Fed uncertainty over next rate cut",
+    "body": "Bitcoin weakness persists as the BTC price drops to $86,000, alongside a US stock market sell-off and diminishing odds of a 50-basis-point Fed interest rate cut at the next FOMC.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54670317,
+    "published": 1763667957000,
+    "title": "Bitcoin for taxes? Proposed bill would let Americans pay the IRS in BTC",
+    "body": "Tax revenue denominated in Bitcoin would be funneled into the US strategic BTC reserve and would not trigger a taxable event for the payer.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54670262,
+    "published": 1763667789000,
+    "title": "Michael Saylor’s Strategy Risks Losing Billions in Index Flows",
+    "body": "Michael Saylor’s Strategy Inc. is among the most exposed to the crypto slump — and now faces the real risk of being dropped from the benchmark indices that have underpinned its presence in mainstream portfolios.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "NMS:MSTR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54670711,
+    "published": 1763669082000,
+    "title": "Bitcoin Billionaire Dumps Entire $1.3 Billion BTC Stash After 14 Years: Arkham",
+    "body": "A Bitcoin whale appears to have sold his entire crypto stash for $1.3 billion—14 years after first buying BTC, says Arkham Intelligence.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 199,
+        "NAME": "ARKM",
+        "CATEGORY": "ARKM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
