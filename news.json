@@ -1,233 +1,5 @@
 [
   {
-    "id": 54614013,
-    "published": 1763565578000,
-    "title": "Morning Minute: The White House and IRS Target Foreign Crypto Holdings",
-    "body": "Taxes are going to be more of a headache for those using offshore exchanges if this proposal passes. But does the move make sense?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 54614501,
-    "published": 1763566546000,
-    "title": "Crypto Exchange Kraken Files for IPO Following $800 Million Raise",
-    "body": "Freshly valued at $20 billion, American cryptocurrency exchange Kraken said Wednesday that it has filed to go public.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54614425,
-    "published": 1763566450000,
-    "title": "Winklevoss-Backed Cypherpunk Buys $18M More Zcash, Bringing Holdings to $150M",
-    "body": "The digital-asset treasury firm is sitting on a over 100% paper gains following Zcash's recent rally.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Digital Asset Treasury|Zcash|Winklevoss|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 54614934,
-    "published": 1763567384000,
-    "title": "Bitcoin, Ethereum and XRP Set for Rebound? Here's What Analysts Think",
-    "body": "Analysts see a potential short-term rebound, as retail panic selling of Bitcoin, Ethereum, and XRP signals a historical buying opportunity.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54614899,
-    "published": 1763567229000,
-    "title": "US government reopening may unleash crypto ETF floodgates: Analyst",
-    "body": "2026 will likely be a busy year for crypto exchange-traded funds, which could help renew investor interest in digital asset markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54615681,
-    "published": 1763568636000,
-    "title": "$90K Bitcoin price is a ‘close your eyes and bid’ opportunity: Analyst",
-    "body": "Bitcoin’s current correction is the largest of the bull market, but data indicate that the price is approaching prime capitulation territory.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54616476,
     "published": 1763570356000,
     "title": "ICP Softens as Failed Breakout Above $5.17 Shifts Market Back Into Consolidation",
@@ -564,35 +336,6 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54618205,
-    "published": 1763567015000,
-    "title": "Crypto Exchange Kraken Files Confidentially for IPO Next Year",
-    "body": "Kraken has filed confidentially for a US IPO, laying the groundwork for the crypto exchange operator to go public as soon as next year.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
@@ -3635,6 +3378,252 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54661610,
+    "published": 1763652016000,
+    "title": "BlackRock’s Staked Ethereum ETF Play Could Supercharge Bitcoin Hyper",
+    "body": "What to Know: BlackRock’s move toward a staked Ethereum ETF marks the arrival of yield-bearing crypto ETFs that blend price exposure with on-chain staking rewards. The success of ETHA and broader interest in staking products indicate that major asset managers are ready to scale deeper into core crypto infrastructure. Bitcoin Hyper addresses Bitcoin’s scalability limits through a rollup-style Layer-2 using wrapped BTC, aiming to transform Bitcoin into a functional DeFi settlement layer. With more than $28M raised, 41% staking rewards, and utility tied directly to Bitcoin’s expansion, Bitcoin Hyper provides asymmetric upside in an ETF-driven market cycle. BlackRock just spun up a new trust in Delaware for an iShares Staked Ethereum Trust ETF, signaling phase two of institutional crypto: yield on-chain, wrapped in TradFi. Roughly 15 months after launching its flagship Ethereum ETF, $ETHA, the asset management giant is now lining up a product that combines $ETH price exposure with staking rewards. $ETHA, which launched in July 2024, has already pulled in around $13B in inflows and quickly became one of the most successful spot Ethereum ETFs on the market. The key detail: ETHA itself does not stake its $ETH, so investors get pure price exposure alone, and nothing from the roughly 4% average staking yield that validators earn on-chain. The new trust changes that equation. A staked $ETH ETF would transform Ethereum exposure into a total-return product, tacking on staking yield to capital gains. That kind of structure is tailor-made for institutions that want the benefits of blockchain without running their own validator infrastructure or worrying about slashing risks. As more issuers follow with staking products, a larger slice of $ETH will be locked up, tightening supply and deepening liquidity in regulated venues. When big money gets comfortable with yield-bearing crypto ETFs on Bitcoin and Ethereum, the usual pattern is simple: liquidity and attention trickle down the risk curve. First majors, then high-beta infrastructure plays. In this cycle, one of the cleanest ways to express that ‘higher beta on Bitcoin’ thesis is not another meme coin, but a Bitcoin Layer-2 like Bitcoin Hyper ($HYPER) that tracks Bitcoin’s performance while adding real utility. That is where Bitcoin Hyper’s ongoing presale starts to look very interesting. Bitcoin Hyper Turns Bitcoin into A Scalable DeFi Powerhouse Bitcoin Hyper is building a Layer-2 rollup on top of Bitcoin that batches transactions off-chain, executes them at high speed, then settles the final state back to Bitcoin Layer-1. In practice, it aims to turn Bitcoin into something that feels closer to Solana in terms of speed, while still inheriting Bitcoin’s battle-tested security. To do this, the team uses a canonical bridge that wraps native $BTC into a compatible asset for use on the Hyper rollup. A Solana Virtual Machine environment then handles execution, enabling thousands of transactions per second and near-instant finality. On top of that, developers can plug in DeFi protocols, NFT marketplaces, and other dApps that simply are not viable on Bitcoin’s base layer today. This is the pain point Bitcoin Hyper goes after: Bitcoin is the largest, most trusted asset in crypto, yet still awkward to use beyond simple transfers and custody. Fees spike in every hype cycle, throughput caps out around single-digit TPS, and DeFi flows largely bypass the network. By pushing computation to an L2 while anchoring security on Bitcoin, Hyper tries to unlock that trapped value. From a macro angle, the timing lines up with the ETF story. As spot Bitcoin ETFs accumulate coins and BlackRock explores yield products on Ethereum, more institutional capital is parked in base-layer assets. The next logical step is infrastructure that lets those assets actually move and work in DeFi. A Bitcoin-native L2 that can route wrapped BTC into lending, DEXs, and payments is directly aligned with that shift. Add in the project’s public focus on conservative security assumptions, and the narrative becomes straightforward: a scaling solution that respects the base chain, rather than trying to replace it. Bitcoin Hyper Presale, Staking Rewards, And ETF-Driven Upside On the numbers side, the Bitcoin Hyper presale has already raised over $28M, with the current token price sitting at $0.013305. That puts it in the upper tier of the best crypto presales of 2025 and suggests there is real appetite for Bitcoin-aligned infrastructure rather than just memes. Staking is a major part of the pitch. Early buyers can stake $HYPER for reported rewards of around 41%, turning idle presale allocations into a yield-bearing position while the team ships its roadmap. Learn how to buy and stake $HYPER today. For investors who are already eyeing BlackRock’s staked $ETH ETF as a source of passive income, that kind of on-chain yield on a high-beta token adds an extra layer of torque. There is also a clear roadmap-linked upside story. Our price modeling sees potential highs of $0.08625 in 2026 if Bitcoin Hyper hits its milestones around mainnet, early dApps, and DAO launch. Relative to the current presale price of $0.013305, that target implies roughly a 546% increase. For holders who already believe in Bitcoin’s long-term trajectory and see BlackRock-style products as confirmation, $HYPER acts like a leveraged play on that same thesis: more throughput, more DeFi rails, and more ways for $BTC liquidity to earn yield. In other words, while BlackRock stays tightly focused on Bitcoin and Ethereum ETFs, investors who want to front-run where that institutional adoption might push demand next are looking directly at Bitcoin Layer-2s. Right now, Bitcoin Hyper is one of the few presales offering that combination of narrative fit, clear technical design, and significant capital already committed. Check out the Bitcoin Hyper presale. This article is for informational purposes only and is not financial advice. Crypto and presale investments are highly volatile and risky. Authored by Aaron Walker for NewsBTC — https://www.newsbtc.com/news/ blackrock-staked-ethereum-etf-bitcoin-hyper-layer2-presale",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54661582,
+    "published": 1763649993000,
+    "title": "Aztec launches decentralized and private Ethereum L2 on mainnet, almost",
+    "body": "Aztec launched its Ignition mainnet with no centralized operators, opening community staking amid its major token sale and positioning itself as a fully decentralized L2.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 205,
+        "NAME": "TOKEN SALE",
+        "CATEGORY": "TOKEN SALE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54662085,
+    "published": 1763652746000,
+    "title": "Solana ETFs Post Second-Biggest November Inflows as Demand Grows During Downturn",
+    "body": "Spot SOL exchange-traded funds extended an inflow streak since they began trading on Oct. 28 while bitcoin and ether ETFs bled hundreds of millions of dollars.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|ETFs|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54662967,
+    "published": 1763654433000,
+    "title": "Pundit’s Bitcoin 3-Month Scenario Shows Massive Crash, Here’s The Target",
+    "body": "Crypto pundit Andrea has shared a 3-month scenario for Bitcoin that shows the flagship crypto could suffer a massive crash. This crash is expected to follow BTC’s rebound and an end-of-year rally to new highs. Pundit Projects Bitcoin Crash To $60,000 After Rebound To New Highs In an X post, Andrea shared an accompanying chart showing that Bitcoin could eventually crash to $60,000, with the crash expected sometime in mid-2026. However, before then, the crypto pundit predicted that BTC could still rally to new highs despite its recent crash below the psychological $100,000 level. Related Reading: Here’s Why The Bitcoin Price Keeps Crashing- Is $80,000 Next? Specifically, he revealed a potential three-month scenario for Bitcoin, stating that he expects an end-of-year rally to at least $115,000-$116,000. The crypto pundit added that if BTC can break that level, then it could push towards $135,000 and $140,000, which will mark new all-time highs (ATHs) for the flagship crypto. However, Andrea stated that the peculiarity of this pump will be with a dropping BTC dominance, with altcoins outperforming the flagship crypto. This analysis comes amid Bitcoin’s most recent crash below $90,000, which marked a seven-month low for BTC. Notably, veteran trader Peter Brandt has predicted that this decline could extend further, with the flagship crypto dropping to as low as $58,000. Brandt questioned whether Bitcoin’s sweeping reversal on November 11, followed by 8 days of lower highs and the completion of a massive broadening top, qualifies as a bear market. He added that the targets implied are $81,000 and $58,000. The veteran trader also remarked that those who claim they will be big buyers at $58,000 will be pukers by the time BTC reaches $60,000. BTC Suffers A Breakdown Of The Megaphone Pattern Crypto analyst Colin revealed that Bitcoin has broken down from the megaphone pattern. He noted that without a quick recovery in the next day or two, this would suggest that BTC is entering a bear market. He opined that this bear market may be less intense due to diminishing returns and diminishing losses each cycle. Related Reading: 4 Bitcoin Indicators That Led To Market Rallies In The Last 2 Years Have Returned The analyst reiterated that if the Bitcoin price can reclaim the 50-week moving average before the week is over, it could signal a bullish outlook for the flagship crypto. However, until then, he remarked that it is better to assume that a bear market or bigger correction is the most likely scenario. Colin also raised the possibility of BTC following the ISM (business cycle) higher in a big move next year, after this corrective period. If that happens, then the bear market may be short-lived. At the time of writing, the Bitcoin price is trading at around $93,000, up almost 2% in the last 24 hours, according to data from CoinMarketCap. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Andrea|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|Colin|ISM|Peter Brandt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54662936,
+    "published": 1763654215000,
+    "title": "Tether backs Parfin to push institutional USDT adoption across Latin America",
+    "body": "The investment will help Parfin expand its onchain settlement tools and strengthen stablecoin infrastructure that is already driving institutional crypto use in LATAM.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54663387,
+    "published": 1763655146000,
+    "title": "What Next For XRP as Bitcoin Loses $90,000 Level Again",
+    "body": "Institutional activity declined significantly, and the market remains pressured by Bitcoin's weak structure and ETF outflows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
