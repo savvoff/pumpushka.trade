@@ -15,29 +15,29 @@ import { SITE, TRANSLATIONS } from 'src/constants';
 const PAGE_SIZE = SITE.postsPerPage;
 const lang = SITE.defaultLanguage;
 
-export async function getStaticPaths() {
-  const PAGE_SIZE = SITE.postsPerPage;
-  const lang = SITE.defaultLanguage;
-  const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+// export async function getStaticPaths() {
+//   const PAGE_SIZE = SITE.postsPerPage;
+//   const lang = SITE.defaultLanguage;
+//   const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
 
-  const cats = new Map<string, number>();
-  for (const e of entries) {
-    const c = (e.data.category || 'OTHER').toString().trim();
-    cats.set(c, (cats.get(c) ?? 0) + 1);
-  }
+//   const cats = new Map<string, number>();
+//   for (const e of entries) {
+//     const c = (e.data.category || 'OTHER').toString().trim();
+//     cats.set(c, (cats.get(c) ?? 0) + 1);
+//   }
 
-  const paths = [];
-  for (const [name, count] of cats.entries()) {
-    const totalPages = Math.max(1, Math.ceil(count / PAGE_SIZE));
-    for (let p = 2; p <= totalPages; p++) {
-      paths.push({
-        params: { category: name.toLowerCase(), page: String(p) },
-        props: { categoryName: name, page: p, totalPages },
-      });
-    }
-  }
-  return paths;
-}
+//   const paths = [];
+//   for (const [name, count] of cats.entries()) {
+//     const totalPages = Math.max(1, Math.ceil(count / PAGE_SIZE));
+//     for (let p = 2; p <= totalPages; p++) {
+//       paths.push({
+//         params: { category: name.toLowerCase(), page: String(p) },
+//         props: { categoryName: name, page: p, totalPages },
+//       });
+//     }
+//   }
+//   return paths;
+// }
 
 const blogTitle = TRANSLATIONS[lang].blog;
 const categoriesText = TRANSLATIONS[lang].categories;
@@ -46,20 +46,47 @@ const pageText = TRANSLATIONS[lang].page;
 const nextText = TRANSLATIONS[lang].next;
 const prevText = TRANSLATIONS[lang].prev;
 
-const { categoryName, page, totalPages } = Astro.props;
+// const { categoryName, page, totalPages } = Astro.props;
+const { category: categoryParam, page: pageParam } = Astro.params;
 
-const all = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
-  .filter(e => (e.data.category || 'OTHER').toString().toLowerCase() === categoryName.toLowerCase())
-  .sort((a,b) => (b.data.stickyWeight - a.data.stickyWeight)
+const category = String(categoryParam || '').toLowerCase();
+
+const page = pageParam ? Number(pageParam) || 1 : 1;
+
+const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+
+const all = entries.filter(p => {
+  const raw = p.data.category ?? 'OTHER';
+  const categories = Array.isArray(raw) ? raw : [raw];
+  return categories.some((c) => String(c).toLowerCase() === category);
+})
+.sort((a, b) => (b.data.stickyWeight - a.data.stickyWeight)
               || (b.data.publishedAt.getTime() - a.data.publishedAt.getTime()));
+
+const total = all.length;
+const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+
+let categoryName = category;
+for (const e of entries) {
+  const raw = e.data.category ?? 'OTHER';
+  const categories = Array.isArray(raw) ? raw : [raw];
+  for (const c of categories) {
+    const label = String(c);
+    if (label.toLowerCase() === category) {
+      categoryName = label;
+      break;
+    }
+  }
+  if (categoryName !== category) break;
+}
 
 const start = (page - 1) * PAGE_SIZE;
 const posts = all.slice(start, start + PAGE_SIZE);
 
-const pageHref = (p: number) => p === 1 ? `/blog/category/${categoryName.toLowerCase()}/` : `/blog/category/${categoryName.toLowerCase()}/page/${p}/`;
+const pageHref = (p: number) => p === 1 ? `/blog/category/${category}/` : `/blog/category/${category}/page/${p}/`;
 ---
 <BlogLayout 
-  title={`Category: ${categoryName} — ${pageText} ${page}`} 
+  title={`Category: ${categoryName} — ${pageText} ${page} | ${SITE.author}`} 
   description={ `Page ${page}` } 
   showSearch={ false }
   withSidebar={ true }
@@ -70,7 +97,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/category/${categoryName.toLower
       slot="breadcrumbs"
       items={[
         { label: blogTitle, href: '/blog', icon: 'tabler:library' },
-        { label: categoryName, href: `/blog/category/${categoryName.toLowerCase()}/`, icon: 'tabler:category' },
+        { label: categoryName, href: `/blog/category/${category}/`, icon: 'tabler:category' },
         { label: `${pageText} ${page}` },
       ]}
     />

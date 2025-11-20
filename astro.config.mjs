@@ -1,9 +1,9 @@
-// @ts-check
 import { defineConfig, passthroughImageService } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import icon from 'astro-icon';
 import pagefind from 'astro-pagefind';
 import sitemap from '@astrojs/sitemap';
+import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,7 +17,7 @@ export default defineConfig({
   image: {
     service: passthroughImageService(),
   },
-  output: 'static',
+  output: 'server',
   base: import.meta.env.MODE === 'development' ? '' : 'pumpushka.trade',
   devToolbar: {
     enabled: false
@@ -27,11 +27,16 @@ export default defineConfig({
   },
   site: 'https://www.pumpushka.trade',
   compressHTML: false,
+  adapter: vercel({
+    isr: {
+      expiration: 60 * 10, // 10 min
+    },
+  }),
   integrations: [
     tailwind(),
     pagefind(),
     sitemap({
-       i18n: {
+      i18n: {
         defaultLocale: 'uk',
         locales: {
           en: 'en-US',

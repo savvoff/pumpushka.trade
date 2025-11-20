@@ -15,6 +15,7 @@ import { SITE, TRANSLATIONS } from 'src/constants';
 import type { BlogPageContent } from 'src/types';
 import blog from '../../../content/pages/blog.json';
 
+export const prerender = true;
 const lang = 'en';
 const content = blog as BlogPageContent;
 const PAGE_SIZE = SITE.postsPerPage;

@@ -12,6 +12,7 @@ import type { HomePageContent } from 'src/types';
 import home from '../../content/pages/home.json';
 const content = home as HomePageContent;
 
+export const prerender = true;
 const lang = 'en';
 const t = useI18n(lang);
 const currTranslations = TRANSLATIONS[lang];

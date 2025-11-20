@@ -15,10 +15,12 @@ const { title } = Astro.props;
     <meta name="robots" content="noindex">
   </head>
 
-  <body class="flex flex-col min-h-screen">
-    <main aria-label="Content" data-pagefind-ignore="all">
+  <body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
+    <main class="my-auto" aria-label="Content" data-pagefind-ignore="all">
       <slot />
     </main>
   </body>
-
+  <script>
+		import '../scripts/app.ts';
+	</script>
 </html>

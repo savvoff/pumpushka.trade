@@ -87,10 +87,6 @@
   .navigation {
     z-index: 2;
   }
-  .pagefind-ui__drawer {
-    max-height: 20rem;
-    overflow: auto;
-  }
 }
 
 body {
@@ -152,6 +148,13 @@ body {
       @include burger-to-cross(theme('colors.black'));
 		}
 	}	
+}
+
+.pagefind-ui {
+  &__drawer {
+    max-height: 20rem;
+    overflow: auto;
+  }
 }
 
 @keyframes flying {

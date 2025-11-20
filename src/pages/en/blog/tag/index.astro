@@ -8,8 +8,8 @@ import RecentPosts from '@components/RecentPosts.astro';
 import { SITE, TRANSLATIONS } from 'src/constants';
 import { slugify } from 'scripts/slugify.mjs';
 
+export const prerender = true;
 const lang = 'en';
-
 const blogTitle = TRANSLATIONS[lang].blog;
 const categoriesText = TRANSLATIONS[lang].categories;
 const tagsText = TRANSLATIONS[lang].tags;

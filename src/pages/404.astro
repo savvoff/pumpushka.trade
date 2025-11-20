@@ -1,0 +1,20 @@
+---
+import { Icon } from 'astro-icon/components'
+import ErrorLayout from '@layouts/Error.astro';
+import { TRANSLATIONS } from 'src/constants';
+
+const backText = TRANSLATIONS['en'].back;
+---
+
+<ErrorLayout title="404 - not found">
+  <div class="container">
+    <div class="space-y-6 text-center">
+      <h1 class="font-heading text-8xl sm:text-9xl text-nowrap tracking-wider">404 :(</h1>
+      <h2 class="font-semibold text-3xl">Page not found</h2>
+      <button class="top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none mx-auto p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" onclick="APP.goBackSafely()" type="button">
+        <Icon name="tabler:arrow-back" class="size-4" />
+        { backText }
+      </button>
+    </div>
+  </div>
+</ErrorLayout>

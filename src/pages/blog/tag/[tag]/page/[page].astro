@@ -16,52 +16,52 @@ import { slugify } from 'scripts/slugify.mjs';
 const PAGE_SIZE = SITE.postsPerPage;
 const lang = SITE.defaultLanguage;
 
-export async function getStaticPaths() {
-  const lang = SITE.defaultLanguage;
-  const PAGE_SIZE = SITE.postsPerPage;
+// export async function getStaticPaths() {
+//   const lang = SITE.defaultLanguage;
+//   const PAGE_SIZE = SITE.postsPerPage;
 
-  const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
-  const tagIndex = new Map<string, { label: string; count: number }>();
+//   const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+//   const tagIndex = new Map<string, { label: string; count: number }>();
 
-  for (const e of entries) {
-    const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
-    for (const raw of tags) {
-      const label = String(raw);
-      const slug = slugify(label);
-      const prev = tagIndex.get(slug);
-      if (prev) {
-        prev.count += 1;
-      } else {
-        tagIndex.set(slug, { label, count: 1 });
-      }
-    }
-  }
+//   for (const e of entries) {
+//     const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
+//     for (const raw of tags) {
+//       const label = String(raw);
+//       const slug = slugify(label);
+//       const prev = tagIndex.get(slug);
+//       if (prev) {
+//         prev.count += 1;
+//       } else {
+//         tagIndex.set(slug, { label, count: 1 });
+//       }
+//     }
+//   }
 
-  const paths: Array<{
-    params: { tag: string; page: string };
-    props: { tagSlug: string; tagName: string; page: number; totalPages: number; lang: string; pageSize: number; totalCount: number };
-  }> = [];
+//   const paths: Array<{
+//     params: { tag: string; page: string };
+//     props: { tagSlug: string; tagName: string; page: number; totalPages: number; lang: string; pageSize: number; totalCount: number };
+//   }> = [];
 
-  for (const [slug, meta] of tagIndex.entries()) {
-    const totalPages = Math.max(1, Math.ceil(meta.count / PAGE_SIZE));
-    for (let p = 2; p <= totalPages; p++) {
-      paths.push({
-        params: { tag: slug, page: String(p) },
-        props: {
-          tagSlug: slug,
-          tagName: meta.label,
-          page: p,
-          totalPages,
-          lang,
-          pageSize: PAGE_SIZE,
-          totalCount: meta.count,
-        },
-      });
-    }
-  }
+//   for (const [slug, meta] of tagIndex.entries()) {
+//     const totalPages = Math.max(1, Math.ceil(meta.count / PAGE_SIZE));
+//     for (let p = 2; p <= totalPages; p++) {
+//       paths.push({
+//         params: { tag: slug, page: String(p) },
+//         props: {
+//           tagSlug: slug,
+//           tagName: meta.label,
+//           page: p,
+//           totalPages,
+//           lang,
+//           pageSize: PAGE_SIZE,
+//           totalCount: meta.count,
+//         },
+//       });
+//     }
+//   }
 
-  return paths;
-}
+//   return paths;
+// }
 
 
 const blogTitle = TRANSLATIONS[lang].blog;
@@ -71,15 +71,34 @@ const pageText = TRANSLATIONS[lang].page;
 const nextText = TRANSLATIONS[lang].next;
 const prevText = TRANSLATIONS[lang].prev;
 
-const { tag } = Astro.params;
-const { tagName, page, totalPages } = Astro.props;
+const { tag, page: pageParam } = Astro.params;
+// const { tagName, page, totalPages } = Astro.props;
 
-const all = (await getCollection('blog', ({ data }) => !data.draft && data.lang === lang))
-  .filter(p => {
+const page = pageParam ? Number(pageParam) || 1 : 1;
+
+const entries = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+
+const all = entries.filter(p => {
     const tags = Array.isArray(p.data.tags) ? p.data.tags : [];
     return tags.some(t => slugify(String(t)) === tag);
   }).sort((a, b) => (b.data.stickyWeight - a.data.stickyWeight)
               || (b.data.publishedAt.getTime() - a.data.publishedAt.getTime()));
+
+const total = all.length;
+const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+
+let tagName = tag;
+for (const e of entries) {
+  const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
+  for (const raw of tags) {
+    const label = String(raw);
+    if (slugify(label) === tag) {
+      tagName = label;
+      break;
+    }
+  }
+  if (tagName !== tag) break;
+}
 
 const start = (page - 1) * PAGE_SIZE;
 const posts = all.slice(start, start + PAGE_SIZE);
@@ -87,7 +106,7 @@ const posts = all.slice(start, start + PAGE_SIZE);
 const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag}/page/${p}/`;
 ---
 <BlogLayout 
-  title={`Tag: ${tagName} — ${pageText} ${page}`} 
+  title={`Tag: ${tagName} — ${pageText} ${page} | ${SITE.author}`} 
   description={ `Page ${page}` } 
   withSidebar={ true }
   showSearch={ false }

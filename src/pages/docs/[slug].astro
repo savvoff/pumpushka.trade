@@ -4,6 +4,8 @@ import DocsLayout from '@layouts/Docs.astro';
 import { buildDocsSidebar, pathToSlug } from '@utils/buildDocsSidebar';
 import { SITE } from 'src/constants';
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const docs = await getCollection(
     'docs',

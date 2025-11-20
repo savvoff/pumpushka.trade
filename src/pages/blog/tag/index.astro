@@ -8,8 +8,8 @@ import RecentPosts from '@components/RecentPosts.astro';
 import { SITE, TRANSLATIONS } from 'src/constants';
 import { slugify } from 'scripts/slugify.mjs';
 
+export const prerender = true;
 const lang = SITE.defaultLanguage;
-
 const blogTitle = TRANSLATIONS[lang].blog;
 const categoriesText = TRANSLATIONS[lang].categories;
 const tagsText = TRANSLATIONS[lang].tags;
@@ -30,7 +30,6 @@ const langPrefix = lang === SITE.defaultLanguage ? '' : `/${lang}`;
 
 let items = [...counts.entries()]
   .sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0]));
-
 
 function toPath(seg: string) {
   return `${langPrefix}/blog/tag/${slugify(seg)}/`;

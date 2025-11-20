@@ -17,19 +17,28 @@ import Cta1 from '@components/adv/Cta1.astro';
 import { SITE, TRANSLATIONS } from 'src/constants';
 import { slugify } from 'scripts/slugify.mjs';
 
-export async function getStaticPaths() {
-  const lang = SITE.defaultLanguage;
-  const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
-  return posts.map((p) => {
-    const base = pathToSlug(p.id, lang);
-    return {
-      params: { slug: base },
-      props: { entry: p },
-    }
-  });
+// export async function getStaticPaths() {
+//   const lang = SITE.defaultLanguage;
+//   const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === lang);
+//   return posts.map((p) => {
+//     const base = pathToSlug(p.id, lang);
+//     return {
+//       params: { slug: base },
+//       props: { entry: p },
+//     }
+//   });
+// }
+
+const { slug } = Astro.params;
+const fullSlug = Array.isArray(slug) ? slug.join('/') : slug;
+const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === SITE.defaultLanguage);
+const entry = posts.find((p) => pathToSlug(p.id, SITE.defaultLanguage) === fullSlug);
+
+if (!entry) {
+  return Astro.redirect('/404', 302);
 }
 
-const { entry } = Astro.props;
+// const { entry } = Astro.props;
 const { 
   title, 
   coverImage, 
