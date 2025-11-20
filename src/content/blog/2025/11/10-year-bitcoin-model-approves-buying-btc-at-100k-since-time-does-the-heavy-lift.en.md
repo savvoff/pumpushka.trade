@@ -1,10 +1,10 @@
 ---
 title: 10-year Bitcoin model approves buying BTC at $100K since time does ‘the heavy lifting’
-description: 'A new Bitcoin model suggests that long-term returns for Bitcoin remain consistently in the 300% range, irrespective of the entry price for investors. This raises questions about…'
+description: 'A new Bitcoin model suggests that long-term returns on Bitcoin investments can consistently reach around 300%, irrespective of the entry price for investors. This raises…'
 publishedAt: '2025-11-19T17:30:00.000Z'
-updatedAt: '2025-11-19T18:34:24.538Z'
+updatedAt: '2025-11-20T12:47:19.155Z'
 lang: en
-externalId: '54618095'
+externalId: '54654958'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -19,31 +19,31 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1631758346141-0ab4eb23d413?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1NzcyMzl8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1631758346141-0ab4eb23d413?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1NzcyMzl8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1631758346141-0ab4eb23d413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1NzcyMzl8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1631758346141-0ab4eb23d413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1NzcyMzl8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1631758346141-0ab4eb23d413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1NzcyMzl8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1631758346141-0ab4eb23d413'
+  raw: 'https://images.unsplash.com/photo-1616558932732-2dd0d3254b11?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4MTV8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1616558932732-2dd0d3254b11?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4MTV8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1616558932732-2dd0d3254b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4MTV8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1616558932732-2dd0d3254b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4MTV8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1616558932732-2dd0d3254b11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM2NDI4MTV8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1616558932732-2dd0d3254b11'
 ai:
   rewritten: true
-  expandedAt: '2025-11-19T18:34:24.538Z'
+  expandedAt: '2025-11-20T12:47:19.155Z'
   version: 1
 ---
 ## Overview
 
-A new Bitcoin model suggests that long-term returns for Bitcoin remain consistently in the 300% range, irrespective of the entry price for investors. This raises questions about the potential impact of shifting global liquidity on these outcomes.
+A new Bitcoin model suggests that long-term returns on Bitcoin investments can consistently reach around 300%, irrespective of the entry price for investors. This raises questions about how changing global liquidity might affect these outcomes.
 
-## What Happened
+## Analysis of the Bitcoin Model
 
-The model indicates that investors can expect substantial long-term returns from Bitcoin, emphasizing that time plays a crucial role in achieving these returns. The assertion that an entry price does not significantly affect long-term profitability is noteworthy, as it provides a different perspective on investment strategies in the cryptocurrency market.
+The Bitcoin model indicates that long-term returns are resilient, maintaining a consistent percentage return over extended periods. This means that whether an investor buys Bitcoin at a high or low price, the potential for significant returns remains stable. 
 
-The focus on shifting global liquidity suggests that external economic factors may influence the performance of Bitcoin and other cryptocurrencies. This consideration adds a layer of complexity to the discussions surrounding Bitcoin's future and its role as an asset class.
+The model emphasizes the importance of time in the investment process, suggesting that holding Bitcoin over the long term will yield favorable results for investors. However, it also prompts consideration of external factors, such as shifting global liquidity, which may influence the typical investment outcomes experienced in the past.
 
 ## Impact on the crypto market
 
-- The model reinforces the notion that long-term investments in Bitcoin could yield significant returns.
-- It prompts investors to consider the implications of global liquidity changes on their investment strategies.
-- The emphasis on time as a critical factor may influence how new and existing investors approach Bitcoin.
-- The findings could affect market sentiment regarding Bitcoin as a viable long-term investment option.
-- Discussions around Bitcoin's performance may shift, focusing more on external economic conditions and liquidity rather than solely on price entry points.
+- The model's assertion of stable long-term returns could encourage more investors to consider Bitcoin as a viable long-term investment.
+- The focus on entry price may lead to a shift in investor behavior, with more individuals willing to invest at higher prices.
+- Potential changes in global liquidity could introduce new variables that might affect Bitcoin's historical performance.
+- The emphasis on time as a crucial factor may promote a buy-and-hold strategy among investors. 
+- Overall investor sentiment may be shaped by the perception of Bitcoin's long-term stability and growth potential.
