@@ -35,7 +35,8 @@ const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang
 const entry = posts.find((p) => pathToSlug(p.id, SITE.defaultLanguage) === fullSlug);
 
 if (!entry) {
-  return Astro.redirect('/404', 302);
+  Astro.response.status = 404;
+  return;
 }
 
 // const { entry } = Astro.props;
@@ -67,7 +68,7 @@ function toPath(seg: string) {
 ---
 
 <BlogLayout 
-  title={ title } 
+  title={ `${title} | ${SITE.author}` } 
   description={ description ?? postText } 
   image={ coverImage?.regular ?? undefined }
   showToc={ Boolean(headings?.length) } 

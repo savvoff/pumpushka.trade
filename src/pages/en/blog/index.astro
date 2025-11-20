@@ -45,7 +45,7 @@ const pageHref = (p: number) => p === 1 ? `/${lang}/blog/` : `/${lang}/blog/page
 ---
 
 <BlogLayout
-  title={ blogTitle }
+  title={ `${blogTitle} | ${SITE.author}` }
   description={ blogDescription }
   withSidebar={ true }
   lang={ lang }

@@ -86,7 +86,7 @@ const posts = all.slice(start, start + PAGE_SIZE);
 const pageHref = (p: number) => p === 1 ? `/${lang}/blog/category/${category}/` : `/${lang}/blog/category/${category}/page/${p}/`;
 ---
 <BlogLayout 
-  title={`Category: ${categoryName} — ${pageText} ${page}`} 
+  title={`Category: ${categoryName} — ${pageText} ${page} | ${SITE.author}`} 
   description={ `Page ${page}` } 
   showSearch={ false }
   withSidebar={ true }

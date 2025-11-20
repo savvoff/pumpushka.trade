@@ -57,7 +57,8 @@ const total = all.length;
 const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 
 if (!Number.isFinite(page) || page < 2 || page > totalPages) {
-  return Astro.redirect('/404', 302);
+  Astro.response.status = 404;
+  return;
 };
 
 const start = (page - 1) * PAGE_SIZE;
@@ -67,7 +68,7 @@ const pageHref = (p: number) => p === 1 ? '/blog/' : `/blog/page/${p}/`;
 ---
 
 <BlogLayout
-  title={ `${blogTitle} — ${pageText} ${page}` }
+  title={ `${blogTitle} — ${pageText} ${page} | ${SITE.author}` }
   description={ blogDescription }
   showSearch={ true }
   withSidebar={ true }

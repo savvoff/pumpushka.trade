@@ -44,12 +44,12 @@ const content = { ...frontmatter, slug: slugReal };
 ---
 
 <DocsLayout
-  title={title}
-  description={description}
-  lang={lang}
-  content={content}
-  headings={headings}
-  sidebar={sidebar}
+  title={ `${title} | ${SITE.author}` }
+  description={ description }
+  lang={ lang }
+  content={ content }
+  headings={ headings }
+  sidebar={ sidebar }
 >
   <Content />
 </DocsLayout>
