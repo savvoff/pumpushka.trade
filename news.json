@@ -1,122 +1,5 @@
 [
   {
-    "id": 54587469,
-    "published": 1763517633000,
-    "title": "XRP, Bitcoin Now In “Good Buy Zone,” Says Analytics Firm",
-    "body": "On-chain analytics firm Santiment has revealed how Bitcoin, XRP, and other cryptocurrencies have dropped into a “buy zone” on a popular metric. MVRV Ratio Shows High Degree Of Short-Term Pain In Bitcoin & Altcoins In a new post on X, Santiment has discussed how the various assets in the cryptocurrency sector are looking based on the 30-day MVRV Ratio. The Market Value to Realized Value (MVRV) Ratio is an on-chain indicator that measures the ratio between the market cap and Realized Cap for a given coin. Related Reading: Bitcoin SSR Flashes Buy Signal: Rebound Incoming? The Realized Cap here refers to a capitalization model that calculates the asset’s total value by assuming the value of each individual token is equal to the price at which it was last transacted on the blockchain. In short, what this model captures is an estimation for the amount of capital that BTC investors as a whole have invested into the cryptocurrency. The usual market cap, on the other hand, represents the amount holders are carrying today. When the value of the MVRV Ratio is greater than 1, it means the market cap is greater than the Realized Cap. In other words, the overall network is in a state of profit. On the other hand, an indicator below this threshold implies the dominance of losses among investors. In the context of the current topic, the version of the MVRV Ratio that’s of interest is the 30-day one, tracking the profit-loss balance of the traders who purchased their coins within the past month. Below is the chart for the metric shared by Santiment that shows the trend in its value for five major cryptocurrencies: Bitcoin, XRP, Ethereum, Chainlink, and Cardano: As is visible in the graph, the 30-day MVRV Ratio has witnessed a plunge recently as the sector has gone through a bearish shift. Recent Bitcoin buyers are now about 11.5% underwater, while XRP ones are around 10.2%. Both of these are beyond the threshold that the analytics firm classifies as the boundary for a “good buy zone.” The 30-day investors have suffered even worse losses in the case of Ethereum, Cardano, and Chainlink, being down 15.4%, 19.7%, and 16.8%, respectively. All of these fall inside Santiment’s “extreme buy zone.” “In a zero sum game, buy assets when average trade returns of your peers are in extreme negatives,” noted the analytics firm. “The lower MVRV’s go, the higher the probability is of a rapid recovery.” Related Reading: Bitcoin Social Dominance Hits 4-Month High: What It Means It now remains to be seen whether market pain has been enough for XRP and others to cause a market rebound, or if more drawdown is coming. XRP Price At the time of writing, XRP is floating around $2.18, down more than 11% over the last week. Featured image from Dall-E, Santiment.net, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|bitcoin|Bitcoin MVRV|btc|xrp|XRP MVRV|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54588301,
-    "published": 1763518983000,
-    "title": "Canaan stock surges as Q3 revenue doubles on Bitcoin miner demand",
-    "body": "Shares in Canaan jumped 20% on Tuesday as the Bitcoin mining hardware maker reported its third-quarter revenues doubled from last year.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54588983,
-    "published": 1763520094000,
-    "title": "Kraken bags $800M for expansion plans at $20B valuation",
-    "body": "Crypto exchange Kraken has raised $800 million across two funding rounds, which boosted its valuation to $20 billion.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54591589,
     "published": 1763524823000,
     "title": "Ethereum Price Will Bottom This Week, Predicts Tom Lee",
@@ -2731,6 +2614,199 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54633966,
+    "published": 1763604057000,
+    "title": "Bitcoin Adoption Will Accelerate When Economics Make It Unavoidable — Here’s How",
+    "body": "The discourse around the next wave of Bitcoin adoption won’t be fueled by ideology or belief, but will be driven by pure economic advantage. As the global financial system moves toward higher costs, weaker currencies, and increasing inefficiencies, BTC is emerging as the most compelling alternative because it works more effectively. Economic Pressure Points That Will Accelerate Bitcoin Uptake In the rapidly evolving landscape of digital finance, the narrative surrounding Bitcoin’s future has often been intertwined with fervent ideological conviction. A media company, known as TFTC on X, has highlighted why BTC adoption won’t be driven by ideology, but rather by economics. Related Reading: Bitcoin Now Accepted By 4 Million Businesses, Thanks To Jack Dorsey Every merchant today is focused on handing over 2–3% of every transaction to payment processors and lives under the constant threat of chargebacks. Especially for small businesses, those costs and risks compound fast. However, BTC eliminates all of it with no processing fees, no chargebacks, just instant, final settlement straight into the merchant’s wallet. As Miles, a crypto enthusiast, consistently pointed out, the economic incentives are so overwhelmingly strong that adoption becomes inevitable. Merchants save thousands on fees, and they can pass those savings back to their customers through instant cashback rewards for using BTC. This dynamic creates a self-reinforcing flywheel effect, allowing Merchants to lower their operational costs and increase their profit margins. At the same time, consumers would get tangible rewards and better value for their money by simply using BTC. Both sides will benefit immensely, while the BTC network will grow stronger. When the underlying math is this incredibly favorable, adoption is no longer a philosophical stance, but it’s an economic certainty. The Path To Reclaiming Bullish Momentum While the economic incentives will be responsible for Bitcoin’s next rally, analyst Rekt Capital has revealed a historical demand area, marked in orange, which has played a pivotal role in dictating BTC’s next major trend. The first time price tapped this zone, it produced a sharp +20% rebound before breaking down. After this breakdown, the BTC price moved to lower levels to absorb the remaining buy-side liquidity. Related Reading: Bitcoin In Bullish Confluence: Death Cross And Key Support Signal Upside Once BTC reclaimed the orange region as support, it triggered a +37% rally to new all-time highs. On the second retest, this same support zone showed signs of strength. Currently, BTC is finding support at this same historical demand area. What would happen next will be critical in determining whether this demand area will continue to strengthen or if signs of weakening will finally emerge. Furthermore, BTC will need to break the multi-week downtrend, marked in black on the chart, to relieve fear of fading support. A rebound from this demand area that fails to break the multi-week downtrend would only result in a yield of +10% move, which suggests that the support zone may be weakening. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin network|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|merchants|Rekt Capital|TFTC",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54633694,
+    "published": 1763603574000,
+    "title": "Samourai Wallet CTO William Hill Sentenced to Four Years in Prison",
+    "body": "The developer will serve 48 months for running an unlicensed money transmitter, after his co-founder received five years earlier this month.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54634452,
+    "published": 1763604907000,
+    "title": "Asia Morning Briefing: Market Turns Defensive as Bitcoin Loses Its Bid",
+    "body": "With CryptoQuant flagging an exhausted demand wave and Polymarket traders clustering around an 85,000 retest, the market is trading without the catalysts that drove last year’s gains.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|btc|ETH|bear|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54634214,
+    "published": 1763604350000,
+    "title": "Warning: WhatsApp worm targets Brazilian crypto wallets, bank accounts",
+    "body": "Alert: A WhatsApp worm is spreading a banking trojan in Brazil, targeting crypto wallets and financial logins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54634897,
+    "published": 1763605854000,
+    "title": "Bitcoin Price Fails to Rebound, Keeping Struggle Intact Near Crucial Zones",
+    "body": "Bitcoin price found support near $88,500. BTC is now correcting some losses but faces many hurdles near $92,500 and $93,500. Bitcoin started a fresh decline below $93,000 and $92,500. The price is trading below $93,000 and the 100 hourly Simple moving average. There is a bearish trend line forming with resistance at $93,500 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $90,000 zone. Bitcoin Price Faces Hurdles Bitcoin price failed to stay in a positive zone above the $92,000 level. BTC bears remained active below $92,000 and pushed the price lower. The bears gained strength and were able to push the price below the $89,500 zone. A low was formed at $88,570, and the price is now attempting a recovery wave. There was a move above the 50% Fib retracement level of the recent decline from the $93,747 swing high to the $88,570 low. Bitcoin is now trading below $93,000 and the 100 hourly Simple moving average . Besides, there is a bearish trend line forming with resistance at $93,500 on the hourly chart of the BTC/USD pair. If the bulls attempt another recovery wave, the price could face resistance near the $92,500 level and the 76.4% Fib retracement level of the recent decline from the $93,747 swing high to the $88,570 low. The first key resistance is near the $93,500 level and the trend line. The next resistance could be $93,750. A close above the $93,750 resistance might send the price further higher. In the stated case, the price could rise and test the $94,500 resistance. Any more gains might send the price toward the $95,000 level. The next barrier for the bulls could be $95,500 and $96,200. Another Decline In BTC? If Bitcoin fails to rise above the $93,500 resistance zone, it could start another decline. Immediate support is near the $91,150 level. The first major support is near the $90,500 level. The next support is now near the $90,000 zone. Any more losses might send the price toward the $88,500 support in the near term. The main support sits at $86,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now losing pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $91,150, followed by $90,500. Major Resistance Levels – $92,500 and $93,500.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
