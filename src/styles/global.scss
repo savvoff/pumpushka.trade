@@ -87,6 +87,12 @@
   .navigation {
     z-index: 2;
   }
+  .pagefind-ui {
+    &__drawer {
+      max-height: 20rem;
+      overflow: auto;
+    }
+  }
 }
 
 body {

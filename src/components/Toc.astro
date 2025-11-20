@@ -1,17 +1,19 @@
 ---
 import { Icon } from 'astro-icon/components'
 import type { MarkdownHeading } from 'astro';
-import { SITE, TRANSLATIONS } from 'src/constants';
+import { SITE, TRANSLATIONS, type LangCode } from 'src/constants';
 
 type Props = {
   headings: MarkdownHeading[] | null;
+  lang?: LangCode;
 };
 
 const { 
-  headings = null
+  headings = null,
+  lang = SITE.defaultLanguage
 } = Astro.props;
 
-const title = TRANSLATIONS[SITE.defaultLanguage].toc;
+const title = TRANSLATIONS[lang].toc;
 
 const filtersHeadings = headings
   ? headings.filter((item) => item.depth === 2 || item.depth === 3)
