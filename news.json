@@ -1,87 +1,5 @@
 [
   {
-    "id": 54594882,
-    "published": 1763529866000,
-    "title": "Senator Tim Scott pushes for December vote on crypto market bill",
-    "body": "Senate Banking Chair Tim Scott says the committee could mark up a crypto market structure bill in December, sending it to President Donald Trump for early 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54595976,
-    "published": 1763532053000,
-    "title": "Bitcoin Short-Term Holders Panic: 65,200 BTC Sent To Exchanges At Loss",
-    "body": "On-chain data shows Bitcoin short-term holders have transferred a large amount of BTC at a loss to exchanges, a sign of another capitulation wave on the network. Bitcoin Short-Term Holders Are Depositing To Exchanges At Loss As explained by CryptoQuant community analyst Maartunn in a new post on X, short-term holders (STHs) have just made another wave of underwater exchange deposits. Related Reading: XRP, Bitcoin Now In “Good Buy Zone,” Says Analytics Firm The STHs refer to the investors who purchased their Bitcoin during the past 155 days. This cohort is generally considered to include the weak hands of the market, who easily sell at the sight of market volatility. Recently, the market has been witnessing a bearish shift, which is exactly the type of event that STHs would be expected to react to. There are several ways to track the moves being made by these investors, with one such being the data of their exchange inflow transactions. Usually, the STHs transfer their coins to centralized exchanges when they are looking to sell, so a spike in exchange deposits from the group can be a sign of a selloff. During downtrends, loss selling is the most common type of distribution from the STHs due to the fact that their cost basis is at recent prices, which tend to be higher in bearish phases. Now, here is the chart shared by Maartunn that shows the trend in the 24-hour loss exchange inflows made by the STHs over the past month: As displayed in the above graph, the Bitcoin STHs made a large amount of loss deposits to exchanges when the cryptocurrency’s price crashed to $94,000 last week. The same appears to have followed during the latest downward move in the asset. In total, STHs have sent 65,200 underwater tokens to the exchanges over the last 24 hours. At the current exchange rate, this amount is worth a whopping $6.08 billion. This new wave of capitulation wave in the STHs came as BTC dropped toward $89,000. Interestingly, what has followed this FUD from the STHs has so far been a rebound for the asset. On-chain analytics firm Glassnode has also shared data related to the STH capitulation in a new X post. Glassnode’s chart is for the amount of loss that the STHs as a whole are realizing through their transactions across the network. The 7-day exponential moving average (EMA) value of this metric is currently sitting at $427 million, which is the highest that it has been since November 2022, when the last bear market bottomed out. Related Reading: Bitcoin SSR Flashes Buy Signal: Rebound Incoming? “Panic selling is elevated & clearly rising, now exceeding the loss levels seen at the last two major lows of this cycle,” noted the analytics firm. BTC Price Bitcoin witnessed a bounce back to $92,800 during the past day. Featured image from Dall-E, Glassnode.com, CryptoQuant.com, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin capitulation|Bitcoin Loss Selling|Bitcoin short-term holders|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54598028,
     "published": 1763535657000,
     "title": "Kraken Achieves $20 Billion Valuation With $200 Million Investment From Citadel",
@@ -2959,6 +2877,82 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54641419,
+    "published": 1763616778000,
+    "title": "Bitcoin’s drawdown shouldn’t be blamed on US shutdown or AI: Analysts",
+    "body": "An onchain analyst said every time Bitcoin has seen a plunge like this, it has “allowed us to move higher.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54642333,
+    "published": 1763618483000,
+    "title": "XRP Slumps as $2.15 Level Collapses, Bearish Structure Deepens",
+    "body": "Despite no major catalysts, broader crypto market weakness and Bitcoin's 'Death Cross' contributed to XRP's decline.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|XRP News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
