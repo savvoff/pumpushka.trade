@@ -1,104 +1,5 @@
 [
   {
-    "id": 54610768,
-    "published": 1763558647000,
-    "title": "Ethereum Cofounder Issues Stark Crypto Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
-    "body": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54611753,
-    "published": 1763560865000,
-    "title": "This New Bitcoin, Crypto Wallet Scans Your Blood Vessels—And Needs Zero Passwords",
-    "body": "The G-Knot relies on finger vein-scanning technology. Its creators say it's safer, and easier to use, than established hardware wallets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54611674,
-    "published": 1763560585000,
-    "title": "HSBC to bring tokenized deposits to US and UAE as stablecoin race heats up",
-    "body": "HSBC is the latest megabank to double down on tokenized deposits versus stablecoins by preparing for new launches in the US and the UAE next year.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54612565,
     "published": 1763562646000,
     "title": "Red Alert: 40% Of Strategy’s Bitcoin Holdings Are Losing Money—Analysts",
@@ -3350,6 +3251,146 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54657988,
+    "published": 1763645391000,
+    "title": "B. Riley Cuts Digital Asset Treasury Company Price Targets as Crypto Slump Deepens",
+    "body": "The investment bank slashed price targets across so-called Datcos, citing sector-wide pressure and weaker accumulation trends.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Digital Asset Treasury|Bitmine|B. Riley|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54658613,
+    "published": 1763646362000,
+    "title": "Morning Minute: Ethereum Rolls Out 'Interop Layer' for Single Unified Chain Vision",
+    "body": "The Ethereum Interoperability Layer will let any Ethereum L2 talk to any other L2, resolving one of its main user experience issues.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54659046,
+    "published": 1763647200000,
+    "title": "World App Starts Virtual Bank Accounts Pilot for USDC Payroll Deposits",
+    "body": "The feature issues unique virtual account numbers, allowing users to receive direct deposits, like payroll payments, straight into the World App.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|World app|World Token|USDC|Sam Altman|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54659130,
+    "published": 1763647262000,
+    "title": "Record Financial Pushes Real-Time Royalties on Avalanche to Modernize Music Payments",
+    "body": "Record Financial’s push for on-chain royalties is gaining traction among labels and artists seeking faster, more transparent payouts.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Technology",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
       },
       {
         "TYPE": "122",
