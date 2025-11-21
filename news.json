@@ -1,128 +1,5 @@
 [
   {
-    "id": 54645356,
-    "published": 1763623528000,
-    "title": "Fed December Rate Cut Odds Collapse to 30%",
-    "body": "The probability of the Federal Reserve cutting interest rates has decreased significantly, now standing at 30%.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Federal Reserve|Interest rate|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 54645833,
-    "published": 1763624271000,
-    "title": "BlackRock Takes First Step Toward a Staked Ether ETF",
-    "body": "A new Delaware filing for the iShares Staked Ethereum Trust signals BlackRock’s intent to enter the yield-bearing ether market as issuers wait for SEC clarity on staking.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Ether|ether ETF|Staking|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54646636,
-    "published": 1763625605000,
-    "title": "BlackRock’s Bitcoin ETF Bleeds Over $500 Million In Its Biggest One-Day Outflow",
-    "body": "Nearly two years after the inception of the Bitcoin ETF sector in the United States, these funds are currently grappling with significant challenges, exacerbated by mounting concerns regarding a potential bear market in the coming months. This turmoil is exemplified by the BlackRock iShares Bitcoin Trust ETF (IBIT), which experienced its largest single-day withdrawal since launch, further contributing to the decline in Bitcoin’s price. Profit-Taking And Caution The recent outflows from BlackRock’s Bitcoin ETF highlight the severity of the current selloff within the Bitcoin market, which has experienced a substantial correction below the crucial $100,000 mark following a record high reached in October. Related Reading: Kraken Achieves $20 Billion Valuation With $200 Million Investment From Citadel This downturn emphasizes the widespread pullback affecting various risk assets, while gold has notably remained resilient. Some analysts suggest that these developments indicate a trend of investors shifting their exposure from Bitcoin to gold. “The crypto market entered a hangover in August,” said Thomas Perfumo, Global Economist at Kraken, in a recent interview with Reuters, noting that much of the earlier demand for Bitcoin had been fueled by borrowed funds. He added, “Momentum seemingly peaked during the summer. But the truth is this hangover trend started months ago.” Analysts have also pointed to profit-taking behaviors among long-term holders and increasing caution among Bitcoin ETF funds and digital asset treasury (DAT) firms, which had previously ramped up their acquisitions throughout the year. Brian Vieten, a research analyst at Siebert Financial, stated that Bitcoin treasury companies had collectively purchased nearly $50 billion worth of Bitcoin over the past year. Recently, however, many of these firms have begun trading at a discount to their net asset value, which could dampen market expectations for new Bitcoin purchases in the near term. Bitcoin ETF Inflows Plummet This shift occurs amid rising concerns among heavyweight investors regarding inflated valuations across various asset classes. José Torres, a senior economist at Interactive Brokers, noted that “an ongoing lack of speculative spirits is weighing on Bitcoin.” Related Reading: Bitcoin Dips Below $90,000—Yet Altcoins Remain Unscathed: Here’s Why Despite managing over $73 billion in assets, IBIT has seen a decline of 19% in the current quarter. Data from SoSoValue indicates that spot Bitcoin ETF funds collectively have recorded $2.59 billion in outflows this month alone. Leading the pack is BlackRock’s Bitcoin ETF, which has experienced $1.78 billion in outflows in November alone. The Fidelity Wise Origin Bitcoin Fund (FBTC) ranks second, with nearly $540 million in outflows. The turbulence isn’t limited to Bitcoin; the Ethereum exchange-traded fund sector also faced outflows, totaling approximately $74.2 million yesterday, with BlackRock selling off $165.1 million. On a more positive note, Solana spot ETFs reported net inflows of $30.09 million on Tuesday, primarily driven by Bitwise’s BSOL. This marks a major streak of 15 consecutive days of inflows for Solana. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin ETF|Bitcoin ETF news|Bitcoin news|bitcoin price|BlackRock Bitcoin|BlackRock Bitcoin fund|BlackRock IBIT|BlackRock Spot Bitcoin ETF|BTCUSDT|crypto|crypto news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54649976,
     "published": 1763631120000,
     "title": "Why Bitcoin Hyper’s $28M Presale Has Next 1000x Crypto Potential",
@@ -3701,6 +3578,94 @@
         "ID": 13,
         "NAME": "BLOCKCHAIN",
         "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54694171,
+    "published": 1763711018000,
+    "title": "Bitcoin ETFs Have Bled a Record $3.79B in November",
+    "body": "U.S.-listed spot BTC and ETH ETFs see record outflows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54694740,
+    "published": 1763712030000,
+    "title": "Bitcoin Bear Market Confirmed? Expert Predicts Price Target Of $40,000 By Late 2026",
+    "body": "Bitcoin (BTC) experienced a slight rebound after reaching a near eight-month low of $87,500 on Wednesday. By Thursday, the leading crypto surged back toward $90,000. However, market expert Leshka warns that this brief increase may signal only the start of a new distribution phase for Bitcoin, as selling pressure continues to build. Possible Bottom Between $40,700 And $47,500 In a recent post on X (formerly Twitter), Leshka assessed Bitcoin’s position on the weekly chart, identifying critical demand zones between $40,700 and $47,500 that could take shape throughout 2026. She suggested that these levels might represent the bottom for Bitcoin during the anticipated bear market. If such forecasts materialize, this could indicate price drops of 47% to 54% from current values. Related Reading: CEO Cuts Cardano Founder’s Bitcoin Price Forecast, Warns Bear Market Just Starting Despite these potential lows, Leshka remains optimistic about Bitcoin’s long-term trajectory. She mentioned that if these price targets are met, Bitcoin could rebound dramatically, reaching new all-time highs of around $150,000 by 2027. In the immediate time, however, bears appear to have the upper hand in the market. Analyst Ali Martinez recently noted that the TD Sequential indicator, which is designed to signal potential market reversals, has flashed a sell signal for Bitcoin. Historically, this indicator has been a reliable predictor of price corrections, with past occurrences resulting in drops of 78% and 32%. A median correction based on these previous downturns would indicate a possible price target of $40,000, aligning with Leshka’s forecasts for Bitcoin. Analyst Predicts Temporary Rally For Bitcoin Technical analysis from Crypto Feras also contributes to this bearish sentiment. He pointed out that Bitcoin has breached its 50-day moving average (MA50) placed above $102,000, suggesting that a period of reflection is in order. Feras indicated that the exponential moving averages (EMA89-99) could provide initial support at $88,500, typically facilitating a short-term “bearish retest” of the MA50 after a breakdown. The analyst noted that this potential rally usually lasts for two to five weeks and may see both Bitcoin and altcoins behave positively, even though investors might misinterpret it as a return to a bull market. Related Reading: BlackRock’s Bitcoin ETF Bleeds Over $500 Million In Its Biggest One-Day Outflow Additional support is noted at $84,000, which could be briefly retested. Feras suggested that this scenario might represent a final bear trap before a more prolonged downturn, a historical trend that could repeat itself. He also addressed the question of when the market might shift back into “bull mode.” According to Feras, Bitcoin will remain in a bear market as long as it trades below its weekly MA50. Once Bitcoin reclaims this important moving average, discussions regarding a potential bull market or continuation of a bull trend could resume. Until that happens, he emphasized that it is premature to label Bitcoin’s current phase as anything but bearish. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
