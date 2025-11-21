@@ -1,28 +1,5 @@
 [
   {
-    "id": 54674161,
-    "published": 1763675332000,
-    "title": "How Crypto Traders Navigate Volatility And Mental Strain",
-    "body": "Crypto markets have entered another period of sharp volatility. For traders behind these positions, the damage extends beyond financial loss.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 54676536,
     "published": 1763679657000,
     "title": "Is XRP Entering A Bear Market? Analyst Breaks Down The Truth",
@@ -3454,6 +3431,35 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54722801,
+    "published": 1763760023000,
+    "title": "The Best Green Blockchain Initiatives To Watch In 2026",
+    "body": "Green blockchain is transforming crypto. Explore energy-efficient networks, ESG-driven innovation, and the sustainability trends shaping 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
       },
       {
         "TYPE": "122",
