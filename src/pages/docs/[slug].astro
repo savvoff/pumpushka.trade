@@ -27,8 +27,7 @@ const { slug: slugReal } = Astro.params;
 const entry = await getEntry('docs', slug);
 
 if (!entry) {
-  Astro.response.status = 404;
-  return;
+  return Astro.redirect('/404', 302);
 }
 
 const rendered = await entry.render();

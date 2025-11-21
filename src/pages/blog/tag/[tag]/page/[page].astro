@@ -90,8 +90,8 @@ const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 let tagName = tag;
 for (const e of entries) {
   const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
-  for (const raw of tags) {
-    const label = String(raw);
+  for (const t of tags) {
+    const label = String(t);
     if (slugify(label) === tag) {
       tagName = label;
       break;

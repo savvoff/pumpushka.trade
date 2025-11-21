@@ -35,8 +35,7 @@ const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang
 const entry = posts.find((p) => pathToSlug(p.id, SITE.defaultLanguage) === fullSlug);
 
 if (!entry) {
-  Astro.response.status = 404;
-  return;
+  return Astro.redirect('/404', 302);
 }
 
 // const { entry } = Astro.props;

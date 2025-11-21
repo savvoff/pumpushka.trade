@@ -33,10 +33,10 @@ const PAGE_SIZE = SITE.postsPerPage;
 
 // const { totalPages } = Astro.props;
 const page = Number(Astro.params.page);
-if (!Number.isFinite(page) || page < 2) {
-  Astro.response.status = 404;
-  return;
-};
+// if (!Number.isFinite(page) || page < 2) {
+//   Astro.response.status = 404;
+//   return;
+// };
 
 const blogTitle = TRANSLATIONS[lang].blog;
 const blogDescription = TRANSLATIONS[lang].blogDescription;
@@ -58,8 +58,7 @@ const total = all.length;
 const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 
 if (!Number.isFinite(page) || page < 2 || page > totalPages) {
-  Astro.response.status = 404;
-  return;
+  return Astro.redirect('/404', 302);
 };
 
 

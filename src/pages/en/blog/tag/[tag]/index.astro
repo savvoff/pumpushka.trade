@@ -57,13 +57,14 @@ let tagCount = 0;
 
 for (const e of entries) {
   const tags = Array.isArray(e.data.tags) ? e.data.tags : [];
-  for (const raw of tags) {
-    const label = String(raw);
+  for (const t of tags) {
+    const label = String(t);
     if (slugify(label) === tag) {
       tagName = label;
       tagCount += 1;
     }
   }
+  if (tagName !== tag) break;
 }
 
 const all = entries.filter(p => {

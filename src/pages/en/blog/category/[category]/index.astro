@@ -45,14 +45,16 @@ let categoryName = category;
 let categoryCount = 0;
 
 for (const e of entries) {
-  const tags = Array.isArray(e.data.category) ? e.data.category : [];
-  for (const raw of tags) {
-    const label = String(raw);
-    if (label === category) {
+  const raw = e.data.category ?? 'OTHER';
+  const categories = Array.isArray(raw) ? raw : [raw];
+  for (const c of categories) {
+    const label = String(c);
+    if (label.toLowerCase() === category) {
       categoryName = label;
       categoryCount += 1;
     }
   }
+  if (categoryName !== category) break;
 }
 
 const all = entries.filter(post => (post.data.category || 'OTHER').toString().toLowerCase() === category) 

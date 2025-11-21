@@ -57,8 +57,7 @@ const total = all.length;
 const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 
 if (!Number.isFinite(page) || page < 2 || page > totalPages) {
-  Astro.response.status = 404;
-  return;
+  return Astro.redirect('/404', 302);
 };
 
 const start = (page - 1) * PAGE_SIZE;
