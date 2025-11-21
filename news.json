@@ -1,139 +1,5 @@
 [
   {
-    "id": 54671420,
-    "published": 1763670386000,
-    "title": "Elon Musk Is the Most Fit, Intelligent and Handsome Person Alive—Says Grok AI",
-    "body": "Elon Musk's chatbot went viral for declaring him the most wonderful man on earth—fitter than LeBron, smarter than da Vinci, and definitely not biased at all.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54672835,
-    "published": 1763673008000,
-    "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Continues: TechCrunch",
-    "body": "The CFTC-regulated exchange is gaining ground on crypto-native Polymarket, offering event contracts with fiat access and legal clarity.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Kalshi|Polymarket|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 54672891,
-    "published": 1763672975000,
-    "title": "AI hedge fund Numerai wins backing from top university endowments, token soars",
-    "body": "Numerai's NMR token jumped over 40% after it announced a new funding round led by major university endowments, pushing the hedge fund to a $500M valuation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54673130,
-    "published": 1763673300000,
-    "title": "ETH DATs have a problem: Ether’s crash below $3K vaporized a year’s worth of gains",
-    "body": "Ethereum treasury companies are holding millions of dollars in unrealized losses, and the falling mNAV valuations and ETH’s potential to fall below $2,500 could further complicate matters.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54674161,
     "published": 1763675332000,
     "title": "How Crypto Traders Navigate Volatility And Mental Strain",
@@ -153,53 +19,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54674506,
-    "published": 1763673300000,
-    "title": "ETH DATs have a problem: Ether’s crash below $3K vaporized a year’s worth of gains",
-    "body": "Ether treasury companies are holding millions of dollars in unrealized losses, and the falling mNAV valuations and ETH’s potential to fall below $2,500 may further complicate matters.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -1113,29 +932,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54690829,
-    "published": 1763672975000,
-    "title": "AI hedge fund Numerai wins backing from top university endowments, token soars",
-    "body": "Numerai’s NMR token jumped over 40% after it announced a new funding round led by major university endowments, pushing the hedge fund to a $500 million valuation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
       }
     ]
   },
@@ -3488,6 +3284,176 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54720936,
+    "published": 1763756680000,
+    "title": "Coinbase ’doubles down’ on Solana with latest DEX acquisition",
+    "body": "The crypto exchange purchased Vector for an undisclosed amount, the latest acquisition by Coinbase in 2025 after Deribit, Echo and others.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54720935,
+    "published": 1763754565000,
+    "title": "Bitcoin’s death cross confirmation may mean BTC is officially in a bear market",
+    "body": "A rare death cross has been confirmed on Bitcoin’s price chart, suggesting that the bear market has just started. Will dip buyers be able to defy the trend?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54722061,
+    "published": 1763758803000,
+    "title": "XRP Price Has Surged 15% Anytime This Metric Appeared In The Past",
+    "body": "Analysts note that the XRP price is showing unusual resilience, as a key metric previously seen before short-term rebounds reappears on its chart. In a new technical analysis, crypto market expert Dom points out that the latest market setup mirrors conditions that have led to at least a 10% surge each time this pattern emerges. Recurring Metric Signals 10% XRP Price Surge In an X post released while XRP was still trading around $2.19, Dom highlighted a familiar technical signal, noting that past appearances of a bid-skew metric on the chart have consistently led to sharp price recoveries. As a reflection of its previous stability, the analyst stated the XRP had displayed incredible strength over the last several days, trading above the $2 level. Related Reading: Analyst Claims XRP Price Will Surge To $220 Due To ETFs, But Is This Possible? Even as the Bitcoin price plummeted by more than $15,000 in the past few days, the analyst pointed out that XRP had maintained its local low from November 5. The accompanying chart highlights this divergence between XRP and BTC, where the altcoin’s structure holds its range despite the widespread market downturn. Historically, when XRP has shown such strength during periods of Bitcoin weakness, Dom notes that it has signaled countless price reversals. The analyst further highlighted that over the past three months, every time the recurring bid-skew pattern appeared, XRP followed with an upswing of at least 10%. If the historical metric holds, Dom’s analysis suggests there could be a continuation of XRP’s recent resilience, potentially driving its price up by 10% to at least $2.09. At the time of the analyst’s post, this target may have been higher, since XRP was still trading above $2. However, the cryptocurrency has since fallen below that threshold, reaching $1.9 at the time of writing. XRP CVD Data Reveals Controlled Selling Pressure In a subsequent update, Dom shared a second chart, showing that XRP’s price had declined from its previous level of $2.19 to $2.01. He highlighted that this negative price action serves as a reminder that market dynamics don’t always follow textbook patterns. The recent decline in XRP also falls into roughly 15% of cases where typical orderbook signals fail to predict short-term moves. Related Reading: Here’s How High The XRP Price Needs To Be To Flip Bitcoin In the Binance spot market, Dom points out evidence of “controlled” selling rather than forced liquidations. Unlike earlier periods where strong bids consistently led to upward price momentum, XRP’s Spot Cumulative Volume Delta (CVD) curves on Binance, Coinbase, Bybit, and other exchanges are sloping downwards. Moreover, among all the crypto exchanges, Binance has recorded the most decline. Dom notes that controlled selling can be seen clearly in the smoothed cumulative volume lines on the chart. He warns that these developments are tricky to time. Moreover, without a sudden climax or sharp liquidation, bottoming could form slowly, making entries based on traditional reversal signals more challenging. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|altcoin|Binance|bybit|coinbase|CVD|Dom|Ripple|xrp|xrp news|XRP Price|XRP’s Spot Cumulative Volume Delta|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54721969,
+    "published": 1763758475000,
+    "title": "How low can XRP price go after falling under $2?",
+    "body": "XRP price crumples toward new lows as Bitcoin and ETH liquidations surge. Is the altcoin’s next stop $0.88?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
