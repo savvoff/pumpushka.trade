@@ -1,10 +1,10 @@
 ---
 title: Plume CEO tips RWA to grow 3-5x in 2026 as it grows past crypto natives
-description: 'Plume has made a significant announcement regarding its Nest staking protocol. The company revealed that Securitize, a tokenization platform supported by major financial…'
+description: 'Plume has announced a significant development involving Securitize, a tokenization platform supported by major financial institutions. This collaboration aims to deploy…'
 publishedAt: '2025-11-21T06:22:11.000Z'
-updatedAt: '2025-11-21T06:37:15.542Z'
+updatedAt: '2025-11-21T07:23:21.723Z'
 lang: en
-externalId: '54691430'
+externalId: '54692775'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,33 +17,33 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1602272367965-c762564d2932?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDY5MDh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1602272367965-c762564d2932?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDY5MDh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1602272367965-c762564d2932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDY5MDh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1602272367965-c762564d2932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDY5MDh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1602272367965-c762564d2932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDY5MDh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1602272367965-c762564d2932'
+  raw: 'https://images.unsplash.com/photo-1745270917449-c2e2c5806586?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDk3NDV8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDk3NDV8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDk3NDV8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDk3NDV8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1745270917449-c2e2c5806586?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDk3NDV8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1745270917449-c2e2c5806586'
 ai:
   rewritten: true
-  expandedAt: '2025-11-21T06:37:15.542Z'
+  expandedAt: '2025-11-21T07:23:21.723Z'
   version: 1
 ---
 ## Overview
 
-Plume has made a significant announcement regarding its Nest staking protocol. The company revealed that Securitize, a tokenization platform supported by major financial institutions, has signed a deal to deploy institutional-grade assets on Plume's platform.
+Plume has announced a significant development involving Securitize, a tokenization platform supported by major financial institutions. This collaboration aims to deploy institutional-grade assets on Plume's Nest staking protocol, indicating a strategic move beyond the traditional crypto audience.
 
 ## What Happened
 
-On Wednesday, Plume disclosed that Securitize, which is backed by BlackRock and Morgan Stanley, will be utilizing its Nest staking protocol for deploying institutional-grade assets. This collaboration highlights the growing interest from traditional financial institutions in the crypto space, specifically in staking and tokenization.
+Plume has entered into a partnership with Securitize, which is known for its backing by prominent entities such as BlackRock and Morgan Stanley. This deal focuses on the deployment of institutional-grade assets, suggesting a shift towards a more sophisticated and wider market engagement. By utilizing Plume’s Nest staking protocol, Securitize aims to enhance the offerings available to institutional investors, thereby expanding the potential user base beyond just crypto enthusiasts.
 
 ## Why It Matters
 
-The partnership between Plume and Securitize signifies a notable shift in the landscape of digital assets. By integrating institutional-grade assets into the Plume ecosystem, this collaboration may attract a wider array of users beyond the typical crypto-native audience. 
+The partnership between Plume and Securitize highlights a growing trend in the cryptocurrency landscape where traditional financial institutions are increasingly engaging with blockchain technology. This move not only legitimizes the use of crypto-related platforms for institutional investments but also signals a maturation of the market as it attracts larger players with significant resources.
 
 ## Impact on the crypto market
 
-- The collaboration may enhance the credibility of staking protocols by involving established financial institutions.
-- Increased participation from institutional investors could lead to more robust market dynamics.
-- The deployment of institutional-grade assets may encourage other platforms to explore partnerships with traditional finance players.
-- This move reflects a growing trend of convergence between traditional finance and the cryptocurrency sector.
-- The deal could potentially lead to increased liquidity and investment in the crypto market as institutional players engage more actively.
+- The collaboration could enhance the credibility of staking protocols among institutional investors.
+- It may lead to increased liquidity and stability in the crypto market as more institutional-grade assets are introduced.
+- The partnership reflects a broader trend of traditional finance integrating with blockchain technology.
+- It could pave the way for further institutional investments in crypto-related projects.
+- The growth of institutional-grade offerings may attract a new demographic of investors to the crypto space.
