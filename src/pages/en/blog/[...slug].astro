@@ -31,8 +31,8 @@ import { slugify } from 'scripts/slugify.mjs';
 
 const { slug } = Astro.params;
 const fullSlug = Array.isArray(slug) ? slug.join('/') : slug;
-const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === SITE.defaultLanguage);
-const entry = posts.find((p) => pathToSlug(p.id, SITE.defaultLanguage) === fullSlug);
+const posts = await getCollection('blog', ({ data }) => !data.draft && data.lang === 'en');
+const entry = posts.find((p) => pathToSlug(p.id, 'en') === fullSlug);
 
 if (!entry) {
   Astro.response.status = 404;
