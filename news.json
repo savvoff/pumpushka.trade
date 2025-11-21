@@ -1,122 +1,5 @@
 [
   {
-    "id": 54670317,
-    "published": 1763667957000,
-    "title": "Bitcoin for taxes? Proposed bill would let Americans pay the IRS in BTC",
-    "body": "Tax revenue denominated in Bitcoin would be funneled into the US strategic BTC reserve and would not trigger a taxable event for the payer.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54670262,
-    "published": 1763667789000,
-    "title": "Michael Saylor’s Strategy Risks Losing Billions in Index Flows",
-    "body": "Michael Saylor’s Strategy Inc. is among the most exposed to the crypto slump — and now faces the real risk of being dropped from the benchmark indices that have underpinned its presence in mainstream portfolios.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54670711,
-    "published": 1763669082000,
-    "title": "Bitcoin Billionaire Dumps Entire $1.3 Billion BTC Stash After 14 Years: Arkham",
-    "body": "A Bitcoin whale appears to have sold his entire crypto stash for $1.3 billion—14 years after first buying BTC, says Arkham Intelligence.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 199,
-        "NAME": "ARKM",
-        "CATEGORY": "ARKM"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54671420,
     "published": 1763670386000,
     "title": "Elon Musk Is the Most Fit, Intelligent and Handsome Person Alive—Says Grok AI",
@@ -2274,52 +2157,6 @@
     ]
   },
   {
-    "id": 54705717,
-    "published": 1763666549000,
-    "title": "Advocacy groups urge Trump to intervene in the Roman Storm retrial",
-    "body": "Already convicted of one felony charge and facing a possible retrial on two others, the Tornado Cash co-founder’s future is uncertain.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54669531,
-    "published": 1763666549000,
-    "title": "Advocacy groups urge Trump to intervene in the Roman Storm retrial",
-    "body": "Already convicted of one felony charge and facing a possible retrial on two others, the Tornado Cash co-founder’s future is uncertain.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54706073,
     "published": 1763732088000,
     "title": "Bitcoin Bounces Above $84K as Fed's Williams Puts December Rate Cut Back on Table",
@@ -3461,6 +3298,170 @@
     "title": "Bitcoin’s ‘fastest bear market’ hides potentially positive year-end outcome for BTC",
     "body": "Bitcoin’s abrupt drop to $80,000 shocked traders, but back-tested data on 105 indicators suggests the market washout is preparing BTC for a longer-term rally to new highs.",
     "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54718719,
+    "published": 1763752625000,
+    "title": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
+    "body": "Bitcoin is crashing into dangerous territory — and options-fueled selling is adding to the volatility.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54719349,
+    "published": 1763753569000,
+    "title": "Wall Street’s Crypto Engine Loses Power as ETFs Shed Millions",
+    "body": "For a market that treats Bitcoin ETF flows as an indicator of demand for the underlying token, recent outflows from these funds are stoking fears that the decline in crypto prices has further to go.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54719989,
+    "published": 1763755238000,
+    "title": "STH Panic Emerges as Bitcoin Crashes To $81K: Realized P/L Turns Negative For The First Time This Cycle",
+    "body": "Bitcoin is struggling to find support after losing the $85,000 level and plunging to $81,000, marking its weakest point since early spring. Bulls have clearly lost control of the trend, and fear now dominates the market, with sentiment rapidly shifting from caution to outright panic. Many traders are calling for a confirmed bear market, while others argue the move is an orchestrated shakeout designed to flush out weak hands before the next macro leg. Related Reading: Bitcoin OG Owen Gunden Deposits Final 2,499 BTC ($228M) to Kraken – Details Amid the chaos, top analyst Axel Adler shared new insights that highlight a structural shift beneath the surface. Until just yesterday, short-term holders (STHs) appeared relatively stable despite the correction. However, the situation has now changed dramatically. The Realized P/L component — which measures whether investors are selling at a profit or loss — has fallen to –1, signaling broad loss realization across the STH cohort. This metric turning negative for the first time in weeks confirms that capitulation among recent buyers is accelerating, a dynamic that historically increases pressure on the spot market. Although the sell-off is severe, some analysts argue that these conditions resemble previous manipulation-driven liquidity grabs, where deep corrections eventually set the foundation for sharp rebounds. STH Panic Mirrors Past Cyclical Bottom Signals Adler explains that the latest spike in short-term holder (STH) panic is not an isolated event — it closely resembles patterns seen during previous market bottoms. The chart clearly shows that similar surges in STH loss realization occurred in July 2021 and again throughout the 2022–2023 bear market, each time leading to accelerated selling, liquidity stress, and deeper short-term corrections. These phases were marked by fear-driven capitulation, where recent buyers dumped coins rapidly, often exaggerating the downside but ultimately exhausting available sell pressure. Today, that same structure is reappearing. With STH Realized P/L dropping sharply and the STH-MVRV ratio sitting below 1, fear has pushed many recent entrants into loss, triggering panic moves. Adler notes that this kind of forced selling tends to cluster near the end of corrections, not the beginning. Once STHs capitulate, the market often shifts into a period of stabilization as long-term holders absorb supply. Despite extreme sentiment across social and derivative markets, several analysts argue that this setup could create the conditions for a recovery. Historically, when STH panic peaks and long-term holders remain steady, Bitcoin has often staged strong rebounds in the weeks that follow. Related Reading: Bitcoin Mean Reversion Oscillator Prints First Green Oversold Bar in Months – A Classic Bull-Market Bottom Signal BTC Testing Key Demand Levels Bitcoin has entered a steep downtrend, and the chart clearly reflects the intensity of the current sell-off. BTC has dropped to the $83K–$84K range, marking one of the sharpest declines of this cycle. The breakdown accelerated once price lost the $92K and $90K supports, and the chart now shows a near-vertical move to the downside — a classic sign of capitulation-driven selling. On the daily timeframe, BTC is trading well below the 50-day, 100-day, and 200-day moving averages. All three have begun sloping downward, forming a full bearish alignment that signals weakening momentum across multiple time horizons. Price is currently attempting to stabilize around the 200-day moving average (red line), one of the last major trend supports in a macro bull structure. A clean close below this level could open the door to deeper downside. Related Reading: Bitcoin Capitulation Deepens Around $90K Level: Classic Late-Stage Fear Structure Emerging Volume has spiked aggressively over the past sessions, confirming panic participation. Unlike earlier corrections, this one shows sustained distribution without meaningful bounces, suggesting forced selling from short-term holders and large entities. However, the chart also shows early signs of selling exhaustion. Candles are printing long lower wicks, and intraday volatility has increased — conditions that often precede a temporary bottom. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin news|Bitcoin STH|Bitcoin STH realized losses|Bitcoin sth Realized PrIce|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54719727,
+    "published": 1763754565000,
+    "title": "Bitcoin’s death cross confirmation could mean BTC is officially in a bear market",
+    "body": "A rare death cross has been confirmed on Bitcoin’s price chart, suggesting that the bear market has just started. Will dip buyers be able to defy the trend?",
+    "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "",
     "lang": "EN",
