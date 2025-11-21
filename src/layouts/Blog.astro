@@ -2,6 +2,7 @@
 import { Icon } from 'astro-icon/components';
 import Search from 'astro-pagefind/components/Search';
 import Analytics from '@vercel/analytics/astro';
+import SpeedInsights from '@vercel/speed-insights/astro';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import Author from '@components/Author.astro';
@@ -106,6 +107,7 @@ const t = useI18n(lang);
     </footer>
     <ToTopButton />
     <Analytics />
+    <SpeedInsights />
   </body>
   <script is:inline>
     window.addEventListener('DOMContentLoaded', () => {
