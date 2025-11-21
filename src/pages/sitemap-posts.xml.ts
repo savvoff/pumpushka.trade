@@ -51,7 +51,8 @@ export const GET: APIRoute = async ({ site }) => {
       });
     }
     if (g.uk) {
-      const u = new URL(`/uk/blog/${g.uk.slug}/`, site);
+      // default lang without locale
+      const u = new URL(`/blog/${g.uk.slug}/`, site);
       variants.push({
         lang: 'uk',
         loc: u.toString(),
