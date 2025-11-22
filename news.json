@@ -1,116 +1,5 @@
 [
   {
-    "id": 54716527,
-    "published": 1763749283000,
-    "title": "ICP Breaks Major Support as Volume Spike Confirms Accelerated Downtrend",
-    "body": "A steep selloff pushed ICP below the $4.33 floor, with exceptional volume marking the session’s decisive breakdown.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 82,
-        "NAME": "ICP",
-        "CATEGORY": "ICP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54717930,
-    "published": 1763751600000,
-    "title": "Bitcoin rout continues as crypto treasuries face reckoning: Finance Redefined",
-    "body": "Growing unrealized losses and falling NAV levels are threatening corporate crypto treasuries, making it difficult to raise capital for future digital asset investments.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54717800,
-    "published": 1763751337000,
-    "title": "Bitcoin’s ‘fastest bear market’ hides potentially positive year-end outcome for BTC",
-    "body": "Bitcoin’s abrupt drop to $80,000 shocked traders, but back-tested data on 105 indicators suggests the market washout is preparing BTC for a longer-term rally to new highs.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54718719,
     "published": 1763752625000,
     "title": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
@@ -1524,6 +1413,135 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54756852,
+    "published": 1763835977000,
+    "title": "Bitcoin ETFs Just Had One of Their Worst Weeks on Record, Bleeding $1.2 Billion",
+    "body": "Spot Bitcoin funds are closing in on $4 billion of outflows so far in November, with investors cashing out as the price of BTC dives.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54757081,
+    "published": 1763836564000,
+    "title": "Hobbyist Miner Beats \"1 in 180 Million Odds\" to Win $265K Bitcoin Block Using Just One Old ASIC",
+    "body": "The winning miner controls just 0.0000007% of Bitcoin’s total network hashpower, which recently hit a record 855.7 exahashes per second.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54757923,
+    "published": 1763838072000,
+    "title": "Crypto Treasuries Are Fading—And Staking ETFs Will 'Eat Their Lunch': SOL Strategies CEO",
+    "body": "SOL Strategies Interim CEO Michael Hubbard believes that there's \"there's no sustainable market\" for pure crypto treasuries. Here's why.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
       },
       {
         "TYPE": "122",
