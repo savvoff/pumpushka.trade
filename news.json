@@ -1,257 +1,5 @@
 [
   {
-    "id": 54710091,
-    "published": 1763738749000,
-    "title": "Fanatics Enters Prediction Markets via Crypto.com Partnership",
-    "body": "The product is set to launch in the next couple weeks, Fanatics CEO Michael Rubin said on CNBC.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Prediction Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54710395,
-    "published": 1763739234000,
-    "title": "Bitcoin, XRP and Dogecoin Pummeled as Crypto Liquidations Top $2.2 Billion",
-    "body": "Bitcoin is starting to recover after sliding to $81,000 earlier Friday, while coins like Ethereum and XRP have fallen harder on the day.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54711393,
-    "published": 1763740839000,
-    "title": "Only An Asteroid Can Sink MSTR’s Bitcoin Bet, CryptoQuant CEO Says",
-    "body": "CryptoQuant founder and CEO Ki Young Ju pushed back on a renewed wave of forced Bitcoin liquidation and bankruptcy chatter around Strategy (formerly MicroStrategy, MSTR), arguing that the bearish thesis misreads the company’s capital structure and shareholder incentives. In a Nov. 20, 2025 post on X, Ju wrote, “MSTR only goes bankrupt if an asteroid hits Earth,” adding that critics should “bring a single piece of evidence” before claiming Michael Saylor would be liquidated. The comments came as Bitcoin and high-beta crypto proxies retraced into late November, reviving legacy narratives that Strategy’s debt stack could compel BTC sales. Why Strategy Will Never Sell Bitcoin Ju’s central claim is that Strategy is not structurally set up like a margin trader. Addressing the most common fear—that convertible notes “missing” their conversion price forces liquidation—he stated: “Convertible debt not reaching the conversion price is not liquidation. It simply means the notes get repaid in cash Failing to convert is not a bankruptcy trigger. It is just normal debt maturity.” Related Reading: Is The Bitcoin Bottom In? Fidelity Research Lead Weighs The Odds In his view, the repayment pathways are conventional corporate finance tools: refinancing, rolling into new notes, secured borrowing, or operating cash flow. That framing aligns with how convertibles function in practice; if equity is below strike at maturity, the embedded option expires and the instrument reverts to straight debt rather than a forced-sale event. He also grounded his argument in governance and identity. “Saylor would never sell Bitcoin unless shareholders want it,” Ju wrote, warning that “selling even a single BTC would destroy MSTR’s identity as a Bitcoin treasury company and trigger a death spiral for both Bitcoin and MSTR.” Strategy has repeatedly defined itself as a BTC-treasury vehicle, and its shareholder base largely bought into that mandate, making voluntary divestment politically and strategically improbable absent a radical shift in investor preference. Balance-sheet data underpins Ju’s confidence. Strategy reported 640,808 BTC as of Oct. 30, 2025, acquired for about $47.44 billion; subsequent filings cited major November additions taking holdings to roughly 649,870 BTC. Even after accounting for the growing convertible and preferred layers, the BTC treasury remains the dominant asset, meaning solvency stress would require an extreme, prolonged Bitcoin collapse rather than a cyclical drawdown. Related Reading: Why Bitwise Thinks Bitcoin Still Hits $200,000 In 2026 Ju did not claim the equity is risk-free. “This does not mean MSTR’s stock price will always stay high,” he wrote, but called the idea that Strategy would sell BTC to support the stock or face imminent bankruptcy “completely absurd.” He added that even at a price of $10,000 per coin, Strategy would face “a debt restructuring, nothing more.” On preferred shares, he acknowledged dividend obligations, noting payments have not been missed and can be covered via new share issuance—dilutive, but not a liquidation vector. Posting BTC as collateral, he said, would be a last resort because that would introduce real margin risk. In short, Ju’s rebuttal draws a hard line between volatility and insolvency: Strategy may trade like leveraged Bitcoin, but its liabilities do not mechanically force BTC sales. The “Saylor liquidation” narrative, he argues, is a Twitter myth unless the world ends—by asteroid. At press time, BTC traded at $82,050. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|cryptoquant|ki young ju|Microstrategy|MSTR|Strategy",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54711117,
-    "published": 1763740429000,
-    "title": "U.S. House Bill Would Allow Federal Taxes in BTC While Aiding U.S. Reserve",
-    "body": "Rep. Warren Davidson introduced legislation that allows bitcoin tax payments without incurring capital gains to beef up the U.S. Strategic Bitcoin Reserve.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Bitcoin News|Warren Davidson|crypto legislation|U.S. House of Representatives|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54711925,
-    "published": 1763741588000,
-    "title": "Crypto Biz: Is this what a bear market looks like? (Spoiler: No)",
-    "body": "Bitcoin's price dips below $90,000, yet Republic and Kraken ink nine-figure deals. If this is a bear market, someone forgot to tell big money.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54711537,
-    "published": 1763741164000,
-    "title": "Best Altcoins to Buy as Cycle Is Turning & Promises Alt Season Soon",
-    "body": "What to Know: Bitcoin Hyper’s modular Bitcoin L1 + SVM L2 architecture enables low-latency smart contracts and DeFi to run natively within the BTC ecosystem. With more than $28 million raised in its presale, $HYPER is positioning itself as a high-conviction Bitcoin infrastructure play ahead of a potential altcoin rotation. Best Wallet Presale blends institutional-grade MPC security with presale discovery tools and a robust DEX aggregator, aligning its growth with rising on-chain activity. Aster offers a MEV-free perp DEX with extreme leverage and yield-bearing margin mechanics, creating direct exposure to resurging derivatives volatility. Altcoin season indicators are starting to flicker even while most portfolios still feel like a bear market hangover. Only around 5% of the altcoin supply is in profit, a level that historically lines up with capitulation, forced selling and exhaustion among weaker hands. That kind of reset is usually where new cycles begin to form underneath the surface. And keen eyes are already starting to point out the potential for big moves. Bitcoin’s dominance has marched higher during this phase, with capital crowding into $BTC as a safe haven while high‑beta assets bleed out. As Bitcoin volatility compresses and price action stabilizes, analysts expect the early rotation phase of an altcoin season to develop. Liquidity typically leaks first into higher‑quality infrastructure and trading venues before it reaches meme coins. You can already see that playbook in motion. On‑chain flows and presale data show capital quietly rotating into Bitcoin Layer 2 infrastructure, next‑generation wallet stacks and execution‑focused decentralized exchanges. These are the rails that will need to scale if a new wave of users and speculative flows really hit the market. Below are three of the best altcoins to invest in 2025 if you are positioning ahead of a potential cycle flip: Bitcoin Hyper , Best Wallet Token , and Aster. Together they cover settlement, custody and trading, the three pillars of a functioning on‑chain market structure. 1. Bitcoin Hyper ($HYPER) — First Bitcoin Layer 2 With SVM Speed Bitcoin Hyper ($HYPER) is pitched as the first ever Bitcoin Layer 2 with SVM integration, aiming to give Bitcoin the kind of high‑throughput execution environment traders currently associate with Solana. Instead of trying to replace $BTC, Bitcoin Hyper uses Bitcoin L1 purely as a settlement and security layer while shifting all real‑time activity to a Solana Virtual Machine Layer 2. That architecture matters if altcoin season really does return. DeFi, NFT activity and high‑frequency perp trading cannot live on 10‑minute blocks and inconsistent fees. Bitcoin Hyper’s SVM Layer 2 targets sub‑second confirmation and low‑single‑cent fees, which is crucial for wrapped $BTC payments, DEX routing and gaming dApps where users will not tolerate latency. On the application side, Bitcoin Hyper leans into SPL‑compatible tokens, fast smart contracts and an SDK in Rust so existing Solana developers can port over almost instantly. The roadmap calls for $BTC‑backed stable payments, lending markets, staking protocols and NFT platforms that settle back to Bitcoin but operate at L2 speed. The token metrics tell you this is already on trader radar: The presale has raised $28.2M $HYPER priced at $0.013305 Major whale buys, including $502K and $379K That combination of broad retail participation plus clear ‘smart money’ entries is the pattern you usually see before a main exchange listing; learn how to buy $HYPER before the presale ends and the token goes live. In a market hunting for the best altcoins to invest as the cycle turns, Bitcoin Hyper stands out as a direct play on bringing Solana‑style throughput to Bitcoin’s security base layer. Learn more and join the $HYPER presale. 2. Best Wallet Token ($BEST) — Aggregating the Next Cycle’s Flow If Bitcoin Hyper is the execution layer for BTC liquidity, Best Wallet Token ($BEST) positions itself as the front door where that liquidity is actually stored, routed and deployed. The project’s ambition is aggressive, targeting up to 40% of the crypto wallet market by the end of 2026 by being the easiest and safest option with the most integrated features. Its core differentiator is a Fireblocks MPC‑CMP stack under the hood, which is the same class of infrastructure used by large institutions for secure key management. On top of that, Best Wallet lets you build custom multi‑wallet portfolios, so you can segment long‑term holdings, trading stacks and DeFi experiments with granular risk controls instead of juggling a dozen browser extensions. Where this starts to intersect directly with altcoin season is the Upcoming Tokens portal. The wallet integrates a curated presale and early‑stage token flow so users can access vetted opportunities without leaving the interface. For traders hunting the best altcoins to invest in 2025 before they hit centralized exchanges, integrated discovery and purchase rails are a real edge. The Best DEX aggregator, powered by Rubic, then connects to more than 50 chains, 200 DEXs and 20 cross‑chain bridges to execute at competitive rates. On the token side, the $BEST presale has already raised $17.2M, with tokens priced at $0.025975, supported by a dynamic staking APY model that adjusts with demand and protocol revenue. Whale buys include purchases of $70K and $50K ; learn how to join them . If inflows into infrastructure and presales accelerate with a new cycle, Best Wallet’s position as one of the best crypto wallets is structurally tied to that growth. Check the $BEST presale details. 3. Aster ($ASTER) — High‑Leverage Perp DEX Positioned for Volatility The third piece of the puzzle is where traders will actually express high‑beta views if altcoin season kicks in. Aster is a next‑generation decentralized exchange for spot and perpetual trading, designed to operate as a one‑stop on‑chain venue for global crypto traders. It competes in the same lane as GMX, Hyperliquid and MUX, but leans heavily into performance plus capital efficiency. Aster’s headline features are eye‑catching: MEV‑free execution, support for leverage up to 1001x and the ability to use yield‑bearing assets as margin collateral. In practice, that means a trader can deploy staked stablecoins or liquid staking tokens, keep yield flowing and still open directional positions, which is particularly attractive when volatility spikes. Multi‑chain compatibility across BNB Chain, Ethereum, Solana and Arbitrum keeps Aster accessible wherever users currently hold their collateral. Recent activity has been strong. Aster rolled out its Rocket Launch campaign with APRO, allocating a $200K ASTER reward pool and broader trading incentives to bootstrap depth and activity. During peak periods, reported volumes have pushed Aster into the upper ranks of perpetual DEXs, at times surpassing Hyperliquid. For traders rotating out of centralized venues and looking for high‑leverage, MEV‑resistant execution, Aster is positioned squarely in the slipstream of any renewed speculative mania. Explore Aster on its official site. With altcoin season signals flickering while most supply sits deeply underwater, positioning into infrastructure makes sense. Bitcoin Hyper , Best Wallet Token and Aster each target critical layers of the next cycle’s stack, with Bitcoin Hyper offering the most asymmetric way to play a Bitcoin Layer 2 resurgence. This article is for informational purposes only and does not constitute financial, investment or trading advice of any kind. Authored by Aaron Walker for NewsBTC — https://www.newsbtc.com/news/best-altcoins-2025-bitcoin-hyper-presales",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54712554,
     "published": 1763742662000,
     "title": "Borrowing Against Your Tesla Stock to Buy a Car Is the Future of DeFi: Robert Leshner",
@@ -1876,6 +1624,175 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54752948,
+    "published": 1763825523000,
+    "title": "UK Crime Network, Worth Billions, Used Crypto to Funnel Drug Cash to Russia, NCA Says",
+    "body": "A billion-pound laundering network spread across the UK used cryptocurrency to move criminal proceeds and help Russian interests evade sanctions, according to the NCA.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|crypto crime|Russia|UK|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54752891,
+    "published": 1763825326000,
+    "title": "Aerodrome Finance Hit by 'Front-End' Attack, Users Urged to Avoid Main Domain",
+    "body": "The attack did not compromise the underlying smart contracts, but users are advised to avoid the compromised domains and instead use decentralized ENS domains.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Web3|Decentralized exchange|Attack|Exploit|Top Stories|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 139,
+        "NAME": "ENS",
+        "CATEGORY": "ENS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 54753621,
+    "published": 1763827146000,
+    "title": "Europe Will Get Risky 3x Leveraged Bitcoin, Ethereum ETFs as Crypto Markets Melt Down",
+    "body": "Investors in Europe can soon take a gamble on 3x leveraged Bitcoin and Ethereum ETFs thanks to LeverageShares.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54753437,
+    "published": 1763826700000,
+    "title": "Coinbase 'Negative Premium' at Widest Level since Q1, Signalling Weak U.S. Demand",
+    "body": "Bitcoin is on track for its worst weekly performance since March, while U.S. demand indicators weaken as the Coinbase premium declines and spot ETFs reach a record volume.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Coinbase Premium|Bitcoin News|Bitcoin ETF|market analysis|Top Stories|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54753772,
+    "published": 1763827678000,
+    "title": "'Liquidity Crisis': $12B in DeFi Liquidity Sits Idle as 95% of Capital Goes Unused",
+    "body": "This inefficiency disproportionately affects retail liquidity providers, with 50% losing money due to impermanent loss, and net deficits exceeding $60 million, a new report finds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Web3|1inch|Decentralized Finance|Liquidity|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
