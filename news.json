@@ -1,110 +1,5 @@
 [
   {
-    "id": 54691430,
-    "published": 1763706131000,
-    "title": "Plume CEO tips RWA to grow 3-5x in 2026 as it grows past crypto natives",
-    "body": "Plume announced on Wednesday that Securitize, a tokenization platform backed by BlackRock and Morgan Stanley, had inked a deal to deploy institutional-grade assets on Plume’s Nest staking protocol.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54692722,
-    "published": 1763708427000,
-    "title": "BitMine’s Unrealized Losses Hit $3.7B As Ethereum (ETH) Price Struggles Below $3,000",
-    "body": "A recent report discussed how Digital Asset Treasury (DAT) companies like BitMine and Strategy are sitting on billions of dollars of unrealized profits as Ethereum (ETH) and Bitcoin (BTC) lose crucial support levels. Related Reading: This Altcoin Soars 20% In One Day Following Major Saudi Arabia Partnership DATs To Face ‘Increasing Scrutiny’ On Thursday, crypto insights company 10x Research reported that the largest Ethereum Treasury company, BitMine Immersion Technologies, has a multi-billion-dollar paper loss after the ongoing market correction, which has sent ETH to multi-month lows. “Bitmine is now down more than $1,000 per ETH, implying about $3.7 billion in unrealized losses before even accounting for the hefty NAV [net asset value] premium public-market investors paid on top,” the report highlighted. 10x Research believes that treasury companies will struggle to attract new retail investors amid the current market environment, where existing shareholders are sitting on billions of dollars in losses. When NAV rises, “old” shareholders benefit; when it falls, the damage compounds, a dynamic DAT investors often underestimate. When the premium inevitably shrinks to zero, as it is doing now, investors find themselves trapped in the structure, unable to get out without significant damage, a true Hotel California scenario. Unlike Exchange-Traded Funds (ETFs), Digital Asset Treasuries “layer on complex, opaque, and often hedge-fund-like fee structures that can quietly erode returns,” the report added, noting that many investors are unaware that DATs embedded costs “far exceed” the management fee charged by asset managers like BlackRock on its Bitcoin (BTC) and ETH ETFs. Moreover, 10x Research argued that with the potential introduction of a staked Ethereum ETF by BlackRock, “the economics of DATs are likely to face increasing scrutiny” as retail investors reallocate to a low-cost source of yield. BitMine Remains Confident On Ethereum Despite DAT challenges and ETH’s price action, BitMine has continued to bet on the King of Altcoins. According to Lookonchain data, a new wallet suspected to be linked to the Ethereum-focused treasury company purchased 21,054 ETH, worth around $66.57 million at the time, on Tuesday night. In its November Chairman’s Message, Thomas ‘Tom’ Lee, noted that the crypto market prices have not recovered from the October 10 liquidation event, and “the lingering weakness has the hallmarks of a market maker (or two) suffering from a crippled balance sheet.” BitMine does not believe crypto prices have peaked for this cycle, he added, suggesting that “a crypto cycle top is likely 12-36 months away.” On the contrary, Lee told CNBC News on Monday that the market is “pretty close” to bottoming this week. Crypto suffered from that liquidation event on October 10th, but because the fundamental story is intact and crypto discounts the future, that’s why it’s volatile, but it still looks pretty attractive here. Related Reading: Solana Reclaims $140 As Second Wave Of SOL ETFs Debut – Is A Rebound Coming? Notably, ETH has lost the $3,000 support for the first time since July, retesting the $2,800 area on Thursday morning. However, Lee has affirmed that “Ethereum is undervalued because number one, the story is gaining relative to Bitcoin this year. But two, we’re getting this sort of intrinsic floor because of the value that the assets locked onto the Ethereum blockchain.” As of this writing, Ethereum is trading at $2,840, a 29% decline in the monthly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|10x Research|BitMine|BlackRock|crypto market correction|DATs|ETH|ETH DATS|ethereum|Ethereum ETFs|ethereum price|Ethereum treasury|ETHUSDT|Strategy|Tom Lee",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54692775,
-    "published": 1763706131000,
-    "title": "Plume CEO tips RWA to grow 3-5x in 2026 as it grows past crypto natives",
-    "body": "Plume says that Securitize, a tokenization platform backed by BlackRock and Morgan Stanley, has inked a deal to deploy institutional-grade assets on Plume’s Nest staking protocol.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54694171,
     "published": 1763711018000,
     "title": "Bitcoin ETFs Have Bled a Record $3.79B in November",
@@ -3010,6 +2905,53 @@
         "ID": 100,
         "NAME": "USDC",
         "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54740965,
+    "published": 1763794842000,
+    "title": "Crypto Funds Face Third Consecutive Weekly Losses, Totaling $3 Billion In Outflows",
+    "body": "Recent commentary from the Kobeissi Letter has underscored a troubling trend in the capital markets: crypto-focused funds have encountered substantial outflows, with a notable $2 billion exiting last week alone. This marks the most significant withdrawal since February and extends a concerning streak, bringing total outflows to $3.2 billion over the last three weeks. Bitcoin And Ethereum Face Massive Withdrawals Leading these outflows is the market’s leading crypto, Bitcoin (BTC), which experienced a massive $1.4 billion in withdrawals, while the second largest cryptocurrency, Ethereum (ETH), followed closely with $689 million. As a result of these dynamics, the average daily outflows as a percentage of assets under management (AuM) have reached unprecedented levels. Related Reading: Bitcoin Bear Market Confirmed? Expert Predicts Price Target Of $40,000 By Late 2026 The cumulative impact of these outflows, coupled with declining prices, has led to a 27% reduction in total assets under management, now standing at $191 billion, a situation that the Kobeissi Letter has termed a “structural decline.” Market sentiment remains largely negative, particularly for Bitcoin, with expert Lark Davis examining current trends through the lens of key moving averages. Davis pointed out that as long as Bitcoin trades below the 50-week exponential moving average (EMA), currently placed just above the $10,000 mark, it remains in a bear market. He questioned whether the current downturn signifies a “big bear,” hinting at skepticism regarding recovery prospects, or a “mini bear,” reminiscent of April’s decline where Bitcoin, despite losing the 200-day EMA, did not breach the 50-week EMA. Davis proposed three possible scenarios for the coming weeks. The first posits a drastic descent into “goblin town” without recovery, which he considers unlikely given current oversold conditions. The second scenario involves a short-term rally that tests the 50-week EMA, potentially luring investors back before a sharp downturn. The third scenario, which Davis leans towards, suggests that Bitcoin could reclaim the 50-week EMA by year-end, fueled by easing macroeconomic conditions, including interest rates and market valuations. Crypto Market Turmoil Intensifies Compounding these market concerns is the precarious situation of Strategy, formerly known as MicroStrategy, headed by Bitcoin advocate Michael Saylor. Jacob King, CEO of SwanDesk, remarked that should Bitcoin fall a few more percentage points, specifically below Strategy’s average buy at just below $80,000, the firm would find itself in a precarious position with its Bitcoin holdings. King fears that forced liquidations could occur again for crypto investors, which could drive Bitcoin prices down toward $10,000 or lower due to increased selling pressure. Related Reading: Saylor’s Strategy Under Threat: Index Status At Risk With $8 Billion On The Line King’s commentary reflects a broader skepticism regarding the sustainability of the crypto market’s structure. He criticized the investment strategies surrounding Bitcoin as being propped up by “unsustainable fraud and hopium.” Highlighting past statements by Saylor, King recalled when Saylor encouraged extreme measures—such as taking out double mortgages and selling personal assets—to invest in Bitcoin, asserting that the current market turmoil should come as no surprise. At the time of writing, Bitcoin was trading at $84,700, over 30% below all-time high levels of $126,000 reached earlier in October. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|BTCUSDT|crypto|crypto funds|crypto market|crypto news|crypto outflows|cryptocurrency|ETH|ethereum",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
