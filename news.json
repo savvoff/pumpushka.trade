@@ -1,52 +1,5 @@
 [
   {
-    "id": 54750825,
-    "published": 1763820042000,
-    "title": "Bitcoin Investors Sitting On Deep Unrealized Losses — What This Means For Price",
-    "body": "The price of Bitcoin has continued to struggle in the final quarter of the year, recently slipping beneath the 2025 starting point. According to the latest on-chain data, investors are currently sitting on deep unrealized losses, which suggests more pain for the market. STHs Sit On Heavy Losses Through Market Crash In a Quicktake post on the CryptoQuant platform, online crypto pundit Crazzyblockk revealed that specific classes of Bitcoin investors are holding through worrying amounts of losses. This evaluation is based on the Age-Band Unrealized PnL Distribution metric, which shows the amount of profit or loss different classes of Bitcoin holders (sorted by age of coins held) are yet to realize. Related Reading: Saylor’s Strategy Under Threat: Index Status At Risk With $8 Billion On The Line According to Crazzyblockk, Bitcoin’s latest investors, who have held between a day and a week, are facing significant unrealized losses. Meanwhile, recent funders with a slightly broader maturity bracket (1-day to 1-month) are not exempt from the current market heat. Additionally, short-term holders who have been involved for up to six months are also experiencing significant drawdowns, as the Bitcoin price stands far beneath their cost basis. In the Quicktake post, Crazzyblockk highlighted that when investor groups face these high amounts of unrealized losses, any price recovery stands as a source of exit liquidity. This is because crypto investors tend to exit the market under minimal losses, or at breakeven. As a result, the classic ‘Support Becoming Resistance’ phenomenon would continue to play out, as these investors keep exiting just beneath or at their cost basis. However, the verdict is not totally grim for the Bitcoin price, as the analyst explained. While the BTC market evidently leans towards a bearish structure, short-term holder behavior will play an important role in determining its direction in the coming days. Crazyyblockk explained, based on historical data, that if the short-term investors avoid capitulating at roughly 20 – 30% unrealized losses, the flagship cryptocurrency could avoid the deep reset associated with a full-blown bear market. On the flip side, a series of capitulation events among this investor cohort could cause a deep extension of Bitcoin’s crash, as these exits add more momentum to the already existing bearish pressure. And until this investor group is fully wiped out of the market, the price of Bitcoin could continue the current descent. Bitcoin Price At A Glance As of this writing, Bitcoin is valued at around $84,530, reflecting a 4% decline in the past 24 hours. According to data from CoinGecko, the premier cryptocurrency is down by more than 11% in the past week. Related Reading: Bitcoin Shows A Clear Momentum Reset — Is A Trend Reversal Coming? Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|btc|btcusd|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54752230,
     "published": 1763823617000,
     "title": "Pundit Reveals Why XRP Price At $1,000 Is Not A Dream – ‘It’s Math’",
@@ -1020,6 +973,53 @@
         "ID": 218,
         "NAME": "SECURITY INCIDENTS",
         "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 54797105,
+    "published": 1763906417000,
+    "title": "On-Chain Metric Tips Ethereum To Form Price Bottom Below $2,000 – Here’s Why",
+    "body": "Ethereum has been a major victim of the ongoing crypto market onslaught, recording a 27.63% loss in the last month alone. The largest altcoin now trades around $2,800, representing a significant fall from the local cycle peak around $4,800. As prices continue to tumble with each new drop triggering waves of liquidation, analyst Ali Martinez has postulated on a market bottom target. Related Reading: Ethereum Golden Pocket In Play – Can ETH Turn The Tide Above $2,800? ETH MVRV Pricing Bands Reveal Potential 28% Decline Ahead In an X post on November 22, Martinez shares critical on-chain data that suggests Ethereum may be headed for a local bottom target around $2,000. For context, the MVRV Pricing Bands are valuation bands derived from the MVRV ratio and Realized Price (RP), designed to indicate when a cryptocurrency (such as ETH) is undervalued, fairly valued, or overvalued based on its on-chain investor cost basis. This on-chain metric reveals a set of price levels calculated by multiplying ETH’s Realized Price by different fixed multiples (e.g., 0.8x, 1.0x, 2.4x, 3.2x), with each band representing a different degree of under- or over-valuation relative to the average investor’s cost basis. Using historical data on this metric, Martinez has identified that Ethereum tends to form a local bottom only when it dips below the lowest pricing band, i.e., 0.8× RP band (blue line). This pattern has consistently played out over the past three years, with clear examples in June 2022, December 2022, and most recently in March 2025. Notably, the current 0.8x RP band stands at $2,007.08. If ETH is repeating historical behavior, then investors should expect another 28% correction from the present market levels to $2000 before a price rebound kicks in. Related Reading: Pundit Reveals Why XRP Price At $1,000 Is Not A Dream – ‘It’s Math’ ETH RP Indicates Investors Remain In Profit — But Not For Long The Realized Price is defined as the average acquisition price of all circulating ETH tokens. It can be described as the true on-chain value of ETH, with any price gain above this level indicating a profit for an average investor and vice versa for a loss. According to Martinez’s on-chain analysis, ETH’s current market price is barely above its realized price at $2,508. While this observation suggests most investors are still in profit, the recent corrections and the extended downtrend indicate a cause for worry, especially as positive market sentiment gets increasingly weaker. While a price fall below $2,500 may pull so many investors into losses, it could also accelerate the token’s decline to $2,000 and trigger a price rebound. Looking at potential mid-cycle targets, this next bullish wave could push Ethereum to trade around $6,021. At press time, Ethereum is valued at $2,820, reflecting a slight 1.73% gain in the last day. Featured image from Flickr, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|Ali Martinez|ethereum|Ethereum Local Bottom|Ethereum MVRV Pricing Bands|Ethereum Realized Price|Ethereum Support|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
