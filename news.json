@@ -1,174 +1,5 @@
 [
   {
-    "id": 54752948,
-    "published": 1763825523000,
-    "title": "UK Crime Network, Worth Billions, Used Crypto to Funnel Drug Cash to Russia, NCA Says",
-    "body": "A billion-pound laundering network spread across the UK used cryptocurrency to move criminal proceeds and help Russian interests evade sanctions, according to the NCA.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|crypto crime|Russia|UK|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54752891,
-    "published": 1763825326000,
-    "title": "Aerodrome Finance Hit by 'Front-End' Attack, Users Urged to Avoid Main Domain",
-    "body": "The attack did not compromise the underlying smart contracts, but users are advised to avoid the compromised domains and instead use decentralized ENS domains.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Web3|Decentralized exchange|Attack|Exploit|Top Stories|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 139,
-        "NAME": "ENS",
-        "CATEGORY": "ENS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 54753621,
-    "published": 1763827146000,
-    "title": "Europe Will Get Risky 3x Leveraged Bitcoin, Ethereum ETFs as Crypto Markets Melt Down",
-    "body": "Investors in Europe can soon take a gamble on 3x leveraged Bitcoin and Ethereum ETFs thanks to LeverageShares.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54753437,
-    "published": 1763826700000,
-    "title": "Coinbase 'Negative Premium' at Widest Level since Q1, Signalling Weak U.S. Demand",
-    "body": "Bitcoin is on track for its worst weekly performance since March, while U.S. demand indicators weaken as the Coinbase premium declines and spot ETFs reach a record volume.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Coinbase Premium|Bitcoin News|Bitcoin ETF|market analysis|Top Stories|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54753772,
-    "published": 1763827678000,
-    "title": "'Liquidity Crisis': $12B in DeFi Liquidity Sits Idle as 95% of Capital Goes Unused",
-    "body": "This inefficiency disproportionately affects retail liquidity providers, with 50% losing money due to impermanent loss, and net deficits exceeding $60 million, a new report finds.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Web3|1inch|Decentralized Finance|Liquidity|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54754258,
     "published": 1763829023000,
     "title": "Why Zcash Could Be Vulnerable To A 50% Breakdown",
@@ -1043,6 +874,53 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54801255,
+    "published": 1763913656000,
+    "title": "Bitcoin Rapid Downturn Triggered By Excessive Long Positions — Expert Weighs In",
+    "body": "According to the latest on-chain data, investors have been excessively betting on the Bitcoin price in recent weeks, leading to its overall struggles. Longs Vs Shorts Imbalance — How This Induced Price Crash In a November 22 post on social media platform X, Alphractal CEO and founder Joao Wedson revealed the underlying dynamics behind Bitcoin’s recent unchecked fall. In deciphering this downward trend, the crypto pundit evaluated the Estimated Long/Short Positions metric, which estimates how much of the Open Interest across exchanges is dedicated to long positions relative to short positions. Wedson reported that, across 19 exchanges, there are about 71,000 BTC positioned in longs, while a relatively smaller amount of BTC (27,900) is dedicated to shorts. While this observation does not include data from the Chicago Mercantile Exchange (CME), the discrepancy between longs and shorts remains unusually large. Related Reading: Kiyosaki Dumps Bitcoin At $90K After Predicting A $250K Moonshot – Here’s Why This imbalance is significant because when there are clusters of long positions at similar price levels, the market tends to lean into a more fragile state. Moderate pullbacks beneath these clusters often lead to a cascade of forced liquidations (known as a long squeeze) — an event which could in turn push prices further south. Notably, Wedson pointed out that traders must have been convinced that $100,000 was Bitcoin’s price bottom — a speculation that soon became null after its failure. Afterwards, $90,000 came into focus, with another series of liquidations following suit. At the moment, $84,000 seems to be the price majority of Bitcoin’s speculative traders target as the new price bottom. These liquidation events that took place after the $100,000 and $90,000 supports were breached provided more buy-side liquidity for the Bitcoin price to topple. At the same time, most significant short positions have been closed off, making it difficult for a more defined price recovery to take place, as there is barely any sell-side liquidity to send the Bitcoin price to the upside. For Bitcoin to recover, Wedson explained that there needs to be a significant decrease in long positioning, while short exposure goes on the rise. Watch Out For $81,250 — Analyst In another post on X, technical analyst Ali Martinez noted that Bitcoin’s 2-year moving average, which stands at approximately $81,250, is an important landmark for the future trajectory of the flagship cryptocurrency. The analyst explained that historical failures of the 730-day SMA have often marked the beginnings of bear markets. Thus, in the scenario where the Bitcoin price slips past its current 2-year average price, we could be witnessing the start of a long bearish cycle As of press time, Bitcoin holds a valuation of $86,251, reflecting an over 3% price jump in the past 24 hours. Related Reading: Only An Asteroid Can Sink MSTR’s Bitcoin Bet, CryptoQuant CEO Says Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|bitcoin longs|Bitcoin news|bitcoin price|btc|btc price|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
