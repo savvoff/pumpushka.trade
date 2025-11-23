@@ -1,52 +1,5 @@
 [
   {
-    "id": 54740965,
-    "published": 1763794842000,
-    "title": "Crypto Funds Face Third Consecutive Weekly Losses, Totaling $3 Billion In Outflows",
-    "body": "Recent commentary from the Kobeissi Letter has underscored a troubling trend in the capital markets: crypto-focused funds have encountered substantial outflows, with a notable $2 billion exiting last week alone. This marks the most significant withdrawal since February and extends a concerning streak, bringing total outflows to $3.2 billion over the last three weeks. Bitcoin And Ethereum Face Massive Withdrawals Leading these outflows is the market’s leading crypto, Bitcoin (BTC), which experienced a massive $1.4 billion in withdrawals, while the second largest cryptocurrency, Ethereum (ETH), followed closely with $689 million. As a result of these dynamics, the average daily outflows as a percentage of assets under management (AuM) have reached unprecedented levels. Related Reading: Bitcoin Bear Market Confirmed? Expert Predicts Price Target Of $40,000 By Late 2026 The cumulative impact of these outflows, coupled with declining prices, has led to a 27% reduction in total assets under management, now standing at $191 billion, a situation that the Kobeissi Letter has termed a “structural decline.” Market sentiment remains largely negative, particularly for Bitcoin, with expert Lark Davis examining current trends through the lens of key moving averages. Davis pointed out that as long as Bitcoin trades below the 50-week exponential moving average (EMA), currently placed just above the $10,000 mark, it remains in a bear market. He questioned whether the current downturn signifies a “big bear,” hinting at skepticism regarding recovery prospects, or a “mini bear,” reminiscent of April’s decline where Bitcoin, despite losing the 200-day EMA, did not breach the 50-week EMA. Davis proposed three possible scenarios for the coming weeks. The first posits a drastic descent into “goblin town” without recovery, which he considers unlikely given current oversold conditions. The second scenario involves a short-term rally that tests the 50-week EMA, potentially luring investors back before a sharp downturn. The third scenario, which Davis leans towards, suggests that Bitcoin could reclaim the 50-week EMA by year-end, fueled by easing macroeconomic conditions, including interest rates and market valuations. Crypto Market Turmoil Intensifies Compounding these market concerns is the precarious situation of Strategy, formerly known as MicroStrategy, headed by Bitcoin advocate Michael Saylor. Jacob King, CEO of SwanDesk, remarked that should Bitcoin fall a few more percentage points, specifically below Strategy’s average buy at just below $80,000, the firm would find itself in a precarious position with its Bitcoin holdings. King fears that forced liquidations could occur again for crypto investors, which could drive Bitcoin prices down toward $10,000 or lower due to increased selling pressure. Related Reading: Saylor’s Strategy Under Threat: Index Status At Risk With $8 Billion On The Line King’s commentary reflects a broader skepticism regarding the sustainability of the crypto market’s structure. He criticized the investment strategies surrounding Bitcoin as being propped up by “unsustainable fraud and hopium.” Highlighting past statements by Saylor, King recalled when Saylor encouraged extreme measures—such as taking out double mortgages and selling personal assets—to invest in Bitcoin, asserting that the current market turmoil should come as no surprise. At the time of writing, Bitcoin was trading at $84,700, over 30% below all-time high levels of $126,000 reached earlier in October. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|BTCUSDT|crypto|crypto funds|crypto market|crypto news|crypto outflows|cryptocurrency|ETH|ethereum",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54741724,
     "published": 1763796695000,
     "title": "ARK Invest wraps up week with Bitcoin ETF, Bullish, Circle, BitMine buys",
@@ -1026,6 +979,35 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54782895,
+    "published": 1763881872000,
+    "title": "Bitcoin ATM firm explores $100M sale following CEO’s federal indictment",
+    "body": "Crypto Dispensers is weighing a $100 million sale as its CEO faces federal accusations of running a multimillion-dollar money laundering scheme.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
