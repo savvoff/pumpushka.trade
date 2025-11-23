@@ -1,163 +1,5 @@
 [
   {
-    "id": 54727583,
-    "published": 1763768348000,
-    "title": "Cardano Network Disrupted by 'Poisoned' Transaction Attack",
-    "body": "A validation mismatch sparked an unexpected Cardano network fork as a user publicly apologized for sending the bad transaction.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54728255,
-    "published": 1763769626000,
-    "title": "$400 Million XRP Offloaded in Just 48 Hours, What’s Behind the Massive Sell Pressure?",
-    "body": "XRP has been hit by one of its most aggressive sell waves this year, with on-chain data revealing that major whale wallets offloaded nearly 200 million XRP, roughly $400 million, within just 48 hours. Related Reading: Ethereum Dead Cat Bounce Puts Price At $3,400, But What’s The Ultimate Target? According to Santiment analytics, wallets holding between one million and ten million tokens were the primary contributors, adding significant sell-side liquidity to an already fragile market. This sudden influx of supply arrived at a time when XRP was already battling bearish sentiment across the broader crypto space. The asset slipped 10.32% in 24 hours, falling below the key $2 psychological level, touching lows near $1.85, and posting double-digit losses within a single day. XRP's price trends to the downside on the daily chart. Source: XRPUSD on Tradingview Extreme Fear Grips the Market Market indicators paint a grim picture. XRP is trading below both its 50-day and 200-day Simple Moving Averages, signalling sustained downward momentum. The Fear & Greed Index sits at 14, firmly in “extreme fear” territory, while selling volume surged past $7.2 billion in 24 hours. Analysts warn that a failure to reclaim resistance near $2.30 could open the door to deeper losses, with short-term projections suggesting a potential drop toward $1.50 if bearish pressure continues. The weakness is not isolated to XRP. Bitcoin’s retreat below the $85,000 zone and Ethereum’s slide below $3,000 have triggered market-wide liquidations, with macro uncertainty adding fuel. Concerns over a possible delay in Federal Reserve rate cuts, driven by soft U.S. jobs data and rising unemployment, have dented investor appetite for risk assets across the board. Will XRP Stabilize or Sink Further? The big question now is whether whales will continue distributing or pause their offloading. If no new wave of large-scale selling emerges, analysts believe XRP could stabilize and attempt to reclaim the $2 mark in the coming sessions. Recovery projections place the short-term target between $2.50 and $2.70, though this would require a decisive break above long-standing resistance. Medium-term predictions remain cautiously optimistic but restrained. Many experts expect XRP to trade between $1.96 and $2.27 into the end of 2025, with stronger upside momentum unlikely until regulatory clarity and upcoming ETF activity begin shaping demand heading into 2026. Related Reading: Saylor’s Strategy Under Threat: Index Status At Risk With $8 Billion On The Line For now, XRP faces a heavy supply overhang, and whether the bleeding stops depends on what the whales do next. Cover image from ChatGPT, XRPUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|xrp|XRPUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54728533,
-    "published": 1763770073000,
-    "title": "Bitcoin Falls To Almost $80,000 As Bloodbath Continues",
-    "body": "Bitcoin prices dropped to almost $80,000 on November 21 as what one analyst described as a “perfect storm” of macro factors fueled additional bloodletting.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54728426,
-    "published": 1763769667000,
-    "title": "Bitcoiners perk up as odds of a December Fed rate cut almost double",
-    "body": "Some Bitcoiners are speculating that the significant surge in the odds of a Fed rate cut in December may lead to Bitcoin finding a price “bottom here for now.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54732382,
     "published": 1763776827000,
     "title": "Crypto Market Remains on Edge After Over $2B Wiped Out in the Last 24 Hours",
@@ -1296,6 +1138,117 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54768155,
+    "published": 1763856051000,
+    "title": "Chainlink Is ‘Essential Infrastructure’ for Tokenized Finance, Says Grayscale Research",
+    "body": "Grayscale's report comes shortly after it filed to convert its Chainlink Trust into an exchange-traded fund (ETF) that would trade on NYSE Arca.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Chainlink|Grayscale|Tokenization|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54768158,
+    "published": 1763856038000,
+    "title": "Bitcoin Block Channel Reveals $400,000 Price Target – Details",
+    "body": "The Bitcoin market continues to witness an intense price correction in line with broader crypto market movement. In the past week, the premier cryptocurrency recorded another 10% price decline, trading as low as $80,800, before experiencing a modest bounce. Bitcoin now stands 32.79% below its all-time high, with distribution taking preference over accumulation for most investors. However, popular analyst Gert Van Lagen has unveiled an on-chain trend that postulates an impending revival of the bull market. Related Reading: Saylor’s Strategy Under Threat: Index Status At Risk With $8 Billion On The Line Bitcoin Historical Post-Halving Movement Indicates Bullish Hope In an X post on November 21, Gert Van Lagen outlines a positive Bitcoin price prediction based on data from the previous post-halving movement. The renowned analyst explains this forecast, using a long-term logarithmic chart of Bitcoin’s price vs Bitcoin block height, which highlights a regression channel the digital asset has followed since 2009. According to Van Lagen, Bitcoin has followed a similar pattern after every halving, which usually begins with pushing above the midline of this long-term regression channel. Thereafter, the premier cryptocurrency accelerates into a blow-off top (orange spikes) at the channel’s upper boundary as seen in 2013, 2017, and 2021. For all its price exploits in the present market cycle, Bitcoin presently trades just below the midline of the regression channel, suggesting there is ample space for price appreciation. However, Van Lagen notes some unusual price behavior in that Bitcoin has experienced rejection thrice at this midline, each time resulting in a bounce off the 0.382 Fibonacci retracement line. Nevertheless, the analyst still expects the premier cryptocurrency to maintain the 15-year historical trend and eventually secure a decisive move above the midline resistance. If this price development occurs, Van Lagen also predicts Bitcoin to rise to around $350,000 – $400,000, a price range target that aligns with the upper boundary of the regression channel. Related Reading: Why The Bitcoin Crash To $85,000 Is Actually Good News: Jeff Park The ‘Genuine’ Bearish Market Despite the heightened fears of a bearish market at the moment, Van Lagen explains that the much-dreaded crypto winter only commences after Bitcoin reaches its upper boundary target, establishing a market top. Based on the presented analysis, the market expert predicts Bitcoin will crash from this market peak to retest the 210,000 block SMA, i.e, the lower trend line of the regression channel. At the time of writing, Bitcoin is valued at $84,300 after a 2.36% price loss in the past day. In the last month, the crypto market leader has experienced a 21.96% price devaluation, suggesting a rather volatile and cautious market condition. Featured image from Pexels, chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|bitcoin block|Bitcoin bullish prediction|Bitcoin Halving|Gert Van Lagen|Regression channel",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54770479,
+    "published": 1763860003000,
+    "title": "BlackRock’s Bitcoin clients aren’t ‘underwriting’ the case for global payments",
+    "body": "Bitcoin being widely used for daily payments in the future is just “out-of-the-money-option value upside,” according to BlackRock’s head of digital assets Robbie Mitchnick.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
