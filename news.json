@@ -1,52 +1,5 @@
 [
   {
-    "id": 54773348,
-    "published": 1763863213000,
-    "title": "Dogecoin Goes Wall Street: Grayscale Confirms Nov. 24 ETF Launch",
-    "body": "Grayscale Investments will list spot ETFs for Dogecoin and XRP on the NYSE Arca on November 24, 2025, offering a new way for everyday investors to buy those coins through regular brokerages. Related Reading: Kiyosaki Dumps Bitcoin At $90K After Predicting A $250K Moonshot – Here’s Why According to exchange notices and regulatory filings, the funds will trade under the tickers GDOG for Dogecoin and GXRP for XRP. The listings convert Grayscale’s existing private-placement trusts into publicly traded products. Grayscale Moves To List Dogecoin And XRP Reports have disclosed that both ETFs received approval to be listed, and the paperwork was filed with the US Securities and Exchange Commission. The move brings spot exposure to two smaller, but widely followed, cryptocurrencies into a mainstream vehicle. For many investors, that means access without directly managing wallets or private keys. Grayscale Dogecoin ETF $GDOG approved for listing on NYSE, scheduled to begin trading Monday. Their XRP spot is also launching on Monday. $GLNK coming soon as well, week after I think pic.twitter.com/c6nKUeDrtI — Eric Balchunas (@EricBalchunas) November 21, 2025 Market Activity Up Ahead Of Launch Trading activity in related derivatives climbed in the lead up to the announcement. Dogecoin derivatives volume increased by more than 30% to roughly $7.22 billion, based on exchange data. XRP derivatives surged as well, jumping about 51% to around $12.74 billion. Based on reports, these spikes reflect traders positioning for potential price swings around the ETF debut. Spot ETFs do not promise higher prices, but they do change who can buy the assets. Brokers, retirement plans, and funds that avoid direct crypto custody may now step in. That could affect liquidity in both the tokens and their markets. At the same time, the overall crypto market has seen pressure; reports say the launches come during a roughly six-week downturn. DOGE market cap currently at $21.4 billion. Chart: TradingView Questions Remain Over Demand And Flows Product fees, custody details, and how the trusts convert into ETF shares will shape investor appetite. Past launches of crypto ETFs showed brisk early flows for some products, while others saw muted interest. What matters for prices is not only listings, but inflows and outflows once trading begins. Related Reading: $2 Billion Gone In Minutes: Bitcoin Slide Shakes Crypto World Investors and analysts are likely to watch the first days of trading for clues. High volume and tight spreads would suggest strong demand. Low turnover or wide spreads could signal tepid interest. Based on reports, market participants will also monitor whether the ETFs draw the same sort of speculative trading that has driven derivatives volume in recent days. The listing of both GDOG and GXRP on the same date marks a notable step for mainstream crypto products. According to exchange filings, the funds are structured as spot ETFs that hold the underlying tokens via custodians. While that does not remove price risk, it does make buying these assets simpler for a broad group of investors. Featured image from Gemini, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|altcoins|crypto|Dogecoin|etf|grayscale|memecoin|xrp",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54782895,
     "published": 1763881872000,
     "title": "Bitcoin ATM firm explores $100M sale following CEO’s federal indictment",
@@ -669,6 +622,70 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54822518,
+    "published": 1763951005000,
+    "title": "Bitwise CIO Says Most DATs Are Headed for Discounts, Not Premiums: Here's Why",
+    "body": "Bitwise's Hougan argues that structural drag in DATs outweighs the few uncertain paths firms have to lift their crypto-per-share.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54823555,
+    "published": 1763952957000,
+    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
+    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
