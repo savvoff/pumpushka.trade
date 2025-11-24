@@ -694,5 +694,75 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54826037,
+    "published": 1763957631000,
+    "title": "VanEck boss questions Bitcoin’s privacy, encryption against quantum tech",
+    "body": "Jan van Eck says quantum computing could threaten Bitcoin's encryption and privacy, and his firm “will walk away” if it’s “fundamentally broken.”",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54826287,
+    "published": 1763958218000,
+    "title": "Bitcoin Logs Longest Losing Streak Since 2024 as Fed Repricing Fuels Cautious Rebound",
+    "body": "Bitcoin's longest weekly slump in over a year puts it on track for its worst quarter since 2018, with a potential bull trap looming.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
