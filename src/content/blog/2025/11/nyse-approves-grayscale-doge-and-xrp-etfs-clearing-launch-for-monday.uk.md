@@ -1,10 +1,10 @@
 ---
 title: 'NYSE затвердила ETF Grayscale DOGE та XRP, що дозволяє запуск у понеділок.'
-description: 'Фондова біржа Нью-Йорка Arca офіційно затвердила запуск біржових фондів (ETF) Grayscale, які пов''язані з Dogecoin та XRP. Ці продукти заплановані…'
+description: 'NYSE Arca затвердила запуск біржових фондів (ETF) Grayscale, пов''язаних з Dogecoin та XRP. Ці продукти планується запустити в торги в понеділок.'
 publishedAt: '2025-11-24T02:55:57.000Z'
-updatedAt: '2025-11-24T03:27:22.812Z'
+updatedAt: '2025-11-24T15:28:03.399Z'
 lang: uk
-externalId: '54823555'
+externalId: '54847485'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -19,30 +19,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1630464373688-fb6a37ce89ed?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NTQ3OTN8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1630464373688-fb6a37ce89ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NTQ3OTN8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1630464373688-fb6a37ce89ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NTQ3OTN8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1630464373688-fb6a37ce89ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NTQ3OTN8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1630464373688-fb6a37ce89ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NTQ3OTN8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1630464373688-fb6a37ce89ed'
+  raw: 'https://images.unsplash.com/photo-1621629057099-c7cf1fb8ca1e?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5OTgwMjZ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1621629057099-c7cf1fb8ca1e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5OTgwMjZ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1621629057099-c7cf1fb8ca1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5OTgwMjZ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1621629057099-c7cf1fb8ca1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5OTgwMjZ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1621629057099-c7cf1fb8ca1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5OTgwMjZ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1621629057099-c7cf1fb8ca1e'
 ai:
-  translatedFrom: '54823555'
+  translatedFrom: '54847485'
   version: 1
 ---
 ## Огляд
 
-Фондова біржа Нью-Йорка Arca офіційно схвалила запуск біржових фондів (ETF) Grayscale, які пов'язані з Dogecoin та XRP. Ці продукти заплановано на початок торгів у понеділок, що є значним розвитком у сфері інвестицій у криптовалюти.
+NYSE Arca схвалила запуск біржових фондів Grayscale (ETF), пов'язаних з Dogecoin та XRP. Ці продукти планується запустити в торги в понеділок.
 
 ## Що сталося
 
-Рішення NYSE Arca схвалити ETF Grayscale означає зростаюче прийняття інвестиційних продуктів, пов'язаних з криптовалютою, у традиційних фінансових ринках. Схвалення дозволяє інвесторам отримати доступ до Dogecoin та XRP через регульовані фінансові інструменти, що може привабити ширшу аудиторію, включаючи тих, хто може бути обережним у безпосередніх інвестиціях у криптовалюти.
+Схвалення від NYSE Arca є значним розвитком у сфері інвестицій у криптовалюти. Grayscale, відомий гравець у сфері управління цифровими активами, готовий представити ці ETF, які дозволять інвесторам отримати доступ до Dogecoin та XRP через регульовану торгову платформу. Запуск цих фондів є важливим кроком у інтеграції криптовалютних активів у традиційні фінансові ринки.
 
-Цей крок також підкреслює зростаючу інтеграцію цифрових активів у традиційні фінанси, потенційно прокладаючи шлях для подальших інновацій у інвестиційних продуктах, доступних для інвесторів.
+## Чому це важливо
+
+Запровадження ETF від Grayscale є значним з кількох причин. По-перше, це забезпечує регульований спосіб для інвесторів отримати доступ до криптовалют, що може привабити інституційних та роздрібних інвесторів, які, можливо, вагалися інвестувати безпосередньо в цифрові активи. По-друге, схвалення цих ETF може встановити прецедент для майбутніх криптовалютних продуктів на фінансових ринках, сигналізуючи про зростаюче прийняття цифрових валют регуляторними органами.
 
 ## Вплив на крипторинок
 
-- Схвалення ETF Grayscale може призвести до збільшення інтересу до Dogecoin та XRP серед традиційних інвесторів.
-- Запуск може підвищити легітимність криптовалюти як класу активів у регульованих ринках.
-- Цей розвиток може спонукати інші фінансові установи досліджувати подібні продукти, прив'язані до різних криптовалют.
-- Введення цих ETF може сприяти більшій ліквідності на крипторинку.
-- Цей крок може свідчити про зміну регуляторного ставлення до фінансових продуктів, пов'язаних з криптовалютою.
+- Запуск цих ETF може підвищити легітимність криптовалют у традиційних фінансах.
+- Збільшення доступності Dogecoin та XRP для ширшого кола інвесторів.
+- Потенційно вищі обсяги торгівлі в пов'язаних криптовалютах, коли ці ETF почнуть торгуватися.
+- Може вплинути на ринкові настрої щодо інших інвестиційних продуктів, пов'язаних з криптовалютами.
+- Може призвести до подальших регуляторних схвалень для подібних фінансових інструментів у майбутньому.
