@@ -2948,5 +2948,210 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54850819,
+    "published": 1764002846000,
+    "title": "Rumble Gains 13% After Tether Boosts Stake by 1M Shares",
+    "body": "The advance occurred alongside a rally in data center and high-performance computing stocks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Cloud Computing|Tether|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54850721,
+    "published": 1764002590000,
+    "title": "Grayscale Dogecoin, XRP ETFs Add to Flurry of Altcoin Fund Debuts",
+    "body": "New XRP and DOGE ETFs from digital asset focused investment firm Grayscale are now live for trading on NYSE Arca.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "dogecoin||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54851263,
+    "published": 1764003641000,
+    "title": "Attack On Cardano Founder Leads To Network Halt, What Really Happened?",
+    "body": "Cardano faced an unexpected shock when a corrupted transaction aimed at Charles Hoskinson’s personal stake pool caused the network to split for several hours. The incident triggered confusion, exposed weaknesses, and sparked a heated clash over motive and responsibility. Here is how a single action spiraled into a full-scale disruption. Cardano Founder Targeted, Network Shaken The Cardano network faced unexpected disruption on November 21, 2025, after an incident targeting the founder’s personal stake pool. What began as a ‘test’ by a stake pool operator quickly escalated into a risky experiment on the main network, where he reportedly followed unverified AI-generated instructions and submitted a malformed transaction. Related Reading: Analyst Shares Why He’s Not Worried About XRP Price – ‘The Road To Valhala The transaction exploited an obscure 2022 cryptographic library bug, causing newer nodes to parse it incorrectly while older nodes rejected it. This triggered a chain split, disrupted block production, and left validators, DeFi protocols, and everyday users struggling to stay aligned for several hours. The operator later admitted that the entire situation was the result of poor judgment, one he described as a personal challenge he handled recklessly. He insisted he had no financial motives, no collaborators, and no intention to target the founder. His message expressed regret for the disruption caused to stake pool operators and developers who had to react immediately. Many operators lost block rewards, and some decentralized applications experienced inconsistent states. While user funds remained safe, the event revealed how one misstep could trigger a chain-wide disturbance. Hoskinson Says It Was Personal And Months In The Making Despite the stake pool operator claiming no intention of harm, Cardano founder Charles Hoskinson rejected the idea that this was an accidental mistake. He stated that the individual responsible had been active in online groups known for hostility toward Cardano and its leadership. According to him, the attacker had spent months discussing ways to disrupt the project’s operations and reputation. Hoskinson pointed out that his personal pool was the direct target. For him, this proved the act was intentional, not an experiment gone wrong. He emphasized that the disruption touched every user on the network, causing stake pool operators to miss earnings, parts of the DeFi ecosystem to stall, and Cardano developers to be forced into rapid emergency fixes. Related Reading: Barstools Founder Just Made A Million-Dollar Investment In XRP, Does He Know Something? He also stated that law enforcement had already stepped in, turning the event into a criminal matter. In his view, the public apology surfaced only after community investigators linked the operator to the incident and federal involvement became clear. The incident left the community divided between two narratives: one of reckless experimentation and one of calculated sabotage. What remains certain is that a targeted hit—intentional or not—exposed how quickly a malformed transaction can fracture the system and force an entire ecosystem into crisis mode. Cardano recovered, but the questions raised by this attack will continue to shape how the network prepares for the next potential threat. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cardano|ADA|ADA news|ADA price|adausd|ADAUSDT|Cardano news|Cardano price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 206,
+        "NAME": "FORKS",
+        "CATEGORY": "FORKS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54851601,
+    "published": 1764004237000,
+    "title": "Crypto Market Mood Lifted as Amazon Pours $50B Into AI Infrastructure",
+    "body": "The price of bitcoin jumped back above $87,000 and crypto miners with a focus on AI/high-performance computing are surging.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|AI|Breaking News|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54851452,
+    "published": 1764003994000,
+    "title": "Neobank Revolut Boosts Valuation to $75 Billion Ahead of Potential Stablecoin Launch",
+    "body": "Revolut’s share sale attracted investors like Fidelity and Franklin Templeton as the neobank continues expanding its crypto offerings.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|matic-network|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
