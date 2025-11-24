@@ -1,99 +1,5 @@
 [
   {
-    "id": 54797105,
-    "published": 1763906417000,
-    "title": "On-Chain Metric Tips Ethereum To Form Price Bottom Below $2,000 – Here’s Why",
-    "body": "Ethereum has been a major victim of the ongoing crypto market onslaught, recording a 27.63% loss in the last month alone. The largest altcoin now trades around $2,800, representing a significant fall from the local cycle peak around $4,800. As prices continue to tumble with each new drop triggering waves of liquidation, analyst Ali Martinez has postulated on a market bottom target. Related Reading: Ethereum Golden Pocket In Play – Can ETH Turn The Tide Above $2,800? ETH MVRV Pricing Bands Reveal Potential 28% Decline Ahead In an X post on November 22, Martinez shares critical on-chain data that suggests Ethereum may be headed for a local bottom target around $2,000. For context, the MVRV Pricing Bands are valuation bands derived from the MVRV ratio and Realized Price (RP), designed to indicate when a cryptocurrency (such as ETH) is undervalued, fairly valued, or overvalued based on its on-chain investor cost basis. This on-chain metric reveals a set of price levels calculated by multiplying ETH’s Realized Price by different fixed multiples (e.g., 0.8x, 1.0x, 2.4x, 3.2x), with each band representing a different degree of under- or over-valuation relative to the average investor’s cost basis. Using historical data on this metric, Martinez has identified that Ethereum tends to form a local bottom only when it dips below the lowest pricing band, i.e., 0.8× RP band (blue line). This pattern has consistently played out over the past three years, with clear examples in June 2022, December 2022, and most recently in March 2025. Notably, the current 0.8x RP band stands at $2,007.08. If ETH is repeating historical behavior, then investors should expect another 28% correction from the present market levels to $2000 before a price rebound kicks in. Related Reading: Pundit Reveals Why XRP Price At $1,000 Is Not A Dream – ‘It’s Math’ ETH RP Indicates Investors Remain In Profit — But Not For Long The Realized Price is defined as the average acquisition price of all circulating ETH tokens. It can be described as the true on-chain value of ETH, with any price gain above this level indicating a profit for an average investor and vice versa for a loss. According to Martinez’s on-chain analysis, ETH’s current market price is barely above its realized price at $2,508. While this observation suggests most investors are still in profit, the recent corrections and the extended downtrend indicate a cause for worry, especially as positive market sentiment gets increasingly weaker. While a price fall below $2,500 may pull so many investors into losses, it could also accelerate the token’s decline to $2,000 and trigger a price rebound. Looking at potential mid-cycle targets, this next bullish wave could push Ethereum to trade around $6,021. At press time, Ethereum is valued at $2,820, reflecting a slight 1.73% gain in the last day. Featured image from Flickr, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|Ali Martinez|ethereum|Ethereum Local Bottom|Ethereum MVRV Pricing Bands|Ethereum Realized Price|Ethereum Support|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54797655,
-    "published": 1763907394000,
-    "title": "Bitcoin Rebounds From 'Extreme Oversold' Levels; XRP Jumps 7%, ZEC Surges 14%",
-    "body": "Bitcoin and major altcoins bounced Sunday after an oversold RSI reading and more than $200M in liquidations signaled seller exhaustion amid thin weekend liquidity.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Markets|btc|Bitcoin News|XRP News|Zcash|Altcoins|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54799138,
     "published": 1763910000000,
     "title": "Sunrise Debut Streamlines Solana Token Imports as Monad Goes Live",
@@ -1515,6 +1421,457 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54844943,
+    "published": 1763991669000,
+    "title": "Hyperliquid’s $314M unlock fuels calls for clarity, sell-pressure warnings",
+    "body": "BitMEX co-founder Arthur Hayes said Hyperliquid’s $314 million unlock brings unavoidable sell pressure, saying insider assurances can’t remove uncertainty.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845485,
+    "published": 1763992968000,
+    "title": "BitMine Adds $60M In Ethereum as Market Recovers while $SUBBD Presale Heats Up",
+    "body": "What to Know: BitMine has bought 21,537 more $ETH for about $60M, now holding over 3% of supply despite roughly $4B in unrealized losses. The company plans a US-based MAVAN validator network to generate staking revenue and turn its massive Ethereum stack into active infrastructure. SUBBD is building an AI-powered creator content platform on Ethereum, using $SUBBD for payments, rewards, and access to automated content tools. The $SUBBD presale combines fixed 20% staking rewards with multi-x upside forecasts, but remains a high-risk early-stage Ethereum ecosystem play. BitMine has just grabbed another 21,537 Ethereum tokens for around $60M, even though it is already sitting on roughly $4B in unrealized losses on its $ETH stack. The company now controls more than 3% of the entire Ethereum supply, making it one of the most important non-foundation players anchoring the network. That is not what capitulation looks like. This fresh buy comes after Ethereum slid more than 25% in a month, putting digital asset treasuries under heavy scrutiny. $ETH is currently below $3K – howeverYet BitMine keeps saying the drawdown is a liquidity shock, not a signal that Ethereum’s fundamentals are breaking. Instead of trimming risk, it is doubling down and preparing to turn its holdings into an active business line. The firm has outlined plans for a US-based validator network called MAVAN (Made in America Validator Network), expected to go live next year and focused on staking Ethereum in a fully regulated model. The idea is simple: if you already own billions in $ETH, you might as well earn yield and become part of the network’s security backbone, rather than just watching price candles. For smaller investors who cannot spin up an industrial validator farm, this kind of move still matters. If a major treasury is willing to absorb eye-watering paper losses while building out Ethereum infrastructure, it is a strong vote of confidence in the chain that underpins most of DeFi, NFTs and, increasingly, AI-focused tokens. 💡 That is where SUBBD Token ($SUBBD) comes in, positioning itself as an AI creator platform native to Ethereum at the very moment large players are reinforcing the base layer. SUBBD Token Powers AI Creator Utilities on Ethereum SUBBD is built around a straightforward idea: creators spend far too much time on admin work and not enough time actually creating. Plus they are charged management fees that eat away at any profit they make. That’s why this project uses AI agents and automation to handle tasks like scheduling, tier management, personalized responses and analytics so that creators can focus on content while fans get a smoother experience. ⚙️ The $SUBBD token sits at the center of this ecosystem. It is used for subscription payments, tips, access to exclusive content and early access to new AI features. Holders also tap into perks such as loyalty rewards and platform benefits that are designed to keep the most engaged fans inside the ecosystem instead of bouncing between centralized platforms with high fees and opaque rules. The project’s ecosystem potentially reaches millions of followers across roughly 2K top influencers plugged into the broader SUBBD brand. That scale matters. If even a small percentage of those fans migrate to on-chain subscriptions and rewards, on-chain activity can build up quickly, especially on an Layer-1 like Ethereum, where BitMine and other big treasuries are reinforcing security via staking. The project whitepaper frames SUBBD as part of the wider creator economy, which already sits around the tens of billions of dollars in annual value. By moving fan payments, perks and AI tools on-chain, the project is trying to turn a Web2-style subscription model into a tokenized system where value accrues not just to a platform, but also to token holders and active participants. 💡 In other words, while BitMine is building ‘physical’ Ethereum infrastructure through MAVAN, SUBBD is aiming to build the application layer where human and AI ‘digital labor’ actually earns revenue. If Ethereum’s long-term story plays out the way BitMine is betting, creator platforms that live directly on the network are positioned to benefit from that same recovery. SUBBD Presale, Staking Rewards And Upside Potential The SUBBD presale is still live, with more than $1.36M already committed and the current token price at $0.057025. The sale uses incremental price steps, with a final presale rate above current levels, so early buyers effectively lock in a small discount before any exchange listings. Learn how to buy $SUBBD now to get in early. On top of that, the team is offering a fixed 20% staking reward during the presale phase. The goal here is not only to give holders passive income in $SUBBD, but also to reduce immediate sell pressure by rewarding those who lock their tokens rather than flipping them at the first listing. 💰Our $SUBBD price prediction maps a potential high of around $0.668 by the end of 2026. From the current presale level of $0.057025, that implies roughly a 12x upside. Compared with BitMine’s strategy of squeezing mid-single digit staking yields from a massive Ethereum position, smaller investors are clearly hunting for higher-gear exposure. A focused application token like $SUBBD links directly to a specific use case in the AI creator economy, while still inheriting the macro thesis that Ethereum remains the settlement layer of choice. Join the SUBBD Token presale before the next price hike. Disclaimer: This article is informational only, not financial advice; presales are speculative, illiquid, and you should be prepared for total capital loss. Authored by Aaron Walker for NewsBTC – https://www.newsbtc.com/news/bitmine-60m-ethereum-buy-subbd-token-ai-creator-presale",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845438,
+    "published": 1763992773000,
+    "title": "Prediction Market Myriad Hits $100M Milestone, Growing 10x in Three Months",
+    "body": "The prediction market protocol’s rapid growth shows the “massive demand” for a marketplace of forecasts and insights, its founders said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Our Company",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      }
+    ]
+  },
+  {
+    "id": 54845183,
+    "published": 1763992364000,
+    "title": "Citigroup Warns of Bitcoin Halving-Season Chill as Prices Sink, ETF Outflows Grow",
+    "body": "Crypto is stuck in a second-year post-halving slump, with ETF outflows and jittery long-term holders pushing bitcoin toward the bank’s bear-case outlook.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|ETFs|Citi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845227,
+    "published": 1763991669000,
+    "title": "Hyperliquid’s $314M unlock fuels calls for clarity, sell-pressure warnings",
+    "body": "BitMEX co-founder Arthur Hayes said Hyperliquid’s $314 million unlock brings unavoidable sell pressure, and insider assurances can’t remove uncertainty.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845584,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845915,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845811,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845983,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845647,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54845704,
+    "published": 1763931570000,
+    "title": "Strategy and Bitcoin supporters call for ‘boycott’ of JP Morgan",
+    "body": "The tension erupted following news that Strategy and other crypto treasury companies would likely be excluded from major market indexes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
