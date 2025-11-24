@@ -1,81 +1,5 @@
 [
   {
-    "id": 54792438,
-    "published": 1763898010000,
-    "title": "Grayscale calls Chainlink the ‘crictical connective tissue’ of tokenized finance",
-    "body": "Grayscale says Chainlink will anchor the next phase of blockchain adoption, positioning LINK as the core infrastructure powering tokenization.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54793983,
-    "published": 1763901000000,
-    "title": "Cardano Temporarily Splits Into Two Chains After Attacker Uses AI-Generated Script to Exploit a Known Bug",
-    "body": "The divergence emerged when newer nodes accepted a malformed transaction that older nodes rejected.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Cardano|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 54797105,
     "published": 1763906417000,
     "title": "On-Chain Metric Tips Ethereum To Form Price Bottom Below $2,000 – Here’s Why",
@@ -1053,6 +977,245 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54840297,
+    "published": 1763983800000,
+    "title": "Crypto Markets Today: Fear Dominates as Altcoins Lag, Bitcoin Tests Key Levels",
+    "body": "Bitcoin’s struggle to reclaim the $90,000 range leaves the broader crypto market vulnerable, with altcoins suffering sharp liquidity-driven underperformance.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54839984,
+    "published": 1763983268000,
+    "title": "Bitcoin Longs on Bitfinex Jump 40% in Three Months as Traders Double Down on Dip",
+    "body": "Rising margin bitcoin longs show confidence despite bitcoins ongoing correction.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bitfinex|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54839922,
+    "published": 1763983191000,
+    "title": "ECB Doubles Down on Warning That Stablecoins Could Pose Global Financial Risks",
+    "body": "The EU’s central bank says stablecoins draw value from eurozone banks and could pose a risk to global financial stability.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|ECB|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 54840693,
+    "published": 1763984522000,
+    "title": "Revolut Hits $75B Valuation in Fundraise Backed by Coatue, NVIDIA, Fidelity",
+    "body": "Revolut is growing its crypto offerings, including a recent partnership with Polygon Labs and a MiCA license to offer crypto services across Europe.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Revolut|Fundraise|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 38,
+        "NAME": "MATIC",
+        "CATEGORY": "MATIC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54840646,
+    "published": 1763984325000,
+    "title": "Solana Holders Under Pressure as Sell-Off Deepens",
+    "body": "With 80% of SOL holders underwater and $239M in longs at risk, analysts warn of panic selling but see long-term value in ETF inflows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54841465,
+    "published": 1763985636000,
+    "title": "SPAC Stocks Are Back in Risky Financial ‘Turducken’",
+    "body": "Retail investors are expected to be the biggest losers from deals involving digital asset treasuries.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54841956,
+    "published": 1763986486000,
+    "title": "New NPM supply-chain attack compromises major ENS and crypto libraries",
+    "body": "A researcher warned that more than 400 NPM libraries — including at least 10 crypto packages, mostly tied to ENS — were compromised by the Shai Hulud malware.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 139,
+        "NAME": "ENS",
+        "CATEGORY": "ENS"
       },
       {
         "TYPE": "122",
