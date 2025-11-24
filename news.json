@@ -1,34 +1,5 @@
 [
   {
-    "id": 54782895,
-    "published": 1763881872000,
-    "title": "Bitcoin ATM firm explores $100M sale following CEO’s federal indictment",
-    "body": "Crypto Dispensers is weighing a $100 million sale as its CEO faces federal accusations of running a multimillion-dollar money laundering scheme.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54789243,
     "published": 1763892873000,
     "title": "Zcash risks ‘splitting the vote’ against Bitcoin, Bloomberg ETF analyst warns",
@@ -851,6 +822,35 @@
     "published": 1763965742000,
     "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
     "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was “mandatory doxing.”",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54831099,
+    "published": 1763965742000,
+    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
+    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
     "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "",
