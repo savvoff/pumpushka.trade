@@ -1,69 +1,5 @@
 [
   {
-    "id": 54822518,
-    "published": 1763951005000,
-    "title": "Bitwise CIO Says Most DATs Are Headed for Discounts, Not Premiums: Here's Why",
-    "body": "Bitwise's Hougan argues that structural drag in DATs outweighs the few uncertain paths firms have to lift their crypto-per-share.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 54823555,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54826037,
     "published": 1763957631000,
     "title": "VanEck boss questions Bitcoin’s privacy, encryption against quantum tech",
@@ -1378,47 +1314,6 @@
     ]
   },
   {
-    "id": 54846439,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54846673,
     "published": 1763979821000,
     "title": "Pump.fun’s massive $436M ‘cash-out’ turns heads as memecoin mania fades",
@@ -1525,88 +1420,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54846949,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54846672,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -1776,129 +1589,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847067,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847365,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847183,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -2079,47 +1769,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847485,
-    "published": 1763952957000,
-    "title": "NYSE approves Grayscale DOGE and XRP ETFs, clearing launch for Monday",
-    "body": "NYSE Arca has greenlit the launch of Grayscale’s exchange-traded funds tied to Dogecoin and XRP, with the products set to go live for trading on Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -3859,6 +3508,170 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54866999,
+    "published": 1764036052000,
+    "title": "HBAR Price Pumps on Strong ETF Inflows, But Technical Risks Still Loom",
+    "body": "Hedera (HBAR) is kicking off the week with a strong burst of momentum, climbing more than 5% in the past 24 hours to trade around $0.14. Related Reading: Will The Low XRP Price Force Ripple To Dump Its Holdings? Exec Answers Community The wider crypto market is finally flashing green, but the HBAR price is clearly outpacing the pack thanks to a wave of institutional interest, rising ETF inflows, and growing excitement ahead of Coinbase’s futures launch. Still, despite the bullish sentiment, chart signals warn that the token isn’t out of danger just yet. HBAR's price trends to the downside on the daily chart. Source: HBARUSD on Tradingview ETF Inflows, Futures Launch Fuel the Rally The sudden HBAR price acceleration comes at a moment when multiple catalysts are stacking in its favor. Trading volume has surged by more than 190%, pushing Hedera into the top gainer bracket of the day. A major driver is Coinbase’s upcoming rollout of 24/7 HBAR futures trading on December 5, which opens the door for more institutional hedging, speculation, and liquidity. The ETF space is also turning increasingly supportive. Canary Capital’s HBAR ETF has boosted its holdings to over 421 million HBAR, now valued at nearly $55 million, after three straight sessions of positive net inflows. Since its launch, the ETF has attracted over $72 million, a rare trend during a period when other major crypto funds, particularly those focused on Bitcoin and Ethereum, have experienced significant outflows. Additionally, the IRS’s new stance allowing staking inside ETFs and the SEC’s updated listing standards have brightened the long-term outlook for HBAR-based investment products. Meanwhile, real-world adoption narratives are strengthening thanks to Wyoming’s stablecoin pilot on Hedera and tokenized ETF assets deployed. HBAR Price Bullish Setup, But Still Below Key Trendlines Technically, the HBAR price is showing early signs of a possible reversal. Analysts highlight a triple bottom pattern forming around the $0.123 zone, an area buyers have defended multiple times this year. Rising futures open interest and an improving long/short ratio add to the bullish backdrop. However, Hedera remains trapped beneath a dominant descending trendline that has rejected every rally since September. The 20-day EMA at $0.155 continues to cap upside attempts, while the 50- and 100-day EMAs reinforce heavy resistance above. Momentum indicators have improved, but the broader trend remains bearish unless the HBAR price decisively breaks above $0.155. Short-Term Outlook: Cautious Optimism If buyers maintain pressure, the HBAR price could retest the $0.16–$0.18 region. A clean breakout above the falling channel would set the stage for a larger move toward $0.228, the neckline of the triple bottom. But failure to overcome resistance keeps the token vulnerable to retracements toward $0.14, then $0.125, and potentially $0.10 if bearish momentum resurfaces. Related Reading: Dogecoin Just Replicated This Bullish Trend For The 3rd Time, Can Price Still Reach $1? For now, ETF demand and growing futures interest are providing Hedera with a welcome boost; however, the technical challenges ahead remain difficult to ignore. Cover image from ChatGPT, HBARUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|HBAR|Hedera",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 81,
+        "NAME": "HBAR",
+        "CATEGORY": "HBAR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54867331,
+    "published": 1764036835000,
+    "title": "Musk Says Real-World Data From X and Tesla to Drive AGI Efforts",
+    "body": "SpaceX's CEO, Elon Musk, said Tesa’s fleet and X’s live data are providing him with training inputs that competitors lack.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54867434,
+    "published": 1764037096000,
+    "title": "Asia Morning Briefing: BTC Steadies as Polymarket Traders Lean Toward December Rate Cut",
+    "body": "Rising odds of a Fed pivot helped calm crypto markets, while QCP and Glassnode point to a reset in leverage, fading sell pressure, and early signs of a bottoming structure as traders hedge both downside and late-year upside.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|btc|ETH|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54868108,
+    "published": 1764038537000,
+    "title": "South Korea’s Upbit parent plans US IPO after Naver merger: Report",
+    "body": "US investors could soon get exposure to South Korea’s active crypto market, as crypto exchange Upbit’s parent company, Dunamu, reportedly eyes a Nasdaq listing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
