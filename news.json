@@ -1,198 +1,5 @@
 [
   {
-    "id": 54854363,
-    "published": 1764009440000,
-    "title": "Ondo turns to Figure’s stablecoin with $25M investment to back tokenized fund",
-    "body": "The purchase broadens Ondo Finance’s onchain Treasury reserves and comes amid a renewed push into crypto-backed lending across fintechs, lenders and exchanges.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 108,
-        "NAME": "ONDO",
-        "CATEGORY": "ONDO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54855015,
-    "published": 1764010786000,
-    "title": "5 Reasons Why Bitcoin Crashed—And Why It Could Fall Further: Deutsche Bank",
-    "body": "Bitcoin crashed from $121K to $82K—Deutsche Bank explains the five factors behind the 32% plunge and uncertain recovery ahead.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54854825,
-    "published": 1764010497000,
-    "title": "Celestia’s TIA Token Rises as ‘Matcha’ Upgrade Preps Network for Cross-Chain Future",
-    "body": "The event is being called its biggest software upgrade yet, which boosts the network’s capacity and improves token economics.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Celestia|Celestia labs|Tia|Upgrade|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 118,
-        "NAME": "TIA",
-        "CATEGORY": "TIA"
-      }
-    ]
-  },
-  {
-    "id": 54854641,
-    "published": 1764009440000,
-    "title": "Ondo turns to Figure’s stablecoin with $25M investment to back tokenized fund",
-    "body": "The investment broadens Ondo Finance’s onchain Treasury reserves and comes amid a renewed push into crypto-backed lending across fintechs, lenders and exchanges.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 108,
-        "NAME": "ONDO",
-        "CATEGORY": "ONDO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54855273,
-    "published": 1764011384000,
-    "title": "CME Crypto Futures Volume Hits Record 795K Contracts Amid Volatility",
-    "body": "A surge in institutional and retail demand has pushed CME’s crypto average daily volume up 132% year-over-year, with open interest climbing 82%.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|CME Futures|Cryptocurrency Derivatives|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54855888,
     "published": 1764012483000,
     "title": "Monad's $105 Million Airdrop Underwhelms Speculators as Token Debuts Near Sale Price",
@@ -3268,6 +3075,164 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54887252,
+    "published": 1764094630000,
+    "title": "Is the Bull Market over? The AI Manhattan Project! Monad Launch Reaction!",
+    "body": "Crypto majors rallied alongside a broad market surge, with BTC up 2% to $87,400, ETH up 4% to $2,920, BNB up 1% to $850, and SOL up 5% to $136, while KAS (+22%), ENA (+13%), and SUI (+11%) led the day’s top movers. The NASDAQ jumped 2.7% as stocks such as GOOG (+6%) and TSLA (+7%) posted strong gains. In policy and industry developments, the White House launched the “Genesis Mission,” described as a Manhattan Project–style initiative for AI, and Binance along with CZ faced new accusations of enabling crypto transactions for Hamas. Kraken hinted at a debit card debut expected today, and Tether purchased another 1 million Rumble shares, pushing the YouTube rival’s stock sharply higher. Meanwhile, the European Central Bank reiterated its warnings that the rapid growth of stablecoins could introduce stability risks to the wider financial system.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54887984,
+    "published": 1764097255000,
+    "title": "Hamas Victims Sue Binance And CZ — Accusations Of Terror Financing Rock Crypto World",
+    "body": "Based on reports, victims of the October 7 attacks in Israel have filed a federal lawsuit against Binance and its founder, Changpeng “CZ” Zhao, claiming the exchange allowed large crypto flows to militant groups. Related Reading: Bitcoin Creator Somehow Becomes ‘Poor’ By Losing $41 Billion Without Saying A Word The complaint lists 306 American plaintiffs who say they were killed, injured, or taken hostage and are demanding damages. Dormant Accounts Draw Scrutiny According to the filing, the plaintiffs allege Binance helped move more than $1 billion for Hamas and other US-designated groups over several years. They claim that more than $50 million passed through the platform after the October 7, 2023 assault. These figures sit at the center of the case and could shape the request for compensatory and treble damages. The complaint also highlights unusual account activity that lawyers say should have triggered alarms. One example involves an account tied to a Venezuelan woman linked to a Brazilian livestock business. Binance Holdings faces a lawsuit claiming the cryptocurrency platform “knowingly facilitated” crypto transactions by Hamas before the group attacked Israel on Oct. 7, 2023, killing 1,200 people and taking 250 hostages. https://t.co/B3rO7bAjN6 — The Japan Times (@japantimes) November 25, 2025 Reports say the account received over $177 million in deposits after opening in 2022 and later sent out more than $130 million in withdrawals. Attorneys argue that movements of this size should have been examined more closely. Large Sums And Strange Flows Based on reports, the plaintiffs argue that Binance’s controls were weak or ignored, allowing questionable transfers to move across borders. The lawsuit lists alleged links to Hamas, Hezbollah, Palestinian Islamic Jihad, and Iran’s Revolutionary Guard. Lawyers claim the platform became a tool for shifting money while avoiding standard financial checks. Binance has said it complies with international sanctions laws and has denied having any special ties to terrorist groups. Its legal history forms part of the background: in late 2023, the company pleaded guilty in a major federal case and paid a $4.32 billion penalty tied to anti-money-laundering and sanctions violations. That earlier case, along with Zhao’s four-month prison sentence, is referenced in the new complaint. Related Reading: Bitcoin’s Sudden Volatility Jump Signals Options Could Be Calling The Shots—Analyst Legal Stakes And Future Impact The new lawsuit seeks damages under a US anti-terrorism law that can triple any award. If the plaintiffs succeed, the financial and reputational impact on Binance could be severe. The complaint was filed in federal court in North Dakota and is separate from another case in Manhattan that is already moving through the court system. The filing also recalls that Zhao’s prison sentence was later followed by a pardon from US President Donald Trump, something the plaintiffs point to as part of the exchange’s complicated legal path. They argue this new lawsuit is necessary to push for accountability after years of what they see as weak controls. Featured image from alliance / Zumapress.com, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Binance|bitcoin|changpeng zhao|CZ|Gaza|Hamas|terror funding",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54887827,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to soon vote on prospective CFTC Chair Michael Selig as a replacement for acting chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54887666,
+    "published": 1764096666000,
+    "title": "U.S. Crypto Regulator, CFTC, Seeking Names for New 'CEO Innovation Council'",
+    "body": "Acting Chairman Caroline Pham said the group will help usher in a new era of market structure, including a focus on digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|U.S. Commodity Futures Trading Commission|Caroline D. Pham|Regulation|CEO|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
