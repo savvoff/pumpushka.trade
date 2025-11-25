@@ -1,191 +1,5 @@
 [
   {
-    "id": 54828426,
-    "published": 1763961982000,
-    "title": "Bitcoin ETFs, Led By BlackRock's IBIT, See Record $40B Trading Volume as Institutions Capitulate",
-    "body": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|ETFs|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54828562,
-    "published": 1763962464000,
-    "title": "JPMorgan Chase Ends Banking Ties With Strike CEO, Rekindling Crypto Debanking Concerns",
-    "body": "JPMorgan Chase’s move has renewed scrutiny of alleged anti-crypto debanking despite a Trump order banning the practice.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54828967,
-    "published": 1763963214000,
-    "title": "Department of Government Efficiency Winds Down Despite Months Left To Run: Report",
-    "body": "The administration’s DOGE office has gone dormant months early as the White House weighs easier paths to close federal units.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "dogecoin|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54830348,
-    "published": 1763965920000,
-    "title": "Bitcoin climb to continue as selling pressure eases: Analysts",
-    "body": "Bitcoin showed signs of recovery after nearing $82,000 on Friday, with analysts noting easing selling pressure and rising Fed rate cut expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54830347,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54831099,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54835332,
     "published": 1763974797000,
     "title": "4 Days Left Until Best Wallet Token Presale Ends: Explosion Soon?",
@@ -1852,35 +1666,6 @@
     ]
   },
   {
-    "id": 54853665,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54854053,
     "published": 1764009048000,
     "title": "XRP Real Purpose: Documentation Shows Payment Utility Contrary To Viral Claims — Details",
@@ -1928,180 +1713,6 @@
     ]
   },
   {
-    "id": 54854091,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54853770,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54853720,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54853879,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54853828,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54853933,
-    "published": 1763965742000,
-    "title": "Buterin says X’s new location feature ‘risky’ as crypto users flag privacy concerns",
-    "body": "Uniswap founder Hayden Adams said X's new feature showing the country that an account is based in was a form of “mandatory doxing.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54854363,
     "published": 1764009440000,
     "title": "Ondo turns to Figure’s stablecoin with $25M investment to back tokenized fund",
@@ -2133,146 +1744,6 @@
         "ID": 209,
         "NAME": "DIGITAL ASSET TREASURY",
         "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54854531,
-    "published": 1763965920000,
-    "title": "Bitcoin climb to continue as selling pressure eases: Analysts",
-    "body": "Bitcoin showed signs of recovery after nearing $82,000 on Friday, with analysts noting easing selling pressure and rising Fed rate cut expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54854590,
-    "published": 1763965920000,
-    "title": "Bitcoin climb to continue as selling pressure eases: Analysts",
-    "body": "Bitcoin showed signs of recovery after nearing $82,000 on Friday, with analysts noting easing selling pressure and rising Fed rate cut expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54854419,
-    "published": 1763965920000,
-    "title": "Bitcoin climb to continue as selling pressure eases: Analysts",
-    "body": "Bitcoin showed signs of recovery after nearing $82,000 on Friday, with analysts noting easing selling pressure and rising Fed rate cut expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54854480,
-    "published": 1763965920000,
-    "title": "Bitcoin climb to continue as selling pressure eases: Analysts",
-    "body": "Bitcoin showed signs of recovery after nearing $82,000 on Friday, with analysts noting easing selling pressure and rising Fed rate cut expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -3383,6 +2854,233 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54873633,
+    "published": 1764050410000,
+    "title": "Tether, the gold whale",
+    "body": "Gilty by association",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54873589,
+    "published": 1764050405000,
+    "title": "JPMorgan’s Alleged Short On Strategy (MSTR): How A 50% Price Jump Could Spell Major Troubles",
+    "body": "Strategy, formerly known as MicroStrategy, the largest public holder of Bitcoin (BTC), finds itself at the center of a stormy controversy involving JPMorgan as Bitcoin prices continue to struggle. With signs of a potential bear market emerging, fresh rumors suggest that one of the world’s largest banks allegedly holds a significant short position on Strategy’s stock (MSTR), which has plunged 69% from its record high of $543 per share last year. Strategy Faces Potential MSCI Exclusion The turmoil escalated last week when JPMorgan issued a warning that Strategy might soon be removed from major equity indices, specifically the MSCI USA Index. JPMorgan’s analysts noted that the issues facing Strategy extend beyond the recent downturn in cryptocurrency prices, which have seen Bitcoin fall more than 30% from its all-time highs. As of this writing, Bitcoin is trading around $86,000, while the broader crypto market has experienced a staggering $1 trillion decline in total market capitalization over the past month. Related Reading: Why XRP Price Crash Below $2 Is Not A Problem – $20 Is Still The Target JPMorgan’s analysts indicated that MSCI is considering whether companies with over 50% of their total assets in digital currencies should qualify for inclusion in traditional equity indices. Given that Strategy’s balance sheet is heavily weighted with Bitcoin, it is at significant risk of exclusion. The analysts stated that “MicroStrategy [is] at risk of exclusion from major equity indices as the January 15th MSCI decision approaches.” They speculated that removal from the MSCI could trigger approximately $2.8 billion in outflows, and if other index providers follow MSCI’s lead, the total could reach as high as $8.8 billion. The situation is complicated by market dynamics, particularly the timing of JPMorgan’s bearish note, which coincided with Bitcoin’s weakness and MSTR’s decline, all while liquidity was thin and overall sentiment fragile. JPMorgan Faces Account Closures Surge According to analysts at the Bull Theory, JPMorgan has been noted for timing its market reports—bearing down when prices are already weak and striking a more bullish tone near market peaks. The analysts have highlighted that share lending for MSTR has reportedly increased, allowing brokers to lend shares to short sellers, which can exacerbate downward pressure on the stock price. Additionally, there are escalating reports of widespread account closures at JPMorgan, with thousands claiming to have exited due to perceived manipulation of both MSTR and Bitcoin. Related Reading: A Quiet Move In Bitcoin Options Is Starting To Raise Big Questions Amid these developments, the fear of a potential short squeeze is growing. The analysts believe that if Strategy’s stock were to rally around 40% to 50%, it could trigger a short squeeze in the bank’s position and spell major financial troubles. In response, Michael Saylor, the CEO of Strategy, has sought to clarify the company’s identity, emphasizing that it is not just a passive Bitcoin holder. He pointed out that Strategy operates as a software business with an active financial strategy, countering the narrative circulating around MSCI’s concerns. As the situation unfolds, several key points emerge. The October 10th crash appeared to align with the MSCI announcement, coinciding with an already fragile market state. JP Morgan’s strategic timing of its bearish insights has amplified existing fears, creating further uncertainty as MSCI’s final decision looms. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btc|jpmorgan|JPMorgan news|Microstrategy|MicroStrategy Bitcoin|MicroStrategy news|MSTR|Strategy",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54873322,
+    "published": 1764018294000,
+    "title": "Revolut hits $75B valuation following share sale, global push",
+    "body": "Revolut completed a private share sale with participation from major investment companies. The transaction also allowed employees to sell shares.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54873859,
+    "published": 1764050673000,
+    "title": "‘OG whale’ who called the October crash has a $44.5M long on Ether",
+    "body": "The Hyperliquid whale that made $200 million in the October crash has just added another $10 million to its long position on Ether.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54873858,
+    "published": 1764050619000,
+    "title": "Crypto VC activity hits $4.6B in Q3, second-best quarter since FTX collapse",
+    "body": "Half of the capital raised in the third quarter was from seven venture deals, with Revolut leading the way with a $1 billion investment.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54873746,
+    "published": 1764014400000,
+    "title": "Bitcoin data calls $80K the bottom as analysts say BTC bulls are back",
+    "body": "One analyst said Bitcoin’s dip to $80,000 marked the bottom and that there was a 91% chance the current trend reversal would send BTC price back to $118,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54874429,
+    "published": 1764051991000,
+    "title": "XRP Surges 7% in Strongest Breakout in Weeks as Ripple Linked ETFs Go Live",
+    "body": "Technical indicators suggest a bullish trend, with XRP testing a major descending channel that could lead to further gains.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
