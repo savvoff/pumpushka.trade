@@ -1,163 +1,5 @@
 [
   {
-    "id": 54846334,
-    "published": 1763994550000,
-    "title": "CoinDesk 20 Performance Update: Hedera (HBAR) Gains 11.3%, Leading the Index Higher",
-    "body": "Cronos (CRO) was also a top performer, rising 9.7% over the weekend.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 75,
-        "NAME": "CRO",
-        "CATEGORY": "CRO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 81,
-        "NAME": "HBAR",
-        "CATEGORY": "HBAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847255,
-    "published": 1763996293000,
-    "title": "Bitcoin’s $1T Rout Exposes Fragile Market Structure, Deutsche Bank Says",
-    "body": "The bitcoin price drop to $80,000 last week reflected a mix of macro pressure, fading regulatory momentum and thinning liquidity that has tested bitcoin’s maturity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|ETFs|Interest Rates|Deutsche Bank|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847140,
-    "published": 1763996028000,
-    "title": "XRP Slides to $2.08 as Grayscale’s GXRP ETF Debut Fails to Ignite Market",
-    "body": "Traders should watch for potential breakdowns below $2.03, which could lead to further declines toward $1.91.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54847948,
-    "published": 1763997217000,
-    "title": "Bitcoin price $80K low was bottom, thinks Arthur Hayes",
-    "body": "Bitcoin found its latest floor when it dropped to nearly $80,000 last week, the latest BTC price prediction by ex-BitMEX CEO Arthur Hayes said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54848318,
     "published": 1763998203000,
     "title": "Why XRP Price Crash Below $2 Is Not A Problem – $20 Is Still The Target",
@@ -2294,6 +2136,876 @@
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882369,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54882239,
+    "published": 1764079920000,
+    "title": "Swedish Buy Now, Pay Later Giant Klarna Rolling Out Stablecoin with Stripe's Bridge",
+    "body": "Digital bank Klarna's stablecoin, issued by Stripe’s Bridge on top of the upcoming Tempo blockchain, is set to debut next year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoin|Klarna|Stripe|Bridge|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54882275,
+    "published": 1764079273000,
+    "title": "Flow Traders Opens New Institutional Gateway to DeFi With Cap and EigenLayer",
+    "body": "The liquidity provider and market maker is now operating through Cap, in a “blueprint” for bringing institutional finance on-chain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54882273,
+    "published": 1764079262000,
+    "title": "Russian Man Detonates Airsoft Grenades in Botched Crypto Heist",
+    "body": "The amateurish robbery attempt at a crypto firm in Russia comes amid a global surge in violent crypto attacks.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882236,
+    "published": 1764079200000,
+    "title": "The Coming Bitcoin Treasury Bubble",
+    "body": "Today’s uncertain macroeconomic climate has created an environment where corporate leaders are desperate to look innovative – Bitcoin treasuries give them a way to do that, without fixing their broken business models, says Tony Yazbeck, co-founder of The Bitcoin Way.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|Digital Asset Treasury|MicroStrategy|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882446,
+    "published": 1764079200000,
+    "title": "U.S. Bancorp Tests Stablecoin on Finance-Focused Blockchain Amid New Crypto Gold Rush",
+    "body": "U.S. Bancorp is testing its own stablecoin on the public blockchain Stellar as part of a broader push into digital assets, according to the Minneapolis-based financial institution.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NYS:USB",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882282,
+    "published": 1764079055000,
+    "title": "BitMine Bags 70K ETH As PEPENODE Mining Meme Coin Nears $2.2M in Viral Presale",
+    "body": "What to Know: BitMine Immersion now controls 3% of Ethereum’s circulating supply after buying nearly 70K $ETH in a single week. Crypto treasury stocks have seen their market caps compress relative to holdings, even as major players keep accumulating $BTC and $ETH. PEPENODE’s mine-to-earn model turns virtual mining rigs and meme rewards into a high-engagement alternative to passive presale tokens. For degen-level risk-takers, $PEPENODE combines early-stage staking yield and meme exposure into one speculative ecosystem play. Ethereum treasuries are back in the spotlight. BitMine Immersion Technology just snapped up another 69,822 $ETH in a single week, lifting its stash to 3.63M $ETH (roughly 3% of the entire circulating supply), and boosting combined crypto and cash holdings to $11.2B. The timing is spicy. $ETH has dropped close to 30% over the past month, dragging the value of BitMine’s treasury down from over $12B to near $10–11B before the latest rebound. Yet BitMine keeps buying, effectively doubling down on an ‘own the network’ thesis while its stock trades under pressure like other crypto-treasury plays. It’s the same tension playing out in Bitcoin land. Large $BTC treasuries have seen their market caps slump relative to the value of the coins they hold. And yet, while some $BTC has bled off, the drumbeat of acquisitions continues. This ongoing trend generates a weird split: corporate balance sheets hoarding blue-chip crypto, public equity multiples compressing, and retail investors left wondering whether to buy the coins, the stocks, or something else entirely. That’s where high-yield narratives like PEPENODE start to look interesting, particularly for meme coin hunting retail traders. Instead of owning a listed treasury at a discount, you effectively buy into a mine-to-earn meme ecosystem with direct token exposure, aggressive staking yields, and gamified virtual mining mechanics. PEPENODE Turns Virtual Mining Into Meme-Driven Yield PEPENODE ($PEPENODE) is built as a mine-to-earn meme coin on Ethereum, but it doesn’t ask anyone to plug in an ASIC. Instead, the project unveils a fully virtual mining simulator where holders use $PEPENODE tokens to buy miner nodes and upgrade digital facilities. Here, you’re building out customizable server rooms that generate simulated hashpower and rewards inside a web app dashboard. The idea is simple but clever; virtual mining rewards put in a meme coin wrapper and accessible from any basic Ethereum wallet. No rigs, no cooling fans, no angry landlord. PEPENODE also leans into the meme economy. The roadmap includes rewards not only in $PEPENODE itself but also in some of the best meme coins like $PEPE and other community favorites. These rewards will go to the top leaderboard players once the full game is live. That turns the platform into a kind of meta-meme mining arcade: you’re using one frog coin to farm a whole basket of others. On top of the gameplay, the presale already offers staking, not at a whopping 589% rewards for early participants, with emissions distributed over two years. It fits the project’s pitch: reward early backers aggressively while the mine-to-earn ecosystem spins up. For anyone watching BitMine push toward a validator-heavy future with its planned US-based staking network, PEPENODE feels like the retail, gamified interpretation of the same meta, just with memes, frogs, and a leaderboard instead of a Nasdaq ticker. Check PEPENODE’s official website for more. $PEPENODE Presale Maps Out 2025–2026 Upside While treasuries like BitMine and the big Bitcoin holders wrestle with stock prices that occasionally drift below the value of their underlying crypto, $PEPENODE is still in pure token-issuance mode. The presale has already crossed $2.19M raised at a live token price of $0.0011638, with staged pricing designed to ratchet higher as each funding milestone is hit. That puts new buyers roughly in line with recent analyst models. Our $PEPENODE token forecast sees a potential high of $0.0077 for 2026 if the mine-to-earn game launches on schedule, exchange listings land, and crypto sentiment stays constructive. From today’s presale price, that implies a theoretical upside of roughly ~560% into 2026 under optimistic conditions. Learn how to buy $PEPENODE to join now. Instead of paying a premium or small discount for a listed treasury stock, whose upside is tied to multiples and macro flows, you’re taking on a high-risk, high-reward crypto with high-APR staking, decent upside potential, and optional exposure to multiple meme assets via the virtual mining rewards. Instead of just parking tokens and waiting for TGE, early buyers can stake immediately, then later deploy those same tokens into nodes and upgrades once Phase 3 of the roadmap kicks in. The result is a presale that behaves less like a static raise and more like a soft launch of the game economy. In a market where big treasuries are under valuation pressure but still hoarding $BTC and $ETH on conviction, that kind of asymmetric, gameplay-driven upside is exactly what many retail traders are hunting for on the risk curve. Explore the PEPENODE presale while early. This is not financial advice. Crypto and presale investments are highly volatile; never risk capital you cannot afford to lose. Authored by Aaron Walker, NewsBTC – https://www.newsbtc.com/news/bitmine-70k-eth-buy-pepenode-mine-to-earn-viral-presale/",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882365,
+    "published": 1764078780000,
+    "title": "Portfolio diversification leading driver for crypto investment in 2025: Sygnum",
+    "body": "Diversification has become the top driver for crypto investment in 2025, with rising ETF demand and lingering regulatory gaps shaping investor behavior.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882232,
+    "published": 1764078624000,
+    "title": "Exodus’ W3C Deal Adds Stability as Firm Builds Full Payments Stack: Benchmark",
+    "body": "The acquisition pushes the crypto-wallet maker toward a more fintech-style business model.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Exodus|Baanx|mergers and acquisitions|Benchmark|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54882229,
+    "published": 1764078300000,
+    "title": "Taurus Expands Institutional Footprint With Super Validator Role on Canton Network",
+    "body": "The digital-asset infrastructure provider will help secure and govern the Canton Network while expanding custody services for institutions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Taurus|Crypto Custody|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54882270,
+    "published": 1764077531000,
+    "title": "Morning Minute: Monad's $4B Debut",
+    "body": "It was a launch day that beat most expectations for the newest high-speed L1 blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 54882361,
+    "published": 1764076604000,
+    "title": "VanEck quietly backpedals on BNB ETF staking in latest SEC filing",
+    "body": "VanEck’s amended BNB ETF filing scraps all staking plans, unlike its Solana product, explicitly distancing itself from BNB staking amid regulatory risk.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882281,
+    "published": 1764076138000,
+    "title": "Franklin’s XRP ETF Move Puts SUBBD Token’s Payments Play In The Spotlight",
+    "body": "What to Know: Franklin Templeton’s XRP ETF launch reinforces the idea that on-chain settlement assets are becoming part of mainstream financial infrastructure. As XRP’s payment narrative matures through regulated ETFs, investors increasingly look to smaller-cap projects building specialized on-chain payment rails. SUBBD Token targets the creator economy with Web3 subscriptions, AI-powered tools, and on-chain payments designed to streamline global creator–fan monetization. The SUBBD presale blends high-advertised staking rewards with payment-focused utility, offering a leveraged play on the broader settlement narrative. Franklin Templeton stepping into the XRP ETF race is more than another ticker lighting up on NYSE Arca. Its new product, XRPZ , is being positioned as a regulated gateway into an asset the firm says plays a ‘foundational role’ in global settlement. Coming from one of the world’s oldest asset managers , that language is a loud signal: on-chain payments aren’t a fringe experiment anymore, they’re entering the institutional toolkit. XRP’s pitch has always been straightforward: faster, cheaper cross-border settlement that overlays existing banking infrastructure instead of trying to rip it out. When a legacy manager wraps that thesis in an ETF and labels it core infrastructure, it effectively tells traditional capital that this is now part of the plumbing, not a speculative side quest. The market backdrop strengthens that read. XRP has been outperforming relief rallies as traders shift into payment and settlement narratives, while regulators in major jurisdictions are increasingly treating it as a utility-grade asset rather than a high-beta security proxy. The broader story of real-world payments, speed, and transaction efficiency is finally maturing just as institutional wrappers arrive. That’s where the ripple effects start. Once big funds get comfortable with the payments narrative through products like XRPZ, their next instinct is to look further down the risk curve for emerging infrastructure plays. If XRP is the ‘blue-chip’ settlement asset, the hunt naturally shifts to smaller-cap projects aiming to modernize payments in niche, high-growth verticals. And that’s exactly where SUBBD Token ($SUBBD) lands, a creator-economy payment and subscription layer enhanced by AI automation tools, currently live in presale and positioning itself as the next wave of Web3 settlement infrastructure. SUBBD Token Builds Payment Rails For The Creator Economy SUBBD positions itself as a Web3 subscription stack for the creator economy: recurring payments, gated content, AI-powered automation, and fan interactions, all unified by a single token. Instead of relying on card processors, unpredictable platform policies, and high take-rates, $SUBBD aims to let fans subscribe, tip, and unlock exclusive content fully on-chain, giving creators more control over revenue, distribution, and audience data. The core pitch mirrors the same value proposition that’s suddenly making XRP ETFs appealing to TradFi: efficient, programmable payments. Where XRP focuses on global settlement infrastructure, SUBBD targets the $80B+ creator economy, a sector still running on siloed, fee-heavy rails where creators depend on platforms that can change rules overnight. By moving subscriptions and microtransactions on-chain, SUBBD removes chargebacks, reduces intermediaries, lowers international friction, and makes cross-border creator payments effectively instant. At the center of that system is the token. $SUBBD powers platform payments, unlocks premium features, and rewards active participation across the ecosystem. Fans can request custom content, tip creators directly, or access authenticated AI-generated assets and subscriber-only experiences. Creators earn a native asset they can stake, reinvest into perks, and, as governance evolves, potentially help steer platform direction. Staking is a major part of the early flywheel. The presale advertises headline yields up to 628%, a clear attempt to incentivize early adopters who want long-term exposure rather than short-term speculation. For investors watching XRP ETFs normalize on-chain settlement, a model where value flows back to participants instead of intermediaries fits neatly into the same macro trend. With that backdrop, SUBBD stops looking like a random presale and starts reading as a focused bet on where sector-specific payment rails are heading next, especially for investors tracking the overlap between creator monetization, AI tooling, and on-chain settlement. SUBBD Token Presale Targets High-Upside XRP-Style Thesis On the numbers front, the SUBBD presale has already cleared $1.36M in commitments, with tokens currently offered at around $0.057025. For a project still pre-listing, that level of early demand suggests the payments narrative is resonating with at least part of the market, especially notable given how choppy broader conditions remain. The presale is set to run into Q4 2025, giving the team a long runway to expand the product suite, ship AI creator tools, and secure platform partnerships before major exchange listings. That buffer matters. If XRP-style payment narratives continue gaining institutional traction through ETFs and regulated wrappers, smaller projects positioned as niche payment rails could benefit from both narrative spillover and practical integration into everyday creator workflows. Our price predictions have SUBBD reaching a potential year-end 2025 high of around $0.438 — roughly a 7.7x gain from today’s presale pricing — assuming execution stays on track and market momentum continues. Looking ahead, the same framework floats a 2026 high around $0.66, which would imply roughly 11–12x upside under bullish conditions if user adoption and listings track positively. None of these scenarios is guaranteed. Hitting them would require SUBBD to deliver on its roadmap, onboard real creators and audiences, and avoid the typical post-listing unwind that derails many presales. But set against Franklin Templeton’s renewed push into XRP’s settlement thesis, the broader picture becomes clearer: If blockchains are increasingly being used as real settlement layers, then application-layer tokens specializing in high-frequency, creator-driven payments represent a logical higher-beta extension of that trend. For traders comfortable with that profile, the combination of live presale pricing, aggressive staking incentives, and a payments-first narrative aligned with XRP’s new institutional moment is the kind of setup that tends to catch early-stage attention. Risk-tolerant investors who want exposure to the narrative can follow our full guide on how to buy SUBBD . This article is for informational purposes only and does not constitute financial advice; always conduct independent research. Authored by Aaron Walker, NewsBTC – https://www.newsbtc.com/news/franklin-xrp-etf-bet-subbd-token-presale-creator-payments",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882279,
+    "published": 1764075634000,
+    "title": "Bitcoin Flashes A Triple Bearish Divergence: CMT Sounds The Alarm",
+    "body": "Bitcoin’s three-year advance may be rolling over, according to Chartered Market Technician Tony Severino, who argues that BTC has now completed a “triple bearish divergence” on higher timeframes – a structure he characterises as the trend “dying under the hood” even as price printed fresh highs. Bitcoin Has Hit A Triple Bearish Divergence In a video published on November 24 and shared on X, Severino says he had to go beyond standard references to formalise the pattern. “I really never heard that statement before,” he admits of the term triple negative divergence. “There wasn’t a lot of information on Google I turned to AI, turned to ChatGPT.” His working definition: “three successive higher highs on price and three successive lower highs on the technical indicator.” Related Reading: Bitcoin Local Bottom To Fall Between These Two Levels – Analyst A standard bearish divergence occurs when price makes a higher high while an oscillator such as RSI, MACD or Stochastic posts a lower high, signalling trend exhaustion. Extending that to three peaks, Severino says, amplifies the warning: “A triple negative or triple bearish divergence is basically the market screaming, price is still drifting higher, but under the hood, this trend is dying.” Later he adds, “A single divergence is already a warning. A triple divergence is like yellow, orange, flashing red.” Severino maps this pattern onto Bitcoin’s bull cycle using the monthly chart, anchored around three key highs. The first, he argues, came around the spot ETF launch and aligned with a wave-three impulse in his Elliott Wave count. “This was our ETF launch and it was during our wave three impulse […] everybody’s excited. We had the ETF launch […] strong volume, strong momentum,” he says, calling it the cycle’s momentum peak. The second high broke that level but on weaker internals. “Second high breaks the old high. The indicator’s high is weaker. This represents fewer aggressive buyers. Early participants start taking profits. This was me. I started taking profit here,” he notes. In his interpretation, that push represented a fifth wave. The third high, marginally above prior peaks near $126,000, is where he sees exhaustion. “On the third high, price index is higher. Marginal new high […] I sold around $105k […] we went to $126k, so I left only a very small amount on the table to not get caught up in what comes after all this,” he says. The oscillator, however, made yet another lower high: “Buyers are exhausted at this point. Shorts are covering, late FOMO buyers push it just a little bit higher. Pros use this zone to offload positions or start shorting.” He argues that sentiment at the top was complacent rather than euphoric. “I don’t think we were euphoric here. I think we were euphoric at this one […] but we were very complacent this whole time […] everybody just was like, it’s going up forever.” Related Reading: Is Bitcoin Yet To Top In This Cycle? What aSOPR Suggests Crucially, Severino insists the divergence is a setup, not a standalone trigger: “You want confirmation before acting.” He points to several. First, a break of the rising trendline connecting the major swing lows: “Here is our trend line and we are below. There is our confirmation.” Second, loss of key moving averages such as the 20 and 50 EMA that had supported the uptrend. Third, a regime shift in weekly RSI: during the bull, it repeatedly bounced in the 40–50 zone, but now, he says, “falling below it is confirmation that the trend is now no longer holding.” On volume, he warns against reading the recent spike on a down candle as capitulation. While the FTX bottom showed extreme, climactic volume, the latest breakout in selling may instead be “the breakout and start of a trend” to the downside, he suggests, especially given the declining volume into Bitcoin’s final highs. How Low Can Bitcoin Go? For potential downside, Severino overlays Fibonacci levels on the full advance and references guidance that triple divergences often resolve toward the 0.5–0.618 retracement between $44,100 and $34,409. In Bitcoin’s case, he marks a wide lower zone where an A-B-C structure could terminate, estimating “about like 60 something percent, maybe even closer to 70” from the top – “very par for the course for a Bitcoin bear market,” in his words. More ominously, he hints at a “bigger version of this” on even higher timeframes, suggesting a larger triple divergence may be forming with the recent structure nested inside it. “This could not be so great for the higher time frames Bitcoin,” he says. Still, he repeatedly stresses uncertainty and risk management. “I can’t say that this signal is the end-all be-all […] it doesn’t guarantee anything,” he says. “I definitely don’t want you to be like, hey, Tony, well, I believe you 100%. Immediately, I’m going to sell my coins. No, it’s not financial advice […] It’s more about how you manage risk.” At press time, Bitcoin traded at $87,658. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882391,
+    "published": 1764075601000,
+    "title": "Klarna launches stablecoin to cut cost of cross-border payments",
+    "body": "Digital token will aimed at merchants moving large sums and may also be offered to consumers",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54882359,
+    "published": 1764074299000,
+    "title": "XRP price ‘looking very bullish’ after 25% weekly gain: How high can it go?",
+    "body": "XRP is rebounding strongly from $2, with multiple indicators suggesting upside toward $3.30–$3.50 is possible in the coming weeks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882269,
+    "published": 1764074150000,
+    "title": "Altcoin ETFs Including XRP, Solana in Green Amid Crypto Market Uncertainty",
+    "body": "Experts cite regulatory clarity and selective institutional reallocation as being behind recent capital inflows into XRP and Solana ETFs.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882277,
+    "published": 1764074130000,
+    "title": "MSCI, JPMorgan, Strategy, and Why Bitcoin Hyper Is Suddenly On Everyone’s Radar",
+    "body": "What to Know: MSCI’s consultation to exclude $BTC-heavy ‘digital asset treasury’ companies from major indexes has turned Strategy into a test case for forced selling risk. JPMorgan’s bearish note on Strategy landed in a weak, thin market, amplifying fear, rumors of shorts, and even a grassroots JPMorgan boycott narrative. Bitcoin Hyper’s $HYPER token offers a crypto-native way to play Bitcoin scaling, combining a $BTC Layer-2 design with audited contracts, staking, and presale access. When the market tanked on October 10, there was no obvious macro bomb, no ETF denial, no regulatory headline. Just a brutal, mechanical flush that felt … engineered. The missing piece turned out to be MSCI. On 10 October, the index giant quietly launched a consultation that could exclude companies whose balance sheet holds 50% or more in Bitcoin or other digital assets from its global equity indexes. That hits Strategy ($MSTR) right where it lives, because the stock is essentially a leveraged proxy on corporate Bitcoin accumulation. If MSCI goes ahead, index funds that track those benchmarks are forced sellers. In a market already thinned out by quantitative tightening and drained dollar liquidity, the mere prospect of billions in automatic selling was enough to flip $BTC and $MSTR from ‘buy the dip’ to ‘get me out’. Then JPMorgan walked in with a bearish note. Exactly while $BTC was sliding, liquidity was thin, and $MSTR was already down badly, the bank resurfaced the index-exclusion risk and put numbers on it: roughly $2.8B of potential forced selling from MSCI indexes alone. Analysts flagged that the note leaned on an MSCI document that had been sitting for weeks, and only became ‘urgent’ right as markets were on the ropes, fuelling accusations that sentiment was being steered rather than merely described Around that, a familiar set of narratives exploded: rumors that large institutions might short $MSTR, concerns about brokers lending out client shares to fuel those shorts, and an online boycott campaign where thousands of users claim to be closing JPMorgan accounts in protest. Michael Saylor pushed back, stressing that Strategy is not a passive Bitcoin fund but a software and financial engineering company with revenue, products, and $BTC-backed instruments, arguing that MSCI is misclassifying a live business as a treasury wrapper. 💣 Even so, the consultation runs until year-end, and the decision scheduled for January 15 2026 still hangs over every $BTC-heavy equity. So this isn’t just a one-off crash story anymore. It’s about how index rules, bank research notes, and rumor cycles can yank liquidity away from anything that looks like a Bitcoin proxy. Which is exactly why a bunch of capital is rotating into pure-play Bitcoin infrastructure and presale tokens like Bitcoin Hyper ($HYPER). Bitcoin Hyper ($HYPER) As A Clean $BTC Narrative Play Bitcoin Hyper ($HYPER) is building a dedicated Bitcoin Layer-2 that lets $BTC itself move faster, cheaper, and in more programmable ways. The $HYPER token will power the Layer-2 for gas, governance, and staking. Mechanically, the design is pretty straightforward for anyone used to Layer-2s. $BTC is locked on the Bitcoin Layer-1 via a canonical bridge. A relay program will verify Bitcoin block headers and proofs, then mint a representation on the Layer-2. Transactions will execute on a Solana Virtual Machine environment with high throughput and low latency, while batches and zero-knowledge proofs will be periodically committed back to Bitcoin. That’ll keep settlement anchored to $BTC’s security while letting you actually do things like payments, DeFi, NFTs, and meme coins. From a positioning angle, that’s important. If MSCI and other index providers are about to penalize companies that warehouse $BTC on their balance sheets, the market’s next question is: where does all the ‘Bitcoin leverage’ go instead? ⚡️ One obvious answer is native $BTC Layer-2s, where returns are tied to actual network usage rather than index inclusion politics. Bitcoin Hyper is very explicitly trying to be that ‘speed layer’ for $BTC. In short, while banks debate whether Strategy qualifies for index membership, Bitcoin Hyper is trying to earn its place as infrastructure. For anyone who wants $BTC exposure without giving MSCI and JPMorgan veto power over flows, that pitch lands pretty well. ➡️ Looking for more information on the project that could change Bitcoin forever? Check out our Bitcoin Hyper review. Inside The Bitcoin Hyper Presale And Staking Mechanics There’s also upside math at play here. Our Bitcoin Hyper price prediction believes that if the project team ships its initial roadmap – mainnet, bridge, early dApps, and listings – $HYPER has the potential trade as high as $0.08625 by late-2026, assuming execution and broader $BTC strength. Against a current presale price of $0.013325, that’s an ROI of over 547% if everything lines up. That is not a guarantee; it’s a roadmap-plus-sentiment scenario. But it explains why some traders are rotating a slice of their ‘$MSTR proxy’ play into a direct Layer-2 bet instead. 🐳 Under the hood, the presale numbers are already big enough that this isn’t just a niche side quest anymore. $HYPER has raised over $28.45M. We’ve also seen some impressive whale buys as high as $502.6K, showing smart-money confidence. On top of that, staking has become its own flywheel. Currently, staking APY is 41%, with close to 1.3B $HYPER already locked. In practice, that means a big chunk of supply is out of circulation before the token even lists, which can dampen initial sell pressure if demand holds up. The flip side is obvious: high APYs don’t last forever, and when cliffs, unlocks, or yield rotations kick in, late entrants can get clipped hard. Timeline-wise, the project is targeting mainnet launch around Q4 2025/Q1 2026, with exchange listings and a DAO rollout following in 2026 to handle governance and developer grants. That lines up almost perfectly with the MSCI decision window. 🚀 Get in on the $HYPER action before the next price increase. Disclaimer: Remember, this isn’t intended as financial advice, and you should always do your own research before investing. Authored by Aaron Walker, NewsBTC – www.newsbtc.com/news/msci-jpmorgan-mstr-shakeup-boosts-bitcoin-hyper-presale",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882276,
+    "published": 1764073257000,
+    "title": "Solana Nears $140 As Crypto Rotates Back to Risk: Could Maxi Doge Run Next?",
+    "body": "What to Know: Solana’s move back toward $140, powered by strong ETF inflows and rising network revenue, signals a broader return of risk appetite in crypto. Fresh institutional interest in non-Bitcoin assets often precedes capital rotating into smaller caps and meme coins with higher volatility and upside. Maxi Doge uses meme culture plus staking, contests, and partner events to turn speculative energy into a more structured holder incentive model. The $MAXI presale, already above $4M raised with live staking, targets degen traders seeking yield-backed meme exposure in a renewed bull backdrop. Solana is back, flirting with $140, and the market finally looks like it remembers what a bull run feels like. Spot data shows $SOL trading in the high $130s , with a market cap around $76B and solid 24-hour volume; the kind of liquidity that tells you big players are back in the game. The new driver this time isn’t just hype. Solana has posted roughly $2.85B in annualized network revenue , and its spot ETFs have pulled in more than $380M in net inflows within weeks of launch. A second wave of SOL ETFs has already hit the market, with cumulative inflows pushing past $480M as funds try to front-run a potential next leg higher. That’s serious money signaling it’s willing to go further out on the risk curve than just Bitcoin. When institutions are comfortable owning $SOL through ETFs, you’re looking at a market that’s shifting from survival mode back to opportunity mode. Historically, that’s when capital starts hunting for higher beta plays, from smaller caps to full-blown meme coins. In the last cycle, that rotation carried Dogecoin and Shiba Inu to eye-watering returns once the majors had already moved. This time, the meme meta looks different: communities want culture, but they also want utility and yield. That’s where Maxi Doge ($MAXI) slots in; an Ethereum-based meme coin that wraps degen leverage culture around staking rewards, trading contests, and partner events. $MAXI positions itself as a way to lean into the risk-on mood around $SOL, one of the best altcoins , not just buying another dog logo and hoping. Maxi Doge Turns Meme Volatility Into Staking-Powered Upside Maxi Doge ’s core pitch is simple: take the over-caffeinated, 1000x-leverage trader archetype and turn it into a meme coin with actual on-chain incentives. The mascot is a body-builder Doge who never skips leg day, but beneath the jokes there’s a basic structure designed to keep holders engaged rather than just praying for a one-and-done pump. The token lives on Ethereum, which immediately solves liquidity and access: you can come in with $ETH, $BNB, stablecoins, or even a bank card via the presale widget, then later trade on Uniswap and (if the roadmap plays out) centralized exchanges. Smart-contract audits from firms like SolidProof and Coinsult reassure traders who like memes but also like their funds to actually be there tomorrow. Community trumps utility, but $MAXI holders get extra benefits. First, staking: $MAXI holders can lock tokens into a rewards pool that distributes yield via smart contract, currently 73% APY Second, $MAXI trading contests, where high-ROI traders and active community members can compete for extra rewards Third, proposed partner events that aim to plug Maxi Doge into third-party platforms The tokenomics lean heavily into growth. Out of a 150.24B maximum supply, 40% is allocated to marketing, while a further 25% is held in the Maxi Fund, all aimed at driving virality and adoption. That’s aggressive, but it matches the goal: saturate degen culture feeds while giving early buyers a meaningful allocation. Nobody should confuse $MAXI with a complex DeFi protocol. This is a culture token with staking and incentives layered on top. If that’s appealing, learn how to buy $MAXI. In a market where Solana is proving that users still love high-speed trading, NFTs, and meme coins, that blend of narrative and yield is exactly what many retail traders are looking for. Watch Maxi Doge if you’re leaning into the meme-plus-utility narrative. Inside the Maxi Doge Presale as Capital Hunts Higher Beta The $MAXI presale is structured in stages. Right now, entries are $0.00027 with nearly $4.19M already raised. Staking is live during the presale itself. That means early buyers aren’t just parking capital and waiting; they can immediately start compounding, which helps explain why billions of tokens are already locked. In a macro backdrop where Solana ETFs are soaking up institutional flows, and traders expect a broader alt rotation, being able to put a meme bag to work is a strong differentiator versus old-school ‘just hold and hope’ coins. The roadmap is very on-brand but surprisingly clear. After closing the presale, the project plans a DEX launch (with Uniswap v3 flagged as the first stop), followed by CEX listings and partnerships with futures platforms to push the high-leverage narrative. That narrative is succeeding; major whale purchases include two $314K token buys (here’s the on-chain proof ). None of this guarantees performance, and meme coins remain some of the riskiest assets you can touch in crypto. But in a cycle where Solana approaching $140 signals a renewed appetite for risk, a project like Maxi Doge – meme-heavy, $ETH-native, audited, and wrapped in staking incentives – is exactly the sort of asset many traders will want on their watchlist. Track the $MAXI presale while it’s open. This article is informational only, not financial advice. Crypto and meme coins are highly volatile; always do independent research before investing. Authored by Aaron Walker for NewsBTC – www.newsbtc.com/news/solana-140-rally-sends-maxi-doge-presale-soaring",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 44,
+        "NAME": "SHIB",
+        "CATEGORY": "SHIB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882274,
+    "published": 1764072026000,
+    "title": "What Happens If Dogecoin Moves Out Of This Massive Wyckoff Accumulation?",
+    "body": "After hitting a new two-year peak back in 2024, the Dogecoin price had trended downward, and the result of this was a move into a major accumulation trend. Since then, the meme coin has been caught in this accumulation trend, with the majority of the price action favoring a bearish market. But with the tides changing, there could be a different approach for the cryptocurrency as Dogecoin flashes what seems to be an end to the accumulation trend. The Wyckoff Accumulation Holding Back Dogecoin Crypto analyst Trader Tardigrade shared that the Dogecoin price has been caught in a massive Wyckoff Accumulation, which is the main thing that has kept the price down. However, there is still hope for the meme coin if it is able to break out of this accumulation trend. Related Reading: Top Analyst Sounds Alarm: Bitcoin Is Highly Unlikely To Spring Back Anytime Soon Pointing to the 5-Phase theory, the analyst explained that Dogecoin could be getting set to break out after completing Phase C of the cycle. As Trader Tardigrade explains, Phase C is always the lowest of all of the phases, meaning its completion could mean that the Dogecoin price is now nearing a bottom. If this bottom is completely formed at this level, then it could end the Wyckoff Accumulation, which apparently began back in 2024. The end of this year-long accumulation is entirely bullish and could propel the price even further than expected. As for the last two phases of the 5-phase theory, Phase D and Phase E, the analyst also shared what to expect. For Phase D, the Dogecoin price is expected to be pushed back toward the resistance that is mounting above $0.16, a level that has proven difficult in the past. Related Reading: XRP Approaches Macro Breakdown Zone, Analyst Warns About One Final Leg Lower The last and final stage of this, Phase E, is the most bullish of all, and could propel Dogecoin’s price toward new yearly highs. This phase is expected to send the meme coin’s price back above the accumulation range between $0.29 and $0.3, signaling an end to the massive Wyckoff Accumulation. Interestingly, Dogecoin’s open interest has crashed toward yearly lows, which suggests that this is a good time for buyers to step in for the meme coin. With open interest sitting at #1.3 billion compared to its $6 billion all-time high, according to data from Coinglass, DOGE could be uniquely positioned for a major breakout as the crypto market rebounds. Featured image from Dall.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882272,
+    "published": 1764071275000,
+    "title": "Next Crypto to Explode? Best Wallet Token Presale Ends in 3 Days with $17.4M Raised",
+    "body": "What to Know: Crypto users still face fragmented, clunky wallet experiences, forced to juggle multiple apps, bridges, and DEXs just to access basic DeFi and presale opportunities. Many leading wallets remain either centralized with potential custodial risks or decentralized but unintuitive on mobile, offering few meaningful rewards or value-add features for long-term users. Best Wallet Presale aims to become the best crypto wallet by 2026, targeting 40% market share with a secure, mobile-first, feature-rich, non-custodial design. The project combines Fireblocks-powered MPC security, a vetted presale discovery portal, cross-chain DEX aggregation, and $BEST staking rewards into one unified Web3 command center. After a chaotic year of altcoin whiplash, one trend has cut through the noise: investors are still piling into infrastructure projects that actually make crypto easier to use. Meme coins spike, vanish, and reappear like seasonal allergies, but everyone still needs a secure, mobile-first way to hold, swap, and earn without battling clunky UX or playing hide-and-seek with custodians. It’s no surprise, then, that wallet innovation has quietly become one of crypto’s fiercest battlegrounds. The problem? The best crypto wallets in this space come with baggage. Some are polished but basically centralized front-ends in disguise. Others are proudly non-custodial but feel like they were designed by someone who has never onboarded a new user in their life. And if you’ve ever bounced between three wallets, a bridge, and two DEX tabs just to buy a presale token or chase a yield pool… you already know the experience is overdue for a reboot. Enter the Best Wallet Presale , which pitches a very simple idea: what if the ‘best crypto wallet’ actually lived up to its name? Think security, presale access, cross-chain swaps, staking, and a clean mobile interface, all in one app. No Frankenstein toolkit. No duct-taped workflow. Just a single control center for your crypto life, whether you’re buying your first $50 of BTC or juggling a multi-chain DeFi setup. And the ambition doesn’t stop there. The team wants to grab 40% of the global crypto wallet market by the end of 2026, a bold target, but backed by a straightforward playbook: launch a feature-heavy, non-custodial wallet, reward $BEST holders with real perks, and use the presale’s momentum to jump-start user growth. With only three days left in the token sale and analysts already debating where the $BEST token could land, this is shaping up to be one of the most aggressive wallet pushes of the year. Best Wallet Presale Targets the “All-In-One” User Experience Best Wallet is pitching itself as the crypto super-app people keep asking for but never quite get: a next-gen, non-custodial wallet that doesn’t force you to choose between security, usability, or actual features. Its mobile-first interface bundles Fireblocks MPC-CMP security with custom multi-wallet portfolios and native support for thousands of assets (soon to expand across 50+ chains). It gives both newcomers and hardcore DeFi users the same clean, unified experience. But where Best Wallet really separates itself is in the extras most competitors skip. Its Upcoming Tokens portal surfaces curated presales with a frictionless purchase flow. At the same time, the Best DEX aggregator, powered by Rubic, searches across multiple chains, DEXs, and cross-chain bridges to find optimal routes. Instead of being just another place to store your assets, the wallet becomes the discovery engine for new opportunities, tying directly into the presale and DeFi narratives driving recent price-prediction hype. So far, the strategy seems to be landing. The presale has pulled in over $17.4M, with tokens priced at $0.025995, signaling strong demand for a wallet that fuses security, yield, presale access, and lower trading fees. Add in exclusive benefits for $BEST holders, and the vision becomes clear: your wallet shouldn’t just hold your crypto, it should help you grow it. $BEST Price Outlook, Staking Incentives, and Whale Interest If the Best Wallet Presale captures even 5% of the global crypto wallet market, $BEST price forecasts put the token at a $0.05 high in 2026, nearly a 2x jump from the current presale price of $0.025995. Nothing is guaranteed, but the math shows how a relatively small slice of a massive market can translate into meaningful price repricing. For investors tracking the next breakout token, now is the time to understand $BEST before it hits exchanges. Momentum is already building behind the scenes. Smart money wallets have started accumulating, with big whale buys of between $50K and $70K . For early-stage infrastructure tokens, concentrated accumulation like this often shows up before retail notices, typically right as the mobile app rolls out and real utility goes live. The tokenomics also lean into long-term alignment rather than hype trading. $BEST is an ERC-20 token with 8% of supply (800M tokens) dedicated to staking rewards (currently giving 75% APY). APY scales based on your share, and staking is already live during the presale, allowing early buyers to start compounding before the exchange trading begins. Staking isn’t just a yield mechanic; it’s a key part of the app’s ecosystem design. $BEST stakers are positioned to unlock higher yields via the upcoming in-app staking aggregator, reduced transaction fees across supported networks, and potential boosts or priority allocations for vetted presales featured in the wallet’s discovery portal. In short: stake $BEST to get more out of the entire ecosystem. As the mobile app, cross-chain DEX aggregator, and presale discovery hub gain traction, the flywheel becomes obvious: more users → more activity → more fee savings and perks for $BEST holders → stronger incentives to stake and hold. For anyone looking for a wallet-focused token with real utility rather than recycled hype cycles, this narrative is worth keeping an eye on. With just days left in the presale and more than $17.4M already committed, Best Wallet is heading into launch with the capital to ship features, complete audits, and scale marketing. Suppose the team delivers on its mobile-first UX and continues to curate high-quality presales and DeFi integrations. In that case, Best Wallet’s utility token has a real chance to graduate from a ‘speculative crypto’ to a ‘daily-use asset.’ Get $BEST tokens before the presale ends. This article is for informational purposes only and does not constitute financial, investment, or trading advice. Always do your own research. Authored by Aaron Walker, NewsBTC – https://www.newsbtc.com/news/next-crypto-to-explode-best-wallet-token",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 205,
+        "NAME": "TOKEN SALE",
+        "CATEGORY": "TOKEN SALE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882356,
+    "published": 1764070473000,
+    "title": "Monad airdrop farmer spends full $112K MON reward on gas for failed trades",
+    "body": "A suspected airdrop farmer burned through their entire $112,000 of MON rewards in hundreds of failed transaction attempts.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 204,
+        "NAME": "AIRDROP",
+        "CATEGORY": "AIRDROP"
+      }
+    ]
+  },
+  {
+    "id": 54882223,
+    "published": 1764070323000,
+    "title": "Crypto Markets Today: Bitcoin Leads Rebound, Altcoins Rally During Longer-Term Downturn",
+    "body": "Bitcoin recaptured $87,000 on Tuesday as improving risk appetite and a strong equities session helped lift major altcoins.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882355,
+    "published": 1764069543000,
+    "title": "Strike CEO debanked by JPMorgan, Lummis sounds ‘Chokepoint 2.0’ alarm",
+    "body": "Strike CEO Jack Mallers said JPMorgan closed his accounts without explanation, reigniting fears of Operation Chokepoint 2.0 and renewed pressure on crypto companies.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
