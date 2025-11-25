@@ -3136,5 +3136,116 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54876159,
+    "published": 1764055893000,
+    "title": "Japan’s FSA to Mandate Liability Reserves for Crypto Exchanges to Enhance Security",
+    "body": "Japan's Financial Services Agency is set to require digital asset exchanges to maintain liability reserves to protect users.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Japan|digital assets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54876893,
+    "published": 1764057611000,
+    "title": "Latest Crypto Crash Wipes $1 Billion Off Trump Family’s Wealth",
+    "body": "The recent downturn in the crypto market, which saw total valuations plummet from an all-time high of nearly $4.3 trillion to below the $3 trillion mark, has severely impacted many investors. Among those affected is the Trump family, whose wealth reportedly decreased by $1 billion over the past month, according to Bloomberg. Their current net worth now stands at approximately $6.7 billion, down from $7.7 billion in September. Trump Family’s Crypto Portfolio Takes Major Hits The family’s crypto portfolio has suffered significant losses as a result of recent market conditions, including President Trump’s official memecoin, TRUMP, Eric Trump’s Bitcoin (BTC) mining firm, American Bitcoin (ABTC), and Truth Social—all of which are Bitcoin-related. Related Reading: XRP Real Purpose: Documentation Shows Payment Utility Contrary To Viral Claims — Details One of the hardest-hit entities is Trump Media & Technology Group (TMTG), the parent company of Truth Social. Last week, shares of the firm dropped to a record low, resulting in an estimated $800 million decline in Trump’s stake since September. The company has invested heavily in Bitcoin, spending roughly $2 billion on digital assets. Its stockpile of approximately 11,500 BTC, purchased when Bitcoin prices hovered around $115,000, now represents a significant downturn of about 25%. In addition, World Liberty Financial (WLFI), regarded as the Trump family’s principal crypto operation, has seen its value diminish rapidly. WLFI, which was once trading at $0.26, has now fallen to around $0.15 when writing. At its peak, the token’s total valuation reached about $6 billion, but it is now worth just over $4 billion. Despite the difficulties, a spokesperson for World Liberty Financial expressed optimism, stating that “Crypto is here to stay.” The spokesperson emphasized a long-term conviction in the technologies that support digital assets, suggesting that these innovations could transform financial services. Eric Trump Remains Optimistic Following his return to office in January, President Trump’s sons, Eric Trump and Donald Trump Jr., also began collaborating with Hut 8 Corp, a crypto company that supplies Bitcoin mining equipment. In exchange, they secured a controlling interest in a newly formed organization called American Bitcoin Corp. Eric Trump reportedly holds about 7.5% of this new venture. Related Reading: Attack On Cardano Founder Leads To Network Halt, What Really Happened? However, shares of Hut 8, which are traded on Nasdaq, have been cut by nearly half, wiping out over $300 million from Eric Trump’s wealth since September, with shares previously valued at $9.31. Amidst these financial challenges, Eric Trump conveyed a sense of optimism, suggesting that the recent market declines may present “a great buying opportunity.” He emphasized that those who purchase during downturns and embrace market volatility are likely to be the long-term winners in the cryptocurrency landscape. Currently, the market’s leading cryptocurrency has seen a 1.5% recovery on Monday toward $88,430, after reaching an 8-month low of $80,000 last Friday. This positions BTC nearly 30% below all-time highs of $126,000 reached back in October. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency|Donald Trump|Donald Trump news|Eric trump|Trump family's crypto portfolio",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54877083,
+    "published": 1764057795000,
+    "title": "Exodus taps Bitcoin holdings to fund $175M move into onchain payments",
+    "body": "Exodus is using its Bitcoin reserves to back a $175 million acquisition of W3C Corp, bringing Monavate and Baanx under its roof as it expands into onchain payments.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
