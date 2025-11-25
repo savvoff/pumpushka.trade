@@ -1,210 +1,5 @@
 [
   {
-    "id": 54850819,
-    "published": 1764002846000,
-    "title": "Rumble Gains 13% After Tether Boosts Stake by 1M Shares",
-    "body": "The advance occurred alongside a rally in data center and high-performance computing stocks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Cloud Computing|Tether|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54850721,
-    "published": 1764002590000,
-    "title": "Grayscale Dogecoin, XRP ETFs Add to Flurry of Altcoin Fund Debuts",
-    "body": "New XRP and DOGE ETFs from digital asset focused investment firm Grayscale are now live for trading on NYSE Arca.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "dogecoin||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54851263,
-    "published": 1764003641000,
-    "title": "Attack On Cardano Founder Leads To Network Halt, What Really Happened?",
-    "body": "Cardano faced an unexpected shock when a corrupted transaction aimed at Charles Hoskinson’s personal stake pool caused the network to split for several hours. The incident triggered confusion, exposed weaknesses, and sparked a heated clash over motive and responsibility. Here is how a single action spiraled into a full-scale disruption. Cardano Founder Targeted, Network Shaken The Cardano network faced unexpected disruption on November 21, 2025, after an incident targeting the founder’s personal stake pool. What began as a ‘test’ by a stake pool operator quickly escalated into a risky experiment on the main network, where he reportedly followed unverified AI-generated instructions and submitted a malformed transaction. Related Reading: Analyst Shares Why He’s Not Worried About XRP Price – ‘The Road To Valhala The transaction exploited an obscure 2022 cryptographic library bug, causing newer nodes to parse it incorrectly while older nodes rejected it. This triggered a chain split, disrupted block production, and left validators, DeFi protocols, and everyday users struggling to stay aligned for several hours. The operator later admitted that the entire situation was the result of poor judgment, one he described as a personal challenge he handled recklessly. He insisted he had no financial motives, no collaborators, and no intention to target the founder. His message expressed regret for the disruption caused to stake pool operators and developers who had to react immediately. Many operators lost block rewards, and some decentralized applications experienced inconsistent states. While user funds remained safe, the event revealed how one misstep could trigger a chain-wide disturbance. Hoskinson Says It Was Personal And Months In The Making Despite the stake pool operator claiming no intention of harm, Cardano founder Charles Hoskinson rejected the idea that this was an accidental mistake. He stated that the individual responsible had been active in online groups known for hostility toward Cardano and its leadership. According to him, the attacker had spent months discussing ways to disrupt the project’s operations and reputation. Hoskinson pointed out that his personal pool was the direct target. For him, this proved the act was intentional, not an experiment gone wrong. He emphasized that the disruption touched every user on the network, causing stake pool operators to miss earnings, parts of the DeFi ecosystem to stall, and Cardano developers to be forced into rapid emergency fixes. Related Reading: Barstools Founder Just Made A Million-Dollar Investment In XRP, Does He Know Something? He also stated that law enforcement had already stepped in, turning the event into a criminal matter. In his view, the public apology surfaced only after community investigators linked the operator to the incident and federal involvement became clear. The incident left the community divided between two narratives: one of reckless experimentation and one of calculated sabotage. What remains certain is that a targeted hit—intentional or not—exposed how quickly a malformed transaction can fracture the system and force an entire ecosystem into crisis mode. Cardano recovered, but the questions raised by this attack will continue to shape how the network prepares for the next potential threat. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cardano|ADA|ADA news|ADA price|adausd|ADAUSDT|Cardano news|Cardano price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54851601,
-    "published": 1764004237000,
-    "title": "Crypto Market Mood Lifted as Amazon Pours $50B Into AI Infrastructure",
-    "body": "The price of bitcoin jumped back above $87,000 and crypto miners with a focus on AI/high-performance computing are surging.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin Mining|AI|Breaking News|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54851452,
-    "published": 1764003994000,
-    "title": "Neobank Revolut Boosts Valuation to $75 Billion Ahead of Potential Stablecoin Launch",
-    "body": "Revolut’s share sale attracted investors like Fidelity and Franklin Templeton as the neobank continues expanding its crypto offerings.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|matic-network|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54851994,
     "published": 1764005053000,
     "title": "Franklin Templeton Joins XRP ETF Race, Calling It ‘Foundational’ to Global Finance",
@@ -2924,6 +2719,544 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882541,
+    "published": 1764087484000,
+    "title": "Why Bitcoin Is Underperforming Equities Despite Bullish Catalysts",
+    "body": "Gains in AI-fueled stocks and heavy crypto leverage have widened the gap between bitcoin and equities.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882537,
+    "published": 1764087264000,
+    "title": "Polymarket Secures CFTC Approval for Regulated U.S. Return",
+    "body": "Polymarket’s amended CFTC designation paves the way for the prediction-market platform to formally reopen in the U.S. with a fully regulated exchange structure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Polymarket|Prediction Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      }
+    ]
+  },
+  {
+    "id": 54882644,
+    "published": 1764086773000,
+    "title": "MoonPay secures New York trust charter, expands regulated services",
+    "body": "The regulatory approval followed the payments company obtaining a BitLicense from the NYDFS in June, making it one of a handful of crypto companies to have both.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882564,
+    "published": 1764086417000,
+    "title": "XRP Has Just Flashed ‘The Real Signal’, Analyst Reveals Where Price Is Headed",
+    "body": "The XRP price is showing signs of recovery after crashing under $2 earlier last week due to broader market volatility and decline. With its renewed momentum, analysts are now sharing optimistic projections about its future trajectory. New reports from market expert, Egrag Crypto, highlight the reappearance of a crucial technical signal that could trigger a major trend reversal for XRP. Based on the formation of this signal, XRP may be positioning for an explosive price surge that contradicts the previous bearish developments. XRP Price Chart Forms Bullish EMA Cross Signal Egrag Crypto has described the cross between two key Exponential Moving Averages (EMA) as “the real signal.” In his X post shared on Monday, he presented an in-depth review of XRP’s 3-day chart, focusing on the interaction between the 50-day and 200-day EMA and predicting how this technical signal could impact the cryptocurrency’s future price action. Related Reading: Attack On Cardano Founder Leads To Network Halt, What Really Happened? Egrag Crypto emphasized that many traders have interpreted the narrowing distance between these two key EMAs as the early stages of a bear market. However, his analysis shows that this interpretation does not match the XRP’s technical structure. For a genuine bearish cross to confirm a downward trend, XRP’s price would need to fall decisively below both EMAs as overall momentum begins to weaken. Currently, XRP sits above the 200 EMA, with the long-term trend line still rising, indicating underlying strength rather than a classic bear market setup. This suggests the cryptocurrency may be gradually building momentum to break out of its ongoing downtrend and move to higher levels. Egrag Crypto’s chart shows that XRP’s present structure contrasts sharply with its 2018 setup. During that cycle, XRP’s price had collapsed long before the two EMAs crossed, implying that the bearish crossover signal was more of a confirmation than the cause of the weakness. Based on the chart analysis, XRP’s present market structure lacks the characteristics of this historical event, suggesting that the cryptocurrency may be holding firm at levels that could yield more bullish outcomes than before. Where The XRP Price Is Headed Continuing his analysis, Egrag Crypto explained that the latest XRP chart setup looks more like the structures seen before its historic bull rallies in 2017 and early 2021. During those bullish cycles, the 500/200 EMAs had tightened, and XRP had remained above the 200 EMA. Related Reading: Will The Low XRP Price Force Ripple To Dump Its Holdings? Exec Answers Community Egrag Crypto noted that the market also entered a compression phase in both years, leading to sharp increases in volatility and explosive price surges. According to the analyst, each time XRP emerged from these conditions, it produced some of its most aggressive vertical moves. Notably, XRP’s current price chart reflects similar patterns. Egrag Crypto has said the cryptocurrency may be experiencing “late-cycle consolidation” rather than the beginning of a prolonged downtrend. Compression phases of this type often indicate that momentum is building beneath the surface. Based on its structure, the analyst has predicted that the XRP price is likely to head toward its final upside leg rather than a completed top. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|analyst|crypto|crypto analyst|crypto news|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882534,
+    "published": 1764085983000,
+    "title": "MoonPay Secures New York Trust Charter, Expands Institutional Crypto Services",
+    "body": "The crypto payments firm joins an elite group with both a BitLicense and Trust Charter, gaining legal authority to custody assets and offer OTC trading under NYDFS oversight.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|MoonPay|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882532,
+    "published": 1764084179000,
+    "title": "Paxos Acquires Crypto Wallet Startup Fordefi to Expand Custody Services",
+    "body": "The move aims to position Paxos to serve growing institutional demand for on-chain asset issuance and stablecoin payments.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Paxos|Crypto Wallets|Custody|acquisition|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54882529,
+    "published": 1764083286000,
+    "title": "Polkadot Slides 4% as Technical Resistance Triggers Selloff",
+    "body": "The altcoin carved out a $0.21 trading range, marking 9% intraday volatility as bearish forces gained control.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 21,
+        "NAME": "DOT",
+        "CATEGORY": "DOT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882559,
+    "published": 1764082806000,
+    "title": "Why Has The Solana Price Been Crashing Since October? This Major SOL Player Is Selling",
+    "body": "On-chain analytics platform Lookonchain has provided insights into what may have contributed to the Solana price crash since October. The platform revealed that meme coin launchpad Pump.fun has sold a significant amount of SOL, cashing out almost $500 million since the start of October. Pump.fun Allegedly Dumps SOL Amid Solana Price Crash In an X post, Lookonchain suggested that Pump.fun has been selling SOL, as it appears that the meme coin launchpad has cashed out at least 436.5 million USDC since October 15. The on-chain analytics platform also stated that since October 15, the meme coin launchpad has deposited 436.5 million USDC into Kraken. Related Reading: Forget XRP, DFDV Exec Predicts Solana Price Is Headed For $10,000 Furthermore, Lookonchain revealed that between May 19, 2024, and August 12, 2025, Pump.fun sold a total of 4.19 million SOL ($757 million) at an average price of $181. Of that amount, 264,373 SOL was sold on-chain for $41.64 million, while 3.93 million SOL ($715.5 million) was deposited into Kraken. Pump.fun’s SOL sales are known to put significant selling pressure on the Solana price, thereby contributing to its crash. Notably, the Solana price has recorded one of the largest losses during this recent crypto market downtrend. SOL crashed from a high of around $220 in October to a low of $120 this month. This has occurred despite the launch of six spot Solana ETFs during this period. Bitwise, Grayscale, Fidelity, 21Shares, VanEck, and Canary have all launched their SOL funds and have recorded notable flows since launch. SoSo Value data shows that these funds have recorded cumulative net inflows of $568.24 million since their respective listings. Despite this, the Solana price has been in a downtrend amid significant selling pressure from SOL whales. Thanks to the crash, SOL is now down over 28% year-to-date (YTD). The altcoin is also down over 28% in the last 30 days. Pump.fun Denies Recent SOL Sales A Pump.fun spokesperson, Sapijiju, has indicated that they haven’t sold any SOL recently and haven’t contributed to the Solana price crash. In an X post, he described Lookonchain’s post as complete misinformation, as they haven’t cashed any sum. He claimed they were not involved in the transactions between Kraken and Circle that the on-chain analytics platform referenced. Related Reading: Institutions Have Been Buying Solana Every Day For 2 Weeks, Is $300 Possible? Lookonchain had claimed that during the same period, Pump.fun allegedly cashed out 436.5 million USDC, 537.6 million USDC was sent from Kraken to Circle. Meanwhile, regarding the 436.5 million USDC, Sapijiju stated that what is happening is part of their treasury management, with the USDC part of funds from the PUMP ICO, and with plans to reinvest the sum into the business. At the time of writing, the Solana price is trading at around $138, up almost 4% in the last 24 hours, according to data from CoinMarketCap. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|21Shares|bitwise|Canary|circle|CoinMarketCap|fidelity|grayscale|kraken|Lookonchain|meme coin|PUMP ICO|Pump.Fun|Sapijiju|Sol|SOL news|SOL Price|Solana news|Solana Price|SOLUSD|SOLUSDT|SoSoValue|USDC|VanEck|Year-To-Date|YTD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54882698,
+    "published": 1764079200000,
+    "title": "South Africa Flags Crypto, Stablecoins as New Financial Risk",
+    "body": "The South African Reserve Bank warned that a lack of comprehensive regulations for crypto assets and stablecoins has emerged as a new risk, posing significant threat to the country’s financial sector.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54883193,
+    "published": 1764089205000,
+    "title": "BONK Breaks Through Overhead Resistance as Volume Jumps 85% Above Average",
+    "body": "Increased trading volume carried BONK through a major resistance threshold before late pullbacks shaped a new support band.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|Bonk|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 113,
+        "NAME": "BONK",
+        "CATEGORY": "BONK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54883710,
+    "published": 1764090031000,
+    "title": "How High Can XRP Still Go This Cycle? Chartist Says $8 Possible",
+    "body": "XRP traders are once again arguing about upside targets after popular chartist Charting Guy reposted a bullish long-term setup and doubled down on his call that XRP can still reach $8 this cycle. “XRP still going to $8, idc,” he wrote on X in the early hours of Nov. 25, alongside a weekly XRP/USD chart from Bitstamp. XRP Price Still Has Room To Run At the time of the screenshot, XRP was trading around $2.25, up roughly 9.8% on the week, with the chart plotting an Elliott Wave structure from early 2023 into a projected peak in 2026. The analysis is built on a dense Fibonacci framework spanning from about $0.25 to a 1.272 extension at $8.29661, which anchors his upside target. The green wave count shows a classic five-wave impulse. Wave 1 launches from the post-bear-market base into the 0.618 Fibonacci level near $0.915, where the first leg tops out. Wave 2 then retraces for 51 weekly bars (357 days), bottoming just above the 0.382 retracement at $0.41315. Related Reading: XRP Real Purpose: Documentation Shows Payment Utility Contrary To Viral Claims — Details Wave 3 is drawn as a steep rally off that base, blasting through all mid-range Fibonacci bands and extending beyond the 1.0 level at $3.31700. In the replies, one user suggested the spike to around $3.65 had already completed the fifth wave; Charting Guy rejected that outright: “it wasn’t… was very clearly a B wave.” From that high, the chart records a year-long consolidation labelled as Wave 4, annotated as 50 weekly bars (350 days). Price fluctuates between roughly the mid-$2 area and above $3. The Wave-4 low holds above the 0.786 Fibonacci support at $1.61246, never revisiting the $1 region. From this consolidation, the projected Wave 5 shoots higher from around the $2–$2.30 zone—where XRP is currently trading—toward the 1.272 extension at $8.29661. The “5” marker sits at this level, and the projection shows only a modest pullback after touching the band, implying that this area is treated as the probable cycle cap. Related Reading: XRP Hits Exact Bull Target as Top Traders Celebrate Perfect Market Call The Fibonacci grid also frames the current battle zone. XRP’s price is oscillating around the 0.888 level at $2.27404, which lines up almost exactly with the latest weekly close, while the prior wave-3 region around $3.317 remains the next major resistance band on the chart. Not everyone is convinced. “Could still go under 1.50. Still,” wrote another user. Charting Guy’s response was curt: “no.” That stance matches the technical layout: in his count, the $1.61 area has already printed the Wave-4 low, and the structure does not include another trip below that support. Others pushed for higher numbers. “Was hoping for $20+,” one follower admitted. “could happen,” the analyst replied—before clarifying to another user that “$20 is not on track but still entirely possible.” His published chart, however, draws no path beyond the $8.29 extension, underlining that mid-single-digit territory remains his primary target for this cycle. At press time, XRP traded at $2.20. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP Price|XRP Price Analysis|XRP Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54883326,
+    "published": 1764089484000,
+    "title": "ICP Clears Key Technical Barrier as Breakout Volume Confirms Upward Momentum",
+    "body": "Internet Computer climbed through the crucial $4.20 resistance level on elevated volume before late-session consolidation narrowed gains.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 82,
+        "NAME": "ICP",
+        "CATEGORY": "ICP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54883285,
+    "published": 1764088099000,
+    "title": "Crypto is GREEN! MON launches at $3.9Billion FDV!",
+    "body": "Crypto majors rallied alongside a broad market surge, with BTC up 2% to $87,400, ETH up 4% to $2,920, BNB up 1% to $850, and SOL up 5% to $136, while KAS (+22%), ENA (+13%), and SUI (+11%) led the day’s top movers. The NASDAQ jumped 2.7% as stocks such as GOOG (+6%) and TSLA (+7%) posted strong gains. In policy and industry developments, the White House launched the “Genesis Mission,” described as a Manhattan Project–style initiative for AI, and Binance along with CZ faced new accusations of enabling crypto transactions for Hamas. Kraken hinted at a debit card debut expected today, and Tether purchased another 1 million Rumble shares, pushing the YouTube rival’s stock sharply higher. Meanwhile, the European Central Bank reiterated its warnings that the rapid growth of stablecoins could introduce stability risks to the wider financial system.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54884197,
+    "published": 1764090833000,
+    "title": "High percentage of Bitcoin, ETH, SOL held at a loss: Is it a bear market sign?",
+    "body": "One analyst found that 40% of Bitcoin is held at a loss, while ETH and SOL data currently stand at 40% and 75% respectively. Should investors be worried?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
       {
         "TYPE": "122",
         "ID": 211,
