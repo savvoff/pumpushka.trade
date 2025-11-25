@@ -3101,5 +3101,40 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 54874853,
+    "published": 1764052835000,
+    "title": "DOGE Pops 5% as ETF Debut Sparks First Clear Reversal Signal in Weeks",
+    "body": "ETF analysts characterized the launch as another major inflection point for memecoin legitimacy, with early volume estimates near $11 million.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Dogecoin Foundation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
