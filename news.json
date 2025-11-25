@@ -1,46 +1,5 @@
 [
   {
-    "id": 54826287,
-    "published": 1763958218000,
-    "title": "Bitcoin Logs Longest Losing Streak Since 2024 as Fed Repricing Fuels Cautious Rebound",
-    "body": "Bitcoin's longest weekly slump in over a year puts it on track for its worst quarter since 2018, with a potential bull trap looming.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54828426,
     "published": 1763961982000,
     "title": "Bitcoin ETFs, Led By BlackRock's IBIT, See Record $40B Trading Volume as Institutions Capitulate",
@@ -3389,6 +3348,53 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54870692,
+    "published": 1764044286000,
+    "title": "XRP Price Spikes Over 10% With Traders Rushing Back Into the Rally",
+    "body": "XRP price started a steady increase above $2.20. The price is now consolidating gains and might aim for another increase if it stays above the $2.180 level. XRP price started a fresh increase above the $2.120 zone. The price is now trading above $2.20 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move up if it clears $2.280. XRP Price Gains Momentum XRP price started a decent upward move above $2.020 and $2.050, beating Bitcoin and Ethereum . The price gained pace for a clear move above the $2.120 resistance. Besides, there was a break above a key bearish trend line with resistance at $2.00 on the hourly chart of the XRP/USD pair. The pair even surpassed the $2.20 barrier. A high was formed at $2.286 and the price started a consolidation phase above the 23.6% Fib retracement level of the upward move from the $1.817 swing low to the $2.286 high. The price is now trading above $2.20 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $2.280 level. The first major resistance is near the $2.320 level, above which the price could rise and test $2.350. A clear move above the $2.350 resistance might send the price toward the $2.4620 resistance. Any more gains might send the price toward the $2.50 resistance. The next major hurdle for the bulls might be near $2.550. Another Decline? If XRP fails to clear the $2.280 resistance zone, it could start a fresh decline. Initial support on the downside is near the $2.180 level. The next major support is near the $2.080 level. If there is a downside break and a close below the $2.080 level, the price might continue to decline toward $2.050 and the 50% Fib retracement level of the upward move from the $1.817 swing low to the $2.286 high. The next major support sits near the $2.020 zone, below which the price could continue lower toward $1.9250. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now above the 50 level. Major Support Levels – $2.180 and $2.080. Major Resistance Levels – $2.280 and $2.320.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
