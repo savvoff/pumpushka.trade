@@ -1,174 +1,5 @@
 [
   {
-    "id": 54873633,
-    "published": 1764050410000,
-    "title": "Tether, the gold whale",
-    "body": "Gilty by association",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54873589,
-    "published": 1764050405000,
-    "title": "JPMorgan’s Alleged Short On Strategy (MSTR): How A 50% Price Jump Could Spell Major Troubles",
-    "body": "Strategy, formerly known as MicroStrategy, the largest public holder of Bitcoin (BTC), finds itself at the center of a stormy controversy involving JPMorgan as Bitcoin prices continue to struggle. With signs of a potential bear market emerging, fresh rumors suggest that one of the world’s largest banks allegedly holds a significant short position on Strategy’s stock (MSTR), which has plunged 69% from its record high of $543 per share last year. Strategy Faces Potential MSCI Exclusion The turmoil escalated last week when JPMorgan issued a warning that Strategy might soon be removed from major equity indices, specifically the MSCI USA Index. JPMorgan’s analysts noted that the issues facing Strategy extend beyond the recent downturn in cryptocurrency prices, which have seen Bitcoin fall more than 30% from its all-time highs. As of this writing, Bitcoin is trading around $86,000, while the broader crypto market has experienced a staggering $1 trillion decline in total market capitalization over the past month. Related Reading: Why XRP Price Crash Below $2 Is Not A Problem – $20 Is Still The Target JPMorgan’s analysts indicated that MSCI is considering whether companies with over 50% of their total assets in digital currencies should qualify for inclusion in traditional equity indices. Given that Strategy’s balance sheet is heavily weighted with Bitcoin, it is at significant risk of exclusion. The analysts stated that “MicroStrategy [is] at risk of exclusion from major equity indices as the January 15th MSCI decision approaches.” They speculated that removal from the MSCI could trigger approximately $2.8 billion in outflows, and if other index providers follow MSCI’s lead, the total could reach as high as $8.8 billion. The situation is complicated by market dynamics, particularly the timing of JPMorgan’s bearish note, which coincided with Bitcoin’s weakness and MSTR’s decline, all while liquidity was thin and overall sentiment fragile. JPMorgan Faces Account Closures Surge According to analysts at the Bull Theory, JPMorgan has been noted for timing its market reports—bearing down when prices are already weak and striking a more bullish tone near market peaks. The analysts have highlighted that share lending for MSTR has reportedly increased, allowing brokers to lend shares to short sellers, which can exacerbate downward pressure on the stock price. Additionally, there are escalating reports of widespread account closures at JPMorgan, with thousands claiming to have exited due to perceived manipulation of both MSTR and Bitcoin. Related Reading: A Quiet Move In Bitcoin Options Is Starting To Raise Big Questions Amid these developments, the fear of a potential short squeeze is growing. The analysts believe that if Strategy’s stock were to rally around 40% to 50%, it could trigger a short squeeze in the bank’s position and spell major financial troubles. In response, Michael Saylor, the CEO of Strategy, has sought to clarify the company’s identity, emphasizing that it is not just a passive Bitcoin holder. He pointed out that Strategy operates as a software business with an active financial strategy, countering the narrative circulating around MSCI’s concerns. As the situation unfolds, several key points emerge. The October 10th crash appeared to align with the MSCI announcement, coinciding with an already fragile market state. JP Morgan’s strategic timing of its bearish insights has amplified existing fears, creating further uncertainty as MSCI’s final decision looms. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|btc|jpmorgan|JPMorgan news|Microstrategy|MicroStrategy Bitcoin|MicroStrategy news|MSTR|Strategy",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54873859,
-    "published": 1764050673000,
-    "title": "‘OG whale’ who called the October crash has a $44.5M long on Ether",
-    "body": "The Hyperliquid whale that made $200 million in the October crash has just added another $10 million to its long position on Ether.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54873858,
-    "published": 1764050619000,
-    "title": "Crypto VC activity hits $4.6B in Q3, second-best quarter since FTX collapse",
-    "body": "Half of the capital raised in the third quarter was from seven venture deals, with Revolut leading the way with a $1 billion investment.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54874429,
-    "published": 1764051991000,
-    "title": "XRP Surges 7% in Strongest Breakout in Weeks as Ripple Linked ETFs Go Live",
-    "body": "Technical indicators suggest a bullish trend, with XRP testing a major descending channel that could lead to further gains.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54874853,
     "published": 1764052835000,
     "title": "DOGE Pops 5% as ETF Debut Sparks First Clear Reversal Signal in Weeks",
@@ -3533,6 +3364,436 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54910678,
+    "published": 1764109530000,
+    "title": "MegaETH scraps $1B plan after technical failures derail sale",
+    "body": "Multiple technical failures during MegaETH’s pre-deposit phase pushed the raise beyond its limitations and forced the team to halt the sale.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54910849,
+    "published": 1764105820000,
+    "title": "Acting CFTC chair seeks CEOs for ‘innovation council,’ citing crypto policy",
+    "body": "The US CFTC opened nominations for a CEO-led advisory group to help shape policy on crypto, prediction markets and other emerging products.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54911715,
+    "published": 1764135830000,
+    "title": "Coinbase reveals 9 crypto ideas it wants to bankroll in 2026",
+    "body": "Coinbase Ventures outlined nine investment priorities for 2026, spanning RWA perpetuals, specialized exchanges, DeFi composability, and AI-powered development tools.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54911539,
+    "published": 1764101700000,
+    "title": "South Africa’s central bank flags crypto, stablecoins as financial risk",
+    "body": "The bank cited increasing trading volume and the number of users at large exchanges, as well as gaps in South Africa’s regulatory framework on crypto.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54912220,
+    "published": 1764136762000,
+    "title": "Grayscale’s GDOG Debuts Quietly While DOGE Builds Higher Lows",
+    "body": "DOGE is in a bullish consolidation phase, with technical indicators suggesting potential for upward movement if resistance at $0.154 is surpassed.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54911867,
+    "published": 1764135830000,
+    "title": "Coinbase reveals 9 crypto ideas it wants to bankroll in 2026",
+    "body": "Coinbase Ventures outlined nine investment priorities for 2026, spanning RWA perpetuals, specialized exchanges, DeFi composability and AI-powered development tools.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54912187,
+    "published": 1764133200000,
+    "title": "Google closes in on Nvidia in the AI race",
+    "body": "Nvidia shares wobble as Google gains upper hand in artificial intelligence",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54912752,
+    "published": 1764137294000,
+    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
+    "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54912587,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54912809,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54913057,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54912906,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54913380,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 54913218,
+    "published": 1764080398000,
+    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
+    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       }
     ]
   }
