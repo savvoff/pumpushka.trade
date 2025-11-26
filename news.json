@@ -1,157 +1,5 @@
 [
   {
-    "id": 54886903,
-    "published": 1764095393000,
-    "title": "U.S Bank Tests Custom Stablecoin Issuance on Stellar Network",
-    "body": "The nation's fifth-largest commercial bank explores how a bank can issue stablecoins on a public blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Stablecoin|Stellar|US Bank|PwC|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 56,
-        "NAME": "XLM",
-        "CATEGORY": "XLM"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54887984,
-    "published": 1764097255000,
-    "title": "Hamas Victims Sue Binance And CZ — Accusations Of Terror Financing Rock Crypto World",
-    "body": "Based on reports, victims of the October 7 attacks in Israel have filed a federal lawsuit against Binance and its founder, Changpeng “CZ” Zhao, claiming the exchange allowed large crypto flows to militant groups. Related Reading: Bitcoin Creator Somehow Becomes ‘Poor’ By Losing $41 Billion Without Saying A Word The complaint lists 306 American plaintiffs who say they were killed, injured, or taken hostage and are demanding damages. Dormant Accounts Draw Scrutiny According to the filing, the plaintiffs allege Binance helped move more than $1 billion for Hamas and other US-designated groups over several years. They claim that more than $50 million passed through the platform after the October 7, 2023 assault. These figures sit at the center of the case and could shape the request for compensatory and treble damages. The complaint also highlights unusual account activity that lawyers say should have triggered alarms. One example involves an account tied to a Venezuelan woman linked to a Brazilian livestock business. Binance Holdings faces a lawsuit claiming the cryptocurrency platform “knowingly facilitated” crypto transactions by Hamas before the group attacked Israel on Oct. 7, 2023, killing 1,200 people and taking 250 hostages. https://t.co/B3rO7bAjN6 — The Japan Times (@japantimes) November 25, 2025 Reports say the account received over $177 million in deposits after opening in 2022 and later sent out more than $130 million in withdrawals. Attorneys argue that movements of this size should have been examined more closely. Large Sums And Strange Flows Based on reports, the plaintiffs argue that Binance’s controls were weak or ignored, allowing questionable transfers to move across borders. The lawsuit lists alleged links to Hamas, Hezbollah, Palestinian Islamic Jihad, and Iran’s Revolutionary Guard. Lawyers claim the platform became a tool for shifting money while avoiding standard financial checks. Binance has said it complies with international sanctions laws and has denied having any special ties to terrorist groups. Its legal history forms part of the background: in late 2023, the company pleaded guilty in a major federal case and paid a $4.32 billion penalty tied to anti-money-laundering and sanctions violations. That earlier case, along with Zhao’s four-month prison sentence, is referenced in the new complaint. Related Reading: Bitcoin’s Sudden Volatility Jump Signals Options Could Be Calling The Shots—Analyst Legal Stakes And Future Impact The new lawsuit seeks damages under a US anti-terrorism law that can triple any award. If the plaintiffs succeed, the financial and reputational impact on Binance could be severe. The complaint was filed in federal court in North Dakota and is separate from another case in Manhattan that is already moving through the court system. The filing also recalls that Zhao’s prison sentence was later followed by a pardon from US President Donald Trump, something the plaintiffs point to as part of the exchange’s complicated legal path. They argue this new lawsuit is necessary to push for accountability after years of what they see as weak controls. Featured image from alliance / Zumapress.com, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Binance|bitcoin|changpeng zhao|CZ|Gaza|Hamas|terror funding",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54887827,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to soon vote on prospective CFTC Chair Michael Selig as a replacement for acting chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 54887666,
-    "published": 1764096666000,
-    "title": "U.S. Crypto Regulator, CFTC, Seeking Names for New 'CEO Innovation Council'",
-    "body": "Acting Chairman Caroline Pham said the group will help usher in a new era of market structure, including a focus on digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|U.S. Commodity Futures Trading Commission|Caroline D. Pham|Regulation|CEO|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54889563,
     "published": 1764099794000,
     "title": "Paxos acquires Fordefi to power stablecoin, tokenization infrastructure",
@@ -1672,35 +1520,6 @@
     ]
   },
   {
-    "id": 54912587,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
     "id": 54914879,
     "published": 1764140443000,
     "title": "Capriole Founder Not Bearish On Bitcoin Despite Headwinds—Here’s Why",
@@ -1958,64 +1777,6 @@
     ]
   },
   {
-    "id": 54924799,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 54924884,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
     "id": 54925052,
     "published": 1764099794000,
     "title": "Paxos acquires Fordefi to power stablecoin, tokenization infrastructure",
@@ -2081,64 +1842,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54925130,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 54925050,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       }
     ]
   },
@@ -2266,35 +1969,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54925647,
-    "published": 1764096892000,
-    "title": "Polymarket wins regulatory approval to operate US trading platform",
-    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       }
     ]
   },
@@ -6351,6 +6025,322 @@
   },
   {
     "id": 54943587,
+    "published": 1764137294000,
+    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
+    "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54944002,
+    "published": 1764181563000,
+    "title": "Nasdaq ISE Files to Lift BlackRock IBIT Option Limits Into Top Tier Status",
+    "body": "Filing comes amid rapid growth in IBIT options activity and a migration of open interest toward US regulated venues.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bitcoin ETF|BlackRock|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54943992,
+    "published": 1764180461000,
+    "title": "Bitcoin Tops $90,000 as Options Point Toward Shifting Sentiment",
+    "body": "Bitcoin climbed above $90,000 for the first time in almost a week, clawing back ground after a more than a month-long selloff, as a broad rally in risk assets and easing volatility gave traders room to push higher.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54944132,
+    "published": 1764137294000,
+    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
+    "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54944540,
+    "published": 1764137294000,
+    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
+    "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54944301,
+    "published": 1764137294000,
+    "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
+    "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54945245,
+    "published": 1764183649000,
+    "title": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
+    "body": "Bitcoin has broken above $90,000 per coin again, nearly a week after it dipped to a seven-month low of about $81,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54945157,
+    "published": 1764183639000,
+    "title": "XRP 100x Rally To $225: Why The Only Place To Go Is Up",
+    "body": "XRP may be positioned for a major rally that reshapes its broader market outlook. In a detailed analysis shared on X, crypto strategist Chad Steingraber outlines calculations showing how expanding ETF activity could set the stage for a 100-fold move, pushing XRP toward $225 per token. His commentary consolidates a series of demand-and-supply assessments that map the structural forces he believes define XRP’s potential rally, signaling a market phase increasingly driven by institutional participation. Mapping XRP’s Path To A 100x Rally At $225 According to Steingraber, XRP’s path to $225 follows a series of milestones. He projects a fivefold rise to $11.25, tenfold to $22.50, twentyfold to $45, fortyfold to $90, sixtyfold to $135, and ultimately a 100-fold increase to $225. Each step reflects the interaction between supply absorption and price adjustment: as ETFs acquire more XRP, price rises, moderating the rate of accumulation and maintaining balance in the market. In Steingraber’s view, the only outcome is a sharp rise in XRP’s price. Related Reading: Attack On Cardano Founder Leads To Network Halt, What Really Happened? While XRP’s current market performance shows a 1.8% decline over 24 hours and an 8.4% decline over two weeks, Steingraber emphasizes that these short-term fluctuations are minor compared to structural forces. ETF-driven demand and institutional acquisition are poised to create a supply-demand imbalance that pushes XRP far beyond its current trading range. Overall, his analysis frames XRP’s potential 100x rally to $225 as a structural outcome of institutional participation, ETF inflows, and supply scarcity. Price increases are essential to slow the rate at which asset managers acquire the token, making the rally a logical response to market mechanics rather than a speculative prediction. How ETF Inflows Shape XRP’s Supply Dynamics Steingraber’s series of projections illustrates how XRP could be absorbed at a pace capable of significantly reducing its circulating supply within a short period. Under conservative estimates of $33.6 billion in annual inflows, he believes that most of the available XRP could be acquired within a year. More aggressive scenarios involving major asset managers such as BlackRock could see the entire circulating supply absorbed in less than six months. Related Reading: Will The Low XRP Price Force Ripple To Dump Its Holdings? Exec Answers Community To illustrate the scale of demand, he breaks down current acquisition rates: seven major funds are taking in an average of $20 million per day each, totaling $140 million daily, $700 million weekly, and $2.8 billion monthly, amounting to $33.6 billion annually. At XRP’s current price of $2.20, these inflows would allow institutions to accumulate massive quantities of the token, creating rapid scarcity. This dynamic makes a substantial price increase unavoidable, as higher prices slow accumulation under fixed allocations and prevent ETFs from depleting the market too quickly. XRP’s rising price is therefore not just a market reaction but a structural requirement to maintain balance amid large-scale institutional buy-ins. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54945082,
     "published": 1764137294000,
     "title": "Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report",
     "body": "Kevin Hassett, who was central to the president’s crypto working group, has sprung up as a frontrunner to take over the Federal Reserve, Bloomberg reports.",
