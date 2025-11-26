@@ -1,10 +1,10 @@
 ---
-title: 'MegaETH скасовує план на $1B після того, як технічні збої зірвали продаж.'
-description: 'MegaETH нещодавно призупинив запланований продаж через численні технічні збої, які сталися під час його фази попереднього депозиту. Ці проблеми призвели до того, що зусилля зі збору коштів перевищили…'
+title: 'MegaETH скасовує план на $1 млрд після того, як технічні збої зірвали продаж.'
+description: 'MegaETH призупинив свій план залучити $1 мільярд через численні технічні збої, з якими стикнулися під час фази попереднього депозиту. Ці проблеми перевищили можливості проекту,…'
 publishedAt: '2025-11-25T22:25:30.000Z'
-updatedAt: '2025-11-25T23:21:33.845Z'
+updatedAt: '2025-11-26T14:25:48.302Z'
 lang: uk
-externalId: '54895461'
+externalId: '54932896'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,28 +17,32 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMTI4NDl8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMTI4NDl8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMTI4NDl8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMTI4NDl8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMTI4NDl8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1649003515353-c58a239cf662'
+  raw: 'https://images.unsplash.com/photo-1723587693269-8f53e5068980?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNjcwOTB8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1723587693269-8f53e5068980?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNjcwOTB8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1723587693269-8f53e5068980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNjcwOTB8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1723587693269-8f53e5068980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNjcwOTB8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1723587693269-8f53e5068980?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNjcwOTB8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1723587693269-8f53e5068980'
 ai:
-  translatedFrom: '54895461'
+  translatedFrom: '54932896'
   version: 1
 ---
 ## Огляд
 
-MegaETH нещодавно зупинив запланований продаж через кілька технічних збоїв, які сталися під час його фази попереднього депозиту. Ці проблеми призвели до того, що зусилля зі збору коштів перевищили їх запланований ліміт, що спонукало команду до рішучих дій.
+MegaETH призупинив свій план зі збору $1 мільярд через численні технічні збої, які виникли під час фази попереднього депозиту. Ці проблеми перевищили обмеження проекту, що призвело до рішення зупинити продаж.
 
 ## Що сталося
 
-Під час фази попереднього депозиту продажу MegaETH команда зіткнулася з кількома технічними збоєм. Ці збої завадили процесу, в результаті чого збір коштів перевищив встановлений ліміт. Внаслідок цих ускладнень команда MegaETH прийняла рішення зовсім зупинити продаж.
+Під час фази попереднього депозиту ініціативи зі збору коштів MegaETH виникла низка технічних збоїв. Ці збої вплинули на здатність проекту продовжуватися за планом, врешті-решт перевищивши встановлені обмеження. В результаті команда прийняла важке рішення призупинити продаж.
+
+## Чому це важливо
+
+Рішення зупинити продаж відображає виклики, які можуть виникнути в сфері збору коштів у криптовалюті, особливо пов'язані з технічною інфраструктурою. Такі невдачі можуть не лише вплинути на безпосередні цілі проекту, але також вплинути на довіру інвесторів і загальне сприйняття подібних ініціатив на ринку.
 
 ## Вплив на крипторинок
 
-- Зупинка продажу MegaETH може вплинути на довіру інвесторів до подібних проектів.
-- Технічні збої підкреслюють важливість надійної інфраструктури у зборі коштів у криптоіндустрії.
-- Рішення зупинити продаж може призвести до посиленого контролю за управлінням проектом та його реалізацією в криптопросторі.
-- Потенційні інвестори можуть переоцінити свої стратегії в світлі технічних викликів, з якими зіткнувся MegaETH.
-- Інцидент може вплинути на регуляторний ландшафт щодо процесів збору коштів на ринку криптовалют.
+- Призупинення плану MegaETH на $1 мільярд підкреслює ризики, пов'язані з технічними збоїми у криптопроектах.
+- Довіра інвесторів може бути підірвана, оскільки технічні проблеми можуть сигналізувати про більш широкі занепокоєння щодо життєздатності проекту.
+- Інцидент може призвести до більшого контролю технічної готовності в майбутніх зусиллях зі збору коштів у криптопросторі.
+- Інші проекти можуть переоцінити свої власні технічні рамки, щоб уникнути подібних пасток.
+- Ця подія підкреслює важливість надійного тестування та планування на випадок непередбачених обставин у крипторинку.
