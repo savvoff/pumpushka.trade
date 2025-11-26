@@ -1,163 +1,5 @@
 [
   {
-    "id": 54891041,
-    "published": 1764102368000,
-    "title": "MoonPay Granted New York Trust Charter, Joining Coinbase and Ripple",
-    "body": "Crypto payments firm MoonPay has gained regulatory approval in New York to safeguard customers’ digital assets and facilitate OTC trades.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54892167,
-    "published": 1764104435000,
-    "title": "XRP Price Will Climb Above $10 When This Happens: Analyst",
-    "body": "Bitcoin dominance is currently sitting around the mid-50% range, and although it has not shown any dramatic breakdown yet, some traders are beginning to watch for signs of rotation. Data from platforms that track market share show Bitcoin dominance slowly pushing to the mid-fifties, but projections suggesting a future decline are forming the basis of new discussions in the XRP community. One such projection comes from an XRP enthusiast known as DROP, who shared a chart illustrating a steep fall in Bitcoin dominance that he believes will unlock XRP’s next major rally to double digits. Bitcoin Dominance Projection Shows A Breakdown Zone The chart shared by DROP outlines a scenario where Bitcoin dominance trends sideways for a while before sliding into the low-40% region. This projected decline is highlighted by a wide purple zone extending into 2026. The expectation is that a major rotation into altcoins, most especially XRP, would begin once dominance loses its current structure. Related Reading: Here’s How High The XRP Price Needs To Be To Flip Bitcoin Although Bitcoin’s dominance has fallen quite a bit from its 60% range where it was circulating in October, it has fairly held up even when it fell to as low as $81,000 on November 21. The last time Bitcoin’s dominance was as low as 40% was in early 2023. The idea behind the projection is not that another fall in dominance has already begun, but that the dominance is in a region where it could crash if market conditions change. According to DROP, this is the moment that will cement the beginning of XRP’s strongest move of the cycle. It is from here that the XRP price runs to double digits. Double-Digit XRP Dependent On A Crypto Market Transition XRP has often been one of the few assets that have shown the ability to outperform Bitcoin, especially when traders rotate into large-cap tokens that have lagged behind Bitcoin during the early part of a cycle. Related Reading: XRP Price Has Surged 15% Anytime This Metric Appeared In The Past This pattern was visible in both January and July 2025. The January 2025 move pushed XRP above $3 for the first time since 2018, and the July 2025 move saw the XRP price register a new all-time high. The projection by DROP positions XRP as one of the likely gainers once market share begins to redistribute away from Bitcoin. This has not happened yet, and current dominance readings reflect stability rather than collapse. The projection centers on what could occur when the market enters the next altcoin rotation phase. If dominance eventually drops toward the low-40% range, then the conditions might just be right for XRP to break out above $10. These conditions include retail and institutional participation, deeper liquidity from large investors, and meaningful inflows into XRP ETFs to sustain such an advance to double digits. Featured image from Getty Images, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|altcoins|bitcoin|Bitcoin's Dominance|drop|Ripple|Spot XRP ETFs|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54891835,
-    "published": 1764103791000,
-    "title": "US Bank Is Testing a Stablecoin on Stellar Network",
-    "body": "U.S. Bank joins the growing list of traditional banking institutions working on stablecoins, testing its own on the Stellar blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 56,
-        "NAME": "XLM",
-        "CATEGORY": "XLM"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54892361,
-    "published": 1764104759000,
-    "title": "Texas Buys $5M in BTC ETF as States Edge Toward First Government Crypto Reserves",
-    "body": "The effort is starting small, but Texas made an opening foray into a state-based crypto reserve — getting closer to the first government stockpile in the U.S.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|BTC Treasuries Theme Month|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54893260,
     "published": 1764106165000,
     "title": "Bitwise Dogecoin ETF Debut Imminent After Quiet Start for Grayscale DOGE Fund",
@@ -5691,6 +5533,53 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54948542,
+    "published": 1764188886000,
+    "title": "S&P Downgrades Tether's USDT Stability to 'Weak' Due to Bitcoin Backing Concerns",
+    "body": "S&P Global Ratings has downgraded Tether's USDT, warning that the industry-leading stablecoin could suffer if Bitcoin's price crashes. Tether disagrees.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
       {
         "TYPE": "122",
         "ID": 54,
