@@ -1,197 +1,5 @@
 [
   {
-    "id": 54882541,
-    "published": 1764087484000,
-    "title": "Why Bitcoin Is Underperforming Equities Despite Bullish Catalysts",
-    "body": "Gains in AI-fueled stocks and heavy crypto leverage have widened the gap between bitcoin and equities.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882537,
-    "published": 1764087264000,
-    "title": "Polymarket Secures CFTC Approval for Regulated U.S. Return",
-    "body": "Polymarket’s amended CFTC designation paves the way for the prediction-market platform to formally reopen in the U.S. with a fully regulated exchange structure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Polymarket|Prediction Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      }
-    ]
-  },
-  {
-    "id": 54882644,
-    "published": 1764086773000,
-    "title": "MoonPay secures New York trust charter, expands regulated services",
-    "body": "The regulatory approval followed the payments company obtaining a BitLicense from the NYDFS in June, making it one of a handful of crypto companies to have both.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882564,
-    "published": 1764086417000,
-    "title": "XRP Has Just Flashed ‘The Real Signal’, Analyst Reveals Where Price Is Headed",
-    "body": "The XRP price is showing signs of recovery after crashing under $2 earlier last week due to broader market volatility and decline. With its renewed momentum, analysts are now sharing optimistic projections about its future trajectory. New reports from market expert, Egrag Crypto, highlight the reappearance of a crucial technical signal that could trigger a major trend reversal for XRP. Based on the formation of this signal, XRP may be positioning for an explosive price surge that contradicts the previous bearish developments. XRP Price Chart Forms Bullish EMA Cross Signal Egrag Crypto has described the cross between two key Exponential Moving Averages (EMA) as “the real signal.” In his X post shared on Monday, he presented an in-depth review of XRP’s 3-day chart, focusing on the interaction between the 50-day and 200-day EMA and predicting how this technical signal could impact the cryptocurrency’s future price action. Related Reading: Attack On Cardano Founder Leads To Network Halt, What Really Happened? Egrag Crypto emphasized that many traders have interpreted the narrowing distance between these two key EMAs as the early stages of a bear market. However, his analysis shows that this interpretation does not match the XRP’s technical structure. For a genuine bearish cross to confirm a downward trend, XRP’s price would need to fall decisively below both EMAs as overall momentum begins to weaken. Currently, XRP sits above the 200 EMA, with the long-term trend line still rising, indicating underlying strength rather than a classic bear market setup. This suggests the cryptocurrency may be gradually building momentum to break out of its ongoing downtrend and move to higher levels. Egrag Crypto’s chart shows that XRP’s present structure contrasts sharply with its 2018 setup. During that cycle, XRP’s price had collapsed long before the two EMAs crossed, implying that the bearish crossover signal was more of a confirmation than the cause of the weakness. Based on the chart analysis, XRP’s present market structure lacks the characteristics of this historical event, suggesting that the cryptocurrency may be holding firm at levels that could yield more bullish outcomes than before. Where The XRP Price Is Headed Continuing his analysis, Egrag Crypto explained that the latest XRP chart setup looks more like the structures seen before its historic bull rallies in 2017 and early 2021. During those bullish cycles, the 500/200 EMAs had tightened, and XRP had remained above the 200 EMA. Related Reading: Will The Low XRP Price Force Ripple To Dump Its Holdings? Exec Answers Community Egrag Crypto noted that the market also entered a compression phase in both years, leading to sharp increases in volatility and explosive price surges. According to the analyst, each time XRP emerged from these conditions, it produced some of its most aggressive vertical moves. Notably, XRP’s current price chart reflects similar patterns. Egrag Crypto has said the cryptocurrency may be experiencing “late-cycle consolidation” rather than the beginning of a prolonged downtrend. Compression phases of this type often indicate that momentum is building beneath the surface. Based on its structure, the analyst has predicted that the XRP price is likely to head toward its final upside leg rather than a completed top. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|analyst|crypto|crypto analyst|crypto news|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882534,
-    "published": 1764085983000,
-    "title": "MoonPay Secures New York Trust Charter, Expands Institutional Crypto Services",
-    "body": "The crypto payments firm joins an elite group with both a BitLicense and Trust Charter, gaining legal authority to custody assets and offer OTC trading under NYDFS oversight.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|MoonPay|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882532,
-    "published": 1764084179000,
-    "title": "Paxos Acquires Crypto Wallet Startup Fordefi to Expand Custody Services",
-    "body": "The move aims to position Paxos to serve growing institutional demand for on-chain asset issuance and stablecoin payments.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Paxos|Crypto Wallets|Custody|acquisition|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 54883193,
     "published": 1764089205000,
     "title": "BONK Breaks Through Overhead Resistance as Volume Jumps 85% Above Average",
@@ -2532,29 +2340,6 @@
     ]
   },
   {
-    "id": 54920556,
-    "published": 1764086773000,
-    "title": "MoonPay secures New York trust charter, expands regulated services",
-    "body": "The regulatory approval followed the payments company obtaining a BitLicense from the NYDFS in June, making it one of a handful of crypto companies to have both.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54921063,
     "published": 1764149361000,
     "title": "Spain’s left-wing party proposes 47% crypto tax in ‘attack against Bitcoin’",
@@ -2769,29 +2554,6 @@
         "NAME": "SOL",
         "CATEGORY": "SOL"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54921000,
-    "published": 1764086773000,
-    "title": "MoonPay secures New York trust charter, expands regulated services",
-    "body": "The regulatory approval followed the payments company obtaining a BitLicense from the NYDFS in June, making it one of a handful of crypto companies to have both.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -5906,6 +5668,834 @@
         "ID": 56,
         "NAME": "XLM",
         "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54936400,
+    "published": 1764170466000,
+    "title": "Bitcoin analysis sees $89K short squeeze with S&P 500 2% from all-time high",
+    "body": "Bitcoin fielded new predictions of a short squeeze as price kept up pressure on key resistance at $88,000, while US stocks went higher.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54936116,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54936114,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937127,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937304,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937264,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937433,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937263,
+    "published": 1764129073000,
+    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
+    "body": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937303,
+    "published": 1764129073000,
+    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
+    "body": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937432,
+    "published": 1764129073000,
+    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
+    "body": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937261,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937431,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937302,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937744,
+    "published": 1764172600000,
+    "title": "Crypto Market Maker Portofino Said to Be Hit by Another Wave of Staff Departures",
+    "body": "The company's chief revenue officer and chief of staff both recently left the firm, according to a source.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Crypto Trading|Exclusive|Management|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 54937653,
+    "published": 1764172427000,
+    "title": "Crypto Bottoming Signs? FT Drops Trifecta of Bitcoin Gloom on Wednesday",
+    "body": "As British taxes have been hiked once again, the U.K.-based publication took a victory lap on bitcoin's recent struggles.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|MicroStrategy|Bitcoin News|Financial Times|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937780,
+    "published": 1764172383000,
+    "title": "Bitcoin price risks decline below $80K as fears of ‘MSTR hit job’ escalate",
+    "body": "Bitcoin faces downside risks as a bear flag breakdown targets $77,400, while tensions between Strategy and MSCI can add new pressure on the BTC price.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937944,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937900,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937898,
+    "published": 1764129073000,
+    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
+    "body": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54937943,
+    "published": 1764129073000,
+    "title": "DeFi is already 30% of the way to mass adoption: Chainlink founder",
+    "body": "Chainlink’s Sergey Nazarov has shared a potential roadmap for how DeFi could reach 100% adoption in four years, noting that a big part of this hinges on regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54938462,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54938419,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54938290,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54938076,
+    "published": 1764131355000,
+    "title": "Bitcoin final leverage flush below $80K is possible, warns analyst",
+    "body": "An analyst has warned that Bitcoin’s recent liquidation event may not be finished, with remaining leverage potentially pushing prices somewhere between the $70,000 to $80,000 zone.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
