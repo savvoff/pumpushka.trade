@@ -1,163 +1,5 @@
 [
   {
-    "id": 54881017,
-    "published": 1764066715000,
-    "title": "UAE’s new financial law pulls DeFi and Web3 into regulatory scope",
-    "body": "Federal Decree Law No. 6 expands the UAE central bank’s authority over DeFi, ending the “just code” defense and imposing penalties of up to $272 million.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 54881734,
-    "published": 1764068412000,
-    "title": "Bitcoin To $40,000? Signal Behind Past 60% Crashes Is Back",
-    "body": "A cryptocurrency analyst has pointed out how a technical analysis (TA) signal that led into major price declines in the past has returned for Bitcoin. Monthly MACD Has Turned Bearish For Bitcoin In a new post on X, analyst Ali Martinez has talked about a signal that has formed in the Moving Average Convergence/Divergence (MACD) for Bitcoin. MACD is a TA indicator that’s generally used for timing buys and sells in an asset’s price chart. Related Reading: USDC Floods Exchanges: Are Traders Buying The Bitcoin Crash? The indicator consists of two lines: MACD line and signal line. The first of these, the MACD line, is found by subtracting the 26-period exponential moving average (EMA) of the price from its 12-period EMA. The signal line tracks the 9-period EMA of this difference. Crossovers between the two lines can provide buy or sell signals for the asset. The MACD line breaking above the signal line could be considered a bullish signal, while the reverse type of crossover a bearish one. Now, here is the chart shared by Martinez that shows how the monthly MACD has changed for Bitcoin over the last several years: As displayed in the above graph, the Bitcoin MACD has registered a crossover recently. The MACD line has plunged as the asset has witnessed its bearish momentum and it’s now sitting under the signal line. As mentioned earlier, such a signal can be a bearish one. In the chart, the analyst has highlighted the past instances of this pattern. It would appear that the last three sell signals from the indicator all led into declines of more than 60% for the cryptocurrency. “If that repeats, the chart points to $40,000,” noted Martinez. It now remains to be seen whether the MACD will hold for Bitcoin, or if a different trend from the past will follow this time around. The MACD line falling under its signal line isn’t the only bearish crossover that BTC has faced recently. As the analyst has pointed out in another X post, a classic death cross has also appeared between the asset’s 50-day simple moving average (SMA) and 200-day SMA. From the chart, it’s apparent that the 50-day SMA has declined below the 200-day SMA alongside the latest Bitcoin market downturn. During the past couple of years, each such signal has marked local bottoms for BTC, but in 2022, this crossover kicked off the bear market. Related Reading: Is Bitcoin Yet To Top In This Cycle? What aSOPR Suggests So far since the death cross has appeared, the asset has continued to decline, a potential sign that this death cross may be different from the recent ones. BTC Price At the time of writing, Bitcoin is floating around $88,800, down over 4% in the last seven days. Featured image from Dall-E, charts from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin crash|Bitcoin MACD|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54881840,
-    "published": 1764068214000,
-    "title": "Solana ETFs pull $369M in November as investors look to productive yield assets",
-    "body": "Solana ETFs pulled in $369 million so far this month as investors appear to favor yield-bearing products, while Bitcoin and Ether ETFs faced billions in redemptions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54881855,
-    "published": 1764067997000,
-    "title": "Metaplanet Draws $130M for Further Bitcoin Acquisitions Under Credit Facility",
-    "body": "The Japanese company executed new borrowing as part of its expanding bitcoin focused funding strategy.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|MetaPlanet|Bitcoin News|Loans|Digital Asset Treasury|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 54882369,
     "published": 1764080398000,
     "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
@@ -996,29 +838,6 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882355,
-    "published": 1764069543000,
-    "title": "Strike CEO debanked by JPMorgan, Lummis sounds ‘Chokepoint 2.0’ alarm",
-    "body": "Strike CEO Jack Mallers said JPMorgan closed his accounts without explanation, reigniting fears of Operation Chokepoint 2.0 and renewed pressure on crypto companies.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -4431,6 +4250,261 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54923845,
+    "published": 1764093253000,
+    "title": "Why the SEC’s new guidelines could speed up the approval process for new crypto ETFs",
+    "body": "New SEC rules could reshape the crypto ETF landscape by speeding up approvals, reducing the shutdown backlog and giving issuers a clearer and faster path to market.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54923770,
+    "published": 1764093253000,
+    "title": "Why the SEC’s new guidelines could speed up the approval process for new crypto ETFs",
+    "body": "New SEC rules could reshape the crypto ETF landscape by speeding up approvals, reducing the shutdown backlog and giving issuers a clearer and faster path to market.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54924799,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54924884,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54925052,
+    "published": 1764099794000,
+    "title": "Paxos acquires Fordefi to power stablecoin, tokenization infrastructure",
+    "body": "The addition of Fordefi’s MPC wallet infrastructure broadens Paxos’ regulated capabilities for custody, tokenization and institutional onchain operations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54924973,
+    "published": 1764099794000,
+    "title": "Paxos acquires Fordefi to power stablecoin, tokenization infrastructure",
+    "body": "The addition of Fordefi’s MPC wallet infrastructure broadens Paxos’ regulated capabilities for custody, tokenization and institutional onchain operations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54925132,
+    "published": 1764099794000,
+    "title": "Paxos acquires Fordefi to power stablecoin, tokenization infrastructure",
+    "body": "The addition of Fordefi’s MPC wallet infrastructure broadens Paxos’ regulated capabilities for custody, tokenization and institutional onchain operations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 54925130,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54925050,
+    "published": 1764096892000,
+    "title": "Polymarket wins regulatory approval to operate US trading platform",
+    "body": "The approval came as the US Senate is expected to vote soon on prospective CFTC chair Michael Selig as a replacement for acting Chair Caroline Pham.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }

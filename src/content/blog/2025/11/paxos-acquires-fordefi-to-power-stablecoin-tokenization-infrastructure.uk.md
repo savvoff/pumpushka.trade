@@ -1,10 +1,10 @@
 ---
-title: 'Paxos придбає Fordefi для підтримки стейблкоїна, інфраструктури токенізації'
-description: 'Paxos придбав Fordefi, що підсилює його можливості в зберіганні, токенізації та інституційних операціях на блокчейні. Це придбання є значним, оскільки інтегрує Fordefi''s…'
+title: 'Paxos придбає Fordefi для забезпечення стабільної монети, інфраструктури токенізації'
+description: 'Paxos оголосив про придбання Fordefi, яке має на меті покращити його інфраструктуру для послуг зі стейблкоїнів та токенізації. Цей стратегічний крок спрямований на розширення…'
 publishedAt: '2025-11-25T19:43:14.000Z'
-updatedAt: '2025-11-25T20:26:58.783Z'
+updatedAt: '2025-11-26T11:20:49.787Z'
 lang: uk
-externalId: '54889563'
+externalId: '54925132'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,32 +17,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1640459958548-56c1c6717a40?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMDIzNzJ8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1640459958548-56c1c6717a40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMDIzNzJ8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1640459958548-56c1c6717a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMDIzNzJ8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1640459958548-56c1c6717a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMDIzNzJ8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1640459958548-56c1c6717a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMDIzNzJ8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1640459958548-56c1c6717a40'
+  raw: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNTYwMjN8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNTYwMjN8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNTYwMjN8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNTYwMjN8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1649003515353-c58a239cf662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNTYwMjN8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1649003515353-c58a239cf662'
 ai:
-  translatedFrom: '54889563'
+  translatedFrom: '54925132'
   version: 1
 ---
 ## Огляд
 
-Paxos придбав Fordefi, що покращує його можливості в сфері зберігання, токенізації та інституційних операцій в блокчейні. Цей придбання є значним, оскільки воно інтегрує інфраструктуру гаманців MPC Fordefi в пропозиції Paxos.
+Paxos оголосила про придбання Fordefi, яке має на меті покращення її інфраструктури для послуг зі стейблкоїнів та токенізації. Цей стратегічний крок спрямований на розширення регульованих можливостей Paxos у сфері зберігання та інституційних операцій в блокчейні.
 
-## Деталі придбання
+## Що сталося
 
-Придбання Fordefi дозволяє Paxos розширити свої регульовані можливості. Інтеграція інфраструктури гаманців MPC Fordefi є особливо важливою. Це доповнення зміцнює позицію Paxos на крипторинку, дозволяючи забезпечити більш надійні рішення для зберігання та токенізації.
+Paxos, відомий гравець на ринку криптовалют, успішно придбала Fordefi. Це придбання включає інфраструктуру гаманців з багатосторонніми обчисленнями (MPC) Fordefi, яка розроблена для зміцнення пропозицій Paxos у сферах зберігання та токенізації. Інтегруючи технології Fordefi, Paxos має на меті зміцнити свої інституційні операції в блокчейні, що дозволить більш надійно та безпечно управляти цифровими активами.
 
-## Важливість придбання
+## Чому це важливо
 
-Придбання Fordefi важливе з кількох причин. Це свідчить про зобов’язання Paxos покращити свою технологічну інфраструктуру, що є необхідним для надання безпечних та регульованих послуг у швидко змінюючійся криптоекосистемі. Розширюючи свої можливості, Paxos має змогу краще обслуговувати інституційних клієнтів та покращувати операції в блокчейні.
+Придбання Fordefi є значним, оскільки воно покращує існуючі можливості Paxos і позиціонує компанію для кращого обслуговування інституційних клієнтів. Інфраструктура гаманців MPC є критично важливою для поліпшення безпеки та ефективності управління цифровими активами, що стає все більш важливим у змінному середовищі криптовалют та технології блокчейн. Цей розвиток відображає зобов'язання Paxos надавати регульовані та надійні рішення на крипторинку.
 
 ## Вплив на крипторинок
 
-- Paxos зміцнює свою конкурентну перевагу на крипторинку завдяки покращеним можливостям зберігання та токенізації.
-- Інтеграція вдосконаленої інфраструктури гаманців може призвести до покращення безпеки та ефективності для користувачів.
-- Це придбання може залучити більше інституційних клієнтів, які шукають регульовані рішення в криптопросторі.
-- Цей крок може сигналізувати про тенденцію до консолідації в криптоіндустрії, оскільки компанії прагнуть поліпшити свої технологічні пропозиції.
-- Розширені можливості Paxos можуть сприяти збільшенню впровадження стейблкоїнів та рішень для токенізації.
+- Придбання може призвести до поліпшення безпеки та ефективності в управлінні цифровими активами.
+- Розширені можливості Paxos можуть залучити більше інституційних клієнтів, які шукають регульовані послуги.
+- Інтеграція технології MPC може встановити новий стандарт для рішень зі зберігання та токенізації.
+- Цей стратегічний крок підкреслює триваючу консолідацію в індустрії криптовалют.
+- Покращення інфраструктури Paxos може призвести до підвищення довіри та впровадження стейблкоїнів.
