@@ -1,7 +1,7 @@
 import { defineConfig, passthroughImageService } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import icon from 'astro-icon';
-import pagefind from 'astro-pagefind';
+// import pagefind from 'astro-pagefind';
 import sitemap from '@astrojs/sitemap';
 import vercel from '@astrojs/vercel';
 
@@ -34,7 +34,7 @@ export default defineConfig({
   }),
   integrations: [
     tailwind(),
-    pagefind(),
+    // pagefind(),
     sitemap({
       i18n: {
         defaultLocale: 'uk',

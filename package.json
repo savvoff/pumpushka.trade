@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "tinacms build --skip-search-index && rm -f public/admin/.gitignore && astro build",
+    "build:search": "node scripts/build-pagefind-index.mjs",
+    "build": "tinacms build --skip-search-index && rm -f public/admin/.gitignore && npm run build:search && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -21,6 +22,7 @@
     "astro-icon": "^1.1.5",
     "astro-pagefind": "^1.8.5",
     "astro-remote": "^0.3.4",
+    "pagefind": "^1.4.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "tailwindcss": "^3.4.18",
