@@ -1,34 +1,5 @@
 [
   {
-    "id": 54882369,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
     "id": 54882541,
     "published": 1764087484000,
     "title": "Why Bitcoin Is Underperforming Equities Despite Bullish Catalysts",
@@ -217,100 +188,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 54882529,
-    "published": 1764083286000,
-    "title": "Polkadot Slides 4% as Technical Resistance Triggers Selloff",
-    "body": "The altcoin carved out a $0.21 trading range, marking 9% intraday volatility as bearish forces gained control.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 21,
-        "NAME": "DOT",
-        "CATEGORY": "DOT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 54882559,
-    "published": 1764082806000,
-    "title": "Why Has The Solana Price Been Crashing Since October? This Major SOL Player Is Selling",
-    "body": "On-chain analytics platform Lookonchain has provided insights into what may have contributed to the Solana price crash since October. The platform revealed that meme coin launchpad Pump.fun has sold a significant amount of SOL, cashing out almost $500 million since the start of October. Pump.fun Allegedly Dumps SOL Amid Solana Price Crash In an X post, Lookonchain suggested that Pump.fun has been selling SOL, as it appears that the meme coin launchpad has cashed out at least 436.5 million USDC since October 15. The on-chain analytics platform also stated that since October 15, the meme coin launchpad has deposited 436.5 million USDC into Kraken. Related Reading: Forget XRP, DFDV Exec Predicts Solana Price Is Headed For $10,000 Furthermore, Lookonchain revealed that between May 19, 2024, and August 12, 2025, Pump.fun sold a total of 4.19 million SOL ($757 million) at an average price of $181. Of that amount, 264,373 SOL was sold on-chain for $41.64 million, while 3.93 million SOL ($715.5 million) was deposited into Kraken. Pump.fun’s SOL sales are known to put significant selling pressure on the Solana price, thereby contributing to its crash. Notably, the Solana price has recorded one of the largest losses during this recent crypto market downtrend. SOL crashed from a high of around $220 in October to a low of $120 this month. This has occurred despite the launch of six spot Solana ETFs during this period. Bitwise, Grayscale, Fidelity, 21Shares, VanEck, and Canary have all launched their SOL funds and have recorded notable flows since launch. SoSo Value data shows that these funds have recorded cumulative net inflows of $568.24 million since their respective listings. Despite this, the Solana price has been in a downtrend amid significant selling pressure from SOL whales. Thanks to the crash, SOL is now down over 28% year-to-date (YTD). The altcoin is also down over 28% in the last 30 days. Pump.fun Denies Recent SOL Sales A Pump.fun spokesperson, Sapijiju, has indicated that they haven’t sold any SOL recently and haven’t contributed to the Solana price crash. In an X post, he described Lookonchain’s post as complete misinformation, as they haven’t cashed any sum. He claimed they were not involved in the transactions between Kraken and Circle that the on-chain analytics platform referenced. Related Reading: Institutions Have Been Buying Solana Every Day For 2 Weeks, Is $300 Possible? Lookonchain had claimed that during the same period, Pump.fun allegedly cashed out 436.5 million USDC, 537.6 million USDC was sent from Kraken to Circle. Meanwhile, regarding the 436.5 million USDC, Sapijiju stated that what is happening is part of their treasury management, with the USDC part of funds from the PUMP ICO, and with plans to reinvest the sum into the business. At the time of writing, the Solana price is trading at around $138, up almost 4% in the last 24 hours, according to data from CoinMarketCap. Featured image from Freepik, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Solana|21Shares|bitwise|Canary|circle|CoinMarketCap|fidelity|grayscale|kraken|Lookonchain|meme coin|PUMP ICO|Pump.Fun|Sapijiju|Sol|SOL news|SOL Price|Solana news|Solana Price|SOLUSD|SOLUSDT|SoSoValue|USDC|VanEck|Year-To-Date|YTD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -2475,151 +2352,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 54912809,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 54913057,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 54912906,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 54913380,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 54913218,
-    "published": 1764080398000,
-    "title": "South Korea stablecoin framework stalls as regulators split over banks’ role",
-    "body": "Regulators and the Bank of Korea remain at odds over bank dominance in issuing won-backed stablecoins, stalling a long-awaited framework expected this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
       }
     ]
   },
@@ -5175,6 +4907,1011 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 54933487,
+    "published": 1764166740000,
+    "title": "CoinDesk 20 Performance Update: Only Bitcoin Cash (BCH) Gains, Up 2.8%",
+    "body": "Internet Computer (ICP) fell 3.4% and Litecoin (LTC) dropped 1.7%, leading the index lower. .",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 33,
+        "NAME": "LTC",
+        "CATEGORY": "LTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 82,
+        "NAME": "ICP",
+        "CATEGORY": "ICP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54933586,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54933571,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934595,
+    "published": 1764168189000,
+    "title": "Four reasons why Ethereum price remains bullish above $2,800",
+    "body": "Despite Ether’s drop below $3,000, data suggested that ETH price could see a sustained recovery over the next few weeks, as long as the $2,800 support level held.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934318,
+    "published": 1764167911000,
+    "title": "Next Crypto to Explode? 2 Days Left of Best Wallet Token’s $17.5M Presale",
+    "body": "What to Know: Today’s crypto wallets often force a choice between custodial risk or clunky non-custodial UX, with limited benefits beyond basic storage and transfers. Best Wallet offers access to 330 DEXs across 30 bridges in a non-custodial ecosystem and plans several future features, including the Best Card. Best Wallet Token ($BEST) raised over $17.5M in presale and only has two days left on the clock before $BEST hits exchanges. $BEST could deliver a 95% ROI by 2026 if you invest today, possibly more if investors rally behind Best Wallet. Crypto wallets are quietly becoming one of the most important battlegrounds in Web3. As on-chain activity spreads across dozens of networks and use cases, users aren’t just asking for a place to park coins anymore – they want secure, mobile-first hubs that unlock trading, yield, and payments in a single experience. At the same time, the current wallet landscape is stuck in a trade-off. Centralized wallets introduce counterparty and KYC risk, while many non-custodial options feel clunky on mobile, offer little beyond send/receive, and make presales or cross-chain swaps painful for everyday users. That gap is where Best Wallet is positioning itself. The project is pitching $BEST as the utility token behind a next-gen, all-in-one wallet that blends institutional-grade security with real user perks. Instead of just storing assets, Best Wallet is designed to help you discover new presales, move across 330 DEXs and 30 bridges via an integrated DEX aggregator, and earn yield through staking and fee discounts inside its ecosystem. With the presale entering its final stretch and only two days left of early pricing, attention is turning to whether this could be one of the next crypto to explode . Best Wallet Targets the All-In-One Crypto Super App Best Wallet aims to become the easiest and safest way for any crypto user to manage their portfolio, not just hold a handful of tokens. The mobile-first wallet wraps non-custodial, no-KYC access around a clean UX, custom multi-wallet portfolios, and targets 40% of the crypto wallet market by the end of 2026. Under the hood, the project leans on Fireblocks MPC-CMP key management while adding a DEX aggregator powered by Rubic, routing trades across 330 DEXs and 30 cross-chain bridges to help users source better pricing and lower slippage. Unlike legacy wallets that stop at basic swaps, Best Wallet layers in real perks like reduced fees for $BEST holders and higher APY rewards via its staking aggregator. Holds also get benefits like governance rights and early access to trusted presales before they catch steam. In terms of raw numbers, the presale is riding the highest waves. Buy $BEST today before the presale ends. $BEST Presale Numbers, Prediction, and Market Potential $BEST has raised over $17.5M in presale so far with a price of $0.026005, which already places it among the best presales of 2025. If the project captures just 5% of the global crypto wallet market, $BEST could peak fast. A realistic price prediction for $BEST , based on the wallet’s scope and utility, puts the token at $0.05106175 by the end of 2026. A sustained bull market could bring it to $0.07 by 2030, possibly higher if Best Wallet sees mainstream adoption. That translates to ROIs of 96.4% and 169% respectively, if you invest today. These are just estimates, of course, because $BEST has no theoretical upper limit; mainstream adoption and successful implementation could catapult the token beyond the highest expectations. If this sounds like something you’d like to back, read our guide on how to buy $BEST today. With just two days until the final presale phase closes, the window for early pricing is rapidly narrowing. Best Wallet’s pitch is simple: a single app where you can store, trade, stake, and access vetted presales, backed by a token that powers fee discounts and ecosystem rewards. Snag your $BEST for less while you still can. This isn’t financial advice. DYOR and manage risks wisely before investing. Authored by Aaron Walker, NewsBTC: www.newsbtc.com/news/next-crypto-to-explode-best-wallet-token-presale-has-2-days-left",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934761,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934718,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934717,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934594,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934390,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934760,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934224,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934593,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934759,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934388,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934223,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54934716,
+    "published": 1764126379000,
+    "title": "Grayscale spot Dogecoin ETF falls under volume expectations on debut",
+    "body": "Trading volume on the debut of Grayscale's first US spot Dogecoin ETF came in under an analyst’s expectation, with Bitwise soon to launch its own fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935323,
+    "published": 1764169200000,
+    "title": "Texas Drops $10 Million On Bitcoin, Officially Buying The Dip First",
+    "body": "Texas has moved public money into Bitcoin exposure, buying $5 million worth of shares in a regulated Bitcoin exchange-traded fund. Related Reading: Bitcoin Creator Somehow Becomes ‘Poor’ By Losing $41 Billion Without Saying A Word According to reports, the state’s purchase was made on November 20, 2025, and it used the BlackRock iShares Bitcoin Trust (IBIT) to gain price exposure without immediately holding the cryptocurrency itself. The state set aside a total allocation of $10 million for its new Strategic Bitcoin Reserve. Lee Bratcher, who leads the Texas Blockchain Council, confirmed the state’s crypto purchase on X. State Uses ETF As Interim Step Reports have disclosed that officials chose the ETF route as a temporary measure while the state puts custody plans in place. The IBIT shares give Texas a stake that tracks Bitcoin’s market moves. Based on reports, the entry price equated to roughly $87,000 per BTC at the time of the buy. The buy represents half of the total allocation, leaving $5 million still available for future moves. TEXAS BOUGHT THE DIP! Texas becomes the FIRST state to purchase Bitcoin with a $10M investment on Nov. 20th at an approximately $87k basis! Congratulations to Comptroller @KHancock4TX and the dedicated investments team at Texas Treasury who have been watching this market… pic.twitter.com/wsMqI9HrPD — Lee ₿ratcher (@lee_bratcher) November 25, 2025 The move follows legislation passed earlier in the year. According to public records, the reserve program was created by Senate Bill 21, signed in June 2025. The law authorizes a capped budget for the reserve and sets conditions for what assets qualify. Reports have disclosed that Bitcoin met the criteria laid out in the measure, prompting the initial allocation. What Officials Say And What Comes Next According to state officials, the purchase is meant as a hedge and a way to diversify long-term holdings. An RFP process is expected to pick a custodian, with officials planning to transfer from ETF positions to direct custody once systems are ready. The request for proposals is slated for early 2026, based on public statements. Analysts noted the distinction between ETF shares and direct ownership. ETF holdings provide price exposure; they do not give the state direct control over on-chain Bitcoin wallets. That control would come only after the state completes its custody procurement and shifts assets into cold storage or similar solutions. Possible Broader Effects Market observers say the purchase is notable because it marks one of the first instances of a US state formally placing public funds into Bitcoin exposure. The amount is small relative to broader markets, yet symbolic. It may prompt other states to consider similar reserve strategies, especially where lawmakers favor diversification. Related Reading: Hamas Victims Sue Binance And CZ — Accusations Of Terror Financing Rock Crypto World Transparency And Oversight According to public filings, the state will publish details of the holdings and any custody plan updates. Oversight mechanisms built into the law require regular reporting, and the remaining $5 million allocation must follow the same rules before it is used. That reporting will be watched closely by lawmakers, taxpayers, and market watchers. The buying decision was made amid wide debate over how government bodies should handle crypto assets. Texas plans to move carefully, using regulated products first and then moving toward self-custody when the proper safeguards and vendors are chosen. Featured image from Pexels, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|BlackRock|btc|btcusd|crypto|digital currency|etf|IBIT|texas",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935439,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935063,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935101,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935061,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935100,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935438,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935490,
+    "published": 1764169506000,
+    "title": "Grayscale Files to List First Zcash ETF in the U.S. Amid 1,000% Rally",
+    "body": "The crypto asset manager is converting its Zcash Trust into a spot ETF, betting on rising demand for privacy coins as ZEC outpaces BTC and ETH.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Zcash|Grayscale|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935563,
+    "published": 1764126821000,
+    "title": "Texas buys the Bitcoin dip, acquiring $5M of BlackRock’s IBIT",
+    "body": "Texas has also allocated an additional $5 million for direct, self-custodied Bitcoin, signaling growing state-level adoption in the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 54935562,
+    "published": 1764126644000,
+    "title": "‘Institutions have arrived’ — US Bancorp launches stablecoin pilot on Stellar network",
+    "body": "The ability to freeze assets and unwind transactions was a key consideration when selecting the blockchain for the pilot, according to Mike Villano from US Bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 56,
+        "NAME": "XLM",
+        "CATEGORY": "XLM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
