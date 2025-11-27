@@ -43,7 +43,7 @@ export const POST: APIRoute = async ({ request }) => {
 
     // Email content
     const mailOptions = {
-      from: `"Pumpushka Blog" <${SMTP_FROM}>`,
+      from: `"Pumpushka Bot" <${SMTP_FROM}>`,
       to: SMTP_TO,
       replyTo: email,
       subject: `Message from — ${name}`,

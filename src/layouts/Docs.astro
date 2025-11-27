@@ -5,6 +5,7 @@ import Analytics from '@vercel/analytics/astro';
 import SpeedInsights from '@vercel/speed-insights/astro';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
+import FooterBlog from '@components/FooterBlog.astro';
 import LeftSidebar from '@components/LeftSidebar.astro';
 import RightSidebar from '@components/RightSidebar.astro';
 import PageContent from '@components/PageContent.astro';
@@ -54,10 +55,12 @@ const {
 				</div>
 			</aside>
       
-			<main id="content" class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 pb-32 container" data-pagefind-ignore="all" aria-label="Content">        
-        <PageContent content={ content } lang={ lang } sidebar={ sidebar }>
-          <slot />
-        </PageContent>
+			<main id="content" class="col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12" data-pagefind-ignore="all" aria-label="Content">        
+        <div class="container">
+          <PageContent content={ content } lang={ lang } sidebar={ sidebar }>
+            <slot />
+          </PageContent>
+        </div>
 			</main>
 
 			<div class="hidden xl:block top-24 sticky self-start space-y-6 col-span-3 mt-24">
@@ -65,6 +68,7 @@ const {
 			</div>
 		</div>
     
+    <FooterBlog lang={ lang } />
     <ToTopButton />
     <Analytics />
     <SpeedInsights />
