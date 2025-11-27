@@ -1,9 +1,10 @@
 ---
 lang: uk
-title: Terms of service
-description: Terms of service
-navTitle: Умови надання послуг
-draft: true
+title: Terms of Service
+description: Terms of Service
+order: 10
+navTitle: Terms of Service
+draft: false
 publishedAt: 2025-11-27T00:00:00.000Z
 ---
 
