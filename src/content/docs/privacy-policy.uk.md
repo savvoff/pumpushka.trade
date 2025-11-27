@@ -1,9 +1,9 @@
 ---
 lang: uk
-title: Політика приватності
+title: Privacy policy
 description: Умови політика приватності
 navTitle: Політика приватності
-draft: true
+draft: false
 publishedAt: 2025-11-27T00:00:00.000Z
 ---
 
