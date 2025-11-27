@@ -124,7 +124,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
 
   <h1 class="font-bold text-3xl">{ tagsText }: #{ tagName }</h1>
 
-  <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1" data-pagefind-ignore="all">
+  <div class="gap-6 grid sm:grid-cols-2 lg:grid-cols-1 mb-8" data-pagefind-ignore="all">
     <ListLd items={ posts.map(p => ({
       url: new URL(`/blog/${pathToSlug(p.id, lang)}/`, Astro.site).toString(),
       name: p.data.title,
@@ -171,7 +171,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
     }
   </div>
 
-  <nav class="flex justify-between items-center my-8" aria-label="Pagination">
+  <nav class="flex justify-between items-center" aria-label="Pagination">
     <div>
       { page > 1 && (
         <a class="underline" href={ pageHref(page - 1) }>← { prevText }</a>
