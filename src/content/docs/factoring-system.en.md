@@ -1,11 +1,13 @@
 ---
 lang: en
 title: Documentation — Factoring system
-description: 'Полный список факторов, которые являются медицинскими Pumpushka Bot'
+description: >-
+  Full list of factors that realises core prediction functionality of Pumpushka
+  Bot
 order: 6
 navTitle: Factoring system
 draft: false
-publishedAt: 2025-09-04T21:00:00.000Z
+publishedAt: 2025-11-27T00:00:00.000Z
 ---
 
 # Analysis Factors
