@@ -2,9 +2,9 @@
 title: 'Crypto-friendly Trump adviser Hassett top pick for Fed chair: Report'
 description: 'Kevin Hassett, known for his involvement in the president''s crypto working group, has emerged as a leading candidate for the position of Federal Reserve chair, according to a…'
 publishedAt: '2025-11-26T06:08:14.000Z'
-updatedAt: '2025-11-26T06:36:12.152Z'
+updatedAt: '2025-11-26T20:25:35.753Z'
 lang: en
-externalId: '54912752'
+externalId: '54946162'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -20,25 +20,21 @@ score: 0
 draft: false
 ai:
   rewritten: true
-  expandedAt: '2025-11-26T06:36:12.152Z'
+  expandedAt: '2025-11-26T20:25:35.754Z'
   version: 1
 ---
 ## Overview
 
-Kevin Hassett, known for his involvement in the president's crypto working group, has emerged as a leading candidate for the position of Federal Reserve chair, according to a report from Bloomberg. This development is noteworthy given the increasing intersection of cryptocurrency discussions and economic policy.
+Kevin Hassett, known for his involvement in the president's crypto working group, has emerged as a leading candidate for the position of Federal Reserve chair, according to a report from Bloomberg. This potential appointment is significant given Hassett's background and connections within the cryptocurrency space.
 
 ## What Happened
 
-Kevin Hassett has been recognized for his role in the presidential crypto working group, which indicates his familiarity with the evolving landscape of digital currencies. His potential appointment as the Federal Reserve chair suggests a shift in how economic policy could interact with the cryptocurrency sector.
-
-## Why It Matters
-
-The possibility of Hassett taking the helm at the Federal Reserve could have significant implications for monetary policy and its relationship with the cryptocurrency market. As a figure who has been directly involved in crypto discussions, his leadership might influence regulatory approaches and foster a more favorable environment for digital assets.
+Bloomberg reported that Kevin Hassett is being considered as a frontrunner for the role of Federal Reserve chair. Hassett previously played a crucial role in the president's crypto working group, which indicates his familiarity with cryptocurrency policy and regulation. His selection for this influential position could have implications for how the Federal Reserve approaches issues related to digital currencies.
 
 ## Impact on the crypto market
 
-- Increased attention on cryptocurrency regulations and policies.
-- Potential for a more crypto-friendly stance from the Federal Reserve.
-- Influence on market sentiment regarding digital assets.
-- Possibility of new initiatives or frameworks addressing cryptocurrency integration in the financial system.
-- Heightened discussions around the role of cryptocurrencies in economic policy.
+- The appointment of a crypto-friendly figure like Hassett could signal a more favorable regulatory environment for cryptocurrencies.
+- His background may influence the Federal Reserve's stance on digital asset integration within the broader financial system.
+- Increased visibility of cryptocurrency issues at the Federal Reserve may lead to more informed policy decisions affecting the market.
+- The potential for a shift in monetary policy perspectives could impact investor sentiment towards cryptocurrencies.
+- A crypto-savvy chair could foster collaboration between traditional finance and the crypto sector, potentially driving innovation.

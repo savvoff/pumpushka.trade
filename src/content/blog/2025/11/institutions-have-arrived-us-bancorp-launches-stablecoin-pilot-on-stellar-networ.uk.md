@@ -1,10 +1,10 @@
 ---
-title: «Інституції прийшли» — US Bancorp запускає пілотний проект зі стейблкоїном на мережі Stellar
-description: US Bancorp розпочала пілотну програму для стейблкоїна в мережі Stellar. Це рішення підкреслює значний крок до інтеграції технології блокчейн…
+title: «Інституції прибули» — US Bancorp запускає пілотний проект зі стейблкоїном на мережі Stellar
+description: US Bancorp розпочала пілотний проект зі стейблкоїнів на блокчейні Stellar. Значним фактором у виборі цього блокчейну була можливість заморожувати активи та скасовувати…
 publishedAt: '2025-11-26T03:10:44.000Z'
-updatedAt: '2025-11-26T04:31:38.803Z'
+updatedAt: '2025-11-26T15:23:41.268Z'
 lang: uk
-externalId: '54906038'
+externalId: '54935562'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -19,32 +19,30 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1620358817828-c1ac4ecad252?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzEzNjd8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1620358817828-c1ac4ecad252?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzEzNjd8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1620358817828-c1ac4ecad252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzEzNjd8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1620358817828-c1ac4ecad252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzEzNjd8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1620358817828-c1ac4ecad252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzEzNjd8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1620358817828-c1ac4ecad252'
+  raw: 'https://images.unsplash.com/photo-1615787421240-3464c7739197?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzA1ODJ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1615787421240-3464c7739197?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzA1ODJ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1615787421240-3464c7739197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzA1ODJ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1615787421240-3464c7739197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzA1ODJ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1615787421240-3464c7739197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzA1ODJ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1615787421240-3464c7739197'
 ai:
-  translatedFrom: '54906038'
+  translatedFrom: '54935562'
   version: 1
 ---
 ## Огляд
 
-US Bancorp розпочала пілотну програму для стейблкоїна в мережі Stellar. Це рішення підкреслює значний крок до інтеграції технології блокчейн у традиційні фінансові установи.
+US Bancorp розпочала пілотний проект зі стейблкоїнами на блокчейні Stellar. Значним фактором у виборі цього блокчейну була можливість заморожувати активи та скасувати транзакції, що підкреслює важливість контролю та безпеки у фінансовому секторі.
 
-## Деталі пілотної програми
+## Деталі пілоту
 
-Вибір US Bancorp запустити свій пілотний проект стейблкоїна в мережі Stellar був обумовлений потребою в певних функціональних можливостях. Основним міркуванням була здатність заморожувати активи та скасовувати транзакції, згідно з Майком Віллано з US Bank. Ця функціональність є критично важливою для підтримки контролю та дотримання вимог у фінансовому секторі.
+Рішення US Bancorp запустити пілотний проект зі стейблкоїнами відображає зростаючу тенденцію серед фінансових установ досліджувати технологію блокчейн. Пілот має на меті протестувати функціональність та надійність стейблкоїнів, які є цифровими активами, розробленими для підтримки стабільної вартості.
 
-## Важливість рішення
+За словами Майка Віллано з US Bank, можливість ефективно управляти активами була вирішальним критерієм у виборі мережі Stellar для цього пілоту. Ця функція особливо актуальна для установ, які вимагають високого рівня безпеки та оперативної гнучкості у своїх цифрових транзакціях.
 
-Запуск цієї пілотної програми свідчить про зростаючий інтерес серед традиційних фінансових установ до вивчення рішень на основі блокчейн. Реалізуючи стейблкоїн, US Bancorp займає позицію, яка може потенційно покращити ефективність транзакцій та безпеку в своїй діяльності.
+## Вплив на крипто ринок
 
-## Вплив на крипторинок
-
-- Пілотна програма може спонукати інші фінансові установи вивчати технологію блокчейн.
-- Наголос на функціях контролю активів може призвести до збільшення регуляторного нагляду на ринку стейблкоїнів.
-- Співпраця з мережею Stellar може підвищити її авторитет та прийняття.
-- Входження традиційних банків у криптопростір може вплинути на динаміку ринку та настрої інвесторів.
-- Результати пілота можуть встановити прецеденти для майбутніх регуляцій і функціональностей стейблкоїнів.
+- Запуск пілотного проекту зі стейблкоїнами сигналізує про зростаючий інституційний інтерес до технології блокчейн.
+- Зосередження на функціях контролю активів може вплинути на інші фінансові установи, щоб розглянути подібні блокчейн-рішення.
+- Пілот може прокласти шлях для ширшого впровадження стейблкоїнів у традиційній фінансовій системі.
+- Посилені заходи безпеки можуть призвести до збільшення довіри до цифрових активів серед інституційних гравців.
+- Співпраця з мережею Stellar може стимулювати інтерес до інших блокчейн-платформ з подібними можливостями.

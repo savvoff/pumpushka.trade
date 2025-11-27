@@ -1,10 +1,10 @@
 ---
 title: 'Фінальний скидання важелів Bitcoin нижче $80K можливе, попереджає аналітик.'
-description: 'Аналітик висловив занепокоєння щодо недавньої ліквідації Bitcoin, припускаючи, що це може ще не закінчитися. Існує ймовірність, що залишковий важіль може призвести…'
+description: 'Аналітик висловив застереження щодо нещодавнього ліквідаційного події Bitcoin, припускаючи, що вона може ще тривати. Наявність залишкового важеля може призвести до ціни…'
 publishedAt: '2025-11-26T04:29:15.000Z'
-updatedAt: '2025-11-26T05:23:24.229Z'
+updatedAt: '2025-11-26T17:21:33.129Z'
 lang: uk
-externalId: '54908843'
+externalId: '54938757'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,30 +18,30 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1620980684412-304b7499593f?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzQ1ODZ8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1620980684412-304b7499593f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzQ1ODZ8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1620980684412-304b7499593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzQ1ODZ8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1620980684412-304b7499593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzQ1ODZ8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1620980684412-304b7499593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxMzQ1ODZ8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1620980684412-304b7499593f'
+  raw: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzc2NjN8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzc2NjN8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzc2NjN8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzc2NjN8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxNzc2NjN8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1689732888407-310424e3a372'
 ai:
-  translatedFrom: '54908843'
+  translatedFrom: '54938757'
   version: 1
 ---
 ## Огляд
 
-Аналітик висловив занепокоєння щодо нещодавнього ліквідаційного заходу Bitcoin, припускаючи, що це ще не закінчилося. Існує ймовірність того, що залишковий леверидж може призвести до коливань цін у діапазоні від $70,000 до $80,000.
+Аналітик випустив попередження щодо нещодавнього ліквідаційного заходу Bitcoin, вказуючи, що він може все ще тривати. Наявність залишкового важеля може призвести до цінових коливань у межах від $70,000 до $80,000.
 
-## Що сталося
+## Аналіз ситуації
 
-Попередження аналітика з’явилося на фоні ліквідаційного заходу, який вже вплинув на ринкову динаміку Bitcoin. Ця подія викликала питання щодо обсягу левериджу, який все ще присутній на ринку. За наявності залишкового левериджу існує потенціал для подальшого падіння ціни Bitcoin, можливо, досягнувши діапазону від $70,000 до $80,000.
+Попередження від аналітика вказує на те, що Bitcoin зазнав значного ліквідаційного заходу, який зазвичай передбачає примусове продаж активів через маржинальні вимоги або інші динаміки торгівлі з важелем. Припущення, що захід може бути не завершений, означає, що на ринку все ще може бути додаткова волатильність.
 
-Розуміння наслідків цього аналізу є критично важливим для трейдерів та інвесторів, оскільки вони орієнтуються в поточному ландшафті цінових рухів Bitcoin.
+Згадка про цінову зону від $70,000 до $80,000 підкреслює потенційну область фокусу для трейдерів і інвесторів. Цей діапазон може бути критичним для визначення майбутньої цінової траєкторії Bitcoin, оскільки він може залучити як інтерес до купівлі, так і подальший тиск на продаж в залежності від реакцій ринку.
 
 ## Вплив на крипторинок
 
-- Поточні ліквідаційні заходи можуть призвести до збільшення волатильності ціни Bitcoin.
-- Ймовірність падіння цін у діапазоні від $70,000 до $80,000 може вплинути на торгові стратегії.
-- Учасники ринку можуть переглянути свої позиції з огляду на попередження аналітика.
-- Наявність залишкового левериджу може вплинути на загальний ринковий настрій.
-- Інвестори можуть стати більш обережними, спостерігаючи за ситуацією.
+- Попередження про залишковий важель може призвести до збільшення обережності серед трейдерів.
+- Потенційні цінові коливання в діапазоні від $70,000 до $80,000 можуть вплинути на ринкові настрої.
+- Триваючі ліквідаційні заходи можуть створити подальшу волатильність у Bitcoin та інших криптовалютах.
+- Трейдери можуть коригувати свої стратегії у відповідь на висновки аналітика.
+- Довіра інвесторів може бути під впливом, в залежності від того, як ринок реагує на ці події.
