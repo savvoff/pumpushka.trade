@@ -1,7 +1,7 @@
 ---
 lang: uk
 title: Документація — Система факторів
-description: A complete list of factors that Pumpushka Bot takes into account
+description: 'Повний список факторів, що реалізують основну функціональність Pumpushka Bot'
 order: 6
 navTitle: Система факторів
 draft: false
