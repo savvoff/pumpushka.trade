@@ -17,11 +17,13 @@ const { title, description, image, lang = SITE.defaultLanguage } = Astro.props;
 	</head>
 
 	<body class="flex flex-col min-h-screen has-[.show-menu]:overflow-hidden select-none">
-		<Header locale={ lang } />
+		<Header lang={ lang } />
+
 		<main id="content" aria-label="Content" data-pagefind-ignore="all">
 			<slot />
 		</main>
-		<Footer locale={ lang } />
+    
+		<Footer lang={ lang } />
     <ToTopButton />
     <Analytics />
     <SpeedInsights />

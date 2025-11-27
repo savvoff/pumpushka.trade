@@ -109,7 +109,7 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
         <h2 class="mb-6 text-4xl"><MdContent content={ t(content.howItWorksTitle) } /></h2>
         <div class="relative bg-dark mr-9 mb-28 border-10 border-black rounded-3xl max-h-96 aspect-7/12">
           <video class="w-full h-full" controls preload="none" poster="/poster.jpg">
-            <source src={content.howItWorksVideo} type="video/mp4">
+            <source src={ content.howItWorksVideo } type="video/mp4">
           </video>
           <div class="right-0 bottom-0 absolute translate-x-1/2 translate-y-2/3 pointer-events-none">
             <Image
@@ -122,9 +122,9 @@ const advText = 'A PLACE FOR YOUR ADVERTISEMENT';
         </div>
         <Article>
          <ul class="list-none">
-           {content.howItWorks && content.howItWorks.map((item) => (
+           { content.howItWorks && content.howItWorks.map((item) => (
             <li>{ t(item) }</li>
-          ))}
+          )) }
          </ul>
         </Article>
       </div>

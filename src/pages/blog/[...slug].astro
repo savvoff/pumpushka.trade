@@ -142,12 +142,13 @@ function toPath(seg: string) {
 
   <!-- Share section -->
   <SocialShare title={ title } description={ description } lang={ lang } />
-
   <!-- CTA section -->
   <Cta1 lang={ lang }/>
-
+  <!-- Recent slider section -->
   <RecentSlider lang={ lang }  />
   
+  <hr/>
+
   <!-- sidebar slots -->  
   <RecentPosts slot="recent" showThumbnails={ true } lang={ lang } limit={ 5 } />
   <Toc slot="toc" headings={ headings } lang={ lang } />

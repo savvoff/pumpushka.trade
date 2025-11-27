@@ -42,6 +42,11 @@ const TRANSLATIONS: Record<string, any> = {
     recentPosts: 'Останні пости',
     copy: 'Копіювати',
     share: 'Поділитись',
+    copyright: 'Всі права захищені',
+    aboutUs: 'Про нас',
+    contacts: 'Контакти',
+    writeUs: 'Зв`язок зі мною',
+    send: 'Відправити',
   },
   'en': {
     month: 'month',
@@ -61,6 +66,11 @@ const TRANSLATIONS: Record<string, any> = {
     recentPosts: 'Recent posts',
     copy: 'Copy',
     share: 'Share',
+    copyright: 'All rights reserved',
+    aboutUs: 'About us',
+    contacts: 'Contacts',
+    writeUs: 'Write to me',
+    send: 'Send message',
   }
 };
 

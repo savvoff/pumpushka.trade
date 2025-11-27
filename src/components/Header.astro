@@ -3,30 +3,18 @@ import { Image } from 'astro:assets';
 import { Icon } from 'astro-icon/components';
 import HeaderLink from '@components/ui/HeaderLink.astro';
 import { useI18n } from '@utils/translate';
+import { type Header } from '../types';
 import { SITE, TRANSLATIONS } from '../constants';
 import config from '../content/site-config.json';
 
 type Props = {
-  locale: string;
+  lang: string;
 }
 
-type MenuItem = {
-  image: string;
-  label: Record<string, string>;
-  href: Record<string, string>;
-};
-
-interface Header {
-  logo: string;
-  menu: MenuItem[];
-  botLink: string;
-  botLinkTitle: Record<string, string>;
-}
-
-const { locale } = Astro.props;
+const { lang } = Astro.props;
 const { pathname, search, hash } = Astro.url;
 
-const t = useI18n(locale);
+const t = useI18n(lang);
 const header = config.header as Header;
 
 const nonDefault = Object.keys(TRANSLATIONS).filter(lang => lang !== SITE.defaultLanguage);
@@ -65,12 +53,12 @@ function hrefFor(targetLang: string) {
         </button>
 
         <a
-          class="relative font-heading text-2xl uppercase text-nowrap brand"
+          class="block relative max-w-48 font-heading text-2xl uppercase text-nowrap brand"
           href={ Astro.url.origin }
         >
           <img src={ header.logo } alt={ t(SITE.title) } />
         </a>
-        <a class="relative" href={header.botLink} target="_blank">
+        <a class="relative" href={ header.botLink } target="_blank">
           <Icon name="telegram" class="shrink-0" size={ 32 } />
         </a>
         <nav class="flex flex-col space-y-3.5 mx-auto px-6 pb-4 max-h-[80vh] overflow-y-auto site-header__nav container">
@@ -101,24 +89,24 @@ function hrefFor(targetLang: string) {
           <div class="p-0.5 pl-4 border-2 rounded-3xl lang-switcher">
             <div class="flex items-center gap-2 text-sm cursor-pointer">
               <p id="cur_lang" class="inline-flex justify-center font-black align-middle">
-                { locale.toUpperCase() }
+                { lang.toUpperCase() }
               </p>
               <span class="inline-block shrink-0">
                 <!-- <Icon name="arrow-down" /> -->
-                 <img class="border rounded-full w-8 h-8" src={ `/${locale}.png` } alt={ locale } />
+                 <img class="border rounded-full w-8 h-8" src={ `/${lang}.png` } alt={ lang } />
               </span>
             </div>
             <ul class="gap-3 py-2 dropdown">
-              {Object.keys(TRANSLATIONS).map((lang) => (
+              { Object.keys(TRANSLATIONS).map((locale) => (
                 <li>
                   <a
                     href={ hrefFor(lang) }
-                    aria-current={ lang === locale ? 'page' : undefined }
+                    aria-current={ locale === lang ? 'page' : undefined }
                   >
-                    { lang.toUpperCase() }
+                    { locale.toUpperCase() }
                   </a>
                 </li>
-              ))}
+              )) }
             </ul>
           </div>
           <a class="sm:inline-flex top-0 hover:top-1 active:top-1 relative flex justify-center items-center gap-x-3 bg-black shadow-button shadow-orange-200 hover:shadow-none active:shadow-none p-9 rounded-3xl max-w-full font-black text-white tracking-wide transition-all" href={ header.botLink } target="_blank">
@@ -156,9 +144,9 @@ function hrefFor(targetLang: string) {
       header?.classList.remove("is-scroll");
     }
     if (scrollY > oldScrollY && scrollY > 100) {
-      header?.classList.add("is-hidden");
+      header?.classList.add("is-hidden", "pointer-events-none");
     } else {
-      header?.classList.remove("is-hidden");
+      header?.classList.remove("is-hidden", "pointer-events-none");
     }
     oldScrollY = scrollY;
   };

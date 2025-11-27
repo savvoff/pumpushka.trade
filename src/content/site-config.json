@@ -103,6 +103,11 @@
     ]
   },
   "footer": {
+    "logo": "/media/logo.svg",
+    "about": {
+      "uk": "Pumpushka Блог пропонує колекцію чітко організованих та добре структурованих статей. \n\nВесь контент переглянуто, класифіковано та впорядковано, щоб надати читачам достовірну, зрозумілу та легку для навігації інформацію.\n",
+      "en": "Pumpushka Blog offers a collection of clearly organized and well-structured articles. \nAll content is reviewed, categorized, and arranged to provide readers with reliable, easy-to-navigate information.\n"
+    },
     "links": [
       {
         "icon": "/media/thread.png",
@@ -157,6 +162,41 @@
         "href": {
           "uk": "https://www.pumpushka.trade/rss.xml",
           "en": "#https://www.pumpushka.trade/en/rss.xml"
+        }
+      }
+    ],
+    "navigation": [
+      {
+        "label": {
+          "uk": "Політика приватності",
+          "en": "Privacy policy"
+        },
+        "href": {
+          "uk": "/docs/privacy-policy",
+          "en": "/en/docs/privacy-policy"
+        }
+      },
+      {
+        "label": {
+          "uk": "Умови надання послуг",
+          "en": "Terms of Service"
+        },
+        "href": {
+          "uk": "/docs/terms-of-service ",
+          "en": "/en/docs/terms-of-service"
+        }
+      }
+    ],
+    "contacts": [
+      {
+        "icon": "tabler:mail",
+        "label": {
+          "uk": "contact@pumpushka.trade",
+          "en": "contact@pumpushka.trade"
+        },
+        "href": {
+          "uk": "mailto:contact@pumpushka.trade",
+          "en": "mailto:contact@pumpushka.trade"
         }
       }
     ]

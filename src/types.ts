@@ -95,3 +95,44 @@ export interface BlogPageContent {
   blogTitle: Record<string, string>;
   blogDescription: Record<string, string>;
 }
+
+type MenuItem = {
+  image: string;
+  label: Record<string, string>;
+  href: Record<string, string>;
+};
+
+export interface Header {
+  logo?: string;
+  menu?: MenuItem[];
+  botLink?: string;
+  botLinkTitle?: Record<string, string>;
+}
+
+type SocialItem = {
+  icon: string;
+  label: Record<string, string>;
+  href: Record<string, string>;
+};
+
+type ContactsItem = {
+  icon: string;
+  label: Record<string, string>;
+  href: Record<string, string>;
+};
+
+type NavItem = {
+  label: Record<string, string>;
+  href: Record<string, string>;
+};
+
+export interface Footer {
+  logo?: string;
+  about?: Record<string, string>;
+  links?: SocialItem[];
+  navigation?: NavItem[];
+  contacts?: ContactsItem[];
+  form?: {
+    token?: string;
+  };
+}

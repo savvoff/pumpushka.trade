@@ -6,6 +6,7 @@ import SpeedInsights from '@vercel/speed-insights/astro';
 import BaseHead from '@components/BaseHead.astro';
 import Header from '@components/Header.astro';
 import Author from '@components/Author.astro';
+import FooterBlog from '@components/FooterBlog.astro';
 import SiteLd from '@components/seo/SiteLd.astro';
 import ToTopButton from '@components/ToTopButton.astro';
 import { useI18n } from '@utils/translate';
@@ -14,7 +15,7 @@ import { SITE, type LangCode } from '../constants';
 
 interface Props {
   title: string;
-  description: string;
+  description?: string;
   image?: string;
   lang?: LangCode;
   showToc?: boolean;
@@ -54,8 +55,10 @@ const t = useI18n(lang);
 	</head>
 
 	<body class="flex flex-col bg-slate-100 min-h-screen has-[.show-menu]:overflow-hidden select-none">
-    <Header locale={ lang } />
+    <Header lang={ lang } />
+
     <div class="grid grid-cols-12 pt-24">
+      
 			<aside class="group bottom-8 left-0 fixed lg:sticky flex self-end col-span-3 mt-12 transition -translate-x-64 lg:translate-x-0 navigation">
 				<div class="flex justify-end gap-x-4 ml-auto w-full">
           <div class="flex flex-col gap-y-6 w-64 xl:w-3/4">
@@ -74,6 +77,7 @@ const t = useI18n(lang);
           </button>
 				</div>
 			</aside>
+
 			<main id="content" class="flex flex-col gap-7 col-span-full lg:col-span-9 xl:col-span-6 lg:mt-12 container" aria-label="Content">      
         <!-- Breadcrumbs slot -->
         <slot name="breadcrumbs" />
@@ -99,11 +103,7 @@ const t = useI18n(lang);
       )}
 		</div>
 
-    <footer class="xl:hidden page-footer">
-      <div class="container">
-        <hr class="my-8">
-      </div>
-    </footer>
+    <FooterBlog lang={ lang } />
     <ToTopButton />
     <Analytics />
     <SpeedInsights />

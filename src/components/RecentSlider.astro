@@ -25,7 +25,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft && data.lan
   .slice(0, limit);
 ---
 
-<div class="space-y-6 my-7">
+<section class="space-y-6">
   <h2 class="mb-6 font-bold text-3xl">{ title }</h2>
   
   <Slider options={ JSON.stringify({ perPage: 1, arrows: true, width: '100%', breakpoints: { 768: { perPage: 2 } } }) } overflow={ true }>
@@ -55,4 +55,4 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft && data.lan
     </li>
     )) }
   </Slider>
-</div>
+</section>

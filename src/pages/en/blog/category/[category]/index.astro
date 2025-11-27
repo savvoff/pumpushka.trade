@@ -134,7 +134,7 @@ const pageHref = (p: number) => p === 1 ? `/${lang}/blog/category/${category}/` 
   </div>
 
   { totalPages > 1 && (
-    <nav class="flex justify-between items-center mb-8" aria-label="Pagination">
+    <nav class="flex justify-between items-center" aria-label="Pagination">
       <span class="opacity-70 text-sm">{ pageText } { page } / { totalPages }</span>
       <div class="space-x-2">
         <a class="underline" href={ pageHref(2) }>{ nextText } →</a>
