@@ -1,10 +1,10 @@
 ---
-title: S&P знизило рейтинг прив'язки долара USDT до найнижчого рівня.
-description: 'S&P Global Ratings знизило рейтинг стабільності USDt Tether до найнижчого рівня, підкреслюючи занепокоєння щодо його прив''язки до долара. У відповідь Tether назвав звіт…'
+title: S&P знижує рейтинг прив'язки долара USDT до найнижчого рівня
+description: 'S&P Global Ratings знизило рейтинг стабільності USDt Tether до найнижчого рівня, що викликало занепокоєння щодо його здатності підтримувати прив''язку до долара. У відповідь Tether…'
 publishedAt: '2025-11-26T20:11:58.000Z'
-updatedAt: '2025-11-26T20:26:09.252Z'
+updatedAt: '2025-11-27T15:26:51.233Z'
 lang: uk
-externalId: '54947932'
+externalId: '54993706'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,30 +17,30 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1746307415334-8914cae06a28?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxODg3MTd8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1746307415334-8914cae06a28?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxODg3MTd8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1746307415334-8914cae06a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxODg3MTd8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1746307415334-8914cae06a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxODg3MTd8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1746307415334-8914cae06a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxODg3MTd8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1746307415334-8914cae06a28'
+  raw: 'https://images.unsplash.com/photo-1763777755442-cd5a1f1b1925?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNDl8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1763777755442-cd5a1f1b1925?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNDl8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1763777755442-cd5a1f1b1925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNDl8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1763777755442-cd5a1f1b1925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNDl8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1763777755442-cd5a1f1b1925?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNDl8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1763777755442-cd5a1f1b1925'
 ai:
-  translatedFrom: '54947932'
+  translatedFrom: '54993706'
   version: 1
 ---
 ## Огляд
 
-S&P Global Ratings знизило рейтинг стабільності Tether’s USDt до найнижчого рівня, що підкреслює занепокоєння щодо його прив'язки до долара. У відповідь Tether назвала звіт "неправдивим".
+S&P Global Ratings знизило рейтинг стабільності Tether's USDt до найнижчого рівня, що викликало занепокоєння щодо його здатності підтримувати прив'язку до долара. У відповідь Tether назвав звіт "дезінформацією".
 
-## Що сталося
+## Деталі зниження рейтингу
 
-S&P Global Ratings зробило значний крок, знизивши рейтинг Tether's USDt, що вказує на відсутність довіри до його здатності підтримувати стабільну вартість щодо долара США. Це рішення викликало тривогу на ринку, оскільки Tether є одним із найвикористовуваніших стейблкоїнів в екосистемі криптовалют. Зниження рейтингу вказує на потенційні вразливості в операціях або резерву Tether, які можуть вплинути на його стабільність.
+S&P Global Ratings, відома кредитна рейтингове агентство, вжила значних заходів, знизивши рейтинг Tether's USDt. Цей крок відображає оцінку стабільності стейблкоїна та його здатності підтримувати прив'язану вартість до американського долара. Зниження рейтингу викликало обговорення щодо наслідків для ширшого ринку та довіри інвесторів до стейблкоїнів.
 
-У відповідь на зниження рейтингу Tether публічно відхилила оцінку від S&P Global Ratings, назвавши її "неправдивою". Ця заява відображає намір Tether підтримувати довіру серед своїх користувачів і зацікавлених сторін, особливо в ринку, де стабільність є критично важливою для функціонування різних фінансових активностей.
+Tether публічно відповіла на зниження рейтингу, стверджуючи, що звіт від S&P є дезінформацією. Це характеризування свідчить про те, що Tether заперечує дійсність занепокоєнь, піднятих рейтинговим агентством щодо його прив'язки до долара.
 
 ## Вплив на крипторинок
 
-- Зниження рейтингу може призвести до зростання волатильності на крипторинку, оскільки трейдери переоцінюють свої позиції в стейблкоїнах.
-- Занепокоєння щодо прив'язки Tether до долара може спонукати інвесторів шукати альтернативи або зменшувати залежність від USDt.
-- Ситуація може спровокувати ширші обговорення щодо прозорості та надійності стейблкоїнів у криптоспільноті.
-- Потенційний регуляторний контроль може виникнути внаслідок зниження рейтингу, що вплине на ринок стейблкоїнів в цілому.
-- Відповідь Tether може вплинути на громадське сприйняття та довіру до її операцій, що вплине на поведінку користувачів та динаміку ринку.
+- Зниження рейтингу може призвести до посилення контролю за стейблкоїнами та їх механізмами забезпечення.
+- Довіра інвесторів до Tether та, можливо, інших стейблкоїнів може постраждати, впливаючи на динаміку ринку.
+- Ситуація може спровокувати регуляторні відповіді або заклики до більшої прозорості в секторі стейблкоїнів.
+- Учасники ринку можуть переоцінити свою ризикову експозицію до USDt та подібних активів після зниження рейтингу.
+- Відповідь від Tether може призвести до дебатів про надійність кредитних рейтингів у сфері криптовалют.
