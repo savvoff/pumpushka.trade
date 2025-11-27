@@ -38,7 +38,7 @@ const title = frontmatter.title;
 const description = frontmatter.description;
 const lang = 'en';
 
-const sidebar = await buildDocsSidebar(lang, { withLangPrefix: false });
+const sidebar = await buildDocsSidebar(lang, { withLangPrefix: true });
 const content = { ...frontmatter, slug: slugReal };
 ---
 

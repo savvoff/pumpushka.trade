@@ -5,6 +5,7 @@ import { TRANSLATIONS } from 'src/constants';
 
 const { content, lang, sidebar } = Astro.props;
 const path = new URL(Astro.url.pathname, Astro.site).pathname;
+
 const { prev, next } = getPrevNext(sidebar ?? [], path);
 ---
 
@@ -14,9 +15,9 @@ const { prev, next } = getPrevNext(sidebar ?? [], path);
 		<slot />
 	</section>
   <nav class="flex justify-between gap-4 mt-8 pt-6 border-t">
-    { prev && <a class="prev" href={prev.link} rel="prev">← {prev.text}</a> }
+    { prev && <a class="prev" href={ prev.link } rel="prev">← { prev.text }</a> }
     <span class="spacer" />
-    { next && <a class="next" href={next.link} rel="next">{next.text} →</a> }
+    { next && <a class="next" href={ next.link } rel="next">{ next.text } →</a> }
   </nav>
 </article>
 

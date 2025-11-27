@@ -6,7 +6,10 @@ type Props = {
   currentPage: string;
 }
 
-const { currentPage, sidebar } = Astro.props;
+const { 
+  currentPage, 
+  sidebar, 
+} = Astro.props;
 const currentPageMatch = currentPage.slice(1);
 
 const isCurrentPage = (item: SidebarItem) => {
