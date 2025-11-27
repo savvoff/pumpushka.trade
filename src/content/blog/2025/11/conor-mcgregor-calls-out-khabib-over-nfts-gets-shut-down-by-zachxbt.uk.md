@@ -1,10 +1,10 @@
 ---
 title: 'Конор МакГрегор викликав Хабіба через NFT, отримав відмову від ZachXBT.'
-description: 'Конор Макгрегор нещодавно потрапив у заголовки новин, викликавши Хабіба Нурмагомедова у зв''язку з NFT. Цей публічний обмін привернув увагу ZachXBT, який відреагував на ситуацію.'
+description: 'Конор МакГрегор нещодавно намагався вступити в діалог з Хабібом щодо NFT, але його зусилля були зустрінуті відповіддю від ZachXBT. Ця взаємодія підкреслює триваюче…'
 publishedAt: '2025-11-26T22:06:16.000Z'
-updatedAt: '2025-11-26T22:22:29.741Z'
+updatedAt: '2025-11-27T15:24:59.563Z'
 lang: uk
-externalId: '54952491'
+externalId: '54996611'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,29 +17,27 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxOTU3Mjd8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxOTU3Mjd8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxOTU3Mjd8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxOTU3Mjd8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQxOTU3Mjd8&ixlib=rb-4.1.0&q=80&w=200'
+  raw: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNTh8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNTh8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNTh8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNTh8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1711637397406-0c5fe8165dc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyNTcwNTh8&ixlib=rb-4.1.0&q=80&w=200'
   small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1711637397406-0c5fe8165dc6'
 ai:
-  translatedFrom: '54952491'
+  translatedFrom: '54996611'
   version: 1
 ---
 ## Огляд
 
-Конор МакГрегор нещодавно потрапив у заголовки новин, викликавши Хабіба Нурмагомедова у зв'язку з NFT. Цей публічний обмін привернув увагу ZachXBT, який відреагував на ситуацію.
+Конор МакГрегор нещодавно намагався вступити в діалог з Хабібом щодо NFT, але його зусилля були зустрінуті відповіддю від ZachXBT. Ця взаємодія підкреслює постійні напруження в криптовалютному просторі, особливо серед високопрофільних осіб.
 
 ## Що сталося
 
-Конор МакГрегор, колишній чемпіон UFC, спробував увійти на ринок криптовалют, запустивши свою власну мемкойн для знаменитостей під назвою REAL у квітні. Однак цей проект не досяг бажаного успіху і не зміг залучити увагу потенційних інвесторів та ентузіастів. Відсутність інтересу до мемкойну МакГрегора співпала з його нещодавніми висловлюваннями про Хабіба, які були зосереджені навколо сфери NFT.
+Конор МакГрегор, колишній чемпіон UFC, звернувся до Хабіба, ймовірно, щоб обговорити NFT. Цей заклик слідує за попередньою спробою МакГрегора запустити свою власну мемкойн для знаменитостей під назвою REAL у квітні. Однак проект мемкойна не досяг того рівня успіху або популярності, на який МакГрегор, ймовірно, сподівався. У відповідь на звернення МакГрегора, ZachXBT втрутився, ефективно закривши розмову.
 
-ZachXBT, відомий своєю участю в криптоспільноті, відповів на виклик МакГрегора, ефективно закривши цю розмову. Це взаємодія підкреслює постійні динаміки в секторах криптовалют та NFT, особливо коли знаменитості досліджують можливості в цих ринках.
+## Вплив на крипторинок
 
-## Вплив на ринок криптовалют
-
-- Взаємодія між МакГрегором і Хабібом демонструє вплив участі знаменитостей у просторах криптовалют та NFT.
-- Невдалий запуск мемкойну МакГрегора вказує на виклики, з якими стикаються знаменитості при вході на ринок криптовалют.
-- Втручання ZachXBT демонструє роль встановлених фігур у криптоспільноті в модерації дискусій та наданні контролю.
-- Ситуація відображає волатильність і непередбачуваність проектів, що керуються знаменитостями, у ландшафті криптовалют.
+- Взаємодія підкреслює виклики, з якими стикаються знаменитості в криптовалютному просторі, особливо при запуску нових проектів.
+- Попередня спроба МакГрегора з мемкойном ілюструє волатильність та непередбачуваність ініціатив, що керуються знаменитостями.
+- Відповідь від ZachXBT вказує на те, що криптоспільнота є пильною і може не терпіти сприйнятого опортунізму з боку високопрофільних осіб.
+- Цей інцидент може вплинути на те, як інші знаменитості підходять до проектів NFT та криптовалют у майбутньому.
