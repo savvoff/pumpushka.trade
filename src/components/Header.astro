@@ -100,7 +100,7 @@ function hrefFor(targetLang: string) {
               { Object.keys(TRANSLATIONS).map((locale) => (
                 <li>
                   <a
-                    href={ hrefFor(lang) }
+                    href={ hrefFor(locale) }
                     aria-current={ locale === lang ? 'page' : undefined }
                   >
                     { locale.toUpperCase() }
