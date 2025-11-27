@@ -1,10 +1,10 @@
 ---
-title: Ціна Bitcoin ризикує знизитися нижче $80K в умовах зростання страхів щодо «удару по MSTR».
-description: 'Біткойн наразі стикається з потенційними ризиками зниження, з проривом ведмежого прапора, що вказує на ціль у $77,400. Крім того, зростаюча напруга між Strategy та MSCI може…'
+title: 'Ціна Bitcoin ризикує знизитися нижче $80K, оскільки побоювання щодо «удару по MSTR» зростають.'
+description: 'Біткойн наразі стикається з потенційними ризиками зниження, з ознаками того, що він може впасти нижче значного рівня ціни. Поява патерну ведмежого прапора вказує на ціль…'
 publishedAt: '2025-11-26T15:53:03.000Z'
-updatedAt: '2025-11-27T07:24:16.365Z'
+updatedAt: '2025-11-27T09:26:42.114Z'
 lang: uk
-externalId: '54975079'
+externalId: '54981251'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,30 +18,30 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1617086850075-f4f8454bbb4f?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMjgyMjZ8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1617086850075-f4f8454bbb4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMjgyMjZ8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1617086850075-f4f8454bbb4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMjgyMjZ8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1617086850075-f4f8454bbb4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMjgyMjZ8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1617086850075-f4f8454bbb4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMjgyMjZ8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1617086850075-f4f8454bbb4f'
+  raw: 'https://images.unsplash.com/photo-1628847351677-3695b88ca90a?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1ODJ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1628847351677-3695b88ca90a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1ODJ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1628847351677-3695b88ca90a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1ODJ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1628847351677-3695b88ca90a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1ODJ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1628847351677-3695b88ca90a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1ODJ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1628847351677-3695b88ca90a'
 ai:
-  translatedFrom: '54975079'
+  translatedFrom: '54981251'
   version: 1
 ---
 ## Огляд
 
-Біткоїн наразі стикається з потенційними ризиками зниження, оскільки розрив ведмежого прапора вказує на ціль у $77,400. Крім того, зростання напруженості між Strategy та MSCI може ще більше посилити тиск на ціну біткоїна.
+Bitcoin наразі стикається з потенційними ризиками зниження, з ознаками того, що він може знизитися нижче значного рівня ціни. Виникнення патерну ведмежого прапора вказує на ціль у $77,400, додатково ускладнену зростаючими напруженнями між Strategy та MSCI, що може створити додатковий тиск на ціну Bitcoin.
 
-## Поточна ситуація
+## Що сталося
 
-Недавній аналіз вказує на те, що ціна біткоїна може бути під загрозою зниження нижче значного порогу. Було виявлено розрив ведмежого прапора, що зазвичай вказує на продовження ведмежого тренду. У цьому випадку цільова ціна встановлена на рівні $77,400.
+Останній аналіз ринку вказує на те, що Bitcoin перебуває під загрозою зниження ціни. Ця ситуація виникає внаслідок формування ведмежого прапора, що зазвичай сигналізує про продовження низхідного тренду. Цільова ціна, вказана цим зниженням, становить $77,400.
 
-Більше того, триваюча напруга між Strategy та MSCI може ввести додатковий тиск на біткоїн. Ці події підкреслюють складні динаміки, що діють на ринку криптовалют, оскільки зовнішні фактори можуть суттєво впливати на цінові рухи.
+Крім того, зростають занепокоєння щодо відносин між Strategy та MSCI. Природа цих напружень сприяє негативному настрою на ринку, що може додатково вплинути на цінову траєкторію Bitcoin.
 
-## Вплив на крипторинок
+## Вплив на крипто ринок
 
-- Біткоїн стикається з потенційними зниженнями цін, що може вплинути на ринкові настрої.
-- Розрив ведмежого прапора вказує на продовження ведмежого імпульсу в біткоїні.
-- Напруга між Strategy та MSCI може створити невизначеність для інвесторів.
-- Ці події можуть вплинути на торгові стратегії та оцінки ризиків серед учасників ринку.
-- Загальна волатильність ринку може зрости внаслідок реакції трейдерів на ці фактори.
+- Потенційне зниження ціни Bitcoin нижче $80,000 може вплинути на загальний ринковий настрій.
+- Зниження ведмежого прапора може призвести до збільшення торговельної активності, оскільки інвестори реагують на рухи цін.
+- Напруження між Strategy та MSCI можуть створити невизначеність, впливаючи на інші криптовалюти та ринкову динаміку.
+- Зниження Bitcoin може спровокувати ширше розпродаж ринку, впливаючи на довіру інвесторів.
+- Учасники ринку можуть коригувати свої стратегії у відповідь на змінюючуся ситуацію навколо Bitcoin та його цільових цін.
