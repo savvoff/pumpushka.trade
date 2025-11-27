@@ -2,6 +2,7 @@
 lang: en
 title: Privacy policy
 description: Privacy policy conditions
+order: 11
 navTitle: Privacy policy
 draft: false
 publishedAt: 2025-11-27T00:00:00.000Z
