@@ -1,122 +1,5 @@
 [
   {
-    "id": 55005988,
-    "published": 1764273662000,
-    "title": "Malware Chrome Extension Secretly Siphoned Fees From Solana Traders for Months",
-    "body": "Cybersecurity firm Socket warns the extension masks a second transaction instruction that quietly skims SOL from routine swaps.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55005909,
-    "published": 1764273607000,
-    "title": "SOL Holds $140 Support as Upbit Hack Fails to Shake Solana Ecosystem",
-    "body": "Solana (SOL) is showing remarkable resilience this week, holding firmly above the critical $140 support zone despite heightened market anxiety following a $37 million hack on South Korea’s Upbit exchange. Related Reading: The Bull And Bear Scenario For XRP That Could Play Out In November The stability comes at a time when institutional interest in Solana is accelerating, highlighted by Franklin Templeton’s recent Form 8-A filing with the U.S. SEC to launch a Solana ETF. Franklin Templeton’s Solana ETF Fuels Institutional Momentum The global investment giant, which manages $1.67 trillion in assets, is positioning itself at the forefront of crypto-focused investment products. The proposed ETF would offer regulated exposure to Solana without requiring investors to hold the token directly, a move widely seen as a bullish catalyst for long-term adoption. Historically, ETFs have had mixed but notable effects on crypto markets. Bitcoin surged to new all-time highs after its ETF debut in 2024, while Ethereum took months to show similar momentum. Analysts say it remains unclear whether SOL will follow the Bitcoin pattern or display a more gradual response once the ETF is approved. SOL's price trends to the downside on the daily chart. Source: SOLUSD on Tradingview Upbit’s $37M Solana Hack Sends Shockwaves, But SOL Stays Steady Upbit confirmed an unauthorized outflow of roughly 54 billion KRW (about $37 million) involving SOL and several Solana-based tokens. The exchange immediately halted deposits and withdrawals, moved remaining assets into cold storage, and pledged to fully reimburse affected customers from its own reserves. While such incidents typically trigger steep price drops, Solana’s ecosystem demonstrated surprising stability. Not only did SOL hold above $140, a multi-month high-timeframe support zone, but Solana memecoins such as BONK, TRUMP, and MOODENG barely reacted. Traders pointed to on-chain data showing buyers aggressively defending key support levels, even as broader market sentiment wavered. Upbit has already frozen ₩12 billion worth of stolen LAYER tokens and is working with partners to trace additional assets. The timing of the breach, occurring nearly six years to the day after Upbit’s notorious 2019 hack, has drawn attention but has not shaken confidence in Solana’s network. Technical Outlook: Rebound or Breakdown? Analysts highlight $142–$145 as the immediate resistance band, supported by an estimated 13 million SOL accumulated at that level. A breakout could open the path toward $165, $188, and even higher liquidity pockets at $220–$240. Longer-term projections suggest potential targets between $360 and $480 if Wyckoff reaccumulation patterns complete. However, a failure to maintain $143 support could send SOL toward deeper zones at $130–$127. Related Reading: Has The Bitcoin Price Hit Its Bottom? Key On-Chain Data Signals Potential Rebound Ahead For now, Solana’s impressive stability, amid an exchange hack and ongoing market downturn, underscores growing confidence in the ecosystem as institutional players continue to step in. Cover image from ChatGPT, SOLUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Solana|Sol|SOL Price|SOLUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55006185,
-    "published": 1764273883000,
-    "title": "ETH traders ramp up positioning, setting a price target at $3.4K",
-    "body": "Ethereum traders ramped up leverage as futures dominance surged and key technical levels came into play. Will ETH bulls succeed in catalyzing a rally to $3,400?",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55006931,
     "published": 1764275013000,
     "title": "Amundi brings euro money market fund onchain with first tokenized share",
@@ -2164,41 +2047,6 @@
     ]
   },
   {
-    "id": 55048802,
-    "published": 1764273883000,
-    "title": "ETH traders ramp up positioning, setting a price target at $3.4K",
-    "body": "Ether traders ramped up leverage as futures dominance surged and key technical levels came into play. Will ETH bulls succeed in catalyzing a rally to $3,400?",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55049054,
     "published": 1764280460000,
     "title": "Bitcoiners accuse JPMorgan of rigging the game against Strategy, DATs",
@@ -2300,41 +2148,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55049414,
-    "published": 1764273883000,
-    "title": "ETH traders ramp up positioning, setting a price target at $3.4K",
-    "body": "Ether traders ramped up leverage as futures dominance surged and key technical levels came into play. Will ETH bulls succeed in catalyzing a rally to $3,400?",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -2452,41 +2265,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55049869,
-    "published": 1764273883000,
-    "title": "ETH traders ramp up positioning, setting a price target at $3.4K",
-    "body": "Ether traders ramped up leverage as futures dominance surged and key technical levels came into play. Will ETH bulls succeed in catalyzing a rally to $3,400?",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -4119,6 +3897,111 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55060506,
+    "published": 1764305996000,
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55062008,
+    "published": 1764360034000,
+    "title": "Can Dogecoin Price Still Reach $10 With The 3rd Wave Deadlock?",
+    "body": "A long-term structural analysis suggests the Dogecoin price may be approaching a critical point in this market cycle. With price action compressing and volatility fading, a crypto analyst’s wave-based assessment suggests that DOGE is preparing for an explosive surge toward $10 and beyond, driven by a third-wave deadlock. Third Wave Deadlock To Fuel Dogecoin Price Rally Crypto market expert EtherNasyonal has stated that Dogecoin remains trapped within a third-wave deadlock. This means the cryptocurrency has not yet shown the decisive movement that typically follows a strong wave. Instead, it continues to trade in a tight range without confirming a clear breakout as the price remains confined to the lower region of the ascending channel. Related Reading: Dogecoin Falling Wedge Formation Says Expect 80-90% Rally In The Coming Days The analyst shared an Elliott Wave chart highlighting Dogecoin’s long-term trajectory and price targets above $10, based on a multi-year channel model. His analysis highlights three major waves that define the meme coin’s macro structure. The first wave, which started in 2014, saw an early breakout in 2017, while the second wave triggered the explosive 2021 bull rally. The price action that followed transitioned into the current third wave, during which Dogecoin remains locked in a consolidation zone as it awaits the wave’s completion. If historical patterns were to repeat, EtherNasyonal suggests that Dogecoin could see a third-wave breakout. His chart analysis reveals an ascending channel pointing to several upward targets. If the cryptocurrency manages a breakout, the channel points to an initial target around $0.5, followed by higher targets ranging from $1.2 to over $16. The analyst has also stated that the third-wave breakout will define the strength and direction of Dogecoin’s next major trend. Analyst Says Dogecoin Will Reach $1 By 2026 A fresh analysis from crypto market expert Trader Tardigrade focuses on a less ambitious price target for Dogecoin and on a different timeframe. His weekly chart shows that the meme coin has repeatedly bounced off a long-standing ascending support line. Each of these past rebounds has triggered significant rallies in the Dogecoin price. Related Reading: Dogecoin’s 6,500% Surge: The Road That Leads From $0.15 To $10 This Cycle In November 2024, the meme coin skyrocketed by 86.77%. Just four months later, in March 2025, Dogecoin launched another impressive rally, climbing 210.52%. The momentum continued in November of the same year, with the price surging by 442.48%. Trader Tardigrade notes that Dogecoin has returned to this launchpad area once again, testing the same trendlines that previously ignited strong upward movements. If the historical pattern holds, the analyst predicts DOGE could hit $1 by Q1 2026. His chart shows a potential 611.80% from present levels around $0.15. Although the meme coin is currently in a slump, having lost more than 20% over the past month according to CoinMarketCap, Trader Tardigrade remains confident in its long-term outlook. A move toward $1 would signal a decisive bullish reversal, restoring investor sentiment and overturning the prevailing downtrend. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|@EtherNasyonaL|CoinMarketCap|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|Elliott wave theory|Trader Tardigrade",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55062162,
+    "published": 1764310854000,
+    "title": "UK takes ‘meaningful step forward’ with proposed DeFi tax overhaul",
+    "body": "The UK has proposed a “no gain, no loss” approach to decentralized finance transactions, scrapping capital gains taxes on deposits to crypto lending platforms.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
