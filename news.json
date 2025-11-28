@@ -1,128 +1,5 @@
 [
   {
-    "id": 54999231,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL, and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55000534,
-    "published": 1764262808000,
-    "title": "Ethereum Is 58% ‘Undervalued’ Based On Intrinsic Metrics, Says Hashed CEO",
-    "body": "Ethereum is trading far below its modeled “intrinsic value,” according to a live valuation dashboard launched by Hashed CEO Simon Kim. On ETHval (ethval.com), the current snapshot shows Ethereum at a spot price of $3,034.0 while the reliability-weighted “Composite Fair Value” stands at $4,777.5, implying +57.8% upside versus the market. The median fair value across models is $4,026.68, or +33.8% above spot. The dashboard labels ETH “UNDERVALUED” and aggregates its eight models into five buy, one hold and two sell signals. How The Fair Value Of Ethereum Is Calculated Kim introduced the project on X with the explicit goal of shifting the discussion away from pure sentiment: “What is ETH actually worth? The crypto industry deserves better than price speculation. I built a dashboard to think about ETH’s intrinsic value with 8 models… Far from perfect and open to feedback.” ETHval makes those models and their outputs fully visible, along with their individual reliability tags. Related Reading: Ethereum Price To Recover Or Crash? The Real ‘Leverage Point’ Investors Should Know About The tool’s central panel breaks out each valuation. The TVL Multiple model, which prices ETH off total value locked in DeFi using a 7× TVL-to-market-cap anchor, assigns a fair value of $4,026.6, judging ETH 32.7% undervalued (reliability: medium). A more conservative MC/TVL Fair Value mean-reversion model, treated as high reliability, lands at $3,453.1, only 13.8% above spot and classified as “fair.” Models that embed stronger network-effect or cash-flow claims are far more aggressive. The DCF (Staking) framework, which discounts an implied perpetual stream of staking rewards, values ETH at $9,101.9, indicating it is 200.0% undervalued. A high-reliability Metcalfe’s Law implementation, which scales value with TVL to the power of 1.5, is even more bullish at $9,585.9, or 216.8% above the current price. The Ethereum L2 ecosystem model, which adds twice the TVL of major rollups to Ethereum mainnet TVL before applying a multiple, generates a fair value of $4,640.0, implying 52.9% undervaluation, although ETHval marks this model’s reliability as low. A Staking Scarcity model, also low reliability and based on liquid-supply contraction, prices ETH at $3,538.2, or 16.6% undervalued. Related Reading: Ethereum Steadies Near $2,900 as Fed Rate-Cut Odds Fuel $3,400 Rebound Hopes Two income-style models push in the opposite direction and still receive high reliability scores. The P/E Ratio (25×) model treats annualized protocol fees as “earnings,” applies a 25× multiple and arrives at a fair value of only $957.4, reading ETH as 68.4% overvalued. The Revenue Yield model reverse-engineers price from a target protocol yield of 2.5%; at current revenue levels it outputs $1,531.8, implying 49.5% overvaluation. To synthesize these conflicting signals, ETHval applies a disclosed weighting scheme: high-reliability models are multiplied by 9, medium by 5 and low by 2 when computing the $4,780.7 composite. That weighting, combined with the extreme upside implied by the DCF and Metcalfe models, is what drives the overall conclusion that Ethereum is strongly undervalued despite two respected frameworks pointing to downside. The dashboard itself stops short of making investment recommendations. Underneath the numbers, ETHval reiterates that the outputs are for reference only and that each model rests on explicit, debatable assumptions. But by fixing the current ETH price at $3,034.0 against a live fair-value band stretching from $957.4 on the bearish end to $9,585.9 on the most bullish, Kim’s site quantifies a debate that usually plays out in anecdotes and narratives—and, for now, that quantified view leans clearly toward Ethereum being undervalued. At press time, ETH traded at $3,029. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55001009,
-    "published": 1764263616000,
-    "title": "Bitcoin has a 75% chance of short-term rally, says trader Alessio Rastani",
-    "body": "Veteran trader Alessio Rastani breaks down his bullish outlook for Bitcoin in the coming months in a new Cointelegraph interview.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55002259,
     "published": 1764266455000,
     "title": "The Final XRP Bull Run That Will Send Price To $1,115",
@@ -1456,47 +1333,6 @@
     ]
   },
   {
-    "id": 55029174,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55031411,
     "published": 1764308550000,
     "title": "Cryptos Steady as BTC Hits Key Fib Level, Traders See Room for $100K but Little Beyond",
@@ -2187,211 +2023,6 @@
     ]
   },
   {
-    "id": 55045953,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55045434,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55045594,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55046506,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55046354,
-    "published": 1764260564000,
-    "title": "Solana analysis: SOL price unlikely to break $150 for now",
-    "body": "Solana struggles with recovery due to weakening network activity, a declining TVL and negative ETF flows, as a classic chart pattern targets $100.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55047012,
     "published": 1764335602000,
     "title": "Avail’s Nexus wants to be Web3’s execution spine, not just another bridge",
@@ -2604,76 +2235,6 @@
         "ID": 218,
         "NAME": "SECURITY INCIDENTS",
         "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55047605,
-    "published": 1764263616000,
-    "title": "Bitcoin has a 75% chance of short-term rally, says trader Alessio Rastani",
-    "body": "Veteran trader Alessio Rastani breaks down his bullish outlook for Bitcoin in the coming months in a new Cointelegraph interview.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55047458,
-    "published": 1764263616000,
-    "title": "Bitcoin has a 75% chance of short-term rally, says trader Alessio Rastani",
-    "body": "Veteran trader Alessio Rastani breaks down his bullish outlook for Bitcoin in the coming months in a new Cointelegraph interview.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -4048,6 +3609,290 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55054437,
+    "published": 1764298514000,
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55054640,
+    "published": 1764298514000,
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55054505,
+    "published": 1764298514000,
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55055762,
+    "published": 1764349251000,
+    "title": "Why XRP Will Not Reach $100 By End Of Year Despite ETF Launch",
+    "body": "Interest in XRP has increased massively after the launch of Spot XRP ETFs, leading some supporters to float a $100 per token rally before the end of the year. That scenario, however, appears highly unrealistic when basic market fundamentals are considered. In a recent post on X, Zach Humphries dismissed triple-digit predictions, calling them “delusional” and warning that they mislead people who don’t grasp the math behind market valuation. The Market Cap Reality Check Any attempt to peg XRP at $100 must first contend with its circulating supply and the resulting total valuation that such a price implies. According to Humphries, pushing XRP to $100 would demand a market capitalization of about $6 trillion for the cryptocurrency. That figure amounts to a more than 40-fold increase over current market cap levels, a leap so vast it would require inflows that dwarf anything seen in the crypto industry to date. Related Reading: The Bull And Bear Scenario For XRP That Could Play Out In November The entire crypto market itself has a total capitalization of about $3 trillion. Pushing a single altcoin like XRP to $6 trillion in value would mean the coin alone becomes more than twice as large as the entire crypto market combined. XRP reaching $100 is a 4,445% increase from its current price level. Keeping this in mind, it is really unrealistic for XRP to reach $100 even in the next year alone. Therefore, those making claims that the asset can touch $100 before 2025 ends, with only one month left on the calendar, disregard how capital moves, how long accumulation cycles take, and how much work is involved in building market caps of this size. The recent emergence of XRP ETFs does offer improved access for institutional and retail investors. However, the expansion needed for XRP to reach $100 is so large that no ETF launch or last-minute rally could generate the necessary inflows or supply shock within the next 35 days. Long-Term Potential Still Exists Although the $100 target within the next few weeks appears unattainable, that does not necessarily diminish the long-term appeal of XRP. Enthusiasts who see effects from adoption, regulatory developments, and institutional inflows may still believe in significant upside over a multi-year timeframe. Zach Humpries, for one, noted that he is still very bullish on Ripple/XRP long-term. Related Reading: Pundit Reveals Why XRP Price At $1,000 Is Not A Dream – ‘It’s Math’ The purpose of Humphries’ warning message was to restore perspective, not dampen long-term bullish sentiment. The important message is for XRP enthusiasts to shift their focus away from unrealistic valuations this year and instead consider targets that align with actual market cap growth. In a follow-up reply to comments on his post, he mentioned a far more grounded scenario of XRP reaching the $5 region by Christmas. However, this is also very bullish and is dependent on optimism returning to the wider crypto market. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|altcoin|Ripple|Spot XRP ETFs|xrp|xrp news|XRP Price|XRPUSD|xrpusdt|Zach Humpries",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55055466,
+    "published": 1764305996000,
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55055536,
+    "published": 1764305996000,
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55055530,
+    "published": 1764298514000,
+    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
+    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55056295,
+    "published": 1764350060000,
+    "title": "UK Government to Start Cracking Down on Crypto Tax Avoidance in January",
+    "body": "The U.K. released new guidelines that include rules for crypto exchanges to start providing the British tax authority with full customer information on all their digital assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|HMRC|United Kingdom|Crypto Taxes|OECD|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55056200,
+    "published": 1764305996000,
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55056151,
+    "published": 1764305996000,
+    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
+    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
       {
         "TYPE": "122",
         "ID": 211,
