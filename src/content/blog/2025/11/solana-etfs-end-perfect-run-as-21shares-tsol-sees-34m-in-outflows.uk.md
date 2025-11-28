@@ -1,10 +1,10 @@
 ---
-title: 'ETF Solana завершили ідеальний період, оскільки TSOL компанії 21Shares зазнав відтоку в $34M.'
-description: 'Нещодавні показники біржових фондів Solana (ETF) зазнали помітних змін. Біржовий фонд 21Shares Solana ETF (TSOL) зазнав значних відтоків, що ознаменувало кінець…'
+title: 'ETF Solana завершили ідеальний період, оскільки TSOL від 21Shares зазнав виведення $34M.'
+description: 'Недавні показники біржових фондів Solana (ETF) зазнали значного зниження, в основному через суттєві виведення з 21Shares Solana ETF (TSOL). Це…'
 publishedAt: '2025-11-27T13:40:35.000Z'
-updatedAt: '2025-11-28T07:23:32.907Z'
+updatedAt: '2025-11-28T08:32:51.490Z'
 lang: uk
-externalId: '55031453'
+externalId: '55033837'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,35 +17,32 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1615416622685-88123283f70a?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTQ1NjB8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1615416622685-88123283f70a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTQ1NjB8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1615416622685-88123283f70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTQ1NjB8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1615416622685-88123283f70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTQ1NjB8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1615416622685-88123283f70a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTQ1NjB8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1615416622685-88123283f70a'
+  raw: 'https://images.unsplash.com/photo-1709142221189-5d480a848c65?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTg3MTl8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1709142221189-5d480a848c65?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTg3MTl8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1709142221189-5d480a848c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTg3MTl8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1709142221189-5d480a848c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTg3MTl8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1709142221189-5d480a848c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMTg3MTl8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1709142221189-5d480a848c65'
 ai:
-  translatedFrom: '55031453'
+  translatedFrom: '55033837'
   version: 1
 ---
 ## Огляд
 
-Недавня діяльність біржових фондів Solana (ETF) зазнала помітного зміни. ETF 21Shares Solana (TSOL) зазнав значних виводів коштів, що ознаменувало кінець раніше успішної серії.
+Нещодавня діяльність фондів, що торгуються на біржі (ETF) Solana, зазнала значного зниження, головним чином через суттєві виведення з ETF 21Shares Solana (TSOL). Ця подія позначає помітний зсув у настроях інвесторів.
 
 ## Що сталося
 
-ETF 21Shares Solana (TSOL) зіткнувся з суттєвим виводом понад 34 мільйони доларів за один день. Ця подія свідчить про зміну настроїв інвесторів щодо інвестицій, пов'язаних з Solana. Виводи є особливо примітними, оскільки підкреслюють волатильність та динамічний характер ринку криптовалют.
+ETF 21Shares Solana (TSOL) зазнав драматичного виведення коштів, з яких понад $34 мільйони були виведені всього за один день. Цей реверс вказує на зміни в динаміці ринку, пов’язаній з інвестиційними продуктами, що стосуються Solana.
 
-## Важливість події
+## Чому це важливо
 
-Цей реверс у діяльності ETF 21Shares Solana є значним з кількох причин:
+Суттєві виведення з TSOL можуть відображати ширші настрої інвесторів щодо Solana та його супутніх активів. Великі виведення з ETF можуть вплинути на ліквідність та сприйняття ринку, сигналізуючи про потенційні занепокоєння серед інвесторів щодо майбутнього Solana або криптовалютного ринку в цілому.
 
-- Це вказує на потенційні зміни у впевненості інвесторів у Solana та її фінансових продуктах.
-- Великі виводи з ETF можуть вплинути на сприйняття ринку та майбутні інвестиційні стратегії.
-- Подія відображає ширші тенденції на ринку криптовалют, де поведінка інвесторів може швидко змінюватися.
+## Вплив на крипто-ринок
 
-## Вплив на крипторинок
-
-- Вивід з ETF 21Shares Solana може сигналізувати про зміну настроїв на ринку щодо Solana.
-- Може виникнути підвищена волатильність, оскільки інвестори переоцінюють свої позиції в активи, пов'язані з Solana.
-- Виводи можуть призвести до переоцінки діяльності та стабільності ETF Solana в цілому.
-- Ця подія може мати наслідки для інших криптовалют та їхніх асоційованих ETF, оскільки ринкові динаміки еволюціонують.
+- Виведення з ETF 21Shares Solana (TSOL) вказують на зсув у довірі інвесторів до Solana.
+- Великі виведення можуть призвести до зменшення ліквідності на ринку.
+- Ця подія може вплинути на стратегії інших інвесторів щодо Solana та подібних активів.
+- Настрої на ринку можуть бути під впливом, що потенційно призведе до подальшої волатильності в інвестиціях, пов'язаних з Solana.
+- Ситуація підкреслює важливість моніторингу потоків ETF як індикаторів здоров'я ринку.
