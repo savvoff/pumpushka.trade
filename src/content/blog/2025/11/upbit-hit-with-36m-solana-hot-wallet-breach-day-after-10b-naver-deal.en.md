@@ -1,10 +1,10 @@
 ---
 title: Upbit hit with $36M Solana hot wallet breach day after $10B Naver deal
-description: 'Upbit experienced a significant security breach involving a Solana hot wallet, resulting in a loss of $36 million. This incident comes just one day after Upbit''s parent company,…'
+description: 'Upbit, a prominent cryptocurrency exchange, has experienced a significant breach involving its Solana hot wallet. This incident occurred shortly after its parent company, Dunamu,…'
 publishedAt: '2025-11-27T08:52:10.000Z'
-updatedAt: '2025-11-27T09:27:39.838Z'
+updatedAt: '2025-11-28T04:29:28.166Z'
 lang: en
-externalId: '54980688'
+externalId: '55022779'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,33 +18,29 @@ sentiment: NEGATIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1745509267699-1b1db256601e?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1Nzl8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1745509267699-1b1db256601e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1Nzl8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1745509267699-1b1db256601e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1Nzl8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1745509267699-1b1db256601e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1Nzl8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1745509267699-1b1db256601e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyMzU1Nzl8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1745509267699-1b1db256601e'
+  raw: 'https://images.unsplash.com/photo-1754152365074-b1014729ce37?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzB8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1754152365074-b1014729ce37?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzB8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1754152365074-b1014729ce37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzB8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1754152365074-b1014729ce37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzB8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1754152365074-b1014729ce37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzB8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1754152365074-b1014729ce37'
 ai:
   rewritten: true
-  expandedAt: '2025-11-27T09:27:39.838Z'
+  expandedAt: '2025-11-28T04:29:28.166Z'
   version: 1
 ---
 ## Overview
 
-Upbit experienced a significant security breach involving a Solana hot wallet, resulting in a loss of $36 million. This incident comes just one day after Upbit's parent company, Dunamu, announced a major acquisition deal valued at $10 billion with Naver, alongside plans for an initial public offering in the United States.
+Upbit, a prominent cryptocurrency exchange, has experienced a significant breach involving its Solana hot wallet. This incident occurred shortly after its parent company, Dunamu, finalized a substantial acquisition deal valued at $10 billion with Naver. 
 
-## Details of the Breach
+## What Happened
 
-The breach targeted Upbit's Solana hot wallet, leading to a substantial financial loss for the exchange. This incident raises concerns about the security measures in place for cryptocurrency exchanges, particularly during times of significant corporate developments.
-
-## Importance of the Event
-
-The timing of the breach is particularly noteworthy as it coincides with Dunamu's high-profile acquisition deal and its intentions to go public. Such events can impact investor confidence and the overall perception of the exchange's operational stability.
+The breach of Upbit's Solana hot wallet has raised concerns within the cryptocurrency community. This security incident took place in the backdrop of Dunamu's recent business developments, including a major acquisition deal with Naver and plans for an initial public offering in the United States. The timing of the breach, coinciding with these significant corporate maneuvers, has drawn attention to the security protocols in place at major exchanges.
 
 ## Impact on the crypto market
 
-- The breach highlights vulnerabilities in the security of cryptocurrency exchanges.
-- It may lead to increased scrutiny and regulatory pressure on exchanges regarding their security practices.
-- Investor confidence in Upbit and similar platforms could be affected, potentially influencing trading volumes.
-- The incident may prompt other exchanges to bolster their security protocols to prevent similar breaches.
-- The simultaneous announcement of a major acquisition deal may overshadow the breach, affecting market reactions.
+- Concerns about security vulnerabilities at major exchanges may increase scrutiny from investors and regulators.
+- The breach could affect user confidence in Upbit and similar platforms, potentially leading to a decrease in trading activity.
+- The incident might prompt other exchanges to review and enhance their security measures to prevent similar breaches.
+- The timing of the breach, alongside Dunamu’s acquisition and IPO plans, could influence market perceptions of corporate governance in the crypto sector.
+- Investors may become more cautious regarding large transactions and partnerships in the cryptocurrency space following this incident.

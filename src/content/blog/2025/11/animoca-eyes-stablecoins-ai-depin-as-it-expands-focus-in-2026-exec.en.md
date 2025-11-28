@@ -1,10 +1,10 @@
 ---
 title: 'Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec'
-description: 'Animoca Brands is broadening its focus within the crypto industry, as stated by Keyvan Peymani. The company is exploring various segments, including decentralized physical…'
+description: 'Animoca Brands is broadening its focus for 2026, as stated by Keyvan Peymani. The company is exploring various segments of the crypto industry, including decentralized physical…'
 publishedAt: '2025-11-28T02:55:14.000Z'
-updatedAt: '2025-11-28T03:14:24.509Z'
+updatedAt: '2025-11-28T04:28:16.979Z'
 lang: en
-externalId: '55020499'
+externalId: '55023296'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -16,33 +16,29 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1607340696017-6af7cd9eaaf4'
+  raw: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756755932691-6c5aa0158e56'
 ai:
   rewritten: true
-  expandedAt: '2025-11-28T03:14:24.509Z'
+  expandedAt: '2025-11-28T04:28:16.979Z'
   version: 1
 ---
 ## Overview
 
-Animoca Brands is broadening its focus within the crypto industry, as stated by Keyvan Peymani. The company is exploring various segments, including decentralized physical infrastructure networks (DePIN), decentralized finance (DeFi), and artificial intelligence (AI).
+Animoca Brands is broadening its focus for 2026, as stated by Keyvan Peymani. The company is exploring various segments of the crypto industry, including decentralized physical infrastructure networks (DePIN), decentralized finance (DeFi), and artificial intelligence (AI).
 
-## Expansion into New Segments
+## What Happened
 
-Keyvan Peymani, a representative of Animoca Brands, highlighted the company's intention to delve into multiple areas of the cryptocurrency landscape. This strategic exploration includes DePIN, which aims to utilize blockchain technology for physical infrastructure projects, and DeFi, which focuses on financial services without traditional intermediaries. Additionally, the incorporation of AI indicates a commitment to leveraging advanced technologies to enhance their offerings.
-
-## Importance of the Shift
-
-This expansion is significant as it showcases Animoca's adaptability in a rapidly evolving market. By diversifying its focus, the company aims to remain competitive and relevant in the broader crypto ecosystem. The exploration of these emerging sectors could lead to innovative solutions and new opportunities for growth within the company.
+Keyvan Peymani, a representative from Animoca Brands, announced the company's strategic direction for the upcoming year. The emphasis on DePIN, DeFi, and AI highlights Animoca's commitment to diversifying its interests within the rapidly evolving crypto landscape. This move reflects the company's intention to leverage emerging technologies and trends in order to remain competitive and innovative in the Web3 gaming sector.
 
 ## Impact on the crypto market
 
-- Increased interest in decentralized physical infrastructure networks (DePIN) may lead to more projects and investments in this area.
-- The focus on decentralized finance (DeFi) could attract more users to blockchain financial services, potentially increasing market activity.
-- The integration of artificial intelligence (AI) in crypto applications might enhance user experiences and operational efficiencies.
-- Animoca's expansion may encourage other companies to explore similar diverse avenues within the crypto industry.
-- A broader engagement with various segments of the crypto market could lead to increased overall market stability and innovation.
+- The exploration of DePIN may lead to new business models and opportunities in the infrastructure space.
+- Increased focus on DeFi could enhance liquidity and financial services available in the crypto ecosystem.
+- The integration of AI might improve user experiences and operational efficiencies within crypto applications.
+- Animoca's strategic expansion could influence other companies to explore similar segments, fostering growth in the industry.
+- This diversification may attract more investment and interest in the crypto market from various sectors.

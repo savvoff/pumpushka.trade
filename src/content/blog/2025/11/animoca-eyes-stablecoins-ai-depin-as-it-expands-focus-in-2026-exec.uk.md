@@ -1,10 +1,10 @@
 ---
-title: 'Animoca звертає увагу на стейблкоїни, ШІ, DePIN, оскільки розширює фокус у 2026 році: керівник'
-description: 'Animoca Brands розширює свій фокус у криптоіндустрії, як зазначив Кейван Пеймані. Компанія досліджує різні сегменти, включаючи децентралізовані фізичні…'
+title: 'Animoca звертає увагу на стейблкоїни, ШІ, DePIN, розширюючи фокус у 2026 році: керівник'
+description: 'Animoca Brands розширює свій фокус на 2026 рік, як заявив Кеван Пеймані. Компанія досліджує різні сегменти криптоіндустрії, включаючи децентралізовану фізичну…'
 publishedAt: '2025-11-28T02:55:14.000Z'
-updatedAt: '2025-11-28T03:14:24.510Z'
+updatedAt: '2025-11-28T04:28:16.984Z'
 lang: uk
-externalId: '55020499'
+externalId: '55023296'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -16,32 +16,28 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1607340696017-6af7cd9eaaf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQyOTk2MTh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1607340696017-6af7cd9eaaf4'
+  raw: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1756755932691-6c5aa0158e56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMDQwNzN8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756755932691-6c5aa0158e56'
 ai:
-  translatedFrom: '55020499'
+  translatedFrom: '55023296'
   version: 1
 ---
 ## Огляд
 
-Animoca Brands розширює свою увагу в криптоіндустрії, як зазначив Кейван Пеймані. Компанія досліджує різні сегменти, включаючи децентралізовані фізичні інфраструктурні мережі (DePIN), децентралізовані фінанси (DeFi) та штучний інтелект (AI).
+Animoca Brands розширює свій фокус на 2026 рік, як заявив Кеван Пеймані. Компанія досліджує різні сегменти криптоіндустрії, включаючи децентралізовані фізичні інфраструктурні мережі (DePIN), децентралізовані фінанси (DeFi) та штучний інтелект (AI).
 
-## Розширення в нові сегменти
+## Що сталося
 
-Кейван Пеймані, представник Animoca Brands, підкреслив намір компанії зануритися в кілька сфер криптовалютного ландшафту. Це стратегічне дослідження включає DePIN, який має на меті використання технології блокчейн для проектів фізичної інфраструктури, та DeFi, який зосереджується на фінансових послугах без традиційних посередників. Крім того, інтеграція AI свідчить про зобов'язання використовувати передові технології для покращення своїх пропозицій.
-
-## Важливість зміни
-
-Це розширення є значним, оскільки демонструє адаптивність Animoca на швидко змінюваному ринку. Різноманітність фокусу компанії має на меті залишитися конкурентоспроможною та актуальною в більш широкій криптоекосистемі. Дослідження цих нових секторів може призвести до інноваційних рішень та нових можливостей для зростання всередині компанії.
+Кеван Пеймані, представник Animoca Brands, оголосив про стратегічний напрямок компанії на наступний рік. Акцент на DePIN, DeFi та AI підкреслює зобов'язання Animoca диверсифікувати свої інтереси в швидко змінюваному криптоландшафті. Цей крок відображає намір компанії використовувати нові технології та тренди, щоб залишатися конкурентоспроможною та інноваційною у секторі Web3 ігрової індустрії.
 
 ## Вплив на крипторинок
 
-- Зростаючий інтерес до децентралізованих фізичних інфраструктурних мереж (DePIN) може призвести до більшої кількості проектів та інвестицій у цій сфері.
-- Фокус на децентралізованих фінансах (DeFi) може залучити більше користувачів до фінансових послуг на основі блокчейн, що потенційно збільшить ринкову активність.
-- Інтеграція штучного інтелекту (AI) у крипто-додатки може покращити досвід користувачів та операційну ефективність.
-- Розширення Animoca може заохотити інші компанії досліджувати подібні різноманітні напрямки в криптоіндустрії.
-- Ширше залучення до різних сегментів крипторинку може призвести до збільшення загальної стабільності ринку та інновацій.
+- Дослідження DePIN може призвести до нових бізнес-моделей та можливостей у сфері інфраструктури.
+- Збільшений акцент на DeFi може покращити ліквідність та фінансові послуги, доступні в криптоекосистемі.
+- Інтеграція AI може покращити користувацький досвід та операційну ефективність у крипто-додатках.
+- Стратегічне розширення Animoca може вплинути на інші компанії, щоб вони досліджували подібні сегменти, сприяючи зростанню в індустрії.
+- Ця диверсифікація може залучити більше інвестицій та інтересу до крипторинку з різних секторів.
