@@ -1,10 +1,10 @@
 ---
-title: 'KuCoin''s європейський підрозділ отримав ліцензію MiCA в Австрії, Мальта виключена.'
-description: Європейський підрозділ KuCoin успішно отримав ліцензію MiCA від Фінансового ринкового управління Австрії. Цей розвиток дозволяє KuCoin EU працювати в 29 країнах у межах…
+title: 'EU-структура KuCoin отримала ліцензію MiCA в Австрії, Мальта виключена.'
+description: Європейська дочірня компанія KuCoin успішно отримала ліцензію MiCA від фінансового регулятора Австрії. Це регуляторне схвалення дозволяє KuCoin EU здійснювати операції…
 publishedAt: '2025-11-28T10:48:25.000Z'
-updatedAt: '2025-11-28T11:21:45.268Z'
+updatedAt: '2025-11-28T22:21:10.637Z'
 lang: uk
-externalId: '55041117'
+externalId: '55066241'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,31 +17,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1647215231776-80194c37ca54?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMjg4MDh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1647215231776-80194c37ca54?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMjg4MDh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1647215231776-80194c37ca54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMjg4MDh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1647215231776-80194c37ca54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMjg4MDh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1647215231776-80194c37ca54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMjg4MDh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1647215231776-80194c37ca54'
+  raw: 'https://images.unsplash.com/photo-1647215199900-35f8fb436d89?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzNjg0MjF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1647215199900-35f8fb436d89?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzNjg0MjF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1647215199900-35f8fb436d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzNjg0MjF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1647215199900-35f8fb436d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzNjg0MjF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1647215199900-35f8fb436d89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzNjg0MjF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1647215199900-35f8fb436d89'
 ai:
-  translatedFrom: '55041117'
+  translatedFrom: '55066241'
   version: 1
 ---
 ## Огляд
 
-Європейський підрозділ KuCoin успішно отримав ліцензію MiCA від Управління фінансового ринку Австрії. Цей розвиток дозволяє KuCoin EU працювати в 29 країнах Європейської економічної зони (EEA), хоча Мальта помітно виключена з цього розширення.
+Європейське дочірнє підприємство KuCoin успішно отримало ліцензію MiCA від Фінансового наглядового органу Австрії. Це регуляторне схвалення дозволяє KuCoin EU проводити операції в 29 країнах Європейської економічної зони, хоча Мальта помітно виключена з цього дозволу.
 
 ## Що сталося
 
-KuCoin EU отримав необхідну ліцензію для ведення своєї діяльності в кількох європейських країнах. Ліцензія була надана Управлінням фінансового ринку Австрії, що дозволяє платформі розширити свої послуги в 29 країнах EEA. Однак важливо зазначити, що Мальта не включена в цю ліцензію, що обмежує присутність KuCoin на цьому конкретному ринку.
+KuCoin EU отримала ліцензію MiCA від відповідного регуляторного органу в Австрії. Ця ліцензія є важливою, оскільки вона дозволяє компанії працювати в рамках, встановлених для криптовалютних діяльностей у кількох європейських країнах. Виключення Мальти з цієї ліцензії вказує на те, що KuCoin EU не зможе проводити свої операції в цій юрисдикції.
 
 ## Чому це важливо
 
-Отримання ліцензії MiCA є важливим для KuCoin EU, оскільки це підвищує регуляторну відповідність компанії в межах EEA. Це регуляторне схвалення може допомогти побудувати довіру з боку користувачів та інвесторів у регіоні. Крім того, наявність ліцензії в кількох країнах може надати KuCoin EU конкурентну перевагу на швидко розвиваючомуся ринку криптовалют.
+Отримання ліцензії MiCA є вирішальним кроком для криптовалютних бірж, таких як KuCoin, оскільки це означає відповідність регуляторним стандартам у ЄС. Це може підвищити довіру серед користувачів і інвесторів, що потенційно призведе до збільшення впровадження та використання послуг KuCoin на ліцензованих територіях. Крім того, робота в 29 країнах ЄЕЗ ставить KuCoin EU у вигідне положення в конкурентному середовищі криптовалютних бірж у Європі.
 
-## Вплив на крипторинок
+## Вплив на криптовалютний ринок
 
-- Ліцензування KuCoin EU може спонукати інші криптоплатформи прагнути до регуляторної відповідності в EEA.
-- Виключення Мальти може призвести до переоцінки ринкових стратегій для криптобірж, які працюють у цій юрисдикції.
-- Збільшення регуляторної ясності може підвищити довіру користувачів до криптовалютних платформ, що працюють відповідно до регуляцій MiCA.
-- Ліцензування може сприяти більш широкому впровадженню криптовалютних послуг серед користувачів у ліцензованих країнах EEA.
+- Ліцензія KuCoin EU може підвищити довіру користувачів до платформи завдяки відповідності регуляторним вимогам.
+- Виключення Мальти може призвести до потенційної фрагментації ринку в ЄС для KuCoin.
+- Це регуляторне схвалення може спонукати інші біржі шукати подібні ліцензії для підвищення своєї кредитоспроможності.
+- Цей крок відображає постійний тренд збільшення регулювання в криптовалютному просторі в Європі.
+- Операції KuCoin EU в 29 країнах можуть підвищити загальні обсяги торгівлі в регіоні ЄЕЗ.
