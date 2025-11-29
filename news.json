@@ -1,233 +1,5 @@
 [
   {
-    "id": 55024038,
-    "published": 1764303892000,
-    "title": "DOGE Underperforms Majors as Support Failure Confirms Bearish Shift",
-    "body": "The $0.150 level is now a critical support point, with further declines likely if it is breached.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55024841,
-    "published": 1764304882000,
-    "title": "Upbit Hack Attributed to North Korea's Lazarus as Seoul Opens Probe: Report",
-    "body": "The breach has prompted a formal review of Upbit’s systems as regulators examine the Solana hot-wallet theft.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55025755,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55026522,
-    "published": 1764307136000,
-    "title": "South Korea Suspects North Korea-Linked Lazarus Behind $36M Upbit Hack",
-    "body": "On Thursday, South Korea's largest digital asset exchange, Upbit, suspended deposits and withdrawals after detecting unusual activity in the Solana network tokens.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|North Korea|South Korea|Markets|Upbit|lazarus|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55026549,
-    "published": 1764307101000,
-    "title": "Monad Token Extends Slide Amid Profit-Taking, Spoofed Transaction Concerns",
-    "body": "Monad’s token slipped on Thursday as possible profit-taking and a recent spoofing issue pressured prices despite brisk on-chain activity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55027069,
-    "published": 1764306193000,
-    "title": "Solana Traders Hit by Months-Long Browser Malware That Skimmed Every Swap",
-    "body": "Wallet interfaces typically summarize instructions as a single swap, and the bundled transaction executes atomically—meaning users unknowingly sign off on both.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Hack|Solana News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 55028343,
     "published": 1764309608000,
     "title": "Bitcoin Bullish Rebound Sparks Path Toward The $98,000 Imbalance Zone",
@@ -1632,64 +1404,6 @@
     ]
   },
   {
-    "id": 55055466,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55055536,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55056295,
     "published": 1764350060000,
     "title": "UK Government to Start Cracking Down on Crypto Tax Avoidance in January",
@@ -1709,180 +1423,6 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55056200,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55056151,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55056603,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057322,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057060,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057242,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -1930,151 +1470,6 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057959,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057629,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55058010,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057496,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55058132,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -2161,35 +1556,6 @@
     ]
   },
   {
-    "id": 55059556,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55059992,
     "published": 1764356410000,
     "title": "Ethereum Fusaka Will Be ‘The Most Bullish Upgrade’ Ever, Pundit Claims",
@@ -2262,35 +1628,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55060506,
-    "published": 1764305996000,
-    "title": "Crypto sentiment recovers to levels when Bitcoin last traded over $100K",
-    "body": "Despite Bitcoin remaining below $100,000, crypto sentiment is improving as the cryptocurrency has climbed above $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -5083,6 +4420,122 @@
   },
   {
     "id": 55078701,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55079155,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55079478,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55079637,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55080221,
     "published": 1764329338000,
     "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
     "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
