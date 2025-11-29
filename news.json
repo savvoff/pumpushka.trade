@@ -1,134 +1,5 @@
 [
   {
-    "id": 55058931,
-    "published": 1764354478000,
-    "title": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
-    "body": "Crypto-related equities like BitMine and leading Bitcoin mining stocks are jumping as Bitcoin and Ethereum regain key levels.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55059992,
-    "published": 1764356410000,
-    "title": "Ethereum Fusaka Will Be ‘The Most Bullish Upgrade’ Ever, Pundit Claims",
-    "body": "A pseudonymous analyst has set off a new narrative around Ethereum’s upcoming Fusaka upgrade, arguing it could be the most favorable event ever for ETH as an asset by finally turning Layer-2 networks into meaningful ETH burners. On X, crypto pundit Kira Sama framed Fusaka, scheduled for December 3, as a structural shift in Ethereum’s fee economics. The core of the thesis is a single change: EIP-7918. “Price wise, Ethereum Fusaka upgrade on december 3rd, will be the most bullish upgrade for eth the asset ever, why? One reason. ‘EIP 7918’,” Kira wrote, calling it “the next big catalyst for eth burn.” Ethereum L2 Will Burn ETH Kira’s argument rests on how Ethereum currently treats L2s. Since the rollup-centric roadmap took shape, Ethereum’s base layer has effectively subsidized L2 data availability. In his words, “for a long time, ETH L1 charged zero base fees to L2s, while L2 deployers made millions of profits. So L2s haven’t burnt any meaningful eth.” That subsidized regime has fueled explosive L2 growth but also limited how much L2 usage translates into ETH burn. Related Reading: Ethereum Is 58% ‘Undervalued’ Based On Intrinsic Metrics, Says Hashed CEO EIP-7918 is designed to change that by tying L2 data costs more tightly to mainnet gas prices. Kira summarizes it as follows: “L2 fees will be bounded by the execution cost which will help us reach L2 fees price discovery faster. It also helps maintain the fees during spikes so that L2 users won’t be rugged from absurd tx fees. Win-win.” In practice, that means rollups will face a non-trivial, protocol-enforced minimum on what they pay Ethereum for posting their batches. Crucially for ETH holders, those fees are paid in ETH and a portion is burned under the EIP-1559 mechanism. Kira argues that as L2 throughput scales, this will become a dominant driver of ETH’s burn dynamics: “They will just pay their fair share to Ethereum L1 and burn meaningful eth. It will be slow and steady at the beginning. This will eventually result in burning millions of dollars of eth long term and L2s will be main driving force of making eth deflationary.” Related Reading: Ethereum Price To Recover Or Crash? The Real ‘Leverage Point’ Investors Should Know About The narrative becomes more aggressive when Kira extrapolates to corporate and institutional rollups. He lists a series of existing and anticipated L2s and claims that “Coinbase’s base will burn eth, Robinhood’s L2 will burn eth, OpenAI’s Worlchain will burn eth, Sony’s Soneium will burn eth, Alibaba’s Jovay will burn eth, UAE’s ADI chain burn eth, Kraken’s Ink will burn eth, Lighter will burn eth, Deutsche Bank’s Memento chain will burn eth, Arbitrum will burn eth etc etc etc. Corporations will start burning eth.” From that, he extends the thesis to a broader, highly bullish vision: “Every company in the world will launch their own layer 2. Every alt-L1 will become L2 and start burning eth. Eth inflation will shrink.” While those universal claims go far beyond what the upgrade itself guarantees, they capture the heart of the bullish narrative: if enough economic activity migrates onto Ethereum-secured L2s that must pay non-negligible base fees, Ethereum becomes the settlement and value-capture layer beneath corporate and institutional chains. Kira explicitly compares Fusaka to the London hard fork that introduced EIP-1559 in 2021. “When Ethereum introduced burn through eip-1559 in 2021, it lifted the whole market up,” he wrote. “Everyone will be caught off guard this time as well. L2s burning eth incoming. Bullish eth. Bullish L2s.” For now, Kira is clear about his own conclusion: “December 3rd, tik-tok. The ticker is ETH.” At press time, ETH traded at $3,022. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ETH news|eth price|ethereum|Ethereum Fusaka Upgrade|ethereum news|ethereum price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55060086,
-    "published": 1764356400000,
-    "title": "Cathie Wood still bullish on $1.5M Bitcoin price target: Finance Redefined",
-    "body": "Bitcoin recovered after four consecutive weeks in the red, surpassing the key $89,600 flow-weighted cost basis of Bitcoin ETF holders, the most significant cohort driving BTC inflows.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55062008,
     "published": 1764360034000,
     "title": "Can Dogecoin Price Still Reach $10 With The 3rd Wave Deadlock?",
@@ -1101,6 +972,35 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55110114,
+    "published": 1764442800000,
+    "title": "Meet the Billion-Dollar Crypto Founder Who Started Trading at 9 Years Old",
+    "body": "Denis Dariotis, the youthful founder and CEO of cryptocurrency-focused trading software firm GoQuant, talks about building a billion-dollar-a-day trading startup during his formative years.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|CoinDesk Wealth|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }
