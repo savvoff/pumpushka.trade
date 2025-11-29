@@ -1,81 +1,5 @@
 [
   {
-    "id": 55056295,
-    "published": 1764350060000,
-    "title": "UK Government to Start Cracking Down on Crypto Tax Avoidance in January",
-    "body": "The U.K. released new guidelines that include rules for crypto exchanges to start providing the British tax authority with full customer information on all their digital assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|HMRC|United Kingdom|Crypto Taxes|OECD|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55057913,
-    "published": 1764352845000,
-    "title": "Bitcoin To Hit $1.5M? Cathie Wood Says It’s Only A Matter Of Time",
-    "body": "Cathie Wood, founder and CEO of ARK Invest, reiterated a bold forecast that Bitcoin could reach $1.5 million by 2030. Related Reading: Crypto Wins Big: Thailand Moves To A 0% Tax On Local Exchange Gains According to a recent webinar, she argued that the current downturn is a pause rather than the end of the cycle and said Bitcoin is only halfway through its four-year rhythm. Her stance comes as market swings have erased large sums and pushed out many investors. Liquidity Flows And Fed Timing Reports have disclosed that roughly $70 billion has already returned to financial markets since a brief US government funding gap ended, and ARK estimates as much as $300 billion could follow as the Treasury General Account is refilled. Wood tied that potential return of cash to moves in central bank policy, noting that the Federal Reserve is expected to end its quantitative tightening program on December 1. She said that easing liquidity could lift both Bitcoin and stocks tied to artificial intelligence. In this recent webinar, I discuss why the liquidity squeeze that has hit #AI and #crypto will reverse in the next few weeks, something the markets seemed to buy, and why AI is not in a bubble. The 123% increase noted below was in Palantir’s US commercial business last qtr. Watch… https://t.co/GdBZtEQcxM — Cathie Wood (@CathieDWood) November 26, 2025 Palantir’s US commercial revenue was highlighted during the talk, with a reported 123% increase last quarter used as an example of real business gains backing some market bets. Based on reports, Wood rejects the idea that gains in the AI sector are purely speculative, and she expects renewed money flows to help risk assets rebound. Stablecoins And Gold In Play According to ARK analysts, stablecoins have captured some of the transactional demand that once favored Bitcoin. At the same time, gold has shown solid returns this year, which the team says offsets part of the shift away from crypto for certain uses. That mix, they argue, changes how capital might move when liquidity returns. Broader Bullish Views From Market Names Several well-known investors continue to project high price targets for Bitcoin. According to public statements, Tom Lee of Fundstrat has said Bitcoin could hit $250,000 by 2025, pointing to supply limits and demand patterns. Venture capitalist Chamath Palihapitiya has floated targets in the range of $500,000 to $1,000,000, citing Bitcoin as a shelter in turbulent times. Related Reading: Bitcoin Faces More Downside After Recent Crash, Data Shows Raoul Pal, the former Wall Street executive and founder of Real Vision, has also advocated for similar six-figure ranges driven by adoption and institutional interest. These voices are included to show the range of long-term expectations among prominent market watchers. Cathie Wood thinks that Bitcoin could reach $1.5 million by 2030, while arguing the current dip is temporary and that the cycle has more to run. Returning liquidity and growing adoption could drive prices sharply higher, according to ARK Invest’s analysis. Featured image from Gemini, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|altcoin|ark invest|bitcoin|btc|btcusd|Cathie Wood|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55058931,
     "published": 1764354478000,
     "title": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
@@ -119,35 +43,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55058585,
-    "published": 1764353451000,
-    "title": "Wall Street Worrywarts Lose Again as Markets Defy CME, AI Stress",
-    "body": "Wall Street just delivered a sharp lesson on the cost of caution — and not even a rare trading outage was able to break the market’s stride.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       }
     ]
   },
@@ -1183,6 +1078,29 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55107875,
+    "published": 1764438476000,
+    "title": "Crypto self-custody is a fundamental right, says SEC's Hester Peirce",
+    "body": "Self-custody of assets and financial privacy are both fundamental rights consistent with the pro-freedom philosophy on which the US was founded.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }
