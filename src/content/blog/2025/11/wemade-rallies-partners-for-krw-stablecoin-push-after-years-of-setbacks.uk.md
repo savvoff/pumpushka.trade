@@ -1,10 +1,10 @@
 ---
-title: Wemade об'єднує партнерів для просування стейблкоїна KRW після років невдач.
-description: 'Wemade створила новий альянс під назвою GAKS, до якого входять партнери, такі як Chainalysis, CertiK та SentBe. Ця коаліція має на меті підтримати розвиток відповідного KRW…'
+title: Wemade збирає партнерів для просування стейблкоїна KRW після років невдач.
+description: 'Wemade створила новий альянс під назвою GAKS, до якого входять партнери, такі як Chainalysis, CertiK та SentBe. Ця співпраця має на меті підтримку розвитку відповідного…'
 publishedAt: '2025-11-28T10:52:59.000Z'
-updatedAt: '2025-11-29T03:15:19.718Z'
+updatedAt: '2025-11-29T04:28:11.186Z'
 lang: uk
-externalId: '55076179'
+externalId: '55078061'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,32 +17,30 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1704969724140-0a7a390dba73'
+  raw: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTA0MzZ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTA0MzZ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTA0MzZ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTA0MzZ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1689732888407-310424e3a372?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTA0MzZ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1689732888407-310424e3a372'
 ai:
-  translatedFrom: '55076179'
+  translatedFrom: '55078061'
   version: 1
 ---
 ## Огляд
 
-Wemade сформувала новий альянс під назвою GAKS, до якого входять партнери, такі як Chainalysis, CertiK та SentBe. Ця коаліція має на меті підтримати розвиток основної мережі KRW стейблкоїна, після того як компанія стикалася з різними труднощами в минулому.
+Wemade сформувала новий альянс під назвою GAKS, до якого входять партнери, такі як Chainalysis, CertiK та SentBe. Ця співпраця має на меті підтримати розробку відповідного основного мережевого токена KRW stablecoin після кількох невдач у минулому.
 
 ## Що сталося
 
-Альянс GAKS від Wemade представляє собою стратегічну співпрацю, спрямовану на просування створення KRW стейблкоїна. Включення таких відомих партнерів, як Chainalysis, CertiK та SentBe, свідчить про сильний акцент на відповідності та безпеці в розробці стейблкоїна. Ця ініціатива виникла після ряду викликів, які заважали прогресу в секторі стейблкоїнів.
+Альянс GAKS від Wemade є стратегічним кроком, щоб об'єднати основних гравців у сфері блокчейну та криптовалют. Включення Chainalysis, компанії з аналізу блокчейну, CertiK, фірми, що спеціалізується на безпеці, та SentBe, постачальника платіжних рішень, свідчить про цілеспрямовану роботу над створенням stablecoin, який відповідає регуляторним стандартам. Ця ініціатива з'явилася після серії викликів, які заважали попереднім спробам запустити KRW stablecoin.
 
-## Важливість альянсу GAKS
-
-Формування альянсу GAKS означає зусилля подолати попередні перешкоди, які вплинули на запуск та прийняття KRW стейблкоїнів. Співпрацюючи з компаніями, відомими своєю експертизою в питаннях відповідності та безпеки блокчейну, Wemade позиціонує себе для вирішення регуляторних проблем та підвищення загальної надійності проекту стейблкоїна.
+Формування цього альянсу підкреслює зобов'язання Wemade подолати минулі перешкоди та просуватися вперед до своєї мети встановлення відповідного stablecoin на ринку KRW. Співпрацюючи з усталеними компаніями в галузі, Wemade прагне використовувати їхній досвід, щоб забезпечити успіх цього проєкту.
 
 ## Вплив на крипторинок
 
-- Співпраця підкреслює зростаючу тенденцію до відповідності в сфері криптовалют.
-- Формування альянсів серед відомих компаній може призвести до збільшення довіри до проектів стейблкоїнів.
-- Успішний KRW стейблкоїн може сприяти впровадженню цифрових валют у Південній Кореї.
-- Участь експертів з безпеки та відповідності може встановити прецедент для майбутніх ініціатив стейблкоїнів.
-- Цей крок може стимулювати подальші партнерства та інновації на ринку стейблкоїнів.
+- Формування альянсу GAKS сигналізує про відновлені зусилля щодо розробки відповідних stablecoin на ринку криптовалют.
+- Співпраця з усталеними компаніями може підвищити довіру та безпеку запропонованого KRW stablecoin.
+- Ця ініціатива може вплинути на інші компанії в галузі, щоб вони шукали подібні партнерства для проєктів stablecoin.
+- Успішний запуск KRW stablecoin може потенційно збільшити інтерес та інвестиції на південно-корейському крипторинку.
+- Орієнтація на відповідність може встановити прецедент для майбутніх розробок stablecoin, підкреслюючи важливість дотримання регуляторних норм.
