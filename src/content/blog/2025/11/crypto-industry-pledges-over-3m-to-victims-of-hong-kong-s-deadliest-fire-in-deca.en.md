@@ -1,10 +1,10 @@
 ---
 title: Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades
-description: 'The crypto industry has mobilized to support victims of a catastrophic fire in Hong Kong, which is being described as the city''s deadliest in decades. This tragic event has…'
+description: 'The crypto industry has come together to support the victims of Hong Kong''s deadliest fire in decades, which resulted in the tragic loss of at least 128 lives. This collective…'
 publishedAt: '2025-11-28T11:28:58.000Z'
-updatedAt: '2025-11-28T12:49:57.008Z'
+updatedAt: '2025-11-29T03:14:36.197Z'
 lang: en
-externalId: '55042906'
+externalId: '55076180'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,29 +17,33 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1739971946741-7d54637509df?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMzQwMjd8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1739971946741-7d54637509df?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMzQwMjd8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1739971946741-7d54637509df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMzQwMjd8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1739971946741-7d54637509df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMzQwMjd8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1739971946741-7d54637509df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzMzQwMjd8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1739971946741-7d54637509df'
+  raw: 'https://images.unsplash.com/photo-1673923927302-c4cff7d56c39?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTJ8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1673923927302-c4cff7d56c39?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTJ8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1673923927302-c4cff7d56c39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTJ8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1673923927302-c4cff7d56c39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTJ8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1673923927302-c4cff7d56c39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTJ8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1673923927302-c4cff7d56c39'
 ai:
   rewritten: true
-  expandedAt: '2025-11-28T12:49:57.008Z'
+  expandedAt: '2025-11-29T03:14:36.198Z'
   version: 1
 ---
 ## Overview
 
-The crypto industry has mobilized to support victims of a catastrophic fire in Hong Kong, which is being described as the city's deadliest in decades. This tragic event has resulted in significant loss of life and has prompted a collective response from the crypto community.
+The crypto industry has come together to support the victims of Hong Kong's deadliest fire in decades, which resulted in the tragic loss of at least 128 lives. This collective effort has seen pledges exceeding $3 million aimed at aiding those affected by the disaster.
 
 ## What Happened
 
-Recently, Hong Kong experienced its most devastating fire in 80 years, leading to the loss of at least 128 lives. In light of this tragedy, members of the crypto industry have stepped forward to provide assistance, pledging over $3 million to support those affected by the disaster. This swift response highlights the community's commitment to social responsibility and humanitarian aid in times of crisis.
+A catastrophic fire in Hong Kong has been reported as the most devastating in the city for 80 years, leading to significant casualties. In response to this tragedy, various stakeholders within the crypto sector have mobilized quickly to provide financial assistance to the victims and their families. The pledges made by the industry highlight a commitment to community support during times of crisis.
+
+## Importance of the Response
+
+The swift action taken by the crypto industry underscores its potential to engage in humanitarian efforts. The financial contributions aim not only to alleviate immediate suffering but also to demonstrate the sector's ability to respond to societal needs. Such initiatives can enhance the public perception of cryptocurrency as a tool for positive change.
 
 ## Impact on the crypto market
 
-- The pledges from the crypto industry demonstrate a strong sense of community and solidarity in the face of tragedy.
-- This initiative may enhance the public perception of the crypto sector as a socially responsible entity.
-- The financial support could aid in the recovery efforts for the victims and their families.
-- Such actions may influence future charitable efforts within the crypto space.
-- The response could potentially attract positive media attention for the industry.
+- The pledges signify a growing trend of corporate responsibility within the crypto industry.
+- Increased visibility for cryptocurrency as a means of support during crises may enhance its reputation.
+- This response could encourage other sectors to follow suit in times of tragedy.
+- The collective action may foster a sense of community and solidarity among crypto stakeholders.
+- Overall, the industry’s engagement in philanthropic efforts could influence public sentiment towards cryptocurrencies positively.

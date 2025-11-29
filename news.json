@@ -1,75 +1,5 @@
 [
   {
-    "id": 55020472,
-    "published": 1764298846000,
-    "title": "Bitcoin Could Be At Risk Of A Deeper Bear If This Ratio Compresses, Says Glassnode",
-    "body": "On-chain analytics firm Glassnode has revealed in a report how long-term Bitcoin liquidity has witnessed a sharp decline alongside the market downturn. Bitcoin Long-Term Holder Liquidity Ratio Has Plunged Recently In its latest weekly report, Glassnode has talked about how liquidity in the Bitcoin market has changed following the recent downturn. Glassnode has gauged the “liquidity” using the Realized Profit/Loss Ratio, an on-chain metric that measures the ratio between the profit and loss that BTC investors are realizing through their transactions. Related Reading: Bitcoin’s New ‘Line In The Sand’ May Be $82,000, Not $56,000: Analyst Current demand momentum can be tracked using a version of this indicator that specifically tracks the profitability of the short-term holders (STHs), investors who purchased their coins within the past 155 days. As the below chart shows, the STH Realized Profit/Loss Ratio was at relatively high levels earlier, but since early October, its value has plummeted. With a value of just 0.07, the indicator is now sitting deep inside the loss region, a sign that the recent Bitcoin buyers have overwhelmingly been capitulating at a loss. “Such overwhelming loss dominance confirms that liquidity has evaporated, especially after the heavy demand absorption seen in Q2–Q3 2025 as long-term holders increased their spending,” explained the analytics firm. The metric fell to similar lows back in Q1 2022, but so far, market weakness hasn’t been as prolonged. The report noted that if the ratio continues to be depressed, market conditions could mirror those from back then. While short-term demand momentum has collapsed, the same hasn’t been true for long-term liquidity, at least not yet. Long-term momentum can be measured using the Realized Profit/Loss Ratio of the long-term holders (LTHs), representing the more resolute section of the market (holding time greater than 155 days). From the above chart, it’s visible that the 7-day exponential moving average (EMA) of the Bitcoin LTH Realized Profit/Loss Ratio has witnessed a sharp decline as BTC has crashed. Despite the drop, however, the metric’s value is still 408, implying LTHs are realizing, on average, a profit that’s 408 times the loss. This means that the long-term liquidity is still healthy compared to Q1 2022, or even the major bottom formations from the current cycle. Glassnode warned, however, “if liquidity continues to fade and this ratio compresses toward 10x or lower, the probability of transitioning into a deeper bear market becomes difficult to ignore.” Related Reading: XRP Rebounds From Channel Bottom, Analyst Says $2.60 Could Be Next It now remains to be seen how the LTH Realized Profit/Loss will change for Bitcoin in the near future, and if liquidity will see a further squeeze. BTC Price At the time of writing, Bitcoin is trading around $90,600, down 1.3% over the past week. Featured image from Dall-E, Glassnode.com, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin bear market|Bitcoin Liquidity|Bitcoin long-term holders|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55020499,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, from DePIN, DeFi to AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55020759,
     "published": 1764299294000,
     "title": "Ethereum Trades Steady at $3K as Market Eyes Imminent Volatility Shift",
@@ -108,29 +38,6 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55020642,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi, and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -289,29 +196,6 @@
         "NAME": "XRP",
         "CATEGORY": "XRP"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55023296,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -1906,144 +1790,6 @@
     ]
   },
   {
-    "id": 55053946,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55053738,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55053592,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55054437,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55054640,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55054505,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55055762,
     "published": 1764349251000,
     "title": "Why XRP Will Not Reach $100 By End Of Year Despite ETF Launch",
@@ -2140,29 +1886,6 @@
         "NAME": "BTC",
         "CATEGORY": "BTC"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55055530,
-    "published": 1764298514000,
-    "title": "Animoca eyes stablecoins, AI, DePIN as it expands focus in 2026: Exec",
-    "body": "Animoca Brands’ Keyvan Peymani says the Web3 gaming company is exploring all segments of the crypto industry, including DePIN, DeFi and AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -5126,6 +4849,237 @@
   },
   {
     "id": 55073236,
+    "published": 1764327179000,
+    "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
+    "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55073530,
+    "published": 1764327179000,
+    "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
+    "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55073778,
+    "published": 1764327179000,
+    "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
+    "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55073958,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55073957,
+    "published": 1764327179000,
+    "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
+    "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55075532,
+    "published": 1764383587000,
+    "title": "Ethereum tripling its gas limit is the ‘floor, we can go higher’ — Sassano",
+    "body": "Ethereum educator Anthony Sassano said Ethereum’s gas limit could climb beyond three times next year, with some developers pushing for a fivefold increase.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55075906,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55075905,
+    "published": 1764327179000,
+    "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
+    "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55076180,
+    "published": 1764329338000,
+    "title": "Crypto industry pledges over $3M to victims of Hong Kong’s deadliest fire in decades",
+    "body": "The crypto industry rushed to the aid of Hong Kong residents who suffered the city’s most devastating fire in 80 years, claiming the lives of at least 128 people.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55076179,
     "published": 1764327179000,
     "title": "Wemade rallies partners for KRW stablecoin push after years of setbacks",
     "body": "Wemade’s new GAKS alliance brings Chainalysis, CertiK and SentBe together to support a compliant KRW stablecoin mainnet after multiple setbacks.",

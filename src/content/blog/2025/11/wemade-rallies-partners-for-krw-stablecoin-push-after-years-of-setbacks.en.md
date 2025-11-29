@@ -1,10 +1,10 @@
 ---
 title: Wemade rallies partners for KRW stablecoin push after years of setbacks
-description: 'Wemade has formed a new alliance called GAKS, which includes partners such as Chainalysis, CertiK, and SentBe. This initiative aims to support the development of a compliant KRW…'
+description: 'Wemade has formed a new alliance called GAKS, which includes partners such as Chainalysis, CertiK, and SentBe. This coalition aims to support the development of a compliant KRW…'
 publishedAt: '2025-11-28T10:52:59.000Z'
-updatedAt: '2025-11-29T01:46:30.969Z'
+updatedAt: '2025-11-29T03:15:19.717Z'
 lang: en
-externalId: '55073236'
+externalId: '55076179'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -17,31 +17,33 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1643962579757-4afc3de6aa8c?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODA3NTF8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1643962579757-4afc3de6aa8c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODA3NTF8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1643962579757-4afc3de6aa8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODA3NTF8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1643962579757-4afc3de6aa8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODA3NTF8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1643962579757-4afc3de6aa8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODA3NTF8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1643962579757-4afc3de6aa8c'
+  raw: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzODYwNTN8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1704969724140-0a7a390dba73'
 ai:
   rewritten: true
-  expandedAt: '2025-11-29T01:46:30.969Z'
+  expandedAt: '2025-11-29T03:15:19.717Z'
   version: 1
 ---
 ## Overview
 
-Wemade has formed a new alliance called GAKS, which includes partners such as Chainalysis, CertiK, and SentBe. This initiative aims to support the development of a compliant KRW stablecoin mainnet following a series of setbacks.
+Wemade has formed a new alliance called GAKS, which includes partners such as Chainalysis, CertiK, and SentBe. This coalition aims to support the development of a compliant KRW stablecoin mainnet after facing various setbacks in the past.
 
 ## What Happened
 
-Wemade's GAKS alliance is a strategic collaboration that seeks to advance the creation of a KRW stablecoin. The alliance consists of notable partners, including Chainalysis, a firm known for blockchain analysis; CertiK, recognized for its security auditing services; and SentBe, which specializes in cross-border remittances. This partnership signifies a concerted effort to address previous challenges faced in the stablecoin project.
+Wemade’s GAKS alliance represents a strategic collaboration designed to advance the creation of a KRW stablecoin. The inclusion of established partners like Chainalysis, CertiK, and SentBe indicates a strong focus on compliance and security in the stablecoin's development. This initiative comes after a series of challenges that have impeded progress in the stablecoin sector.
 
-The formation of the GAKS alliance is a pivotal move for Wemade as it looks to navigate the complexities of compliance and security in the crypto space. By bringing together expertise from various sectors, the alliance aims to create a stablecoin that adheres to regulatory standards and can gain wider acceptance in the market.
+## Importance of the GAKS Alliance
+
+The formation of the GAKS alliance signifies an effort to overcome previous hurdles that have affected the launch and acceptance of KRW stablecoins. By partnering with firms known for their expertise in blockchain compliance and security, Wemade is positioning itself to address regulatory concerns and enhance the overall credibility of the stablecoin project.
 
 ## Impact on the crypto market
 
-- The formation of the GAKS alliance highlights a growing trend of collaboration among blockchain companies to tackle regulatory challenges.
-- The focus on compliance may encourage more traditional financial institutions to engage with cryptocurrency projects.
-- The partnership between established firms could enhance the credibility and trustworthiness of the KRW stablecoin.
-- A successful launch of the stablecoin may influence the overall landscape of stablecoins in the market.
-- The initiative reflects an ongoing commitment to innovation within the cryptocurrency sector despite previous setbacks.
+- The collaboration highlights a growing trend towards compliance in the cryptocurrency space.
+- The formation of alliances among established firms may lead to increased trust in stablecoin projects.
+- A successful KRW stablecoin could enhance the adoption of digital currencies in South Korea.
+- The involvement of security and compliance experts may set a precedent for future stablecoin initiatives.
+- This move could stimulate further partnerships and innovations in the stablecoin market.
