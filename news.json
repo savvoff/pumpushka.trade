@@ -1,40 +1,5 @@
 [
   {
-    "id": 55113626,
-    "published": 1764449365000,
-    "title": "Bitcoin ETFs Are Now BlackRock’s Top Revenue Source, Exec Says",
-    "body": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|BlackRock|Bitcoin ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55115958,
     "published": 1764453627000,
     "title": "Analyst Sets Bitcoin Next Target At $95k-$96k – Here’s Why",
@@ -547,6 +512,100 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55164254,
+    "published": 1764531052000,
+    "title": "BlackRock Exec Says Bitcoin ETFs Becoming A Major Revenue Source Was A ‘Big Surprise’",
+    "body": "Spot Bitcoin ETFs (exchange-traded funds) are one of the biggest narratives and have been a game-changer in the cryptocurrency space in the past two years. With these investment products, people get to participate in the cryptocurrency market without having to directly own the digital assets. Interestingly, one of the biggest winners—that often gets overlooked—has been the issuers, especially as the crypto industry has seen increased institutional adoption since the Bitcoin ETFs launched. According to the firm’s executive, the BTC exchange-traded funds becoming the major source of revenue for BlackRock, the world’s largest asset manager, was not envisioned. BlackRock’s Bitcoin Funds Outweighing Expectations At the Blockchain Conference 2025 in São Paulo on Friday, November 28, BlackRock’s business development director in Brazil, Cristiano Castro, told reporters that the Bitcoin ETFs are the largest revenue source for their company. According to the executive, this development came as a “big surprise” to the asset management firm. Related Reading: Fed To End QT In December: Will Bitcoin Mirror The Massive Price Crash From Last Time? Castro said in a statement: We were very optimistic when we launched, but we didn’t believe it would reach such proportions. Just to give you an idea, it [IBIT in the US and IBIT39 in Brazil – the asset’s reference names] came very close to US$100 billion [in allocation]. This feat is notable for the Bitcoin ETFs, especially considering that BlackRock offers more than 1,400 exchange-traded products globally and has a whopping $13.4 trillion in assets under management. The US-based Bitcoin fund (with the IBIT ticker) has over $70.7 billion in net assets, becoming the first ETF to reach the $70-billion mark (doing so in June 2025). While the US Bitcoin ETF market has somewhat slowed down, BlackRock’s IBIT still continues to outpace other ETFs launched in recent years. As earlier reports suggested, IBIT had managed to generate roughly $245 million in annual fees as of October 2025. Bitcoin ETF Outflows ‘Perfectly Normal’ – Castro When asked about the recent outflows from BlackRock’s Bitcoin ETF as the market leader’s value fell, the director stated that there are zero surprises in that trend. “ETFs are very liquid and powerful instruments, and they serve precisely to allow people to allocate their capital and manage their cash flow,” Castro noted. The BlackRock director said that the withdrawals are expected, considering that the product is heavily owned by retail investors, who are reactionary in nature to price corrections. On Friday, the iShares Bitcoin Trust saw a net outflow of $113.72 million, bringing the weekly record to a negative $137.01 million and the fund to its fifth-consecutive week of withdrawals. Related Reading: The Bitcoin Price Crash To $41,000: There’s A Shark In The Water Featured image from Getty Images, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin ETFs|bitcoin price|BlackRock|btc|IBIT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55165823,
+    "published": 1764533391000,
+    "title": "Tether CEO slams S&P ratings agency and Influencers spreading USDt FUD",
+    "body": "The comments followed S&P's downgrade of USDt's ability to maintain its peg, which cited Tether's Bitcoin and gold reserves as a concern.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
