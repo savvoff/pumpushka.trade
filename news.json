@@ -1,34 +1,5 @@
 [
   {
-    "id": 55075532,
-    "published": 1764383587000,
-    "title": "Ethereum tripling its gas limit is the ‘floor, we can go higher’ — Sassano",
-    "body": "Ethereum educator Anthony Sassano said Ethereum’s gas limit could climb beyond three times next year, with some developers pushing for a fivefold increase.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55080645,
     "published": 1764393547000,
     "title": "Crypto sentiment exits ‘extreme fear’ after 18-day stretch",
@@ -638,6 +609,47 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55123608,
+    "published": 1764467630000,
+    "title": "Nasdaq crypto chief pledges to ‘move as fast as we can’ on tokenized stocks",
+    "body": "Nasdaq’s head of digital assets strategy, Matt Savarese, said the stock exchange is ready to answer any questions the SEC may have for its proposal for tokenized stocks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
