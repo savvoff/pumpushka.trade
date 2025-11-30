@@ -1,52 +1,5 @@
 [
   {
-    "id": 55115958,
-    "published": 1764453627000,
-    "title": "Analyst Sets Bitcoin Next Target At $95k-$96k – Here’s Why",
-    "body": "The Bitcoin market experienced a moderate price rebound over the past week, following a prolonged period of price correction that began in early October. The flagship cryptocurrency is now trading above $90,000, with hopes building for a potential push back toward its all-time high of $126,100. Notably, popular market analyst KillaXBT has flagged a key price zone that could serve as the next target in this relieving market recovery. Related Reading: Bitcoin Must Break Key Supply Clusters To Regain ATH Momentum – Watch These Levels Bitcoin Headed To $95k-$96k, But Price Pullback May Occur First – Analyst In an X post on November 28, KillaXBT shares some compelling insights on Bitcoin’s price condition, highlighting both bullish and bearish tendencies. Following the asset’s gain of 7.22% in the past week, the analyst predicts that market bulls are likely to drive prices to around $95,000-$96,000, which contains strong, heavy illiquidity pockets and several liquidation clusters. For context, these zones are attractive to price because they contain large concentrations of resting orders, making them high-value liquidity targets. Liquidation clusters, in particular, hold groups of leveraged positions that trigger forced buying or selling once the price reaches them, injecting fresh liquidity into the market. However, KillaXBT cautions that this upside move may not occur immediately, noting that the market often delays sweeping major liquidity zones ahead of key macro events. With the upcoming Federal Open Market Committee (FOMC) meeting expected to deliver clarity on potential rate cuts, traders may see continued liquidity building below the yearly open in the near term. According to the analyst, these upper liquidation levels are still likely to be cleared, but the timing could align more closely with next month’s policy announcement rather than the current market cycle. The analyst outlines a potential scenario in which Bitcoin experiences a minor pullback to around $93,000 before retesting $89,200. From there, the asset could move toward the $95,000–$96,000 target, in line with expectations for a potential FOMC rate adjustment. However, KillaXBT also highlights the possibility that Bitcoin may reach these key liquidation zones before the FOMC meeting. In such a scenario, the market could see a rapid surge to $96,000, followed by a sharp drop to around $89,200 due to potential liquidations, before eventually returning to these upper liquidity zones. Following this analysis, KillaXBT is opting for a short position, which he intends to reassess in relation to market trends as the FOMC approaches. Interestingly, the analyst believes the real short-term opportunity only comes after the FOMC’s announcement. Related Reading: Bitcoin STH Loss Transfers Fall 80% From Peak – What Comes Next? Bitcoin Price Overview At the time of writing, Bitcoin trades at $90,490, reflecting a slight 0.64% decline in the past day. Featured image from PixelSquid, chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin Liquidity|Bitcoin Target|FOMC Meeting|KillaXBT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55123608,
     "published": 1764467630000,
     "title": "Nasdaq crypto chief pledges to ‘move as fast as we can’ on tokenized stocks",
@@ -606,6 +559,35 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55169066,
+    "published": 1764538853000,
+    "title": "Telegram's Pavel Durov: Cocoon decentralized AI network now live",
+    "body": "The privacy-preserving decentralized AI platform is built on top of The Open Network, and users earn TON for renting out computing power.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 98,
+        "NAME": "TON",
+        "CATEGORY": "TON"
       },
       {
         "TYPE": "122",
