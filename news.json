@@ -1,40 +1,5 @@
 [
   {
-    "id": 55100460,
-    "published": 1764424800000,
-    "title": "‘Privacy Is the Immune System of Freedom’: Crypto Advocacy Sparks Uproar in São Paulo",
-    "body": "An executive at a Brazil-based crypto firm argued that increasing regulation and surveillance are a threat to freedom, and that P2P tech remains a vital line of defense.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Brazil|Privacy|financial privacy|Bitget|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55102592,
     "published": 1764428400000,
     "title": "State of Crypto: Kalshi and Prediction Markets Face a Setback",
@@ -434,6 +399,135 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55097870,
+    "published": 1764508794000,
+    "title": "Bitcoin Braced For A Huge December Fed Game-Changer As $6.6 Trillion Flip Predicted To Trigger Price Shock",
+    "body": "Some of the most bullish bitcoin and crypto speculators have said they expect a December Federal Reserve bombshell to power a bitcoin price boom...",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55151001,
+    "published": 1764504056000,
+    "title": "Bitcoin Miners Face A Harsh December: Rising BTC Difficulty, Falling Hashprice",
+    "body": "According to CoinWarz, the next difficulty adjustment is expected at block 927,360, moving the target from 149 trillion to close to 150 trillion. That is a modest rise, but it matters because Bitcoin miners are already working with very thin margins. Hashpower is strong enough to push difficulty up even while returns stay near record lows. Related Reading: Bitcoin’s November Slump Could Trigger A 2026 Revival, Analysts Say Hashprice Sits Near Break-Even Hashrate Index data shows hashprice is hovering around $38.3 PH/s per day, a touch up from a recent trough below $35 PH/s on November 21. Reports indicate that $40 PH/s is roughly the break-even level for many operations. When revenue per petahash drifts under that mark, some miners face a hard choice as they usher in December: switch off rigs or keep paying to mine. Average block times have been close to the 10-minute goal, with the network recently averaging about 9.97 minutes, which helped trigger the most recent adjustment that dropped difficulty from 152.2 trillion to 149.3 trillion. Hardware, Politics And Supply Risks Reports have disclosed a US Department of Homeland Security probe into Bitmain, the China-based ASIC maker, over concerns its machines could be accessed remotely. Bitmain is reported to control about 80% of the ASIC market, according to the University of Cambridge. That market concentration leaves the industry vulnerable. If US officials impose restrictions, tariffs, or other limits, miners could face higher hardware costs and slower deliveries. Some equipment orders might be delayed or rerouted, and expansion plans would be tested. China Unlikely To End Bitcoin Mining Ban Despite Uptick Meanwhile, overseas, a mild uptick in China’s bitcoin mining has led some scholars to urge Beijing to relax its ban so miners can use excess energy, but experts say a formal reversal is unlikely. Related Reading: 320 Ether On The Move: Bhutan Ramps Up Its Staking Game According to Hashrate Index, China’s share of global hash rate rose from 13.75% in Q1 2025 to 14% in the current quarter, placing it third behind the US and Russia. Historical data from the Cambridge index shows China’s hash rate fell to zero in July 2021 before unofficial activity pushed it back to 22.29% by September 2021; Cambridge stopped updating its mining map in February 2022. Beijing has tightened rules on crypto in recent years, arguing such activity disrupts financial order and can enable illegal behavior. Experts believe those political and policy concerns make an official lift of the mining ban unlikely, despite the recent rise in activity. Featured image from Getty Images, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|btc|btcusd|crypto|hashprice|hashrate|mining China",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55151771,
+    "published": 1764511200000,
+    "title": "Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
+    "body": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum News|Upgrade|Fusaka|layer 2|Fidelity|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
