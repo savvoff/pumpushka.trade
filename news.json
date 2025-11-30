@@ -1,28 +1,5 @@
 [
   {
-    "id": 55102592,
-    "published": 1764428400000,
-    "title": "State of Crypto: Kalshi and Prediction Markets Face a Setback",
-    "body": "The court cases will continue for the moment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Newsletters|State of Crypto|Prediction Markets|Kalshi|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 55105985,
     "published": 1764434527000,
     "title": "Crypto Payments Firm Truther to Launch Non-Custodial USDT Visa Card in El Salvador",
@@ -528,6 +505,41 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55152676,
+    "published": 1764512710000,
+    "title": "'We Wear Your Loathing With Pride': Tether's Downgrade at S&P Sparks Online Battle",
+    "body": "S&P Global last Wednesday slashed its rating on Tether's USDT stablecoin to its weakest score.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Tether|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
