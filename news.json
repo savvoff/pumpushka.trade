@@ -1,40 +1,5 @@
 [
   {
-    "id": 55105985,
-    "published": 1764434527000,
-    "title": "Crypto Payments Firm Truther to Launch Non-Custodial USDT Visa Card in El Salvador",
-    "body": "The card doesn't require preloading funds or custodial services, and carries a 2% fee on currency conversions, with no IOF tax for Brazilian users.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Exclusive|El Salvador|payments|USDT|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55107875,
     "published": 1764438476000,
     "title": "Crypto self-custody is a fundamental right, says SEC's Hester Peirce",
@@ -587,6 +552,53 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55157319,
+    "published": 1764520227000,
+    "title": "Monad Price To Crash 99%? BitMEX Co-Founder Calls Protocol Another Berachain",
+    "body": "The Layer 1 blockchain Monad has grabbed the headlines in the past few days following its successful launch earlier last week. MON, its native token, enjoyed a significant 80% surge on the back of the launch, hitting an all-time high of 0.048 on Wednesday, November 26. While the Monad protocol has enjoyed significant attention since going live, it appears that not everyone is confident in its potential adoption. Most notably, BitMEX co-founder Arthur Hayes has put forward a pessimistic outlook for the project, saying its token value could fall as much as 99%. Monad Has No Real Use Case: Hayes In a YouTube interview with Altcoin Daily, Hayes stated that any other Layer 1 blockchain besides Ethereum and Solana is “zero” and is not going to do very well. Using Monad as an example, the former BitMEX CEO described the protocol’s coin as another “high FDV, low-float” token. Related Reading: Solana Braces For A Dual-Test Setup – Here’s What Could Happen Next Hayes said that Monad is going to be the new “Berachain” and expects its native token’s value to fall by 99% after the initial jump. Berachain, which launched in February 2025, has its native token BERA trading beneath $1, nearly 94% beneath its all-time high of $14.83. As of this writing, the Monad token is valued at around $0.0285, reflecting an over 40% decline since hitting its all-time high on Wednesday. Hayes highlighted that every new project’s token often enjoys an early price spike before facing a deep correction, as there is usually no real use case to back up the initial growth. The crypto founder noted that it is a classic case of FOMO (fear of missing out), especially after the massive success of Ethereum. Hayes said in the interview: Every coin gets their first pump and people want to believe in the new L1. Everybody wants to invest in the new Ethereum like they would have in 2014 when everyone missed it. Me included. But again, that doesn’t mean it [Monad] is going to actually have any real use case. Moving forward, Hayes went on to pick a “magnificent five” of protocols currently in the cryptocurrency space, including Bitcoin, Ethereum, Solana, ZCash, and Ethena. If Not Layer 1s, What Next? It is little surprise that ZCash made it to the BitMEX co-founder’s list of top blockchain protocols. According to Hayes, ZCash and other privacy-focused coins—like Monero—will dominate the crypto narrative even more in the coming year. Related Reading: Ethereum Fusaka Will Be ‘The Most Bullish Upgrade’ Ever, Pundit Claims Additionally, Hayes mentioned that Zero Knowledge (ZK) proofs and quantum resistance are other crypto narratives to watch out for in 2026. Specifically, the crypto founder noted that the next winner in the crypto market over the next one to two years would come from the ZK space. Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|Arthur Hayes|Berachain|MON|Monad|Monad price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
