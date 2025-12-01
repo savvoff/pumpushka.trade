@@ -1129,5 +1129,163 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55192977,
+    "published": 1764574182000,
+    "title": "HashKey Leads Hong Kong’s Crypto Market as Losses Deepen Ahead of IPO",
+    "body": "Ultra-low fees kept monetization in the basis-point range, leaving revenue unable to offset steep losses despite surging Hong Kong trading volumes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|hashkey|Hong Kong|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55194707,
+    "published": 1764576368000,
+    "title": "Bitcoin price slides to $85K: How low can BTC go in December?",
+    "body": "Bitcoin opened the week in the red as fears of a Bank of Japan rate hike triggered a yen carry trade unwind, potentially risking a drop in BTC price to $67,000.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55195676,
+    "published": 1764577827000,
+    "title": "XRP Hit By Violent 59% Leverage Flush As Speculators Slam The Brakes",
+    "body": "XRP’s derivatives market has undergone a marked regime shift, with leverage collapsing and funding normalising in a way that signals a clear retreat from aggressive speculative positioning. The strongest evidence comes from Glassnode’s latest post on November 30, which frames the current phase as a structural, not merely tactical, pause in XRP leverage. XRP Derivatives Unwind Accelerates “XRP’s futures OI has fallen from 1.7B XRP in early October to 0.7B XRP (~59% flush-out). Paired with the funding rate dropping from ~0.01% to 0.001% (7D-SMA), 10/10 marked a structural pause in XRP speculators’ appetite to bet aggressively on upside,” Glassnode’s CryptoVizArt wrote on X. Open interest at 1.7 billion XRP in early October reflected a heavily leveraged market, with large notional positions stacked in futures and perpetuals. The subsequent collapse to 0.7 billion XRP implies that around one billion XRP of derivatives exposure has been closed, liquidated, or otherwise unwound. Such a reduction is not just a marginal trimming of risk; it is a wholesale deleveraging that strips out a large part of the speculative layer sitting on top of the spot market. Related Reading: XRP Flashes ‘Classic Accumulation Sign’ — Major Breakout Soon? The funding-rate move is equally telling. A 7-day SMA around 0.01% had previously indicated a consistent long bias, with traders willing to pay a recurring fee to maintain leveraged upside exposure. The compression to roughly 0.001% pushes funding close to neutral. In perpetual futures, that transition typically occurs when demand for leveraged longs fades and the market no longer tolerates a meaningful premium to hold long positions. Glassnode’s description of October 10 crash as the point that “marked a structural pause” captures this shift in regime: the market moved from persistent long crowding to a far more cautious, balanced stance. The November 30 post sits on top of a broader context Glassnode has been documenting through November. Related Reading: Analyst Teases $7.50 XRP Moonshot But Only After A Final Flush In November 8, the firm highlighted how profit taking has behaved during the recent drawdown: “Unlike previous profit realization waves that aligned with rallies, since late September, as XRP fell from $3.09 (~25%) to $2.30, profit realization volume (7D-SMA) surged by ~240%, from $65M/day to $220M/day. This divergence underscores distribution into weakness, not strength.” Rather than de-risking into strength, profitable holders have been realizing gains as price fell, reinforcing the deleveraging signalled by futures data. On November 17, Glassnode turned to supply dynamics, noting that “the share of XRP supply in profit has fallen to 58.5%, the lowest since Nov 2024, when price was $0.53. Today, despite trading ~4× higher ($2.15), 41.5% of supply (~26.5B XRP) sits in loss — a clear sign of a top-heavy and structurally fragile market dominated by late buyers.” Those on-chain figures provide the background to the 30 November derivatives snapshot: a market whose ownership is skewed toward late entrants now sits on substantial unrealized losses, while the leverage that previously amplified upside has been largely flushed. Taken together, Glassnode’s data on futures open interest and funding rates crystallise the current state of XRP: a violent 59% leverage reset, a near-neutral funding regime, and a speculative cohort that has stepped back from paying for upside, all layered on top of a top-heavy holder base. At press time, XRP traded at $2.04. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|glassnode|xrp|xrp news|XRP On-Chain Analysis|XRP On-Chain Data|XRP Price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55195564,
+    "published": 1764577523000,
+    "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
+    "body": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
   }
 ]
