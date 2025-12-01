@@ -1,34 +1,5 @@
 [
   {
-    "id": 55169066,
-    "published": 1764538853000,
-    "title": "Telegram's Pavel Durov: Cocoon decentralized AI network now live",
-    "body": "The privacy-preserving decentralized AI platform is built on top of The Open Network, and users earn TON for renting out computing power.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 98,
-        "NAME": "TON",
-        "CATEGORY": "TON"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55175764,
     "published": 1764550388000,
     "title": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December",
@@ -2654,6 +2625,169 @@
         "NAME": "SOL",
         "CATEGORY": "SOL"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55219160,
+    "published": 1764624756000,
+    "title": "Airwallex Faces China Backdoor Allegations From Prominent VC",
+    "body": "Prominent investor Keith Rabois alleges the fintech unicorn's structure enables Chinese government access to sensitive US financial data.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55219476,
+    "published": 1764625167000,
+    "title": "Kalshi taps Solana to tokenize betting contracts: Report",
+    "body": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55219526,
+    "published": 1764624720000,
+    "title": "Crypto’s Retail Traders Hit Hard as Strategy ETFs Plunge 80%",
+    "body": "Retail investors who piled into Michael Saylor’s grand Bitcoin experiment are paying a heavy price.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "NMS:MSTR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55219580,
+    "published": 1764625772000,
+    "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
+    "body": "Peter Schiff took a victory lap after the company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Strategy|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55220076,
+    "published": 1764626924000,
+    "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
+    "body": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Vanguard|Crypto ETF|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
