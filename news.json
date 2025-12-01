@@ -1,52 +1,5 @@
 [
   {
-    "id": 55157319,
-    "published": 1764520227000,
-    "title": "Monad Price To Crash 99%? BitMEX Co-Founder Calls Protocol Another Berachain",
-    "body": "The Layer 1 blockchain Monad has grabbed the headlines in the past few days following its successful launch earlier last week. MON, its native token, enjoyed a significant 80% surge on the back of the launch, hitting an all-time high of 0.048 on Wednesday, November 26. While the Monad protocol has enjoyed significant attention since going live, it appears that not everyone is confident in its potential adoption. Most notably, BitMEX co-founder Arthur Hayes has put forward a pessimistic outlook for the project, saying its token value could fall as much as 99%. Monad Has No Real Use Case: Hayes In a YouTube interview with Altcoin Daily, Hayes stated that any other Layer 1 blockchain besides Ethereum and Solana is “zero” and is not going to do very well. Using Monad as an example, the former BitMEX CEO described the protocol’s coin as another “high FDV, low-float” token. Related Reading: Solana Braces For A Dual-Test Setup – Here’s What Could Happen Next Hayes said that Monad is going to be the new “Berachain” and expects its native token’s value to fall by 99% after the initial jump. Berachain, which launched in February 2025, has its native token BERA trading beneath $1, nearly 94% beneath its all-time high of $14.83. As of this writing, the Monad token is valued at around $0.0285, reflecting an over 40% decline since hitting its all-time high on Wednesday. Hayes highlighted that every new project’s token often enjoys an early price spike before facing a deep correction, as there is usually no real use case to back up the initial growth. The crypto founder noted that it is a classic case of FOMO (fear of missing out), especially after the massive success of Ethereum. Hayes said in the interview: Every coin gets their first pump and people want to believe in the new L1. Everybody wants to invest in the new Ethereum like they would have in 2014 when everyone missed it. Me included. But again, that doesn’t mean it [Monad] is going to actually have any real use case. Moving forward, Hayes went on to pick a “magnificent five” of protocols currently in the cryptocurrency space, including Bitcoin, Ethereum, Solana, ZCash, and Ethena. If Not Layer 1s, What Next? It is little surprise that ZCash made it to the BitMEX co-founder’s list of top blockchain protocols. According to Hayes, ZCash and other privacy-focused coins—like Monero—will dominate the crypto narrative even more in the coming year. Related Reading: Ethereum Fusaka Will Be ‘The Most Bullish Upgrade’ Ever, Pundit Claims Additionally, Hayes mentioned that Zero Knowledge (ZK) proofs and quantum resistance are other crypto narratives to watch out for in 2026. Specifically, the crypto founder noted that the next winner in the crypto market over the next one to two years would come from the ZK space. Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Arthur Hayes|Berachain|MON|Monad|Monad price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55164254,
     "published": 1764531052000,
     "title": "BlackRock Exec Says Bitcoin ETFs Becoming A Major Revenue Source Was A ‘Big Surprise’",
@@ -2285,6 +2238,211 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55209738,
+    "published": 1764606544000,
+    "title": "ICP Slides as Breakdown Below $4.00 Triggers Elevated Volatility",
+    "body": "Sharp 24-hour decline sends Internet Computer into fresh multi-day lows, with a high-volume support breach defining the session",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 82,
+        "NAME": "ICP",
+        "CATEGORY": "ICP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55209803,
+    "published": 1764606398000,
+    "title": "BONK Slides 9% as Technical Breakdown Overshadows Swiss ETP Debut",
+    "body": "A new ETP listing in Switzerland failed to lift BONK as the memecoin fell to fresh cycle lows amid a sharp technical breach of key support.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 113,
+        "NAME": "BONK",
+        "CATEGORY": "BONK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55210247,
+    "published": 1764607517000,
+    "title": "Bitcoin Mining Profitability Fell for Fourth Consecutive Month in November: JPMorgan",
+    "body": "The average network hashrate fell 1% last month after hitting record highs in October.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|Cipher Mining|JPMorgan|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55210723,
+    "published": 1764608379000,
+    "title": "Chainlink's LINK Slides 11% as Technical Breakdown Overshadows ETF Launch News",
+    "body": "The token broke below $12, breaching key support levels with heavy trading volume, confirming the downtrend.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Chainlink|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55210690,
+    "published": 1764606717000,
+    "title": "Over $650M Liquidated! China confirms Crypto Illegal! Infinex Interview!",
+    "body": "Crypto majors slid sharply, reversing all of last week’s gains, with BTC down 6% to $85,800, ETH down 6% to $2,820, BNB falling 7% to $822, and SOL dropping 7% to $127. Among top movers, MYX (+15%) and JST (+4%) led the market. More than $650 million in positions were liquidated over the past day, including $580 million in longs after BTC dipped below $86,000. ZEC suffered the steepest decline among major tokens, falling 20% to $355 and 35% on the week. Meanwhile, Tether founder Paolo Ardoino again addressed the latest wave of Tether FUD, reiterating that the company is not at risk of insolvency. In regulatory developments, China’s central bank reaffirmed that crypto remains illegal and signaled a coming crackdown. Robinhood announced a partnership with Susquehanna to launch a new CFTC-licensed exchange, paving the way for a major expansion into prediction markets. Pavel Durov revealed Cocoon, a new decentralized confidential compute network where GPU operators earn TON rewards. JPMorgan also entered the spotlight with a new structured BTC-linked product that offers investors a minimum 16% yield—up to 50% depending on BTC’s performance—with downside protection of up to 30%.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
