@@ -2620,5 +2620,46 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55217202,
+    "published": 1764620750000,
+    "title": "Kalshi Launches Tokenized Event Bets on Solana Blockchain: CNBC",
+    "body": "The prediction market is rolling out tokenized contracts on Solana to meet crypto traders where they already are, Kalshi told CNBC.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Kalshi|Prediction Markets|Tokenization|CNBC|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
