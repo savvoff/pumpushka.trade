@@ -1,52 +1,5 @@
 [
   {
-    "id": 55156414,
-    "published": 1764518826000,
-    "title": "Michael Saylor Sunday Change-Up Suggests New Announcement Coming Monday",
-    "body": "The executive chairman of bitcoin treasury firm Strategy teased a switch from orange dots to green dots in what's become his routine cheeky Sunday X post.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|MicroStrategy|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55157319,
     "published": 1764520227000,
     "title": "Monad Price To Crash 99%? BitMEX Co-Founder Calls Protocol Another Berachain",
@@ -1764,6 +1717,568 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207440,
+    "published": 1764601200000,
+    "title": "Eclipse brings Solana's parallel runtime to Ethereum",
+    "body": "Eclipse combines high-throughput execution with Ethereum settlement in a way no other L2 has attempted. Cointelegraph Research breaks down the architecture and the milestones that will define its trajectory.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207340,
+    "published": 1764599455000,
+    "title": "Dogecoin Whale Activity Drops To Deepest Level In Two Months",
+    "body": "Large Dogecoin holders have sharply reduced their on-chain activity, with whale transactions falling to their lowest level in more than two months, according to fresh network data shared by on-chain analyst Ali Martinez. Posting a Santiment chart on X, Martinez stated that “whale activity on the Dogecoin network has dropped to the lowest level in the past two months.” The chart tracks DOGE’s price against the number of transactions larger than $1 million. It shows frequent, tall spikes in high-value transfers in early October 2025, when price was oscillating near the upper end near $0.27. Dogecoin Whales Plummets Sharply On the day of the October 10 crash, the largest peak occurred when more than 280 Dogecoin whales made a transaction. This was followed by a progressive decline through late October and November. By November 29, the whale-transaction bar fell to 3 even as price trades around $0.15. The drop has sparked debate about what it signals for market structure and liquidity. Responding to Martinez, analyst account CryptoGames3D argued that “whale activity dropping on Dogecoin could mean one of two things: either whales are holding tight and waiting, or they’re stepping out of the game; both cases bring risk. With low liquidity from big holders, even modest selling could hit prices hard.” The comment underlines concerns that thinner participation from large entities can make order books more fragile if conditions turn. Related Reading: Can Dogecoin Price Still Reach $10 With The 3rd Wave Deadlock? In a separate post on November 29, Martinez outlined what he called “key levels for Dogecoin DOGE,” citing “support at $0.08” and “resistance at $0.20.” Those levels are mirrored in a Glassnode cost-basis distribution heatmap he shared, which maps DOGE’s price since early 2024 against realized price bands where supply last moved. Related Reading: Dogecoin Coils For A Monster 90% Breakout, Analyst Predicts The heatmap reveals a dense cluster of supply around $0.08. A highlighted range between roughly $0.07999 and $0.08145 contains about 27.37 billion DOGE, marking it as a major realized-price support zone. Higher up, a second but thinner band between approximately $0.20103 and $0.20470 holds around 12.22 billion DOGE, forming a significant resistance cohort. The color scale, running from about 5 million to 31 billion DOGE, emphasizes how pronounced the lower cluster is relative to other price areas. Taken together, the datasets present a tightly framed picture. DOGE is currently trading between a heavy long-term holder cost basis near $0.08 and a resistance pocket around $0.20, while the count of $1 million-plus transfers has compressed to a multi-month low. At press time, DOGE traded at $0.137. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207307,
+    "published": 1764598985000,
+    "title": "Tom Lee's BitMine Acquires 97K ETH, Eyeing Fusaka Upgrade, Fed Policy as Positive Catalysts",
+    "body": "The firm increased the pace of purchases from the previous week despite sitting on large unrealized losses on its ether bet.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Ethereum News|Ethereum Treasury|Digital Asset Treasury|Bitmine|Thomas Lee|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207343,
+    "published": 1764598381000,
+    "title": "Morning Minute: Over $650M Liquidated as BTC Erases Last Week's Gains",
+    "body": "It was a Thanksgiving week of crypto price action to be grateful for—until it wasn't.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207302,
+    "published": 1764597775000,
+    "title": "Strategy Still the Premier Bitcoin Proxy, Benchmark Says, Rejecting ‘Doom’ Narrative",
+    "body": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Strategy|Bitcoin Treasury Reserve Asset|Benchmark|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207438,
+    "published": 1764596700000,
+    "title": "BTC price analysis: Bitcoin could crash another 50%",
+    "body": "Bitcoin’s first monthly MACD rollover this cycle, alongside onchain data, raised the odds of a deeper pullback, as BTC price forecasts now include the mid-$60,000s.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207436,
+    "published": 1764596476000,
+    "title": "Strategy sets up $1.4B cash reserve, lifts Bitcoin stash to 650,000 BTC",
+    "body": "Strategy funded a new reserve from stock sales to cover at least 12 months of dividends as it boosts its Bitcoin stash to 650,000 coins amid market volatility.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207297,
+    "published": 1764596228000,
+    "title": "Polkadot Plunges 11% Breaking Below $2.05 Support Level Amid Broader Selloff",
+    "body": "DOT collapsed to $2.02 as technical breakdown accelerated on massive volume, exposing the psychological $2.00 level.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 21,
+        "NAME": "DOT",
+        "CATEGORY": "DOT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207335,
+    "published": 1764595842000,
+    "title": "Yearn Finance Suffers $9M Breach As Attacker Creates Endless yETH Tokens",
+    "body": "Yearn Finance reported that a legacy yETH product was hit by an exploit that allowed an attacker to mint a massive amount of fake tokens and swap them for real assets. Related Reading: Bitcoin Miners Face A Harsh December: Rising BTC Difficulty, Falling Hashprice According to on-chain alerts and protocol statements, the attacker created a near-infinite supply of yETH in a single transaction, then used those tokens to pull ETH and liquid-staking derivatives from liquidity pools. The incident was first flagged on November 30, 2025, and the total impact has been reported at roughly $9 million. #PeckShieldAlert Yearn Finance @yearnfi suffered an attack resulting in a total loss of ~$9M. The exploit involved minting a near-infinite number of yETH tokens, depleting the pool in a single transaction. ~1K $ETH (worth ~$3M) was sent to #TornadoCash, while the exploiter’s… pic.twitter.com/IXNygpwoWa — PeckShieldAlert (@PeckShieldAlert) December 1, 2025 How The Exploit Worked Based on reports, the attacker took advantage of a flaw in the yETH minting logic and produced tokens on the order of 235 trillion in one go. Those worthless tokens were then swapped for real assets from Balancer and Curve pools tied to the product, emptying liquidity in minutes. Chain monitors and security researchers showed the mint and subsequent swaps unfolding very quickly on the blockchain. At 21:11 UTC on Nov 30, an incident occurred involving the yETH stableswap pool that resulted in the minting of a large amount of yETH. The contract impacted is a custom version of popular stableswap code, unrelated to other Yearn products. Yearn V2/V3 vaults are not at risk. — yearn (@yearnfi) December 1, 2025 What Assets Were Taken Reports have disclosed that roughly $8 million was pulled from the main yETH stable-swap pool, while about $0.9 million was taken from a yETH–WETH pool. In addition, roughly 1,000 ETH—valued at about $3 million at the time of movement—was sent to Tornado Cash in attempts to obscure the trail. The attacker converted fake yETH into a mix of ETH and liquid staking tokens before attempting to launder funds. Impact On Yearn’s Core Products According to Yearn officials and follow-up coverage, the breach was limited to an older, legacy implementation of the yETH product and did not affect Yearn’s main V2 and V3 vaults. Deposits into the affected pool were isolated while the team and outside experts began an investigation. This isolation is said to have kept the bulk of user funds in active vaults from being touched. Market Reaction And Wider Concerns Crypto markets saw selling pressure as the news spread, with traders weighing the risk that comes from combining liquid staking tokens with custom swap code. Related Reading: Bitcoin Sentiment Sparks CZ Comment: Sell Greed, Buy Fear Yearn Finance said it is working with outside security teams to run a post-mortem and to patch the vulnerability. Based on reports, teams named in coverage include external auditors and blockchain investigators who are tracking the stolen funds and advising on recovery options. The protocol’s notice warned users about the affected legacy product and urged caution while the review continues. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|bitcoin|crypto|crypto hack|yearn finance|yETH",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 60,
+        "NAME": "YFI",
+        "CATEGORY": "YFI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55207295,
+    "published": 1764582038000,
+    "title": "Ripple Can Now Offer Wider XRP, RLUSD Services After Singapore Regulator Approval",
+    "body": "The permissions give Ripple more bandwidth to offer token-based settlement and related payment services to banks, fintechs and crypto firms operating in the city-state.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Ripple|Singapore|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55208098,
+    "published": 1764603449000,
+    "title": "European Authorities Seize $1.51B Bitcoin-Mixing Service Cryptomixer",
+    "body": "Europol dismantled a crypto-mixing platform it said is used by ransomware groups and darknet markets to launder bitcoin, seizing servers, data and $29 million in BTC.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Crypto Mixer|Europol|Crime|mixing services|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55208751,
+    "published": 1764604847000,
+    "title": "Here’s Why The Bitcoin Price Is Crashing Today",
+    "body": "Crypto analysts Nik and Doctor Profit have provided insights into why the Bitcoin price is crashing today. The flagship crypto has again dropped below the psychological $90,000 level, sparking bearish sentiments among market participants. Why The Bitcoin Price Is Crashing Today In an X post, Nik remarked that the Bitcoin price didn’t dump because of bad news but because the “clock flipped.” He noted that a large number of algos sold off at the same time with the daily close, and also considering that it is a new week and a new month. The analyst added that it is not traders making decisions but portfolios rebalancing in real time. Related Reading: Finance Expert Says Bitcoin Price Growth Is In ‘Google 2017’ Phase, What This Means Nik explained that with this Bitcoin price crash, inventories have adjusted, hedges have reset, and risk has been flushed from the market. He noted that the candles may look emotional, but that the behavior is mechanical. The analyst also indicated that retail investors may have also dumped their coins out of panic. Nik stated that time-based algos usually ignite the sell-off, and then everyone is forced to react to their flow. He added that the effect was strong enough today to shake the Bitcoin price, with the crash dragging the broader crypto market along. BTC dropped below $90,000 today, after recovering to $92,000 last week. Meanwhile, Nik stated that most people usually miss the signs of a potential Bitcoin price crash because they focus on patterns drawn by humans rather than flows controlled by machines. He added that the market doesn’t only react to price but also to time. Not Yet Enough Liquidity For A Major Crash In an X post, crypto analyst Doctor Profit said that there isn’t enough downside liquidity yet to trigger a major Bitcoin price crash. This is why he expects a sideways range between the current price and the EMA50, around $100,000, in the coming days or weeks. The analyst noted that the two largest liquidity clusters in the short term are at the $97,000 and $107,000 regions. Related Reading: Analyst Who Predicted Bitcoin Price Action With Chinese Astrology Shares When Prices Will Surge However, Doctor Profit remains bearish in the long term. He declared that a major move down is planned, but that the script must be followed and that the required liquidity is not yet in place. The analyst told market participants to expect a boring sideways phase with confirmed targets of between $70,000 and $75,000 by the start of 2026. Doctor Profit reiterated that such moves to the downside for the Bitcoin price take time. He explained that the crash could unfold as a strong drop, followed by a long sideways consolidation, then a fake relief rally, and then the continuation of lower lows. At the time of writing, the Bitcoin price is trading at around $85,800, down over 5% in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|algo|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|Doctor Profit|EMA|Nik",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55208644,
+    "published": 1764604606000,
+    "title": "China Eyes Fresh Crackdown on Crypto Amid Resurgence in Speculative Trading",
+    "body": "Authorities warn that crypto activity remains illegal and poses renewed risks despite years of enforcement.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55209245,
+    "published": 1764605779000,
+    "title": "Strategy launches $1.4bn dollar reserve to fund dividends as bitcoin sinks",
+    "body": "Shares tumble more than 11% as group warns of net loss of up to $5.5bn if price of cryptocurrency does not rebound",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       },
       {
         "TYPE": "122",
