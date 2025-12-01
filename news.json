@@ -1,46 +1,5 @@
 [
   {
-    "id": 55123608,
-    "published": 1764467630000,
-    "title": "Nasdaq crypto chief pledges to ‘move as fast as we can’ on tokenized stocks",
-    "body": "Nasdaq’s head of digital assets strategy, Matt Savarese, said the stock exchange is ready to answer any questions the SEC may have for its proposal for tokenized stocks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55131389,
     "published": 1764480541000,
     "title": "ETH may reclaim $3.2K soon, based on low stablecoin yields: Santiment",
@@ -588,6 +547,35 @@
         "ID": 98,
         "NAME": "TON",
         "CATEGORY": "TON"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55175764,
+    "published": 1764550388000,
+    "title": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December",
+    "body": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
