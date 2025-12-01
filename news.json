@@ -47,53 +47,6 @@
     ]
   },
   {
-    "id": 55151001,
-    "published": 1764504056000,
-    "title": "Bitcoin Miners Face A Harsh December: Rising BTC Difficulty, Falling Hashprice",
-    "body": "According to CoinWarz, the next difficulty adjustment is expected at block 927,360, moving the target from 149 trillion to close to 150 trillion. That is a modest rise, but it matters because Bitcoin miners are already working with very thin margins. Hashpower is strong enough to push difficulty up even while returns stay near record lows. Related Reading: Bitcoin’s November Slump Could Trigger A 2026 Revival, Analysts Say Hashprice Sits Near Break-Even Hashrate Index data shows hashprice is hovering around $38.3 PH/s per day, a touch up from a recent trough below $35 PH/s on November 21. Reports indicate that $40 PH/s is roughly the break-even level for many operations. When revenue per petahash drifts under that mark, some miners face a hard choice as they usher in December: switch off rigs or keep paying to mine. Average block times have been close to the 10-minute goal, with the network recently averaging about 9.97 minutes, which helped trigger the most recent adjustment that dropped difficulty from 152.2 trillion to 149.3 trillion. Hardware, Politics And Supply Risks Reports have disclosed a US Department of Homeland Security probe into Bitmain, the China-based ASIC maker, over concerns its machines could be accessed remotely. Bitmain is reported to control about 80% of the ASIC market, according to the University of Cambridge. That market concentration leaves the industry vulnerable. If US officials impose restrictions, tariffs, or other limits, miners could face higher hardware costs and slower deliveries. Some equipment orders might be delayed or rerouted, and expansion plans would be tested. China Unlikely To End Bitcoin Mining Ban Despite Uptick Meanwhile, overseas, a mild uptick in China’s bitcoin mining has led some scholars to urge Beijing to relax its ban so miners can use excess energy, but experts say a formal reversal is unlikely. Related Reading: 320 Ether On The Move: Bhutan Ramps Up Its Staking Game According to Hashrate Index, China’s share of global hash rate rose from 13.75% in Q1 2025 to 14% in the current quarter, placing it third behind the US and Russia. Historical data from the Cambridge index shows China’s hash rate fell to zero in July 2021 before unofficial activity pushed it back to 22.29% by September 2021; Cambridge stopped updating its mining map in February 2022. Beijing has tightened rules on crypto in recent years, arguing such activity disrupts financial order and can enable illegal behavior. Experts believe those political and policy concerns make an official lift of the mining ban unlikely, despite the recent rise in activity. Featured image from Getty Images, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|btc|btcusd|crypto|hashprice|hashrate|mining China",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55151771,
     "published": 1764511200000,
     "title": "Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
@@ -1630,6 +1583,199 @@
         "ID": 57,
         "NAME": "XMR",
         "CATEGORY": "XMR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55203186,
+    "published": 1764588628000,
+    "title": "Israel’s Central Bank Signals Improved Stablecoin Oversight as Digital Shekel Plans Advance",
+    "body": "Bank of Israel Governor Amir Yaron said stablecoins can no longer be viewed as marginal, citing their trillion-dollar trading volumes and growing systemic risks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Israel|Central Bank|CBDC|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55204330,
+    "published": 1764590449000,
+    "title": "Strategy’s Green Dots Suggest Flexibility, Fueling Interest in $HYPER Presale",
+    "body": "What to Know: Strategy’s willingness to keep Bitcoin sales ‘on the table’ reflects a broader shift toward tactical, actively managed $BTC exposure without abandoning long-term conviction. As Bitcoin’s base layer remains constrained by low throughput and high, cyclical fees, traders increasingly look to Layer 2 infrastructure as leveraged expressions of $BTC upside. Bitcoin Hyper targets Bitcoin’s speed and programmability gap with an SVM-powered Layer 2 that aims for Solana-level performance while settling to Bitcoin. When you see a long-term Bitcoin accumulator suddenly flashing ‘green dots’ instead of just quietly stacking sats, you aren’t just watching a trade, you’re watching a shift in conviction. Many saw the green dots as a sign for more Bitcoin purchases, while others saw it as buybacks or a restructuring of assets. The willingness of major players like Strategy to keep potential $BTC sales on the table signals a massive evolution in the market. Even the loudest ‘HODL forever’ thesis is now being wrapped in active risk management. For you as a trader or allocator, that nuance changes everything. If the most visible corporate-style HODLers are comfortable dialing risk up and down around a core $BTC position, it legitimizes a more tactical approach for the rest of us. It’s no longer a binary choice between ‘all spot, all the time’ or exiting to fiat. Instead, we are seeing sophisticated traders keeping their ‘hard money’ core while rotating a slice of their stack into high-beta ecosystem plays. Why? Because everyone agrees on one thing: Bitcoin’s base layer is incredible for settlement, but it is too slow (~7 TPS) and too rigid for modern apps. The market is realizing that infrastructure, scaling, and programmability layers could outgrow $BTC itself on a percentage basis in a bull cycle. Just as we saw with Ethereum’s modular stack, the real leverage often lies in the layers built on top of the base asset. This is why tactical Bitcoin exposure is drifting toward Layer-2s. Traders are looking for leveraged expressions of Bitcoin’s strength without leaving the ecosystem, hunting for the infrastructure that finally unlocks $BTC for DeFi and gaming. And this is where Bitcoin Hyper ($HYPER) enters the fold. Bitcoin Hyper: The ‘Best of Both Worlds’ Engine If you believe Bitcoin will remain the king of settlement but acknowledge it can’t host high-speed gaming or complex DeFi, then you need a high-performance execution layer. Bitcoin Hyper ($HYPER) is designed to be exactly that. It creates a fusion that combines Bitcoin’s massive liquidity and security with a real-time Solana Virtual Machine (SVM) Layer-2 for execution. By integrating the SVM, Bitcoin Hyper isn’t just trying to be faster; it’s aiming for sub-second confirmations and throughput in the thousands of transactions per second. It leans into Solana-style performance while settling back to Bitcoin. This directly solves the biggest headaches we all face with $BTC: agonizingly slow block times and fees that spike when the mempool gets clogged. Crucially, this system relies on a Canonical Bridge . This decentralized bridge is the vital link that handles $BTC transfers into the ecosystem, ensuring that assets move securely between the mainnet and the Layer 2. It positions the network not as a competitor trying to kill Bitcoin, but as a modular extension that finally makes your $BTC usable for high-speed swaps, lending, and staking. For full details, check out our ‘ What is Bitcoin Hyper ’ guide. The Financial Upside: Whales and ROI Potential For traders who are reading the market’s ‘green dots’ as a sign to be nimble, the financial setup for $HYPER is looking increasingly attractive. Smart money is already making significant moves to secure its position before the public catches on. We aren’t talking about small change here; we are seeing massive whale conviction. In the last months, we tracked buy-ins of $500K and $379.9K . When wallets of this size start accumulating a presale token, it’s usually a signal that they see something the retail market hasn’t fully priced in yet. Currently, the token is priced at $0.013355. However, our experts see $HYPER hitting $0.08625 by the end of 2026. If you choose to invest at today’s price, hitting that target would give you an ROI of around 545%. The presale has already raised over $28.8M, and with staking rewards at 40% the incentives are aligned for early adopters. If you want $HYPER, get it soon, as a price increase is coming. Don’t miss your chance to be part of the $HYPER revolution. Remember, this isn’t intended as financial advice, and you should always do your own research before investing. Authored by Aaron Walker, NewsBTC — https://www.newsbtc.com/news/strategy-green-bitcoin-dots-fuel-interest-bitcoin-hyper",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55204242,
+    "published": 1764590307000,
+    "title": "Sony Bank Could Issue USD Stablecoin in U.S. Next Year: Nikkei",
+    "body": "The online banking arm of Sony Financial Group envisages the stablecoin being used to pay for games and anime.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Sony|Stablecoin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55204772,
+    "published": 1764590393000,
+    "title": "Bitcoin’s BOJ Stumble Shows Dovish Fed Isn’t Enough for Crypto",
+    "body": "Bitcoin’s sudden drop on Monday was a fresh reminder of how cryptocurrency prices are influenced by an ever-widening array of macroeconomic factors, making it trickier for traders to gauge the market’s direction after the recent selloff.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55205574,
+    "published": 1764592359000,
+    "title": "Crypto Markets Today: Hawkish BOJ Comments Spur Sharp BTC Downturn",
+    "body": "A sharp sell-off following the CME bitcoin futures open, compounded by hawkish signals from the Bank of Japan, dragged the CoinDesk 20 down nearly 6% on Monday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Markets|Derivatives|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
