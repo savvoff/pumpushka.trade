@@ -117,211 +117,6 @@
     ]
   },
   {
-    "id": 55207343,
-    "published": 1764598381000,
-    "title": "Morning Minute: Over $650M Liquidated as BTC Erases Last Week's Gains",
-    "body": "It was a Thanksgiving week of crypto price action to be grateful for—until it wasn't.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207302,
-    "published": 1764597775000,
-    "title": "Strategy Still the Premier Bitcoin Proxy, Benchmark Says, Rejecting ‘Doom’ Narrative",
-    "body": "The broker said fears over Strategy’s solvency are misplaced and the stock remains the strongest asymmetric bet on bitcoin.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Strategy|Bitcoin Treasury Reserve Asset|Benchmark|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207438,
-    "published": 1764596700000,
-    "title": "BTC price analysis: Bitcoin could crash another 50%",
-    "body": "Bitcoin’s first monthly MACD rollover this cycle, alongside onchain data, raised the odds of a deeper pullback, as BTC price forecasts now include the mid-$60,000s.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207436,
-    "published": 1764596476000,
-    "title": "Strategy sets up $1.4B cash reserve, lifts Bitcoin stash to 650,000 BTC",
-    "body": "Strategy funded a new reserve from stock sales to cover at least 12 months of dividends as it boosts its Bitcoin stash to 650,000 coins amid market volatility.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207297,
-    "published": 1764596228000,
-    "title": "Polkadot Plunges 11% Breaking Below $2.05 Support Level Amid Broader Selloff",
-    "body": "DOT collapsed to $2.02 as technical breakdown accelerated on massive volume, exposing the psychological $2.00 level.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 21,
-        "NAME": "DOT",
-        "CATEGORY": "DOT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55208098,
     "published": 1764603449000,
     "title": "European Authorities Seize $1.51B Bitcoin-Mixing Service Cryptomixer",
@@ -3186,6 +2981,252 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55252367,
+    "published": 1764625167000,
+    "title": "Kalshi taps Solana to tokenize betting contracts: Report",
+    "body": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55252787,
+    "published": 1764683708000,
+    "title": "XRP Price Prediction: Surge to 1M Payments Fuels Attention on SUBBD Token",
+    "body": "What to Know: Over 1M XRP payments in a single day show how strong on-chain activity can grow even when the token price moves sideways. Markets are shifting toward crypto assets that support clear, repeatable real-world actions – payments, gaming, and creator monetization – instead of pure hype. AI creator platforms keep running into the same problems: huge fees, random bans, clunky tools, and payments that change depending on your passport. SUBBD Token ($SUBBD) mixes Web3 payouts, token-gated content, and AI tools to cut fees for creators and give fans programmable ways to access and support content. More than 1M XRP payments between unique wallets in a single day is the kind of number that slices through all the market noise. Prices can wander. Sentiment can swing like a kid on too much sugar. But real on-chain usage shows where actual product-market fit is forming under the surface. This jump in activity shows something very simple: when a network handles payments at scale without breaking a sweat, people use it. XRP has spent years proving it can move money fast and cheap for cross-border payments, even while its price deals with macro pressure and regulatory drama. And now, the same filter is starting to shape the rest of the crypto market. Capital is moving away from ‘vibes first, utility later’ tokens toward projects with obvious, repeatable on-chain actions. Payments, gaming, real-world assets, and especially creator monetization are where users are actually clicking buttons instead of just tweeting memes. That’s the setup for SUBBD Token ($SUBBD), an AI-powered, Ethereum-based content platform token. As networks like XRP show how to move value at scale, projects like $SUBBD are trying to give that value a destination: tokenized content, AI creators, and programmable fan worlds. Why Payments-Scale Activity Is Repricing Utility Narratives 1M daily XRP payments between unique wallets highlight how fast real demand can settle on a chain once latency, fees, and reliability are solved. For builders, the lesson is almost boring in its simplicity: keep finality close to real-time and fees next to zero, and users will show up, even when the macro backdrop looks gloomy. The same pattern is showing up in the creator economy. Web2 platforms often take 30%-50% of earnings once you add up fees, revenue splits, and the joy of unpredictable algorithms. Creators get reach, but they lose control of their money and sometimes even their accounts. A random ban can shut down income overnight. It’s like building a business on quicksand. AI creator platforms are rising to fight this. Some Web3 projects offer token-gated content and NFT drops. Pure AI startups deliver fancy creation tools but keep payments centralized. The SUBBD platform aims to be the middle option: a hybrid that believes creator earnings, AI productivity, and on-chain payments belong together, not scattered across five apps and two spreadsheets. How SUBBD Token ($SUBBD) Turns AI, Web3 and Fans Into One Revenue Engine Most platforms tape crypto or AI on top like an afterthought, but the SUBBD Token ($SUBBD) sits at the center of everything this platform does. SUBBD is a new crypto project designed in a way that AI tools, creator features, and on-chain payouts all flow through the token instead of being bolted on later. On the infrastructure side, the SUBBD platform uses Ethereum-compatible smart contracts that power tokenized access, staking, and governance. On the AI side, creators get tools for content generation, chatbots, voice cloning, and object recognition, which help them work faster without losing their minds. The main problem $SUBBD tackles is simple and painful: creators losing up to 70% of their income to platforms, payment processors, and every middleman who wants a slice. Add the constant fear of bans or demonetization, and the whole thing becomes a stressful business model. SUBBD solves this by routing earnings through the $SUBBD token, giving creators crypto payouts, global reach without banking friction, and token-gated exclusives they fully control. Experience is where SUBBD tries to stand out. The AI Personal Assistant handles automated DMs, fan chats, and custom replies. AI voice cloning and AI influencer creation let creators experiment with new personas and new languages without hiring extra help. Fans, meanwhile, receive subscriptions, access to exclusive content, pay-per-view drops, NFT sales, tipping, and even AI-only experiences in one place. In other words, it’s a win-win for both creators and their fans. Why $SUBBD Matters Right Now The SUBBD Token ($SUBBD) design tries to keep users engaged. The presale has already raised $1.3M+, which signals early demand for a creator-focused token instead of just another meme coin. Right now, you can buy $SUBBD for just $0.0571. ➡️ Check out our guide to buying $SUBBD if you plan to join the presale. A fixed 20% APY staking rate in year one rewards early holders with exclusive livestreams, in-house content, daily behind-the-scenes drops, and XP boosts for future perks. To explore more possible upside scenarios and market positions, take a look at our SUBBD price prediction and compare it with your own view before deciding whether to invest in SUBBD Token. On-chain, holders can vote on new features, creator onboarding, themes, events, and which AI creators get highlighted. This governance layer pushes SUBBD closer to a programmable content marketplace rather than a static subscription site. As more value flows through high-throughput networks, the bet is that creator tokens like $SUBBD become one of the main places that value wants to land. 🚀 Join the $SUBBD presale before the next price increase. Disclaimer: This article is for informational purposes only and does not constitute financial or investment advice. Always do your own research before investing in crypto. Authored by Aaron Walker, NewsBTC – https://www.newsbtc.com/news/xrp-price-prediction-1m-payments-boost-subbd-token",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55252739,
+    "published": 1764683514000,
+    "title": "Ethereum’s Fusaka upgrade: Scaling rollups without breaking the core",
+    "body": "Bitwise Onchain Solutions discusses how Ethereum’s Fusaka upgrade trades big‑bang hard forks for faster, targeted changes that make the network more strategic.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 206,
+        "NAME": "FORKS",
+        "CATEGORY": "FORKS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253426,
+    "published": 1764685033000,
+    "title": "CoinDesk 20 Performance Update: NEAR Protocol (NEAR) Gains 8.2% as Index Rises",
+    "body": "Cronos (CRO) was also a top performer, up 7.6% from Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 75,
+        "NAME": "CRO",
+        "CATEGORY": "CRO"
+      },
+      {
+        "TYPE": "122",
+        "ID": 89,
+        "NAME": "NEAR",
+        "CATEGORY": "NEAR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253425,
+    "published": 1764684968000,
+    "title": "Bank of America Greenlights Wealth Advisors to Recommend Up to 4% Bitcoin Allocation",
+    "body": "The news comes just hours after longtime crypto holdout, asset management giant Vanguard, said it would allow its clientele access to digital asset ETFs.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Bank of America|Crypto|crypto portfolio|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253191,
+    "published": 1764684000000,
+    "title": "Crypto Firm Kraken Acquires Backed Finance in Tokenization Push",
+    "body": "Crypto exchange Kraken is acquiring a tokenized assets platform in a vote of confidence for stock trading tied to blockchains.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
