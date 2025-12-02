@@ -1,163 +1,5 @@
 [
   {
-    "id": 55192977,
-    "published": 1764574182000,
-    "title": "HashKey Leads Hong Kong’s Crypto Market as Losses Deepen Ahead of IPO",
-    "body": "Ultra-low fees kept monetization in the basis-point range, leaving revenue unable to offset steep losses despite surging Hong Kong trading volumes.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|hashkey|Hong Kong|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55194707,
-    "published": 1764576368000,
-    "title": "Bitcoin price slides to $85K: How low can BTC go in December?",
-    "body": "Bitcoin opened the week in the red as fears of a Bank of Japan rate hike triggered a yen carry trade unwind, potentially risking a drop in BTC price to $67,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55195676,
-    "published": 1764577827000,
-    "title": "XRP Hit By Violent 59% Leverage Flush As Speculators Slam The Brakes",
-    "body": "XRP’s derivatives market has undergone a marked regime shift, with leverage collapsing and funding normalising in a way that signals a clear retreat from aggressive speculative positioning. The strongest evidence comes from Glassnode’s latest post on November 30, which frames the current phase as a structural, not merely tactical, pause in XRP leverage. XRP Derivatives Unwind Accelerates “XRP’s futures OI has fallen from 1.7B XRP in early October to 0.7B XRP (~59% flush-out). Paired with the funding rate dropping from ~0.01% to 0.001% (7D-SMA), 10/10 marked a structural pause in XRP speculators’ appetite to bet aggressively on upside,” Glassnode’s CryptoVizArt wrote on X. Open interest at 1.7 billion XRP in early October reflected a heavily leveraged market, with large notional positions stacked in futures and perpetuals. The subsequent collapse to 0.7 billion XRP implies that around one billion XRP of derivatives exposure has been closed, liquidated, or otherwise unwound. Such a reduction is not just a marginal trimming of risk; it is a wholesale deleveraging that strips out a large part of the speculative layer sitting on top of the spot market. Related Reading: XRP Flashes ‘Classic Accumulation Sign’ — Major Breakout Soon? The funding-rate move is equally telling. A 7-day SMA around 0.01% had previously indicated a consistent long bias, with traders willing to pay a recurring fee to maintain leveraged upside exposure. The compression to roughly 0.001% pushes funding close to neutral. In perpetual futures, that transition typically occurs when demand for leveraged longs fades and the market no longer tolerates a meaningful premium to hold long positions. Glassnode’s description of October 10 crash as the point that “marked a structural pause” captures this shift in regime: the market moved from persistent long crowding to a far more cautious, balanced stance. The November 30 post sits on top of a broader context Glassnode has been documenting through November. Related Reading: Analyst Teases $7.50 XRP Moonshot But Only After A Final Flush In November 8, the firm highlighted how profit taking has behaved during the recent drawdown: “Unlike previous profit realization waves that aligned with rallies, since late September, as XRP fell from $3.09 (~25%) to $2.30, profit realization volume (7D-SMA) surged by ~240%, from $65M/day to $220M/day. This divergence underscores distribution into weakness, not strength.” Rather than de-risking into strength, profitable holders have been realizing gains as price fell, reinforcing the deleveraging signalled by futures data. On November 17, Glassnode turned to supply dynamics, noting that “the share of XRP supply in profit has fallen to 58.5%, the lowest since Nov 2024, when price was $0.53. Today, despite trading ~4× higher ($2.15), 41.5% of supply (~26.5B XRP) sits in loss — a clear sign of a top-heavy and structurally fragile market dominated by late buyers.” Those on-chain figures provide the background to the 30 November derivatives snapshot: a market whose ownership is skewed toward late entrants now sits on substantial unrealized losses, while the leverage that previously amplified upside has been largely flushed. Taken together, Glassnode’s data on futures open interest and funding rates crystallise the current state of XRP: a violent 59% leverage reset, a near-neutral funding regime, and a speculative cohort that has stepped back from paying for upside, all layered on top of a top-heavy holder base. At press time, XRP traded at $2.04. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|glassnode|xrp|xrp news|XRP On-Chain Analysis|XRP On-Chain Data|XRP Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55195564,
-    "published": 1764577523000,
-    "title": "Crypto payments coming to PlayStation as Sony plans stablecoin launch in 2026",
-    "body": "Sony Bank is reportedly pursuing a US license and partnering with Bastion as it develops a 2026 dollar stablecoin connected to its growing Web3 unit, BlockBloom.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
     "id": 55195847,
     "published": 1764578086000,
     "title": "Best Crypto to Buy Now as Bitcoin Hyper’s Presale Races Toward the $30M Milestone",
@@ -230,47 +72,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55197631,
-    "published": 1764574309000,
-    "title": "Why China’s Bitcoin mining activity is surging again after a 4-year crackdown",
-    "body": "Bitcoin mining in China is rising again. From dominance to ban to resurgence, this makes an engaging story.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
       },
       {
         "TYPE": "122",
@@ -3044,6 +2845,123 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55238926,
+    "published": 1764660572000,
+    "title": "Ethereum Devs Push ZK ‘Secret Santa’ System Toward Deployment",
+    "body": "The proposed protocol uses zero-knowledge proofs to verify sender–receiver relationships without revealing identities.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 143,
+        "NAME": "ZK",
+        "CATEGORY": "ZK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55240093,
+    "published": 1764662415000,
+    "title": "Revisiting $85,000: Bitcoin Price Drop Linked To Japanese Government Bonds",
+    "body": "After a brief period of consolidation and a bullish uptick to around $93,000 at the end of last week, the Bitcoin price has once again dipped toward the $85,000 mark, recording a significant 7% drop on Monday, according to data from CoinGecko. Market expert Shanaka Anslem has pointed to what he refers to as “the weapon” behind this latest crash: Japanese government bonds. Expert Warns Of Unraveling Yen Carry Trade In a post on social media platform X (formerly Twitter), the expert highlighted that the yield on Japan’s 10-year bonds reached 1.877 percent on December 1, 2025—the highest level since June 2008—while the 2-year yield hit 1 percent, a benchmark not seen since before the collapse of Lehman Brothers. He explained that these rising yields have triggered a significant unwinding of what Anslem describes as the largest arbitrage trade in history: the Yen Carry Trade. Related Reading: Dogecoin Whale Activity Drops To Deepest Level In Two Months With estimates placing the total size of this trade at around $3.4 trillion and figures nearing $20 trillion, he noted that this allowed global investors to borrow Japanese yen at minimal costs to buy a variety of assets, including stocks, US Treasuries, and cryptocurrencies like Bitcoin. However, this era appears to have ended last month. The mechanics of this situation are straightforward but impactful, Anslem asserted. As yields rise, the yen strengthens, making leveraged positions increasingly unprofitable. He suggested that this leads to a chain reaction: selling triggers margin calls, which in turn causes further liquidations. On October 10, $19 billion in crypto positions were liquidated, marking the largest single-day wipeout in crypto history. By November, Bitcoin exchange-traded funds (ETFs) saw $3.45 billion exit the market, with BlackRock’s IBIT suffering a $2.34 billion loss. On December 1 alone, an additional $646 million was liquidated before lunchtime. Will The Bitcoin Price Plunge To $75,000? This decline has occurred alongside the Bitcoin price correlations with major stock indices, showing a 46% correlation with the Nasdaq and a 42% correlation with the S&P 500. Anslem noted in his analysis that what was once perceived as an “uncorrelated hedge” has now transformed into a leveraged indicator of global liquidity conditions. Related Reading: Is Strategy Buying Bitcoin Again? Saylor’s ‘Green Dots’ Suggest Yes Interestingly, despite the Bitcoin price collapse, whale investors accumulated 375,000 BTC during this period. Moreover, miners significantly cut back their selling, reducing monthly sales from 23,000 BTC to just 3,672. As the market looks ahead, the expert asserted that a pivotal moment approaches on December 18 with the Bank of Japan’s upcoming policy decision. Anslem concluded that if the bank opts to raise rates and signal further increases, the Bitcoin price could test the $75,000 level, which would represent an additional 11% drop for the market’s leading cryptocurrency from current trading levels. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55240090,
+    "published": 1764662400000,
+    "title": "Unlimit Debuts Stable.com, a Decentralized Clearing House Built for Stablecoins",
+    "body": "The new non-custodial platform brings stablecoin swaps and global fiat off-ramps into one place, aiming to make the process more seamless for users.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|DeFi|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       }
     ]
   }
