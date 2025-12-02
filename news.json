@@ -1,34 +1,5 @@
 [
   {
-    "id": 55175764,
-    "published": 1764550388000,
-    "title": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December",
-    "body": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55178476,
     "published": 1764554572000,
     "title": "Bitcoin crashes 5% in ‘Sunday slam’ as liquidations surge",
@@ -2940,6 +2911,158 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55223040,
+    "published": 1764633633000,
+    "title": "Market Downturn Hits Dogecoin Hard: Is a Larger Correction on the Horizon?",
+    "body": "Similar to major assets in the cryptosphere, Dogecoin (DOGE) is facing renewed selling pressure as broader crypto market weakness intensifies, pushing the memecoin below several key technical levels. Related Reading: $300 Million Crypto Bet: Kazakhstan’s Central Bank Gears Up The decline occurs amid outflows, a weakening market structure, and fading speculative interest, raising questions about whether a deeper correction may be underway. DOGE's price trends to the downside on the daily chart. Source: DOGEUSD on Tradingview Dogecoin Breaks Key Supports as Selling Pressure Mounts Dogecoin slipped below important support areas after breaking a bullish trend line on the hourly chart, continuing a multi-day downtrend. The price now trades below the 100-hour simple moving average, near $0.13, with MACD momentum strengthening in the bearish zone and the RSI remaining below 50. The coin declined more than 8% in 24 hours, falling through multiple Fibonacci retracement zones and failing to regain footing above the 23.6% level of the latest swing move. Analysts note that immediate resistance lies near the 50% retracement of the recent decline. A close above that threshold is needed to ease short-term downside pressure. Failure to break above these resistance areas has kept momentum tilted toward sellers, with a retest of recent lows likely if the market does not stabilize. Weak Flows and Derivatives Contraction Deepen Market Strain Spot market flows show persistent distribution. Recent data revealed a $5.7 million outflow, extending the multi-month trend of reduced accumulation from large holders. Earlier inflows that supported rallies toward $0.30 have given way to steady red prints, reflecting waning confidence among major players. Derivatives markets reinforce the weakening structure. Open interest has dropped more than 9% as traders unwind positions rather than add exposure during declines. Long-short ratios show a mild long bias, but price action has repeatedly invalidated those positions, triggering waves of long-side liquidations whenever DOGE attempts to rise above short-term moving averages. These repeated failed rallies have kept Dogecoin locked beneath declining EMAs between $0.154 and $0.202, a structure analysts say remains firmly bearish. DOGE ETF Disappointment and Market Rotation Add Further Pressure Dogecoin’s recently launched ETFs have not provided support. Combined inflows from major issuers barely surpassed $2 million, far below expectations and significantly weaker than the debut flows seen in Bitcoin or Ethereum funds. The soft demand has signaled limited institutional appetite for the memecoin, contributing to negative sentiment. Related Reading: XRP Hit By Violent 59% Leverage Flush As Speculators Slam The Brakes Meanwhile, market rotation is moving toward utility-focused assets and payment-driven networks. Declining volume and low whale activity suggest traders may be shifting away from meme assets in favor of projects showing faster adoption and real-world use cases. Cover image from ChatGPT, DOGEUSD chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|Doge price|dogeusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55223869,
+    "published": 1764635421000,
+    "title": "Bitcoin’s November Selloff Was A Stress Test - And DeFi Quietly Passed",
+    "body": "Bitcoin’s November selloff offered more than a price reset. It provided a field test for the infrastructure that will support the asset’s next phase of growth.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55224148,
+    "published": 1764636061000,
+    "title": "Bitcoin Plunges Below $84,000 As Central Bank Speculation Fuels Losses",
+    "body": "Bitcoin prices fell below $84,000 on Monday, December 1 as central bank speculation combined with a backdrop of bearish market conditions to drive losses.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55224828,
+    "published": 1764637457000,
+    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
+    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
