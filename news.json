@@ -1,122 +1,5 @@
 [
   {
-    "id": 55207440,
-    "published": 1764601200000,
-    "title": "Eclipse brings Solana's parallel runtime to Ethereum",
-    "body": "Eclipse combines high-throughput execution with Ethereum settlement in a way no other L2 has attempted. Cointelegraph Research breaks down the architecture and the milestones that will define its trajectory.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207340,
-    "published": 1764599455000,
-    "title": "Dogecoin Whale Activity Drops To Deepest Level In Two Months",
-    "body": "Large Dogecoin holders have sharply reduced their on-chain activity, with whale transactions falling to their lowest level in more than two months, according to fresh network data shared by on-chain analyst Ali Martinez. Posting a Santiment chart on X, Martinez stated that “whale activity on the Dogecoin network has dropped to the lowest level in the past two months.” The chart tracks DOGE’s price against the number of transactions larger than $1 million. It shows frequent, tall spikes in high-value transfers in early October 2025, when price was oscillating near the upper end near $0.27. Dogecoin Whales Plummets Sharply On the day of the October 10 crash, the largest peak occurred when more than 280 Dogecoin whales made a transaction. This was followed by a progressive decline through late October and November. By November 29, the whale-transaction bar fell to 3 even as price trades around $0.15. The drop has sparked debate about what it signals for market structure and liquidity. Responding to Martinez, analyst account CryptoGames3D argued that “whale activity dropping on Dogecoin could mean one of two things: either whales are holding tight and waiting, or they’re stepping out of the game; both cases bring risk. With low liquidity from big holders, even modest selling could hit prices hard.” The comment underlines concerns that thinner participation from large entities can make order books more fragile if conditions turn. Related Reading: Can Dogecoin Price Still Reach $10 With The 3rd Wave Deadlock? In a separate post on November 29, Martinez outlined what he called “key levels for Dogecoin DOGE,” citing “support at $0.08” and “resistance at $0.20.” Those levels are mirrored in a Glassnode cost-basis distribution heatmap he shared, which maps DOGE’s price since early 2024 against realized price bands where supply last moved. Related Reading: Dogecoin Coils For A Monster 90% Breakout, Analyst Predicts The heatmap reveals a dense cluster of supply around $0.08. A highlighted range between roughly $0.07999 and $0.08145 contains about 27.37 billion DOGE, marking it as a major realized-price support zone. Higher up, a second but thinner band between approximately $0.20103 and $0.20470 holds around 12.22 billion DOGE, forming a significant resistance cohort. The color scale, running from about 5 million to 31 billion DOGE, emphasizes how pronounced the lower cluster is relative to other price areas. Taken together, the datasets present a tightly framed picture. DOGE is currently trading between a heavy long-term holder cost basis near $0.08 and a resistance pocket around $0.20, while the count of $1 million-plus transfers has compressed to a multi-month low. At press time, DOGE traded at $0.137. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207307,
-    "published": 1764598985000,
-    "title": "Tom Lee's BitMine Acquires 97K ETH, Eyeing Fusaka Upgrade, Fed Policy as Positive Catalysts",
-    "body": "The firm increased the pace of purchases from the previous week despite sitting on large unrealized losses on its ether bet.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Ethereum News|Ethereum Treasury|Digital Asset Treasury|Bitmine|Thomas Lee|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55208098,
     "published": 1764603449000,
     "title": "European Authorities Seize $1.51B Bitcoin-Mixing Service Cryptomixer",
@@ -3227,6 +3110,432 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253668,
+    "published": 1764685364000,
+    "title": "XRP ETF inflows exceed $756M as bullish divergence hints at trend reversal",
+    "body": "Spot XRP ETFs recorded inflows for 11 consecutive days as the RSI formed a bullish divergence on the price charts, early signs that a rally was in the cards.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253545,
+    "published": 1764685034000,
+    "title": "Russia mulls relaxing crypto rules to blunt impact of Western sanctions",
+    "body": "Russia’s central bank is considering scrapping its strict requirements for crypto transactions as sanctions make it hard for Russians transact internationally.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253961,
+    "published": 1764685034000,
+    "title": "Russia mulls relaxing crypto rules to blunt impact of Western sanctions",
+    "body": "Russia’s central bank is considering scrapping its strict requirements for crypto transactions as sanctions make it hard for Russians to transact internationally.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253799,
+    "published": 1764630000000,
+    "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
+    "body": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55253960,
+    "published": 1764630000000,
+    "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
+    "body": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55254951,
+    "published": 1764687687000,
+    "title": "BNP Paribas Joins EU Bank Stablecoin Venture Helmed by Ex-Coinbase Germany Exec",
+    "body": "The group of 10 banks plans to introduce its euro stablecoin next year under a new Dutch entity named Qivalis.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|BNP Paribas|European Union|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55254886,
+    "published": 1764687627000,
+    "title": "Ripple Marks Another Milestone In Bid To Dominate Global Payments With XRP",
+    "body": "On December 1, 2025, Ripple announced a major regulatory upgrade in Singapore, reinforcing its ambition to make XRP a central instrument for global payments. The expanded license allows the company to streamline cross-border money transfers, expand its payments infrastructure, and provide faster, more transparent settlements to financial institutions worldwide. Ripple Intensifies Its Global Payments Playbook The Singapore regulatory upgrade extends the scope of Ripple’s Major Payment Institution (MPI) license, giving its subsidiary, Ripple Markets APAC Pte. Ltd., authority to operate a fully regulated, end-to-end payments platform. The license enables Ripple to handle fund collection, secure custody, token conversion, and final payouts within a single operational framework. XRP and Ripple’s stablecoin RLUSD are embedded into the system, consolidating complex cross-border processes into a fast, compliant, and transparent environment. Related Reading: The Bitcoin Price Crash To $41,000: There’s A Shark In The Water This upgrade positions Ripple as a turnkey solution for banks, corporates, and fintechs. By managing both regulatory compliance and the technology infrastructure, Ripple removes the fragmentation that slows legacy systems. These institutions now have a single point of contact, reducing complexity and making operations more efficient. Ripple is also expanding its geographic reach through strategic partnerships. Its collaboration with Bahrain Fintech Bay allows the company to run pilot programs, real-world payment trials, and early deployment of token-driven services in the Gulf region. These initiatives help Ripple establish liquidity corridors, embed its infrastructure into local financial ecosystems, and build familiarity with regional regulators. Financially, Ripple strengthened its position with a $500 million funding round in November 2025, which valued the company at roughly $40 billion. The capital is being directed toward scaling payment infrastructure, enhancing enterprise tools, and expanding its stablecoin program. With these resources, Ripple can roll out its technology faster, integrate with new partners more efficiently, and advance its dominance in the institutional payments market. XRP’s Expanding Utility In Ripple’s Global Framework XRP remains the settlement engine of Ripple’s infrastructure, providing instant liquidity, rapid transaction settlement, and multi-currency interoperability. This functionality allows Ripple to address high-friction payment corridors, such as those in Africa, where it works with regional providers to replace slow correspondent banking chains with XRP-enabled settlements. In the Asia-Pacific region, growing on-chain activity and rising institutional demand create favorable conditions for token-based cross-border payments. The Singapore MPI upgrade now offers a regulated launchpad to deliver XRP-powered rails across these high-growth regions. Related Reading: Pundit Shares XRP Fact That Will ‘Blow Your Mind’ Building on this foundation, Ripple is creating a vertically integrated ecosystem where fiat, stablecoins, and digital assets operate through a unified platform. Within this framework, XRP bridges currencies, provides deep liquidity, and executes transactions faster than traditional systems. Each regulatory approval, partnership, and infrastructure deployment further embeds XRP into the backbone of global financial infrastructure. Together, these milestones illustrate Ripple’s multi-market strategy: expanding regulatory clarity, deploying robust infrastructure, and demonstrating real-world XRP utility. The Singapore upgrade is a decisive step in this progression, reinforcing Ripple’s steady movement toward making XRP a central tool for cross-border payment systems. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ripple|XRP|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55254780,
+    "published": 1764687377000,
+    "title": "Sanctioned Lender Huione Shuts Phnom Penh Branches, Halts Withdrawals",
+    "body": "The Cambodian finance giant has closed its doors amid mounting international pressure including U.S. and UK sanctions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55254850,
+    "published": 1764637457000,
+    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
+    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55254721,
+    "published": 1764637457000,
+    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
+    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55254720,
+    "published": 1764630000000,
+    "title": "Bitcoin’s lack of price strength due to sheepish spot buyers: What happens next?",
+    "body": "Bitcoin fudged the breakout to $93,000 as global TradFi markets stumbled and BTC spot investors failed to provide the necessary volume.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55255126,
+    "published": 1764687862000,
+    "title": "An Institutional Wave Of Retail Bitcoin - Market Insight - Dec 2, 2025",
+    "body": "Over $30 trillion in new capital is poised to reach bitcoin over the coming days and months.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",

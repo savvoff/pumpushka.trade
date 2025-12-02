@@ -1,10 +1,10 @@
 ---
 title: Клієнти Vanguard з понад 50 мільйонів незабаром отримають доступ до крипто ETF.
-description: 'Vanguard, відома компанія з управління інвестиціями, робить кроки до пропозиції крипто біржових фондів (ETF) для своєї клієнтської бази, що налічує понад 50 мільйонів. Цей зсув…'
+description: 'Vanguard, відома компанія з управління інвестиціями, змінює свою позицію щодо криптовалютних біржових фондів (ETF). Спочатку, у серпні, генеральний директор Vanguard Салім Рамджі…'
 publishedAt: '2025-12-02T01:04:17.000Z'
-updatedAt: '2025-12-02T01:52:17.481Z'
+updatedAt: '2025-12-02T15:30:30.101Z'
 lang: uk
-externalId: '55224828'
+externalId: '55254721'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -16,36 +16,28 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1626162987518-4fee900a9323?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NDAyMzh8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1626162987518-4fee900a9323?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NDAyMzh8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1626162987518-4fee900a9323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NDAyMzh8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1626162987518-4fee900a9323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NDAyMzh8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1626162987518-4fee900a9323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NDAyMzh8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1626162987518-4fee900a9323'
+  raw: 'https://images.unsplash.com/photo-1629963918958-1b62cfe3fe92?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2ODkyNDB8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1629963918958-1b62cfe3fe92?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2ODkyNDB8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1629963918958-1b62cfe3fe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2ODkyNDB8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1629963918958-1b62cfe3fe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2ODkyNDB8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1629963918958-1b62cfe3fe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2ODkyNDB8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1629963918958-1b62cfe3fe92'
 ai:
-  translatedFrom: '55224828'
+  translatedFrom: '55254721'
   version: 1
 ---
 ## Огляд
 
-Vanguard, провідна компанія з управління інвестиціями, робить кроки до пропозиції крипто біржових фондів (ETFs) для своєї клієнтської бази, що перевищує 50 мільйонів. Цей зсув відбувається після того, як CEO компанії, Салім Рамджі, раніше відкидав ідею крипто ETFs на платформі в серпні.
+Vanguard, відома інвестиційна компанія, змінює свою позицію щодо криптовалютних біржових фондів (ETF). Спочатку, у серпні, генеральний директор Vanguard Саліму Рамджі відмовився від можливості пропонувати крипто ETF на платформі. Проте, помітний попит на криптовалюту вплинув на компанію, щоб вона переглянула свою позицію.
 
-## Останні події
+## Що сталося
 
-Спочатку керівництво Vanguard не було налаштоване на впровадження крипто ETFs. Однак постійний попит на криптовалюти змусив компанію переглянути свою позицію. Зміна в позиції вказує на зростаюче визнання інтересу до цифрових активів серед інвесторів.
+У серпні Салім Рамджі, генеральний директор Vanguard, чітко заявив, що компанія не буде вводити крипто ETF на своїй платформі. Це рішення відображало обережний підхід Vanguard до інвестицій у криптовалюту в той час. Незважаючи на цю попередню позицію, постійний попит на криптоактиви спонукав Vanguard переглянути свої пропозиції. Зміна у погляді вказує на те, що компанія реагує на змінні ринкові умови та інтерес клієнтів до криптовалюти.
 
-## Важливість зміни
+## Вплив на крипторинок
 
-Рішення потенційно запропонувати крипто ETFs є значним з кількох причин:
-
-- Воно відображає ширшу тенденцію у фінансовій індустрії, де традиційні інвестиційні компанії все більше визнають значення криптовалют.
-- Велика клієнтська база Vanguard означає, що доступ до крипто ETFs може значно збільшити участь роздрібних інвесторів на ринку криптовалют.
-- Цей крок може вплинути на інші інвестиційні компанії, спонукаючи їх до аналогічних дій, що ще більше легітимізує криптовалюти в інвестиційному середовищі.
-
-## Вплив на крипто ринок
-
-- Збільшена доступність крипто інвестицій для ширшої аудиторії.
-- Потенціал для збільшення попиту на криптовалюти, оскільки більше інвесторів взаємодіє з цифровими активами.
-- Більше прийняття криптовалют у традиційних фінансах, що потенційно призведе до більшої кількості інституційних інвестицій.
-- Можлива волатильність цін на криптовалюти, оскільки нові інвестори входять на ринок.
-- Зміна сприйняття криптовалют з спекулятивних активів на більш традиційні варіанти інвестування.
+- Потенційний вхід Vanguard у сферу крипто ETF може збільшити інституційний інтерес до криптовалют.
+- Цей крок може призвести до більшої доступності для роздрібних інвесторів, які шукають експозицію до криптоактивів.
+- Зміна стратегії Vanguard може вплинути на інші інвестиційні компанії, щоб вони переглянули свої власні позиції щодо крипто ETF.
+- Зростаючий попит на крипто ETF може призвести до збільшення обсягів торгівлі на криптовалютному ринку.
+- Відповідь від Vanguard підкреслює зростаюче прийняття криптовалют серед традиційних фінансових установ.
