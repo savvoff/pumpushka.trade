@@ -1,168 +1,5 @@
 [
   {
-    "id": 55219160,
-    "published": 1764624756000,
-    "title": "Airwallex Faces China Backdoor Allegations From Prominent VC",
-    "body": "Prominent investor Keith Rabois alleges the fintech unicorn's structure enables Chinese government access to sensitive US financial data.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 55219476,
-    "published": 1764625167000,
-    "title": "Kalshi taps Solana to tokenize betting contracts: Report",
-    "body": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55219526,
-    "published": 1764624720000,
-    "title": "Crypto’s Retail Traders Hit Hard as Strategy ETFs Plunge 80%",
-    "body": "Retail investors who piled into Michael Saylor’s grand Bitcoin experiment are paying a heavy price.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55219580,
-    "published": 1764625772000,
-    "title": "Seller Exhaustion or a Bottom? Strategy Gains 11% From Session's Worst Levels",
-    "body": "Peter Schiff took a victory lap after the company Monday morning announced it had raised $1.44 billion via common stock sales as a reserve to pay preferred dividends for nearly two years.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Strategy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55220076,
-    "published": 1764626924000,
-    "title": "Vanguard Opens Platform to Crypto ETFs in Major Shift: Bloomberg",
-    "body": "The move will give access to the firm's 50 million clients to invest in regulated digital asset ETFs, a reversal from Vanguard's long-standing anti-crypto stance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Vanguard|Crypto ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55220600,
     "published": 1764628073000,
     "title": "Kalshi Pushes Further Into Crypto With On-Chain Prediction Markets on Solana",
@@ -2081,41 +1918,6 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55252367,
-    "published": 1764625167000,
-    "title": "Kalshi taps Solana to tokenize betting contracts: Report",
-    "body": "The move could challenge other prediction platforms by providing Kalshi users with greater anonymity through tokenized buys and sales on the Solana blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
@@ -4509,6 +4311,140 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55267226,
+    "published": 1764710355000,
+    "title": "Kraken adds Backed Finance to 2025 acquisition streak, brings xStocks in-house",
+    "body": "The acquisition will give Kraken full control of the xStocks tokenized-equity platform, strengthening the exchange’s push into regulated real-world assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55267685,
+    "published": 1764711210000,
+    "title": "Group of EU banks pushes for a euro-pegged stablecoin by 2027",
+    "body": "The entity formed by 10 banks is working on obtaining regulatory approval from the Dutch Central Bank to launch a stablecoin “in the second half of 2026.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55268439,
+    "published": 1764712814000,
+    "title": "Bitcoin Long-Term Holders See First Uptick Since April Lows: Bullish Sign?",
+    "body": "On-chain data shows that the Bitcoin investors with a holding time greater than six months have seen an upward reversal in their supply for the first time in months. Bitcoin Long-Term Holder Supply Has Just Turned Around As pointed out by Capriole Investments founder Charles Edwards in a new post on X, the 6-month inactive supply has recently witnessed its first uptick since April. This part of the supply, covering tokens that have been dormant (that is, not involved in any transaction on the blockchain) since at least six months ago, belongs to investors popularly known as long-term holders (LTHs). Related Reading: XRP Crashes 9.5%, But TD Sequential Flashes A Buy Signal Statistically, the longer investors keep their coins dormant, the less likely they are to sell them in the future. As such, the LTH cohort with its relatively long holding time includes the resolute hands of the market. Despite their resilience, however, these investors have participated in selling during the past few months. Below is the chart shared by Edwards that shows the trend in the amount of supply dormant for longer than six months. As is visible in the graph, the drawdown in the Bitcoin LTH supply changed for the worse during the cryptocurrency’s crash last month, indicating that the diamond hands took part in a significant amount of distribution. Since this selloff, however, the decline in the metric appears to have paused, at least for now. There has even been a small increase in the indicator recently, a potential sign of a shift in investor behavior. Something to note is that while drops in the LTH supply can correspond to selling that’s occurring in the present, the same isn’t true in the case of an increase. An uptick in the metric isn’t a sign that members of the cohort are buying right now. Rather, it suggests some accumulation occurred six months ago, and now those coins have been held long enough to mature into the group. That said, the trend is naturally still a positive sign for Bitcoin, as it implies HODLing behavior could be becoming more dominant on the network. The last time such a shift occurred was around the time of the cryptocurrency’s lows back in April. Related Reading: Ethereum Speculators Add $654M In Bets As Price Plunges To $2,800 What followed that LTH supply rise was BTC’s rally to new all-time highs (ATHs). Considering this, it only remains to be seen whether the latest shift toward long-term holding will lead to anything similar, or if the cryptocurrency’s decline is here to stay this time around. BTC Price Bitcoin briefly slipped under $84,000 on Monday, but its price has since seen some recovery as it’s now back at $87,500. Featured image from Dall-E, Capriole.com, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin hodlers|Bitcoin long-term holders|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55268470,
+    "published": 1764671537000,
+    "title": "Bitcoin to end four-year cycle, break out to new highs in 2026: Grayscale",
+    "body": "Grayscale said Bitcoin’s 2025 sell-off looks like a local bottom, not a new cycle peak, with Fed policy and US crypto bills key for 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
