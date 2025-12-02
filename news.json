@@ -1,163 +1,5 @@
 [
   {
-    "id": 55208098,
-    "published": 1764603449000,
-    "title": "European Authorities Seize $1.51B Bitcoin-Mixing Service Cryptomixer",
-    "body": "Europol dismantled a crypto-mixing platform it said is used by ransomware groups and darknet markets to launder bitcoin, seizing servers, data and $29 million in BTC.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Crypto Mixer|Europol|Crime|mixing services|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55208751,
-    "published": 1764604847000,
-    "title": "Here’s Why The Bitcoin Price Is Crashing Today",
-    "body": "Crypto analysts Nik and Doctor Profit have provided insights into why the Bitcoin price is crashing today. The flagship crypto has again dropped below the psychological $90,000 level, sparking bearish sentiments among market participants. Why The Bitcoin Price Is Crashing Today In an X post, Nik remarked that the Bitcoin price didn’t dump because of bad news but because the “clock flipped.” He noted that a large number of algos sold off at the same time with the daily close, and also considering that it is a new week and a new month. The analyst added that it is not traders making decisions but portfolios rebalancing in real time. Related Reading: Finance Expert Says Bitcoin Price Growth Is In ‘Google 2017’ Phase, What This Means Nik explained that with this Bitcoin price crash, inventories have adjusted, hedges have reset, and risk has been flushed from the market. He noted that the candles may look emotional, but that the behavior is mechanical. The analyst also indicated that retail investors may have also dumped their coins out of panic. Nik stated that time-based algos usually ignite the sell-off, and then everyone is forced to react to their flow. He added that the effect was strong enough today to shake the Bitcoin price, with the crash dragging the broader crypto market along. BTC dropped below $90,000 today, after recovering to $92,000 last week. Meanwhile, Nik stated that most people usually miss the signs of a potential Bitcoin price crash because they focus on patterns drawn by humans rather than flows controlled by machines. He added that the market doesn’t only react to price but also to time. Not Yet Enough Liquidity For A Major Crash In an X post, crypto analyst Doctor Profit said that there isn’t enough downside liquidity yet to trigger a major Bitcoin price crash. This is why he expects a sideways range between the current price and the EMA50, around $100,000, in the coming days or weeks. The analyst noted that the two largest liquidity clusters in the short term are at the $97,000 and $107,000 regions. Related Reading: Analyst Who Predicted Bitcoin Price Action With Chinese Astrology Shares When Prices Will Surge However, Doctor Profit remains bearish in the long term. He declared that a major move down is planned, but that the script must be followed and that the required liquidity is not yet in place. The analyst told market participants to expect a boring sideways phase with confirmed targets of between $70,000 and $75,000 by the start of 2026. Doctor Profit reiterated that such moves to the downside for the Bitcoin price take time. He explained that the crash could unfold as a strong drop, followed by a long sideways consolidation, then a fake relief rally, and then the continuation of lower lows. At the time of writing, the Bitcoin price is trading at around $85,800, down over 5% in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|algo|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|Doctor Profit|EMA|Nik",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55208644,
-    "published": 1764604606000,
-    "title": "China Eyes Fresh Crackdown on Crypto Amid Resurgence in Speculative Trading",
-    "body": "Authorities warn that crypto activity remains illegal and poses renewed risks despite years of enforcement.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55209245,
-    "published": 1764605779000,
-    "title": "Strategy launches $1.4bn dollar reserve to fund dividends as bitcoin sinks",
-    "body": "Shares tumble more than 11% as group warns of net loss of up to $5.5bn if price of cryptocurrency does not rebound",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55209738,
     "published": 1764606544000,
     "title": "ICP Slides as Breakdown Below $4.00 Triggers Elevated Volatility",
@@ -3536,6 +3378,402 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55255789,
+    "published": 1764689167000,
+    "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Heats Up",
+    "body": "Kalshi secures a massive funding boost led by Paradigm, widening its lead over Polymarket as trading volumes surge and both platforms pursue fresh capital.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Kalshi|Prediction Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55255724,
+    "published": 1764689033000,
+    "title": "Grayscale’s Chainlink ETF Lists on NYSE Arca, LINK Price Jumps",
+    "body": "The debut marks the first U.S. ETF tied to Chainlink, which secures tens of billions of dollars in onchain value across DeFi and gaming.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Chainlink|Grayscale|ETFs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55255638,
+    "published": 1764688800000,
+    "title": "Ethereum price analysis: Will ETH continue to decline in December?",
+    "body": "Ethereum risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55255636,
+    "published": 1764641500000,
+    "title": "Japan government backs 20% tax on crypto profits, on par with stocks",
+    "body": "Japan has taken another step to reform its crypto taxation, replacing its tiered system that can reach as high as 55%.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55255635,
+    "published": 1764637457000,
+    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
+    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55256076,
+    "published": 1764689492000,
+    "title": "Grayscale’s Chainlink ETF Set for Potential NYSE Arca Debut This Week",
+    "body": "Bloomberg terminal shows a December 2 uplisting date, indicating the Chainlink trust’s conversion into a spot ETF is close.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55256305,
+    "published": 1764683226000,
+    "title": "Strategy Gains Nearly 20% From Monday Low as Bear Gloating Suggests at Least Temporary Bottom",
+    "body": "",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|MicroStrategy|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55257087,
+    "published": 1764691315000,
+    "title": "Bitcoin Surges Back Above $91K as Support Builds in $80K-$85K Area",
+    "body": "Helping the mood in crypto were moves by institutional giants Vanguard and Bank of America to open up digital assets to their clients.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Market Wrap|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55256652,
+    "published": 1764690566000,
+    "title": "White-Collar Fraudster Jailed in UK After Converting $650K in Company Funds to Crypto",
+    "body": "Experts suggest that crypto-related white-collar crime could be on the rise, with many firms unprepared for a growth in such crime.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55257657,
+    "published": 1764692086000,
+    "title": "AI Will Supercharge Energy And Metal Prices: Why Commodities Are Set To Explode",
+    "body": "Ex: There is so much negativity about AI right now that, as a contrarian, I’m even more bullish on it than before. But my key conclusion is, AI will boil the oceans.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 16,
+        "NAME": "COMMODITY",
+        "CATEGORY": "COMMODITY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55257423,
+    "published": 1764691908000,
+    "title": "SOL Bulls Take a Breather After Pumping Millions Into ETFs",
+    "body": "Solana exchange-traded funds debuted on Oct. 28 and performed flawlessly with inflows 21 consecutive days until the day before Thanksgiving.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Solana News|Crypto ETF|ETF|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55257533,
+    "published": 1764649152000,
+    "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
+    "body": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
