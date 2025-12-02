@@ -1,116 +1,5 @@
 [
   {
-    "id": 55206690,
-    "published": 1764594000000,
-    "title": "Gleec Buys Komodo’s Cross-Chain DeFi Stack in $23.5M Deal",
-    "body": "The acquisition brings Komodo’s atomic-swap technology, token ecosystem and core developers under the Gleec umbrella.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Komodo Platform|Crypto Trading|mergers and acquisitions|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
-    "id": 55207234,
-    "published": 1764594938000,
-    "title": "Gold Closes in On All-Time High as Crypto, Stocks Tumble",
-    "body": "Gold is approaching a record high as Bitcoin and stocks fall, driven by “growing caution among investors” amid dovish Fed expectations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207170,
-    "published": 1764594843000,
-    "title": "Sudden $3 Trillion Crypto Market Collapse Sparks Serious Bitcoin Price Crash Warning",
-    "body": "Traders are bracing for further bitcoin price declines that could spiral into a full-blown crash...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55207440,
     "published": 1764601200000,
     "title": "Eclipse brings Solana's parallel runtime to Ethereum",
@@ -423,53 +312,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55207335,
-    "published": 1764595842000,
-    "title": "Yearn Finance Suffers $9M Breach As Attacker Creates Endless yETH Tokens",
-    "body": "Yearn Finance reported that a legacy yETH product was hit by an exploit that allowed an attacker to mint a massive amount of fake tokens and swap them for real assets. Related Reading: Bitcoin Miners Face A Harsh December: Rising BTC Difficulty, Falling Hashprice According to on-chain alerts and protocol statements, the attacker created a near-infinite supply of yETH in a single transaction, then used those tokens to pull ETH and liquid-staking derivatives from liquidity pools. The incident was first flagged on November 30, 2025, and the total impact has been reported at roughly $9 million. #PeckShieldAlert Yearn Finance @yearnfi suffered an attack resulting in a total loss of ~$9M. The exploit involved minting a near-infinite number of yETH tokens, depleting the pool in a single transaction. ~1K $ETH (worth ~$3M) was sent to #TornadoCash, while the exploiter’s… pic.twitter.com/IXNygpwoWa — PeckShieldAlert (@PeckShieldAlert) December 1, 2025 How The Exploit Worked Based on reports, the attacker took advantage of a flaw in the yETH minting logic and produced tokens on the order of 235 trillion in one go. Those worthless tokens were then swapped for real assets from Balancer and Curve pools tied to the product, emptying liquidity in minutes. Chain monitors and security researchers showed the mint and subsequent swaps unfolding very quickly on the blockchain. At 21:11 UTC on Nov 30, an incident occurred involving the yETH stableswap pool that resulted in the minting of a large amount of yETH. The contract impacted is a custom version of popular stableswap code, unrelated to other Yearn products. Yearn V2/V3 vaults are not at risk. — yearn (@yearnfi) December 1, 2025 What Assets Were Taken Reports have disclosed that roughly $8 million was pulled from the main yETH stable-swap pool, while about $0.9 million was taken from a yETH–WETH pool. In addition, roughly 1,000 ETH—valued at about $3 million at the time of movement—was sent to Tornado Cash in attempts to obscure the trail. The attacker converted fake yETH into a mix of ETH and liquid staking tokens before attempting to launder funds. Impact On Yearn’s Core Products According to Yearn officials and follow-up coverage, the breach was limited to an older, legacy implementation of the yETH product and did not affect Yearn’s main V2 and V3 vaults. Deposits into the affected pool were isolated while the team and outside experts began an investigation. This isolation is said to have kept the bulk of user funds in active vaults from being touched. Market Reaction And Wider Concerns Crypto markets saw selling pressure as the news spread, with traders weighing the risk that comes from combining liquid staking tokens with custom swap code. Related Reading: Bitcoin Sentiment Sparks CZ Comment: Sell Greed, Buy Fear Yearn Finance said it is working with outside security teams to run a post-mortem and to patch the vulnerability. Based on reports, teams named in coverage include external auditors and blockchain investigators who are tracking the stolen funds and advising on recovery options. The protocol’s notice warned users about the affected legacy product and urged caution while the review continues. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|bitcoin|crypto|crypto hack|yearn finance|yETH",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 60,
-        "NAME": "YFI",
-        "CATEGORY": "YFI"
       },
       {
         "TYPE": "122",
@@ -3129,6 +2971,222 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55250939,
+    "published": 1764680427000,
+    "title": "Brace For Impact: XRP Price Has Formed A Bullish Cross On Its Weekly Stochastic RSI",
+    "body": "XRP price has formed a bullish cross on its weekly Stochastic RSI, creating a bullish sign for the cryptocurrency at a time when its price has been struggling to break away from the $2 region. The cryptocurrency has spent the past several days moving into a downturn, and buyers will now be looking to defend $2. Even though momentum has been limited, new inflows from recently launched XRP ETFs have kept sentiment from turning full-on bearish. XRP Stochastic RSI Undergoes Bullish Weekly Cross According to crypto analyst ChartNerd, XRP has just printed a bullish cross on its weekly Stochastic RSI while still sitting deep in oversold territory. The chart he shared highlights how the blue %K line has curved upward and crossed above the orange %D line at one of the lowest points of the cycle. Related Reading: Analyst Says Get Ready For XRP Price Above $4 This Cycle With this move, the indicator has now repeated a structure that previously marked major turning points during XRP’s past market swings. Oversold weekly conditions paired with a confirmed cross are useful in predicting the early stages of trend reversals, especially when they occur after extended downside momentum. ChartNerd pointed out that this same configuration appeared twice recently, first in 2024 and again in 2025, and both instances produced powerful rallies. The 2024 cross preceded a surge of more than 600%, at which point the XRP price went from trading around $0.5 to trading above $3. The mid-2025 cross delivered a smaller yet still significant 130% run, at which point the XRP price went from hovering around $2.1 to breaking new all-time highs above $3.6 in July. As shown in the chart below, these earlier crosses are marked at similar low points, forming a repeating rhythm of sharp recoveries whenever the weekly Stochastic RSI resets and turns up. The current setup is in the same zone, and this opens up speculation that XRP’s price action may be forming the base of its next major upward leg. Is Another Major XRP Pump Approaching? Although past performance does not dictate what happens next, the indicator’s consistency on the weekly timeframe is difficult to ignore. XRP’s price is again positioned inside a compressed region just as it was before its previous large rallies. This time, the price zone to take note of is around $2. Related Reading: What The Rapid XRP Outlfows From Crypto Exchanges Mean For The Price If buyers regain strength and the wider crypto market conditions improve, most notably Bitcoin climbing back above $100,000, then the probability of a stronger XRP reaction increases. The only thing going well right now for XRP is the inflows into US-based Spot XRP ETFs, with $89.65 million worth of new institutional funds coming in on December 1. A rally similar to the 130% rebound seen during the previous cycle would lift XRP from $2 to about $4.60. A repeat of the much larger 600% surge would place the token above $14. This creates a potential range between $4.60 and $14 if the pattern repeats itself. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|ChartNerd|Ripple|Spot XRP ETFs|stochastic RSI|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55250875,
+    "published": 1764680364000,
+    "title": "Toncoin Climbs to $1.50 as Cocoon Debut Sparks Surge in Trading Volume",
+    "body": "Cocoon lets GPU owners rent out computing power for AI tasks and receive TON tokens as compensation, with Telegram as the first user.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|TON|Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 98,
+        "NAME": "TON",
+        "CATEGORY": "TON"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55250677,
+    "published": 1764679904000,
+    "title": "Elon Musk Issues Shock Prediction As $38.3 Trillion ‘Crisis’ Primes A Bitcoin Price Boom To Rival Gold",
+    "body": "Elon Musk has predicted “money disappears as a concept” in the future, with energy the only “true currency\"...",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55250569,
+    "published": 1764678197000,
+    "title": "Anthropic study says AI agents developed $4.6M in smart contract bugs",
+    "body": "Commercial AI models were able to autonomously generate real-world smart contract exploits worth millions; the costs of such attacks are falling rapidly.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55251557,
+    "published": 1764681386000,
+    "title": "Bank of America backs 1–4% crypto allocation, opens gates to Bitcoin ETFs",
+    "body": "Bank of America’s wealthiest clients will gain access to Bitcoin ETFs, while its network of over 15,000 wealth advisers can recommend crypto exposure for the first time, Yahoo reported.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55251644,
+    "published": 1764681557000,
+    "title": "Morning Minute: Vanguard Finally Lets Investors Buy Crypto",
+    "body": "It's a major reversal from one of the longest standing anti-crypto giants, and a major signal that crypto is now mainstream.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||||Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
       {
         "TYPE": "122",
         "ID": 211,
