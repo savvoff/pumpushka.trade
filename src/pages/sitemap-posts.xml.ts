@@ -1,3 +1,4 @@
+import { pathToSlug } from '@utils/buildDocsSidebar';
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { SITE } from 'src/constants';
@@ -43,7 +44,7 @@ export const GET: APIRoute = async ({ site }) => {
     const variants: { lang: string; loc: string; lastmod: string }[] = [];
 
     if (g.en) {
-      const u = new URL(`/en/blog/${g.en.slug}/`, site);
+      const u = new URL(`/en/blog/${pathToSlug(g.en.id, 'en')}/`, site);
       variants.push({
         lang: 'en',
         loc: u.toString(),
@@ -52,7 +53,7 @@ export const GET: APIRoute = async ({ site }) => {
     }
     if (g.uk) {
       // default lang without locale
-      const u = new URL(`/blog/${g.uk.slug}/`, site);
+      const u = new URL(`/blog/${pathToSlug(g.uk.id, 'uk')}/`, site);
       variants.push({
         lang: 'uk',
         loc: u.toString(),
