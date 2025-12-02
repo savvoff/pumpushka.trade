@@ -1,128 +1,5 @@
 [
   {
-    "id": 55189134,
-    "published": 1764568565000,
-    "title": "China reaffirms crypto ban after noticing ‘speculation has resurfaced’",
-    "body": "The People’s Bank of China reasserted the country’s crypto ban, claiming trading had reemerged and vowed to crack down on stablecoins.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55188517,
-    "published": 1764568082000,
-    "title": "Dogecoin (DOGE) Turns Red Again — Are Traders Bracing for Deeper Declines?",
-    "body": "Dogecoin started a fresh decline below the $0.150 zone against the US Dollar. DOGE is now consolidating losses and might face hurdles near $0.1420. DOGE price started a fresh decline below the $0.150 level. The price is trading below the $0.1450 level and the 100-hourly simple moving average. There was a break below a key bullish trend line with support at $0.1520 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could extend losses if it stays below $0.150 and $0.1450. Dogecoin Price Dips Again Dogecoin price started a fresh decline after it closed below $0.1520, like Bitcoin and Ethereum . DOGE declined below the $0.150 and $0.1450 support levels. More importantly, there was a break below a key bullish trend line with support at $0.1520 on the hourly chart of the DOGE/USD pair. The price even traded below $0.1380. A low was formed near $0.1369, and the price is now showing bearish signs below the 23.6% Fib retracement level of the downward move from the $0.1566 swing high to the $0.1369 low. Dogecoin price is now trading below the $0.1450 level and the 100-hourly simple moving average. If there is a recovery wave, immediate resistance on the upside is near the $0.1420 level. The first major resistance for the bulls could be near the $0.1465 level and the 50% Fib retracement level of the downward move from the $0.1566 swing high to the $0.1369 low. The next major resistance is near the $0.1490 level. A close above the $0.1490 resistance might send the price toward the $0.1520 resistance. Any more gains might send the price toward the $0.1550 level. The next major stop for the bulls might be $0.1620. More Losses In DOGE? If DOGE’s price fails to climb above the $0.1465 level, it could continue to move down. Initial support on the downside is near the $0.1370 level. The next major support is near the $0.1350 level. The main support sits at $0.1330. If there is a downside break below the $0.1330 support, the price could decline further. In the stated case, the price might slide toward the $0.1250 level or even $0.1240 in the near term. Technical Indicators Hourly MACD – The MACD for DOGE/USD is now gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for DOGE/USD is now below the 50 level. Major Support Levels – $0.1350 and $0.1250. Major Resistance Levels – $0.1420 and $0.1465.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "DOGE|DOGE news|Doge price|DOGE USD|DOGE/BTC|DOGE/USDT|Dogecoin|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55189308,
-    "published": 1764569018000,
-    "title": "Ripple Labs gets nod to expand payment activities in Singapore",
-    "body": "Ripple has also made several acquisitions this year to expand its business and institutional-focused offerings, with the latest being crypto custody and wallet company Palisade.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55191700,
     "published": 1764572429000,
     "title": "This Analyst Predicted The PIPPIN Price Surge, Here’s The Rest Of The Prediction",
@@ -2968,6 +2845,182 @@
         "ID": 205,
         "NAME": "TOKEN SALE",
         "CATEGORY": "TOKEN SALE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55233871,
+    "published": 1764652701000,
+    "title": "Solana (SOL) Slips Toward Key Support While Markets Brace for Next Big Move",
+    "body": "Solana started a fresh decline below the $135 zone. SOL price is now consolidating losses below $130 and might decline further below $125. SOL price started a fresh decline below $135 and $130 against the US Dollar. The price is now trading below $130 and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $136 on the hourly chart of the SOL/USD pair (data source from Kraken). The price could start a recovery wave if the bulls defend $125 or $120. Solana Price Dips Further Solana price failed to remain stable above $140 and started a fresh decline, like Bitcoin and Ethereum . SOL declined below the $135 and $132 support levels. The price gained bearish momentum below $130. A low was formed at $123, and the price is now consolidating losses. The price recovered a few points and tested the 23.6% Fib retracement level of the downward move from the $144 swing high to the $123 low. Solana is now trading below $130 and the 100-hourly simple moving average. On the upside, immediate resistance is near the $128 level. The next major resistance is near the $130 level. The main resistance could be $134 or the 50% Fib retracement level of the downward move from the $144 swing high to the $123 low. There is also a key bearish trend line forming with resistance at $136 on the hourly chart of the SOL/USD pair. A successful close above the $136 resistance zone could set the pace for another steady increase. The next key resistance is $140. Any more gains might send the price toward the $145 level. Another Decline In SOL? If SOL fails to rise above the $130 resistance, it could continue to move down. Initial support on the downside is near the $125 zone. The first major support is near the $122 level. A break below the $122 level might send the price toward the $120 support zone. If there is a close below the $120 support, the price could decline toward the $112 support in the near term. Technical Indicators Hourly MACD – The MACD for SOL/USD is gaining pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) – The RSI for SOL/USD is below the 50 level. Major Support Levels – $125 and $122. Major Resistance Levels – $130 and $136.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Technical analysis|Sol|Solana|solbtc|SOLUSD|SOLUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55234761,
+    "published": 1764653892000,
+    "title": "Bollinger Bands suggest Bitcoin bottom can’t fall under $55K",
+    "body": "A crypto analyst used Bollinger Bands and RSI data to argue Bitcoin’s bear market bottom will not pass under $55,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55235543,
+    "published": 1764655204000,
+    "title": "Avalanche Coils For Impact: This Indicator Signals A Massive Move Ahead",
+    "body": "Avalanche (AVAX) is coiling for a massive move. A potent Wolfe Wave pattern is forming alongside a test of a key weekly trendline. This structural confluence signals that the market is reaching a point of maximum compression, indicating that a significant directional breakout is imminent. Wolfe Wave Formation Signals Strong Future Move According to a recent technical analysis by BeLaunch, AVAX is shaping a notable Wolfe Wave pattern, a formation known for sparking strong directional moves once completed. This developing structure reflects tightening price action and growing pressure within the market, hinting that a significant breakout could be on the horizon. Related Reading: AVAX Reclaims Top 20 Spot as Securitize Chooses Avalanche for EU Securities Platform At the same time, Avalanche is pressing against a descending weekly trendline that has consistently acted as a major resistance level. A breakout above it would reinforce the bullish implications of the Wolfe Wave, while a rejection could force the asset back into a prolonged consolidation. For those eyeing long-term accumulation, BeLaunch points to the $11–$8 range as the most compelling buy zone. This region could provide strong support and aligns with key structural levels, making it an attractive opportunity for investors preparing for the next potential upside cycle. Historical Precedent: The September 2023 Rally Setup BeLaunch went on to highlight that the current Avalanche setup closely mirrors the conditions seen in September 2023, just before a major rally unfolded. The resemblance between the two periods offers a valuable historical reference, suggesting that the market may once again be preparing for a significant move. Related Reading: Avalanche (AVAX) Price Holds Key Support, But Analyst Warns Rally Could Be At Risk The analysis emphasizes that the same pattern is taking shape once again, increasing the probability of an upward move if price action aligns with previous behavior. Repeated technical scenarios often carry weight because markets tend to respond consistently under familiar conditions. If AVAX continues to respect this structure, it could set the foundation for a potential bullish breakout. BeLaunch also noted the importance of continued monitoring as the pattern progresses. Tracking price action, market sentiment, and overall momentum will be crucial in determining whether the bullish outlook gains confirmation. Any future decisions or expectations will rely on clear signals from the pattern as well as shifts in broader market dynamics. Avalanche is currently trading around $13.06, reflecting a mild intraday pullback as the market adjusts to recent volatility. With a market capitalization of approximately $6.3 billion, AVAX remains one of the notable assets in the broader crypto landscape. Trading activity has been strong, with its 24-hour volume sitting between $428 million and $445 million, signaling ongoing interest from both short-term traders and long-term participants. Featured image from Shutterstock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "AVAX|Avalanche|AVAX Price|AVAXUSD|AVAXUSDT|belaunch|Descending Weekly Trendline",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 8,
+        "NAME": "AVAX",
+        "CATEGORY": "AVAX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55235587,
+    "published": 1764653892000,
+    "title": "Bollinger Bands suggest Bitcoin bottom won’t fall under $55K",
+    "body": "A crypto analyst used Bollinger Bands and RSI data to argue Bitcoin’s bear market bottom will not pass under $55,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
