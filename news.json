@@ -1,157 +1,5 @@
 [
   {
-    "id": 55223040,
-    "published": 1764633633000,
-    "title": "Market Downturn Hits Dogecoin Hard: Is a Larger Correction on the Horizon?",
-    "body": "Similar to major assets in the cryptosphere, Dogecoin (DOGE) is facing renewed selling pressure as broader crypto market weakness intensifies, pushing the memecoin below several key technical levels. Related Reading: $300 Million Crypto Bet: Kazakhstan’s Central Bank Gears Up The decline occurs amid outflows, a weakening market structure, and fading speculative interest, raising questions about whether a deeper correction may be underway. DOGE's price trends to the downside on the daily chart. Source: DOGEUSD on Tradingview Dogecoin Breaks Key Supports as Selling Pressure Mounts Dogecoin slipped below important support areas after breaking a bullish trend line on the hourly chart, continuing a multi-day downtrend. The price now trades below the 100-hour simple moving average, near $0.13, with MACD momentum strengthening in the bearish zone and the RSI remaining below 50. The coin declined more than 8% in 24 hours, falling through multiple Fibonacci retracement zones and failing to regain footing above the 23.6% level of the latest swing move. Analysts note that immediate resistance lies near the 50% retracement of the recent decline. A close above that threshold is needed to ease short-term downside pressure. Failure to break above these resistance areas has kept momentum tilted toward sellers, with a retest of recent lows likely if the market does not stabilize. Weak Flows and Derivatives Contraction Deepen Market Strain Spot market flows show persistent distribution. Recent data revealed a $5.7 million outflow, extending the multi-month trend of reduced accumulation from large holders. Earlier inflows that supported rallies toward $0.30 have given way to steady red prints, reflecting waning confidence among major players. Derivatives markets reinforce the weakening structure. Open interest has dropped more than 9% as traders unwind positions rather than add exposure during declines. Long-short ratios show a mild long bias, but price action has repeatedly invalidated those positions, triggering waves of long-side liquidations whenever DOGE attempts to rise above short-term moving averages. These repeated failed rallies have kept Dogecoin locked beneath declining EMAs between $0.154 and $0.202, a structure analysts say remains firmly bearish. DOGE ETF Disappointment and Market Rotation Add Further Pressure Dogecoin’s recently launched ETFs have not provided support. Combined inflows from major issuers barely surpassed $2 million, far below expectations and significantly weaker than the debut flows seen in Bitcoin or Ethereum funds. The soft demand has signaled limited institutional appetite for the memecoin, contributing to negative sentiment. Related Reading: XRP Hit By Violent 59% Leverage Flush As Speculators Slam The Brakes Meanwhile, market rotation is moving toward utility-focused assets and payment-driven networks. Declining volume and low whale activity suggest traders may be shifting away from meme assets in favor of projects showing faster adoption and real-world use cases. Cover image from ChatGPT, DOGEUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|Doge price|dogeusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55223869,
-    "published": 1764635421000,
-    "title": "Bitcoin’s November Selloff Was A Stress Test - And DeFi Quietly Passed",
-    "body": "Bitcoin’s November selloff offered more than a price reset. It provided a field test for the infrastructure that will support the asset’s next phase of growth.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55224148,
-    "published": 1764636061000,
-    "title": "Bitcoin Plunges Below $84,000 As Central Bank Speculation Fuels Losses",
-    "body": "Bitcoin prices fell below $84,000 on Monday, December 1 as central bank speculation combined with a backdrop of bearish market conditions to drive losses.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55224828,
-    "published": 1764637457000,
-    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
-    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55226461,
     "published": 1764640821000,
     "title": "XRP Is About To Hit A Major Turning Point This Week, Analyst Says",
@@ -2191,52 +2039,6 @@
     ]
   },
   {
-    "id": 55254850,
-    "published": 1764637457000,
-    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
-    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55254721,
-    "published": 1764637457000,
-    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
-    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55255126,
     "published": 1764687862000,
     "title": "An Institutional Wave Of Retail Bitcoin - Market Insight - Dec 2, 2025",
@@ -2409,29 +2211,6 @@
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55255635,
-    "published": 1764637457000,
-    "title": "Vanguard’s 50M+ clients will soon have access to crypto ETFs",
-    "body": "Vanguard CEO Salim Ramji ruled out crypto ETFs on its platform in August, but consistent demand for crypto has seemingly changed his firm’s tune.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -4193,6 +3972,193 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55271774,
+    "published": 1764718681000,
+    "title": "Kalshi raises $1B at $11B valuation after best volume month",
+    "body": "Kalshi has doubled its valuation after its latest Series E funding round, which come as the prediction market posted record trading volumes last month.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55272381,
+    "published": 1764720033000,
+    "title": "Ethereum Open Interest Cut In Half As $6.4B In Positions Vanish: Market Reset Accelerates",
+    "body": "Ethereum has fallen below the $2,800 mark after a sharp and sudden decline, deepening panic across the market and reinforcing the sense that bulls have lost control. The recent drop has pushed investors into defensive mode, with some analysts now openly discussing the possibility of a broader bear market emerging. Selling pressure has intensified across spot and derivatives markets, and volatility continues to rise as traders struggle to identify a reliable support zone. Related Reading: Bitcoin Flashes Largest Hidden-Buying Spike of the Cycle Despite Losing $90K Level A new CryptoQuant report by Darkfost highlights one of the most alarming developments: Ethereum’s open interest on Binance has been steadily collapsing for more than three months. After reaching an all-time high of $12.6 billion on August 22, open interest has now been cut in half. Nearly $6.4 billion in derivative positions have evaporated, bringing ETH’s open interest down to $6.2 billion, a steep 51% decline. While this appears to be an extraordinary contraction, Darkfost notes that open interest has only just slipped below the previous all-time high of $7.7 billion. This underscores how speculative and overstretched the 2025 derivatives market had become — and suggests that Ethereum may be undergoing a much deeper structural reset than most expected. Speculation Unwinds Across Exchanges as Ethereum Enters Deep Reset Phase Darkfost emphasizes that 2025 has been the most speculative phase in Ethereum’s history, fueled by aggressive leverage, rapid inflows, and a market structure that proved far less solid — and far less sustainable — than it appeared during the rally. The collapse in open interest on Binance is only part of the story. The same pattern is unfolding across major derivatives platforms, revealing a broader structural unwind rather than an exchange-specific phenomenon. On Gate.io, ETH open interest has fallen from $5.2 billion to $3.5 billion. On Bybit, the drop is even more severe, plunging from $6.1 billion to $2.3 billion. This synchronized contraction shows how aggressively speculative positions have been flushed out. Meanwhile, the ongoing correction has dragged Ethereum’s price from $4,830 to $2,800, marking a steep 43% decline from the highs. This widespread reduction in leverage suggests the market is undergoing a deeper reset than typical corrections. Investors are not rushing to re-enter positions, especially as liquidations continue to stack up across exchanges. While shrinking open interest weighs on short-term momentum and sentiment, Darkfost notes that such aggressive deleveraging may ultimately help rebuild a healthier market foundation — one capable of supporting a durable bottom for ETH. Related Reading: Massive Ethereum Distribution Continues: Whale Sends Another 5,000 ETH To Binance ETH Loses Key Trend Support as 3-Day Structure Turns Fully Bearish Ethereum’s 3-day chart shows a decisive breakdown in structure, with price now firmly below the 50 SMA, 100 SMA, and 200 SMA for the first time since late 2024. The rejection from the $3,600–$3,800 region triggered a strong impulse to the downside, sending ETH directly through all major moving averages and confirming a shift toward a higher-timeframe downtrend. The current trading zone around $2,800 reflects a critical test of former support, but momentum remains weak. The 50 SMA has now crossed below the 100 SMA, while both are beginning to converge downward toward the 200 SMA — a configuration that typically precedes sustained corrections. Volume has increased on red candles, showing that sellers remain dominant, and there is little evidence of aggressive dip-buying. The most recent candle wick toward $2,700 highlights vulnerability rather than strength, suggesting buyers are hesitant to defend this level with conviction. Related Reading: Bitcoin Must Break Key Supply Clusters To Regain ATH Momentum – Watch These Levels ETH is also forming a series of lower highs and lower lows, further confirming bearish market structure. If $2,750 breaks cleanly, the next significant liquidity zones sit near $2,550 and $2,300, where prior consolidations developed earlier in the cycle. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ethereum|Ethereum Analysis|ethereum news|Ethereum open interest|ethereum price|Ethereum reset|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55273838,
+    "published": 1764722627000,
+    "title": "Bitcoin Bounces Back As Vanguard Decision Opens Door To Flood Of Capital",
+    "body": "Bitcoin prices climbed above $92,000 as investors responded to the news that Vanguard will allow investors to trade crypto exchange-traded funds and mutual funds.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55275212,
+    "published": 1764725312000,
+    "title": "Grayscale Launches First US Chainlink ETF on NYSE Arca",
+    "body": "The product saw strong first-day trading after a shutdown-enabled filing path and updated SEC listing standards opened the way for its launch.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55275514,
+    "published": 1764725917000,
+    "title": "Trump hint sends Kevin Hassett Fed chair odds soaring in markets",
+    "body": "Trump hasn’t confirmed who he will have replace Fed Chair Jerome Powell with next year, but two recent hints, taken together, point to his crypto-friendly adviser.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   }
