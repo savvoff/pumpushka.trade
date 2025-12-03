@@ -1,34 +1,5 @@
 [
   {
-    "id": 55243423,
-    "published": 1764667933000,
-    "title": "Poland’s president vetoes strict crypto bill, clashes with government",
-    "body": "Poland’s president has vetoed a sweeping cryptocurrency bill over concerns that it would drive startups abroad, sparking a fierce political clash.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55245612,
     "published": 1764671537000,
     "title": "Bitcoin to end four-year cycle, break out to new highs in 2026: Grayscale",
@@ -2237,35 +2208,6 @@
     ]
   },
   {
-    "id": 55266775,
-    "published": 1764667933000,
-    "title": "Poland’s president vetoes strict crypto bill, says it threatens ‘freedoms of Poles’",
-    "body": "Poland’s president vetoed a sweeping cryptocurrency bill over concerns it would stifle innovation and threaten freedoms, sparking a fierce political clash.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55267226,
     "published": 1764710355000,
     "title": "Kraken adds Backed Finance to 2025 acquisition streak, brings xStocks in-house",
@@ -3775,6 +3717,82 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55293126,
+    "published": 1764756057000,
+    "title": "$93K And Climbing: Analysts Say Bitcoin’s Push To $100K Has Begun",
+    "body": "Bitcoin jumped back above key levels on Wednesday, with prices climbing past $93,000 after dipping to $84,400 earlier this month. Related Reading: Bitcoin Trail Ends: $29M Seized After European Authorities Shut Down Cryptomixer The move followed a sharp sell-off that removed about $8,000 from the price late over the weekend, and traders pushed the coin to a 24-hour peak of $93,910 on Coingecko. Bitcoin Climbs Above Key Levels According to MN Fund founder Michaël van de Poppe, regaining ground above $93,000 is important for momentum. He said that if the price holds and breaks higher, a run toward $100,000 becomes more likely. Other analysts echoed the call: Nick Ruck of LVRG Research pointed to macro factors and fresh ETF flows as drivers that could help Bitcoin test six figures in the coming months. This is what you’d want to see. $BTC coming back up again, after a weird move down on the 1st of this month. Now, again, breaking the $92K area is crucial. If that breaks, then I’m sure we’ll start to see a new all-time high and a test at $100K. A great day on the markets. pic.twitter.com/uy6WPabnQ8 — Michaël van de Poppe (@CryptoMichNL) December 2, 2025 ETF Activity And Market Moves Reports have disclosed that ETF-related trading helped lift the market. BlackRock’s IBIT recorded over $1.8 billion in volume within two hours after Vanguard reversed a previous stance, and total spot Bitcoin ETF volume topped $5.1 billion on the day. Market stats showed the broader crypto capitalization rose close to 7% to $3.13 trillion, with BTC dominance climbing to nearly 60%. Bitcoin itself jumped by about 8% after the US market opened, giving larger markets a clear lift. Support Zone Holds Focus Analysts had been watching the $86,000 to $88,000 band as a critical area of support. Based on reports from active market watchers, that range had been tested dozens of times in recent months and holding above it signaled reduced selling pressure. One analyst argued that a break below would likely lead some big players to change tack, moving from buying to selling behavior. Liquidations And Net Inflows Changed The Day Other market observers reported heavy turnover in derivatives and spot markets: over $360 billion in short positions were liquidated, while more than $160 billion was reportedly added back into crypto markets within a 24-hour span. Those figures, if accurate, helped explain the speed of the rebound and the large single-day gains. Related Reading: XRP Is About To Hit A Major Turning Point This Week, Analyst Says What Comes Next For Prices Short-term traders will watch how Bitcoin behaves around $92,000 and whether it can hold above the $86,000–$88,000 floor. Some commentators warned that sudden ETF-driven demand can cause sharp spikes that may not last. Others pointed to possible policy shifts, such as renewed talk of US interest-rate cuts, as reasons why money might flow into major crypto assets in the months ahead. For now, prices sit a little above $92,700 at the time of writing. The market is clearly volatile. Investors and traders will likely need to balance the bullish signs against the risk that a fresh round of selling could wipe gains quickly. Featured image from Gemini, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|BIitcoin|btc|btcusd|crypto|etf|fed",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55293121,
+    "published": 1764756000000,
+    "title": "Babylon’s Trustless Vaults to Add Native Bitcoin-Backed Lending Through Aave",
+    "body": "Babylon is also planning to introduce Bitcoin-backed DeFi insurance, letting BTC holders earn yield while underwriting risk against hacks and exploits.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Babylon|Aave|Lending|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
