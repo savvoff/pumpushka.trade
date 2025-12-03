@@ -1,133 +1,5 @@
 [
   {
-    "id": 55241829,
-    "published": 1764665147000,
-    "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-    "body": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55242281,
-    "published": 1764666019000,
-    "title": "Zcash (ZEC) Leads Market Pullback With 24% Drop, Analysts Warn Of Another Crash Ahead",
-    "body": "As the whole crypto market bled, Zcash (ZEC) started December with a massive one-day pullback, leading the losses among top cryptocurrencies. While some market observers suggest that the altcoin is positioned for a major move, others have warned that the price risks another major correction in the coming weeks. Related Reading: Is Strategy Buying Bitcoin Again? Saylor’s ‘Green Dots’ Suggest Yes Zcash Loses Key Support Levels Amid Crash Following the late Sunday market correction, Zcash has lost crucial levels and fallen to one-month lows. Over the past three months, the cryptocurrency has seen a parabolic rally, surging over 1,775% to its all-time high (ATH) of $750 in early November. Since its ATH rally, the altcoin has been trading within the $440-$720 levels, bouncing between the range’s upper and lower boundaries amid the recent market volatility. However, the end-of-November pullback saw ZEC’s price unsuccessfully retest its key support area, closing the day below this area for the first time in nearly a month. After losing this zone, Zcash continued to drop below other key support levels, breaking down the $400 barrier and hitting a local low of $328 on Monday morning before bouncing to the $340 area. Amid this performance, some market observers warned that the altcoin could be in trouble and further bleeding may occur in the coming weeks. Sjuul from AltCryptoGems highlighted that ZEC registers the biggest price drops in the weekly and daily timeframes, with declines of 40.2% and 24%, respectively. The analyst previously pointed out that the cryptocurrency lost its uptrend after falling below the EMA200, recording “a perfect bearish retest followed by a strong rejection” last week. As a result, Sjuul suggested that if Zcash did not reclaim the key moving average, the cryptocurrency would be positioned for a breakdown to lower support levels. Similarly, Altcoin Sherpa considers that ZEC could drop another 30%-40% to the $200 area after losing the crucial $440 support. Nonetheless, he added that the price will likely see short-term bounces during its retracement. ZEC’s Correction: Nothing To Worry About? Mert Mumtaz, Helius co-founder and CEO, affirmed that a correction after a 700% rally “is normal,” adding that the privacy token “looks great” on higher timeframes. Notably, the cryptocurrency still shows 700% and 485% increases on the three-month and one-year timeframes. The CEO also highlighted Zcash’s strengths: “privacy is not a narrative, private money is the entire purpose of crypto,” suggesting that the altcoin is positioned to challenge other leading cryptocurrencies like XRP in the future. Meanwhile, another pseudonym market watcher considers that Zcash is preparing for a big move despite the correction. According to X analyst Make Sense, the cryptocurrency is at a make-or-break level after falling to the $320 mark, its first major support area below the November range. If ZEC holds the current range, the price could reclaim its recently lost range and bounce to its $500-$600 mid-range. On the contrary, if it loses its current levels, the cryptocurrency could retest the $280 and even $200 area, he affirmed, before a trend reversal. Related Reading: Will Bitcoin (BTC) End 2025 In Green? November Close May Hold The Key “This is where market makers decide the next trend: bounce early → mid-range rally or deep sweep → full trend reversal. Either way, volatility is about to explode,” he explained. As of this writing, Zcash is trading at $338, a 20% decline in the monthly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto analyst|Crypto Bull Run 2025|crypto market correction|Crypto trader|privacy token|ZCash|Zcash parabolic rally|Zcash Price|ZEC|ZEC ATH|ZECUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55242928,
-    "published": 1764666868000,
-    "title": "x402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55242695,
-    "published": 1764666712000,
-    "title": "Anthropic Research Shows AI Agents Are Closing In on Real DeFi Attack Capability",
-    "body": "Models tested by MATS and the Anthropic Fellows program generated turnkey exploit scripts and identified fresh vulnerabilities, suggesting automated exploitation is becoming technically and economically viable.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|Artificial Intelligence|Hack|DeFi|Decentralized Finance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 55243423,
     "published": 1764667933000,
     "title": "Poland’s president vetoes strict crypto bill, clashes with government",
@@ -2236,75 +2108,6 @@
     ]
   },
   {
-    "id": 55264814,
-    "published": 1764665147000,
-    "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-    "body": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55264917,
-    "published": 1764665147000,
-    "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-    "body": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55264520,
-    "published": 1764665147000,
-    "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-    "body": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55265122,
     "published": 1764697828000,
     "title": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
@@ -2336,145 +2139,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55264972,
-    "published": 1764665147000,
-    "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
-    "body": "OpenEden has raised an undisclosed round backed by Ripple and major institutions to expand tokenized US Treasurys.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55265771,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55265609,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55266171,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55265873,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
@@ -2522,64 +2186,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55266461,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55266305,
-    "published": 1764666868000,
-    "title": "X402 ecosystem expands as Solana becomes number-one network for payments",
-    "body": "Solana has quietly become the busiest chain for x402 payments, clocking an all-time high $380,000 in daily volume and a 750% weekly jump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
@@ -4064,6 +3670,111 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55289922,
+    "published": 1764750013000,
+    "title": "Binance names Yi He as co-chief executive",
+    "body": "Biggest cryptocurrency exchange says she will run group alongside Richard Teng",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55291026,
+    "published": 1764752354000,
+    "title": "Daily crypto liquidations nearly triple amid overheating leverage: Glassnode",
+    "body": "Daily futures wipeouts are surging as leverage builds, with a record unwind in October exposing how deeply derivatives now shape Bitcoin’s market cycle.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55291561,
+    "published": 1764753107000,
+    "title": "Bitcoin Bollinger Bands repeat 'parabolic' bull signal from late 2023",
+    "body": "Bitcoin Bollinger BandWidth plumbed new record lows after printing a classic \"green\" signal in November that previously saw 40% BTC price upside.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
