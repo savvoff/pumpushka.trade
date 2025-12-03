@@ -1,69 +1,5 @@
 [
   {
-    "id": 55237102,
-    "published": 1764657651000,
-    "title": "BlackRock's Fink and Goldstein Say Tokenization Could Redraw Market Plumbing",
-    "body": "BlackRock execs say tokenization, once tangled in the crypto frenzy, is accelerating toward a major rebuild of global market infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55237352,
-    "published": 1764658152000,
-    "title": "Sanctioned Cambodian Lender Huione, Linked to Illicit Crypto, Halts Business After Bank Run: Report",
-    "body": "The scandal-plagued platform blamed a surge in withdrawals for its shutdown, the latest fallout from U.S. sanctions and money-laundering allegations targeting the wider Huione network.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Cambodia|Huione|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
     "id": 55238926,
     "published": 1764660572000,
     "title": "Ethereum Devs Push ZK ‘Secret Santa’ System Toward Deployment",
@@ -4081,6 +4017,88 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55286378,
+    "published": 1764743630000,
+    "title": "Binance Names Co-founder Yi He as Co-Chief Executive",
+    "body": "Binance Holdings Ltd. appointed its co-founder Yi He as co-chief executive officer alongside Richard Teng, according to a post on X by the world’s biggest crypto exchange on Wednesday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55286874,
+    "published": 1764745217000,
+    "title": "Cardano’s December Slide Intensifies: What’s Driving the Decline and What Comes Next?",
+    "body": "Cardano (ADA) has opened December under pressure, dropping more than 7% in the past week as broader market sentiment weakens and macroeconomic uncertainty rises. Related Reading: Bitcoin Long-Term Holders See First Uptick Since April Lows: Bullish Sign? ADA is now trading near $0.38–$0.4, testing key support levels and extending a month-long downtrend that has erased recent gains. ADA's price gains some small gains on the daily chart. Source: ADAUSD on Tradingview Macroeconomic Pressure and Market Sentiment Weigh on ADA The latest decline comes amid renewed concerns over global interest rate policy. Comments from Bank of Japan Governor Kazuo Ueda signaled the possibility of a rate hike, a shift that could unwind leveraged positions funded through low-interest yen borrowing. Cardano’s drop aligns with losses seen across the crypto market, with Bitcoin, Ethereum, and other major altcoins also trading lower. High trading volumes, over $1 billion in the past 24 hours, reflect elevated volatility and growing caution among investors. On-chain indicators show dormant ADA wallets from as far back as 2017 moving coins to exchanges, a sign that long-term holders may be preparing to exit positions. Short interest in ADA futures has also increased, with open interest rising 12% over the past week. Traders are betting on a further slide below $0.35 unless ADA can reclaim the $0.40 resistance level. Ecosystem Developments Offer Some Long-Term Support Despite the market downturn, several developments within the Cardano ecosystem continue to generate attention. A $30 million liquidity initiative designed to strengthen Cardano’s DeFi sector is scheduled for rollout in early 2026. The fund aims to boost total value locked by supporting lending, staking, and decentralized exchange activity, areas where Cardano has historically lagged behind competitors. Another upcoming milestone is the launch of the Midnight sidechain on December 8. The privacy-focused network introduces new capabilities around data protection and secure enterprise applications. Some analysts believe the launch could increase Cardano’s adoption and improve sentiment, particularly if it leads to more activity in decentralized finance. Cardano’s long-term technical outlook also remains a topic of debate. Analysts note that ADA is once again touching the support line of a multi-year uptrend. Historically, similar tests have preceded recoveries, with some projecting a possible rebound toward the $0.50–$0.75 range if the market stabilizes. What Comes Next for Cardano (ADA)? The near-term outlook for Cardano remains uncertain. A break below $0.38 could expose the token to further declines toward the $0.30 area, especially if broader market weakness continues. However, strong staking participation, around 70% of circulating supply, may help cushion deeper drawdowns. Longer-term forecasts vary widely, ranging from modest recoveries to highly optimistic projections tied to expected ecosystem upgrades in 2026. Related Reading: Bitcoin Vs. Gold Metric Flashes Rare Signal Not Seen in Market History – See How For now, ADA’s trajectory will depend on whether macroeconomic pressures ease and whether Cardano can translate its upcoming developments into sustained network growth and investor confidence. Cover image from ChatGPT, ADAUSD chart on Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cardano|ADA|adausd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
