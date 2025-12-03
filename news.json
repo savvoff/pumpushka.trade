@@ -1,180 +1,5 @@
 [
   {
-    "id": 55260318,
-    "published": 1764696959000,
-    "title": "AI Investment to Drive Global Growth Through 2026, BofA Says",
-    "body": "Bitcoin miners have been among those riding the AI boom, with IREN and Cipher Mining up over 300% in 2025.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|AI|Bitcoin Mining|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55260994,
-    "published": 1764698078000,
-    "title": "Bank of America Endorses Up to 4% Allocation of Wealth Management Portfolios to Crypto: Report",
-    "body": "The bank joined a growing list of traditional finance firms that have increased their embrace of digital asset investment strategies.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55260853,
-    "published": 1764697919000,
-    "title": "Trump-Associated American Bitcoin Plunges 40% on Heavy Volume, Dragging Hut 8 Lower by 12%",
-    "body": "The collapse marks yet another disappointing Trump family crypto-related investment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Eric Trump|Trump|Bitcoin News|Hut 8|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55262205,
-    "published": 1764700285000,
-    "title": "XRP and Solana Are Jumping. They Just Got 2 Leveraged ETFs.",
-    "body": "XRP and Solana rose on Tuesday, regaining ground lost in crypto markets’ recent slump.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55261941,
-    "published": 1764699733000,
-    "title": "Unlimit enters stablecoin infrastructure race with decentralized clearing house",
-    "body": "The new platform lands amid a wave of fintech adoption of stablecoins for global transfers, payouts and onchain settlement.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55263082,
     "published": 1764702027000,
     "title": "Shibarium Hack Fallout: Shiba Inu Team Criticized For Not Reporting Breach",
@@ -370,47 +195,6 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55265122,
-    "published": 1764697828000,
-    "title": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
-    "body": "Strategy Inc.’s new $1.4 billion reserve gives the Bitcoin accumulator flexibility to meet short-term obligations such as dividend and interest payments during market turbulence, according to Chief Executive Officer Phong Le.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -3835,6 +3619,199 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55308476,
+    "published": 1764782625000,
+    "title": "Fusaka Cementing Ethereum’s Role as On-Chain Finance Settlement Layer: Bitwise",
+    "body": "The upgrade will boost throughput, keep validators efficient and, most importantly, strengthen Ethereum's value capture by putting a floor under blob fees.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum News|Fusaka|Bitwise Asset Management|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55308347,
+    "published": 1764781870000,
+    "title": "Big Banks Partnering With Coinbase on Crypto Pilots, CEO Says",
+    "body": "Some of the largest banks are working with Coinbase Global Inc. on pilots surrounding stablecoins, custody and trading, the cryptocurrency exchange’s chief executive officer said on Wednesday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NMS:COIN",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55308940,
+    "published": 1764783533000,
+    "title": "Filecoin Gains 2% Alongside Crypto Rally",
+    "body": "The token tracked broader crypto sentiment on below-average volume, establishing an ascending trend.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Filecoin|Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 27,
+        "NAME": "FIL",
+        "CATEGORY": "FIL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55309618,
+    "published": 1764784814000,
+    "title": "Bitmine Buys Another 18,345 Ethereum ($54.94M) In Fresh Accumulation Push – Details",
+    "body": "Ethereum has reclaimed the $3,000 level after a strong market reaction to improving macro conditions, offering investors a much-needed shift in momentum. The move comes just days after the Federal Reserve officially ended Quantitative Tightening (QT), a policy shift that immediately boosted liquidity expectations across all risk assets. With markets now pricing in an imminent interest rate cut, confidence has begun to return, and ETH is one of the first major assets to respond. Related Reading: Bitcoin Liquidation Dominance Hits Multi-Year High: The Real Cause Behind BTC’s Breakdown This rebound reflects more than just macro relief. According to data from Arkham, shared by Lookonchain, Bitmine continues to accumulate Ethereum at current prices, reinforcing bullish sentiment at a moment when many traders remain cautious. Bitmine’s persistent buying throughout the correction has become one of the most influential signals for on-chain analysts, suggesting that large players see long-term value even as the market wrestles with volatility. Reclaiming $3,000 places Ethereum back above a key psychological level, and the combination of supportive macro policy and whale accumulation provides a stronger foundation than the market had just weeks ago. Bitmine and Linked Wallets Expand Ethereum Holdings According to data from Arkham reported by Lookonchain, Bitmine has purchased another 18,345 ETH, worth approximately $54.94 million, just a few hours ago. This marks yet another large buy in a growing series of aggressive accumulation moves that Bitmine has made throughout the correction. Their continued willingness to buy at current levels signals strong confidence in Ethereum’s long-term value, even as the market navigates heightened volatility. Shortly after this report, Lookonchain highlighted activity from a newly created wallet, 0x52B7, which withdrew 30,278 ETH—valued at $91.16 million—from Kraken. The size and timing of the withdrawal have led analysts to speculate that this wallet may be linked to Bitmine or part of a broader accumulation strategy. Large withdrawals from exchanges typically indicate that the owner intends to hold the assets off-exchange, often for long-term storage or staking, rather than preparing to sell. If the wallet is indeed connected to Bitmine, this would bring their latest combined accumulation to nearly 50,000 ETH in a single day. Such behavior suggests strategic positioning ahead of potential macro-driven upside or internal confidence in Ethereum’s recovery. This kind of synchronized whale activity often precedes significant price shifts, reinforcing the idea that large players are preparing for a stronger market phase. Related Reading: Ethereum Open Interest Cut In Half As $6.4B In Positions Vanish: Market Reset Accelerates ETH Reclaims $3,000 But Still Faces Key Resistance Ethereum’s 3-day chart shows a notable improvement after reclaiming the $3,000 level, but the broader trend still carries signs of fragility. The recent bounce followed a deep corrective move that sent ETH from the $4,500 region down to the $2,700–$2,800 support zone, where buyers finally stepped in with conviction. The strong lower wicks around this area confirm that demand remains active, but Ethereum has yet to fully recover its bullish structure. Price now trades just below the 50 SMA, which sits near the $3,100–$3,150 zone—an important short-term resistance level. A clean break above this moving average would signal renewed momentum and increase the chances of retesting the $3,400–$3,600 range. Meanwhile, the 100 SMA and 200 SMA remain slightly above price, reflecting the broader downtrend that has dominated since September. Related Reading: Bitcoin Flashes Largest Hidden-Buying Spike of the Cycle Despite Losing $90K Level Volume has picked up slightly during the recovery, but it remains muted compared to the selling spikes seen during the drawdown. This indicates cautious buying rather than aggressive accumulation at these levels. To confirm a trend reversal, ETH must close above the 50 SMA and then challenge the cluster of resistance around $3,200–$3,300. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|BitMine|Bitmine Ethereum buying|ETH|ethereum|Ethereum Bitmine|ethereum news|Ethereum Whale|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55310428,
+    "published": 1764786089000,
+    "title": "ETHZilla takes stake in Karus to tokenize AI-modeled auto-loan portfolios",
+    "body": "The deal grants ETHZilla access to Karus’s AI underwriting engine and loan origination network, positioning the crypto treasury company to offer auto credit onchain in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
