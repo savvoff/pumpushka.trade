@@ -1,128 +1,5 @@
 [
   {
-    "id": 55229911,
-    "published": 1764646589000,
-    "title": "Cantor Fitzgerald Reveals Solana ETF Holdings in Latest Filing to SEC",
-    "body": "Cantor disclosed its first position in a newly listed Solana ETF, adding momentum to TradFi's shift toward regulated crypto exposure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55230379,
-    "published": 1764647356000,
-    "title": "Attention Bitcoin Bulls: The U.S. 10-Year Yield Isn't Budging Despite Fed Rate Cut Hopes",
-    "body": "Bitcoin bulls' hopes for rate cuts to lower bond yields and the dollar are challenged by signals from the Treasury and the FX market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Federal Reserve|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55231547,
-    "published": 1764649152000,
-    "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
-    "body": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55232220,
     "published": 1764650313000,
     "title": "XRP Price Hovers at Key Support, Fueling Debate Over Incoming Breakout",
@@ -2272,41 +2149,6 @@
     ]
   },
   {
-    "id": 55257533,
-    "published": 1764649152000,
-    "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
-    "body": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55257918,
     "published": 1764692509000,
     "title": "Atkins says SEC has 'enough authority' to drive crypto rules forward in 2026",
@@ -2361,76 +2203,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55258106,
-    "published": 1764649152000,
-    "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
-    "body": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55257916,
-    "published": 1764649152000,
-    "title": "Ethereum devs work on ‘Secret Santa’ protocol to power privacy",
-    "body": "A Solidity engineer proposed a protocol earlier this year using zero-knowledge proofs and transaction relayers to enable a Secret Santa-like feature on Ethereum.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
@@ -4159,6 +3931,234 @@
         "ID": 47,
         "NAME": "SPONSORED",
         "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55278852,
+    "published": 1764732488000,
+    "title": "Ethereum Rockets Higher, Narrowing Distance to a Make-or-Break Resistance Line",
+    "body": "Ethereum price started a fresh increase above $2,92 0. ETH is now attempting to clear the $3,050 resistance and might accelerate higher. Ethereum started a fresh increase above the $2,920 and $2,950 levels. The price is trading above $2,950 and the 100-hourly Simple Moving Average. There was a break above a short-term bearish trend line with resistance at $2,825 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,050 zone. Ethereum Price Eyes Upside Break Ethereum price managed to stay above $2,720 and started a fresh increase, like Bitcoin . ETH price gained strength for a move above the $2,850 and $2,880 resistance levels. There was a break above a short-term bearish trend line with resistance at $2,825 on the hourly chart of ETH/USD. The bulls even pumped the price above $2,950. However, the price is now testing a key barrier at $3,050. A high was formed at $3,047 and the price is now consolidating above the 23.6% Fib retracement level of the recent move from the $2,718 swing low to the $3,047 low. Ethereum price is now trading above $2,950 and the 100-hourly Simple Moving Average. If there is another upward move, the price could face resistance near the $3,050 level. The next key resistance is near the $3,080 level. The first major resistance is near the $3,120 level. A clear move above the $3,120 resistance might send the price toward the $3,200 resistance. An upside break above the $3,200 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,350 resistance zone or even $3,380 in the near term. Another Decline In ETH? If Ethereum fails to clear the $3,050 resistance, it could start a fresh decline. Initial support on the downside is near the $2,970 level. The first major support sits near the $2,880 zone or the 50% Fib retracement level of the recent move from the $2,718 swing low to the $3,047 low. A clear move below the $2,840 support might push the price toward the $2,800 support. Any more losses might send the price toward the $2,750 region in the near term. The next key support sits at $2,720 and $2,710. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $2,970 Major Resistance Level – $3,050",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55279115,
+    "published": 1764732484000,
+    "title": "Bitcoin surges to $93K after Sunday flush, as analysts eye $100K",
+    "body": "Bitcoin recovered to $93,000 after a leverage flush on Sunday, with analysts now predicting that macro tailwinds could push the cryptocurrency over six figures.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55280146,
+    "published": 1764734435000,
+    "title": "Bitcoin Liquidation Dominance Hits Multi-Year High: The Real Cause Behind BTC’s Breakdown",
+    "body": "Bitcoin continues to trade below $90,000, struggling to recover after several days of heavy selling and aggressive long liquidations. Sellers keep pushing price lower, and bulls fail to reclaim momentum, creating a market environment filled with uncertainty and fear. Every attempt to bounce meets immediate resistance, showing how much control bears currently hold. Related Reading: Bitcoin Flashes Largest Hidden-Buying Spike of the Cycle Despite Losing $90K Level Data shared by Axel Adler shows a clear shift in derivatives pressure toward buyers. The liquidation dominance oscillator now sits at 32%, one of its highest readings in recent years. This level signals that leveraged bulls keep taking the majority of the damage, with long positions consistently wiped out as volatility rises. Instead of absorbing the drawdown, many traders continue to unwind or get forced out of their positions. These repeated long liquidations fuel deeper downside moves and block any meaningful recovery attempts. The market now watches closely to see whether this wave of forced selling will continue dragging Bitcoin lower or if the pressure is finally reaching exhaustion. Long Liquidations Dominate as Bitcoin Faces Renewed Downside Pressure Adler explains that the liquidation dominance oscillator measures the ratio between long and short liquidations across the derivatives market. When the indicator prints positive values, shown as green bars, long positions take the bulk of the damage. Negative values reflect a dominance of short liquidations. Bitcoin’s current reading of 32% stands out as one of the highest levels seen in the last three years, highlighting how aggressively bulls have been forced out during this correction. November illustrates this perfectly. The market saw three separate waves of long liquidations, each exceeding $400 million. Every one of those spikes aligned with a sharp acceleration in Bitcoin’s price decline, reinforcing how leveraged buyers repeatedly amplified downside momentum. Rather than stabilizing the market, each flush created more selling pressure and triggered deeper unwinding across futures platforms. The most recent liquidation wave reached $221 million, hitting the market right as Bitcoin attempted a short-term recovery. That flush immediately reversed the bounce and dragged BTC back down to the $86,000 region, erasing nearly all of last week’s gains. The persistent dominance of long liquidations shows that bulls remain under heavy stress—and until this dynamic eases, Bitcoin will struggle to build sustainable upside. Related Reading: Massive Ethereum Distribution Continues: Whale Sends Another 5,000 ETH To Binance Bitcoin Market Searches for a Higher Time-Frame Floor Bitcoin’s weekly chart shows the market pressing into a critical support zone after weeks of heavy selling. The price has dropped from the $115,000 region to the $86,000–$88,000 range, where it now interacts directly with the 100 SMA. This moving average has served as a key structural support in previous cycles, and Bitcoin’s current test of it will likely determine whether the broader uptrend holds or breaks down further. The recent candles highlight intense volatility. Bitcoin briefly dipped to nearly $84,000 before buyers stepped in, forming a lower wick that shows early attempts to defend this level. However, the rebound remains shallow, and the 50 SMA continues to slope downward — a sign that short- and mid-term momentum still favors sellers. For bulls to regain control, BTC needs to reclaim $95,000 on a weekly closing basis. Related Reading: Bitcoin Must Break Key Supply Clusters To Regain ATH Momentum – Watch These Levels Volume adds weight to the bearish pressure. Selling spikes dominate recent weeks, revealing a mix of forced liquidations and fear-driven exits rather than healthy profit-taking. As long as BTC trades below the 50 SMA, the market remains vulnerable to deeper retracements. If the 100 SMA fails to hold, the next major liquidity zone sits near $70,000–$72,000, aligning with previous consolidation and the long-term 200 SMA. The next weekly close will be decisive. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin breakdown|Bitcoin Cycle|bitcoin liquidiations|Bitcoin news|Bitcoin Retrace|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55279920,
+    "published": 1764733971000,
+    "title": "How Operation Choke Point 2.0 Quietly Debanked Crypto In America",
+    "body": "The House Financial Services Committee released a report that shows the debilitating impact of Operation Choke Point 2.0 on crypto entrepreneurs and businesses.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55280607,
+    "published": 1764735059000,
+    "title": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
+    "body": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday’s wipeout.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55280442,
+    "published": 1764734916000,
+    "title": "XRP Price Rebounds From Lows as Bulls Push Recovery Toward Key Levels",
+    "body": "XRP price started a recovery wave from $1.9840. The price is now rising above $2.120 and might face hurdles near the $2.250 pivot level. XRP price started a recovery wave from the $1.9840 zone. The price is now trading above $2.120 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2.150 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move up if it settles above $2.250. XRP Price Recovers Over 5% XRP price extended losses below the $2.050 support, like Bitcoin and Ethereum . The price even spiked below $2.00 before the bulls appeared. A low was formed at $1.9844, and the price is now attempting to recover. There was a move above the $2.050 and $2.120 levels. The bulls were able to push the price above the 50% Fib retracement level of the downward move from the $2.2750 swing high to the $1.9844 low. Besides, there was a break above a key bearish trend line with resistance at $2.150 on the hourly chart of the XRP/USD pair. The price is now trading above $2.150 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $2.20 level or the 76.4% Fib retracement level of the downward move from the $2.2750 swing high to the $1.9844 low. The first major resistance is near the $2.250 level. A close above $2.250 could send the price to $2.320. The next hurdle sits at $2.350. A clear move above the $2.350 resistance might send the price toward the $2.40 resistance. Any more gains might send the price toward the $2.450 resistance. The next major hurdle for the bulls might be near $2.50. Another Decline? If XRP fails to clear the $2.250 resistance zone, it could start a fresh decline. Initial support on the downside is near the $2.120 level. The next major support is near the $2.10 level. If there is a downside break and a close below the $2.10 level, the price might continue to decline toward $2.050. The next major support sits near the $2.00 zone, below which the price could continue lower toward $1.920. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now above the 50 level. Major Support Levels – $2.120 and $2.10. Major Resistance Levels – $2.20 and $2.250.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
