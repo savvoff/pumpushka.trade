@@ -1,279 +1,5 @@
 [
   {
-    "id": 55255789,
-    "published": 1764689167000,
-    "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Heats Up",
-    "body": "Kalshi secures a massive funding boost led by Paradigm, widening its lead over Polymarket as trading volumes surge and both platforms pursue fresh capital.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Kalshi|Prediction Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55255724,
-    "published": 1764689033000,
-    "title": "Grayscale’s Chainlink ETF Lists on NYSE Arca, LINK Price Jumps",
-    "body": "The debut marks the first U.S. ETF tied to Chainlink, which secures tens of billions of dollars in onchain value across DeFi and gaming.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Chainlink|Grayscale|ETFs|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55255638,
-    "published": 1764688800000,
-    "title": "Ethereum price analysis: Will ETH continue to decline in December?",
-    "body": "Ethereum risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55256076,
-    "published": 1764689492000,
-    "title": "Grayscale’s Chainlink ETF Set for Potential NYSE Arca Debut This Week",
-    "body": "Bloomberg terminal shows a December 2 uplisting date, indicating the Chainlink trust’s conversion into a spot ETF is close.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55257087,
-    "published": 1764691315000,
-    "title": "Bitcoin Surges Back Above $91K as Support Builds in $80K-$85K Area",
-    "body": "Helping the mood in crypto were moves by institutional giants Vanguard and Bank of America to open up digital assets to their clients.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Market Wrap|Breaking News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55256652,
-    "published": 1764690566000,
-    "title": "White-Collar Fraudster Jailed in UK After Converting $650K in Company Funds to Crypto",
-    "body": "Experts suggest that crypto-related white-collar crime could be on the rise, with many firms unprepared for a growth in such crime.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55257657,
-    "published": 1764692086000,
-    "title": "AI Will Supercharge Energy And Metal Prices: Why Commodities Are Set To Explode",
-    "body": "Ex: There is so much negativity about AI right now that, as a contrarian, I’m even more bullish on it than before. But my key conclusion is, AI will boil the oceans.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55257423,
-    "published": 1764691908000,
-    "title": "SOL Bulls Take a Breather After Pumping Millions Into ETFs",
-    "body": "Solana exchange-traded funds debuted on Oct. 28 and performed flawlessly with inflows 21 consecutive days until the day before Thanksgiving.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Solana News|Crypto ETF|ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55257918,
     "published": 1764692509000,
     "title": "Atkins says SEC has 'enough authority' to drive crypto rules forward in 2026",
@@ -661,47 +387,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55264479,
-    "published": 1764688800000,
-    "title": "Ether price analysis: Will ETH continue to decline in December?",
-    "body": "Ether risks a deeper sell-off toward $2,500–$2,200 as MVRV support weakens and a bearish pennant threatens to break lower.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
@@ -3870,6 +3555,140 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55304234,
+    "published": 1764775126000,
+    "title": "Kalshi’s Luana Lopes Lara Becomes Youngest Female Self-Made Billionaire",
+    "body": "A recent $1 billion funding round led by Paradigm puts Kalshi co-founders Luana Lopes Lara and Tarek Mansour on the billionaire list.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Kalshi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55305095,
+    "published": 1764776400000,
+    "title": "Can BNB price retake $1K in December?",
+    "body": "Multiple bullish signals, including a double bottom and falling wedge breakout, are aligning to potentially lift the BNB price toward $1,000 in December.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55305631,
+    "published": 1764777661000,
+    "title": "U.S. Debt Growth Will Drive Crypto's Gains, BlackRock Says in Report on AI",
+    "body": "The world’s largest asset manager released its AI report with a bearish outlook on U.S. bonds and the country’s economy, and presented a bullish projection for crypto adoption.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|BlackRock|AI|crypto adoption|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55305634,
+    "published": 1764777628000,
+    "title": "Is The Dogecoin Bottom In? This Price Level Could Be The Tell",
+    "body": "Dogecoin is staging a sharp rebound from a key technical level that one analyst has flagged as the potential low of its current correction. Is The Dogecoin Bottom In? On X, crypto analyst Kevin (@Kev_Capital_TA) highlighted the $0.138 region as the decisive line. Posting a weekly DOGE chart, he wrote: “$0.138 still holding strong on Dogecoin. If DOGE can hold this level (Macro .382 + 200W SMA) and BTC + USDT hold their respective support and resistance levels then $0.138 will be the lows for this corrective period. Still got work to do. Main focus is still BTC and USDT D.” His chart shows Dogecoin trading on the 1-week timeframe, with the price recently wicking down into a dense support cluster around $0.138 and rebounding. That area coincides with the 0.382 Fibonacci retracement of the prior advance, explicitly marked “0.382 (0.13827),” and the rising 200-week simple moving average that has now climbed into the same zone. Furthermore, this area coincides with an upward trendline that has guided DOGE’s price action since mid-2023; a decisive break below it would be technically fatal. Related Reading: Here’s The Bullish Trend Developing To Trigger A 174% Move For The Dogecoin Price The bounce has been visible on lower timeframes as well. DOGE traded as low as $0.13443 yesterday before surging to $0.152 today, gaining more than 13% at the intraday high. Kevin has been emphasizing this level for weeks. On November 22 he told followers: “$0.138 is massive support on Dogecoin folks. You really do not want to see that lost on 3D-1W closes. Obviously BTC’s performance will be the determiner to that outcome so focus there first along with USDT D.” In his framework, the integrity of the DOGE support cluster is inseparable from Bitcoin’s higher-timeframe structure and stablecoin flows. The macro background is shifting in his favor. Yesterday Bitcoin rebounded from $86,184 to $92,307, extended to $93,958 today and is currently around $92,816. Commenting on BTC, Kevin noted: “A close above $91K on the 3D-1W candle supports the idea that the counter trend rally is beginning in my BTC corrective phase reversal zone. One day doesn’t make a trend let’s see what we can do.” Related Reading: Market Downturn Hits Dogecoin Hard: Is a Larger Correction on the Horizon? That statement builds on his November 25 outlook, where he argued that the corrective phase he has been tracking since August–September on BTC and the “Total 2” altcoin index is nearing completion. “There will be a bottom formed and a counter trend rally in the coming weeks on BTC and Altcoins,” he wrote, adding that “the corrective phase is almost over” but still needs “a little more time to form a proper bottom.” Kevin’s DOGE chart maps the alternatives clearly. Above, horizontal resistance near the 0.5 Fibonacci retracement sits around $0.19, while lower support is marked at the 0.236 retracement near $0.093 alongside longer-term trendlines. Whether $0.138 becomes the definitive bottom of Dogecoin’s correction depends on two conditions Kevin keeps repeating: DOGE must continue to hold the macro 0.382 plus 200-week SMA and the uptrend line on 3-day to weekly closes, and Bitcoin must confirm its own counter-trend rally with sustained higher-timeframe strength. For now, the market has made its tell clear. The answer to whether the Dogecoin bottom is in starts—and potentially ends—at $0.138. At press time, Dogecoin traded at $0.14976. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|Is The Dogecoin Bottom In",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
