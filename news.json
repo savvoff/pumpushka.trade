@@ -1,122 +1,5 @@
 [
   {
-    "id": 55238926,
-    "published": 1764660572000,
-    "title": "Ethereum Devs Push ZK ‘Secret Santa’ System Toward Deployment",
-    "body": "The proposed protocol uses zero-knowledge proofs to verify sender–receiver relationships without revealing identities.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 143,
-        "NAME": "ZK",
-        "CATEGORY": "ZK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55240093,
-    "published": 1764662415000,
-    "title": "Revisiting $85,000: Bitcoin Price Drop Linked To Japanese Government Bonds",
-    "body": "After a brief period of consolidation and a bullish uptick to around $93,000 at the end of last week, the Bitcoin price has once again dipped toward the $85,000 mark, recording a significant 7% drop on Monday, according to data from CoinGecko. Market expert Shanaka Anslem has pointed to what he refers to as “the weapon” behind this latest crash: Japanese government bonds. Expert Warns Of Unraveling Yen Carry Trade In a post on social media platform X (formerly Twitter), the expert highlighted that the yield on Japan’s 10-year bonds reached 1.877 percent on December 1, 2025—the highest level since June 2008—while the 2-year yield hit 1 percent, a benchmark not seen since before the collapse of Lehman Brothers. He explained that these rising yields have triggered a significant unwinding of what Anslem describes as the largest arbitrage trade in history: the Yen Carry Trade. Related Reading: Dogecoin Whale Activity Drops To Deepest Level In Two Months With estimates placing the total size of this trade at around $3.4 trillion and figures nearing $20 trillion, he noted that this allowed global investors to borrow Japanese yen at minimal costs to buy a variety of assets, including stocks, US Treasuries, and cryptocurrencies like Bitcoin. However, this era appears to have ended last month. The mechanics of this situation are straightforward but impactful, Anslem asserted. As yields rise, the yen strengthens, making leveraged positions increasingly unprofitable. He suggested that this leads to a chain reaction: selling triggers margin calls, which in turn causes further liquidations. On October 10, $19 billion in crypto positions were liquidated, marking the largest single-day wipeout in crypto history. By November, Bitcoin exchange-traded funds (ETFs) saw $3.45 billion exit the market, with BlackRock’s IBIT suffering a $2.34 billion loss. On December 1 alone, an additional $646 million was liquidated before lunchtime. Will The Bitcoin Price Plunge To $75,000? This decline has occurred alongside the Bitcoin price correlations with major stock indices, showing a 46% correlation with the Nasdaq and a 42% correlation with the S&P 500. Anslem noted in his analysis that what was once perceived as an “uncorrelated hedge” has now transformed into a leveraged indicator of global liquidity conditions. Related Reading: Is Strategy Buying Bitcoin Again? Saylor’s ‘Green Dots’ Suggest Yes Interestingly, despite the Bitcoin price collapse, whale investors accumulated 375,000 BTC during this period. Moreover, miners significantly cut back their selling, reducing monthly sales from 23,000 BTC to just 3,672. As the market looks ahead, the expert asserted that a pivotal moment approaches on December 18 with the Bank of Japan’s upcoming policy decision. Anslem concluded that if the bank opts to raise rates and signal further increases, the Bitcoin price could test the $75,000 level, which would represent an additional 11% drop for the market’s leading cryptocurrency from current trading levels. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55240090,
-    "published": 1764662400000,
-    "title": "Unlimit Debuts Stable.com, a Decentralized Clearing House Built for Stablecoins",
-    "body": "The new non-custodial platform brings stablecoin swaps and global fiat off-ramps into one place, aiming to make the process more seamless for users.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Stablecoins|DeFi|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
     "id": 55241829,
     "published": 1764665147000,
     "title": "Ripple, major VCs back RWA platform OpenEden to scale tokenized Treasurys",
@@ -4099,6 +3982,88 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55288990,
+    "published": 1764748816000,
+    "title": "Bitcoin Blasts To $92,000, Liquidating $182 Million In Shorts",
+    "body": "Bitcoin has turned itself around with a sharp surge to $92,000, unleashing a fresh wave of short liquidations on the derivatives exchanges. Bitcoin Has Seen A Flash Recovery Back To $92,000 Bitcoin suffered a blow on Monday as its price slipped under $84,000, but just as quickly as it had crashed, the cryptocurrency has made a swift recovery on Tuesday. Related Reading: Bitcoin Long-Term Holders See First Uptick Since April Lows: Bullish Sign? With the asset’s price now floating above $92,000, its price has surged by more than 8% over the last 24 hours. Like is usually the case, Bitcoin hasn’t been alone in this rally; the rest of the cryptocurrency market has also shot up alongside the number one digital asset. Some of the top altcoins have even managed to outperform BTC, with Ethereum (ETH) sitting in a profit of nearly 10% for the past day. The fresh wave of volatility in the sector has triggered a liquidation squeeze in the derivatives market. Crypto Liquidations Have Crossed $400 Million In Last 24 Hours According to data from CoinGlass, the cryptocurrency market as a whole has suffered over $410 million in liquidations during the past day. “Liquidation” here naturally refers to the forceful closure that any contract undergoes after it has amassed a certain percentage of loss (as defined by the platform). Considering that the price action in this window was majorly to the upside, it’s not surprising to see that short contracts made up for most of the derivatives flush. As is visible in the above table, $348 million in short positions found liquidation in the last 24 hours, equivalent to about 85% of the total flush. In terms of the individual symbols, Bitcoin, Ethereum, and Solana were the top three contributors to the liquidation event with $196 million, $95 million, and $18 million in positions, respectively. Just $13 million of the Bitcoin liquidations involved long investors; the rest $182 million in liquidations struck the traders betting on a bearish outcome for the cryptocurrency. A mass liquidation event like this latest one is popularly known as a squeeze. Today’s squeeze involved shorts in an extreme majority, so the event will be termed a short squeeze. During a squeeze, a sharp swing in the price triggers a large derivatives flush, which only ends up feeding back into the price move. The amplified price swing then unleashes a further cascade of liquidations. Related Reading: XRP Crashes 9.5%, But TD Sequential Flashes A Buy Signal Such events aren’t a particularly rare sight in the cryptocurrency market, as assets tend to be volatile and many traders opt for significant amounts of leverage. Featured image from Dall-E, CoinGlass.com, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin liquidations|bitcoin rally|btc|BTCUSDT|crypto liquidations",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55289166,
+    "published": 1764746036000,
+    "title": "BlackRock's Spot Bitcoin ETF Secures U.S. Top 10 Ranking With 7.7M Active Contracts",
+    "body": "IBIT options are the ninth largest in the U.S.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|BlackRock|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
