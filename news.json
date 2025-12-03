@@ -1,116 +1,5 @@
 [
   {
-    "id": 55263082,
-    "published": 1764702027000,
-    "title": "Shibarium Hack Fallout: Shiba Inu Team Criticized For Not Reporting Breach",
-    "body": "According to reports, it has been three months since the Shibarium Bridge hack that drained more than $3 million from users, yet the case has not moved into formal law enforcement channels. Related Reading: $300 Million Crypto Bet: Kazakhstan’s Central Bank Gears Up On-chain investigators traced a clear path of funds, and community members say the clues are strong enough to support an official probe. Still, exchanges are holding back unless a police case number is presented. On-Chain Trail Revealed Based on reports from on-chain sleuths, the attacker moved 260 Ether through Tornado Cash before routing 232.49 ETH to deposit addresses at KuCoin. The laundering path involved 111 wallets and 45 unique KuCoin deposits, according to a public breakdown by a community investigator known as Shima. Shibarium Bridge hacker foolishly chose not to accept the K9 bounty – it’s finally time to share the investigation we’ve been working on…🔎 this is juicy 🤤 The hacker made one stupid mistake and it completely unravelled their Tornado Cash laundering. 💰🌪️💵 That one mistake… pic.twitter.com/itxsXbbGSm — Shima 島。 (@MRShimamoto) December 1, 2025 A small mistake — a single transfer of 0.0874 ETH — linked otherwise hidden wallets and allowed the investigator to map much of the operation. The tracing work was shared with the Shiba Inu ecosystem team so it could be used to press for recovery. Why didn’t https://t.co/OoTvg1kraL call the police? Why isn’t there a report to the appropriate authorities to get a case number? Why have no law enforcement been involved in the https://t.co/OoTvg1kraL bridge hack? https://t.co/88Gdxi0rhh — Pulse Digital 🟣 (@CryptoPulse9) December 1, 2025 Practical Roadblocks To Recovery Tracing crypto through mixers remains difficult, even when the ledger gives clues. Exchanges often need subpoena power, legal requests or a case number to share account details. That requirement can leave strong on-chain leads stuck if a project does not file a police report. Community investigators can point the way, but many of the next steps depend on formal legal action and cross-border cooperation. Exchange Action Hinges On Case Number After Shima handed the findings to the project team, members of the community and teams such as K9 Finance stepped in. One representative, using the handle DeFi Turtle, reached out to KuCoin to ask that the exchange freeze the suspected funds. KuCoin replied that it would require a formal law enforcement case number before taking such action, based on the messages that have circulated in community channels. Without a police report, the exchange said it could not legally provide internal records or lock the linked accounts. Sleuth Offers Evidence To Victims Faced with slow institutional movement, Shima has offered the full dataset, the mapping work and the methodology to victims and to any law enforcement body willing to act. Victims in different countries may need to lodge complaints locally to create the case numbers that exchanges demand. Related Reading: XRP Is About To Hit A Major Turning Point This Week, Analyst Says Calls For Formal Complaints Shane Cook, founder of Pulse Digital Marketing, questioned why the Shiba Inu team had not filed an official complaint despite the on-chain evidence. Reports show the team previously confirmed the breach and said it had contacted security firms including PeckShield and Hexens. Cook’s criticism centers on the idea that technical analysis alone may not be enough; a legal filing is often required to make exchanges cooperate. The community now wonders whether the project prioritized reopening the bridge and repayment planning over pursuing legal routes. Featured image from Hacked.com, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Shiba Inu|altcoins|bitcoin|crypto|Ether|ethereum|memecoin|SHIB|Shibarium",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 44,
-        "NAME": "SHIB",
-        "CATEGORY": "SHIB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55262918,
-    "published": 1764701764000,
-    "title": "Amazon Enters AI Arms Race as Crypto and Risk Asset Fears Mount",
-    "body": "The pivot to AI comes with risks, including heavy borrowing and concerns about sustainability, with potential shortfalls if demand for AI slows.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Amazon|Artificial Intelligence|Bitcoin Mining|Top Stories|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55263315,
-    "published": 1764702414000,
-    "title": "CME launches Bitcoin volatility index as institutional crypto trading matures",
-    "body": "CME has rolled out new crypto benchmarks, including a Bitcoin volatility index designed to sharpen risk pricing across futures and options markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55264833,
     "published": 1764705628000,
     "title": "You Won’t Believe How Much Bitcoin Companies Now Hold, What % Of Supply Do They Control?",
@@ -3800,6 +3689,152 @@
         "ID": 209,
         "NAME": "DIGITAL ASSET TREASURY",
         "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55310986,
+    "published": 1764787122000,
+    "title": "SEC sends warning letters to ETF issuers targeting untamed leverage",
+    "body": "The United States Securities and Exchange Commission halted several ETF filings that proposed 3-5 times leverage on the underlying asset.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55311478,
+    "published": 1764788458000,
+    "title": "Analysts Turn Bullish on SUI as Token Extends Gains Amid Renewed Institutional Interest",
+    "body": "Sui (SUI) is drawing renewed market attention after staging one of its strongest breakouts in months, rising sharply at a time when most large-cap altcoins remain range-bound. Related Reading: Bitcoin And The 2026 Fed Shift: Expert Says Markets Aren’t Ready The latest 31% surge was triggered by a series of developments that converged within days, most notably Coinbase’s approval to offer SUI trading to New York residents, a move that places the token inside one of the most heavily regulated crypto markets in the U.S. The rally also arrived immediately after one of the largest token unlocks of the month, an event that would normally dampen prices but instead saw buyers step in with force. SUI's price trends to the upside following a steep decline as seen on the daily chart. Source: SUIUSD on Tradingview New York Listing Boosts Liquidity and Institutional Demand SUI surged between 25% and 32% over the past 24 hours after Coinbase confirmed that New York residents can now buy and trade the token across its web and mobile platforms. The approval extends SUI’s reach into one of the most tightly regulated U.S. markets, strengthening its profile as a compliant layer-1 network and increasing accessibility for institutional investors. The listing comes at a notable time. On December 1, SUI unlocked approximately $82–86 million worth of tokens, increasing circulating supply by more than 0.5%. Large unlocks typically pressure prices, but SUI moved higher instead, signaling strong demand absorption. Trading volume has more than doubled, hitting roughly $1.5 billion, levels analysts say indicate genuine accumulation rather than short-lived speculation. The launch of USDsui, a fiat-backed stablecoin designed for payments and DeFi use across the Sui ecosystem, also contributed to renewed interest. Combined with Coinbase’s expansion, these developments have strengthened confidence in Sui’s broader market positioning. SUI Technical Indicators Point to Momentum Shift Price action shows that SUI recently rebounded from November’s lows near $1.12, climbing above the $1.60 support zone. Indicators such as RSI and MACD now suggest easing selling pressure and a potential shift in short-term momentum. Analysts note that breaking above the mid-Bollinger Band near $1.90 would confirm a broader trend reversal. SUI has also moved above the Keltner mid-band for the first time in weeks, with volume delta readings showing strong spot-market buying. The next major resistance sits between $1.80 and $1.95, followed by a wider zone extending to $2.30. A decisive close above $1.92 is viewed as critical for invalidating November’s downtrend. Rally Depends on Volume Holding Market watchers say the current rally hinges on sustained demand. If daily volume remains above $1.5 billion and price holds the $1.60–$1.67 support zone, institutional participation could continue to push the token higher toward the $1.90 level. Related Reading: $93K And Climbing: Analysts Say Bitcoin’s Push To $100K Has Begun However, weakening volume or a drop below $1.48 may signal that SUI has formed a local top. For now, sentiment remains constructive as the token benefits from increased U.S. accessibility, improving technical signals, and expanding ecosystem activity. Cover image from ChatGPT, SUIUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|btc|btcusd|crypto|DeFi|ETH|ethereum|ethusd|SUI|SUI Network|SUIUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55311298,
+    "published": 1764788013000,
+    "title": "Polymarket opens US app to waitlisted users after CFTC green light",
+    "body": "Select users in the US will be among the first to access the predictions platform to bet on sports event contracts, following clearance from a financial regulator for a relaunch.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55311288,
+    "published": 1764786768000,
+    "title": "Crypto UP 7-10%, Bank of America recommends crypto, Kalshi raise $11B",
+    "body": "Crypto majors are sharply higher, climbing 6–10% following Vanguard’s crypto debut and supportive commentary from Bank of America, with BTC up 6% to $92,900, ETH up 9% to $3,070, BNB up 7% to $899, and SOL up 10% to $142. Among top movers, SUI gained 24%, PENGU 19%, and LINK 18%. Ethereum’s Fusaka upgrade is scheduled to launch today, aiming to improve mainnet ingestion of L2 data and reduce rollup costs to enhance scalability. Bank of America is now recommending a 1–4% crypto allocation for clients across Merrill Lynch and the Private Bank. On the corporate front, Kraken has agreed to acquire tokenization platform Backed Finance to accelerate the adoption of tokenized stocks, while Chainlink introduced its “LINK Everything” initiative, a comprehensive tokenization stack featuring CCIP, compliance tools, and expanded data and compute services. In the regulatory and leadership landscape, crypto-friendly Kevin Hassett is now an 85% favorite to become the next Federal Reserve Chair after Jerome Powell, Binance has appointed cofounder He Yi as Co-CEO, and the UK has formally created a new property category for crypto and NFTs through its newly passed Property Act.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
