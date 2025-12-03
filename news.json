@@ -1,174 +1,5 @@
 [
   {
-    "id": 55253668,
-    "published": 1764685364000,
-    "title": "XRP ETF inflows exceed $756M as bullish divergence hints at trend reversal",
-    "body": "Spot XRP ETFs recorded inflows for 11 consecutive days as the RSI formed a bullish divergence on the price charts, early signs that a rally was in the cards.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55254951,
-    "published": 1764687687000,
-    "title": "BNP Paribas Joins EU Bank Stablecoin Venture Helmed by Ex-Coinbase Germany Exec",
-    "body": "The group of 10 banks plans to introduce its euro stablecoin next year under a new Dutch entity named Qivalis.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|BNP Paribas|European Union|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55254886,
-    "published": 1764687627000,
-    "title": "Ripple Marks Another Milestone In Bid To Dominate Global Payments With XRP",
-    "body": "On December 1, 2025, Ripple announced a major regulatory upgrade in Singapore, reinforcing its ambition to make XRP a central instrument for global payments. The expanded license allows the company to streamline cross-border money transfers, expand its payments infrastructure, and provide faster, more transparent settlements to financial institutions worldwide. Ripple Intensifies Its Global Payments Playbook The Singapore regulatory upgrade extends the scope of Ripple’s Major Payment Institution (MPI) license, giving its subsidiary, Ripple Markets APAC Pte. Ltd., authority to operate a fully regulated, end-to-end payments platform. The license enables Ripple to handle fund collection, secure custody, token conversion, and final payouts within a single operational framework. XRP and Ripple’s stablecoin RLUSD are embedded into the system, consolidating complex cross-border processes into a fast, compliant, and transparent environment. Related Reading: The Bitcoin Price Crash To $41,000: There’s A Shark In The Water This upgrade positions Ripple as a turnkey solution for banks, corporates, and fintechs. By managing both regulatory compliance and the technology infrastructure, Ripple removes the fragmentation that slows legacy systems. These institutions now have a single point of contact, reducing complexity and making operations more efficient. Ripple is also expanding its geographic reach through strategic partnerships. Its collaboration with Bahrain Fintech Bay allows the company to run pilot programs, real-world payment trials, and early deployment of token-driven services in the Gulf region. These initiatives help Ripple establish liquidity corridors, embed its infrastructure into local financial ecosystems, and build familiarity with regional regulators. Financially, Ripple strengthened its position with a $500 million funding round in November 2025, which valued the company at roughly $40 billion. The capital is being directed toward scaling payment infrastructure, enhancing enterprise tools, and expanding its stablecoin program. With these resources, Ripple can roll out its technology faster, integrate with new partners more efficiently, and advance its dominance in the institutional payments market. XRP’s Expanding Utility In Ripple’s Global Framework XRP remains the settlement engine of Ripple’s infrastructure, providing instant liquidity, rapid transaction settlement, and multi-currency interoperability. This functionality allows Ripple to address high-friction payment corridors, such as those in Africa, where it works with regional providers to replace slow correspondent banking chains with XRP-enabled settlements. In the Asia-Pacific region, growing on-chain activity and rising institutional demand create favorable conditions for token-based cross-border payments. The Singapore MPI upgrade now offers a regulated launchpad to deliver XRP-powered rails across these high-growth regions. Related Reading: Pundit Shares XRP Fact That Will ‘Blow Your Mind’ Building on this foundation, Ripple is creating a vertically integrated ecosystem where fiat, stablecoins, and digital assets operate through a unified platform. Within this framework, XRP bridges currencies, provides deep liquidity, and executes transactions faster than traditional systems. Each regulatory approval, partnership, and infrastructure deployment further embeds XRP into the backbone of global financial infrastructure. Together, these milestones illustrate Ripple’s multi-market strategy: expanding regulatory clarity, deploying robust infrastructure, and demonstrating real-world XRP utility. The Singapore upgrade is a decisive step in this progression, reinforcing Ripple’s steady movement toward making XRP a central tool for cross-border payment systems. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ripple|XRP|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55254780,
-    "published": 1764687377000,
-    "title": "Sanctioned Lender Huione Shuts Phnom Penh Branches, Halts Withdrawals",
-    "body": "The Cambodian finance giant has closed its doors amid mounting international pressure including U.S. and UK sanctions.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55255126,
-    "published": 1764687862000,
-    "title": "An Institutional Wave Of Retail Bitcoin - Market Insight - Dec 2, 2025",
-    "body": "Over $30 trillion in new capital is poised to reach bitcoin over the coming days and months.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55255789,
     "published": 1764689167000,
     "title": "Kalshi Raises $1B at $11B Valuation as Prediction Market Race Heats Up",
@@ -462,41 +293,6 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55255072,
-    "published": 1764687660000,
-    "title": "Identity checks to power AI stablecoin payments added to Coinbase-incubated x402",
-    "body": "Concordium has added ID checks to stablecoin payments, enabling AI systems to purchase restricted goods and services online.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
       },
       {
         "TYPE": "122",
@@ -3770,6 +3566,316 @@
         "ID": 96,
         "NAME": "SUI",
         "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303133,
+    "published": 1764773057000,
+    "title": "Sony’s Blockchain Partner Startale Launches Dollar Stablecoin on Soneium",
+    "body": "The Startale USD token, developed with M0, aims to power payments and rewards across the electronics giant Sony's Web3 ecosystem.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|Sony|Ethereum News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55302975,
+    "published": 1764772768000,
+    "title": "Crypto Rally Stumbles, Bitcoin Slips Back to $92K, as Microsoft Lowers AI Sales Goals",
+    "body": "Employees of the tech giant told The Information that some divisions failed to deliver on their targets in 2025, leading to lower expectations for the year ahead.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Market Wrap|Bitcoin News|Microsoft|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303667,
+    "published": 1764774089000,
+    "title": "TON Gains 3.7% as STON.fi DAO Launch and Telegram-Backed AI Platform Brings Demand",
+    "body": "STON.fi, TON's largest DeFi protocol, launched a fully onchain DAO, enabling users to vote on governance decisions and receive tokens representing voting power.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|TON|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 98,
+        "NAME": "TON",
+        "CATEGORY": "TON"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303702,
+    "published": 1764774084000,
+    "title": "Ethereum treasury demand collapses: Will it delay ETH’s recovery to $4K?",
+    "body": "Collapsed Ethereum treasury demand and stiff overhead resistance between $3,100 and $3,200 stood in the way of Ether’s recovery to $4,000.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303433,
+    "published": 1764773705000,
+    "title": "S&P's Tether Downgrade Revives 'De-pegging' Risk Warning, HSBC Says",
+    "body": "The rating agency's Tether downgrade flags redemption risk, potentially nudging institutions to higher-rated stablecoins and tokenized deposits.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Tether|S&P|Stablecoins|HSBC|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303431,
+    "published": 1764773600000,
+    "title": "Cardano’s Biggest Players Unite Behind 70M ADA Push to Spark On-Chain Growth",
+    "body": "Funds will be allocated to developing stablecoins, credible oracle feeds, cross-chain bridges, custody integrations, and analytics tooling, among other enhancements.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303328,
+    "published": 1764773445000,
+    "title": "IREN Investors Mull Outlook After $3.6B Capital Raise as Jim Cramer Says 'Sell'",
+    "body": "The bitcoin miner turned AI compute provider tumbled on Tuesday and is now down nearly 50% over the past month.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Iren|AI|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55303560,
+    "published": 1764772353000,
+    "title": "Bitcoin back above $92K, BlackRock bullish on a tokenized future, Kalshi raise $11B - Daily Crypto Recap",
+    "body": "Your Decrypt daily recap with @tyler_did_it for December 3rd 2025Today’s headlines: BTC jumps back above $92K, BlackRock bullish on tokenized assets, Kalshi raise $11B, & more",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
