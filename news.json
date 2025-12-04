@@ -1,291 +1,5 @@
 [
   {
-    "id": 55307160,
-    "published": 1764780331000,
-    "title": "ETHZilla Buys 20% of AI Lending Platform Karus in $10M Deal to Tokenize Auto Loans",
-    "body": "The companies plan to tokenize auto loans, with the first portfolios expected to be available by early 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Credit|Tokenization|Loans|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55307158,
-    "published": 1764780279000,
-    "title": "Stellar Climbs 2% as Volume Spikes Signal Institutional Interest",
-    "body": "Trading activity jumps 37% above weekly average despite modest price gains.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55307241,
-    "published": 1764780171000,
-    "title": "Why Tether is buying more gold than many central banks and what it signals",
-    "body": "Tether’s rapid gold accumulation in Q3 2025 surpassed many national banks. This move reflects Tether’s strategy to build gold reserves.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55306982,
-    "published": 1764779896000,
-    "title": "Ostium Raises $20M Series A Led by General Catalyst, Jump Crypto to Put TradFi Perps Onchain",
-    "body": "Built on Arbitrum, the perpetuals protocol has processed $25 billion in trading volume by offering self-custodial bets on gold, FX and other real-world markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|perpetual contracts|Fundraising|Jump Crypto|Arbitrum|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 71,
-        "NAME": "ARB",
-        "CATEGORY": "ARB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55306917,
-    "published": 1764779811000,
-    "title": "HBAR Edges Higher as Vanguard ETF Access Expands Institutional Appeal",
-    "body": "Hedera gains on elevated volume while establishing support above $0.1427 during measured advance that coincides with significant institutional developments.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 81,
-        "NAME": "HBAR",
-        "CATEGORY": "HBAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55307390,
-    "published": 1764780768000,
-    "title": "Firelight Introduces XRP Staking for DeFi Insurance Layer Against Exploits",
-    "body": "The new protocol, developed by Sentora and Flare Network, aims to combine XRP yield opportunity with offering protection against DeFi hacks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|DeFi|XRP News|Insurance|Flare Network|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 122,
-        "NAME": "FLR",
-        "CATEGORY": "FLR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55307909,
-    "published": 1764781576000,
-    "title": "Taiwan eyes 2026 stablecoin launch as crypto legislation advances: Report",
-    "body": "A Taiwan-issued stablecoin pegged to either the country’s dollar or the US dollar could enter the market in the second half of 2026 based on related legislation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55307908,
-    "published": 1764781386000,
-    "title": "Miners are turning off their machines: Why even new rigs can’t break even",
-    "body": "Miner margins are collapsing as hash price hits record lows. This guide explains 2025 economics, break-even tests and what struggling operators can do.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
     "id": 55308476,
     "published": 1764782625000,
     "title": "Fusaka Cementing Ethereum’s Role as On-Chain Finance Settlement Layer: Bitwise",
@@ -305,41 +19,6 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55308347,
-    "published": 1764781870000,
-    "title": "Big Banks Partnering With Coinbase on Crypto Pilots, CEO Says",
-    "body": "Some of the largest banks are working with Coinbase Global Inc. on pilots surrounding stablecoins, custody and trading, the cryptocurrency exchange’s chief executive officer said on Wednesday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:COIN",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -3860,6 +3539,228 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55354493,
+    "published": 1764865607000,
+    "title": "CFTC greenlights spot crypto trading on US exchanges",
+    "body": "Acting CFTC Chair Caroline Pham said the move was intended to drive trading activity to US exchanges, rather than offshore ones “that lack basic safeguards.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55354385,
+    "published": 1764864415000,
+    "title": "BlackRock is RISK On! Polymarket launches US App! Crypto still Green!",
+    "body": "Crypto majors traded slightly higher, with ETH leading gains post-Fusaka as BTC rose 1% to $93,000, ETH jumped 4% to $3,190, and BNB and SOL each added 1% to reach $909 and $143, respectively. Among top movers, ZEC (+10%), TAO (+8%), and DASH (+6%) outperformed. Large ETH holders resumed sizeable spot purchases following Monday’s liquidations, suggesting renewed institutional dip-buying. At the Dealbook Summit, Brian Armstrong noted that “top banks” are partnering with Coinbase on pilots for stablecoins, custody, and trading. BlackRock released its 2026 outlook with a risk-on tilt, maintaining an overweight position in U.S. equities and highlighting AI and rising stablecoin adoption as “megaforces” reshaping markets. Meanwhile, Binance introduced “Binance Junior,” a crypto savings account for minors with extensive parental oversight, and Startale—Sony’s Soneium blockchain partner—launched USDSC, a stablecoin set to serve as the default settlement asset on the Soneium L2.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 73,
+        "NAME": "BITTENSOR",
+        "CATEGORY": "BITTENSOR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55354769,
+    "published": 1764865977000,
+    "title": "Meta Plans 30% Cut to Metaverse Budget as Reality Becomes Less Virtual: Bloomberg",
+    "body": "Horizon Worlds and Quest are facing layoffs as Meta retreats further from its $70 billion bet on virtual reality, people familiar with the matter told Bloomberg.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Meta|Metaverse|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55355582,
+    "published": 1764867625000,
+    "title": "BNB Nears $910 as Volume Jumps 68%, Signaling Growing Interest Near Resistance Zone",
+    "body": "The token is trading in a sideways range, holding above recent lows near $896, while a breakout above $920-$928 resistance could push BNB toward $1,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|BNB|Technical Analysis|AI Market Insights|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55355587,
+    "published": 1764867614000,
+    "title": "The MicroStrategy Of Asia: Japanese Company Announces Plan For Bitcoin And XRP Treasury",
+    "body": "Bitcoin and XRP have become central to a bold corporate shift in Japan, with AltPlus announcing that both digital assets will be formally incorporated into its long-term treasury strategy. The publicly listed company disclosed the move in its recent shareholder filing, outlining a multi-layered plan that positions cryptocurrencies as foundational components of its future financial and operational framework. Bitcoin And XRP Lead Treasury According to a post by “BankXRP” on X (formerly Twitter), AltPlus is expected to purchase and hold Bitcoin and XRP through a newly established cryptocurrency purchase and management division. The company frames this step as part of a long-horizon capital strategy supported by blockchain transparency, expanding global regulatory clarity, and the growing institutional acceptance of digital assets. In the filing, Bitcoin and XRP are highlighted for their scarcity, decentralization, predictability, and fast, low-cost transactional capabilities—attributes AltPlus expects will contribute to long-term value growth and broader financial-market utility. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next Moreover, the treasury initiative is designed to strengthen the company’s financial base, diversify revenue streams, and establish a stable earnings engine through staking-based income. AltPlus presents the move as a structured method to enhance capital efficiency and reinforce corporate value over time. The company notes that holding both Bitcoin and XRP aligns its balance-sheet strategy with emerging global trends in digital-asset management and institutional-grade treasury practices. AltPlus also outlines its risk-management system to address crypto-market volatility, liquidity risks, cybersecurity threats, regulatory changes, and speculative trading patterns. The company plans to implement investment-scale limits, a controlled holding-ratio strategy, and a proprietary internal asset-management system to govern acquisition, custody, tracking, and treasury integration. These measures are designed to maintain governance discipline, ensure compliance, and safeguard digital-asset operations as part of the broader corporate structure. AltPlus’ Web3 And Digital-Asset Expansion Beyond treasury allocation, AltPlus frames Bitcoin and XRP as key elements in a broader transition into digital-asset operations and Web3-enabled business development. The filing situates this shift within a global context, noting that major financial institutions and listed companies worldwide are increasingly incorporating crypto assets into holding, settlement, and capital-management functions. Related Reading: Are Dogecoin Whales Leaving The Meme Coin? Large Transactions Crash To 2-Month Lows Building on this trend, AltPlus plans to integrate blockchain infrastructure into its Entertainment and Solutions business. This includes exploring Web3 functionality, token-based engagement models, and digital-asset utilities across its gaming and IP ecosystem. These initiatives are intended to unlock new business models, enhance operational flexibility, and develop internal expertise for a digital-native market environment. The company’s decision to include XRP directly in its treasury strategy is one of the standout elements of the announcement. AltPlus positions XRP as a long-term corporate asset alongside Bitcoin, marking a notable step forward for institutional crypto adoption in Japan. Through treasury transformation, staking-driven income generation, and Web3 ecosystem expansion, AltPlus is creating a strategic framework similar to the high-conviction treasury approach seen at MicroStrategy. At the same time, it is establishing a distinctly Japanese model focused on utility, diversification, and forward-looking corporate innovation. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|XRP|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55355463,
+    "published": 1764867322000,
+    "title": "Malaysia Cracks Down on Bitcoin Miners Behind $1.1B Electricity Theft",
+    "body": "A new taskforce is using drones and sensors to find power thieves, after 14,000 illicit mining operations have been uncovered over five years.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
       },
       {
         "TYPE": "122",
