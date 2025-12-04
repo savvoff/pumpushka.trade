@@ -1,104 +1,5 @@
 [
   {
-    "id": 55310986,
-    "published": 1764787122000,
-    "title": "SEC sends warning letters to ETF issuers targeting untamed leverage",
-    "body": "The United States Securities and Exchange Commission halted several ETF filings that proposed 3-5 times leverage on the underlying asset.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55311478,
-    "published": 1764788458000,
-    "title": "Analysts Turn Bullish on SUI as Token Extends Gains Amid Renewed Institutional Interest",
-    "body": "Sui (SUI) is drawing renewed market attention after staging one of its strongest breakouts in months, rising sharply at a time when most large-cap altcoins remain range-bound. Related Reading: Bitcoin And The 2026 Fed Shift: Expert Says Markets Aren’t Ready The latest 31% surge was triggered by a series of developments that converged within days, most notably Coinbase’s approval to offer SUI trading to New York residents, a move that places the token inside one of the most heavily regulated crypto markets in the U.S. The rally also arrived immediately after one of the largest token unlocks of the month, an event that would normally dampen prices but instead saw buyers step in with force. SUI's price trends to the upside following a steep decline as seen on the daily chart. Source: SUIUSD on Tradingview New York Listing Boosts Liquidity and Institutional Demand SUI surged between 25% and 32% over the past 24 hours after Coinbase confirmed that New York residents can now buy and trade the token across its web and mobile platforms. The approval extends SUI’s reach into one of the most tightly regulated U.S. markets, strengthening its profile as a compliant layer-1 network and increasing accessibility for institutional investors. The listing comes at a notable time. On December 1, SUI unlocked approximately $82–86 million worth of tokens, increasing circulating supply by more than 0.5%. Large unlocks typically pressure prices, but SUI moved higher instead, signaling strong demand absorption. Trading volume has more than doubled, hitting roughly $1.5 billion, levels analysts say indicate genuine accumulation rather than short-lived speculation. The launch of USDsui, a fiat-backed stablecoin designed for payments and DeFi use across the Sui ecosystem, also contributed to renewed interest. Combined with Coinbase’s expansion, these developments have strengthened confidence in Sui’s broader market positioning. SUI Technical Indicators Point to Momentum Shift Price action shows that SUI recently rebounded from November’s lows near $1.12, climbing above the $1.60 support zone. Indicators such as RSI and MACD now suggest easing selling pressure and a potential shift in short-term momentum. Analysts note that breaking above the mid-Bollinger Band near $1.90 would confirm a broader trend reversal. SUI has also moved above the Keltner mid-band for the first time in weeks, with volume delta readings showing strong spot-market buying. The next major resistance sits between $1.80 and $1.95, followed by a wider zone extending to $2.30. A decisive close above $1.92 is viewed as critical for invalidating November’s downtrend. Rally Depends on Volume Holding Market watchers say the current rally hinges on sustained demand. If daily volume remains above $1.5 billion and price holds the $1.60–$1.67 support zone, institutional participation could continue to push the token higher toward the $1.90 level. Related Reading: $93K And Climbing: Analysts Say Bitcoin’s Push To $100K Has Begun However, weakening volume or a drop below $1.48 may signal that SUI has formed a local top. For now, sentiment remains constructive as the token benefits from increased U.S. accessibility, improving technical signals, and expanding ecosystem activity. Cover image from ChatGPT, SUIUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|btc|btcusd|crypto|DeFi|ETH|ethereum|ethusd|SUI|SUI Network|SUIUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 96,
-        "NAME": "SUI",
-        "CATEGORY": "SUI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55311298,
-    "published": 1764788013000,
-    "title": "Polymarket opens US app to waitlisted users after CFTC green light",
-    "body": "Select users in the US will be among the first to access the predictions platform to bet on sports event contracts, following clearance from a financial regulator for a relaunch.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55312133,
     "published": 1764789797000,
     "title": "Polymarket Launches App With CFTC Green Light in U.S. Return",
@@ -118,53 +19,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55312112,
-    "published": 1764789469000,
-    "title": "Bitcoin’s strongest trading day since May cues possible rally to $107K",
-    "body": "Bitcoin posted its strongest daily gain since May as buy-side flows, a sharp adjustment in investor sentiment and a return of the Coinbase premium hint at a potential rally above $100,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -3849,6 +3703,163 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55358980,
+    "published": 1764873671000,
+    "title": "How an AI Wiz Used ChatGPT to Turn the Tables on a Scammer",
+    "body": "An IT worker claims he \"vibe coded\" a phishing page via AI to unmask a would-be scammer in Delhi, prompting panicked pleas for mercy.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55358751,
+    "published": 1764873044000,
+    "title": "Twenty One Capital eyes Tuesday debut following Cantor Equity Partners merger",
+    "body": "Bitcoin-focused Twenty One Capital is set to go public on the NYSE after winning shareholder approval for its merger with Cantor Equity Partners.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55359563,
+    "published": 1764874804000,
+    "title": "Bullish Setup Emerges for Dogecoin as Price Action Tightens and Market Signals Turn Positive",
+    "body": "The Dogecoin (DOGE) price movement is entering a phase that traders often watch closely, a stretch of tightening action that usually precedes a decisive move. Related Reading: Eric Trump Says Bitcoin Could Hit $500,000, Stands By ABTC Strategy After several days of elevated activity, shifting ETF flows, and a rare alignment of technical indicators, the memecoin is now sitting at a point where sentiment and structure appear to be converging. The conversation around Dogecoin is beginning to shift from short-term speculation to whether the asset is preparing for a larger breakout as the year closes. Recent trading sessions have highlighted a steady rise in activity, driven initially by an 8% price jump that pushed DOGE to the $0.15 region. The move came alongside a 242% surge in volume, reflecting strong participation from retail investors. DOGE's price trends to the downside on the daily chart. Source: DOGEUSD on Tradingview DOGE ETF Momentum Builds as Market Structure Tightens A major catalyst behind recent volatility has been the rollout of multiple DOGE-related exchange-traded products. Grayscale’s GDOG and Bitwise’s BWOW have recorded early but steady inflows, now totaling nearly $2.9 million since launch. Although the numbers remain modest, analysts view these products as important steps toward bringing Dogecoin into mainstream financial products. At the same time, technical structure on the charts has narrowed into a symmetrical triangle, a pattern that forms when lower highs and higher lows converge. Current support sits in the $0.145–$0.150 range, with the upper boundary near $0.165. A breakout above this ceiling could open the door to targets between $0.18 and $0.20. Indicators such as RSI, MACD, and the TD Sequential tool show early signs of shifting momentum, though signals remain mixed and require confirmation through stronger volume. Retail Traders Lead as Analysts Reassess Despite rising optimism, institutional traders have taken a more cautious stance. Futures open interest and derivatives volume have cooled, pointing to a market waiting for a clearer direction. Still, retail participation has continued to rise, and analysts note that Dogecoin’s ascending channel remains intact as long as price holds above the $0.1470 level. Across higher timeframes, DOGE has also reclaimed a series of higher lows, reinforcing the possibility that the meme token is attempting to build a more sustainable bullish structure. Some analysts project a potential move toward $0.42 over the coming months if current patterns persist, while more aggressive models leave room for a retest of psychological levels in the $1 range, though such targets remain highly speculative. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next Traders are closely watching $0.1470 and $0.1500, as losing these levels could invite a deeper pullback toward $0.138. For now, the market remains compressed, with both sides preparing for the next decisive break. Cover image from ChatGPT, DOGEUSD chart on Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|Doge price|dogeusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55359559,
+    "published": 1764874800000,
+    "title": "Coinbase, Chainlink Introduce Base-Solana Bridge to Link Ecosystems",
+    "body": "The bridge, secured by Chainlink's Cross-Chain Interoperability Protocol, allows users to trade and interact with Solana-based tokens on Base-based dapps.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Web3|Exclusive|Chainlink|Coinbase|Base|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55359725,
+    "published": 1764826275000,
+    "title": "Ledger says popular chip used in smartphones vulnerable to unstoppable attack",
+    "body": "Ledger says it was able to gain “full and absolute control” over a smartphone by using electromagnetic pulses to take over its chip.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
       }
     ]
   }
