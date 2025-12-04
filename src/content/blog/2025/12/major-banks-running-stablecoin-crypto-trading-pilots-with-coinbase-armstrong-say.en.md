@@ -1,10 +1,10 @@
 ---
 title: 'Major banks running stablecoin, crypto-trading pilots with Coinbase, Armstrong says'
-description: 'At the DealBook Summit, significant discussions took place regarding the evolving landscape of cryptocurrency and stablecoins. BlackRock CEO Larry Fink recognized the utility of…'
+description: 'During the DealBook Summit, significant developments in the cryptocurrency space were highlighted. BlackRock''s CEO recognized Bitcoin''s utility, while Coinbase''s CEO announced…'
 publishedAt: '2025-12-03T21:12:30.000Z'
-updatedAt: '2025-12-03T21:22:22.473Z'
+updatedAt: '2025-12-04T06:39:12.504Z'
 lang: en
-externalId: '55315176'
+externalId: '55331301'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,29 +18,33 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1624365167988-43cdc7ecaa0b'
+  raw: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1684679674829-fc7b436ec8e8'
 ai:
   rewritten: true
-  expandedAt: '2025-12-03T21:22:22.473Z'
+  expandedAt: '2025-12-04T06:39:12.504Z'
   version: 1
 ---
 ## Overview
 
-At the DealBook Summit, significant discussions took place regarding the evolving landscape of cryptocurrency and stablecoins. BlackRock CEO Larry Fink recognized the utility of Bitcoin, while Coinbase's Brian Armstrong revealed that the exchange is collaborating with major U.S. banks on pilot programs.
+During the DealBook Summit, significant developments in the cryptocurrency space were highlighted. BlackRock's CEO recognized Bitcoin's utility, while Coinbase's CEO announced that the exchange is conducting pilot programs with major US banks focused on stablecoin and crypto trading.
 
 ## What Happened
 
-During the DealBook Summit, Larry Fink, the CEO of BlackRock, spoke about the practical uses of Bitcoin. His acknowledgment underscores a growing acceptance of cryptocurrency within traditional financial institutions. Concurrently, Brian Armstrong, the CEO of Coinbase, announced that the exchange is engaged in pilot projects with major U.S. banks. This collaboration signifies a potential shift in how banks may integrate cryptocurrency and stablecoin services into their operations.
+At the recent DealBook Summit, Larry Fink, the CEO of BlackRock, acknowledged the utility of Bitcoin. This recognition from a prominent figure in finance underscores the growing acceptance of cryptocurrencies in traditional financial circles. Meanwhile, Brian Armstrong, the CEO of Coinbase, revealed that the exchange is actively running pilot programs in collaboration with major US banks. These pilots are specifically focused on stablecoin and cryptocurrency trading, indicating a potential shift towards integrating digital assets within established banking frameworks.
 
-## Impact on the crypto market
+## Why It Matters
 
-- Increased recognition of Bitcoin by prominent financial leaders may enhance its legitimacy.
-- Collaborations between Coinbase and major banks could pave the way for broader adoption of cryptocurrency services.
-- These developments may influence regulatory discussions surrounding stablecoins and digital assets.
-- The involvement of major financial institutions in crypto initiatives can lead to increased investment and innovation in the sector.
-- The pilots could serve as a testing ground for future financial products involving cryptocurrencies.
+The acknowledgment of Bitcoin's utility by a leading financial executive suggests an increasing legitimacy for cryptocurrencies. Simultaneously, Coinbase's collaboration with major banks signals a significant step forward in bridging the gap between traditional finance and the crypto world. This could pave the way for broader adoption of cryptocurrency services and products by banks, enhancing the overall ecosystem.
+
+## Impact on the Crypto Market
+
+- Increased legitimacy of Bitcoin as a recognized financial asset.
+- Potential for enhanced collaboration between traditional banks and cryptocurrency exchanges.
+- Opportunity for stablecoin adoption in mainstream financial operations.
+- Possible influence on regulatory perspectives regarding cryptocurrencies.
+- Encouragement for other financial institutions to explore crypto-related initiatives.

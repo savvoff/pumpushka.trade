@@ -1,256 +1,5 @@
 [
   {
-    "id": 55283464,
-    "published": 1764739513000,
-    "title": "Gunmen Steal $85,800 in Trinidad Crypto Ambush as Attacks on Holders Rise",
-    "body": "Armed robberies of crypto buyers are rising globally as criminals abandon digital hacks for brutal in-person confrontations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55283408,
-    "published": 1764739428000,
-    "title": "BlackRock’s top brass says tokenization will bridge crypto and finance",
-    "body": "BlackRock is the largest asset manager in the world, with over $13.4 trillion in assets under management, and the largest tokenized cash market fund, worth $2.8 billion.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55284734,
-    "published": 1764741614000,
-    "title": "Bitcoin Slump Claims New Victims: Leveraged ETFs Tied To Strategy Suffer Major Losses",
-    "body": "Despite a 9% recovery on Tuesday, Bitcoin (BTC) has experienced considerable volatility, with its price plummeting to as low as $84,000 just 24 hours ago. This downturn has had a significant impact on Strategy (previously MicroStrategy) the public company that holds the largest BTC reserves, currently boasting over 650,000 coins. Strategy T-Rex ETFs Plummet Nearly 85% NewsBTC reported that the company’s CEO, Phong Le, suggested the possibility of selling some of their Bitcoin holdings in light of the current market conditions. Alongside this, the company’s leveraged exchange-traded funds (ETFs) have also faced substantial losses, intensifying worries about Strategy’s financial health. Reuters highlighted that Strategy’s leveraged ETFs, which are designed to magnify returns on the firm’s stock, have been among the largest casualties of this year’s cryptocurrency slump. Related Reading: You Won’t Believe How Much Bitcoin Companies Now Hold, What % Of Supply Do They Control? Two specific ETFs, the T-Rex 2X Long MSTR Daily Target ETF and the Defiance Daily Target 2x Long MSTR ETF, have seen dramatic declines, losing nearly 85% of their value this year. Additionally, the T-Rex 2X Inverse MSTR Daily Target ETF has dropped by 48% in the same time frame. In this environment, shares of Strategy, MSTR, have fallen more than 40% this year, driven primarily by Bitcoin’s price crash. Investor attention is now focused on Strategy’s “mNAV” (market net asset value) metric, which compares the company’s enterprise value to its Bitcoin holdings. Following Le’s comments, where he mentioned the firm might consider selling cryptocurrencies if the mNAV drops below 1, concerns grew about the firm’s long-term outlook. Current estimates place this ratio around 1.1, according to calculations by Reuters. Analysts Remain Optimistic Mike O’Rourke, the chief market strategist at JonesTrading, noted that Le’s remarks diminish the company’s message of steadfastness in holding Bitcoin, even amid market volatility. The company has also revised its full-year outlook, warning of a potential profit ranging from $6.3 billion to a loss of $5.5 billion, a stark adjustment from its earlier forecast of $24 billion in net profit. This prior estimate, made on October 30, anticipated Bitcoin reaching $150,000 by year-end. Commenting on the shifting strategies within the firm, Vincenzo Vedda, chief investment officer at DWS, remarked, “Great strategy from Strategy, while prices go up. When they go down, well, the strategic options left to the company are limited.” Related Reading: Here’s What To Expect If The XRP Price Holds $2 Since entering the Nasdaq 100 index, Strategy’s shares have dropped more than 70% from their peak in November 2024, more than halving in value over the year. Despite this dismal performance, analyst sentiments remain relatively optimistic; of the 16 brokerages monitoring Strategy, 10 recommend it as a “buy” while four suggest a “strong buy,” with an overall median price target of $485, reflecting a potential 183% increase over the next year based on LSEG data. When writing, the market’s leading cryptocurrency, Bitcoin, managed to recover the $92,000 line. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|BTCUSDT|crypto|crypto news|Microstrategy|MicroStrategy Bitcoin|MicroStrategy news|Strategy|Strategy ETFs|Strategy news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55284366,
-    "published": 1764740756000,
-    "title": "Crypto treasuries lead stock recovery after shaky start to December",
-    "body": "Digital asset treasury stocks surged Tuesday, with Ether-focused firms leading gains up to 12.35% as crypto markets rebounded from the sell-off.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55285278,
-    "published": 1764742518000,
-    "title": "This Bitcoin-Led, Institutionally Anchored Cycle Shows the Three-Month Drop Isn’t a Winter: Glassnode",
-    "body": "Glassnode and Fasanara’s year-end report shows record inflows, rising realized cap, and falling volatility, suggesting the latest pullback is a mid-cycle reset rather than the start of a long downturn.Present market dynamics point to a mid-cycle pullback rather than a full-blown crypto winter, Glassnode and Fasanara argued.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|btc|Glassnode|Crypto Winter|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55285624,
-    "published": 1764743213000,
-    "title": "Yi He, Arguably Crypto's Most Powerful Woman, Becomes Binance’s New Co-CEO",
-    "body": "The new leadership role was announced by the current Binance CEO Richard Teng at Binance Blockchain Week in Dubai.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Binance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55286378,
-    "published": 1764743630000,
-    "title": "Binance Names Co-founder Yi He as Co-Chief Executive",
-    "body": "Binance Holdings Ltd. appointed its co-founder Yi He as co-chief executive officer alongside Richard Teng, according to a post on X by the world’s biggest crypto exchange on Wednesday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55286874,
     "published": 1764745217000,
     "title": "Cardano’s December Slide Intensifies: What’s Driving the Decline and What Comes Next?",
@@ -572,41 +321,6 @@
     "source_data": {
       "name": "Decrypt",
       "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55285848,
-    "published": 1764742162000,
-    "title": "Bitcoin Hits Two-Week High In Cautious Crypto Market Recovery",
-    "body": "Bitcoin extended a tentative rebound on Wednesday, climbing to a two-week high as traders look for signs that the wider crypto market may be regaining its footing after a prolonged selloff.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
       "source_type": "RSS"
     },
     "category_data": [
@@ -3993,6 +3707,180 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55330752,
+    "published": 1764826879000,
+    "title": "Ukrainian Police Arrest Two in Alleged Crypto Extortion Murder",
+    "body": "Europe accounts for over 30% of nearly 70 wrench attacks documented this year as crypto-fueled violence surges across the continent.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55330554,
+    "published": 1764826275000,
+    "title": "Ledger says popular chip used on Solana phones vulnerable to unstoppable attack",
+    "body": "Ledger says it was able to gain “full and absolute control” over a smartphone by using electromagnetic pulses to take over its chip.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55330553,
+    "published": 1764798492000,
+    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
+    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55331514,
+    "published": 1764827756000,
+    "title": "Bitcoin may see ‘relief bounce’ as stabilization signs emerge: Analysts",
+    "body": "Bitfinex says “extreme deleveraging” and other indicators as factors that could help Bitcoin hold its ground and potentially move higher.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55331301,
+    "published": 1764796350000,
+    "title": "Major banks running stablecoin, crypto-trading pilots with Coinbase, Armstrong says",
+    "body": "At the DealBook Summit, BlackRock CEO Larry Fink acknowledged Bitcoin’s utility, as Coinbase’s Brian Armstrong said the exchange was running pilots with major US banks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55332022,
+    "published": 1764828746000,
+    "title": "Citadel causes uproar for urging SEC to regulate DeFi tokenized stocks",
+    "body": "Citadel Securities argued that DeFi platforms offering tokenized US stocks should be regulated under securities laws and not get exemptive relief from the SEC.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }

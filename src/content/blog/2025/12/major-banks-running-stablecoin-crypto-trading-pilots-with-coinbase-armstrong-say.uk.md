@@ -1,10 +1,10 @@
 ---
-title: 'Великі банки запускають пілотні проекти зі стабільними монетами та криптоторгівлею з Coinbase, каже Армстронг.'
-description: На саміті DealBook відбулися значні обговорення щодо змінюваного ландшафту криптовалюти та стейблкоїнів. Генеральний директор BlackRock Ларрі Фінк визнав корисність…
+title: 'Великі банки запускають стабільні монети, пілотні проекти з торгівлі криптовалютами з Coinbase, говорить Армстронг.'
+description: 'Під час саміту DealBook були підкреслені значні події у сфері криптовалют. Генеральний директор BlackRock визнав корисність Bitcoin, тоді як генеральний директор Coinbase оголосив…'
 publishedAt: '2025-12-03T21:12:30.000Z'
-updatedAt: '2025-12-03T21:22:22.475Z'
+updatedAt: '2025-12-04T06:39:12.506Z'
 lang: uk
-externalId: '55315176'
+externalId: '55331301'
 source:
   name: Cointelegraph
   key: cointelegraph
@@ -18,28 +18,32 @@ sentiment: POSITIVE
 score: 0
 draft: false
 coverImage:
-  raw: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0'
-  full: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=85'
-  regular: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=1080'
-  small: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=400'
-  thumb: 'https://images.unsplash.com/photo-1624365167988-43cdc7ecaa0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3OTY4NDl8&ixlib=rb-4.1.0&q=80&w=200'
-  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1624365167988-43cdc7ecaa0b'
+  raw: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0'
+  full: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=85'
+  regular: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=1080'
+  small: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=400'
+  thumb: 'https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MjQzNjB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ4MzAyNTF8&ixlib=rb-4.1.0&q=80&w=200'
+  small_s3: 'https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1684679674829-fc7b436ec8e8'
 ai:
-  translatedFrom: '55315176'
+  translatedFrom: '55331301'
   version: 1
 ---
 ## Огляд
 
-На саміті DealBook відбулися важливі дискусії щодо змінюваного ландшафту криптовалют і стейблкоїнів. Генеральний директор BlackRock Ларрі Фінк визнав корисність Біткоїна, тоді як Брайан Армстронг з Coinbase повідомив, що біржа співпрацює з великими банками США над пілотними програмами.
+Під час саміту DealBook були підкреслені значні події у сфері криптовалют. Генеральний директор BlackRock визнав корисність Bitcoin, в той час як генеральний директор Coinbase оголосив, що біржа проводить пілотні програми з провідними банками США, зосереджені на торгівлі стейблкоїнами та криптовалютами.
 
-## Що сталося
+## Що Сталося
 
-Під час саміту DealBook Ларрі Фінк, генеральний директор BlackRock, говорив про практичне використання Біткоїна. Його визнання підкреслює зростаюче прийняття криптовалют у традиційних фінансових установах. У той же час Брайан Армстронг, генеральний директор Coinbase, оголосив, що біржа бере участь у пілотних проектах з великими банками США. Ця співпраця означає потенційний перехід у тому, як банки можуть інтегрувати послуги криптовалют і стейблкоїнів у свою діяльність.
+На нещодавньому саміті DealBook Ларрі Фінк, генеральний директор BlackRock, визнав корисність Bitcoin. Це визнання від видатної фігури у фінансах підкреслює зростаюче прийняття криптовалют у традиційних фінансових колах. Тим часом Брайан Армстронг, генеральний директор Coinbase, повідомив, що біржа активно проводить пілотні програми у співпраці з провідними банками США. Ці пілоти спеціально зосереджені на торгівлі стейблкоїнами та криптовалютами, що свідчить про потенційний перехід до інтеграції цифрових активів у вже існуючі банківські структури.
 
-## Вплив на крипторинок
+## Чому Це Важливо
 
-- Збільшене визнання Біткоїна видатними фінансовими лідерами може підвищити його легітимність.
-- Співпраця між Coinbase та великими банками може прокласти шлях до більш широкого впровадження послуг криптовалют.
-- Ці події можуть вплинути на регуляторні обговорення, що стосуються стейблкоїнів і цифрових активів.
-- Участь великих фінансових установ у криптоініціативах може призвести до збільшення інвестицій та інновацій у секторі.
-- Пілоти можуть слугувати майданчиком для тестування майбутніх фінансових продуктів, що стосуються криптовалют.
+Визнання корисності Bitcoin провідним фінансовим керівником вказує на зростаючу легітимність криптовалют. Одночасно, співпраця Coinbase з великими банками сигналізує про суттєвий крок уперед у подоланні розриву між традиційними фінансами та світом криптовалют. Це може прокласти шлях для ширшого впровадження криптовалютних послуг і продуктів банками, що покращить загальну екосистему.
+
+## Вплив на Крипторинок
+
+- Зростаюча легітимність Bitcoin як визнаного фінансового активу.
+- Потенціал для посилення співпраці між традиційними банками та криптовалютними біржами.
+- Можливість впровадження стейблкоїнів у традиційні фінансові операції.
+- Можливий вплив на регуляторні погляди щодо криптовалют.
+- Заохочення інших фінансових установ досліджувати ініціативи, пов'язані з криптовалютами.
