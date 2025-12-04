@@ -1,338 +1,5 @@
 [
   {
-    "id": 55303133,
-    "published": 1764773057000,
-    "title": "Sony’s Blockchain Partner Startale Launches Dollar Stablecoin on Soneium",
-    "body": "The Startale USD token, developed with M0, aims to power payments and rewards across the electronics giant Sony's Web3 ecosystem.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Stablecoins|Sony|Ethereum News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55302975,
-    "published": 1764772768000,
-    "title": "Crypto Rally Stumbles, Bitcoin Slips Back to $92K, as Microsoft Lowers AI Sales Goals",
-    "body": "Employees of the tech giant told The Information that some divisions failed to deliver on their targets in 2025, leading to lower expectations for the year ahead.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Market Wrap|Bitcoin News|Microsoft|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303667,
-    "published": 1764774089000,
-    "title": "TON Gains 3.7% as STON.fi DAO Launch and Telegram-Backed AI Platform Brings Demand",
-    "body": "STON.fi, TON's largest DeFi protocol, launched a fully onchain DAO, enabling users to vote on governance decisions and receive tokens representing voting power.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|TON|AI Market Insights|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 98,
-        "NAME": "TON",
-        "CATEGORY": "TON"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303702,
-    "published": 1764774084000,
-    "title": "Ethereum treasury demand collapses: Will it delay ETH’s recovery to $4K?",
-    "body": "Collapsed Ethereum treasury demand and stiff overhead resistance between $3,100 and $3,200 stood in the way of Ether’s recovery to $4,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303433,
-    "published": 1764773705000,
-    "title": "S&P's Tether Downgrade Revives 'De-pegging' Risk Warning, HSBC Says",
-    "body": "The rating agency's Tether downgrade flags redemption risk, potentially nudging institutions to higher-rated stablecoins and tokenized deposits.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Tether|S&P|Stablecoins|HSBC|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303431,
-    "published": 1764773600000,
-    "title": "Cardano’s Biggest Players Unite Behind 70M ADA Push to Spark On-Chain Growth",
-    "body": "Funds will be allocated to developing stablecoins, credible oracle feeds, cross-chain bridges, custody integrations, and analytics tooling, among other enhancements.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303328,
-    "published": 1764773445000,
-    "title": "IREN Investors Mull Outlook After $3.6B Capital Raise as Jim Cramer Says 'Sell'",
-    "body": "The bitcoin miner turned AI compute provider tumbled on Tuesday and is now down nearly 50% over the past month.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Iren|AI|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55303560,
-    "published": 1764772353000,
-    "title": "Bitcoin back above $92K, BlackRock bullish on a tokenized future, Kalshi raise $11B - Daily Crypto Recap",
-    "body": "Your Decrypt daily recap with @tyler_did_it for December 3rd 2025Today’s headlines: BTC jumps back above $92K, BlackRock bullish on tokenized assets, Kalshi raise $11B, & more",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55304234,
-    "published": 1764775126000,
-    "title": "Kalshi’s Luana Lopes Lara Becomes Youngest Female Self-Made Billionaire",
-    "body": "A recent $1 billion funding round led by Paradigm puts Kalshi co-founders Luana Lopes Lara and Tarek Mansour on the billionaire list.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Kalshi|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55305095,
     "published": 1764776400000,
     "title": "Can BNB price retake $1K in December?",
@@ -3675,6 +3342,279 @@
         "NAME": "XRP",
         "CATEGORY": "XRP"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55350196,
+    "published": 1764858550000,
+    "title": "Bitcoin looks increasingly like it did in 2022: Can BTC price avoid $68K?",
+    "body": "Onchain data points to a major Bitcoin price drop in the making, while a bearish technical structure projected a drop to $68,000.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55350195,
+    "published": 1764796350000,
+    "title": "Major banks running stablecoin, crypto-trading pilots with Coinbase, Armstrong says",
+    "body": "At the DealBook Summit, BlackRock CEO Larry Fink acknowledged Bitcoin’s utility, as Coinbase’s Brian Armstrong said the exchange was running pilots with major US banks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55350672,
+    "published": 1764859409000,
+    "title": "Lloyds chief heralds AI-blockchain tie-up that could transform UK homebuying",
+    "body": "Charlie Nunn says system of tokenised deposits has potential to spark change as dramatic as invention of smartphone",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55350421,
+    "published": 1764858810000,
+    "title": "EU plan boosts ESMA powers over crypto and capital markets",
+    "body": "The European Commission plans to expand ESMA oversight of MiCA crypto firms and trading venues, aiming to streamline EU markets and narrow the gap with the US.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55351302,
+    "published": 1764860258000,
+    "title": "Pepe memecoin website exploited, redirecting users to malware: Blockaid",
+    "body": "The website of the Pepe memecoin has been hit with a front-end attack, and users are encouraged to stay clear of the website.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55351817,
+    "published": 1764861344000,
+    "title": "MoneyGram Taps Fireblocks to Expand Stablecoin Use in Global Payments and Treasury Ops",
+    "body": "The deal aims to bring stablecoin settlements and programmable treasury tools to MoneyGram’s global network.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|Fireblocks|MoneyGram|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55351399,
+    "published": 1764860400000,
+    "title": "Exclusive data from EigenPhi reveals that sandwich attacks on Ethereum have waned",
+    "body": "Exclusive data shows that MEV attacks hit hundreds of traders on Ethereum each month and continue to result in millions in losses.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55351852,
+    "published": 1764798492000,
+    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
+    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55351434,
+    "published": 1764798492000,
+    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
+    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
