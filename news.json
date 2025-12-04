@@ -1,151 +1,5 @@
 [
   {
-    "id": 55312133,
-    "published": 1764789797000,
-    "title": "Polymarket Launches App With CFTC Green Light in U.S. Return",
-    "body": "Armed with CFTC approval, Polymarket has launched its mobile platform for sports and proposition markets under federal oversight.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Polymarket|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55312429,
-    "published": 1764790409000,
-    "title": "Coinbase Partnering With Major U.S. Banks on Stablecoin and Crypto Pilots",
-    "body": "CEO Brian Armstrong said top banks are \"leaning into this as an opportunity,\" signaling Wall Street’s quiet embrace of crypto infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Coinbase|Larry Fink|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55313224,
-    "published": 1764792024000,
-    "title": "US Fed Has Ended Quantitative Tightening, But Why Is The Bitcoin Price Still Below $100,000?",
-    "body": "The Federal Reserve has officially brought its multi-year quantitative tightening program to a close, freezing its balance sheet at about $6.57 trillion after draining more than $2.3 trillion from the system since 2022. The Federal Reserve’s decision to formally end quantitative tightening has created a sense of anticipation across the crypto market. Liquidity inflows have shaped every major crypto cycle, and removing the multi-year drain on liquidity is expected to set the stage for healthier crypto market conditions and see the Bitcoin price push above $100,000 in the coming days. Policy Shift Meets A Market Still Searching For Direction The Fed has frozen its balance sheet at roughly $6.57 trillion after three years of balance-sheet reduction. Treasury runoff has stopped on December 1, though mortgage-backed securities will continue declining slowly. Related Reading: Finance Expert Says Bitcoin Price Growth Is In ‘Google 2017’ Phase, What This Means Ending QT means that the Fed is stepping away from the rapid balance-sheet reduction that tightened financial conditions throughout 2023 and 2024. The move comes after bank reserves fell to levels that threatened short-term funding stability, and the Fed made the move to halt any further liquidity drain. Crypto investors are expecting the end of QT to relieve some of the selling pressure that has contributed to the crypto industry in recent months. This is due to historical comparisons of how the industry played out in previous ends to QT. In 2019, when the Fed last ended QT, digital assets bottomed within weeks and then entered a strong recovery phase. That period represented a decisive low for altcoins and preceded Bitcoin’s rise from roughly $3,800 to $29,000 over the next year and a half. Interestingly, the entire crypto market’s short-term behavior is starting to show signs of bullishness. Particularly, the entire market is up by 7.2% in the past 24 hours, with Bitcoin leading the charge. However, cryptocurrencies are facing a different macro environment today, and the outlook is whether Bitcoin and other cryptocurrencies can go on another extended bullish rally in the coming months. Why Is Bitcoin’s Reaction Delayed? Ending QT is a meaningful turning point, but it does not automatically flood the system with fresh liquidity. Benjamin Cowen, founder of IntoTheCryptoverse, offers one of the clearest explanations for what to expect. Related Reading: Financial Strategist Debunks Prediction That Bitcoin Price Will Reach $220,000 In 45 Days He noted that in 2019, the Fed announced QT would end on August 1, but the balance sheet continued falling through mid-August because previously scheduled Treasury maturities had not yet settled. It wasn’t until early 2020 that Bitcoin started to experience explosive gains. According to Cowen, the same dynamic applies now. Therefore, the Federal Reserve’s balance sheet could continue edging lower for a few more weeks, meaning the first meaningful uptick in liquidity may not show up until early 2026. This delay suggests that traders hoping for an immediate boost or a quick return of Bitcoin above $100,000 are simply ahead of the cycle. The tightening phase has ended, but the actual recovery in liquidity has yet to begin. Featured image from Pngtree, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|Benjamin Cowen|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Ending QT|fed|federal reserve|IntoTheCryptoverse|QT|quantitative tightening",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55312978,
-    "published": 1764791550000,
-    "title": "Ethereum Fusaka Upgrade Goes Live Today: Experts Predict Potential Supply Crunch Ahead",
-    "body": "The highly anticipated Fusaka Upgrade for Ethereum is on the verge of going live on Wednesday, heralding significant enhancements to the network’s overall functionality. Analysts contend that this pivotal development could usher in a considerable supply crunch for ETH, potentially boosting its price during a challenging period for the broader cryptocurrency market. Layer 2 Solutions To Boost ETH Burn According to analysts at Bull Theory, the Fusaka Upgrade integrates components from previous upgrades—Osaka, Fulu, and PeerDAS—but its most impactful feature is its resolution of one of Ethereum’s biggest challenges. Layers 2 (L2) solutions have long utilized Ethereum’s security while contributing minimal fees back to the network. Despite L2 solutions like Base, Arbitrum, Optimism, and zkSync generating millions in fees from users, the fees recorded on Ethereum tended to diminish to nearly zero when they posted their data. Consequently, this meant that significant L2 activity did not result in substantial ETH being burned, even though approximately 85% of Ethereum transactions now occur on these Layer 2 solutions. Related Reading: Bitcoin Slump Claims New Victims: Leveraged ETFs Tied To Strategy Suffer Major Losses The Fusaka Upgrade fundamentally changes this dynamic. A key enhancement is EIP-7918, which mandates that Layer 2 transactions pay real fees to Ethereum. This adjustment ensures that every L2 transaction will contribute directly to the burning of ETH—something that was not previously guaranteed. The analysts assert that this feature represents one of the most significant value shifts since the introduction of EIP-1559. Post-Fusaka Projections The upgrade is further expected to broaden the scope of ETH burn from being predominantly derived from Layer 1 (L1) transactions to encompassing all L2 activity. Historically, most ETH burn has originated from mainnet transactions; thus, the network saw slight inflation in 2024–2025 as Layer 2s made transactions cheaper, leading to a decrease in ETH burn while staking continued to issue new ETH. Post-Fusaka, every L2 blob will incur a minimum cost, which will be burned. As Layer 2 adoption increases, the rate at which ETH is burned will also rise, contributing to increased scarcity of ETH. This enhancement positions Ethereum to shift back towards deflation for the first time in several years. Currently, ETH issues around 620,000 new tokens annually for stakers while burning approximately 350,000 tokens. This results in a net slight inflation. However, projections following the Fusaka Upgrade, even with conservative estimates, suggest that the additional burn from L2 activity could range from 200,000 to 400,000 ETH per year. Combined with existing burn rates, this could bring the total to over 600,000 ETH, leading to a net neutral or slightly deflationary state for ETH. More bullish models predict that if L2 adoption flourishes and demand for blobs rises, burn rates could soar to between 900,000 and 1.2 million ETH annually, resulting in a supply decrease of 200,000 to 300,000 ETH each year. Monetary Transformation For Ethereum? Another notable aspect of the Fusaka upgrade is PeerDAS, which enhances Layer 2 growth by reducing bandwidth requirements by 85%. This efficiency allows L2 solutions to publish more blobs at lower costs, resulting in increased fees and, consequently, more ETH burned. Related Reading: Analyst Says This Needs To Happen For The XRP Price To Rally Again The upgrade also increases the block gas limit from 36 million to 60 million, allowing more transactions to fit within each block. This increase means that more transactions can occur, leading to higher fees collected and a corresponding rise in burning. Furthermore, lower fees for transactions—such as swaps, bridges, on-chain gaming, and social applications—will likely drive more usage, resulting in increased transactions and higher ETH burn. Ultimately, the analysts believe that the Fusaka Upgrade represents a significant monetary transformation for Ethereum, indicating that the network is not only scaling but also beginning to monetize that scaling effectively. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum News|crypto|crypto news|ETH|ETH burn|eth price|Ethereum Fusaka Upgrade|ethereum network|ethereum news|ETHUSDT|Fusaka Upgrade|Latest Ethereum News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55314380,
     "published": 1764794356000,
     "title": "XRP faces ‘now or never’ moment as traders eye rally to $2.50",
@@ -3860,6 +3714,82 @@
         "ID": 55,
         "NAME": "WALLET",
         "CATEGORY": "WALLET"
+      }
+    ]
+  },
+  {
+    "id": 55360263,
+    "published": 1764875980000,
+    "title": "CFTC Gives Green Light to Spot Crypto Trading as Bitnomial Exchange Readies for Launch",
+    "body": "Acting CFTC Chair Caroline Pham described the move as unprecedented.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55361689,
+    "published": 1764878414000,
+    "title": "XRP On-Chain Velocity Hits Yearly High As Network Activity Explodes",
+    "body": "XRP has reclaimed the $2.10 level after a strong rebound across the broader crypto market, signaling renewed confidence following several days of fear, volatility, and sharp pullbacks. Analysts now see the potential for a sustained recovery as momentum returns and buyers show signs of stepping back in. The reclaim of this key level comes at a crucial moment, with traders closely watching whether XRP can build enough strength to challenge higher resistances in the coming sessions. Related Reading: Bitmine Buys Another 18,345 Ethereum ($54.94M) In Fresh Accumulation Push – Details Adding to the renewed optimism, a new report from CryptoOnchain on CryptoQuant highlights a major spike in XRP Ledger Velocity, marking one of the strongest on-chain signals of 2025. On December 2, the Velocity metric surged to 0.0324, its highest value of the year. Velocity measures how frequently XRP moves across the network, serving as a direct indicator of economic activity, liquidity, and transactional demand. Such a dramatic rise in Velocity shows that XRP is circulating rapidly among users rather than sitting dormant in wallets. It reflects increased participation from traders, active holders, and possibly even whales, pointing toward heightened engagement on the network. Network Activity Surges as Velocity Signals Peak 2025 Engagement According to the CryptoOnchain report, the latest spike in XRP Ledger Velocity indicates a dramatic shift in how XRP is being used across the network. Instead of sitting idle in cold wallets or being held for long-term storage, XRP is rapidly changing hands among market participants. This level of circulation suggests that traders, active users, and possibly whales are driving significantly higher transaction volume than usual. CryptoOnchain explains that such a strong jump in Velocity typically signals high liquidity and deep participation across the ecosystem. When coins move this quickly, it means the asset is being used in real economic activity—whether for trading, transfers, arbitrage, or strategic repositioning by large holders. This type of behavior often aligns with periods of heightened volatility, increased speculation, or structural shifts in market sentiment. Regardless of whether price trends upward or downward, the data confirms that the XRP Ledger is entering one of its most active phases of 2025. User engagement has reached a yearly peak, with more participants interacting with the network and more coins circulating than at any point this year. Such elevated activity often precedes or accompanies major market movements, reinforcing the idea that XRP is transitioning into a more dynamic and liquid phase as the recovery unfolds. Related Reading: Tron Hits $80.2B Stablecoin Milestone After Tether Mints 1B USDT On The Network XRP Faces Heavy Resistance in a Weakening Daily Structure XRP’s daily chart shows an attempted rebound toward the $2.15–$2.20 range, but the broader structure remains pressured by a persistent downtrend. After the sharp sell-off in late October and November—which pushed XRP below the $2.00 level for the first time in months—the asset is now trying to stabilize. The recent bounce reflects short-term buying interest, yet the price still trades below all major moving averages, signaling that bulls have not fully regained control. The 50-day SMA is currently sloping downward near $2.35, acting as immediate resistance. The 100-day SMA around $2.55 and the 200-day SMA near $2.60 form a stacked barrier above price, confirming a structurally bearish setup. For XRP to build meaningful upside momentum, it must reclaim at least the 50-day SMA and flip it into support—something it has failed to do since late September. Related Reading: Bitcoin Liquidation Dominance Hits Multi-Year High: The Real Cause Behind BTC’s Breakdown Support remains stable around $2.00–$2.05, where buyers have defended the level repeatedly with long lower wicks. A breakdown below this area could expose XRP to deeper losses toward $1.80. Meanwhile, volume remains muted, suggesting the rebound lacks strong conviction. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|XRP Activity|XRP analysis|XRP network activity|xrp news|XRP On-Chain|XRP On-Chain Data|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
