@@ -1,268 +1,5 @@
 [
   {
-    "id": 55299713,
-    "published": 1764766800000,
-    "title": "U.S. Crypto Education Group, American Innovation Project, Gets First Director",
-    "body": "The Blockchain Association's COO, Allie Page, is leaving to be the inaugural director of AIP, which is focused on educational events for decision makers.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|crypto education|Regulation|Policy|crypto legislation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55299581,
-    "published": 1764766624000,
-    "title": "Parataxis Agrees to Buy Control of South Korea's Sinsiway for $27M, Build Ether Treasury",
-    "body": "The deal would rename Sinsiway as Parataxis ETH, Inc. and make it South Korea's first ether-focused treasury platform backed by U.S. institutional capital.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|South Korea|Ethereum News|Digital Asset Treasury|mergers and acquisitions|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 208,
-        "NAME": "ADMINISTRATIVE EVENTS",
-        "CATEGORY": "ADMINISTRATIVE EVENTS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55299947,
-    "published": 1764767287000,
-    "title": "‘Faster Than Most Expect’—BlackRock CEO Issues ‘Enormous’ Price Prediction As Bitcoin Suddenly Soars Toward $2 Trillion",
-    "body": "The chief executive of the world’s largest asset manager BlackRock has predicted the “enormous growth” of crypto-based tokenization in coming years...",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55299778,
-    "published": 1764767032000,
-    "title": "Polkadot Gains 9% After Breaking Key $2.25 Resistance",
-    "body": "DOT outperformed the broader crypto market as a 60% volume surge validated the breakout above a critical technical threshold.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 21,
-        "NAME": "DOT",
-        "CATEGORY": "DOT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55300728,
-    "published": 1764768737000,
-    "title": "Jane Street Leads $105M Funding for Antithesis, a Testing Tool Used by Ethereum Network",
-    "body": "Antithesis said its Series A will scale deterministic simulation testing, replaying complex failures exactly for crypto and other always-on systems.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|AI|jane street|Fundraising|Ethereum News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55300751,
-    "published": 1764768681000,
-    "title": "Morning Minute: Bank of America Recommends up to 4% Crypto Portfolio Allocation",
-    "body": "The crypto market liked the news, with majors jumping 7-10% on the back of Bank of America's new guidance plus Vanguard's crypto ETF debut.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|||Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55300604,
-    "published": 1764768430000,
-    "title": "Next 1000x Crypto for Bitcoin Believers? Bitcoin Hyper Presale Eyes Layer 2 Breakout",
-    "body": "What to Know: Even as Bitcoin holds around $93K, Bitcoin’s base layer remains secure but slow, with high fees and no native smart contract environment, limiting real on-chain activity for everyday users. As demand for scalable on-chain applications grows, the lack of a high-speed execution layer around Bitcoin creates a structural gap for DeFi, gaming, and payments. Bitcoin Hyper introduces the first Bitcoin Layer 2 with SVM integration, targeting faster-than-Solana performance while leveraging Bitcoin as the settlement backbone. By delivering extremely low-latency execution, fast smart contracts, and Rust-based tooling, Bitcoin Hyper aims to make wrapped $BTC usable across DeFi, NFTs, and gaming. If you’re convinced Bitcoin is marching toward six figures, the bigger question is where the next asymmetric upside comes from. Right now, the world’s leading crypto is holding near $93K. History suggests the highest multiples don’t usually come from the base asset itself, but from the infrastructure built on top of it; think ERC-20 DeFi blue chips riding Ethereum’s 2020 breakout. Bitcoin’s problem is that it never had its own native DeFi and application stack to the same extent. Slow confirmation times, high fees during peak cycles, and the absence of native smart contracts have kept most real on-chain activity on other networks, even as Bitcoin dominates as a store of value and brand. That’s the gap Bitcoin Hyper ($HYPER) is going after: a high-speed Bitcoin Layer 2 that brings Solana-style throughput directly to $BTC’s settlement layer. Instead of asking you to rotate out of Bitcoin into a ‘fast L1,’ Bitcoin Hyper is betting the next 1000x upside comes from plugging DeFi, gaming, and payments into Bitcoin’s existing liquidity. With a presale already into eight figures and early whales circling, Bitcoin Hyper is positioning itself as a bet not against Bitcoin, but on Bitcoin finally getting the performance layer it has been missing. For $BTC holders who want more than passive ‘number go up,’ that’s a compelling narrative to examine seriously. Bitcoin Hyper Turns BTC Into a High-Speed Application Layer Bitcoin Hyper is built for one simple outcome: letting you use Bitcoin like a modern, high-throughput network without abandoning Bitcoin’s security and brand. It introduces a dedicated Layer 2 that runs smart contracts using the Solana Virtual Machine (SVM) tooling, tuned to deliver faster performance than Solana itself for real-world transactions. For users, this translates into sub-second confirmation experiences and low fees on wrapped $BTC transfers, swaps, and dApps, rather than waiting on congested Bitcoin blocks. DeFi traders can move into pools, lending markets, and staking strategies at speed, while still ultimately settling back to Bitcoin as the base layer they trust via a Canonical Bridge . If you’re considering getting exposure, here’s a guide on how to buy Bitcoin Hyper. Developers get a Rust-based SDK and API to ship NFT platforms, gaming dApps, and high-frequency applications without fighting Bitcoin’s base-layer limitations. Bitcoin Hyper explicitly targets Solana-level speed while anchoring to Bitcoin, aiming to keep latency low enough for gaming and real-time apps. The presale has already pulled in $28.8M, a clear signal of early conviction behind the project’s thesis You can explore the Bitcoin Hyper presale now. Can $HYPER Be a 1000x for Bitcoin Maxis? If Bitcoin Hyper captures even a small portion of the broader Bitcoin DeFi and Layer 2 narrative market, our prediction suggests that $HYPER could reach $0.08625, delivering roughly 545% returns from the current presale price of $0.013365. That kind of upside depends on real usage, but the thesis is clear: bring Solana-like performance to where the Bitcoin liquidity already sits. You can read a Bitcoin Hyper price prediction breakdown for more scenario modeling. Momentum is already building around that idea. Whale buys include $500K , $379K , and $274K , all feeding into the $HYPER momentum. If Bitcoin does grind toward six figures over the next cycle, the infrastructure that lets $BTC behave like a modern programmable asset stands to benefit most. What is Bitcoin Hyper? The execution layer for crypto’s flagship: fast, cheap, and plugged directly into the world’s best-known crypto brand. The core opportunity here is simple: Bitcoin retains its role as pristine collateral and base money, while Bitcoin Hyper turns that collateral into something you can actually deploy across DeFi, gaming, and payments at high speed. If the market agrees that the next 1000x comes from building on Bitcoin rather than competing with it, $HYPER sits directly in that slipstream. Join the $HYPER presale now. This article is informational only and does not constitute financial, investment, or trading advice; always do your own research. Authored by Aaron Walker for NewsBTC — https://www.newsbtc.com/bitcoin-hyper-presale-next-1000x-bitcoin-layer-2",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55301118,
     "published": 1764769154000,
     "title": "Japan’s new crypto tax could wake ‘sleeping giant’ of retail investors",
@@ -3693,6 +3430,158 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55346873,
+    "published": 1764853322000,
+    "title": "Coinbase Plugs Crypto Into US Mega Banks: Is $PEPENODE the Next 1000x Crypto?",
+    "body": "What to Know: Coinbase connecting stablecoin and custody rails to major US banks could accelerate institutional flows into crypto while normalizing tokenized dollars in tradfi. As infrastructure institutionalizes, speculative capital historically migrates down the risk curve into higher-volatility narratives like memecoins and gamified yield experiments. PEPENODE’s mine-to-earn model gamifies virtual mining, removing hardware complexity while front-loading incentives for early participants via tiered node rewards. Mine-to-earn and virtual mining designs highlight a broader shift from passive staking dashboards toward interactive, game-like front ends for on-chain yield and speculation. Coinbase quietly flipping the switch on stablecoin and custody pilots with America’s biggest banks is more than another partnership headline. It’s the first real attempt to plug crypto rails directly into the core of US tradfi, turning token transfers into something that feels like moving dollars inside online banking. Coinbase CEO Brian Armstrong spoke at the NYC DealBook Summit on December 3 about Coinbase piloting programs with banks to integrate stablecoins . That matters for you because the bottleneck in every cycle has never been interest; it’s infrastructure. When wires, ACH, and card networks are the only ramps, fresh capital drips in. If large US banks can custody crypto and move stablecoins across their internal systems, the next wave of liquidity can hit exchanges and on-chain markets much faster. But institutional plumbing doesn’t automatically answer where the risk-on capital actually goes. Bitcoin and majors tend to absorb the first inflows, then liquidity leaks down the curve into narratives that can move 10x, 100x, or more in a single cycle. In 2021, it was DeFi and dog tokens . This time, memecoins are colliding with gamified mechanics and mining nostalgia. That’s the setup where PEPENODE ($PEPENODE) is starting to trend: the world’s first mine-to-earn meme coin trying to capture degen attention as Coinbase connects the pipes. Instead of buying another dog on a DEX, you enter virtual mining, promising hardware-free, gamified yield, turning mining into a game. Why Institutional Rails Push Degens Further Out On The Risk Curve Coinbase’s work with major US banks around stablecoin rails and custody isn’t just compliance theater. It points to a future where treasurers, asset managers, and even corporates can move tokenized dollars with near-instant settlement and transparent on-chain records, then hold $BTC, $ETH, and other majors under bank-grade custody. As those flows normalize, the ‘serious’ capital anchors itself in Bitcoin, Ethereum, and maybe a handful of blue chips. Retail and degen capital, by contrast, historically chases volatility at the edge, chasing memecoins, experimental DeFi, and new token primitives that can actually outperform when majors grind sideways. That’s where mine-to-earn and game-infused token models like $PEPENODE come in. Already down to mine? Check out our ‘ How to Buy PEPENODE ’ guide. Several projects are already trying to fuse mining aesthetics with user-friendly yield: browser mining clones, cloud-mining NFTs, and clicker-style games that sit on top of standard staking contracts. But most still feel either like reskinned staking dashboards or opaque mining contracts. PEPENODE ($PEPENODE) stands out, positioning its mine-to-earn concept as a more transparent, gamified alternative built directly on Ethereum. How PEPENODE Turns Mining Into A Virtual Meme Economy Where traditional mining demands ASICs, power bills, and technical know-how, PEPENODE ($PEPENODE) leans into a Virtual Mining System running on Ethereum smart contracts. You buy and customize ‘Miner Nodes,’ upgrade in-game facilities to boost output, and earn meme coin rewards such as $PEPE or $FARTCOIN, all without ever plugging in a single watt of physical hardware. Its core pitch is that early adopters get access to more powerful nodes with higher reward multipliers, solving two persistent problems in mining-inspired projects: weak early incentives and opaque reward math. Tiered node rewards and a gamified dashboard will make the experience feel closer to a crypto-native idle game than a spreadsheet of APRs. Post-TGE gameplay activation is planned to kick in once the token is live. But if you get in now, you can get staking rewards of 573% On the capital-raising side, the $PEPENODE presale has already attracted traction, with over $2.2M raised at a token price of $0.0011778. Whale tracker data reveals significant purchases with the largest hitting $94.1K , hinting that some higher-conviction wallets are positioning early around the mine-to-earn thesis. Because $PEPENODE is structured as an ERC‑20 on Ethereum’s proof-of-stake chain, staking, rewards distribution, and any future governance all route through smart contracts rather than off-chain servers. That means the ‘mining’ loop is effectively a UX layer over on-chain logic – a bet that the next 1000x crypto narrative won’t just be about culture, but about turning yield itself into a game you can actually play. See how far we think it can go in our $PEPENODE price prediction. Remember, this isn’t intended as financial advice, and you should always do your own research before investing. Authored by Aaron Walker , NewsBTC — https://www.newsbtc.com/news/coinbase-plugs-crypto-in-us-mega-banks-pepenode-next-1000x-crypto/",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55347883,
+    "published": 1764854920000,
+    "title": "Best Crypto Presale to Buy Now: Bitcoin Hyper Supercharges Bitcoin with Layer 2 Scalability",
+    "body": "What to Know: Bitcoin’s Layer 1 is highly secure but limited by slow throughput, high fees, and no native smart contracts, restricting payments, DeFi, and everyday on-chain activity. Demand is rising for a system that pairs Bitcoin-level trust with Solana-grade speed, creating a clear market gap for scalable, programmable Bitcoin Layer-2 solutions like Bitcoin Hyper. Bitcoin Hyper launches a high-performance Bitcoin Layer 2 with SVM integration, enabling faster-than-Solana execution for wrapped BTC across payments, DeFi, NFTs, and more. With ultra-low-latency processing and SVM smart contracts, Bitcoin Hyper aims to transform idle $BTC into a productive asset powering dApps, gaming, and high-speed on-chain ecosystems. Bitcoin has spent the last cycle proving one thing: it’s one of the world’s premier reserve assets. But while $BTC dominates in security and brand, it still feels stuck in 2017 when you try to actually use it. Slow confirmations, inconsistent fees, and no native smart contracts make everyday utility an uphill battle. That gap has powered entire ecosystems. Solana , Ethereum, and their L2s captured users who wanted speed, low fees, and programmable money. Bitcoin holders, meanwhile, have mostly been sidelined into ‘hold and hope’ strategies, watching billions in DeFi, NFTs, and gaming flourish elsewhere. Bitcoin Hyper ($HYPER) is built around a simple premise: Bitcoin shouldn’t have to choose between being sound money and usable money. It aims to turn slow, expensive $BTC into a high-throughput Layer 2 where you can move Bitcoin in seconds for tiny fees while tapping DeFi, dApps, and NFTs directly tied back to Bitcoin’s security. Instead of trying to reinvent Bitcoin, Bitcoin Hyper plugs a Solana Virtual Machine-based execution layer into Bitcoin’s settlement layer, targeting Solana-level performance for $BTC itself. If you’ve been looking at the next wave of Bitcoin infrastructure plays, Bitcoin Hyper’s presale positions itself squarely as a bet on bringing full-stack utility to the world’s largest crypto. Bitcoin Hyper Turns Idle $BTC Into a High-Speed DeFi Asset Bitcoin Hyper takes Bitcoin from a passive store of value to an active asset that you can actually put to work. You can bridge $BTC in, wrap it, and then send payments that confirm in seconds, with fees designed to stay tiny even during peak demand. For users, it feels more like Web2 payments than classic Bitcoin. Under the hood, SVM integration means developers can deploy fast, Solana-style smart contracts while still anchoring value back to Bitcoin. That unlocks $BTC-native swaps, lending, staking, NFTs, and gaming dApps without forcing you to abandon the Bitcoin economic base. Bitcoin Hyper explicitly targets Solana-level throughput for a smoother UX. For builders, Bitcoin Hyper adds SDKs and Rust-based tooling, so you can spin up DeFi protocols, NFT platforms, or games that speak the same language as Solana but settle value in Bitcoin. The presale has already raised $28.9M with tokens priced at $0.013375, signaling early conviction that $BTC’s utility layer is overdue. Read more about how to buy $HYPER during the presale. Can Bitcoin Hyper’s Presale Fuel a Breakout? The upside thesis for $HYPER rests on one idea, fundamental to what Bitcoin Hyper actually is: Bitcoin holders finally getting a credible, high-throughput Layer 2 to match the chain’s brand and liquidity. Momentum indicators are starting to line up behind that narrative. Whale investors haven’t been idle, steadily making major $HYPER purchases: $500K whale buy $396K whale buy $274K whale buy If you believe $BTC will anchor the next cycle, but utility will live on L2s, Bitcoin Hyper sits directly in that flow. High-speed payments, low fees, and DeFi for wrapped $BTC all feed into the same story: turning dormant Bitcoin into productive capital. Our price prediction echoes that idea, with $HYPER potentially reaching $0.08625 by the end of 2026, representing some 545% gains. Bitcoin Hyper is positioning itself as the bridge between Bitcoin’s brand and modern crypto UX. Fast, low-cost $BTC transfers and SVM-powered dApps all stack into a straightforward pitch: give Bitcoin the app layer it never had, without compromising its core value proposition, and make $HYPER one of the best crypto presales . If you’re looking at narrative-driven infrastructure plays for the next cycle, $HYPER offers a pure bet on Bitcoin scalability, programmability, and DeFi catch‑up. Buy $HYPER in presale. This article is for informational purposes only and does not constitute financial, investment, or trading advice; always do your own research. Authored by Aaron Walker for NewsBTC — www.newsbtc.com/best-crypto-to-buy-bitcoin-hyper-presale-brings-bitcoin-layer-2-scalability",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55347611,
+    "published": 1764854408000,
+    "title": "Morning Minute: BlackRock Goes Risk-On for 2026",
+    "body": "The investment giant is pointing to AI and digital assets like stablecoins as big forces driving change and growth in the economy.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55299947,
+    "published": 1764851829000,
+    "title": "They ‘Bought More’—BlackRock CEO Reveals Sovereign Fund Bitcoin Price Bombshell Alongside A Stark Trump Warning",
+    "body": "The chief executive of the world’s largest asset manager BlackRock has predicted the “enormous growth” of crypto-based tokenization in coming years...",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
