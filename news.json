@@ -1,186 +1,5 @@
 [
   {
-    "id": 55316435,
-    "published": 1764799257000,
-    "title": "Chainlink Approaches Key Breakout Levels as ETF Launch Triggers Market-Wide Buzz",
-    "body": "Chainlink (LINK) is once again in the spotlight across the cryptosphere after the launch of the first U.S. Chainlink-focused ETF sparked a sharp price rebound and renewed institutional interest. LINK surged more than 20% in 24 hours, trading around $14.4 as volumes and market participation accelerated. Related Reading: Can the Fusaka Upgrade Renew Ethereum’s Momentum After Recent Price Hit? Chainlink ETF Launch Sparks Strong Market Reaction Grayscale launched the GLNK ETF on December 2, converting its previous private Chainlink trust into a publicly traded product on NYSE Arca. The ETF opened with zero fees and recorded more than 1.17 million shares traded on its first day, far above historical averages. Trading volume reached roughly $13.8 million, while early inflows were reported near $43 million, reflecting strong initial demand. The ETF gives institutions regulated exposure to LINK without requiring direct token custody. With access through major platforms such as Fidelity and Robinhood, Chainlink is receiving increased visibility among traditional investors. Grayscale currently holds about 1.3 million LINK tokens through the product. Derivatives data also shows rising interest, with LINK futures open interest climbing more than 20% and funding rates turning positive as traders add long positions. LINK's price gains some momentum on the daily chart. Source: LINKUSD on Tradingview Technical Signals Point Toward Breakout Potential Beyond ETF-driven momentum, the LINK chart is drawing attention from technical analysts. Several analysts have emphasized a rare four-year descending wedge pattern, typically associated with long-term compression before a breakout. LINK recently bounced from the $12.50 support level, forming higher lows and regaining key Fibonacci levels. Momentum indicators are turning positive as well. The daily RSI has recovered to around 53, while MACD signals improving strength. LINK is now approaching the $14.96 Supertrend level and remains below the 50-day and 200-day EMAs, both key levels the market is watching for confirmation of a trend shift. If the token holds above $13, analysts expect a possible move toward the $18–$20 resistance range. A break above these zones could open the path toward the higher targets mentioned by long-term analysts. Year-End Targets Strengthen as Market Sentiment Improves Crypto analyst Ali Martinez notes that LINK is currently sitting on an important long-term support trendline, which could act as a foundation for a move toward $26 and potentially $47 if momentum continues. Rising institutional inflows, accelerating derivatives activity, and a new spot ETF creating a steady channel for capital have strengthened market expectations. Related Reading: $93K And Climbing: Analysts Say Bitcoin’s Push To $100K Has Begun For now, traders are watching the $12–$13 support area for signs that LINK can sustain its recovery. A decisive move above $14.50–$15 would mark the next major step toward a full bullish breakout. Cover image from ChatGPT, LINKUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Chainlink|chainlink|Link|link price|LINKUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55316448,
-    "published": 1764799212000,
-    "title": "Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid",
-    "body": "Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55316163,
-    "published": 1764798654000,
-    "title": "Ethereum Activates Fusaka Upgrade, Aiming to Cut Node Costs, Speed Layer-2 Settlements",
-    "body": "At the center of the upgrade is PeerDAS, a system that lets validators check small slices of data rather than entire “blobs,” reducing both costs and computational load for validators and layer-2 networks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Ethereum News|Fusaka|Upgrade|hard fork|layer 2|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55316144,
-    "published": 1764798492000,
-    "title": "Fin lands $17M for stablecoin payments app built by ex-Citadel team: Report",
-    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55316917,
-    "published": 1764800067000,
-    "title": "Strategy Bitcoin buys collapse, company bracing for bear market: Analyst",
-    "body": "Strategy's monthly BTC buys contracted significantly in the second half of 2025 amid a broad downturn in the crypto treasury market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55317320,
     "published": 1764801175000,
     "title": "Connecticut Orders Kalshi, Robinhood, Crypto.com to Cease Sports Betting",
@@ -932,29 +751,6 @@
         "NAME": "WALLET",
         "CATEGORY": "WALLET"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55330553,
-    "published": 1764798492000,
-    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
-    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
@@ -2310,52 +2106,6 @@
     ]
   },
   {
-    "id": 55351852,
-    "published": 1764798492000,
-    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
-    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55351434,
-    "published": 1764798492000,
-    "title": "Fin raises $17M for stablecoin payments app built by ex-Citadel team: Report",
-    "body": "Fin, founded by two former Citadel engineers, raised capital to launch a stablecoin app for cross-border payments as banks and fintechs expand into digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55352129,
     "published": 1764861766000,
     "title": "Bitcoin rejects at key $93.5K as Fed rate-cut bets meet 'strong' bear case",
@@ -2381,147 +2131,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55352381,
-    "published": 1764800067000,
-    "title": "Strategy Bitcoin buys collapse, company braces for bear market: Analyst",
-    "body": "Strategy's monthly BTC buys contracted significantly in the second half of 2025 amid a broad downturn in the crypto treasury market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55352420,
-    "published": 1764800067000,
-    "title": "Strategy Bitcoin buys collapse, company braces for bear market: Analyst",
-    "body": "Strategy's monthly BTC buys contracted significantly in the second half of 2025 amid a broad downturn in the crypto treasury market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55352698,
-    "published": 1764800067000,
-    "title": "Strategy Bitcoin buys collapse, company braces for bear market: Analyst",
-    "body": "Strategy's monthly BTC buys contracted significantly in the second half of 2025 amid a broad downturn in the crypto treasury market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
       },
       {
         "TYPE": "122",
@@ -3608,6 +3217,298 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55364763,
+    "published": 1764883866000,
+    "title": "Former Binance.US CEO launches stablecoin platform ahead of L1 network",
+    "body": "After securing $20 million in seed funding for the project in January, Brian Shroder announced a step toward 1Money’s planned stablecoin network.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55364585,
+    "published": 1764883556000,
+    "title": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
+    "body": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Technology",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55364846,
+    "published": 1764884161000,
+    "title": "Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish",
+    "body": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55364906,
+    "published": 1764884108000,
+    "title": "Hua Xia state-linked Chinese bank tokenizes $600M in yuan bonds",
+    "body": "The bond was auctioned off to holders of the digital yuan, a central bank digital currency (CBDC) developed by the Chinese government.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55365072,
+    "published": 1764842693000,
+    "title": "Bitcoin Policy Institute calls for Samourai pardon as petition tops 3,200",
+    "body": "A Washington think tank and prominent Bitcoiners say jailing the Samourai Wallet developers for an “unlicensed money transmitter” conspiracy criminalizes non-custodial code.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55364971,
+    "published": 1764842693000,
+    "title": "Bitcoin Policy Institute calls for Samourai pardon as petition tops 3,200",
+    "body": "A Washington think tank and prominent Bitcoiners say jailing the Samourai Wallet developers for an “unlicensed money transmitter” conspiracy criminalizes non-custodial code.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55365638,
+    "published": 1764885611000,
+    "title": "First Sovereign Crypto Super-App May Bear a ‘Made in Korea’ Stamp",
+    "body": "Suvashree Ghosh writes on how Naver's acquisition of South Korea's largest crypto exchange may lead to a much talked about \"super application\" on a sovereign level.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55365543,
+    "published": 1764885606000,
+    "title": "Fusaka Upgrade Reignites Confidence in Ethereum, Analysts Eye $3,500 Target",
+    "body": "Ethereum (ETH) is topping talks once again as its Fusaka upgrade goes live and the ETH price returns firmly above the $3,200 mark. After weeks of choppy trading and lingering fear across the broader crypto market, the combination of a major technical overhaul and rising on-chain activity is giving traders a fresh narrative to follow. Related Reading: Eric Trump Says Bitcoin Could Hit $500,000, Stands By ABTC Strategy In the last 24 hours, ETH has climbed around 4–5%, outperforming most large-cap cryptos and reclaiming a key psychological zone near $3,200. Market data shows rising volumes and a noticeable pickup in accumulation from larger holders, even as sentiment indicators still sit in “Fear” territory. ETH's price trends to the downside, but records some gains on the daily chart. Source: ETHUSD on Tradingview Fusaka Upgrade Shifts Focus Back to Ethereum’s Scaling Roadmap The Fusaka upgrade, Ethereum’s second major network update of 2025, activated at block height 18,200,000. At its core is PeerDAS, a data availability sampling system that lets nodes store only slices of blob data instead of entire payloads. This change is estimated to expand blob throughput by roughly eight times, easing congestion and helping layer-2 networks push more transactions through Ethereum’s base layer. Developers describe Fusaka as another step in Ethereum’s long-term scaling roadmap, aligning the main chain with growing layer-2 activity. Beyond PeerDAS, the upgrade bundles a series of Ethereum Improvement Proposals that tweak gas limits, transaction sizes, cryptographic support, and block configuration, aiming to improve efficiency while keeping validator requirements manageable. Whales, ETFs and Technical Signals Cluster Around $3,500 On-chain data shows “shark” wallets holding between 1,000 and 10,000 ETH have ramped up accumulation in recent weeks, buying aggressively on dips around $2,700–$3,000. Institutional interest also appears to be rising. BitMine has reportedly added more than 18,000 ETH to its treasury ahead of Fusaka, while U.S. spot Ethereum ETFs have recorded notable net inflows. Technically, ETH is trading around $3,200 with analysts watching resistance between $3,300 and $3,500. Short-term models project a move toward roughly $3,537 within days, implying upside of about 10% if the current trend holds. However, indicators remain mixed. The broader setup is still labelled “bearish,” and any pullback could see ETH retesting support around $3,100, $3,000, or even the $2,850 zone. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next For now, the Fusaka upgrade has shifted the conversation back to fundamentals, with Ethereum’s price action testing whether renewed confidence is enough to carry it through the $3,500 barrier. Cover image from ChatGPT, ETHUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|eth price|ethereum|ethereum price|ethusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
