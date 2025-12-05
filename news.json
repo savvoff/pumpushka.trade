@@ -1,180 +1,5 @@
 [
   {
-    "id": 55354493,
-    "published": 1764865607000,
-    "title": "CFTC greenlights spot crypto trading on US exchanges",
-    "body": "Acting CFTC Chair Caroline Pham said the move was intended to drive trading activity to US exchanges, rather than offshore ones “that lack basic safeguards.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55354769,
-    "published": 1764865977000,
-    "title": "Meta Plans 30% Cut to Metaverse Budget as Reality Becomes Less Virtual: Bloomberg",
-    "body": "Horizon Worlds and Quest are facing layoffs as Meta retreats further from its $70 billion bet on virtual reality, people familiar with the matter told Bloomberg.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Meta|Metaverse|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55355582,
-    "published": 1764867625000,
-    "title": "BNB Nears $910 as Volume Jumps 68%, Signaling Growing Interest Near Resistance Zone",
-    "body": "The token is trading in a sideways range, holding above recent lows near $896, while a breakout above $920-$928 resistance could push BNB toward $1,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|BNB|Technical Analysis|AI Market Insights|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55355587,
-    "published": 1764867614000,
-    "title": "The MicroStrategy Of Asia: Japanese Company Announces Plan For Bitcoin And XRP Treasury",
-    "body": "Bitcoin and XRP have become central to a bold corporate shift in Japan, with AltPlus announcing that both digital assets will be formally incorporated into its long-term treasury strategy. The publicly listed company disclosed the move in its recent shareholder filing, outlining a multi-layered plan that positions cryptocurrencies as foundational components of its future financial and operational framework. Bitcoin And XRP Lead Treasury According to a post by “BankXRP” on X (formerly Twitter), AltPlus is expected to purchase and hold Bitcoin and XRP through a newly established cryptocurrency purchase and management division. The company frames this step as part of a long-horizon capital strategy supported by blockchain transparency, expanding global regulatory clarity, and the growing institutional acceptance of digital assets. In the filing, Bitcoin and XRP are highlighted for their scarcity, decentralization, predictability, and fast, low-cost transactional capabilities—attributes AltPlus expects will contribute to long-term value growth and broader financial-market utility. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next Moreover, the treasury initiative is designed to strengthen the company’s financial base, diversify revenue streams, and establish a stable earnings engine through staking-based income. AltPlus presents the move as a structured method to enhance capital efficiency and reinforce corporate value over time. The company notes that holding both Bitcoin and XRP aligns its balance-sheet strategy with emerging global trends in digital-asset management and institutional-grade treasury practices. AltPlus also outlines its risk-management system to address crypto-market volatility, liquidity risks, cybersecurity threats, regulatory changes, and speculative trading patterns. The company plans to implement investment-scale limits, a controlled holding-ratio strategy, and a proprietary internal asset-management system to govern acquisition, custody, tracking, and treasury integration. These measures are designed to maintain governance discipline, ensure compliance, and safeguard digital-asset operations as part of the broader corporate structure. AltPlus’ Web3 And Digital-Asset Expansion Beyond treasury allocation, AltPlus frames Bitcoin and XRP as key elements in a broader transition into digital-asset operations and Web3-enabled business development. The filing situates this shift within a global context, noting that major financial institutions and listed companies worldwide are increasingly incorporating crypto assets into holding, settlement, and capital-management functions. Related Reading: Are Dogecoin Whales Leaving The Meme Coin? Large Transactions Crash To 2-Month Lows Building on this trend, AltPlus plans to integrate blockchain infrastructure into its Entertainment and Solutions business. This includes exploring Web3 functionality, token-based engagement models, and digital-asset utilities across its gaming and IP ecosystem. These initiatives are intended to unlock new business models, enhance operational flexibility, and develop internal expertise for a digital-native market environment. The company’s decision to include XRP directly in its treasury strategy is one of the standout elements of the announcement. AltPlus positions XRP as a long-term corporate asset alongside Bitcoin, marking a notable step forward for institutional crypto adoption in Japan. Through treasury transformation, staking-driven income generation, and Web3 ecosystem expansion, AltPlus is creating a strategic framework similar to the high-conviction treasury approach seen at MicroStrategy. At the same time, it is establishing a distinctly Japanese model focused on utility, diversification, and forward-looking corporate innovation. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|XRP|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55355463,
-    "published": 1764867322000,
-    "title": "Malaysia Cracks Down on Bitcoin Miners Behind $1.1B Electricity Theft",
-    "body": "A new taskforce is using drones and sensors to find power thieves, after 14,000 illicit mining operations have been uncovered over five years.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55356725,
     "published": 1764869522000,
     "title": "Sovereign Wealth Funds Were Buyers as Bitcoin Plunged: BlackRock's Larry Fink",
@@ -3294,6 +3119,87 @@
         "ID": 6,
         "NAME": "ASIA",
         "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 55394328,
+    "published": 1764952091000,
+    "title": "Polish lawmakers fail to revive controversial crypto bill after presidential veto",
+    "body": "Poland’s parliament upheld a veto on the Crypto-Asset Market Act, delaying EU-aligned regulation and deepening divisions over security and innovation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55394386,
+    "published": 1764952390000,
+    "title": "Trump DOJ Wants Terra Founder Do Kwon Behind Bars for 12 Years, Citing SBF Sentence",
+    "body": "Federal prosecutors reserved the right to pursue up to 12 years for Terra founder Do Kwon in an August plea deal. Now, they’re seeking that maximum.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "terra-luna-2|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55394706,
+    "published": 1764953906000,
+    "title": "US Prosecutors Seek 12-Year Sentence for Terraform Founder Do Kwon in Crypto Fraud Case",
+    "body": "The collapse of Do Kwon's Terraform project caused losses that surpassed those by Sam Bankman-Fried's FTX, Celsius and OneCoin combined, the prosecutors argued.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Do Kwon|Terraform|Terra luna|Southern district of new york|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
