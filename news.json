@@ -1,81 +1,5 @@
 [
   {
-    "id": 55360263,
-    "published": 1764875980000,
-    "title": "CFTC Gives Green Light to Spot Crypto Trading as Bitnomial Exchange Readies for Launch",
-    "body": "Acting CFTC Chair Caroline Pham described the move as unprecedented.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55361689,
-    "published": 1764878414000,
-    "title": "XRP On-Chain Velocity Hits Yearly High As Network Activity Explodes",
-    "body": "XRP has reclaimed the $2.10 level after a strong rebound across the broader crypto market, signaling renewed confidence following several days of fear, volatility, and sharp pullbacks. Analysts now see the potential for a sustained recovery as momentum returns and buyers show signs of stepping back in. The reclaim of this key level comes at a crucial moment, with traders closely watching whether XRP can build enough strength to challenge higher resistances in the coming sessions. Related Reading: Bitmine Buys Another 18,345 Ethereum ($54.94M) In Fresh Accumulation Push – Details Adding to the renewed optimism, a new report from CryptoOnchain on CryptoQuant highlights a major spike in XRP Ledger Velocity, marking one of the strongest on-chain signals of 2025. On December 2, the Velocity metric surged to 0.0324, its highest value of the year. Velocity measures how frequently XRP moves across the network, serving as a direct indicator of economic activity, liquidity, and transactional demand. Such a dramatic rise in Velocity shows that XRP is circulating rapidly among users rather than sitting dormant in wallets. It reflects increased participation from traders, active holders, and possibly even whales, pointing toward heightened engagement on the network. Network Activity Surges as Velocity Signals Peak 2025 Engagement According to the CryptoOnchain report, the latest spike in XRP Ledger Velocity indicates a dramatic shift in how XRP is being used across the network. Instead of sitting idle in cold wallets or being held for long-term storage, XRP is rapidly changing hands among market participants. This level of circulation suggests that traders, active users, and possibly whales are driving significantly higher transaction volume than usual. CryptoOnchain explains that such a strong jump in Velocity typically signals high liquidity and deep participation across the ecosystem. When coins move this quickly, it means the asset is being used in real economic activity—whether for trading, transfers, arbitrage, or strategic repositioning by large holders. This type of behavior often aligns with periods of heightened volatility, increased speculation, or structural shifts in market sentiment. Regardless of whether price trends upward or downward, the data confirms that the XRP Ledger is entering one of its most active phases of 2025. User engagement has reached a yearly peak, with more participants interacting with the network and more coins circulating than at any point this year. Such elevated activity often precedes or accompanies major market movements, reinforcing the idea that XRP is transitioning into a more dynamic and liquid phase as the recovery unfolds. Related Reading: Tron Hits $80.2B Stablecoin Milestone After Tether Mints 1B USDT On The Network XRP Faces Heavy Resistance in a Weakening Daily Structure XRP’s daily chart shows an attempted rebound toward the $2.15–$2.20 range, but the broader structure remains pressured by a persistent downtrend. After the sharp sell-off in late October and November—which pushed XRP below the $2.00 level for the first time in months—the asset is now trying to stabilize. The recent bounce reflects short-term buying interest, yet the price still trades below all major moving averages, signaling that bulls have not fully regained control. The 50-day SMA is currently sloping downward near $2.35, acting as immediate resistance. The 100-day SMA around $2.55 and the 200-day SMA near $2.60 form a stacked barrier above price, confirming a structurally bearish setup. For XRP to build meaningful upside momentum, it must reclaim at least the 50-day SMA and flip it into support—something it has failed to do since late September. Related Reading: Bitcoin Liquidation Dominance Hits Multi-Year High: The Real Cause Behind BTC’s Breakdown Support remains stable around $2.00–$2.05, where buyers have defended the level repeatedly with long lower wicks. A breakdown below this area could expose XRP to deeper losses toward $1.80. Meanwhile, volume remains muted, suggesting the rebound lacks strong conviction. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|xrp|XRP Activity|XRP analysis|XRP network activity|xrp news|XRP On-Chain|XRP On-Chain Data|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55362709,
     "published": 1764880165000,
     "title": "Privacy-First 'Alien' Identity System Aims to Prove Users Are Human in the Age of AI",
@@ -2978,6 +2902,35 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55399523,
+    "published": 1764965385000,
+    "title": "Bitcoin ‘risk off’ signals fire despite traders’ view that sub-$100K BTC is a discount",
+    "body": "Bitcoin’s bounce evaporated as the weekly close approaches and traders say multiple risk-off metrics point to a high correction risk for BTC. Is $100,000 by the end of 2025 possible?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
