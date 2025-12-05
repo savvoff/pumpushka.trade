@@ -1,144 +1,5 @@
 [
   {
-    "id": 55341731,
-    "published": 1764844767000,
-    "title": "Citadel Challenges DeFi Framework in Letter to SEC, Sparking Industry Outrage",
-    "body": "A Citadel Securities letter to the SEC argues that some DeFi systems resemble traditional exchanges and should face comparable oversight.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Citadel|DeFi|SEC|Regulation|US|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55342361,
-    "published": 1764846000000,
-    "title": "Plume Brings Institutional RWA Yield to Solana With Debut of Nest Vaults",
-    "body": "Plume is bringing real-world yield to Solana with the rollout of its Nest vaults, giving the network’s users direct access to on-chain credit, Treasuries and receivables.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Real World Assets|Solana News|DeFi|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55342457,
-    "published": 1764845968000,
-    "title": "Bitcoin ATM Operator Coinme Ordered to Return Over $8M to Customers",
-    "body": "The Seattle-based Bitcoin ATM operator faces revocation of its license after allegedly claiming unredeemed customer vouchers as income.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55342545,
-    "published": 1764846058000,
-    "title": "CZ’s YZi ramps up prediction market bet as Opinion claims 40% share",
-    "body": "The YZi Labs-backed “Opinion” prediction market logged $1.5 billion in weekly volume just weeks after launch, outpacing Kalshi and Polymarket as prediction markets boom.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55343203,
-    "published": 1764847128000,
-    "title": "CoinDCX report shows Indian users moving to broader crypto portfolios in 2025",
-    "body": "CoinDCX’s Sumit Gupta said crypto is becoming a natural extension of traditional investing as Indian traders mature.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55344611,
     "published": 1764849631000,
     "title": "XRP Coils At Support: Refusal To Drop Hints At Potential Reversal — Here’s Why",
@@ -3560,6 +3421,123 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55388823,
+    "published": 1764930884000,
+    "title": "Polymarket Hiring In-House Team to Trade Against Customers — Here's Why It's a Risk",
+    "body": "The prediction market’s move toward internal market making could blur the line with sportsbooks and undermine the platform’s neutrality, experts warn.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Polymarket|Prediction Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55388856,
+    "published": 1764930802000,
+    "title": "Ether vs. Bitcoin teases 170% gains as ETH price breaks 5-month downtrend",
+    "body": "Ether price action staged a repeat of its 2021 bull market moves against Bitcoin, leading to predictions of fresh long-term highs against BTC.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55389226,
+    "published": 1764932403000,
+    "title": "FUD Frenzy: XRP Battles Its Biggest Sentiment Drop In Months—Data",
+    "body": "According to an analytics report, XRP traded near $2.06 on Friday as social chatter around the token turned sharply negative after a two-month slide of about 30%. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets Traders and data firms flagged a sudden rise in bearish messages, a shift from the more mixed views seen earlier this year. The mood has tightened around crypto, and XRP is not immune. Crowd Mood Shifts To Fear Based on reports from Santiment, its chart tracks XRP’s price against positive and negative comments and a combined sentiment line that aims to measure crowd feeling. Recent readings pushed the balance into what Santiment calls the fear zone, where negative talk outweighs optimism. On this same model, Santiment pointed to Nov. 21 as a comparable moment. Back then, XRP rallied more than 20% over the next three days before gains cooled. That past move is being used as a reference point by traders who watch social signals closely. 😨 XRP (-31% in the past 2 months), unlike Bitcoin, is seeing the most fear, uncertainty, & doubt (FUD) since October, according to our social data. 🔴 Circles indicate days where there are abnormally higher BULLISH comments compared to BEARISH comments, about XRP (Greed Zone)… https://t.co/lJNW8zlRwK pic.twitter.com/ZoFmwrtw3h — Santiment (@santimentfeed) December 4, 2025 Short Squeezes And Reflexive Moves Extreme pessimism can become a catalyst. When weaker holders sell and shorts pile in, a quick reversal can squeeze sellers and lift price sharply. This is the scenario many are watching: heavy bearish chatter could clear the way for a reflexive rebound if buying pressure appears. Santiment urged followers to keep an eye on the same dashboard to spot rapid shifts in sentiment, and some traders say the crowd’s mood often leads price in the very short term. Price Moves And Market Backdrop XRP was last reported down about 4% at $2.04, extending a loss of roughly 6% over the past month. The total crypto market value slipped about 1% to $3.22 trillion on the same day, a pullback that has dragged on many altcoins even as liquidity stays concentrated in the largest tokens. Order books on smaller pairs have thinned and leveraged positions were trimmed, leaving less depth to absorb big moves. Traders also cited uncertainty around upcoming US policy decisions as a factor behind cautious positioning. Institutional Push And On-Ledger Activity Analysts watching the token say it still has room to run toward $2.50 to $2.75 if cross-border liquidity flows pick up and stablecoin projects on the XRP Ledger gain momentum. Reports have disclosed that Ripple has been moving to broaden its institutional reach. Buy XRP. Stop focusing on any other Crypto Coins They don’t matter — Cameron Scrubs (@imcameronscrubs) December 2, 2025 Last month, the firm launched digital asset spot prime brokerage services in the US after acquiring Hidden Road and folding it into Ripple Prime, a combined trading and custody setup for professional clients. That push is being watched as a potential longer-term support for demand. Related Reading: Bitcoin Crash Fails To Shake Ripple CEO — He Still Calls For $180K Vocal Bulls And Market Signals Despite the FUD surrounding XRP, Cameron Scrubs, founder of Tradeship University, has again urged followers to “buy XRP,” stating that other crypto assets “don’t matter.” In previous posts, he also called to “sell everything and buy XRP.” Traders are watching these statements closely as sentiment shifts, while on-chain data and social signals are being monitored for indications that the current negative chatter may be starting to ease. Featured image from Gemini, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|altcoins|bitcoin|crypto|FUD|xrp|XRPUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
