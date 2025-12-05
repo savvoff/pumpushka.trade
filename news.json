@@ -1,239 +1,5 @@
 [
   {
-    "id": 55364763,
-    "published": 1764883866000,
-    "title": "Former Binance.US CEO launches stablecoin platform ahead of L1 network",
-    "body": "After securing $20 million in seed funding for the project in January, Brian Shroder announced a step toward 1Money’s planned stablecoin network.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55364585,
-    "published": 1764883556000,
-    "title": "Solana and Ethereum Network Base Are Now Connected Thanks to Coinbase and Chainlink",
-    "body": "Solana and Base are now connected thanks to a new bridge secured by Chainlink's interoperability protocol and crypto exchange Coinbase.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55364846,
-    "published": 1764884161000,
-    "title": "Myriad Moves: Bitcoin and Ethereum Recovery Odds Rise as Traders Flip Bullish",
-    "body": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus odds of another major liquidation event.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55364906,
-    "published": 1764884108000,
-    "title": "Hua Xia state-linked Chinese bank tokenizes $600M in yuan bonds",
-    "body": "The bond was auctioned off to holders of the digital yuan, a central bank digital currency (CBDC) developed by the Chinese government.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55365638,
-    "published": 1764885611000,
-    "title": "First Sovereign Crypto Super-App May Bear a ‘Made in Korea’ Stamp",
-    "body": "Suvashree Ghosh writes on how Naver's acquisition of South Korea's largest crypto exchange may lead to a much talked about \"super application\" on a sovereign level.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55365543,
-    "published": 1764885606000,
-    "title": "Fusaka Upgrade Reignites Confidence in Ethereum, Analysts Eye $3,500 Target",
-    "body": "Ethereum (ETH) is topping talks once again as its Fusaka upgrade goes live and the ETH price returns firmly above the $3,200 mark. After weeks of choppy trading and lingering fear across the broader crypto market, the combination of a major technical overhaul and rising on-chain activity is giving traders a fresh narrative to follow. Related Reading: Eric Trump Says Bitcoin Could Hit $500,000, Stands By ABTC Strategy In the last 24 hours, ETH has climbed around 4–5%, outperforming most large-cap cryptos and reclaiming a key psychological zone near $3,200. Market data shows rising volumes and a noticeable pickup in accumulation from larger holders, even as sentiment indicators still sit in “Fear” territory. ETH's price trends to the downside, but records some gains on the daily chart. Source: ETHUSD on Tradingview Fusaka Upgrade Shifts Focus Back to Ethereum’s Scaling Roadmap The Fusaka upgrade, Ethereum’s second major network update of 2025, activated at block height 18,200,000. At its core is PeerDAS, a data availability sampling system that lets nodes store only slices of blob data instead of entire payloads. This change is estimated to expand blob throughput by roughly eight times, easing congestion and helping layer-2 networks push more transactions through Ethereum’s base layer. Developers describe Fusaka as another step in Ethereum’s long-term scaling roadmap, aligning the main chain with growing layer-2 activity. Beyond PeerDAS, the upgrade bundles a series of Ethereum Improvement Proposals that tweak gas limits, transaction sizes, cryptographic support, and block configuration, aiming to improve efficiency while keeping validator requirements manageable. Whales, ETFs and Technical Signals Cluster Around $3,500 On-chain data shows “shark” wallets holding between 1,000 and 10,000 ETH have ramped up accumulation in recent weeks, buying aggressively on dips around $2,700–$3,000. Institutional interest also appears to be rising. BitMine has reportedly added more than 18,000 ETH to its treasury ahead of Fusaka, while U.S. spot Ethereum ETFs have recorded notable net inflows. Technically, ETH is trading around $3,200 with analysts watching resistance between $3,300 and $3,500. Short-term models project a move toward roughly $3,537 within days, implying upside of about 10% if the current trend holds. However, indicators remain mixed. The broader setup is still labelled “bearish,” and any pullback could see ETH retesting support around $3,100, $3,000, or even the $2,850 zone. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next For now, the Fusaka upgrade has shifted the conversation back to fundamentals, with Ethereum’s price action testing whether renewed confidence is enough to carry it through the $3,500 barrier. Cover image from ChatGPT, ETHUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|eth price|ethereum|ethereum price|ethusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55366330,
     "published": 1764887257000,
     "title": "Vivek Ramaswamy’s Strive Sends Out A Warning Letter To MSCI Over Its Proposal To Shun Bitcoin Treasuries From Indexes",
@@ -2861,6 +2627,76 @@
         "ID": 54,
         "NAME": "USDT",
         "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55401501,
+    "published": 1764969947000,
+    "title": "New 'Postal' Game Canceled One Day After Reveal, Following Generative AI Allegations",
+    "body": "Postal: Bullet Paradise has been scrapped and the developer is shutting down after gamers claimed the trailer used generative AI assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Gaming",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55402412,
+    "published": 1764972055000,
+    "title": "Binance Founder Crushes Bitcoin Critic In Game-Changing BTC Vs. Gold Debate",
+    "body": "The Binance Blockchain Week event in Dubai became the center of a high-stakes showdown between traditional and digital innovation, with Bitcoin and gold going head-to-head. Investors, tech enthusiasts, and financial experts watched closely as Binance founder Changpeng Zhao expertly debated renowned Bitcoin critic Peter Schiff, making a compelling argument for why Bitcoin is better than gold. Binance Founder Dominates Bitcoin And Gold Debate During the Binance Blockchain Week in Dubai, Schiff and CZ faced off in a high-profile debate over the value of Bitcoin versus Gold. Schiff defended gold as a safe, stable, and tangible asset while the Binance founder made a compelling case for Bitcoin’s adoption, utility, value, and global reach. Related Reading: Crypto CEO Says Bitcoin Was Never Meant To Be ‘Digital Gold’ – So What Is It? Throughout the debate, which lasted over an hour, CZ consistently demonstrated the practical advantages of Bitcoin, leaving Schiff’s gold argument largely on the defensive. The Binance founder emphasized Bitcoin’s transparent and predictable supply and its role in the modern financial systems. He pointed to hundreds of millions of users who rely on Bitcoin for payments, savings, and transfers. Schiff argued that Bitcoin lacks inherent value and is mainly driven by hype and faith that its price will rise. He stated that gold remains tangible, centuries old, scarce, and valuable in industry, making it superior to BTC. He further asserted that “nobody needs” Bitcoin and that the cryptocurrency is “backed by nothing.” Practical demonstrations played a key role in the debate between Schiff and CZ. The Binance founder explained how Bitcoin and crypto payments already improve financial efficiency, especially in emerging markets. Schiff questioned whether these transactions truly count as money, since merchants ultimately receive traditional currency. CZ’s response highlighted the importance of adoption and network effects, noting that people who use BTC directly for payments give it real-world significance. The debate also considered the preferences of younger generations. CZ asked Schiff whether millennials and Gen Z favoured Bitcoin or gold. The Bitcoin critic responded sharply, suggesting that they would choose gold. He pointed out that, with many young investors losing money on BTC, gold offers a safer, more appealing alternative. The Binance founder countered that younger people understand digital value more intuitively and prefer mobile, borderless, and censorship-resistant assets. Digital Value And The Future Of Money The debate between CZ and Schiff also highlighted the changing definition of money. Bitcoin functions as a decentralized network that enables instant settlement and transparent verification. Its adoption has also helped evolve the financial economy, facilitating faster and more seamless cross-border payments. Schiff argued that gold’s scarcity and industrial demand preserve its value and make it a reliable hedge against economic uncertainty. Related Reading: What Happens To The Bitcoin Price If It Follows Gold? Tokenization also became a point of agreement during the discussion, with Schiff emphasizing that gold can be digitized and tokenized for easier ownership and distribution without moving the physical metal. CZ contended that Bitcoin offers similar advantages while also enabling global financial inclusion. They also discussed the supply of both assets, with the Binance founder noting that Bitcoin has a visible supply, while gold doesn’t. They also talked about the performance of both assets over the years. Schiff argued that gold had outperformed BTC over the past four years. CZ contended that Bitcoin has far outpaced gold over the last 8 years, and since its launch in 2009, it has skyrocketed from a few cents to an ATH above $126,000. He concluded his debate, predicting that Bitcoin’s growth will outpace gold over time. Featured image from iStock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Binance|Binance Blockchain Week|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|changpeng zhao|gold|peter schiff",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
