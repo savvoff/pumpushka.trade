@@ -1,110 +1,5 @@
 [
   {
-    "id": 55326103,
-    "published": 1764819318000,
-    "title": "Crypto Is Edging Further Into Mainstream Finance, BlackRock and Coinbase Chiefs Say",
-    "body": "BlackRock and Coinbase executives discussed Bitcoin, U.S. legislation, tokenization, and market trends on during a joint interview.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55327367,
-    "published": 1764821632000,
-    "title": "XRP Clears Resistance Channel With Traders Eyeing $2.33-$2.40 Zone",
-    "body": "Maintaining support above $2.204 is crucial for continued upward movement, while a break above $2.22 could lead to further gains.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55327334,
-    "published": 1764821259000,
-    "title": "Connecticut orders Robinhood, Crypto.com, Kalshi to stop prediction markets",
-    "body": "Connecticut has sent cease and desist letters to Robinhood, Crypto.com and Kalshi, claiming the platforms' event contracts are unlicensed sports betting.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 55327935,
     "published": 1764822535000,
     "title": "XRP Price Nears Breakout Zone, Suggesting a Potential Rally May Be Brewing",
@@ -3628,6 +3523,123 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55375739,
+    "published": 1764907250000,
+    "title": "Solana and Coinbase’s Base connect together using Chainlink",
+    "body": "Base launched a Chainlink-secured bridge to Solana, enabling crosschain asset transfers between the Ethereum layer-2 and the Solana blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55375602,
+    "published": 1764907215000,
+    "title": "Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report",
+    "body": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|XRP News|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55375548,
+    "published": 1764907068000,
+    "title": "OpenAI Ordered to Hand Over 20M ChatGPT Logs in NYT Copyright Case",
+    "body": "A federal judge rejected OpenAI’s bid to limit discovery, directing the company to produce de-identified user logs central to the case.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
