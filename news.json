@@ -1,104 +1,5 @@
 [
   {
-    "id": 55401153,
-    "published": 1764968990000,
-    "title": "Tether solvency fears are ‘misplaced’ as company sits on large surplus: CoinShares",
-    "body": "James Butterfill counters claims about Tether’s solvency, pointing to a multibillion-dollar surplus despite new criticism from Arthur Hayes and S&P Global.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55401501,
-    "published": 1764969947000,
-    "title": "New 'Postal' Game Canceled One Day After Reveal, Following Generative AI Allegations",
-    "body": "Postal: Bullet Paradise has been scrapped and the developer is shutting down after gamers claimed the trailer used generative AI assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Gaming",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55402412,
-    "published": 1764972055000,
-    "title": "Binance Founder Crushes Bitcoin Critic In Game-Changing BTC Vs. Gold Debate",
-    "body": "The Binance Blockchain Week event in Dubai became the center of a high-stakes showdown between traditional and digital innovation, with Bitcoin and gold going head-to-head. Investors, tech enthusiasts, and financial experts watched closely as Binance founder Changpeng Zhao expertly debated renowned Bitcoin critic Peter Schiff, making a compelling argument for why Bitcoin is better than gold. Binance Founder Dominates Bitcoin And Gold Debate During the Binance Blockchain Week in Dubai, Schiff and CZ faced off in a high-profile debate over the value of Bitcoin versus Gold. Schiff defended gold as a safe, stable, and tangible asset while the Binance founder made a compelling case for Bitcoin’s adoption, utility, value, and global reach. Related Reading: Crypto CEO Says Bitcoin Was Never Meant To Be ‘Digital Gold’ – So What Is It? Throughout the debate, which lasted over an hour, CZ consistently demonstrated the practical advantages of Bitcoin, leaving Schiff’s gold argument largely on the defensive. The Binance founder emphasized Bitcoin’s transparent and predictable supply and its role in the modern financial systems. He pointed to hundreds of millions of users who rely on Bitcoin for payments, savings, and transfers. Schiff argued that Bitcoin lacks inherent value and is mainly driven by hype and faith that its price will rise. He stated that gold remains tangible, centuries old, scarce, and valuable in industry, making it superior to BTC. He further asserted that “nobody needs” Bitcoin and that the cryptocurrency is “backed by nothing.” Practical demonstrations played a key role in the debate between Schiff and CZ. The Binance founder explained how Bitcoin and crypto payments already improve financial efficiency, especially in emerging markets. Schiff questioned whether these transactions truly count as money, since merchants ultimately receive traditional currency. CZ’s response highlighted the importance of adoption and network effects, noting that people who use BTC directly for payments give it real-world significance. The debate also considered the preferences of younger generations. CZ asked Schiff whether millennials and Gen Z favoured Bitcoin or gold. The Bitcoin critic responded sharply, suggesting that they would choose gold. He pointed out that, with many young investors losing money on BTC, gold offers a safer, more appealing alternative. The Binance founder countered that younger people understand digital value more intuitively and prefer mobile, borderless, and censorship-resistant assets. Digital Value And The Future Of Money The debate between CZ and Schiff also highlighted the changing definition of money. Bitcoin functions as a decentralized network that enables instant settlement and transparent verification. Its adoption has also helped evolve the financial economy, facilitating faster and more seamless cross-border payments. Schiff argued that gold’s scarcity and industrial demand preserve its value and make it a reliable hedge against economic uncertainty. Related Reading: What Happens To The Bitcoin Price If It Follows Gold? Tokenization also became a point of agreement during the discussion, with Schiff emphasizing that gold can be digitized and tokenized for easier ownership and distribution without moving the physical metal. CZ contended that Bitcoin offers similar advantages while also enabling global financial inclusion. They also discussed the supply of both assets, with the Binance founder noting that Bitcoin has a visible supply, while gold doesn’t. They also talked about the performance of both assets over the years. Schiff argued that gold had outperformed BTC over the past four years. CZ contended that Bitcoin has far outpaced gold over the last 8 years, and since its launch in 2009, it has skyrocketed from a few cents to an ATH above $126,000. He concluded his debate, predicting that Bitcoin’s growth will outpace gold over time. Featured image from iStock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Binance|Binance Blockchain Week|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|changpeng zhao|gold|peter schiff",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55403962,
     "published": 1764975612000,
     "title": "Russia Steps Deeper Into Crypto As State Bank Prepares Direct Trading",
@@ -1150,6 +1051,53 @@
         "ID": 47,
         "NAME": "SPONSORED",
         "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55439728,
+    "published": 1765058433000,
+    "title": "Ethereum Shows Strength: Indicators Suggest Bigger Moves Ahead",
+    "body": "Ethereum is gaining momentum, and several technical signals suggest that a significant move could be on the way. With key support levels holding and bullish patterns forming, the market may be setting up for a notable upside. Golden Pocket Rejection: Confirming The High-Risk Scenario In a recent update on X, analyst Luca referenced his recent market commentary, noting that Ethereum price action unfolded exactly as he had anticipated, with the price tapping into the lost high-timeframe support range. This range aligned with the golden pocket between the 0.5 and 0.618 Fibonacci retracement levels, and the price rejected there, confirming the high-risk scenario he had highlighted in advance. Related Reading: Ethereum Coils For A Breakout As IH&S + Heavy Accumulation Emerges Since that rejection, the price has broken below the key 0.618 Fibonacci Point of Interest (POI). However, the asset is still managing to hold above the crucial 1-Day Bull Market Support Band. Luca stressed that this band has historically served as a strong reversal spot over the last couple of months. Thus, he believes the current low-timeframe market structure is not yet fully invalidated. Despite this technical hold, the analyst reiterated his cautious approach, stating that until he sees clear signs of strength on the low-timeframes, signs that can durably confirm the bottom is in and that key support levels are properly reclaimed, he won’t scale out of his edges. Luca concluded that until that concrete bullish confirmation materializes, the most likely outcome for the immediate future remains further consolidation. The market needs time to absorb the recent volatility and build a new base before a more durable reversal to the upside can take hold. ETH/BTC Trendline Breakout: Market Risk Appetite Returns Crypto analyst Paramatik outlined that a major structural event has occurred on the ETH/BTC charts: a falling trend breakout. This is a highly significant development, although Paramatik suggests that a retest of this broken trendline may occur before the upcoming Federal Reserve meeting. Related Reading: Ethereum Is Sitting On Its Most Critical On-Chain Support Level — A Rally Emerging? The analyst provided clarity on what this breakout means for the broader market. First and foremost, this situation is interpreted as a strengthening signal for Ethereum. When ETH begins to gain value relative to Bitcoin, it typically indicates that the market’s overall risk appetite is returning, as investors shift capital from BTC to ETH. Secondly, the gained strength in Ethereum is often the key trigger for the start of the much-anticipated altcoin season. This is because investors first shift funds from BTC to ETH, and then move capital into the riskier, smaller altcoins in hopes of achieving higher returns. Paramatik summarized his findings by stating that this breakout in the ETH/BTC pair is not merely a technical line break; it is a harbinger of a market direction change. The analyst concluded with an analogy that the market has reached a state where every external event, even humorously irrelevant ones, could affect crypto prices. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|bitcoin|btc|Bull Market Support Band|ETH|ETH news|eth price|ETH/BTC|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|fed|federal reserve|Fibonacci retracement levels|Luca|Paramatik|POI|Point of interest",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
