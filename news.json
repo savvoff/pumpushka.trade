@@ -1,303 +1,5 @@
 [
   {
-    "id": 55391373,
-    "published": 1764940862000,
-    "title": "India's DRI Says Smugglers Ditching Hawala Networks for Stablecoins",
-    "body": "In a new report, the anti-smuggling agency warns stablecoins like USDT are replacing hawala networks in transnational criminal operations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||monero|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 57,
-        "NAME": "XMR",
-        "CATEGORY": "XMR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55391836,
-    "published": 1764942363000,
-    "title": "Morning Minute: The CFTC Just Approved U.S. Spot Crypto Trading",
-    "body": "Spot crypto trading is now cleared to go live with any CFTC-registered exchange, bringing down another barrier to institutional adoption.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55391765,
-    "published": 1764942091000,
-    "title": "Surprise Fed Warning Reignites Bitcoin Price Crash Fears",
-    "body": "Shark Tank star investor Kevin O’Leary has warned he doesn’t expected the Federal Reserve to cut interest rates next month...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55391771,
-    "published": 1764941913000,
-    "title": "Buy every dip? How pro hodlers blend surgical DCA with rules-based crypto buys",
-    "body": "Pros don’t “ape the dip” on gut feel; they predefine their allocation, let rules-based systems do the buying, and use DCA-style flows as part of a disciplined, data-driven execution plan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55391926,
-    "published": 1764942467000,
-    "title": "Bitcoin accumulation trends strengthen as realized losses near $5.8B",
-    "body": "Bitcoin whales are accumulating at a record pace amid almost $5.8 billion in capitulation losses, signaling a potential bullish reversal.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55392297,
-    "published": 1764943841000,
-    "title": "Bitcoin Is Breaking From Stock Rally for First Time in a Decade",
-    "body": "The S&P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55392116,
-    "published": 1764943210000,
-    "title": "From DOGE to Bitcoin: How fiat accidentally ‘orange-pilled’ Elon Musk",
-    "body": "Elon Musk’s viral comments on Bitcoin’s intrinsic ties to energy and physics signal a changing attitude toward Bitcoin from Tesla’s founder.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55392387,
-    "published": 1764944050000,
-    "title": "XRP ETFs near $1 Billion, Sovereign wealth funds buying Bitcoin, CFTC approves U.S spot crypto trading - Daily Crypto Recap",
-    "body": "",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55392604,
     "published": 1764945538000,
     "title": "Russian Banking Giant VTB to Become Country's First to Offer Spot Crypto Trading: Report",
@@ -1590,6 +1292,129 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55427255,
+    "published": 1765027813000,
+    "title": "Bitcoin Price Falls Below $90,000 — Is The Recovery Over?",
+    "body": "The Bitcoin price has had a mixed performance over the past week, with both sides of the market divide struggling to establish dominance. In the latest battle between the bulls and bears, the premier cryptocurrency appears to be succumbing to pressure from the latter group. As this weekend approached, the Bitcoin price retreated from its latest local high of around $94,000 to beneath the psychological $90,000 level. This latest correction has prompted questions in the crowd, with investors wondering whether it is just a brief obstacle or the end of the recovery. Why $80,500 Could Be The Next Local Low For BTC In a December 5 post on the social media platform X, Alphractal CEO and founder shared insight into the latest Bitcoin price decline below $90,000. The on-chain expert revealed that losing the $89,800 level is the more relevant occurrence in the latest price downturn. Related Reading: Bitcoin Price Faces Potential 60% Decline As Expert Warns Of ‘Major Bull Trap’ In a previous post on X, Wedson evaluated the likely trajectory of the Bitcoin price should it lose the $89,800 level. The crypto pundit revealed that losing this price mark could lead to an accumulation pattern for the bulls or a redistribution phase for the bears. While the accumulation period for the bulls would initially coincide with lower prices, it eventually leads to a Bitcoin price return to above the latest local high. Meanwhile, a redistribution phase could see the bears push the flagship cryptocurrency to around the $70,000 mark. According to the Alphractal CEO, the price of BTC also failed to hold the key on-chain levels, strengthening the probability of a broader price sideways phase. “Sideways action is the cause — the big pumps or dumps are just the effect,” Wedson had earlier stated in his previous X post. Furthermore, Wedson noted that the next level to watch is $86,500, which, if lost, opens the very high possibility for the formation of a new local low around $80,500. This local low could provide a perfect spot for investors to buy the dip and enter the market. Bitcoin Price Overview As mentioned earlier, the past week has been one of highs and lows for the premier cryptocurrency, plummeting to as low as $84,600 on Monday, December 1. After a shaky start to the month, the Bitcoin price recovered strongly to around $94,000 on Thursday, December 4. As of this writing, the market leader is valued at around $89,415, reflecting an over 3% price decline in the past 24 hours. According to data from CoinGecko, the price of Bitcoin has been down by nearly 10% in the past year. Related Reading: XRP Price On The Verge Of Another Crash, But There’s Still Hope Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|Bitcoin news|bitcoin price|BTC news|btc price|BTCUSDT|crypto",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55427252,
+    "published": 1764993644000,
+    "title": "Pundit Predicts That XRP Is About To Make Investors Extremely Rich",
+    "body": "A crypto analyst has made an unexpected declaration, predicting that XRP investors could become extremely rich in just a few months. This bold claim comes with a new technical analysis, suggesting that XRP is now entering a pivotal price area that previously triggered explosive rallies. Despite the cryptocurrency’s low price and recent downtrend, the analyst remains confident that XRP could mirror past trends and skyrocket to new highs. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says XRP To Make Holders Wealthy In 3 Months? In a recent X post, popular market analyst ‘Steph Is Crypto’ issued a dramatic warning to XRP holders, announcing that investors will become extremely rich within the next three months. The analyst’s bold prediction elicited mixed reactions from the XRP community, with some expressing optimism and others skepticism. Steph Is Crypto shared a price chart with colored bands to support his ambitious claims, tracking XRP’s performance through multiple past bull cycles. The chart highlights a recurring pattern in which XRP enters a higher-colored zone during periods often associated with altcoin strength. In previous cycles, those moments were followed by unexpected, explosive upward price moves. During the bull cycle in 2018, XRP skyrocketed by 100x, pushing its price up towards its current all-time high of $3.84. A similar uptrend occurred again during the 2020 to 2022 cycle, with XRP entering a prolonged bull phase that saw its price rally by 20x. According to Steph Is Crypto, the current chart setup appears similar to these past bullish phases. His chart analysis suggests that XRP is once again approaching the same colored region that previously marked the start of strong price rallies. While the scale of the projected acceleration this time may differ from the peaks seen in the last two cycles, Steph Is Crypto remains confident that it will still be substantial enough to make holders significantly wealthy by March 2026. XRP Maintains Bullish Monthly SuperTrend Crypto market analyst ChartNerd has released a fresh technical analysis of XRP, suggesting that the cryptocurrency continues to show strong positive signals. According to him, XRP’s monthly SuperTrend remains firmly bullish. He emphasized that maintaining a price above the green SuperTrend line near $1.30 signals a long-term upward trajectory, with no red trends currently indicating the onset of a bear market. ChartNerd shared a chart with a SuperTrend overlay where green lines represent bullish conditions and red lines highlight previous bear markets. The current monthly candles for XRP remain well above the green zone, reinforcing the belief that broader market conditions favor an upside. The analyst interprets this as confirmation that XRP’s long-term price trend is still predominantly bullish. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets Historical data on the chart also indicate that past declines in XRP coincided with prolonged red SuperTrend phases. This happened before the big 2017 and 2020 breakout, with each recovery triggered once the price moved back above the green SuperTrend line. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|blockchain|crypto|crypto market|crypto news|cryptocurrency|digital currency|Ripple|xrp|XRPUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55428098,
+    "published": 1765029600000,
+    "title": "Stablecoin Adoption Is ‘Exploding' — Here's Why Wall Street Is Going All-In",
+    "body": "Alchemy co-founder and president Joe Lau said stablecoin adoption is exploding as banks, fintechs and payment platforms push beyond the USDT/USDC exchange era.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|Tokenization|Alchemy|JPMorgan|Exclusive|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }
