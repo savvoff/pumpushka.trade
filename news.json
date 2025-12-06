@@ -1,214 +1,5 @@
 [
   {
-    "id": 55393460,
-    "published": 1764948617000,
-    "title": "Has the DAT Bubble Already Burst? CoinShares Says In Many Ways, Yes.",
-    "body": "Digital-asset treasury plays that once traded at big premiums have fallen back toward net asset value.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Digital Asset Treasury|CoinShares|Strategy|Analysts|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55393320,
-    "published": 1764948164000,
-    "title": "European Crypto Scam Network Dismantled After Laundering $815M",
-    "body": "Authorities across Europe took down a massive crypto fraud and laundering network tied to fake investment platforms, deepfake ads and call-center operations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Europe|Europol|Fraud|Crime|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55393318,
-    "published": 1764948030000,
-    "title": "Strategy Stock Still a Buy at Cantor After Plunge Forces Major Price Target Cut",
-    "body": "Lower adjusted net asset value multiple means Strategy can no longer issue equity at a premium, threatening its long-term plan to accumulate more bitcoin, analyst Brett Knoblauch wrote.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Strategy|Mizuho Bank|Analysts|Cantor fitzgerald|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55393665,
-    "published": 1764949405000,
-    "title": "US prosecutors request 12 years in prison for Terraform’s Do Kwon",
-    "body": "A sentencing recommendation said that Do Kwon had caused more losses than Sam Bankman-Fried, Alex Mashinsky and Karl Sebastian Greenwood combined.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55393563,
-    "published": 1764949104000,
-    "title": "MARA Trades at a Premium Factoring in Its Debt, Not a Discount: VanEck’s Sigel",
-    "body": "VanEck’s Matthew Sigel argues MARA’s valuation looks expensive when adjusted for its leverage and capital structure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Marathon|Bitcoin News|MicroStrategy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55393780,
-    "published": 1764949865000,
-    "title": "Turkey's Paribu Buys CoinMENA in $240M Deal, Expanding Into High-Growth Crypto Markets",
-    "body": "With the acquisition, Paribu gains regulatory foothold in Bahrain and Dubai and access to the region's fast-growing crypto user base.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Paribu|Turkey|Acquisitions|Crypto Exchanges|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55393977,
-    "published": 1764950610000,
-    "title": "Maryland Man Sentenced for Helping North Korea Infiltrate U.S. Tech Firms",
-    "body": "The scheme enabled overseas DPRK operatives to access sensitive government systems through fraudulent IT jobs.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
     "id": 55394328,
     "published": 1764952091000,
     "title": "Polish lawmakers fail to revive controversial crypto bill after presidential veto",
@@ -1404,6 +1195,94 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55430523,
+    "published": 1765034529000,
+    "title": "Why CFTC-approved spot Bitcoin, Ethereum trading is a 'massively huge deal'",
+    "body": "Gold has popped 4,000% following CFTC's approval in the 1970s, leaving Bitcoin and Ethereum with a similar scaling setup.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55431124,
+    "published": 1765035993000,
+    "title": "Coinbase Sees Crypto Recovery Ahead as Liquidity Improves and Fed Rate Cut Odds Climb",
+    "body": "The crypto exchange also took note of a so-called AI bubble that continues to go strong and a weaker U.S. dollar.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Coinbase|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
