@@ -1,86 +1,5 @@
 [
   {
-    "id": 55394328,
-    "published": 1764952091000,
-    "title": "Polish lawmakers fail to revive controversial crypto bill after presidential veto",
-    "body": "Poland’s parliament upheld a veto on the Crypto-Asset Market Act, delaying EU-aligned regulation and deepening divisions over security and innovation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55394386,
-    "published": 1764952390000,
-    "title": "Trump DOJ Wants Terra Founder Do Kwon Behind Bars for 12 Years, Citing SBF Sentence",
-    "body": "Federal prosecutors reserved the right to pursue up to 12 years for Terra founder Do Kwon in an August plea deal. Now, they’re seeking that maximum.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "terra-luna-2|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55394706,
-    "published": 1764953906000,
-    "title": "US Prosecutors Seek 12-Year Sentence for Terraform Founder Do Kwon in Crypto Fraud Case",
-    "body": "The collapse of Do Kwon's Terraform project caused losses that surpassed those by Sam Bankman-Fried's FTX, Celsius and OneCoin combined, the prosecutors argued.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Do Kwon|Terraform|Terra luna|Southern district of new york|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55395828,
     "published": 1764956815000,
     "title": "New IMF Report Warns of Stablecoin Risk, Sparking Criticism From Experts",
@@ -1277,6 +1196,94 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55432462,
+    "published": 1765038651000,
+    "title": "Massive Bitcoin Awakening: 2 Physical Coins Unlock $179 Million After 13 Years",
+    "body": "Two long-dormant Casascius coins, each loaded with 1,000 Bitcoin, were activated on Friday, unlocking more than $179 million that had sat untouched for over 13 years. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says According to onchain data, one of the coins was minted in October 2012 when Bitcoin traded at $11.69. The other dates back to December 2011, when BTC was worth $3.88, giving that piece a theoretical gain near 2.3 million% since minting. Historic Physical Coins Activated Based on reports, Casascius coins (metal coins) were produced between 2011 and 2013 by Utah entrepreneur Mike Caldwell as physical representations of Bitcoin. Each coin or bar concealed a paper with a private key, and a tamper-resistant hologram covered that key. 🚨🚨🚨 Two Casascius coins, each containing 1,000 BTC, have just moved after being dormant for more than 13 years. pic.twitter.com/nlFUy39MkD — Sani | TimechainIndex.com (@SaniExp) December 5, 2025 Records show only 16 of the 1,000 BTC bars and 6 of the 1,000 BTC coins were ever made, making these items both rare and historically important. Caldwell shut down the operation after receiving a letter from FinCEN that raised questions about whether his business qualified as an unlicensed money transmitter. How The Coins Worked The mechanism was simple in practice but strict in outcome: whoever removed the hologram and revealed the private key could claim the full Bitcoin value stored beneath it. Once that sticker was lifted and the private key used, the coin no longer carried any Bitcoin value. Based on reports, collectors treat that moment as irreversible. Some owners chose to move funds off the physical coins without cashing out. Rarity And Returns Numbers here show why collectors and investors watch these events closely. Two coins at 1,000 BTC each represent a huge hoard when prices are high. Even leaving aside the cost of minting, the December 2011 coin’s rise from $3.88 to current market valuations yields a headline-grabbing multiple. But experts warn that turning the private key into spendable Bitcoin is only the first step; what happens next depends on the holder’s choices. Some will hold. Others may move funds into cold storage. Selling is not guaranteed. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets Derivatives Market Shock Meanwhile, the spot and derivatives markets are experiencing high volatility. Based on CoinGlass data, today’s derivatives activity showed an 11,588% liquidation imbalance that overwhelmingly wiped out long positions. Bitcoin, at the time of writing, was trading below $90,000, and more than $20 million in BTC long liquidations occurred in minutes while short positions barely budged. That kind of one-sided pressure happens when many traders are crowded in the same direction and conditions change quickly. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|Casascius coins|crypto|digital currency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55433113,
+    "published": 1765039882000,
+    "title": "BTC poised for December recovery on ‘macro tailwinds,' Fed rate cut: Coinbase",
+    "body": "Coinbase predicts a December recovery driven by rising global M2 liquidity and lower interest rates, but Fed Chair Powell’s remarks may limit upside, analysts say.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
