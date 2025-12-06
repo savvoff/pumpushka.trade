@@ -1,116 +1,5 @@
 [
   {
-    "id": 55389969,
-    "published": 1764935203000,
-    "title": "Crypto Markets Today: Bitcoin Slides to $91K as ETF Outflows Deepen Market Anxiety",
-    "body": "Bitcoin’s early week rally unraveled as sharp ETF outflows, aggressive derivatives deleveraging and muted altcoin reactions to catalysts pulled the broader crypto market lower.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55390496,
-    "published": 1764937168000,
-    "title": "Turkish crypto exchange Paribu buys majority stake in competitor CoinMENA",
-    "body": "Paribu has bought a majority stake in Dubai- and Bahrain-licensed CoinMENA in a deal valuing the exchange at up to $240 million.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55390421,
-    "published": 1764937146000,
-    "title": "Bitcoin ETFs Just Shed $194 Million—Highest in Two Weeks",
-    "body": "Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55390822,
     "published": 1764938847000,
     "title": "Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts",
@@ -1801,6 +1690,53 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55424788,
+    "published": 1765015231000,
+    "title": "Italy’s Market Watchdog Gives Crypto Firms A Clear Order: Act Or Exit",
+    "body": "According to a press release from Consob on December 4, 2025, Italy’s securities regulator told crypto and virtual asset service providers (VASPs) that they must secure authorization under the EU’s Markets in Crypto-Assets regime (MiCA) by December 30, 2025, or stop serving Italian clients. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets The notice warns operators that those who do not file for a MiCA-compliant license must close out services and return customer funds by the year-end. Consob’s Deadline And What It Means For Firms Based on reports, companies that submit an authorization application by the cutoff may keep operating while the application is under review. But that temporary permission will not last beyond June 30, 2026, regulators say. That window gives providers some breathing room, but it also sets a hard date for final approvals. Source: Consob The regulator singled out platforms that until now have worked under Italy’s lighter national registry system (OAM). Those businesses now face a choice: apply to become fully authorized crypto-asset service providers (CASPs) under MiCA or plan an orderly exit. Operators who plan to leave must notify users clearly and return assets in a safe, verifiable way. Italy Opens A Broader Risk Review According to a Reuters report, Italy’s Economy Ministry has also ordered an in-depth review of crypto risks, bringing together the Bank of Italy, Consob and other agencies to check whether current protections are strong enough for investors and the wider financial system. The move came during a committee meeting that flagged rising exposure and the need to monitor spillovers into traditional finance. What Investors Should Watch For Next Customers in Italy should confirm whether their chosen platform has lodged a MiCA application or has made clear plans for compliance or exit. If an operator fails to apply by December 30, users could face service interruptions and will need to follow the provider’s instructions for fund returns. Regulators say transparency from firms will be key in the weeks ahead. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says Smaller local platforms may find the compliance burden steep. Some operators could seek licenses in other EU states and use passporting rules to serve Italian clients, while others may shut down or merge. The provisional operating window stretches into mid-2026, but the final shape of the market will depend on how quickly firms meet the tougher requirements and how long authorizations take to process. Consob’s notice is meant to cut through uncertainty and force a choice before year-end. The combination of a firm deadline, mandatory filings and a parallel review marks a stricter approach to crypto oversight in Italy. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Crypto|bitcoin|Consob|crypto|italy|MiCA",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
       },
       {
         "TYPE": "122",
