@@ -1,128 +1,5 @@
 [
   {
-    "id": 55434033,
-    "published": 1765042217000,
-    "title": "Analyst Points To $82,000 As Most Crucial Bitcoin Price Level — Here’s Why",
-    "body": "In a not-so-surprising turn of events, the bearish orientation of the Bitcoin price has continued into the month of December, suggesting that the premier cryptocurrency could end the year in the red. Interestingly, recent on-chain data has offered insights into the likely direction of Bitcoin based on the integrity of an important price level. Active Market Participants’ Cost Basis At $82,000 In a December 5 post on the X platform, market analyst Burak Kesmeci shared an interesting outlook on the direction of the Bitcoin price. The analyst disclosed that whatever happens around the $82,000 mark could make or mar Bitcoin’s trajectory in the near term. To demonstrate why this price region is so important, Kesmeci pointed out that it appears to be the convergence point of two highly influential cost bases in Bitcoin’s history. Related Reading: Bitcoin Signals Bear Market: One Thing Could Flip It, Says CryptoQuant CEO Kesmeci revealed that the Bitcoin spot exchange-traded funds have an average purchase cost of approximately $82,000. Because ETFs are one of Bitcoin’s strongest demand sources, tracking the values of their average cost-basis could serve as a good means to tell where the market stands institutionally. The crypto pundit also referenced the Bitcoin True Market Mean metric, which monitors the cost at which active investors procured their holdings—except for mined or rarely-moved BTC. Notably, in the current market cycle, Bitcoin’s active participants mostly purchased their coins around a valuation of $82,000. What Happens If $82,000 Fails? Usually, when price slips beneath any major price support, there is, in turn, an increase in overall selling pressure, as buy-side liquidity is converted to bearish momentum via losses incurred by investors. Hence, in the scenario where $82,000 fails to hold, a wave of bearish pressure is expected to ensue, as Bitcoin’s active investors try to cut their losses. However, Kesmeci expects something even more specific to follow. According to historical data, whenever Bitcoin falls beneath its active market participant cost basis, it often falls further downwards, as though it is targeting its Realized Price. Related Reading: The $13.5 Billion Liquidity Injection That Could Send Bitcoin And Crypto Prices Flying At the moment, the Bitcoin Realized Price sits near $56,000 — a price level significantly beneath its investors’ average cost basis. Kesmeci therefore warned that a slip beneath $82,000 could precede Bitcoin’s sharp downturn towards $56,000. This would represent an almost 40% decline from the current price point. As of this writing, the price of BTC stands at around $89,310, reflecting an over 3% dip in the past 24 hours. Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|Bitcoin true mean price|btc|btc price|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55434423,
-    "published": 1765042880000,
-    "title": "‘European SEC’ proposal sparks licensing concerns, institutional ambitions",
-    "body": "Legal experts are concerned that transforming ESMA into the “European SEC” may hinder the licensing of crypto and fintech in the region.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55434863,
-    "published": 1765044236000,
-    "title": "French Banking Giant BPCE to Roll Out Crypto Trading for 2M Retail Clients",
-    "body": "The service will allow customers to buy and sell BTC, ETH, SOL, and USDC through a separate digital asset account managed by Hexarq.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bank|France|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55436058,
     "published": 1765047643000,
     "title": "Analyst Says Dogecoin Price Is Ready To Fly, Here’s Why",
@@ -968,6 +845,35 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55473624,
+    "published": 1765130162000,
+    "title": "WisdomTree brings options income strategy onchain with new tokenized fund",
+    "body": "The asset manager’s EPXC fund tokenizes a cash-secured put-writing strategy, signaling deeper integration between traditional market products and blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   }
