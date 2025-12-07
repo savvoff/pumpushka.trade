@@ -1,4 +1,4 @@
-import { defineConfig, passthroughImageService } from 'astro/config';
+import { defineConfig, sharpImageService } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import icon from 'astro-icon';
 // import pagefind from 'astro-pagefind';
@@ -15,7 +15,7 @@ export default defineConfig({
     }
   },
   image: {
-    service: passthroughImageService(),
+    service: sharpImageService(),
   },
   output: 'server',
   base: import.meta.env.MODE === 'development' ? '' : 'pumpushka.trade',
