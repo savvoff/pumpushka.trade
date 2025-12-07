@@ -46,9 +46,24 @@ export default defineConfig({
       changefreq: 'hourly',
       priority: 0.7,
       filter: (page) => {
-        if (page.startsWith('/search/')) return false;
-        if (page.startsWith('/draft/')) return false;
-        if (page.startsWith('/admin/')) return false;
+        // ❌ We exclude service pages
+        if (page.startsWith('/search')) return false;
+        if (page.startsWith('/draft')) return false;
+        if (page.startsWith('/admin')) return false;
+        if (page.startsWith('/404')) return false;
+
+        // ❌ We exclude indexing of tags and categories
+        if (page.startsWith('/tags')) return false;
+        if (page.startsWith('/tag')) return false;
+        if (page.startsWith('/categories')) return false;
+        if (page.startsWith('/category')) return false;
+
+        // ❌ We exclude pagination
+        if (page.match(/\/page\/\d+/)) return false;
+
+        // ❌ Turn off RSS/feeds
+        if (page.startsWith('/rss')) return false;
+        if (page.startsWith('/feed')) return false;
         return true;
       },
     }),

@@ -73,22 +73,28 @@ function toISO(ms) { return new Date(ms).toISOString(); }
 
 const raw = JSON.parse(await fs.readFile(INPUT, 'utf8')).slice(-LAST_COUNT); // Last - newer!
 let index = {};
-try { 
-  index = JSON.parse(await fs.readFile(INDEX_PATH, 'utf8')); 
-} catch {}
+try {
+  index = JSON.parse(await fs.readFile(INDEX_PATH, 'utf8'));
+} catch { }
 
 let created = 0, updated = 0, skipped = 0, tooOld = 0;
 
 for (const item of raw) {
   const externalId = String(item.id);
   const publishedMs = Number(item.published);
-  if (!Number.isFinite(publishedMs)) { skipped++; continue; }
+  if (!Number.isFinite(publishedMs)) {
+    skipped++; continue;
+  }
 
-  if (now - publishedMs > freshMs) { tooOld++; continue; }
+  if (now - publishedMs > freshMs) {
+    tooOld++; continue;
+  }
 
   const title = String(item.title || '').trim();
   const body = String(item.body || '').trim();
-  if (!title || !body) { skipped++; continue; }
+  if (!title || !body) {
+    skipped++; continue;
+  }
 
   const year = new Date(publishedMs).getUTCFullYear();
   const month = String(new Date(publishedMs).getUTCMonth() + 1).padStart(2, '0');
@@ -133,7 +139,7 @@ for (const item of raw) {
     category,
     tags,
     stickyWeight: 0,
-    sentiment: ['POSITIVE','NEGATIVE','NEUTRAL'].includes(sentiment) ? sentiment : undefined,
+    sentiment: ['POSITIVE', 'NEGATIVE', 'NEUTRAL'].includes(sentiment) ? sentiment : undefined,
     score,
     canonicalUrl: undefined,
     draft: false,
@@ -203,10 +209,10 @@ function yamlScalar(v) {
     const s = v;
 
     const looksNumber = /^[+-]?\d+(\.\d+)?$/.test(s);
-    const looksSci    = /^[+-]?\d+e[+-]?\d+$/i.test(s);
-    const looksDate   = /^\d{4}-\d{2}-\d{2}/.test(s); // 2025-01-01...
+    const looksSci = /^[+-]?\d+e[+-]?\d+$/i.test(s);
+    const looksDate = /^\d{4}-\d{2}-\d{2}/.test(s); // 2025-01-01...
     const specialWord = /^(true|false|null|yes|no|on|off)$/i.test(s);
-    const emptyLike   = s.trim() === '';
+    const emptyLike = s.trim() === '';
 
     const needsQuoteChars = /[:{}\[\],&*#?|\-<>=!%@\\]/.test(s);
 
