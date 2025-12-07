@@ -836,5 +836,28 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55449660,
+    "published": 1765083606000,
+    "title": "Tech elites are starting their own for-profit cities",
+    "body": "They want to escape from regulation and ‘failing’ democracy — but are they more opportunistic than libertarian?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
   }
 ]
