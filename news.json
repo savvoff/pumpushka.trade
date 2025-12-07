@@ -1,28 +1,5 @@
 [
   {
-    "id": 55425880,
-    "published": 1765024319000,
-    "title": "Western Union eyes inflation-resistant ‘stable cards’ as part of its stablecoin strategy",
-    "body": "Western Union will roll out a “stable card” for high-inflation economies and issue its own coin as part of a multi-pillar stablecoin and digital asset strategy.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55426498,
     "published": 1765026003000,
     "title": "LUNC Surges Over 160% in a Week as Do Kwon Sentencing and Token Burns Draw Traders",
@@ -892,6 +869,88 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55461726,
+    "published": 1765105254000,
+    "title": "Bitcoin Market Records 21% Crash In November Trading Volume – What This Means For Price",
+    "body": "Bitcoin’s (BTC) ongoing price correction has been accompanied by several other negative developments that continue to grab investors’ attention. Most recently, market analyst Darkfost has observed a significant crash in Bitcoin spot trading volume, while highlighting potential long-term implications of such an event. Related Reading: Here’s Why Bitcoin Volatility Sparks Fresh Attention On MicroStrategy Binance Records $40B Loss In BTC Monthly Spot Trading The spot trading volume refers to the total amount of Bitcoin that is bought and sold for immediate delivery on exchanges within a specific time period. It is a key market indicator used to gauge participation, liquidity, and investor interest. According to Darkfost in an X post on December 6, the Bitcoin market, in November, experienced a major fall in spot trading volume across major crypto exchanges. This development has been attributed to the asset’s price struggles, wherein it recorded a 17.5% devaluation during this period. On Binance, which accounts for more than half of all Bitcoin spot trading activity, spot volume fell from $198 billion in October to $156 billion in November, representing a 21% decline. The downturn was mirrored across other major exchanges, with ByBit posting a 13.5% drop, Gate.io sliding 33%, and OKX down 18%. Interestingly, Darkfost explains that Bitcoin’s recent price action, the major negative catalyst, pales in comparison to previous corrections. However, another red reading in December could initiate a market deterioration marked by conditions such as continued selling pressure, low market confidence, and, importantly, further drops in spot activity. A continuous decline in spot trading volume primarily mirrors a lack of market interest and is accompanied by other concerning factors, such as a weaker demand, high vulnerability to price swings, and limited support for rallies as investors prefer to sit on the sidelines. This dynamic, in turn, weighs on price growth, creating a self-reinforcing bearish loop. Related Reading: The $13.5 Billion Liquidity Injection That Could Send Bitcoin And Crypto Prices Flying Spot Trading Volume Peak Sees Consistent Regression In related news, Darkfost also reports that the present market cycle has featured a consistent decline in spot trading volume peaks. Notably, the chart above shows a market high of $333.57 billion on Binance in March 2024, followed by the lower peak of $246.04 billion in November 2024, and then just $198.6 billion last October. This trend becomes even more concerning when looking at the spot-to-futures volume ratio, which currently sits at 0.23, meaning futures activity now accounts for more than 75% of overall trading. In essence, while the Bitcoin market remains active, investor enthusiasm on the spot side is fading. By contrast, traders appear increasingly willing to speculate in the futures market, likely driven by elevated uncertainty and short-term volatility. At press time, Bitcoin trades at $89,300, reflecting a 0.21% loss in the past day. Featured image from Pexels, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin Futures Market|Bitcoin Spot Trading Volume|btcusd|BTCUSDT|cryptoquant|Darkfost",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55462288,
+    "published": 1765108205000,
+    "title": "Bitcoin Cash gains nearly 40% to become ‘best performing’ L1 of the year",
+    "body": "Bitcoin Cash has outpaced every major L1 in 2025, boosted by clean supply dynamics and renewed investor demand.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
       },
       {
         "TYPE": "122",
