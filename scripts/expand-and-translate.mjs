@@ -53,6 +53,7 @@ STYLE
 - End with a final section titled "## Impact on the crypto market" with 3-6 bullet points.
 
 OUTPUT
+- Minimum 400 words.
 - Markdown only. No frontmatter, no HTML.
 
 Title: ${title}
