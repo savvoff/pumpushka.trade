@@ -812,5 +812,46 @@
         "CATEGORY": "REGULATION"
       }
     ]
+  },
+  {
+    "id": 55452900,
+    "published": 1765091240000,
+    "title": "South Korea to impose bank-level liability on crypto exchanges after Upbit hack: Report",
+    "body": "South Korea plans to hold crypto exchanges to the same no-fault compensation standards as banks after an Upbit hack exposed major gaps in consumer protection.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
   }
 ]
