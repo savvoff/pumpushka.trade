@@ -1,28 +1,5 @@
 [
   {
-    "id": 55449660,
-    "published": 1765083606000,
-    "title": "Tech elites are starting their own for-profit cities",
-    "body": "They want to escape from regulation and ‘failing’ democracy — but are they more opportunistic than libertarian?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
     "id": 55452900,
     "published": 1765091240000,
     "title": "South Korea to impose bank-level liability on crypto exchanges after Upbit hack: Report",
@@ -95,53 +72,6 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55458206,
-    "published": 1765083616000,
-    "title": "Bitcoin Losses Surge To 3x Profits — Could Relief Be Near?",
-    "body": "The Bitcoin market appears to be riddled with an increasing amount of sell-side pressure, as its recent price action reveals bears’ dominance. Interestingly, another on-chain evaluation suggests that the current market movement may be a direct effect of rising panic-induced sales. $1.7B Realized Losses Vs $605M Realized Gains In a Quicktake post on the CryptoQuant platform, GugaOnChain shared that the Bitcoin market has been in a capitulation phase in recent days. This on-chain observation revolves around the Bitcoin Realized Profit and Loss ($) metric. For context, this metric tracks the actual profits (in US dollars) and losses investors realize—or lock in—whenever they offload their Bitcoin holdings to exchanges. Related Reading: Massive Bitcoin Awakening: 2 Physical Coins Unlock $179 Million After 13 Years GugaOnChain highlighted that about $1.705 billion worth of BTC has been realized in losses by market participants. On the other hand, a relatively smaller amount, totaling approximately $605 million, was reportedly realized in gains. Source: CryptoOnchainThis disproportionate distribution in losses, as against the profits acquired, puts the Loss/Gain ratio at a 2.82 reading. This means that, for every dollar made in profit, almost 3 dollars are lost. Looking at the bigger picture, the analyst pointed out that 74% of the total realized volume leans towards the red side of the market, leaving a mere 26% of the Bitcoin market in profits. When realized losses surge rapidly to overcome gains, it is often interpreted as a sign of capitulation. Historically, extreme capitulation events tend to set the pace either for price recovery or even deeper downside movement. These two possibilities, however, remain dependent on the integrity of available inflection points. Bulls Must Defend These Price Levels Or Risk Deeper Corrections Although the market odds currently seem stacked against the bulls, as the price takes on a bearish structure, the analyst also identified a few important zones that may determine Bitcoin’s next direction. GugaOnChain explained that, in the scenario where the bulls continue to bleed, the next price level presenting an opportunity of redemption lies around $71,450. This specific price level is critical, as it represents the realized price for investors who have acquired Bitcoin for about 12–18 months. Related Reading: Bitcoin Bull Season Hinges On Key $82,150 Level – Here’s Why Citing a more extreme scenario, the online pundit revealed that the next key support sits at $58,940. This zone is important as it is the realized price for investors whose coins are within the 18-month to 2-year age range. On the weekly timeframe, however, price zones around $80,000 and $74,000 appear significant enough for a short-term price recovery. A bullish reversal could take place if these price levels were to meet the present downturn with significant opposing strength. As of this writing, Bitcoin is valued at around $89,331, reflecting no significant movement in the past 24 hours. Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|Bitcoin Realized Losses|BTC news|btc price|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -955,6 +885,82 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55491129,
+    "published": 1765168608000,
+    "title": "Coinbase Reopens India Access, Sets 2026 Target for Cash-to-Crypto Purchases",
+    "body": "The move underscores Coinbase’s view of India as a long-term growth market, despite policy uncertainty in the near term.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55492560,
+    "published": 1765170958000,
+    "title": "Binance Wins Full ADGM Approval for Exchange, Clearing, and Brokerage Operations",
+    "body": "Abu Dhabi’s Financial Services Regulatory Authority has granted licenses to three Binance entities covering exchange, clearing, and brokerage functions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Binance|Abu Dhabi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
