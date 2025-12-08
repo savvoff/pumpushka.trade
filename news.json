@@ -1,99 +1,5 @@
 [
   {
-    "id": 55457063,
-    "published": 1765098557000,
-    "title": "French banking giant BPCE to launch in-app crypto trading: Report",
-    "body": "BPCE will let millions of customers buy and sell BTC, ETH, SOL and USDC directly inside its banking apps.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55458862,
-    "published": 1765098042000,
-    "title": "Bitcoin Market Profitability Hits ‘Complete Reset’ — What’s Next For Price?",
-    "body": "Following a fresh wave of bearish pressure on Friday, December 5, the price of Bitcoin has struggled beneath the psychological 90,000 level for much of the weekend. However, the latest on-chain data suggests that the premier cryptocurrency might be readying for its next healthy upward move. BTC SOPR Drops To Lowest Level Since Early 2024 In a December 6 post on the X platform, CryptoOnchain hypothesized that a local bottom appears to be forming for the price of Bitcoin. According to the market pundit, the selling pressure, especially amongst long-term holders, seems to be fading off at the moment. Related Reading: Bitcoin Structure Tightens: One Break Above This Zone Could Ignite A Run To $107,000 This market observation centers on the Spent Output Profit Ratio (SOPR) metric, which evaluates the profitability ratio of spent outputs for both long-term and short-term holders. This on-chain indicator evaluates whether market participants are selling their assets at a profit or at a loss. Typically, when the Bitcoin Spent Output Profit Ratio has a value greater than 1, it indicates that the investors are selling at a profit. On the flip side, an SOPR value less than 1 implies that the market participants are offloading their coins while in the red. According to CryptoOnchain, the Bitcoin SOPR has now fallen to 1.35, its lowest level since early 2024. The market analyst noted that this metric’s latest movement suggests a complete reset in market profitability, especially as the price of BTC slid beneath the $90,000 mark. Furthermore, CryptoOnchain highlighted that the heavy profit-taking phase by long-term holders appears to be coming to an end, as exhaustion and fatigue increasingly spread among the bears. From a historical perspective, the SOPR metric falling to this low signals a local bottom is forming for the BTC price, especially as the market cools down. Ultimately, CryptoOnchain revealed that a price rebound at this point could set the stage for Bitcoin’s next healthy upward rally. Bitcoin Price At A Glance As of this writing, the price of BTC stands at around $89,500, reflecting no significant changes in the past 24 hours. According to data from CoinGecko, the flagship cryptocurrency is down by nearly 2% in the last seven days. Related Reading: Bitcoin Bull Run Set To Last Until 2027, Analysts Highlight Influential Factors With the price of Bitcoin down year-to-date and from its all-time high of $126,080 by roughly 5% and 30%, respectively, the market leader looks set to end 2025 in the red—barring a sudden change in market momentum. Featured image from iStock, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55461726,
     "published": 1765105254000,
     "title": "Bitcoin Market Records 21% Crash In November Trading Volume – What This Means For Price",
@@ -1218,6 +1124,41 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55500121,
+    "published": 1765185165000,
+    "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
+    "body": "ETH price rising to $3,000 drove whales to open 136,433 ETH long bets, as technical indicators suggest a short-term ETH price rally toward $4,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
