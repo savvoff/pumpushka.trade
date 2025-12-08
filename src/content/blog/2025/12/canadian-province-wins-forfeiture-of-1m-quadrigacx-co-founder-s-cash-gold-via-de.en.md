@@ -32,7 +32,7 @@ ai:
   expandedAt: '2025-12-08T08:37:17.581Z'
   version: 1
 ---
-# Canadian Province Wins Forfeiture of $1M QuadrigaCX Co-Founder's Cash & Gold via Default Judgment
+## Overview
 
 In a significant legal development, a Canadian province has successfully obtained a default judgment for the forfeiture of assets valued at $1 million from the co-founder of QuadrigaCX, a cryptocurrency exchange. This ruling entails the transfer of cash, gold bars, watches, and jewelry that were seized from a safety deposit box and bank account associated with the co-founder.
 
