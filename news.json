@@ -982,64 +982,6 @@
     ]
   },
   {
-    "id": 55478036,
-    "published": 1765140075000,
-    "title": "Crypto Adoption Continues Even As Bitcoin Stumbles",
-    "body": "Crypto volatility has returned, but has not slowed adoption by institutions",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55477963,
-    "published": 1765139798000,
-    "title": "Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone",
-    "body": "Bittensor’s first token halving is scheduled for Dec. 14, reducing TAO issuance by half as the AI-focused network adopts a Bitcoin-style fixed supply model.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 73,
-        "NAME": "BITTENSOR",
-        "CATEGORY": "BITTENSOR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2333,6 +2275,47 @@
         "ID": 218,
         "NAME": "SECURITY INCIDENTS",
         "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 55518074,
+    "published": 1765226864000,
+    "title": "Bitcoin Treads Water Near $90K as Bitfinex Warns of 'Fragile Setup' to Shocks",
+    "body": "BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Market Wrap|Bitcoin News|Bitfinex|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
