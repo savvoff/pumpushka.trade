@@ -30,7 +30,7 @@ ai:
   expandedAt: '2025-12-08T05:27:09.974Z'
   version: 1
 ---
-# Coinbase Reopens India Access, Sets 2026 Target for Cash-to-Crypto Purchases
+## Overview
 
 Coinbase has recently announced the reopening of access to its platform for users in India, signaling its commitment to the Indian market as a vital growth area. The company has set an ambitious target for 2026, focusing on enhancing cash-to-crypto purchase options for its users in the region. This development comes amid ongoing policy uncertainties in India, highlighting Coinbase's long-term vision for the market.
 

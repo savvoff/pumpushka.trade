@@ -32,7 +32,7 @@ ai:
   expandedAt: '2025-12-08T07:27:55.256Z'
   version: 1
 ---
-# Coinbase Reopens India Signups, Targets Fiat On-Ramp in 2026 After Two-Year Freeze
+## Overview
 
 Coinbase has announced the reopening of signups for users in India after a two-year suspension of its services in the country. This decision comes after the company halted operations entirely in 2023, off-boarding millions of Indian users and shutting down local access while it reassessed its regulatory exposure.
 

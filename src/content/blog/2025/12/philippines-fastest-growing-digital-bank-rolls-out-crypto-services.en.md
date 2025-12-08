@@ -31,7 +31,7 @@ ai:
   expandedAt: '2025-12-08T07:28:23.255Z'
   version: 1
 ---
-# Philippines’ Fastest Growing Digital Bank Rolls Out Crypto Services
+## Overview
 
 A rapidly growing digital bank in the Philippines has announced the launch of cryptocurrency services, allowing its users to trade various digital assets. This development comes through a secure app integration with a US fintech firm, Alpaca, and includes offerings such as Bitcoin, Ethereum, and Solana.
 
