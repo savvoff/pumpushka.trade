@@ -1087,35 +1087,6 @@
     ]
   },
   {
-    "id": 55473624,
-    "published": 1765130162000,
-    "title": "WisdomTree brings options income strategy onchain with new tokenized fund",
-    "body": "The asset manager’s EPXC fund tokenizes a cash-secured put-writing strategy, signaling deeper integration between traditional market products and blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2187,6 +2158,140 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55513231,
+    "published": 1765216026000,
+    "title": "40% of Canadian Crypto Users Flagged for Tax Evasion Risk, Canadian Tax Authority Reveals",
+    "body": "Canada’s tax agency says legal gaps limit its ability to track crypto-related income as it recovers $100 million through audits and pushes for tighter regulation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Tax Crime|crypto tax|Canada Revenue Agency|Dapper Labs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55513267,
+    "published": 1765215854000,
+    "title": "Tether's USDt awarded key regulatory status in Abu Dhabi",
+    "body": "ADGM’s recognition of USDT as an accepted fiat-referenced token lets licensed companies offer regulated custody, marking a step for stablecoins in the UAE.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55513677,
+    "published": 1765216873000,
+    "title": "Ondo Finance Says Biden-Era SEC Investigation Closed With No Charges",
+    "body": "Ondo Finance said that tokenization’s future looks brighter in the U.S. following the SEC’s closure of a years-long probe into its business.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 108,
+        "NAME": "ONDO",
+        "CATEGORY": "ONDO"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55514097,
+    "published": 1765217712000,
+    "title": "Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF",
+    "body": "Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
