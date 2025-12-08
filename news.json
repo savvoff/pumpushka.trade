@@ -793,5 +793,87 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55487655,
+    "published": 1765162557000,
+    "title": "Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes",
+    "body": "Vitalik Buterin has proposed something akin to prediction markets but for gas fees to give Ethereum users a way to guard against future network fee volatility.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55487555,
+    "published": 1765162516000,
+    "title": "Bitcoin Aims Higher as Bulls Regain Strength and Push for Resistance Break",
+    "body": "Bitcoin price started a fresh increase above $90,500. BTC is now consolidating gains and might attempt an upside break above $91,650. Bitcoin started a fresh increase above the $90,500 zone. The price is trading above $91,000 and the 100 hourly Simple moving average. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move up if it settles above the $91,650 zone. Bitcoin Price Faces Resistance Bitcoin price managed to stay above the $90,500 zone and started a fresh increase . BTC gained strength for a move above the $91,500 and $92,500 levels. There was a clear move above the $93,000 resistance. A high was formed at $94,050 and the price recently corrected some gains . There was a drop below the 50% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. However, the bulls were active near the $87,800 support and the 61.8% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. The price is again rising above $90,000. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair. Bitcoin is now trading above $91,000 and the 100 hourly Simple moving average. If the bulls remain in action, the price could attempt another increase. Immediate resistance is near the $91,650 level. The first key resistance is near the $92,000 level. The next resistance could be $93,000. A close above the $93,000 resistance might send the price further higher. In the stated case, the price could rise and test the $95,000 resistance. Any more gains might send the price toward the $95,500 level. The next barrier for the bulls could be $96,200 and $96,450. Another Decline In BTC? If Bitcoin fails to rise above the $91,650 resistance zone, it could start another decline. Immediate support is near the $90,000 level. The first major support is near the $89,500 level. The next support is now near the $87,800 zone. Any more losses might send the price toward the $87,250 support in the near term. The main support sits at $86,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $90,000, followed by $89,500. Major Resistance Levels – $91,650 and $92,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
