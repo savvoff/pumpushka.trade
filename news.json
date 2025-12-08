@@ -1116,64 +1116,6 @@
     ]
   },
   {
-    "id": 55471737,
-    "published": 1765126262000,
-    "title": "VC Roundup: Big money, few deals as crypto venture funding dries up",
-    "body": "Crypto venture funding was weak in November, with only a few major raises driving totals, as overall deal activity reached one of its lowest points this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55471634,
-    "published": 1765126228000,
-    "title": "Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto",
-    "body": "Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2006,6 +1948,245 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55510779,
+    "published": 1765211410000,
+    "title": "Here’s How High The Dogecoin Price Will Go Once The MACD Bullish Cross Happens",
+    "body": "The Dogecoin price has been drifting through a subdued stretch over the past few days, holding around the mid-$0.13 to $0.14. The recent decline has slowed down in the past 48 hours, and the chart now shows the meme coin attempting to steady itself after weeks of persistent selling pressure. Trader Tardigrade, a well-known crypto analyst on X, shared a new three-day chart suggesting that an important MACD signal is on the verge of forming, and historical performance shows that Dogecoin tends to move bullish once this signal appears. Approaching The MACD Bullish Cross Dogecoin’s quiet phase in the past 48 hours has become increasingly important because one of Dogecoin’s higher-timeframe indicators is beginning to show early signs of life. According to Trader Tardigrade, Dogecoin’s MACD indicator on the 3-day candlestick price chart has not yet confirmed a bullish cross, but it is very close to doing so. Related Reading: Trend Reversal Puts Dogecoin On A Path To $0.188 The chart he shared shows the MACD lines converging at the lower boundary of the recent downtrend, and the blue line is approaching the red line. The blue line is about to cross over the red one, mirroring the exact setup that preceded previous breakouts earlier this year. Even with Dogecoin trading quietly in recent days, the compression of the MACD indicator hints that bearish momentum is fading. Once the cross officially forms, the trend will shift into a bullish one. This gradual tightening of price movement is also characteristic of an accumulation phase, and this is shown by an important Dogecoin metric. Dogecoin Price Chart, MACD Cross. Source: @TATrader_Alan On X How High The Dogecoin Price Could Go The chart reveals a clear pattern: every time Dogecoin printed a three-day MACD bullish cross in 2025, the price responded with a significant upward move. The first cross was in April, and this preceded a rally that pushed Dogecoin’s price from below $0.14 into a breakout to $0.26. A second cross followed during mid-summer in July, and once again the price climbed aggressively shortly afterward. This saw the Dogecoin price rally from around $0.16 to $0.30 very briefly. Related Reading: The MicroStrategy Of Asia: Japanese Company Announces Plan For Bitcoin And XRP Treasury Both events are circled on the chart above, showing how the momentum flipped swiftly once the MACD crossed above the signal line. These repeated reactions strengthen the case that Dogecoin could be preparing for another sizeable run if the indicator confirms a cross in the coming days. The projection area drawn on the right side of the chart points to a climb that extends well above $0.20. This suggests that the next wave may revisit the upper levels where Dogecoin last traded during its late-summer rally. The analyst’s chart outlines a wide upward arc, indicating that the expected move would not be a minor rebound but a structured uptrend similar to the earlier surges this year. In terms of a price target, the projection shows Dogecoin reaching a price target around $0.35 in the next few weeks. This would translate to a 140% increase from Dogecoin’s current price of $0.142. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55510506,
+    "published": 1765210828000,
+    "title": "Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC",
+    "body": "Bitcoin failed to successfully retest the yearly open after US sell-side pressure reentered to start the week, keeping volatility firmly in control.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55510832,
+    "published": 1765208037000,
+    "title": "Digital Assets to Shift From Disruption to Integration in 2026, CoinShares Says",
+    "body": "'Hybrid finance' is taking hold as traditional institutions tokenize funds and deposits on public blockchains.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Tokenization|Stablecoins|ETFs|CoinShares|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55511836,
+    "published": 1765213200000,
+    "title": "The easiest and safest methods for gifting crypto at Christmas in 2025",
+    "body": "Discover safe ways to give crypto in 2025. Learn about gift cards, exchanges, hardware wallets and essential security and tax guidance.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55511639,
+    "published": 1765212870000,
+    "title": "Bitcoin ETFs Pull in $352 Million to Extend Rebound While XRP Funds Remain Hot",
+    "body": "Bitcoin ETFs capture $352 million as bearish bets retreat, hinting investor pessimism may have reached its low point.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55511653,
+    "published": 1765212829000,
+    "title": "BlackRock files for listing staked Ether ETF",
+    "body": "The fund, if approved by the SEC, would give BlackRock investors indirect exposure to staked Ether — one of the industry’s first following the 2024 approval of spot Ether ETFs.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55512107,
+    "published": 1765213856000,
+    "title": "Script to Nuke AI Features from Windows 11 Goes Viral Amid Privacy Backlash",
+    "body": "A GitHub script that disables Copilot, Recall, and other AI components in Windows 11 is going viral, echoing ongoing concerns about Microsoft’s push.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
