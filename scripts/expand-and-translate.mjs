@@ -47,7 +47,7 @@ FACT RULES (MANDATORY)
 - No external knowledge.
 
 STYLE
-- Clear headings (H2/H3).
+- Clear headings (H2/H3). Don't use H1.
 - Start with a 2-3 sentence overview.
 - Explain what happened and why it matters (using only provided facts).
 - Add analytic "## From author".
