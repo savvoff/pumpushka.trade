@@ -2394,5 +2394,52 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55520792,
+    "published": 1765232896000,
+    "title": "CFTC to Pilot Tokenized Collateral in Derivatives Markets Starting With Bitcoin, Ethereum and USDC",
+    "body": "The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
