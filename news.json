@@ -1,51 +1,16 @@
 [
   {
-    "id": 55464412,
-    "published": 1765112400000,
-    "title": "Bitcoin Market Echoes Early 2022 as Onchain Stress Mounts: Glassnode",
-    "body": "Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Glassnode|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55464812,
-    "published": 1765112920000,
-    "title": "‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles",
-    "body": "The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...",
+    "id": 55505167,
+    "published": 1765195209000,
+    "title": "Ethereum Founder Breaks Silence With Major Upgrade Proposal",
+    "body": "Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shifts in Ethereum’s economic framework in years. Ethereum Gas Fees As Predictable, Prepaid Resources Buterin’s proposal centers on a new on-chain gas futures market. Today, gas fees rise and fall based on network congestion and users have no way to know in advance what they will pay, which complicates planning for developers, businesses, and high-volume platforms. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next The new model reshapes that dynamic by allowing users to purchase a defined amount of gas at a fixed price for future use. Rather than hoping the network will be affordable at the moment they need to transact, they can lock in their costs in advance. This moves Ethereum from a system dominated by short-term fee volatility to one anchored in stable, forward-looking pricing Under the proposed design, these futures contracts would be traded directly on-chain. Their prices would naturally reflect expectations of future demand. When demand is expected to increase, futures prices rise; when expected to fall, they drop. This creates a transparent, market-driven view of upcoming network activity, giving developers and organizations a more reliable basis for planning their operations. The structure also builds on the foundation set by EIP-1559, which introduced the base fee mechanism. Buterin’s futures market doesn’t replace that system—it extends it. It transforms gas from reactive cost into a resource that can be managed in advance, similar to how businesses lock in costs for electricity, bandwidth, or other essential inputs. Operational Benefits For Developers, Businesses, And The Network The most immediate benefit is cost certainty. High-volume users—exchanges, rollups, wallets, and automation services—often operate on tight margins, and sudden gas fee spikes disrupt operations and planning. By locking in future gas costs, this uncertainty is removed, supporting consistent service delivery. Developers also gain a stable environment, enabling them to schedule upgrades, plan deployments, and manage workloads without worrying about fee surges. This predictability strengthens project roadmaps and enhances user experience. Related Reading: Are Dogecoin Whales Leaving The Meme Coin? Large Transactions Crash To 2-Month Lows For enterprises integrating Ethereum into payments, verification, or data-processing workflows, predictable fees are essential. Buterin’s model addresses this barrier, positioning Ethereum as a more reliable foundation for long-term, large-scale adoption. At the network level, the futures market introduces clearer economic signals. Rising futures prices indicate increasing demand for blockspace, guiding scaling decisions and resource allocation. Falling prices signal lower demand, enabling more efficient development and infrastructure planning. The proposal does not lower gas fees but makes them manageable, converting an unstable cost into a predictable one. This enhances Ethereum’s appeal for serious applications, institutional activity, and reliable operational planning. By introducing a gas futures mechanism, the ecosystem can better manage costs and prepare for growth, marking a decisive step toward a more professional-grade Ethereum. Featured image created with Dall.E, chart from Tradingview.com",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "keywords": "Ethereum",
     "lang": "EN",
     "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
       "source_type": "RSS"
     },
     "category_data": [
@@ -57,1300 +22,9 @@
       },
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55466339,
-    "published": 1765116000000,
-    "title": "Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research",
-    "body": "K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55468219,
-    "published": 1765119600000,
-    "title": "Altcoin Rally Alert: 4 Bullish Signals To Watch Out For – Analyst",
-    "body": "Prominent market analyst Michael Van de Poppe has shared four market conditions that would confirm an altcoin market rally. Meanwhile, the cryptocurrency market continues to experience a widespread correction, weighing down the price growth of several assets. Ethereum Outperforms Bitcoin: A Positive Sign For Altcoins? Ethereum has shown more resilience in the last month than Bitcoin, which is largely interpreted as a bullish signal for altcoin enthusiasts. In the last week alone, the prominent altcoin reported a slight market gain of 0.86% compared to Bitcoin’s loss of 1.95%. When Ethereum outperforms Bitcoin, it encourages increased altcoin activity, as investor confidence spreads beyond the market leader into the broader crypto ecosystem. However, a full altcoin market takeover only comes into effect after the following technical developments. Firstly, de Poppe explains that Bitcoin, as the market leader, must achieve a breakthrough above $92,000 resistance, potentially testing the $100,000 mark, to signal renewed market strength. Additionally, the analyst states the ETH/BTC ratio must stay above its 20-day moving average (MA), indicating Ethereum’s continued dominance and further encouraging altcoin accumulation. Together, these signals could set the technical bedrock for a significant altcoin rally. Related Reading: Bitcoin Must Break $97K To Restore Confidence Among Youngest Long-Term Holders – Details Macro Factors Could Amplify Altcoin Gains Beyond crypto-specific indicators, de Poppe also touches on broader financial market plays that could initiate the next altcoin move. The analyst suggests that a 5-10% correction in gold prices, coupled with a peak in silver, could encourage capital to flow into riskier assets like cryptocurrencies including cryptocurrencies. Meanwhile, a strong upward movement in the Nasdaq would indicate increased investor risk appetite, a development that often translates into heightened activity in the crypto markets. When combined with positive momentum in Bitcoin and Ethereum, these macro signals could create an environment ripe for a substantial altcoin rally. According to de Poppe, the fulfillment of these conditions indicates that altcoins could achieve market gains of 200%-300% in the present market cycle. Related Reading: Ethereum Shows Signs Of Accumulation As CVD Strengthens And Correlation Stays Elevated Market Overview At the time of writing, the total cryptocurrency market is valued at $3.04 trillion, following a significant 15.5% decline over the past month. Meanwhile, the altcoin market cap stands at $1.26 trillion, accounting for 41.44% of all circulating digital assets. In tandem, data from CoinMarketCap shows the altseason index at 20/100, as Bitcoin still maintains a dominant grip on overall market performance, with a 58.6% dominance. In short, the conditions for a full-scale altcoin breakout have yet to materialize, but the key indicators highlighted above suggest that scenario may be approaching if momentum shifts decisively toward risk assets. Featured image from Kriptomart, chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Altcoin|Altcoin rally|altcoins|altseason|bitcoin|ETH/BTC|ethereum|Michael van de Poppe",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55468214,
-    "published": 1765119600000,
-    "title": "Crypto Has Reinvented and Replatformed the Middle Man",
-    "body": "For those of us who want to use crypto to make the world better, we need to start calling out this behavior for what it is: short-sighted, selfish, unwelcome greed, says VeChain co-founder Sunny Lu.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion|DeFi|Web3|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55468378,
-    "published": 1765119903000,
-    "title": "Trump's National Security Strategy Ignores Bitcoin And Blockchain",
-    "body": "The U.S. president's latest national security strategy focused on AI, biotech, and quantum computing.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion|Bitcoin News|Blockchain Technology|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55468495,
-    "published": 1765119605000,
-    "title": "Altcoins Struggle, But Technical Analysis Says A Major Opportunity Is Forming",
-    "body": "The latest market conditions have pushed hopes of an altcoin season even further out of reach. Bitcoin continues to dominate the market with a 59.6% share, and its recent struggle to hold bullish momentum has not translated into any meaningful boost for altcoins. Related Reading: Italy’s Market Watchdog Gives Crypto Firms A Clear Order: Act Or Exit Broader sentiment has weakened as well, with the CMC Altcoin Season Index registering just 20, which still places the entire market in a Bitcoin-favored phase. Meanwhile, a critical indication has been detected from on-chain data that suggests this may be a rare moment to accumulate strong altcoin positions before conditions eventually turn. Altcoins Stay Subdued As Market Sentiment Worsens Altcoin performance has really been lagging behind Bitcoin throughout this year, and the persistent weakness is now being reflected across multiple market indicators. Bitcoin’s dominance has only increased, meaning the capital rotation that typically sparks an altcoin season has yet to begin. The wait for an altcoin breakout has now stretched far longer than many anticipated. Even as the Bitcoin price is struggling, traders have not redirected liquidity toward altcoins. The leading cryptocurrency is now down by 28.9% from its October all-time high of $126,080. Instead, altcoins have also stayed muted, and their combined market cap shows no signs of outperforming the leading cryptocurrency. Data from CoinMarketCap’s Altcoin Season Index shows the reading is currently at 20. The low reading shows that altcoins are still losing ground relative to Bitcoin. To put this into context, the index was at a reading of 83 this time last year. CMC Altcoin Season Index The sentiment is also evident in CoinMarketCap’s Fear and Greed Index, which is now at 22. Readings this low signal hesitation across the market, as investors shy away from taking new positions, and this environment makes an altcoin season much harder to materialize. CMC crypto fear and greed index CryptoQuant Data Signals A High-Value Accumulation Window Technical analysis using data from on-chain analytics platform CryptoQuant shows that altcoin traders may be entering another window that has frequently been favorable for accumulation. The data compares the 30-day trading volume of altcoins against their yearly average and finds that current volumes have slipped back below that long-term line. Each time this pattern has appeared in past cycles, it marked a period when activity was unusually quiet and traders were hesitant, but it also tended to show up just before the market picked up again. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets According to the analysis, this drop in volume can be called a “buying zone,” which is a phase where dollar-cost averaging into selective altcoins has often paid off over time. These low-volume stretches can last for weeks or even months, giving investors enough room to build their positions gradually. Aggregated altcoin trading volume for stablecoin quote pairs: CryptoQuant The message from the data is that this calmer part of the cycle may offer one of the better chances to position ahead of the next broader market move. Featured image from Pexels, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|blockchain|crypto|crypto market|crypto news|cryptocurrency|digital currency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55469925,
-    "published": 1765122833000,
-    "title": "Bitcoin price dips below 88K as analysis blames FOMC nerves",
-    "body": "Bitcoin saw snap downside toward the weekly close with $87,000 back on the radar ahead of an important Federal Reserve interest-rate decision.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55471737,
-    "published": 1765126262000,
-    "title": "VC Roundup: Big money, few deals as crypto venture funding dries up",
-    "body": "Crypto venture funding was weak in November, with only a few major raises driving totals, as overall deal activity reached one of its lowest points this year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55471634,
-    "published": 1765126228000,
-    "title": "Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto",
-    "body": "Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55473624,
-    "published": 1765130162000,
-    "title": "WisdomTree brings options income strategy onchain with new tokenized fund",
-    "body": "The asset manager’s EPXC fund tokenizes a cash-secured put-writing strategy, signaling deeper integration between traditional market products and blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55478036,
-    "published": 1765140075000,
-    "title": "Crypto Adoption Continues Even As Bitcoin Stumbles",
-    "body": "Crypto volatility has returned, but has not slowed adoption by institutions",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55477963,
-    "published": 1765139798000,
-    "title": "Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone",
-    "body": "Bittensor’s first token halving arrives Dec. 14, cutting TAO issuance in half as the AI-focused network adopts a Bitcoin-style fixed supply model.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 73,
-        "NAME": "BITTENSOR",
-        "CATEGORY": "BITTENSOR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55487655,
-    "published": 1765162557000,
-    "title": "Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes",
-    "body": "Vitalik Buterin has proposed something akin to prediction markets but for gas fees to give Ethereum users a way to guard against future network fee volatility.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55487555,
-    "published": 1765162516000,
-    "title": "Bitcoin Aims Higher as Bulls Regain Strength and Push for Resistance Break",
-    "body": "Bitcoin price started a fresh increase above $90,500. BTC is now consolidating gains and might attempt an upside break above $91,650. Bitcoin started a fresh increase above the $90,500 zone. The price is trading above $91,000 and the 100 hourly Simple moving average. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move up if it settles above the $91,650 zone. Bitcoin Price Faces Resistance Bitcoin price managed to stay above the $90,500 zone and started a fresh increase . BTC gained strength for a move above the $91,500 and $92,500 levels. There was a clear move above the $93,000 resistance. A high was formed at $94,050 and the price recently corrected some gains . There was a drop below the 50% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. However, the bulls were active near the $87,800 support and the 61.8% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. The price is again rising above $90,000. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair. Bitcoin is now trading above $91,000 and the 100 hourly Simple moving average. If the bulls remain in action, the price could attempt another increase. Immediate resistance is near the $91,650 level. The first key resistance is near the $92,000 level. The next resistance could be $93,000. A close above the $93,000 resistance might send the price further higher. In the stated case, the price could rise and test the $95,000 resistance. Any more gains might send the price toward the $95,500 level. The next barrier for the bulls could be $96,200 and $96,450. Another Decline In BTC? If Bitcoin fails to rise above the $91,650 resistance zone, it could start another decline. Immediate support is near the $90,000 level. The first major support is near the $89,500 level. The next support is now near the $87,800 zone. Any more losses might send the price toward the $87,250 support in the near term. The main support sits at $86,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $90,000, followed by $89,500. Major Resistance Levels – $91,650 and $92,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55488785,
-    "published": 1765164592000,
-    "title": "Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data",
-    "body": "Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55488703,
-    "published": 1765164532000,
-    "title": "Ethereum Price Targets Upside Break as Buyers Tighten Grip on Trend",
-    "body": "Ethereum price started a fresh increase above $3,00 0. ETH is now consolidating gains and might aim for more gains above $3,150. Ethereum started a fresh increase above the $3,000 and $3,020 levels. The price is trading above $3,050 and the 100-hourly Simple Moving Average. There is a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,150 zone. Ethereum Price Eyes Additional Gains Ethereum price managed to stay above $2,920 and started a fresh increase, like Bitcoin . ETH price gained strength for a move above the $3,000 and $3,020 resistance levels. Recently, the price saw a downside correction from the $3,240 zone. There was a drop below the 50% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. However, the bulls remained active near the $2,920 zone. Ethereum price is now trading above $3,050 and the 100-hourly Simple Moving Average. If there is another upward move, the price could face resistance near the $3,140 level. There is also a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD. The next key resistance is near the $3,200 level. The first major resistance is near the $3,250 level. A clear move above the $3,250 resistance might send the price toward the $3,320 resistance. An upside break above the $3,320 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,450 resistance zone or even $3,500 in the near term. Another Downside Correction In ETH? If Ethereum fails to clear the $3,140 resistance, it could start a fresh decline. Initial support on the downside is near the $3,050 level. The first major support sits near the $3,000 zone. A clear move below the $3,000 support might push the price toward the $2,950 support. Any more losses might send the price toward the $2,920 region and the 61.8% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. The next key support sits at $2,840 and $2,820. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $3,050 Major Resistance Level – $3,140",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55489154,
-    "published": 1765164993000,
-    "title": "‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO",
-    "body": "It was only last month when Jack Mallers, CEO of Bitcoin payments company Strike, accused JPMorgan of closing his personal accounts without explanation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55491129,
-    "published": 1765168608000,
-    "title": "Coinbase Reopens India Access, Sets 2026 Target for Cash-to-Crypto Purchases",
-    "body": "The move underscores Coinbase’s view of India as a long-term growth market, despite policy uncertainty in the near term.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55492560,
-    "published": 1765170958000,
-    "title": "Binance Wins Full ADGM Approval for Exchange, Clearing, and Brokerage Operations",
-    "body": "Abu Dhabi’s Financial Services Regulatory Authority has granted licenses to three Binance entities covering exchange, clearing, and brokerage functions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Binance|Abu Dhabi|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55493077,
-    "published": 1765171734000,
-    "title": "Robinhood Eyes Indonesia Market as Local Crypto Adoption Soars",
-    "body": "Robinhood is buying a local brokerage and crypto firm as the country tightens digital finance rules and remains a leading crypto market.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55492775,
-    "published": 1765171319000,
-    "title": "Buyers Step In at $2 Floor as XRP Builds on Bitcoin's Hover Above $91K",
-    "body": "Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55493587,
-    "published": 1765172401000,
-    "title": "Philippines’ fastest growing digital bank rolls out crypto services",
-    "body": "The digital bank now offers BTC, ETH, SOL, and more via a secure app integration with US fintech firm Alpaca.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55494486,
-    "published": 1765174227000,
-    "title": "Coinbase Reopens India Signups, Targets Fiat On-Ramp in 2026 After Two-Year Freeze",
-    "body": "Coinbase halted services entirely in 2023, off-boarded millions of Indian users and shuttered local access while reassessing regulatory exposure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55494896,
-    "published": 1765174500000,
-    "title": "The future of secure messaging: Why decentralization matters more than ever",
-    "body": "Decentralized messengers shift security beyond encryption by reducing metadata, limiting data requests and preparing for post-quantum threats.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55497265,
-    "published": 1765179447000,
-    "title": "Binance secures ADGM licenses to operate international platform",
-    "body": "Binance’s international operations and liquidity will now be supervised end-to-end by the Financial Services Regulatory Authority in the financial free zone in Abu Dhabi.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55497828,
-    "published": 1765180811000,
-    "title": "Bitcoin To Hit $50 Million By 2041, Says EMJ Capital CEO",
-    "body": "EMJ Capital CEO Eric Jackson has laid out one of the most aggressive long-term bitcoin targets in the space yet, arguing in an interview with reporter Phil Rosen that the cryptocurrency could reach $50 million per coin by 2041. His projection is tied to a thesis that bitcoin will evolve from “digital gold” into the core collateral layer of the global financial system. Jackson said his thinking grows out of the same “hundred bagger” framework he used when buying beaten-down equities like Carvana. He recalled entering Carvana after its share price collapsed from around $400 to roughly $3.50 in 2022, at a time when sentiment was almost universally hostile. “You would hear things like, that’s run by a bunch of criminals. This is what a bunch of idiots. Like you’d have to be an idiot to let your company go from $400 this year to $450 or $350 rather,” he told Rosen. Related Reading: Bitcoin Market Profitability Hits ‘Complete Reset’ — What’s Next For Price? For Jackson, that period illustrated how markets behave at extremes. “It’s human nature almost that when you’re in the moment of max pain or pessimism, you can only see what’s right in front of you,” he said. Yet the underlying product remained strong: “It wasn’t a broken platform. It wasn’t a broken service they would tell you they loved it. It was so easy. It was the best customer experience they had.” From there, he could “envision how they were going to be like a much more profitable business” once the company focused on profitability and addressed its debt. Jackson’s Long-Term Thesis For Bitcoin He applies the same long-horizon lens to bitcoin, arguing that the day-to-day ticker and polarized narratives obscure its structural potential. “We get so tied to turning on the TV and just seeing, like, what’s the price of Bitcoin today […] Some people are bearish and they say, oh, it’s a Ponzi scheme. And some people are bullish and they just, you know, throw these like kind of pie in the sky targets that you can’t really tie to reality,” Jackson said. “It’s kind of hard to latch on to like, what is the value of this thing?” Jackson begins with the common “digital gold” framing. He asks how large the gold market is, how many central banks and sovereigns hold it and why. “Could Bitcoin be as big as gold one day? That seems like a safe assumption,” he argued, adding that because it is “digital” and “programmable” rather than a “hunk of rock,” younger generations may prefer it as a store of value. But he stresses that this is only part of the story, as bitcoin has not become a medium for daily transactions “since the guy who bought pizza with Bitcoin back in like 2011.” The “penny dropped,” he said, when he began to think in terms of what he calls the “global collateral layer” that underpins borrowing by sovereigns and central banks. Historically, that base layer moved from gold to the Eurodollar system from the 1960s onward, and today is heavily intertwined with sovereign debt. “All the countries around the world issue debt and then they kind of borrow against that and they do their daily like government transactions,” he noted, but “there are problems with that.” Related Reading: Is The Bitcoin Bottom In? Top Analyst Assigns 91.5% Probability In Jackson’s “Vision 2041,” bitcoin replaces the Eurodollar and, functionally, becomes the neutral asset that other balance sheets are built upon. He argues that bitcoin is “much superior” as collateral because it is digital and “apolitical,” sitting outside central banks and the influence of “whoever the latest treasury secretary here is in the US.” As with the Eurodollar, he does not see this as a direct attack on the dollar or Treasuries, but as a new underlying layer: “There’s some underlying thing that a lot of other countries and the financial systems borrow against to kind of do things.” Eric Jackson (@ericjackson) expects bitcoin to hit $50 million by 2041. He compares his thesis to how he knew Carvana, $CVNA, would be a 100-bagger stock pick. pic.twitter.com/CA9BWoR4zF — Phil Rosen (@philrosenn) December 7, 2025 Looking ahead 15 years, Jackson envisions sovereigns that currently issue and roll debt instead “rely on Bitcoin,” because “over time, like that’s much more logical.” Given the “enormous” scale of the sovereign debt world, he argues that if bitcoin becomes the dominant collateral substrate, its price per coin would need to reach orders of magnitude above current levels—hence his $50 million-by-2041 target. At press time, Bitcoin traded at $91,574. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55498609,
-    "published": 1765182404000,
-    "title": "Canadian Province Wins Forfeiture of $1M QuadrigaCX Co-Founder's Cash & Gold via Default Judgment",
-    "body": "The ruling transfers cash, gold bars, watches, and jewelry seized from a CIBC safety deposit box and bank account into government hands after Patryn did not defend the case.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|QuadrigaCX|Quadriga|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55500121,
-    "published": 1765185165000,
-    "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
-    "body": "ETH price rising to $3,000 drove whales to open 136,433 ETH long bets, as technical indicators suggest a short-term ETH price rally toward $4,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55501854,
-    "published": 1765188445000,
-    "title": "Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week",
-    "body": "A Santa rally for Bitcoin and risk assets stayed on the cards as the markets prepared for the last Fed interest-rate decision of 2025.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55501733,
-    "published": 1765188042000,
-    "title": "US Treasurys lead tokenization wave as CoinShares predicts 2026 growth",
-    "body": "CoinShares said tokenized RWAs jumped 229% in 2025, led by US Treasurys, and it expects dollar-yield demand to keep driving onchain growth into 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55502546,
-    "published": 1765189830000,
-    "title": "What’s Happening With XRP And Why Did Its Spot ETF Crash 20%?",
-    "body": "XRP’s price has continued to chop, trading sideways, which has impacted the price of the U.S. spot ETFs that provide exposure to the altcoin. Canary Capital’s XRP fund has crashed 20% since its launch, although this fund remains the largest by assets under management (AuM). XRP’s Sideways Price Action Leads To Spot ETF Crash The XRP price has continued to trade within a tight range, just above the psychological $2 level, sparking bearish sentiment among investors. The altcoin is down over 10% in the last month, around the time the first spot XRP ETF, Canary’s fund, launched. This bearish price action has notably contributed to a price crash for Canary’s XRPC fund. Related Reading: XRP ETFs Are About To Hit $1 Billion – Here’s How Much Is Flowing In Daily TradingView data shows that Canary’s XRP ETF is down 20% since its launch on November 13. XRPC also dropped almost 10% last week amid choppy price action. Canary’s fund has also likely crashed due to increased competition from three other spot funds that launched after it. This has led to a slowdown in its inflows since these funds launched. Meanwhile, these funds track the spot XRP price, which also explains Canary’s XRPC crash. XRP has mirrored Bitcoin’s price action amid concerns that the crypto market may already be in a bear market. XRP whales also look to be bearish at the moment, as Santiment data shows a drop in whale transactions from a recent high recorded in November. However, despite this bearish sentiment, with the crypto market currently in a state of fear, the XRP ETFs have continued to record daily net inflows. SoSo Value data show that these funds have been on a 16-day net inflow streak since Canary’s XRP fund launched on November 13, and they have yet to record a net outflow day. Canary’s XRP ETF, which has suffered a 20% price crash, is currently the largest spot XRP fund with $364 million in assets under management. Grayscale’s GXRP is second with $211 million, while Bitwise and Franklin Templeton are third and fourth. As a group, these XRP funds are about to hit $1 billion in assets under management, with $861 million in total net assets. Some Positives For The Altcoin Santiment data show that XRP exchange outflows have outweighed inflows in recent times. This is a positive as it indicates that more investors are accumulating than selling. Exchange outflows typically represent moves for long-term holding, especially in anticipation of higher prices. Related Reading: Pundit Predicts That XRP Is About To Make Investors Extremely Rich In an X post, Santiment mentioned that the XRP Ledger is seeing a fascinating trend of whale and shark wallets shrinking in number but continuing to grow in coins held. The on-chain analytics platform noted that there are 20.6% fewer 100 million XRP wallets, but that these wallets, as a group, still own a 7-year high 48 billion coins. As such, the existing 100 million XRP wallets are doubling down on their accumulation efforts and making up for the shrinking number of wallets. At the time of writing, the altcoin’s price is trading at around $2.07, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Freepik, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|altcoin|Assets Under Management|AUM|bitwise|Canary’s XRP ETF|Canary’s XRPC|CoinMarketCap|Franklin Templeton|Grayscale’s GXRP|Ripple|Santiment|SoSoValue|Spot XRP ETF|xrp|XRP Ledger|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55502663,
-    "published": 1765184425000,
-    "title": "Bitcoin Poised For Lift-Off As Key Bullish Catalysts Kick In: Ex-CEO",
-    "body": "According to former BitMEX CEO Arthur Hayes, battles over the US debt ceiling create clear cash swings that move markets. When the Treasury spends down its main checking account — the Treasury General Account, or TGA — new dollars enter the system and lift risky assets. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says Later, when the Treasury refills the TGA by selling debt, cash is pulled back out and pressure returns to stocks and crypto, he said. Hayes points to 2023 as a clear example, when a large pool of funds at the Fed’s reverse repo facility — about $2.5 trillion — was available to be drawn back into markets. Market Metrics And Recent Moves Traders can see the effects in price action. Bitcoin’s recent fall toward the $80,000 area followed a stretch of tighter liquidity, and the rebound to above $91,000 has many investors asking whether the sell-off marked a cycle low. The crypto market gained ground Monday, with total capitalization rising to a little over $3 trillion, up 1.2% in the last 24 hours. Bitcoin climbed to $92,120, a 1.50% increase on the day and almost 6.5% higher over the week. Ethereum traded around $3,160 after a 4% daily rise and an 11% weekly jump. Reports have disclosed that these moves come as traders watch big-dollar flows tied to US Treasury operations and central bank balance sheet moves. Smaller gains in the last day sit against larger weekly returns for several top tokens, showing that swings remain wide but that buying interest has reappeared. Why 2025 Looks Different Based on reports, Hayes says 2025 is not the same as 2023. The reverse repo balances that helped fuel the earlier rally are largely gone, and liquidity tightened by almost $1 trillion between July and late 2025 as the Treasury issued debt and the Fed ran quantitative tightening. That drought of available cash was a headwind for risk assets and helped push prices lower. The mechanics are simple: less cash chasing assets tends to reduce bids and widen price drops. Price Reaction And Cross-Market Effects The liquidity story is not limited to crypto. Stocks, gold, and property responded to the same flow shifts during the prior cycle. Hayes estimates that about $2.5 trillion of liquidity was effectively redeployed from Fed facilities into markets in 2023, amplifying gains across asset classes. When that source was absent in 2025, selling pressure intensified and volatility rose. Related Reading: Massive Bitcoin Awakening: 2 Physical Coins Unlock $179 Million After 13 Years Favorable Market Conditions Hayes says the environment has shifted in a positive way. The Fed has put quantitative tightening on hold, liquidity pressure in the Treasury market is calming down, the TGA is close to where officials want it, and banks are starting to open up their lending taps again. He views the slide toward $80,000 as the cycle low and expects upward pressure as cash conditions improve. According to his view, these factors together create the environment for renewed upside. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Arthur Hayes|bitcoin|crypto|ethereum|US Treasury",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55503509,
-    "published": 1765191258000,
-    "title": "Crypto funds log second week of inflows after massive $5.5B sell-off",
-    "body": "Bitcoin led the $716 million of inflows to crypto ETPs last week, while Chainlink saw record gains, accounting for more than 50% of its AUM.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55503925,
-    "published": 1765192428000,
-    "title": "Can panic wallets stop a wrench? Why crypto’s next security debate is physical",
-    "body": "Jameson Lopp’s wrench attack data shows physical assaults on crypto holders surging in 2025, forcing a reckoning over whether self‑custody is worth the physical risk.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55503863,
-    "published": 1765191600000,
-    "title": "Wall Street Hedged Big Crypto Bet in $500 Million Ripple Deal",
-    "body": "Ripple’s $500 million share sale in November drew some of Wall Street’s biggest names and marked a milestone in crypto’s evolution from fringe asset class to mainstream finance. Investors including Citadel Securities LLC and Fortress Investment Group backed the firm at a $40 billion valuation, a record for a privately held digital-asset company.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55461726,
-    "published": 1765119654000,
-    "title": "Bitcoin Market Records 21% Crash In November Trading Volume – What This Means For Price",
-    "body": "Bitcoin’s (BTC) ongoing price correction has been accompanied by several other negative developments that continue to grab investors’ attention. Most recently, market analyst Darkfost has observed a significant crash in Bitcoin spot trading volume, while highlighting potential long-term implications of such an event. Related Reading: Here’s Why Bitcoin Volatility Sparks Fresh Attention On MicroStrategy Binance Records $40B Loss In BTC Monthly Spot Trading The spot trading volume refers to the total amount of Bitcoin that is bought and sold for immediate delivery on exchanges within a specific time period. It is a key market indicator used to gauge participation, liquidity, and investor interest. According to Darkfost in an X post on December 6, the Bitcoin market, in November, experienced a major fall in spot trading volume across major crypto exchanges. This development has been attributed to the asset’s price struggles, wherein it recorded a 17.5% devaluation during this period. On Binance, which accounts for more than half of all Bitcoin spot trading activity, spot volume fell from $198 billion in October to $156 billion in November, representing a 21% decline. The downturn was mirrored across other major exchanges, with ByBit posting a 13.5% drop, Gate.io sliding 33%, and OKX down 18%. Interestingly, Darkfost explains that Bitcoin’s recent price action, the major negative catalyst, pales in comparison to previous corrections. However, another red reading in December could initiate a market deterioration marked by conditions such as continued selling pressure, low market confidence, and, importantly, further drops in spot activity. A continuous decline in spot trading volume primarily mirrors a lack of market interest and is accompanied by other concerning factors, such as a weaker demand, high vulnerability to price swings, and limited support for rallies as investors prefer to sit on the sidelines. This dynamic, in turn, weighs on price growth, creating a self-reinforcing bearish loop. Related Reading: The $13.5 Billion Liquidity Injection That Could Send Bitcoin And Crypto Prices Flying Spot Trading Volume Peak Sees Consistent Regression In related news, Darkfost also reports that the present market cycle has featured a consistent decline in spot trading volume peaks. Notably, the chart above shows a market high of $333.57 billion on Binance in March 2024, followed by the lower peak of $246.04 billion in November 2024, and then just $198.6 billion last October. This trend becomes even more concerning when looking at the spot-to-futures volume ratio, which currently sits at 0.23, meaning futures activity now accounts for more than 75% of overall trading. In essence, while the Bitcoin market remains active, investor enthusiasm on the spot side is fading. By contrast, traders appear increasingly willing to speculate in the futures market, likely driven by elevated uncertainty and short-term volatility. At press time, Bitcoin trades at $89,300, reflecting a 0.21% loss in the past day. Featured image from Pexels, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin Futures Market|Bitcoin Spot Trading Volume|btcusd|BTCUSDT|cryptoquant|Darkfost",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
       },
       {
         "TYPE": "122",
@@ -1461,13 +135,100 @@
     ]
   },
   {
-    "id": 55505167,
-    "published": 1765195209000,
-    "title": "Ethereum Founder Breaks Silence With Major Upgrade Proposal",
-    "body": "Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shifts in Ethereum’s economic framework in years. Ethereum Gas Fees As Predictable, Prepaid Resources Buterin’s proposal centers on a new on-chain gas futures market. Today, gas fees rise and fall based on network congestion and users have no way to know in advance what they will pay, which complicates planning for developers, businesses, and high-volume platforms. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next The new model reshapes that dynamic by allowing users to purchase a defined amount of gas at a fixed price for future use. Rather than hoping the network will be affordable at the moment they need to transact, they can lock in their costs in advance. This moves Ethereum from a system dominated by short-term fee volatility to one anchored in stable, forward-looking pricing Under the proposed design, these futures contracts would be traded directly on-chain. Their prices would naturally reflect expectations of future demand. When demand is expected to increase, futures prices rise; when expected to fall, they drop. This creates a transparent, market-driven view of upcoming network activity, giving developers and organizations a more reliable basis for planning their operations. The structure also builds on the foundation set by EIP-1559, which introduced the base fee mechanism. Buterin’s futures market doesn’t replace that system—it extends it. It transforms gas from reactive cost into a resource that can be managed in advance, similar to how businesses lock in costs for electricity, bandwidth, or other essential inputs. Operational Benefits For Developers, Businesses, And The Network The most immediate benefit is cost certainty. High-volume users—exchanges, rollups, wallets, and automation services—often operate on tight margins, and sudden gas fee spikes disrupt operations and planning. By locking in future gas costs, this uncertainty is removed, supporting consistent service delivery. Developers also gain a stable environment, enabling them to schedule upgrades, plan deployments, and manage workloads without worrying about fee surges. This predictability strengthens project roadmaps and enhances user experience. Related Reading: Are Dogecoin Whales Leaving The Meme Coin? Large Transactions Crash To 2-Month Lows For enterprises integrating Ethereum into payments, verification, or data-processing workflows, predictable fees are essential. Buterin’s model addresses this barrier, positioning Ethereum as a more reliable foundation for long-term, large-scale adoption. At the network level, the futures market introduces clearer economic signals. Rising futures prices indicate increasing demand for blockspace, guiding scaling decisions and resource allocation. Falling prices signal lower demand, enabling more efficient development and infrastructure planning. The proposal does not lower gas fees but makes them manageable, converting an unstable cost into a predictable one. This enhances Ethereum’s appeal for serious applications, institutional activity, and reliable operational planning. By introducing a gas futures mechanism, the ecosystem can better manage costs and prepare for growth, marking a decisive step toward a more professional-grade Ethereum. Featured image created with Dall.E, chart from Tradingview.com",
+    "id": 55503925,
+    "published": 1765192428000,
+    "title": "Can panic wallets stop a wrench? Why crypto’s next security debate is physical",
+    "body": "Jameson Lopp’s wrench attack data shows physical assaults on crypto holders surging in 2025, forcing a reckoning over whether self‑custody is worth the physical risk.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55503863,
+    "published": 1765191600000,
+    "title": "Wall Street Hedged Big Crypto Bet in $500 Million Ripple Deal",
+    "body": "Ripple’s $500 million share sale in November drew some of Wall Street’s biggest names and marked a milestone in crypto’s evolution from fringe asset class to mainstream finance. Investors including Citadel Securities LLC and Fortress Investment Group backed the firm at a $40 billion valuation, a record for a privately held digital-asset company.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Ethereum",
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55503509,
+    "published": 1765191258000,
+    "title": "Crypto funds log second week of inflows after massive $5.5B sell-off",
+    "body": "Bitcoin led the $716 million of inflows to crypto ETPs last week, while Chainlink saw record gains, accounting for more than 50% of its AUM.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55502546,
+    "published": 1765189830000,
+    "title": "What’s Happening With XRP And Why Did Its Spot ETF Crash 20%?",
+    "body": "XRP’s price has continued to chop, trading sideways, which has impacted the price of the U.S. spot ETFs that provide exposure to the altcoin. Canary Capital’s XRP fund has crashed 20% since its launch, although this fund remains the largest by assets under management (AuM). XRP’s Sideways Price Action Leads To Spot ETF Crash The XRP price has continued to trade within a tight range, just above the psychological $2 level, sparking bearish sentiment among investors. The altcoin is down over 10% in the last month, around the time the first spot XRP ETF, Canary’s fund, launched. This bearish price action has notably contributed to a price crash for Canary’s XRPC fund. Related Reading: XRP ETFs Are About To Hit $1 Billion – Here’s How Much Is Flowing In Daily TradingView data shows that Canary’s XRP ETF is down 20% since its launch on November 13. XRPC also dropped almost 10% last week amid choppy price action. Canary’s fund has also likely crashed due to increased competition from three other spot funds that launched after it. This has led to a slowdown in its inflows since these funds launched. Meanwhile, these funds track the spot XRP price, which also explains Canary’s XRPC crash. XRP has mirrored Bitcoin’s price action amid concerns that the crypto market may already be in a bear market. XRP whales also look to be bearish at the moment, as Santiment data shows a drop in whale transactions from a recent high recorded in November. However, despite this bearish sentiment, with the crypto market currently in a state of fear, the XRP ETFs have continued to record daily net inflows. SoSo Value data show that these funds have been on a 16-day net inflow streak since Canary’s XRP fund launched on November 13, and they have yet to record a net outflow day. Canary’s XRP ETF, which has suffered a 20% price crash, is currently the largest spot XRP fund with $364 million in assets under management. Grayscale’s GXRP is second with $211 million, while Bitwise and Franklin Templeton are third and fourth. As a group, these XRP funds are about to hit $1 billion in assets under management, with $861 million in total net assets. Some Positives For The Altcoin Santiment data show that XRP exchange outflows have outweighed inflows in recent times. This is a positive as it indicates that more investors are accumulating than selling. Exchange outflows typically represent moves for long-term holding, especially in anticipation of higher prices. Related Reading: Pundit Predicts That XRP Is About To Make Investors Extremely Rich In an X post, Santiment mentioned that the XRP Ledger is seeing a fascinating trend of whale and shark wallets shrinking in number but continuing to grow in coins held. The on-chain analytics platform noted that there are 20.6% fewer 100 million XRP wallets, but that these wallets, as a group, still own a 7-year high 48 billion coins. As such, the existing 100 million XRP wallets are doubling down on their accumulation efforts and making up for the shrinking number of wallets. At the time of writing, the altcoin’s price is trading at around $2.07, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|altcoin|Assets Under Management|AUM|bitwise|Canary’s XRP ETF|Canary’s XRPC|CoinMarketCap|Franklin Templeton|Grayscale’s GXRP|Ripple|Santiment|SoSoValue|Spot XRP ETF|xrp|XRP Ledger|xrp news|XRP Price|XRPUSD|xrpusdt",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -1477,10 +238,682 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
       },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55501854,
+    "published": 1765188445000,
+    "title": "Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week",
+    "body": "A Santa rally for Bitcoin and risk assets remained in the cards as the markets prepared for the last Fed interest-rate decision of 2025.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55501733,
+    "published": 1765188042000,
+    "title": "US Treasurys lead tokenization wave as CoinShares predicts 2026 growth",
+    "body": "CoinShares said tokenized RWAs jumped 229% in 2025, led by US Treasurys, and it expects dollar-yield demand to keep driving onchain growth into 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55500121,
+    "published": 1765185165000,
+    "title": "Ethereum ‘smart’ whales open $426M long bets as ETH price chart eyes $4K",
+    "body": "ETH’s price rising to $3,000 drove whales to open 136,433 ETH long bets, as technical indicators suggest a short-term ETH price rally toward $4,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55502663,
+    "published": 1765184425000,
+    "title": "Bitcoin Poised For Lift-Off As Key Bullish Catalysts Kick In: Ex-CEO",
+    "body": "According to former BitMEX CEO Arthur Hayes, battles over the US debt ceiling create clear cash swings that move markets. When the Treasury spends down its main checking account — the Treasury General Account, or TGA — new dollars enter the system and lift risky assets. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says Later, when the Treasury refills the TGA by selling debt, cash is pulled back out and pressure returns to stocks and crypto, he said. Hayes points to 2023 as a clear example, when a large pool of funds at the Fed’s reverse repo facility — about $2.5 trillion — was available to be drawn back into markets. Market Metrics And Recent Moves Traders can see the effects in price action. Bitcoin’s recent fall toward the $80,000 area followed a stretch of tighter liquidity, and the rebound to above $91,000 has many investors asking whether the sell-off marked a cycle low. The crypto market gained ground Monday, with total capitalization rising to a little over $3 trillion, up 1.2% in the last 24 hours. Bitcoin climbed to $92,120, a 1.50% increase on the day and almost 6.5% higher over the week. Ethereum traded around $3,160 after a 4% daily rise and an 11% weekly jump. Reports have disclosed that these moves come as traders watch big-dollar flows tied to US Treasury operations and central bank balance sheet moves. Smaller gains in the last day sit against larger weekly returns for several top tokens, showing that swings remain wide but that buying interest has reappeared. Why 2025 Looks Different Based on reports, Hayes says 2025 is not the same as 2023. The reverse repo balances that helped fuel the earlier rally are largely gone, and liquidity tightened by almost $1 trillion between July and late 2025 as the Treasury issued debt and the Fed ran quantitative tightening. That drought of available cash was a headwind for risk assets and helped push prices lower. The mechanics are simple: less cash chasing assets tends to reduce bids and widen price drops. Price Reaction And Cross-Market Effects The liquidity story is not limited to crypto. Stocks, gold, and property responded to the same flow shifts during the prior cycle. Hayes estimates that about $2.5 trillion of liquidity was effectively redeployed from Fed facilities into markets in 2023, amplifying gains across asset classes. When that source was absent in 2025, selling pressure intensified and volatility rose. Related Reading: Massive Bitcoin Awakening: 2 Physical Coins Unlock $179 Million After 13 Years Favorable Market Conditions Hayes says the environment has shifted in a positive way. The Fed has put quantitative tightening on hold, liquidity pressure in the Treasury market is calming down, the TGA is close to where officials want it, and banks are starting to open up their lending taps again. He views the slide toward $80,000 as the cycle low and expects upward pressure as cash conditions improve. According to his view, these factors together create the environment for renewed upside. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Arthur Hayes|bitcoin|crypto|ethereum|US Treasury",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55498609,
+    "published": 1765182404000,
+    "title": "Canadian Province Wins Forfeiture of $1M QuadrigaCX Co-Founder's Cash, Gold via Default Judgment",
+    "body": "The ruling transfers cash, gold bars, watches, and jewelry seized from a CIBC safety deposit box and bank account into government hands after Patryn did not defend the case.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|QuadrigaCX|Quadriga|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55497828,
+    "published": 1765180811000,
+    "title": "Bitcoin To Hit $50 Million By 2041, Says EMJ Capital CEO",
+    "body": "EMJ Capital CEO Eric Jackson has laid out one of the most aggressive long-term bitcoin targets in the space yet, arguing in an interview with reporter Phil Rosen that the cryptocurrency could reach $50 million per coin by 2041. His projection is tied to a thesis that bitcoin will evolve from “digital gold” into the core collateral layer of the global financial system. Jackson said his thinking grows out of the same “hundred bagger” framework he used when buying beaten-down equities like Carvana. He recalled entering Carvana after its share price collapsed from around $400 to roughly $3.50 in 2022, at a time when sentiment was almost universally hostile. “You would hear things like, that’s run by a bunch of criminals. This is what a bunch of idiots. Like you’d have to be an idiot to let your company go from $400 this year to $450 or $350 rather,” he told Rosen. Related Reading: Bitcoin Market Profitability Hits ‘Complete Reset’ — What’s Next For Price? For Jackson, that period illustrated how markets behave at extremes. “It’s human nature almost that when you’re in the moment of max pain or pessimism, you can only see what’s right in front of you,” he said. Yet the underlying product remained strong: “It wasn’t a broken platform. It wasn’t a broken service they would tell you they loved it. It was so easy. It was the best customer experience they had.” From there, he could “envision how they were going to be like a much more profitable business” once the company focused on profitability and addressed its debt. Jackson’s Long-Term Thesis For Bitcoin He applies the same long-horizon lens to bitcoin, arguing that the day-to-day ticker and polarized narratives obscure its structural potential. “We get so tied to turning on the TV and just seeing, like, what’s the price of Bitcoin today […] Some people are bearish and they say, oh, it’s a Ponzi scheme. And some people are bullish and they just, you know, throw these like kind of pie in the sky targets that you can’t really tie to reality,” Jackson said. “It’s kind of hard to latch on to like, what is the value of this thing?” Jackson begins with the common “digital gold” framing. He asks how large the gold market is, how many central banks and sovereigns hold it and why. “Could Bitcoin be as big as gold one day? That seems like a safe assumption,” he argued, adding that because it is “digital” and “programmable” rather than a “hunk of rock,” younger generations may prefer it as a store of value. But he stresses that this is only part of the story, as bitcoin has not become a medium for daily transactions “since the guy who bought pizza with Bitcoin back in like 2011.” The “penny dropped,” he said, when he began to think in terms of what he calls the “global collateral layer” that underpins borrowing by sovereigns and central banks. Historically, that base layer moved from gold to the Eurodollar system from the 1960s onward, and today is heavily intertwined with sovereign debt. “All the countries around the world issue debt and then they kind of borrow against that and they do their daily like government transactions,” he noted, but “there are problems with that.” Related Reading: Is The Bitcoin Bottom In? Top Analyst Assigns 91.5% Probability In Jackson’s “Vision 2041,” bitcoin replaces the Eurodollar and, functionally, becomes the neutral asset that other balance sheets are built upon. He argues that bitcoin is “much superior” as collateral because it is digital and “apolitical,” sitting outside central banks and the influence of “whoever the latest treasury secretary here is in the US.” As with the Eurodollar, he does not see this as a direct attack on the dollar or Treasuries, but as a new underlying layer: “There’s some underlying thing that a lot of other countries and the financial systems borrow against to kind of do things.” Eric Jackson (@ericjackson) expects bitcoin to hit $50 million by 2041. He compares his thesis to how he knew Carvana, $CVNA, would be a 100-bagger stock pick. pic.twitter.com/CA9BWoR4zF — Phil Rosen (@philrosenn) December 7, 2025 Looking ahead 15 years, Jackson envisions sovereigns that currently issue and roll debt instead “rely on Bitcoin,” because “over time, like that’s much more logical.” Given the “enormous” scale of the sovereign debt world, he argues that if bitcoin becomes the dominant collateral substrate, its price per coin would need to reach orders of magnitude above current levels—hence his $50 million-by-2041 target. At press time, Bitcoin traded at $91,574. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55497265,
+    "published": 1765179447000,
+    "title": "Binance secures ADGM licenses to operate international platform",
+    "body": "Binance’s international operations and liquidity will now be supervised end-to-end by the Financial Services Regulatory Authority in the financial free zone in Abu Dhabi.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55494896,
+    "published": 1765174500000,
+    "title": "The future of secure messaging: Why decentralization matters more than ever",
+    "body": "Decentralized messengers shift security beyond encryption by reducing metadata, limiting data requests and preparing for post-quantum threats.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55494486,
+    "published": 1765174227000,
+    "title": "Coinbase Reopens India Signups, Targets Fiat On-Ramp in 2026 After Two-Year Freeze",
+    "body": "Coinbase halted services entirely in 2023, off-boarded millions of Indian users and shuttered local access while reassessing regulatory exposure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55493587,
+    "published": 1765172401000,
+    "title": "Philippines’ fastest-growing digital bank rolls out crypto services",
+    "body": "The digital bank now offers BTC, ETH, SOL and more via a secure app integration with US fintech firm Alpaca.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55493077,
+    "published": 1765171734000,
+    "title": "Robinhood Eyes Indonesia Market as Local Crypto Adoption Soars",
+    "body": "Robinhood is buying a local brokerage and crypto firm as the country tightens digital finance rules and remains a leading crypto market.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55492775,
+    "published": 1765171319000,
+    "title": "Buyers Step In at $2 Floor as XRP Builds on Bitcoin's Hover Above $91K",
+    "body": "Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55492560,
+    "published": 1765170958000,
+    "title": "Binance Wins Full ADGM Approval for Exchange, Clearing, and Brokerage Operations",
+    "body": "Abu Dhabi’s Financial Services Regulatory Authority has granted licenses to three Binance entities covering exchange, clearing, and brokerage functions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Binance|Abu Dhabi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55491129,
+    "published": 1765168608000,
+    "title": "Coinbase Reopens India Access, Sets 2026 Target for Cash-to-Crypto Purchases",
+    "body": "The move underscores Coinbase’s view of India as a long-term growth market, despite policy uncertainty in the near term.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55489154,
+    "published": 1765164993000,
+    "title": "‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO",
+    "body": "It was only last month when Jack Mallers, CEO of Bitcoin payments company Strike, accused JPMorgan of closing his personal accounts without explanation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55488785,
+    "published": 1765164592000,
+    "title": "Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data",
+    "body": "Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55488703,
+    "published": 1765164532000,
+    "title": "Ethereum Price Targets Upside Break as Buyers Tighten Grip on Trend",
+    "body": "Ethereum price started a fresh increase above $3,00 0. ETH is now consolidating gains and might aim for more gains above $3,150. Ethereum started a fresh increase above the $3,000 and $3,020 levels. The price is trading above $3,050 and the 100-hourly Simple Moving Average. There is a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,150 zone. Ethereum Price Eyes Additional Gains Ethereum price managed to stay above $2,920 and started a fresh increase, like Bitcoin . ETH price gained strength for a move above the $3,000 and $3,020 resistance levels. Recently, the price saw a downside correction from the $3,240 zone. There was a drop below the 50% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. However, the bulls remained active near the $2,920 zone. Ethereum price is now trading above $3,050 and the 100-hourly Simple Moving Average. If there is another upward move, the price could face resistance near the $3,140 level. There is also a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD. The next key resistance is near the $3,200 level. The first major resistance is near the $3,250 level. A clear move above the $3,250 resistance might send the price toward the $3,320 resistance. An upside break above the $3,320 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,450 resistance zone or even $3,500 in the near term. Another Downside Correction In ETH? If Ethereum fails to clear the $3,140 resistance, it could start a fresh decline. Initial support on the downside is near the $3,050 level. The first major support sits near the $3,000 zone. A clear move below the $3,000 support might push the price toward the $2,950 support. Any more losses might send the price toward the $2,920 region and the 61.8% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. The next key support sits at $2,840 and $2,820. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $3,050 Major Resistance Level – $3,140",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55487655,
+    "published": 1765162557000,
+    "title": "Vitalik Buterin floats gas futures on Ethereum to hedge fee spikes",
+    "body": "Buterin proposed a system akin to prediction markets for gas fees, to provide Ethereum users with a means to hedge against future network fee volatility.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 24,
@@ -1495,9 +928,494 @@
       },
       {
         "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55487555,
+    "published": 1765162516000,
+    "title": "Bitcoin Aims Higher as Bulls Regain Strength and Push for Resistance Break",
+    "body": "Bitcoin price started a fresh increase above $90,500. BTC is now consolidating gains and might attempt an upside break above $91,650. Bitcoin started a fresh increase above the $90,500 zone. The price is trading above $91,000 and the 100 hourly Simple moving average. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move up if it settles above the $91,650 zone. Bitcoin Price Faces Resistance Bitcoin price managed to stay above the $90,500 zone and started a fresh increase . BTC gained strength for a move above the $91,500 and $92,500 levels. There was a clear move above the $93,000 resistance. A high was formed at $94,050 and the price recently corrected some gains . There was a drop below the 50% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. However, the bulls were active near the $87,800 support and the 61.8% Fib retracement level of the upward move from the $83,871 swing low to the $94,050 high. The price is again rising above $90,000. There was a break above a key bearish trend line with resistance at $90,000 on the hourly chart of the BTC/USD pair. Bitcoin is now trading above $91,000 and the 100 hourly Simple moving average. If the bulls remain in action, the price could attempt another increase. Immediate resistance is near the $91,650 level. The first key resistance is near the $92,000 level. The next resistance could be $93,000. A close above the $93,000 resistance might send the price further higher. In the stated case, the price could rise and test the $95,000 resistance. Any more gains might send the price toward the $95,500 level. The next barrier for the bulls could be $96,200 and $96,450. Another Decline In BTC? If Bitcoin fails to rise above the $91,650 resistance zone, it could start another decline. Immediate support is near the $90,000 level. The first major support is near the $89,500 level. The next support is now near the $87,800 zone. Any more losses might send the price toward the $87,250 support in the near term. The main support sits at $86,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $90,000, followed by $89,500. Major Resistance Levels – $91,650 and $92,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55478036,
+    "published": 1765140075000,
+    "title": "Crypto Adoption Continues Even As Bitcoin Stumbles",
+    "body": "Crypto volatility has returned, but has not slowed adoption by institutions",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55477963,
+    "published": 1765139798000,
+    "title": "Crypto’s other halving: Bittensor’s first 4-year cycle seen as ‘maturation’ milestone",
+    "body": "Bittensor’s first token halving is scheduled for Dec. 14, reducing TAO issuance by half as the AI-focused network adopts a Bitcoin-style fixed supply model.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 73,
+        "NAME": "BITTENSOR",
+        "CATEGORY": "BITTENSOR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55468219,
+    "published": 1765134000000,
+    "title": "Altcoin Rally Alert: 4 Bullish Signals To Watch Out For – Analyst",
+    "body": "Prominent market analyst Michael Van de Poppe has shared four market conditions that would confirm an altcoin market rally. Meanwhile, the cryptocurrency market continues to experience a widespread correction, weighing down the price growth of several assets. Ethereum Outperforms Bitcoin: A Positive Sign For Altcoins? Ethereum has shown more resilience in the last month than Bitcoin, which is largely interpreted as a bullish signal for altcoin enthusiasts. In the last week alone, the prominent altcoin reported a slight market gain of 0.86% compared to Bitcoin’s loss of 1.95%. When Ethereum outperforms Bitcoin, it encourages increased altcoin activity, as investor confidence spreads beyond the market leader into the broader crypto ecosystem. However, a full altcoin market takeover only comes into effect after the following technical developments. Firstly, de Poppe explains that Bitcoin, as the market leader, must achieve a breakthrough above $92,000 resistance, potentially testing the $100,000 mark, to signal renewed market strength. Additionally, the analyst states the ETH/BTC ratio must stay above its 20-day moving average (MA), indicating Ethereum’s continued dominance and further encouraging altcoin accumulation. Together, these signals could set the technical bedrock for a significant altcoin rally. Related Reading: Bitcoin Must Break $97K To Restore Confidence Among Youngest Long-Term Holders – Details Macro Factors Could Amplify Altcoin Gains Beyond crypto-specific indicators, de Poppe also touches on broader financial market plays that could initiate the next altcoin move. The analyst suggests that a 5-10% correction in gold prices, coupled with a peak in silver, could encourage capital to flow into riskier assets like cryptocurrencies including cryptocurrencies. Meanwhile, a strong upward movement in the Nasdaq would indicate increased investor risk appetite, a development that often translates into heightened activity in the crypto markets. When combined with positive momentum in Bitcoin and Ethereum, these macro signals could create an environment ripe for a substantial altcoin rally. According to de Poppe, the fulfillment of these conditions indicates that altcoins could achieve market gains of 200%-300% in the present market cycle. Related Reading: Ethereum Shows Signs Of Accumulation As CVD Strengthens And Correlation Stays Elevated Market Overview At the time of writing, the total cryptocurrency market is valued at $3.04 trillion, following a significant 15.5% decline over the past month. Meanwhile, the altcoin market cap stands at $1.26 trillion, accounting for 41.44% of all circulating digital assets. In tandem, data from CoinMarketCap shows the altseason index at 20/100, as Bitcoin still maintains a dominant grip on overall market performance, with a 58.6% dominance. In short, the conditions for a full-scale altcoin breakout have yet to materialize, but the key indicators highlighted above suggest that scenario may be approaching if momentum shifts decisively toward risk assets. Featured image from Kriptomart, chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|Altcoin rally|altcoins|altseason|bitcoin|ETH/BTC|ethereum|Michael van de Poppe",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55473624,
+    "published": 1765130162000,
+    "title": "WisdomTree brings options income strategy onchain with new tokenized fund",
+    "body": "The asset manager’s EPXC fund tokenizes a cash-secured put-writing strategy, signaling deeper integration between traditional market products and blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55471737,
+    "published": 1765126262000,
+    "title": "VC Roundup: Big money, few deals as crypto venture funding dries up",
+    "body": "Crypto venture funding was weak in November, with only a few major raises driving totals, as overall deal activity reached one of its lowest points this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55471634,
+    "published": 1765126228000,
+    "title": "Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto",
+    "body": "Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55469925,
+    "published": 1765122833000,
+    "title": "Bitcoin price dips below 88K as analysis blames FOMC nerves",
+    "body": "Bitcoin saw snap downside toward the weekly close with $87,000 back on the radar ahead of an important Federal Reserve interest-rate decision.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55468378,
+    "published": 1765119903000,
+    "title": "Trump's National Security Strategy Ignores Bitcoin And Blockchain",
+    "body": "The U.S. president's latest national security strategy focused on AI, biotech, and quantum computing.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|Bitcoin News|Blockchain Technology|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55461726,
+    "published": 1765119654000,
+    "title": "Bitcoin Market Records 21% Crash In November Trading Volume – What This Means For Price",
+    "body": "Bitcoin’s (BTC) ongoing price correction has been accompanied by several other negative developments that continue to grab investors’ attention. Most recently, market analyst Darkfost has observed a significant crash in Bitcoin spot trading volume, while highlighting potential long-term implications of such an event. Related Reading: Here’s Why Bitcoin Volatility Sparks Fresh Attention On MicroStrategy Binance Records $40B Loss In BTC Monthly Spot Trading The spot trading volume refers to the total amount of Bitcoin that is bought and sold for immediate delivery on exchanges within a specific time period. It is a key market indicator used to gauge participation, liquidity, and investor interest. According to Darkfost in an X post on December 6, the Bitcoin market, in November, experienced a major fall in spot trading volume across major crypto exchanges. This development has been attributed to the asset’s price struggles, wherein it recorded a 17.5% devaluation during this period. On Binance, which accounts for more than half of all Bitcoin spot trading activity, spot volume fell from $198 billion in October to $156 billion in November, representing a 21% decline. The downturn was mirrored across other major exchanges, with ByBit posting a 13.5% drop, Gate.io sliding 33%, and OKX down 18%. Interestingly, Darkfost explains that Bitcoin’s recent price action, the major negative catalyst, pales in comparison to previous corrections. However, another red reading in December could initiate a market deterioration marked by conditions such as continued selling pressure, low market confidence, and, importantly, further drops in spot activity. A continuous decline in spot trading volume primarily mirrors a lack of market interest and is accompanied by other concerning factors, such as a weaker demand, high vulnerability to price swings, and limited support for rallies as investors prefer to sit on the sidelines. This dynamic, in turn, weighs on price growth, creating a self-reinforcing bearish loop. Related Reading: The $13.5 Billion Liquidity Injection That Could Send Bitcoin And Crypto Prices Flying Spot Trading Volume Peak Sees Consistent Regression In related news, Darkfost also reports that the present market cycle has featured a consistent decline in spot trading volume peaks. Notably, the chart above shows a market high of $333.57 billion on Binance in March 2024, followed by the lower peak of $246.04 billion in November 2024, and then just $198.6 billion last October. This trend becomes even more concerning when looking at the spot-to-futures volume ratio, which currently sits at 0.23, meaning futures activity now accounts for more than 75% of overall trading. In essence, while the Bitcoin market remains active, investor enthusiasm on the spot side is fading. By contrast, traders appear increasingly willing to speculate in the futures market, likely driven by elevated uncertainty and short-term volatility. At press time, Bitcoin trades at $89,300, reflecting a 0.21% loss in the past day. Featured image from Pexels, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin Futures Market|Bitcoin Spot Trading Volume|btcusd|BTCUSDT|cryptoquant|Darkfost",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55468495,
+    "published": 1765119605000,
+    "title": "Altcoins Struggle, But Technical Analysis Says A Major Opportunity Is Forming",
+    "body": "The latest market conditions have pushed hopes of an altcoin season even further out of reach. Bitcoin continues to dominate the market with a 59.6% share, and its recent struggle to hold bullish momentum has not translated into any meaningful boost for altcoins. Related Reading: Italy’s Market Watchdog Gives Crypto Firms A Clear Order: Act Or Exit Broader sentiment has weakened as well, with the CMC Altcoin Season Index registering just 20, which still places the entire market in a Bitcoin-favored phase. Meanwhile, a critical indication has been detected from on-chain data that suggests this may be a rare moment to accumulate strong altcoin positions before conditions eventually turn. Altcoins Stay Subdued As Market Sentiment Worsens Altcoin performance has really been lagging behind Bitcoin throughout this year, and the persistent weakness is now being reflected across multiple market indicators. Bitcoin’s dominance has only increased, meaning the capital rotation that typically sparks an altcoin season has yet to begin. The wait for an altcoin breakout has now stretched far longer than many anticipated. Even as the Bitcoin price is struggling, traders have not redirected liquidity toward altcoins. The leading cryptocurrency is now down by 28.9% from its October all-time high of $126,080. Instead, altcoins have also stayed muted, and their combined market cap shows no signs of outperforming the leading cryptocurrency. Data from CoinMarketCap’s Altcoin Season Index shows the reading is currently at 20. The low reading shows that altcoins are still losing ground relative to Bitcoin. To put this into context, the index was at a reading of 83 this time last year. CMC Altcoin Season Index The sentiment is also evident in CoinMarketCap’s Fear and Greed Index, which is now at 22. Readings this low signal hesitation across the market, as investors shy away from taking new positions, and this environment makes an altcoin season much harder to materialize. CMC crypto fear and greed index CryptoQuant Data Signals A High-Value Accumulation Window Technical analysis using data from on-chain analytics platform CryptoQuant shows that altcoin traders may be entering another window that has frequently been favorable for accumulation. The data compares the 30-day trading volume of altcoins against their yearly average and finds that current volumes have slipped back below that long-term line. Each time this pattern has appeared in past cycles, it marked a period when activity was unusually quiet and traders were hesitant, but it also tended to show up just before the market picked up again. Related Reading: A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets According to the analysis, this drop in volume can be called a “buying zone,” which is a phase where dollar-cost averaging into selective altcoins has often paid off over time. These low-volume stretches can last for weeks or even months, giving investors enough room to build their positions gradually. Aggregated altcoin trading volume for stablecoin quote pairs: CryptoQuant The message from the data is that this calmer part of the cycle may offer one of the better chances to position ahead of the next broader market move. Featured image from Pexels, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|blockchain|crypto|crypto market|crypto news|cryptocurrency|digital currency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55468214,
+    "published": 1765119600000,
+    "title": "Crypto Has Reinvented and Replatformed the Middle Man",
+    "body": "For those of us who want to use crypto to make the world better, we need to start calling out this behavior for what it is: short-sighted, selfish, unwelcome greed, says VeChain co-founder Sunny Lu.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|DeFi|Web3|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55466339,
+    "published": 1765116000000,
+    "title": "Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research",
+    "body": "K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
       },
       {
         "TYPE": "122",
