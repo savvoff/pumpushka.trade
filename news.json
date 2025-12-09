@@ -1,93 +1,5 @@
 [
   {
-    "id": 55516533,
-    "published": 1765223139000,
-    "title": "Binance Suspends Employee That Used Official X Account to Promote BNB Chain Token",
-    "body": "Crypto exchange Binance has disciplined an employee after they used a brand account to promote the launch of a meme coin they helped create.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55516737,
-    "published": 1765223632000,
-    "title": "StableChain launches mainnet with USDT gas fees, dedicated governance token",
-    "body": "The USDT-powered network launches with support from Bitfinex, Hack VC, Tether executives and other investors following a $28 million seed round.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 55518074,
     "published": 1765226864000,
     "title": "Bitcoin Treads Water Near $90K as Bitfinex Warns of 'Fragile Setup' to Shocks",
@@ -2992,6 +2904,176 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55564220,
+    "published": 1765307380000,
+    "title": "Senator Booker: Low Odds for Crypto Bill Without Democrats Appointed at CFTC, SEC",
+    "body": "The Senate Democrat, who is leading negotiations on a crypto market structure bill, said promises from the White House on the escalating issue would not be enough.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55564772,
+    "published": 1765308467000,
+    "title": "Dogecoin Surges as Ether Zooms 8%, Sparking Bullish Reversal For Memecoins",
+    "body": "The breakout now sets up a clean continuation zone—provided bulls defend the mid-range pivot they just reclaimed.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Dogecoin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55565767,
+    "published": 1765310427000,
+    "title": "Bitcoin Sees Largest Annual Exchange Drop: Over 400,000 Coins Gone",
+    "body": "Bitcoin’s on-exchange supply has dropped sharply, and traders are taking note. According to Santiment, more than 403,000 BTC have left exchanges since December 7, 2024 — roughly 2% of Bitcoin’s total supply. Related Reading: Banking Meets Bitcoin: French Banking Giant Offers Crypto To Millions That shift, measured against an on-exchange balance of about 2.11 million BTC in late November, is being seen as a sign that fewer coins are poised for quick sale. Exchange Balances Shrink Santiment said lower exchange balances have historically been linked with fewer sudden sell-offs, an observation many market watchers find encouraging. The math is straightforward: when a big chunk of supply sits outside exchanges, there is less immediately available stock to meet selling pressure. 📊 As Bitcoin’s market value hovers around $90K, crypto’s top market cap continues to see its supply moving away from exchanges. Over the past year, there has been: 📉 A net total of -403.2K $BTC moving off exchanges 📉 A net reduction of -2.09% of $BTC‘s entire supply moving… pic.twitter.com/Y0JTC880Np — Santiment (@santimentfeed) December 8, 2025 Institutions Step In Based on reports from BitcoinTresuries.Net and others, exchange outflows are not only going to private cold wallets. ETFs and public firms are also accumulating. BitBo lists ETFs holding over 1.5 million BTC and public companies holding over 1 million. Combined, those holdings represent nearly 11% of the total Bitcoin supply. According to analysts, institutional vehicles have quietly absorbed a lot of coins, changing where Bitcoin sits and who can sell it. Supply Moves Matter This is more than bookkeeping. Coins locked in institutional or self-custodied vaults are not sold on a whim. That makes available supply tighter. At the same time, coins leaving exchanges can lead to sharper price moves when demand surges because the pool of sellable coins is smaller. Some of the effects are already visible on price charts; others may show up later if buying pressure picks up. Price Action And Macro Focus Bitcoin traded near $90,650 with a small rise of 0.28% in recent action. Year-to-date gains stand at 11%. The market swung from a daily low of $89,540 to a high of $92,290, showing active trading around current levels. Traders are watching a Federal Reserve meeting closely, and the outcome is expected to drive short-term volatility. Interest-rate cues often move broader markets, and crypto is no exception. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack Market Outlook And Risks Overall, the move off exchanges looks like a bullish backdrop because it reduces immediate selling liquidity. Still, that same scarcity can make prices more sensitive to changes in demand, which raises the possibility of sharper swings. Analysts will be watching whether ETFs and public firms continue to add to their holdings or start to slow down purchases. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|etf",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55565070,
+    "published": 1765309001000,
+    "title": "XRP Underperforms Market as Sudden Bitcoin Surge Forces $387M of Liquidations",
+    "body": "XRP's technical outlook remains uncertain, with support at $2.05 and resistance at $2.17, as traders watch for volume expansion",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
