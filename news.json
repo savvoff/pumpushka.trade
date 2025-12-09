@@ -1,198 +1,5 @@
 [
   {
-    "id": 55507079,
-    "published": 1765204446000,
-    "title": "XRP bulls grow louder: What will spark the breakout toward $2.65?",
-    "body": "XRP analysts highlighted the potential to rebound to $2.65 as institutional demand increased and derivatives traders flipped bullish.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55506695,
-    "published": 1765203823000,
-    "title": "Tom Lee's BitMine Immersion Ramps Up Ether Acquisition, Adding $435M of ETH to Treasury",
-    "body": "This was the firm's largest weekly haul in more than a month; the company also increased its cash holdings to $1 billion.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55507282,
-    "published": 1765203875000,
-    "title": "Strategy Rises on $963 Million Bitcoin Buy, Largest Since July",
-    "body": "Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55507842,
-    "published": 1765206000000,
-    "title": "Most Influential: Donald Trump",
-    "body": "Without the turnaround of Donald Trump on crypto, the road toward a U.S. governmental embrace of the new technology would likely have been a steeper climb.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Donald Trump|Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55507841,
-    "published": 1765206000000,
-    "title": "Pye Finance Raises $5M Seed Round Led by Variant and Coinbase Ventures",
-    "body": "The platform aims to make locked Solana staking positions tradable via an onchain marketplace.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Solana News|Fundraising|Coinbase Ventures|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55508567,
     "published": 1765207443000,
     "title": "Argentina’s Central Bank to Allow Banks to Provide Crypto Services in 2026",
@@ -2635,6 +2442,215 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55554899,
+    "published": 1765290600000,
+    "title": "Crypto Wallet Firm Exodus Bets on Stablecoins for Real-World Payments With 2026 App",
+    "body": "The company launched Exodus Pay, which aims to remove crypto friction by letting users send, spend, and earn with stablecoins from one app.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Exodus|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55555521,
+    "published": 1765291534000,
+    "title": "Securitize hires former PayPal exec as US tokenization gains traction",
+    "body": "Securitize hires a former PayPal executive as it expands regulated tokenized securities for US investors and builds on fresh approvals in Europe.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55555623,
+    "published": 1765291151000,
+    "title": "Bitcoin Firm Twenty One Falls 25% After Cantor Equity Merger",
+    "body": "Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55555622,
+    "published": 1765290600000,
+    "title": "Stripe and Paradigm Open Tempo Blockchain to Public, Add Kalshi, UBS as Partners",
+    "body": "Stripe Inc. and crypto venture firm Paradigm have launched a public trial for their joint blockchain project, Tempo, opening the network to any company interested in building real-world stablecoin payments applications.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "VTX:UBSG",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55555986,
+    "published": 1765292453000,
+    "title": "Pundit Highlights The Condition That Will Trigger A 2,300% XRP Rally To $50",
+    "body": "The XRP price is currently more than 45% below its all-time high and continues to decline amid broader market uncertainty. Despite the slow price action and weak momentum, a crypto analyst has projected that XRP could explode to $50 soon, providing reasons for his ambitious forecast. He boldly stated that the cryptocurrency will not experience a gradual climb to $5 or $10 first, but will instead jump straight to $50. XRP To Hit $50 With A Ripple Bank Charter Crypto analyst Pumpius has outlined a compelling scenario that could dramatically transform XRP’s market outlook. The market expert claims that a single regulatory event could catapult XRP’s price to $50, representing more than a 2,300% increase from current levels around $2. In his thread post on X, he explained the reasons for his bold prediction and the trigger behind this parabolic surge . Related Reading: Here’s How High The Dogecoin Price Will Go Once The MACD Bullish Cross Happens Pumpius believes that XRP could skyrocket to $50 once Ripple secures a national trust bank charter from the United States Office of the Comptroller of the Currency (OCC). According to him, approval of this banking license would give Ripple the same powers as major US banks, as well as direct access to the Federal Reserve (FED). The analyst noted that through the charter, Ripple could gain the authority to custody crypto and tokenized assets, issue stablecoins, and settle securities under complete regulatory oversight. He described the potential approval of the banking license as a foundational move that could establish Ripple as a leading force in US tokenized finance. Pumpius highlighted that XRP remains at the centre of the changes, positioned as the native bridge asset in this potential structure. He suggested that with a charter in place, banks, brokers, and funds could bypass intermediaries and interact directly with Ripple to move value into tokenized markets. According to the analyst’s predictions, the result of this shift could be a massive, sustained surge in liquidity and institutional demand for XRP, creating the ideal conditions for an unprecedented price rally. He explains that with $6.6 trillion moving through banks each day in global settlements, even a small fraction routed through XRP’s limited supply could drive its price higher toward $50. While the market expert’s forecast is ambitious, it hinges entirely on the OCC’s decision, which is not guaranteed and could be influenced by compliance standards, risk assessments, and broader financial policy considerations. Even with approval, actual integration by major institutions would likely take considerable time and depend on competition with existing settlement networks. Ripple Legal Victory Paves Way For $50 XRP Price In his post, Pumpius suggested that Ripple’s prolonged legal battle with the US Securities and Exchange Commission (SEC) was part of a broader strategy to secure regulatory clarity. He viewed the former lawsuit as a smokescreen intended to delay, filter, and prepare the path for a national trust bank charter under the OCC. With the case now resolved, the analyst indicates that the timing is perfect for Ripple to pursue full regulatory approval and integrate XRP into mainstream banking channels. Related Reading: Ethereum Founder Breaks Silence With Major Upgrade Proposal Pumpius boldly declared that the day the OCC approves Ripple’s banking license will mark a turning point for XRP, transforming it from a cryptocurrency to “the rails of US finance.” At that point, the analyst argues that a $50 price target would be significantly undervalued. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55555979,
+    "published": 1765292400000,
+    "title": "Blockchain Network Canton, With $6T of Real-World Assets, Taps RedStone for DeFi Access",
+    "body": "The integration aims to connect RedStone’s data feeds to Canton’s institutional blockchain infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55556060,
+    "published": 1765292400000,
+    "title": "Most Influential: Don Jr., Eric and Barron Trump",
+    "body": "The sons of U.S. President Donald Trump have capitalized on their family name and crypto’s political momentum, carving out a profitable niche for themselves in the booming industry.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Eric Trump|Donald Trump|Barron trump|Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
