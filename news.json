@@ -1,140 +1,5 @@
 [
   {
-    "id": 55505167,
-    "published": 1765195209000,
-    "title": "Ethereum Founder Breaks Silence With Major Upgrade Proposal",
-    "body": "Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shifts in Ethereum’s economic framework in years. Ethereum Gas Fees As Predictable, Prepaid Resources Buterin’s proposal centers on a new on-chain gas futures market. Today, gas fees rise and fall based on network congestion and users have no way to know in advance what they will pay, which complicates planning for developers, businesses, and high-volume platforms. Related Reading: XRP Price Is Performing As Expected; Analyst Reveals What Comes Next The new model reshapes that dynamic by allowing users to purchase a defined amount of gas at a fixed price for future use. Rather than hoping the network will be affordable at the moment they need to transact, they can lock in their costs in advance. This moves Ethereum from a system dominated by short-term fee volatility to one anchored in stable, forward-looking pricing Under the proposed design, these futures contracts would be traded directly on-chain. Their prices would naturally reflect expectations of future demand. When demand is expected to increase, futures prices rise; when expected to fall, they drop. This creates a transparent, market-driven view of upcoming network activity, giving developers and organizations a more reliable basis for planning their operations. The structure also builds on the foundation set by EIP-1559, which introduced the base fee mechanism. Buterin’s futures market doesn’t replace that system—it extends it. It transforms gas from reactive cost into a resource that can be managed in advance, similar to how businesses lock in costs for electricity, bandwidth, or other essential inputs. Operational Benefits For Developers, Businesses, And The Network The most immediate benefit is cost certainty. High-volume users—exchanges, rollups, wallets, and automation services—often operate on tight margins, and sudden gas fee spikes disrupt operations and planning. By locking in future gas costs, this uncertainty is removed, supporting consistent service delivery. Developers also gain a stable environment, enabling them to schedule upgrades, plan deployments, and manage workloads without worrying about fee surges. This predictability strengthens project roadmaps and enhances user experience. Related Reading: Are Dogecoin Whales Leaving The Meme Coin? Large Transactions Crash To 2-Month Lows For enterprises integrating Ethereum into payments, verification, or data-processing workflows, predictable fees are essential. Buterin’s model addresses this barrier, positioning Ethereum as a more reliable foundation for long-term, large-scale adoption. At the network level, the futures market introduces clearer economic signals. Rising futures prices indicate increasing demand for blockspace, guiding scaling decisions and resource allocation. Falling prices signal lower demand, enabling more efficient development and infrastructure planning. The proposal does not lower gas fees but makes them manageable, converting an unstable cost into a predictable one. This enhances Ethereum’s appeal for serious applications, institutional activity, and reliable operational planning. By introducing a gas futures mechanism, the ecosystem can better manage costs and prepare for growth, marking a decisive step toward a more professional-grade Ethereum. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55504440,
-    "published": 1765193487000,
-    "title": "Why Korea May Be The Most Important Crypto Market Of The Next Decade",
-    "body": "Korea’s crypto ecosystem is far more advanced than global narratives suggest, with rising enterprise adoption and a maturing regulatory framework.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55504373,
-    "published": 1765193400000,
-    "title": "Crypto Markets Today: Bitcoin Reclaims $92K as Fed Rate-Cut Expectations Lift Sentiment",
-    "body": "Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2590,6 +2455,257 @@
         "ID": 49,
         "NAME": "TECHNOLOGY",
         "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55548261,
+    "published": 1765279846000,
+    "title": "Crypto Markets Today: Bitcoin Slips Back Toward Danger Zone Ahead of Fed Decision",
+    "body": "Bitcoin surrendered gains from earlier in the week, fell back toward $90,000 as traders braced for Wednesday’s Federal Reserve rate decision.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55548215,
+    "published": 1765279727000,
+    "title": "Polygon deploys Madhugiri hard fork, aims for 33% throughput boost",
+    "body": "Polygon’s hard fork cuts consensus time to one second, supports Fusaka EIPs, and lays the groundwork for stablecoin and RWA-focused scaling.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 38,
+        "NAME": "MATIC",
+        "CATEGORY": "MATIC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 206,
+        "NAME": "FORKS",
+        "CATEGORY": "FORKS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55548789,
+    "published": 1765280613000,
+    "title": "‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research",
+    "body": "Rising retail participation incentivizes data-driven, “elite” traders to use “information asymmetry” and spreads caused by casual investors seeking a quick buck, 10x said.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      }
+    ]
+  },
+  {
+    "id": 55549509,
+    "published": 1765281662000,
+    "title": "VeChain Unveils New 'Hayabusa' Consensus and Tokenomics Upgrade",
+    "body": "With more than 5.5 million app users in the last year, VeChain is focusing on tangible use cases for crypto that “you can hold in your hands.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|vechain|Technology",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 101,
+        "NAME": "VET",
+        "CATEGORY": "VET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55549399,
+    "published": 1765281600000,
+    "title": "Tassat Wins U.S. Patent for 'Yield-in-Transit' Onchain Settlement Tech",
+    "body": "The IP covers intraday, block-by-block interest accrual during 24/7 settlement and underpins Lynq, an institutional network Tassat co-launched in July.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Tassat|Blockchain Adoption|Settlements|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55550196,
+    "published": 1765282792000,
+    "title": "OCC Chief: Banks Blocking Crypto Custody Is 'Recipe for Irrelevance'",
+    "body": "Comptroller of the Currency Jonathan Gould warned that restricting national trust banks from digital assets would stifle innovation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55550010,
+    "published": 1765282500000,
+    "title": "Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps",
+    "body": "The absence of new buyers and weakening ETF demand are factors likely to keep the Bitcoin price pinned below $93,000 as a bear flag targets $67,000.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
