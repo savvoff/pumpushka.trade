@@ -269,70 +269,6 @@
     ]
   },
   {
-    "id": 55501854,
-    "published": 1765188445000,
-    "title": "Did BTC's Santa rally start at $89K? 5 things to know in Bitcoin this week",
-    "body": "A Santa rally for Bitcoin and risk assets remained in the cards as the markets prepared for the last Fed interest-rate decision of 2025.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55501733,
-    "published": 1765188042000,
-    "title": "US Treasurys lead tokenization wave as CoinShares predicts 2026 growth",
-    "body": "CoinShares said tokenized RWAs jumped 229% in 2025, led by US Treasurys, and it expects dollar-yield demand to keep driving onchain growth into 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2585,6 +2521,53 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55544684,
+    "published": 1765274449000,
+    "title": "Bitcoin Speculation Muted: Glassnode Analyst Calls Perps A ‘Ghost Town’",
+    "body": "Glassnode’s senior researcher has pointed out how Bitcoin perpetual futures market is looking like a “ghost town,” with Open Interest continuing to be at muted levels. Bitcoin Futures Open Interest Has Remained Low Since October Reset In a new post on X, Glassnode senior researcher CryptoVizArt.₿ has talked about the recent trend in the Bitcoin Open Interest for the perpetual futures market. The “Open Interest” refers to an indicator that measures the total amount of positions related to the asset that are currently open on all centralized derivatives platforms. Related Reading: This 11.7 Billion Dogecoin Wall Could Be Key Resistance For DOGE, Analyst Says When the value of the metric rises, it means the investors are opening new positions related to the asset. Generally, new positions come with fresh leverage for the sector, so the cryptocurrency’s price can become more volatile following an increase in the Open Interest. On the other hand, the indicator going down suggests the perpetual futures traders are either closing up position of their own volition or getting forcibly liquidated by their platform. Such a trend can lead to more stable price action for BTC due to the clearing of leverage. Now, here is the chart shared by CryptoVizArt.₿ that shows the trend in the Bitcoin perpetual futures Open Interest (BTC-denominated) over the last few months: As displayed in the above graph, the BTC-denominated Bitcoin perpetual futures Open Interest saw a sharp plunge back in October as a result of the crash in the cryptocurrency’s price. Following the leverage flush, the indicator traveled sideways around its lows, but in mid-November, speculation noted an uptick as the asset’s drawdown continued, with the metric’s value peaking alongside the level that has so far acted as the bottom. Since this high, however, the indicator has cooled off once again and approached the same lows as the ones that followed the massive liquidation event in October. Thus, with Open Interest back under 310,000 BTC, it seems speculative interest in the market has once again become muted. The recent decline in speculative participation has come alongside a drop in the perpetual futures Funding Rate, a metric tracking the amount of periodic fee being exchanged between the short and long investors. From the chart, it’s visible that the Bitcoin perpetual futures Funding Rate has been going down since a while now. “This persistent drift lower reflects a decline in leveraged long conviction, with traders unwilling to pay a premium to maintain upside exposure,” noted the Glassnode researcher. Related Reading: Bitcoin Market Structure Echoes 2022 Bear Start, Glassnode Warns Based on the recent developments, CryptoVizArt.₿ has called the perpetual futures market a “ghost town.” BTC Price At the time of writing, Bitcoin is floating around $90,500, up almost 6% over the last seven days. Featured image from Dall-E, Glassnode.com, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Open interest|bitcoin speculation|btc|BTCUSDT|glassnode",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
       {
         "TYPE": "122",
         "ID": 211,
