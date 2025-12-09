@@ -520,193 +520,6 @@
     ]
   },
   {
-    "id": 55494896,
-    "published": 1765174500000,
-    "title": "The future of secure messaging: Why decentralization matters more than ever",
-    "body": "Decentralized messengers shift security beyond encryption by reducing metadata, limiting data requests and preparing for post-quantum threats.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55494486,
-    "published": 1765174227000,
-    "title": "Coinbase Reopens India Signups, Targets Fiat On-Ramp in 2026 After Two-Year Freeze",
-    "body": "Coinbase halted services entirely in 2023, off-boarded millions of Indian users and shuttered local access while reassessing regulatory exposure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55493587,
-    "published": 1765172401000,
-    "title": "Philippines’ fastest-growing digital bank rolls out crypto services",
-    "body": "The digital bank now offers BTC, ETH, SOL and more via a secure app integration with US fintech firm Alpaca.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55493077,
-    "published": 1765171734000,
-    "title": "Robinhood Eyes Indonesia Market as Local Crypto Adoption Soars",
-    "body": "Robinhood is buying a local brokerage and crypto firm as the country tightens digital finance rules and remains a leading crypto market.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55492775,
-    "published": 1765171319000,
-    "title": "Buyers Step In at $2 Floor as XRP Builds on Bitcoin's Hover Above $91K",
-    "body": "Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2579,6 +2392,198 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55534575,
+    "published": 1765258328000,
+    "title": "Ninth Defendant Pleads Guilty in $263M Crypto Social-Engineering Scheme",
+    "body": "Evan Tangeman acknowledged helping launder at least $3.5 million for the SE Enterprise group, along with turning stolen crypto into bulk cash.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55534466,
+    "published": 1765258200000,
+    "title": "USDC Issuer Circle Secures Abu Dhabi's ADGM License in Middle East Expansion",
+    "body": "The license allows Circle to expand USDC payment and settlement tools across the United Arab Emirates.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|Circle|Abu Dhabi Global Market|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55534423,
+    "published": 1765258132000,
+    "title": "Bitcoin peeled off exchanges this year in ‘positive long-term sign’",
+    "body": "Some of the Bitcoin outflows from exchanges are going to individual users’ storage wallets, but ETFs and institutions are accumulating coins too.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55535271,
+    "published": 1765259338000,
+    "title": "Circle Wins ADGM License, Taps Former Visa Executive to Lead Middle East Push",
+    "body": "The approval positions Circle to offer regulated payment services in Abu Dhabi as the UAE accelerates its oversight of crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55534937,
+    "published": 1765258861000,
+    "title": "Zcash Floats Dynamic Fee Plan to Ensure Users Won’t Be Priced Out",
+    "body": "ZEC zoomed 12% amid the fee discussion, beating gains across all major tokens.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      }
+    ]
+  },
+  {
+    "id": 55535718,
+    "published": 1765260052000,
+    "title": "Bitcoin Active Addresses Slide As ETF Era Rewires Market Participation — Here’s Why",
+    "body": "Bitcoin’s on-chain activity has shown a sharp slowdown since spot Bitcoin exchange-traded funds (ETFs) launched. While institutional inflows into these products have accelerated, the number of active BTC addresses has declined. As Wall Street embraces BTC exposure, the network’s grassroots participation appears to be undergoing a significant transformation. In an X post, the CEO of SwanDesk, financial analyst Jacob King, pointed out that Bitcoin active addresses have been in a steady decline since the US spot BTC ETFs launched in January 2024, and the irony is obvious. Why Retail Participation Shows Signs Of Fatigue For years, BTC maximalists have pushed for Wall Street adoption, believing institutional involvement would unlock the next wave of mass usage. Instead, on-chain participation has dropped sharply as retail lost interest. Related Reading: US Fed Has Ended Quantitative Tightening, But Why Is The Bitcoin Price Still Below $100,000? King noted that these Bitcoiners have piled into the ETF for a quick, early FOMO bump, and then bailed, leaving behind a market where the asset is increasingly traded by proxy. According to King, ETF investing kills BTC’s core principles. While investors no longer hold or control their own assets as banks do, which is the very system BTC was designed to challenge, greed always beats ideology. Market watcher Crypto Seth has revealed that the net inflows into BlackRock and Fidelity’s spot BTC ETFs have been relatively subdued since October 10, when the largest liquidation events happened. Seth believes that this might turn into a momentum reversal soon, as the US stock market is at 1% below new highs despite retail sentiment remaining stuck in extreme fear. Seth also pointed out that the macro backdrop is shifting in BTC’s favor. This is because the Federal Reserve ended its Quantitative Tightening (QT) program on December 1, 2025, wrapping up a multi-year effort that shaved nearly $3 trillion from the balance sheet since 2022. Since the US Fed rate is still at 4.00%, more interest rate cuts are on the horizon, which is higher than both Europe and China. The BlackRock iShares BTC Trust (IBIT), which was launched in January 2024, is currently the firm’s most profitable exchange-traded fund (ETF) based on annual fee revenue, despite being less than two years old. Unlocking Bitcoin Without Compromising Its Core Principles Bitcoin is seeing key initiatives that improve its ecosystem. Every market cycle that has promise to unlock Bitcoin for decentralized finance (DeFi), RioSwap is one of the few products built on infrastructure that was capable of unlocking it in a truly decentralized way. Related Reading: Bitcoin Aims Higher as Bulls Regain Strength and Push for Resistance Break According to Mintlayer, this was powered by Mintlayer’s native HTLC architecture, as RioSwap introduces a Decentralized Exchange (DEX) that allows BTC to move directly into decentralized markets without wrapping, unbridging, and is fully in the user’s control. With the RioSwap testnet now live, Mintlayer sees this as the start of a new liquidity phase for BTC where the asset will become an active participant in the decentralized market on its own terms. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|BlackRock iShares BTC Trust|btc|BTC news|btc price|btcusd|BTCUSDT|Crypto Seth|decentralized exchange|decentralized finance|DeFi|DEX|ETFs|exchange traded funds|FOMO|IBIT|Jacob King|Mintlayer|QT|quantitative tightening|RioSwap|SwanDesk",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
