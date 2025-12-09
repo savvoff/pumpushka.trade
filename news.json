@@ -783,123 +783,6 @@
     ]
   },
   {
-    "id": 55489154,
-    "published": 1765164993000,
-    "title": "‘Grow up... We debank Democrats, we debank Republicans:’ JPMorgan CEO",
-    "body": "It was only last month when Jack Mallers, CEO of Bitcoin payments company Strike, accused JPMorgan of closing his personal accounts without explanation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55488785,
-    "published": 1765164592000,
-    "title": "Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data",
-    "body": "Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55488703,
-    "published": 1765164532000,
-    "title": "Ethereum Price Targets Upside Break as Buyers Tighten Grip on Trend",
-    "body": "Ethereum price started a fresh increase above $3,00 0. ETH is now consolidating gains and might aim for more gains above $3,150. Ethereum started a fresh increase above the $3,000 and $3,020 levels. The price is trading above $3,050 and the 100-hourly Simple Moving Average. There is a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,150 zone. Ethereum Price Eyes Additional Gains Ethereum price managed to stay above $2,920 and started a fresh increase, like Bitcoin . ETH price gained strength for a move above the $3,000 and $3,020 resistance levels. Recently, the price saw a downside correction from the $3,240 zone. There was a drop below the 50% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. However, the bulls remained active near the $2,920 zone. Ethereum price is now trading above $3,050 and the 100-hourly Simple Moving Average. If there is another upward move, the price could face resistance near the $3,140 level. There is also a key bearish trend line forming with resistance at $3,140 on the hourly chart of ETH/USD. The next key resistance is near the $3,200 level. The first major resistance is near the $3,250 level. A clear move above the $3,250 resistance might send the price toward the $3,320 resistance. An upside break above the $3,320 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,450 resistance zone or even $3,500 in the near term. Another Downside Correction In ETH? If Ethereum fails to clear the $3,140 resistance, it could start a fresh decline. Initial support on the downside is near the $3,050 level. The first major support sits near the $3,000 zone. A clear move below the $3,000 support might push the price toward the $2,950 support. Any more losses might send the price toward the $2,920 region and the 61.8% Fib retracement level of the upward wave from the $2,718 swing low to the $3,240 low. The next key support sits at $2,840 and $2,820. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $3,050 Major Resistance Level – $3,140",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55505571,
     "published": 1765201545000,
     "title": "ONDO Token Gains as SEC Ends Investigation Into RWA Tokenization Platform",
@@ -2585,6 +2468,82 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55531179,
+    "published": 1765252963000,
+    "title": "Polymarket trading figures are being ‘double-counted ’: Paradigm",
+    "body": "Paradigm researchers found that major analytics dashboards are double-counting Polymarket’s trading volume due to redundant blockchain events.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55531033,
+    "published": 1765252837000,
+    "title": "Banking Meets Bitcoin: French Banking Giant Offers Crypto To Millions",
+    "body": "Based on reports, France’s second-largest banking group has started letting customers trade crypto in its mobile apps. BPCE opened the service on Monday for selected users of Banque Populaire and Caisse d’Épargne. Related Reading: Bitcoin Adoption Is Just Getting Started — 200x Growth Possible, Tom Lee Says Around 2 million people in four regional banks can now buy and sell Bitcoin, Ethereum, Solana and USDC through the apps. Measured Limited Rollout The launch covers the Provence-Alpes-Côte-d’Azur branch of Caisse d’Épargne and the Île-de-France division of Banque Populaire, among others. BPCE has said it will watch early use closely. That controlled approach is meant to catch technical issues and fix the user flow before wider availability. If all goes to plan, the bank intends to extend the feature across its 25 remaining regional entities by 2026, reaching a retail base of roughly 12 million clients. 🔴 EXCLUSIVE @TheBigWhale_: BPCE now lets customers buy crypto assets. Starting this Monday, the French bank’s customers will be able to purchase BTC, ETH, SOL, and USDC: https://t.co/J2C4UnWi68@GroupeBPCE, one of Europe’s leading banks, is rolling out this service in a first… pic.twitter.com/3olRgVoot4 — Raphaël Bloch 🐳 (@Raph_Bloch) December 6, 2025 BPCE has set up a separate unit, Hexarq, to handle customer crypto accounts. Each user will have a dedicated in-app digital-asset account that is managed by Hexarq rather than being routed to outside exchanges or third-party wallets. The arrangement keeps custody within the bank’s ecosystem. It also comes with a monthly fee of €2.99 and a trading commission of 1.5% on transactions. Banks Face Fintech Pressure Reports have pointed to the rise of fintech rivals as a driving reason for the move. Companies such as Revolut, Deblock, Bitstack and Trade Republic built early crypto offerings and attracted many retail users. Traditional lenders now risk losing younger customers unless they match those services. Some banks in Europe already offer in-app trading: BBVA supports Bitcoin and Ethereum, Openbank under Santander lists five cryptocurrencies, and Raiffeisen in Vienna provides similar features through a tie-up with Bitpanda. BPCE’s entry follows this trend and could push other big lenders to act. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack The fees set by BPCE are higher than what many crypto-first platforms charge. Yet many consumers may accept that in exchange for having crypto tied directly to their bank accounts and day-to-day services. For many users, trust and convenience matter more than the lowest possible fee. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|banking|bitcoin|BPCE|crypto|digital currency|ethereum|French bank",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
