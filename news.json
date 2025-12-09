@@ -1,52 +1,5 @@
 [
   {
-    "id": 55520792,
-    "published": 1765232896000,
-    "title": "CFTC to Pilot Tokenized Collateral in Derivatives Markets Starting With Bitcoin, Ethereum and USDC",
-    "body": "The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55523493,
     "published": 1765238450000,
     "title": "Smart Whales Align: Top Performers Go All-In On Ethereum Long Positions With Over $425M in Exposure",
@@ -3290,6 +3243,53 @@
         "ID": 13,
         "NAME": "BLOCKCHAIN",
         "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55570623,
+    "published": 1765321244000,
+    "title": "Ethereum Sees Largest Binance Inflow Since 2023 – Warning Sign?",
+    "body": "Ethereum has spent the past several days consolidating in a tight range between $3,000 and $3,200, signaling a moment of hesitation as the broader market struggles to find direction. Despite attempts to push higher, momentum has flattened, and uncertainty continues to dominate sentiment. Many analysts now warn that Ethereum may be entering a deeper bearish phase, pointing to weakening spot demand, fragile market structure, and fading optimism across major exchanges. Related Reading: Smart Whales Align: Top Performers Go All-In On Ethereum Long Positions With Over $425M in Exposure However, one on-chain development has captured the market’s attention. According to new data from CryptoQuant, December 5, 2025 saw a massive spike in Ethereum Exchange Netflow to Binance, marking one of the largest daily inflows in years. Such a surge typically raises questions about investor intentions: large inflows often signal that holders are moving ETH onto exchanges with the potential to sell, increasing the probability of short-term volatility or downside pressure. Yet the broader context matters. Ethereum’s price remains above key support, suggesting that the market is in a critical decision zone rather than a confirmed breakdown. This combination of consolidation, rising caution, and an unusually large exchange inflow sets the stage for what could become a pivotal moment for ETH as traders prepare for the next major move. Massive Netflow Surge Raises Caution for Ethereum According to data from CryptoOnchain shared on CryptoQuant, Ethereum experienced a striking shift in exchange activity on December 5, 2025. The netflow to Binance reached 162,084 ETH while the price hovered near $3,021, marking the largest daily positive netflow since May 2023. Such an influx is significant, not only because of its size but because of what it typically signals: a rise in the number of investors moving ETH from self-custody to exchanges. Historically, large positive netflows are interpreted as potentially bearish, suggesting that holders may be preparing to sell or rebalance. When deposits drastically outweigh withdrawals, it can precede heightened selling pressure, especially when the market is already in a fragile state. Inflows of this magnitude can act as a temporary supply shock; if even a portion of this ETH hits the order books as market sells, the price could face increased volatility or short-term corrective pressure. Because of this, traders should closely monitor how Binance absorbs this liquidity. Watching order book depth, open interest reactions, and subsequent netflow patterns will reveal whether this was a one-off spike or the beginning of a broader shift in investor behavior. In a market this delicate, even a single inflow event can set the tone for the days ahead. Related Reading: Ethereum Loses Momentum While OI Holds Steady: Binance Data Shows A Market Reset ETH Price Attempts Stabilization Ethereum’s daily chart shows a market in the process of stabilizing, but still weighed down by significant structural resistance. After dipping below $2,800 in late November, ETH has managed to reclaim the $3,100 region, where it has been consolidating for several days. This range-bound behavior signals a pause in the prior downtrend, yet the recovery lacks the strong momentum typically seen in bullish reversals. The 50-day and 100-day moving averages remain positioned above the current price, forming a clear zone of resistance between $3,250 and $3,500. These declining MAs highlight that the broader trend still favors sellers, and ETH will need a decisive breakout above them to shift market sentiment. The 200-day MA, sitting higher, reinforces the idea that Ethereum is still trading below its long-term trend structure. Related Reading: Bitcoin Must Break $97K To Restore Confidence Among Youngest Long-Term Holders – Details Volume has also weakened during this rebound, suggesting that buyers are hesitant to commit aggressively at current levels. The recent spike in exchange netflows adds another layer of caution, raising the possibility of increased near-term selling pressure. ETH is showing early signs of stabilization, but the path forward requires stronger conviction. Until price breaks above the cluster of moving averages, this recovery remains fragile and vulnerable to renewed downside pressure. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ethereum|Ethereum Analysis|Ethereum Binance|Ethereum exchange inflows|Ethereum Inflows|ethereum news|ethereum price|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
