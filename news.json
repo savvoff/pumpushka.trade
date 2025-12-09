@@ -1,121 +1,5 @@
 [
   {
-    "id": 55508567,
-    "published": 1765207443000,
-    "title": "Argentina’s Central Bank to Allow Banks to Provide Crypto Services in 2026",
-    "body": "Argentina’s Central Bank is reportedly drafting new rules to allow banks to offer customers digital asset-related services as early as April 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Argentina|Central Bank|Rules|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55509358,
-    "published": 1765208910000,
-    "title": "CoreWeave Stock Falls 8% on $2B Convertible Debt Offering",
-    "body": "Though remaining sharply higher than their IPO price, shares have struggled over the past six months, losing 50%.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Coreweave|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55509066,
-    "published": 1765207951000,
-    "title": "Wall Street Gets a 3-Second Head Start Over Retail in Event Bets",
-    "body": "In the fast-moving world of sports betting, a few seconds can mean everything. On Crypto.com’s prediction market, those seconds now belong to the pros.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55510192,
-    "published": 1765210169000,
-    "title": "Wall Street piles in: How Ripple’s quiet pivot led to a $40B valuation",
-    "body": "Ripple’s $500 million raise shows its post-SEC shift is working, as Wall Street piles in under a deal reportedly offering rare protections and guaranteed returns.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55510779,
     "published": 1765211410000,
     "title": "Here’s How High The Dogecoin Price Will Go Once The MACD Bullish Cross Happens",
@@ -153,70 +37,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55510506,
-    "published": 1765210828000,
-    "title": "Bitcoin gives up $90K at US open as two-week exchange outflows near 35K BTC",
-    "body": "Bitcoin failed to successfully retest the yearly open after US sell-side pressure reentered to start the week, keeping volatility firmly in control.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55510832,
-    "published": 1765208037000,
-    "title": "Digital Assets to Shift From Disruption to Integration in 2026, CoinShares Says",
-    "body": "'Hybrid finance' is taking hold as traditional institutions tokenize funds and deposits on public blockchains.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Tokenization|Stablecoins|ETFs|CoinShares|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -2651,6 +2471,240 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55556995,
+    "published": 1765294212000,
+    "title": "Bitcoin Treasury Company Twenty One Drops 25% in NYSE Debut, Trades Near PIPE Pricing of $10",
+    "body": "The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Jack Mallers|Bitcoin News|Tether|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55556625,
+    "published": 1765293103000,
+    "title": "Crypto’s Liquidity Engine Breaks Down With $5 Billion ETF Exodus",
+    "body": "Bitcoin is struggling to turn recent good news into a substantive rebound, highlighting the ongoing weakness and thin liquidity in digital asset markets that have played a role in keeping prices subdued.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55557540,
+    "published": 1765295344000,
+    "title": "Stripe-Backed Blockchain Tempo Starts Testnet; Kalshi, Mastercard, UBS Added as Partners",
+    "body": "Tempo, built by Stripe and Paradigm, has started testing payment-focused blockchain and has onboard a slew of institutional partners.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Stripe|Paradigm|Stablecoin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55557157,
+    "published": 1765294640000,
+    "title": "UK Political Parties Call for Investigation into Reform UK Crypto Donations",
+    "body": "The Liberal Democrats have raised concerns over conflicts of interest, after Nigel Farage namechecked Tether in a September interview.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55557898,
+    "published": 1765296019000,
+    "title": "Shiba Inu’s Volume Explosion: Leading Meme Coin Barrels Ahead In This Metric",
+    "body": "Shiba Inu has recorded a notable surge in spot trading activity on several exchanges over the last seven days. This provides a bullish outlook for the second-largest meme coin by market cap, which has been one of the underperformers in this market cycle. Shiba Inu Sees Surge In Spot Trading Activity CoinGlass data show a 154% surge in Shiba Inu USD spot trading volume on Kraken over the last seven days. There has also been a significant surge on other major exchanges, such as Binance, Bybit, OKX, and Gemini, during the same period. This indicates that spot buyers may be stepping in to defend the SHIB price at a critical support amid the broader crypto market decline. Related Reading: Will A Shiba Inu ETF Follow After Dogecoin? The Lone SHIB Filing Standing Against The Crowd Notably, Shiba Inu is one of the altcoins that are in the green over the last week, suggesting that the bulls may be in control at the moment. CoinMarketCap data shows that the second-largest meme coin by market cap is up almost 7% during this period despite Bitcoin’s choppy price action. Meanwhile, further data from CoinGlass also shows that most leverage traders are currently betting on an increase in the Shiba Inu price, with the long/short ratio currently above 1. However, it is worth noting that derivatives volume is down by over 10% and open interest is down by almost 4%, which presents a bearish outlook for the meme coin. Another positive for Shiba Inu, besides the surge in spot trading volume, is that the Fed is likely to cut interest rates again at this week’s FOMC meeting. This could inject more liquidity into the crypto market, with altcoins like SHIB benefiting from it. Meanwhile, Bitcoin is currently looking to hold above the psychological $90,000 level, which could pave the way for higher prices for SHIB given their positive correlation. Community Gives Update On SHIB’s Progress In an X post, Shiba Inu community member Shibizens gave an update on SHIB’s progress over the last few days. The community member noted that over 45 billion SHIB have been moved off exchanges, indicating that holders are accumulating. Shibizens also alluded to a $35 million whale transfer into a private wallet, suggesting that SHIB whales are also bullish. Related Reading: Will The Shiba Inu Price Hit A New All-Time High In 2025? Machine Learning Algorithm Answers Furthermore, Coinbase is set to launch Shiba Inu futures on December 12 for institutional and retail investors, which could boost the meme coin’s adoption. Meanwhile, NYSE Arca has filed the 19b-4 for T. Rowe’s Shiba Inu ETF, bringing the ETF one step closer to launch. Shibuzens also highlighted upgrades on the Shibarium network, which could provide a major boost for SHIB. This includes the RPC upgrade, while a full privacy upgrade has been confirmed using encrypted tech. There are plans to roll this out by next year. At the time of writing, the Shiba Inu price is trading at around $0.000008498, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Peakpx, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Shiba Inu|Binance|bybit|coinbase|Coinglass|CoinMarketCap|FOMC|Gemini|NYSE ARCA|OKX|RPC|SHIB|SHIB news|SHIB price|Shiba Inu ETF|Shiba Inu news|Shiba Inu Price|Shibarium|SHIBUSD|SHIBUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 44,
+        "NAME": "SHIB",
+        "CATEGORY": "SHIB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55557777,
+    "published": 1765295740000,
+    "title": "PNC Bank Enables Bitcoin Trading for Customers via Coinbase",
+    "body": "PNC Bank debuted a service allowing some customers to trade Bitcoin on its banking platform, broadening access through Coinbase.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
