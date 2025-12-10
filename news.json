@@ -1,75 +1,5 @@
 [
   {
-    "id": 55551730,
-    "published": 1765285255000,
-    "title": "Dogecoin Price Will Rally Before It Crashes, But What’s The Target?",
-    "body": "The Dogecoin price is already struggling amid the bearish pressure that has dominated the crypto market recently. After the initial fall to $0.2, DOGE bulls had attempted to hold support, pushing for a rebound. However, with the bearish headwinds of the last quarter of the year, the Dogecoin price has since succumbed and is now trading below the $0.15 support level, and continues to struggle. Despite the already troubling price performance, crypto analyst Weslad says that the worst might be yet to come. This is due to a corrective structure that has appeared on the meme coin’s price chart, and the result of this has been a bearish flag. As these technical developments unfold, the crypto analyst has warned investors of what to expect, outlining why the Dogecoin price could see a major crash while attempting to recover. Dogecoin Price To Rise And Then Fall The analysis, which was shared on the TradingView website, points to the bearish flag as a precursor of what is to come. Weslad explains that the bearish flag had triggered the Dogecoin price breakdown that had led to the downward leg. As a result, the sentiment has skewed negative so far, suggesting that there could be more declines to come. Related Reading: Bitcoin RSI Shows Shocking Similarities To 2012-2015, But What Happened Last Time? However, the crypto analyst points out that the Dogecoin price is still well below its breakout zone. Given this, it is likely that there could be an initial relief rally for the meme coin. If this rally plays out, then there would be an initial decline below $0.12 to form support above $0.118. Once this support is established, then the resulting bounce is expected to push the Dogecoin price to $0.2. Once this move is completed, though, the analyst predicts an even deeper crash on the horizon. From the $0.2 mark, Weslad’s chart shows that the Dogecoin price could decline another 70%, falling toward $0.05 in the process, which would mean a return to 2-year lows. Related Reading: Confirming The Bitcoin Price Direction: Analyst Reveals What You Should Look Out For “The immediate plan is to monitor a pullback toward the minimum bearish flag targets around the $0.12 region, which aligns with the former structure support and breakout zone,” the crypto analyst said. This bottom area serves as a “supply on the retest” and could trigger the next decline. For now, the analyst expects that the Dogecoin price will continue on its bearish path. This is dependent on the broader market performance, and so far, a breakdown looks to be more likely. Featured image from Dall.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55552726,
-    "published": 1765286789000,
-    "title": "Crypto nears its ‘Netscape moment’ as industry approaches inflection point",
-    "body": "Crypto is at a mainstream tipping point due to the emergence of regulated investment products, according to Matt Huang of Paradigm.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55553395,
     "published": 1765287900000,
     "title": "IBM’s $11B Confluent Deal Rewrites The Future Of AI And Blockchain",
@@ -2960,6 +2890,309 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55599404,
+    "published": 1765371600000,
+    "title": "Blockstream Connects Lightning and Liquid for Faster, Private Bitcoin Payments",
+    "body": "The new update enables trustless swaps between Lightning and Liquid, removing technical hurdles for fast, self-custodial BTC spending, the company said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Blockstream|Lightning Network|Liquid|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55599334,
+    "published": 1765371600000,
+    "title": "Superstate Rolls Out Direct Stock Issuance for Public Companies on Ethereum, Solana",
+    "body": "SEC-registered firms can sell shares directly on blockchain rails to investors, raising funds in stablecoins.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tokenization|Superstate|Robert Leshner|Ethereum News|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55599336,
+    "published": 1765371600000,
+    "title": "TenX Protocols to Start Trading on TSX Venture Exchange After Raising $24M in 2025",
+    "body": "The company said it plans to use the proceeds to buy tokens and stake them across networks including Solana, Sui and Sei.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Fundraising|Borderless Capital|Exclusive|Canada|Staking|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55599449,
+    "published": 1765371600000,
+    "title": "Superstate brings stablecoin-settled stock offerings to Ethereum and Solana",
+    "body": "Superstate’s Direct Issuance Programs let SEC-registered companies raise capital on Ethereum and Solana, taking stablecoin payments and issuing tokenized shares instantly.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55600444,
+    "published": 1765373705000,
+    "title": "Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report",
+    "body": "Stablecoins rank among the top catalysts for Web3 gaming growth, signaling a shift toward fundamentals, monetization and payment infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55600426,
+    "published": 1765373598000,
+    "title": "Morning Minute: JPMorgan Says No Crypto Winter",
+    "body": "The macro forces at play will outweigh the recent sell-off drivers, according to the major bank.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55600286,
+    "published": 1765373400000,
+    "title": "Helium Expands to Brazil With Mambo WiFi in DePIN Breakthrough",
+    "body": "The partnership represents one of Helium’s most significant international expansions so far.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|DePIN|Helium|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55600330,
+    "published": 1765373386000,
+    "title": "Ethereum rising to $3.3K proves the bottom is in: Is a 100% ETH rally next?",
+    "body": "Ethereum gained between 97% and 147% after ETH price flipped the 50-week MA into support, and a similar setup is playing out this week.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55600209,
+    "published": 1765372987000,
+    "title": "Japan plans major shift as crypto moves from payments to securities law",
+    "body": "Japan plans to move crypto regulation from payments law to securities rules, tightening disclosures for IEOs and cracking down on unregistered platforms.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
