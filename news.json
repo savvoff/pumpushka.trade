@@ -1,127 +1,5 @@
 [
   {
-    "id": 55568477,
-    "published": 1765315813000,
-    "title": "Real Finance secures $29M to build institutional rails for tokenized assets",
-    "body": "Real Finance’s raise comes as tokenization accelerates and institutions push deeper into RWAs, including fast-growing money market funds.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55569216,
-    "published": 1765317725000,
-    "title": "Stripe's Tempo Payments Blockchain Opens to Public With Mastercard, UBS Onboard",
-    "body": "Tempo, the payments-focused blockchain from Stripe and Paradigm, is now open to the public following its global testnet launch.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
-    "id": 55569143,
-    "published": 1765317640000,
-    "title": "Bitcoin Addresses Holding Over 0.1 BTC Haven’t Grown in Two Years, What Does This Mean?",
-    "body": "Since Bitcoin’s launch, the number of addresses holding more than 0.1 BTC has climbed steadily through every market cycle, until now. Data shows that addresses in this cohort haven’t grown at all over the past two years, breaking a trend that held for more than a decade. The stagnation indicates a change in how smaller and mid-sized investors engage with Bitcoin, even as broader institutional activity in the market continues to rise. Small Holder Participation Reaches A Standstill The 0.1 BTC threshold has historically represented an important milestone for retail holders, large enough to signal commitment but small enough to remain widely attainable. For more than a decade, wallets crossing that line grew year after year, even during drawdowns when long-term buyers were accumulating quietly. Related Reading: The $13.5 Billion Liquidity Injection That Could Send Bitcoin And Crypto Prices Flying That pattern is no longer intact. The number of addresses with more than 0.1 BTC has flattened since 2023 and is showing no signs of returning to its previous trajectory. Particularly, data from the on-chain analytics platform Santiment shows that the number of these addresses has stalled at around 4.44 million for the past year. This suggests that fewer new participants are choosing to build self-custodied Bitcoin positions at this level. The stagnation becomes more notable considering Bitcoin’s rising mainstream visibility and repeated pushes toward new all-time highs this year. In earlier cycles, such conditions have led to a surge in retail accumulation. This time, the address count has stayed frozen, and this means retail addresses holding Bitcoin might actually be plateauing. How Bitcoin’s Holder Base Is Changing Although on-chain data points to a slowdown in the growth of overall Bitcoin addresses holding more than 0.1 BTC, it doesn’t necessarily signal a decline in overall adoption. For many market participants, Bitcoin exposure now happens entirely off-chain. Related Reading: Confirming The Bitcoin Price Direction: Analyst Reveals What You Should Look Out For Larger investor cohorts, from high-net-worth individuals to funds and corporate entities, are buying huge amounts of Bitcoin. For instance, Santiment data shows that large Bitcoin holders controlling more than 100 BTC have increased their balances throughout 2024 and 2025, even as smaller address cohorts have stalled. At the same time, more investors are choosing to access Bitcoin through custodial avenues instead of managing their own wallets. Spot Bitcoin ETFs have become one of the most important gateways for new BTC exposure. In the US alone, Spot Bitcoin ETFs now control almost $120 billion worth of Bitcoin, with BlackRock’s IBIT consistently recording the strongest demand. Together, these developments point to a new phase in Bitcoin’s development. What was once dominated by individual self-custodied users is now increasingly shaped by institutions, ETFs, funds, and professionally managed capital. Therefore, the numbers from on-chain wallet metrics reflect a smaller portion of the actual user base. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|BlackRock’s IBIT|btc|BTC news|btc price|btcusd|BTCUSDT|Santiment|spot Bitcoin ETFs",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55569323,
-    "published": 1765317776000,
-    "title": "Blockchain trial on Canton Network tests collateral reuse with tokenized US Treasurys",
-    "body": "The latest trial explored multiple stablecoins and showed tokenized US Treasurys can be reused instantly across counterparties on shared infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
     "id": 55570623,
     "published": 1765321244000,
     "title": "Ethereum Sees Largest Binance Inflow Since 2023 – Warning Sign?",
@@ -2945,6 +2823,204 @@
         "ID": 209,
         "NAME": "DIGITAL ASSET TREASURY",
         "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55615734,
+    "published": 1765402208000,
+    "title": "A Startup Is Trying to Take the Twitter Name From Elon Musk by Force—And It Might Work",
+    "body": "Operation Bluebird, led by Twitter's former trademark lawyer, filed to cancel X Corp's Twitter trademarks after Musk abandoned the brand. Will Musk spend millions defending a name he deliberately killed?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55615556,
+    "published": 1765401799000,
+    "title": "U.S. Banking Regulator Warns Wall Street on 'Debanking,' Claims Practices 'Unlawful'",
+    "body": "The Office of the Comptroller of the Currency probed debanking of certain industries, including digital assets, and said it'll pursue any repeat of such activity.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Office of the Comptroller of the Currency|Banking|Regulation|Donald Trump|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55615551,
+    "published": 1765401798000,
+    "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
+    "body": "Falling sales and diminished Bitcoin gains pressured earnings, with the stock continuing to retrace its brief rally in March.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55616034,
+    "published": 1765402712000,
+    "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
+    "body": "The funding will support Surf’s next AI model aimed at delivering deeper onchain analysis and automating research for crypto companies and traders.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55616759,
+    "published": 1765404715000,
+    "title": "Crypto Debanking and Efforts to 'Weaponize Finance' Must End, Says Top US Banking Regulator",
+    "body": "Major U.S. banks denied services to crypto and other lawful businesses based on industry rather than risk, an OCC preliminary report finds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55616841,
+    "published": 1765404709000,
+    "title": "Fed slashes interest rates, but issues mixed forward guidance",
+    "body": "A lack of clarity on future interest rate cuts under Jerome Powell's leadership has placed a damper on a Bitcoin price rally, analysts say.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
