@@ -1,414 +1,5 @@
 [
   {
-    "id": 55548261,
-    "published": 1765279846000,
-    "title": "Crypto Markets Today: Bitcoin Slips Back Toward Danger Zone Ahead of Fed Decision",
-    "body": "Bitcoin surrendered gains from earlier in the week, fell back toward $90,000 as traders braced for Wednesday’s Federal Reserve rate decision.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55548215,
-    "published": 1765279727000,
-    "title": "Polygon deploys Madhugiri hard fork, aims for 33% throughput boost",
-    "body": "Polygon’s hard fork cuts consensus time to one second, supports Fusaka EIPs, and lays the groundwork for stablecoin and RWA-focused scaling.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 38,
-        "NAME": "MATIC",
-        "CATEGORY": "MATIC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55548789,
-    "published": 1765280613000,
-    "title": "‘Elite’ traders hunt dopamine-seeking retail on prediction markets: 10x Research",
-    "body": "Rising retail participation incentivizes data-driven, “elite” traders to use “information asymmetry” and spreads caused by casual investors seeking a quick buck, 10x said.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      }
-    ]
-  },
-  {
-    "id": 55549509,
-    "published": 1765281662000,
-    "title": "VeChain Unveils New 'Hayabusa' Consensus and Tokenomics Upgrade",
-    "body": "With more than 5.5 million app users in the last year, VeChain is focusing on tangible use cases for crypto that “you can hold in your hands.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|vechain|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 101,
-        "NAME": "VET",
-        "CATEGORY": "VET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55549399,
-    "published": 1765281600000,
-    "title": "Tassat Wins U.S. Patent for 'Yield-in-Transit' Onchain Settlement Tech",
-    "body": "The IP covers intraday, block-by-block interest accrual during 24/7 settlement and underpins Lynq, an institutional network Tassat co-launched in July.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Tassat|Blockchain Adoption|Settlements|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55550196,
-    "published": 1765282792000,
-    "title": "OCC Chief: Banks Blocking Crypto Custody Is 'Recipe for Irrelevance'",
-    "body": "Comptroller of the Currency Jonathan Gould warned that restricting national trust banks from digital assets would stifle innovation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55550010,
-    "published": 1765282500000,
-    "title": "Bitcoin's ‘bear flag pattern’ targets $67K as BTC spot demand slumps",
-    "body": "The absence of new buyers and weakening ETF demand are factors likely to keep the Bitcoin price pinned below $93,000 as a bear flag targets $67,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55551355,
-    "published": 1765284616000,
-    "title": "Forget Interest Rates—Traders Are Quietly Braced For A $6.5 Trillion Fed Surprise That Could Blow Up Stocks, Crypto And The Bitcoin Price",
-    "body": "Traders are looking past the Fed’s December interest rate decision to whether its going to start growing its $6.5 trillion balance sheet and blow up stocks, crypto and the bitcoin price...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55551348,
-    "published": 1765284528000,
-    "title": "Dogecoin ETFs lose their bite as Bitcoin, Ethereum big dogs lead the pack",
-    "body": "The total value traded for spot DOGE ETFs reached its lowest point since launch, signaling a fading of the early hype as liquidity and flows lag well behind those of major crypto ETFs.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55551165,
-    "published": 1765284322000,
-    "title": "Standard Chartered Slashes 2025 Bitcoin Forecast to $100K",
-    "body": "The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55550913,
-    "published": 1765283966000,
-    "title": "IREN Raises $2.3B, Repurchases Debt in Balance Sheet Overhaul",
-    "body": "The bitcoin miner extended maturities, reduced coupon costs and strengthened its capital structure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Iren|Bitcoin News|Cloud Mining|Bonds|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55551730,
     "published": 1765285255000,
     "title": "Dogecoin Price Will Rally Before It Crashes, But What’s The Target?",
@@ -475,47 +66,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55552718,
-    "published": 1765284300000,
-    "title": "PNC Launches Bitcoin Trading With Coinbase for Wealthy Clients",
-    "body": "PNC Financial Services Group Inc.’s high-net-worth customers can now trade Bitcoin directly through their investment accounts, fulfilling an initial goal of the Pittsburgh-based lender’s partnership with Coinbase Global Inc. announced in July.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:COIN|NYS:PNC",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -3252,6 +2802,164 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55596197,
+    "published": 1765366237000,
+    "title": "Crypto Markets Today: Fed Rate-Cut Hopes Lift BTC, ETH as Traders Brace for Volatility",
+    "body": "Crypto markets are firm ahead of Wednesday’s Federal Reserve decision, with a 25 basis-point interest-rate cut already priced in.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55596565,
+    "published": 1765366871000,
+    "title": "Metaplanet Stock Jumps 12% as mNAV Climbs to 1.17, Highest Level Since Crypto Crisis",
+    "body": "Bitcoin rebound and equity momentum push Metaplanet valuation multiple to 1.17 to highest level since October.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|MetaPlanet|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55597277,
+    "published": 1765368000000,
+    "title": "Pineapple Financial Starts Migrating its $10B Mortgage Portfolio Onchain via Injective",
+    "body": "The Canadian fintech has already put data tied to about $412 million in funded mortgages onchain, and aims to migrate more than 29,000 loans over time.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tokenization|Mortgages|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55598292,
+    "published": 1765369820000,
+    "title": "XRP Breakout Enters Critical Phase As Chart Targets $9–$13 Zone",
+    "body": "Crypto analyst Cryptollica published a new XRP/USD 2-week chart on December 8 via TradingView, arguing that the altcoin may be replaying the same structural pattern that preceded its explosive 2017 rally. With current price action pivoting around the key $1.95 level and technical targets projected as high as $9–$13. What Happens If XRP Repeats The 2017 Fractal? The analysis uses a long-range log chart from Binance, where the latest candle in the screenshot shows XRP trading around $2.0892. In this timeframe, the analyst divides XRP’s history into mirrored cycles: 2014–2017 on the left and 2021–2025 on the right, each broken into labeled segments “Part 1,” “Part 2” and “Part 3.” Related Reading: XRP Selloff: Whales Shed Coins Worth $1 Billion In A Week According to Cryptollica, “the cycle experienced by XRP between 2014 and 2017 is almost an identical copy of the current cycle spanning 2021 to 2025.” In both cases, Part 1 is described as an accumulation phase, with XRP suppressed below a dashed blue resistance band for an extended period while forming higher lows along a rising dotted trendline. The current Part 1, roughly 2022–2024, is said to have lasted substantially longer than in the earlier cycle. The analyst cites the rule that “the bigger the base, the higher in space,” arguing that this extended sideways structure signals a large build-up of potential energy. Part 2 is defined as the breakout and retest of that blue resistance band. Once XRP closes decisively above this zone and consolidates there, the chart treats the area as a new support and as confirmation that “the official end of the downtrend and the start of a bull market” has been registered. Cryptollica suggests XRP is now at the final stage of, or has just completed, this breakout phase on the 2-week timeframe. The pivotal reference point for the entire setup is the $1.95 level, drawn in green on the chart. “The $1.95 level, marked in green, is of vital importance,” the analyst writes, emphasizing the classic principle that “once resistance is broken, it turns into support.” In this framework, XRP “currently holding above this level (performing a successful retest) is the most crucial confirmation point for the continuation of the uptrend.” Related Reading: Pundit Highlights The Condition That Will Trigger A 2,300% XRP Rally To $50 If that confirmation holds, the analysis moves to Part 3, labeled the “Parabolic Rise – Discovery Phase.” In 2017, this segment corresponded to a near-vertical advance that pushed XRP into its all-time high zone. Cryptollica argues that XRP now stands “right on the precipice of this ‘vertical lift-off’ in the current cycle,” illustrated by a steep yellow arrow on the logarithmic chart. The first major objective is the region around the prior all-time high at roughly $3.30–$3.84. If the 2017 fractal “plays out precisely,” the post projects an “implied target” between $9.00 and $13.00. The analyst tempers this with several cautions. The crypto market is far larger than in 2017, and a move to $10+ would imply a “colossal market capitalization,” making a repeat of the exact 2017 multiple “mathematically more challenging,” even if “logic often takes a backseat in crypto mania.” The scenario also assumes supportive fundamentals, including the resolution of regulatory overhangs, potential XRP ETF developments and Ripple’s stablecoin strategy. Parabolic phases, Cryptollica warns, are typically accompanied by “sudden drops of 30–40%,” making them “the most dangerous territory for leveraged trading.” The analyst characterizes the overall outlook as “extremely positive (bullish)” as long as the $1.95 support holds, concluding that XRP is at the moment of “breaking its chains” and that, if broader market conditions remain constructive, “double-digit targets ($10+) for XRP are technically on the table.” At press time, XRP traded at $2.07. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP Price|XRP Price Analysis|XRP Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
