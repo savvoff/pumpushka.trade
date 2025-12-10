@@ -1,175 +1,5 @@
 [
   {
-    "id": 55564220,
-    "published": 1765307380000,
-    "title": "Senator Booker: Low Odds for Crypto Bill Without Democrats Appointed at CFTC, SEC",
-    "body": "The Senate Democrat, who is leading negotiations on a crypto market structure bill, said promises from the White House on the escalating issue would not be enough.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55564772,
-    "published": 1765308467000,
-    "title": "Dogecoin Surges as Ether Zooms 8%, Sparking Bullish Reversal For Memecoins",
-    "body": "The breakout now sets up a clean continuation zone—provided bulls defend the mid-range pivot they just reclaimed.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Dogecoin|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55565767,
-    "published": 1765310427000,
-    "title": "Bitcoin Sees Largest Annual Exchange Drop: Over 400,000 Coins Gone",
-    "body": "Bitcoin’s on-exchange supply has dropped sharply, and traders are taking note. According to Santiment, more than 403,000 BTC have left exchanges since December 7, 2024 — roughly 2% of Bitcoin’s total supply. Related Reading: Banking Meets Bitcoin: French Banking Giant Offers Crypto To Millions That shift, measured against an on-exchange balance of about 2.11 million BTC in late November, is being seen as a sign that fewer coins are poised for quick sale. Exchange Balances Shrink Santiment said lower exchange balances have historically been linked with fewer sudden sell-offs, an observation many market watchers find encouraging. The math is straightforward: when a big chunk of supply sits outside exchanges, there is less immediately available stock to meet selling pressure. 📊 As Bitcoin’s market value hovers around $90K, crypto’s top market cap continues to see its supply moving away from exchanges. Over the past year, there has been: 📉 A net total of -403.2K $BTC moving off exchanges 📉 A net reduction of -2.09% of $BTC‘s entire supply moving… pic.twitter.com/Y0JTC880Np — Santiment (@santimentfeed) December 8, 2025 Institutions Step In Based on reports from BitcoinTresuries.Net and others, exchange outflows are not only going to private cold wallets. ETFs and public firms are also accumulating. BitBo lists ETFs holding over 1.5 million BTC and public companies holding over 1 million. Combined, those holdings represent nearly 11% of the total Bitcoin supply. According to analysts, institutional vehicles have quietly absorbed a lot of coins, changing where Bitcoin sits and who can sell it. Supply Moves Matter This is more than bookkeeping. Coins locked in institutional or self-custodied vaults are not sold on a whim. That makes available supply tighter. At the same time, coins leaving exchanges can lead to sharper price moves when demand surges because the pool of sellable coins is smaller. Some of the effects are already visible on price charts; others may show up later if buying pressure picks up. Price Action And Macro Focus Bitcoin traded near $90,650 with a small rise of 0.28% in recent action. Year-to-date gains stand at 11%. The market swung from a daily low of $89,540 to a high of $92,290, showing active trading around current levels. Traders are watching a Federal Reserve meeting closely, and the outcome is expected to drive short-term volatility. Interest-rate cues often move broader markets, and crypto is no exception. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack Market Outlook And Risks Overall, the move off exchanges looks like a bullish backdrop because it reduces immediate selling liquidity. Still, that same scarcity can make prices more sensitive to changes in demand, which raises the possibility of sharper swings. Analysts will be watching whether ETFs and public firms continue to add to their holdings or start to slow down purchases. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|etf",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55565070,
-    "published": 1765309001000,
-    "title": "XRP Underperforms Market as Sudden Bitcoin Surge Forces $387M of Liquidations",
-    "body": "XRP's technical outlook remains uncertain, with support at $2.05 and resistance at $2.17, as traders watch for volume expansion",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55566601,
     "published": 1765312129000,
     "title": "JPMorgan Analysts Doubt Crypto Winter Is Coming, Despite 'Meaningful' Bitcoin Sell-Off",
@@ -2929,6 +2759,210 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55612044,
+    "published": 1765394436000,
+    "title": "Paxful Pleads Guilty to Aiding Crime, Ignoring AML Laws",
+    "body": "The DOJ said the firm knowingly facilitated illicit trades tied to sex work, sanctions evasion, and fraud, earning millions in fees while ignoring U.S. law.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Paxful|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55612932,
+    "published": 1765395663000,
+    "title": "Michael Saylor Slams MSCI Plan to Bar Crypto-Heavy Firms From Indexes",
+    "body": "Strategy Inc. Executive Chairman Michael Saylor publicly slammed a proposal to bar the Bitcoin-buying firm from US indexes as “misguided” and “harmful.”",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "NMS:MSTR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55613223,
+    "published": 1765396800000,
+    "title": "Why Is The Bitcoin Price Down Again? Analyst Calls Out Trading Desk For Triggering Crashes",
+    "body": "Crypto analyst Bull Theory has explained why the Bitcoin price has been crashing recently. The analyst pointed out that Wall Street traders were responsible for the price declines, indicating that these trading desks were manipulating the market for their own benefit. Analyst Explains Why The Bitcoin Price Is Crashing In an X post, Bull Theory blamed Jane Street for the Bitcoin price’s constant crash at 10 a.m. ET when the U.S. market opens. The analyst pointed out that BTC erased 16 hours of gains in just 20 minutes after the U.S. market opened. This has notably been happening since early November, when the flagship crypto fell below $100,000. Meanwhile, a similar price action also played out in the second and third quarters of this year. Related Reading: Confirming The Bitcoin Price Direction: Analyst Reveals What You Should Look Out For Bull Theory noted that another analyst, Zerohedge, has claimed that Jane Street is most likely the entity responsible for this Bitcoin price crash. The analyst stated that the chart shows a pattern that is too consistent to ignore, with a clean wipeout within an hour of the market opening, followed by a slow recovery. He added that this is classic high-frequency execution and that it fits Jane Street’s profile. Bull Theory stated that Jane Street is one of the largest high-frequency trading firms in the world and that they have the speed and liquidity to move markets for a few minutes. The analyst claimed that their behavior is simple: dump BTC at the market open, push the Bitcoin price into liquidity pockets, and then re-enter at a lower price. By doing this, the analyst claimed that Jane Street has accumulated billions in BTC. The trading firm is said to hold $2.5 billion worth of BlackRock’s Bitcoin ETF, which is its 5th-largest position. Bull Theory added that this means most of the dump in the Bitcoin price isn’t due to macro weakness but manipulation by this entity. He expects that BTC will continue its upward momentum once these big players are done buying. Bitcoin At Risk Of A Decline Post-FOMC Crypto analyst Ali Martinez indicated that the Bitcoin price was at risk of a significant decline following today’s FOMC meeting. He pointed out that BTC has consistently reacted negatively to FOMC meetings, with six out of seven meetings this year leading to corrections for the flagship crypto. Related Reading: Bitcoin RSI Shows Shocking Similarities To 2012-2015, But What Happened Last Time? The Bitcoin price had rallied to as high as $94,500 yesterday in anticipation of a third rate cut this year from the Fed. According to CME FedWatch, there is currently a 90% chance that the Fed will lower rates by 25 basis points (bps). A CryptoQuant report noted how these rate cuts have turned out to be a ‘sell the news’ event on the two occasions the Fed lowered rates this year, with the probability of this price action playing out again. At the time of writing, the Bitcoin price is trading at around $92,600, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Ali Martinez|bitcoin|Bitcoin news|bitcoin price|BlackRock’s Bitcoin ETF|btc|BTC news|btc price|btcusd|BTCUSDT|Bull Theory|CME FedWatch|CoinMarketCap|cryptoquant|FOMC Meeting|Jane Street|ZeroHedge",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55613220,
+    "published": 1765396800000,
+    "title": "A16z Crypto to Open Seoul Office, Hire Sungmo Park to Lead Asia Efforts",
+    "body": "Andreessen Horovitz's crypto venture capital unit pointed to high levels of crypto ownership in South Korea and Singapore, and growing onchain activity in Japan.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Seoul|A16z crypto|A16z|Asia|Venture Capital|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55612945,
+    "published": 1765396210000,
+    "title": "Consumer Groups Join Unions Trying to Derail U.S. Crypto Market Structure Bill",
+    "body": "Political progressives have joined forces to oppose current versions of the industry-backed legislative effort in the Senate.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Consumer Protection|Politics|crypto legislation|U.S. Senate|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55613356,
+    "published": 1765397214000,
+    "title": "Bitcoin Outlook Post Fed’s 0.25% Rate Cut: Historical Patterns And Predictions",
+    "body": "In a move that could signal a bullish shift for Bitcoin (BTC) and the broader cryptocurrency market, the Federal Reserve (Fed) announced a 25 basis points (bps) interest rate cut, bringing the new rate range to 3.5% to 3.75%. Bitcoin Poised To Surge Toward $100,000? Kevin Hassett, the White House economic adviser and a leading candidate to become the next Fed chair, commented to the Wall Street Journal CEO Council that there is “plenty of room” for additional interest rate cuts. He stated, “If the data suggests that we could do it, then — like right now, I think there’s plenty of room to do it.” Hassett, who is President Donald Trump’s preferred choice for the Fed chair position after Jerome Powell’s tenure concludes, has been critical of Powell for being “too late” in lowering rates. Related Reading: Crypto Market Structure Talks: Senator Lummis Addresses Latest Legislation Plans While the last rate cut in October had minimal impact on the Bitcoin price, analyst Michael van de Poppe believes that the current rate cut could significantly benefit the cryptocurrency. He characterized it as a “great move” for Bitcoin and noted that a breakout above $92,000 might be indicative of future bullish momentum. Van de Poppe expressed optimism about Bitcoin’s ability to maintain the support level between $91,500 and $92,000, suggesting that if it does, there could be a pathway for Bitcoin to approach the $100,000 mark. Can BTC Avoid Historical 10% Decline? Market expert Ash Crypto pointed out that historically, each of the last four times the Fed slashed rates by 25 bps, Bitcoin experienced a 5% to 10% decline shortly thereafter. Despite this pattern, Ash noted that the current market setup differs from previous scenarios, suggesting that different dynamics could be at play. Related Reading: Ethereum Price Climbs Toward $3,300 For The First Time Since November: What’s Driving The Surge? Several positive factors underpinning this optimism include the conclusion of quantitative tightening (QT) after a three-year period. Should Powell hint at the possibility of quantitative easing (QE) in his forthcoming remarks, it could spur a further bullish trend in the market. Additionally, with this being the third rate cut, Ash asserted that there is potential for increased liquidity to flow back into the markets, which historically benefits risk assets like Bitcoin. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Breaking News Ticker|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency|fed|Fed Bitcoin|fed interest rate|Fed rate cuts",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
