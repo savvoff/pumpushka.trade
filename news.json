@@ -1,98 +1,5 @@
 [
   {
-    "id": 55526657,
-    "published": 1765245485000,
-    "title": "OCC boss says ‘no justification’ to judge banks and crypto differently",
-    "body": "Office of the Comptroller of the Currency’s Jonathan Gould says crypto companies should have a path to supervision in the banking system, which can evolve to embrace blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55526594,
-    "published": 1765245437000,
-    "title": "HashKey Files for Hong Kong IPO, Aims to Be City’s First Listed Crypto Exchange",
-    "body": "Hashkey's filing shows its push to anchor institutional crypto infrastructure in Hong Kong as the city bolsters its digital assets oversight.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55527272,
-    "published": 1765246873000,
-    "title": "ChatGPT Helps Expose a $1 Million Crypto 'Pig-Butchering' Scam",
-    "body": "An online romance led a Bay Area woman to drain her retirement accounts, only for an AI assistant to later warn her it was a scam.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55531179,
     "published": 1765252963000,
     "title": "Polymarket trading figures are being ‘double-counted ’: Paradigm",
@@ -3307,6 +3214,176 @@
         "ID": 13,
         "NAME": "BLOCKCHAIN",
         "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55575373,
+    "published": 1765332046000,
+    "title": "Institutions Scoop Up 9,000 Ether, Fueling Bullish Signals",
+    "body": "Ethereum saw a flurry of big moves that traders say could matter for its next price swing. In just a few hours, major accounts pulled large sums off an exchange and big wallets opened sizable margin longs. Market watchers are parsing those moves for clues. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack Institutions Shift Big Stakes According to Arkham Intelligence, Amber Group and Metalapha pulled out 9,000 Ether from Binance in a short span, a haul worth more than $28 million at current prices. Based on reports, institutional flows have been heavy for months — nearly 4 million ETH has been accumulated by institutions over five months. Those kinds of transfers are often linked to custody setups or long-term holdings rather than quick trades. Whales Add Margin Bets Several large wallets added roughly $426 million in margin long exposure. Wallets named 1011short and Anti-CZ are among the accounts that expanded long bets. That kind of activity raises the chance of sharper moves in either direction: if prices rise, longs can feed a rapid upswing; if a pullback hits, forced selling could amplify losses. Market structure is tighter now than it was several months ago. 🚨 INSTITUTIONS ARE ACCUMULATING $ETH ~ QUIETLY. In the last few hours: • Amber Group withdrew 6,000 ETH ($18.8M) from Binance • Metalapha withdrew 3,000 ETH ($9.4M) That’s 9,000 ETH pulled off exchanges in a single morning. This is the same pattern we’ve seen for weeks:… pic.twitter.com/MBgyXoPfJz — BMNR Bullz (@BMNRBullz) December 8, 2025 Available Supply Shrinks On-chain data shows only 8.7% of ETH is currently held on exchanges. More than 28 million ETH is locked up in staking, custody, and what reports call long-term storage. Staking inflows remain high, with over 40,000 ETH added per day on average. Less supply on exchanges can lower immediate selling pressure, making price swings more dependent on fresh buy orders. Price Range And Key Levels Ethereum has gained 2.5% in the last 24 hours and is trading near $3,050. According to an analyst’s chart, ETH has been moving inside a tight range between $3,050 and $3,200, with $3,100 acting as a support line. Traders say a clear break above the $3,300–$3,400 band could open the way toward $3,700 to $3,800. Failure at that resistance would likely push prices back toward $3,000, where buyers may step in again. Related Reading: Banking Meets Bitcoin: French Banking Giant Offers Crypto To Millions Regulatory Step Could Matter In a related development, the US Commodity Futures Trading Commission has launched a pilot that allows Ethereum, USDC and Bitcoin to be used as collateral in regulated derivatives venues. Acting Chair Caroline Pham unveiled the plan in Washington and said the move will let regulators observe how tokenized collateral behaves in stressed conditions. The program sets rules for custody, segregation, and valuation tests inside a controlled environment. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|bitcoin|crypto|ETH|ethereum|ethusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55575164,
+    "published": 1765331524000,
+    "title": "Teachers Union Urges Senate to Scrap Crypto Market Structure Bill",
+    "body": "The union urged lawmakers to abandon the draft, arguing it would erode securities protections and heighten risks for pension holders.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55576310,
+    "published": 1765333798000,
+    "title": "Bitcoin Price Shows Fresh Strength—Could This Spark a Rapid Rally?",
+    "body": "Bitcoin price started a decent increase above $92,000. BTC is now consolidating gains and might aim for another increase if it clears $93,400. Bitcoin started a downside correction from the $94,500 zone. The price is trading above $92,000 and the 100 hourly Simple moving average. There is a bullish trend line forming with support at $91,500 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move up if it settles above the $93,400 zone. Bitcoin Price Holds Support Bitcoin price managed to stay above the $91,000 zone and started a fresh increase . BTC gained strength for a move above the $92,500 and $94,000 levels. However, the bears were active near $94,500. A high was formed at $94,583 and the price recently corrected some gains. There was a drop toward the 50% Fib retracement level of the upward move from the $89,545 swing low to the $94,583 high. However, the bulls were active near the $92,000 support. Bitcoin is now trading below $92,000 and the 100 hourly Simple moving average . Besides, there is a bullish trend line forming with support at $91,500 on the hourly chart of the BTC/USD pair. If the bulls remain in action, the price could attempt another increase. Immediate resistance is near the $92,800 level. The first key resistance is near the $93,200 level. The next resistance could be $94,000. A close above the $94,000 resistance might send the price further higher. In the stated case, the price could rise and test the $94,500 resistance. Any more gains might send the price toward the $95,500 level. The next barrier for the bulls could be $96,200 and $96,500. More Losses In BTC? If Bitcoin fails to rise above the $94,000 resistance zone, it could start another decline. Immediate support is near the $92,000 level. The first major support is near the $91,500 level and the 61.8% Fib retracement level of the upward move from the $89,545 swing low to the $94,583 high. The next support is now near the $90,750 zone. Any more losses might send the price toward the $90,000 support in the near term. The main support sits at $88,800, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now above the 50 level. Major Support Levels – $92,000, followed by $91,500. Major Resistance Levels – $93,200 and $94,000.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55578034,
+    "published": 1765336696000,
+    "title": "Ethereum Smashes Resistance—Bitcoin Left Behind as Momentum Flips Bullish",
+    "body": "Ethereum price started a fresh increase above $3,25 0. ETH is now consolidating gains and might aim for more gains if it clears the $3,380 resistance. Ethereum started a fresh increase above the $3,200 and $3,250 levels. The price is trading above $3,200 and the 100-hourly Simple Moving Average. There is a bullish trend line forming with support at $3,210 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,350 zone. Ethereum Price Rallies Over 8% Ethereum price managed to stay above $3,000 and started a fresh increase, beating Bitcoin . ETH price gained strength for a move above the $3,120 and $3,250 resistance levels. The bulls even pushed the price above $3,350. However, the bears were active below $3,400. A high was formed at $3,396 and the price is now consolidating. There was a minor drop below the 23.6% Fib retracement level of the upward wave from the $3,094 swing low to the $3,396 low. Ethereum price is now trading above $3,200 and the 100-hourly Simple Moving Average. There is also a bullish trend line forming with support at $3,210 on the hourly chart of ETH/USD. If there is another upward move, the price could face resistance near the $3,320 level. The next key resistance is near the $3,350 level. The first major resistance is near the $3,380 level. A clear move above the $3,380 resistance might send the price toward the $3,420 resistance. An upside break above the $3,420 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,500 resistance zone or even $3,550 in the near term. Pullback In ETH? If Ethereum fails to clear the $3,380 resistance, it could start a fresh decline. Initial support on the downside is near the $3,250 level and the 50% Fib retracement level of the upward wave from the $3,094 swing low to the $3,396 low. The first major support sits near the $3,210 zone. A clear move below the $3,210 support might push the price toward the $3,150 support. Any more losses might send the price toward the $3,050 region. The next key support sits at $3,000. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $3,210 Major Resistance Level – $3,380",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
