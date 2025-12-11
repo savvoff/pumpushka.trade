@@ -1,279 +1,5 @@
 [
   {
-    "id": 55606400,
-    "published": 1765383928000,
-    "title": "The Significance Of XXI And What It Means For Strategy",
-    "body": "XXI and bitcoin balance sheet businesses are adding new methods for accumulating btc into the industry.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55606263,
-    "published": 1765383846000,
-    "title": "Tether Rolls Out Privacy-Focused Health App as Expansion Into AI Accelerates",
-    "body": "The company behind the largest stablecoin, the $186 billion USDT, is increasingly venturing beyond crypto into sectors such as artificial intelligence and robotics.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tether|AI|Health|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55606301,
-    "published": 1765383791000,
-    "title": "Teachers union claims risks to retirement funds in crypto market structure",
-    "body": "The letter to the US Senate Banking Committee cited opposition to the digital asset market structure bill, echoing concerns from other labor groups.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55607131,
-    "published": 1765385281000,
-    "title": "ICP Extends Decline as Range Support Breaks, Testing New Lows Near $3.48",
-    "body": "Internet Computer slipped back into a declining pattern after early strength faded, with the slide pushing the token toward key December support levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|ICP|Internet Computer|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 82,
-        "NAME": "ICP",
-        "CATEGORY": "ICP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55607556,
-    "published": 1765386000000,
-    "title": "Solana Network Sees 68% Crash In 3 Years, What’s Going On?",
-    "body": "The Solana network has seen its validator count crash by more than 68% over the past three years, falling from thousands of active nodes to just around 800. The massive decline in validators has sparked discussions about whether this could become a threat to the blockchain network or a natural pruning of inactive nodes to increase efficiency. Solana loses 68% Of Its Validators In 3 Years A new report from Criptonocias reveals that Solana has experienced a dramatic decline in the number of its validators, active and non-active, since March 2023. This decrease has raised concerns across the crypto community about the network’s overall health and security. Related Reading: Why Has The Solana Price Been Crashing Since October? This Major SOL Player Is Selling Over the last three years, the Solana network has steadily lost validators, going from 2,500 to 2,100 in November 2022 and now hovering around 800. This decline means the blockchain has lost a total of 1,700 validators. Although this considerable decrease should trigger warning alerts, it could be a result of ledger pruning, which involves removing inactive or redundant nodes to streamline a network and improve its performance without compromising security. Notably, validators are crucial for the operation of a blockchain network, as they run nodes, confirm transactions, and help maintain the integrity of the system. Each validator adds to the diversity of the network and reduces the risk of any single entity gaining excessive control. According to the report, some voices in the Solana ecosystem see the reduction of validators in a positive light. They argue that losing “Sybil validators,” which are nodes pretending to be multiple independent operators but are actually controlled by a single party, can be beneficial. Based on this perspective, having a smaller number of reliable and active validators is healthier than maintaining thousands of nodes that do not contribute meaningfully to the blockchain network. Criptonocias revealed that teams such as Layer 33, which develops infrastructure node tools and provides network services for Solana, point out that many of the validators leaving the blockchain are not Sybils but legitimate node operators. This suggests that the drop in numbers does not automatically equate to improved network quality despite widespread talks about ledge pruning. Notably, the potential impact on the Solana network, whether negative or positive, depends on the independence of the remaining validators and the distribution of power among them. An updated report of the validator count reveals that it has dropped again from 800 to 795. Solana Faces Liquidity Crunch As Profitability Declines Amidst its decline in validators, the Solana network is showing signs of strain as liquidity dries up and profitability declines. On-chain data from Glassnode highlights a troubling trend in the network’s trading activity, with the 30-day average realized profit-to-loss ratio remaining below 1 since mid-November. Related Reading: Solana Welcomes Bearish December, But Pundit Shares Possible Move To $170 This level is typically associated with bear market conditions and points to a growing imbalance between gains and losses among traders. A ratio below 1 also indicates that traders are realizing losses more frequently than profits, underscoring the cryptocurrency’s weakening market sentiment. Featured image from Freepik, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Solana|Criptonocias|glassnode|Sol|SOL news|SOL Price|Solana network|Solana news|Solana Price|SOLUSD|SOLUSDT|Sybils",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55607275,
-    "published": 1765385475000,
-    "title": "Surf Raises $15M to Build AI Model Tailored to Crypto Research",
-    "body": "Pantera Capital led the round, with Coinbase Ventures and Digital Currency Group also participating.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|AI|Fundraising|Pantera|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55607266,
-    "published": 1765385432000,
-    "title": "Silver Moon: The One Chart You Need To See",
-    "body": "Silver is on a parabolic rally. Retail investors are driving the move, much like they did during the recent gold surge, because its price tag feels more accessible.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55607830,
-    "published": 1765386286000,
-    "title": "The whale awakening: Why dormant crypto giants are suddenly back in motion",
-    "body": "Dormant Bitcoin giants have awakened. Onchain data shows aging wallets reactivating, reshaping supply dynamics across the network.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55608734,
     "published": 1765387800000,
     "title": "Vanguard’s 50M+ clients will soon gain access to crypto ETFs: Why this is significant",
@@ -3330,6 +3056,192 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55649771,
+    "published": 1765470881000,
+    "title": "Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area",
+    "body": "Belarus blocked major crypto exchange domains the same day Russia signaled it may ease regulated crypto access requirements while clamping down on the gray market.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55649390,
+    "published": 1765470245000,
+    "title": "Save the Children Introduces Bitcoin Fund to Streamline Crisis Response",
+    "body": "New fund enables Save the Children to hold bitcoin, pilot digital wallets, and speed up emergency aid delivery.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Save the Children|Bitcoin News|crypto donations|Charity|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55649328,
+    "published": 1765470162000,
+    "title": "Cross-Chain Liquidity Protocol LI.FI Raises $29M in Series A Extension",
+    "body": "The Berlin-based bridging and swap infrastructure provider has now raised $51.7M in total funding and processed more than $60B in onchain volume.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Fundraising|cross-chain bridge|Multicoin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55649506,
+    "published": 1765467990000,
+    "title": "JPMorgan Arranges Galaxy Bond Issuance on Solana Blockchain",
+    "body": "JPMorgan Chase & Co arranged the creation, distribution and settlement of a short-term bond for Galaxy Digital Holdings LP on the Solana blockchain, part of a push to make financial markets more efficient using crypto’s underlying technology.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NYS:JPM",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55650497,
+    "published": 1765472008000,
+    "title": "US SEC's Crenshaw takes aim at crypto in final weeks at the agency",
+    "body": "Caroline Crenshaw, the financial agency’s sole remaining Democratic commissioner, is expected to depart in January, 18 months after her official term ended.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55650829,
+    "published": 1765472704000,
+    "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
+    "body": "Disney says Google’s AI used its characters without permission, as it signed a new deal with OpenAI to allow character generation with Sora.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
