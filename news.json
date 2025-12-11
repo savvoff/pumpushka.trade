@@ -1,308 +1,5 @@
 [
   {
-    "id": 55599404,
-    "published": 1765371600000,
-    "title": "Blockstream Connects Lightning and Liquid for Faster, Private Bitcoin Payments",
-    "body": "The new update enables trustless swaps between Lightning and Liquid, removing technical hurdles for fast, self-custodial BTC spending, the company said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Blockstream|Lightning Network|Liquid|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55599334,
-    "published": 1765371600000,
-    "title": "Superstate Rolls Out Direct Stock Issuance for Public Companies on Ethereum, Solana",
-    "body": "SEC-registered firms can sell shares directly on blockchain rails to investors, raising funds in stablecoins.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenization|Superstate|Robert Leshner|Ethereum News|Solana News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55599336,
-    "published": 1765371600000,
-    "title": "TenX Protocols to Start Trading on TSX Venture Exchange After Raising $24M in 2025",
-    "body": "The company said it plans to use the proceeds to buy tokens and stake them across networks including Solana, Sui and Sei.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Fundraising|Borderless Capital|Exclusive|Canada|Staking|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55599449,
-    "published": 1765371600000,
-    "title": "Superstate brings stablecoin-settled stock offerings to Ethereum and Solana",
-    "body": "Superstate’s Direct Issuance Programs let SEC-registered companies raise capital on Ethereum and Solana, taking stablecoin payments and issuing tokenized shares instantly.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55600444,
-    "published": 1765373705000,
-    "title": "Stablecoins break into top 3 growth drivers for Web3 gaming: BGA 2025 report",
-    "body": "Stablecoins rank among the top catalysts for Web3 gaming growth, signaling a shift toward fundamentals, monetization and payment infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55600426,
-    "published": 1765373598000,
-    "title": "Morning Minute: JPMorgan Says No Crypto Winter",
-    "body": "The macro forces at play will outweigh the recent sell-off drivers, according to the major bank.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55600286,
-    "published": 1765373400000,
-    "title": "Helium Expands to Brazil With Mambo WiFi in DePIN Breakthrough",
-    "body": "The partnership represents one of Helium’s most significant international expansions so far.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|DePIN|Helium|Solana News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55600330,
-    "published": 1765373386000,
-    "title": "Ethereum rising to $3.3K proves the bottom is in: Is a 100% ETH rally next?",
-    "body": "Ethereum gained between 97% and 147% after ETH price flipped the 50-week MA into support, and a similar setup is playing out this week.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55600209,
-    "published": 1765372987000,
-    "title": "Japan plans major shift as crypto moves from payments to securities law",
-    "body": "Japan plans to move crypto regulation from payments law to securities rules, tightening disclosures for IEOs and cracking down on unregistered platforms.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55601233,
     "published": 1765375259000,
     "title": "More Details On The Wall Street $500 Million Investment In XRP",
@@ -3382,6 +3079,158 @@
         "ID": 49,
         "NAME": "TECHNOLOGY",
         "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55643357,
+    "published": 1765456944000,
+    "title": "‘Cryptoqueen’ Ignatova’s Lawyer Faces Prosecution Over ‘Improper’ Threats",
+    "body": "A lawyer for the fugitive “cryptoqueen” Ruja Ignatova is being prosecuted for sending “improper” legal threats in a case that is set to scrutinize London’s reputation management industry.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55643805,
+    "published": 1765459887000,
+    "title": "Mexico’s Central Bank Keeps a ‘Healthy Distance’ From Crypto",
+    "body": "Banxico’s year-end report reaffirms its anti-crypto stance, highlighting legal risks, low adoption, and the need for international regulation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Banco de Mexico|Bank of Mexico|Crypto|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55643736,
+    "published": 1765459823000,
+    "title": "Bitcoin Realized Losses From Entities Surges To 2022 Levels Following Crash Below $90,000",
+    "body": "Bitcoin’s price action in the past two weeks has opened a new phase of stress among traders, with on-chain data showing realized losses climbing to heights last observed in 2022. Glassnode’s latest Week-On-Chain report shows Bitcoin is trading above an important cost-basis level but is also visibly straining under intensified loss realization, fading demand and weakening liquidity, which has placed short-term investors in a difficult position. Realized Losses Return To Deep Territory According to Glassnode, realized losses among Bitcoin entities have risen massively, and is now almost at the same magnitudes recorded during the deep retracements of the 2022 bear market. Particularly, the Relative Unrealized Loss (30D-SMA) has climbed to 4.4% after nearly two years below 2%. Related Reading: The Current Bitcoin Price Pump Will End In A Crash – Here’s When To Start Selling The escalation in loss realization reflects how the recent drawdown below $90,000 has forced a large number of market participants to offload coins at prices below their acquisition cost. This, in turn, has disrupted the gradual improvement in profitability seen earlier in the year. Bitcoin’s recent bounce from the November 22 low to above $92,000 hasn’t eased the strain on holders. Glassnode noted that entities are still locking in losses at an increasing pace, with the 30-day average of realized losses now at around $555 million per day. These conditions mean that investors are losing confidence in short-term upside prospects for Bitcoin and choose to reduce exposure, even at unfavorable prices. Therefore, the report noted that resolving it will require a renewed wave of liquidity and demand to rebuild confidence. Glassnode also highlights a sharp rise in profit-taking among long-term holders, whose realized gains have climbed to roughly $1 billion per day and briefly set a new record above $1.3 billion. Even with this elevated level of distribution, Bitcoin is currently positioned just above the True Market Mean, which is a long-standing cost-basis benchmark that serves as a point of structural support. The recent price downturn below $90,000 has pushed this zone close to its limits, but the glimpse of demand reflected around it suggests that price could revisit the 0.75 quantile near $95,000 and possibly approach the short-term holder cost basis as well. Spot ETF, Futures, And Options Markets Indicate Weakness Glassnode’s report points to persistent softness across ETF flows, which have cooled notably after a period of strong inflows earlier in the year. This slowdown represents a reduction in one of the largest and most immediate sources of buy-side liquidity for Bitcoin. Related Reading: Why Is The Bitcoin Price Down Again? Analyst Calls Out Trading Desk For Triggering Crashes Spot market liquidity has also faded, with order books on major exchanges near the lower bound of their 30-day range. This has created an environment where trading activity has weakened through November and into December, and fewer liquidity flows are available to absorb volatility or sustain directional moves. Derivatives positioning reflects similar caution, with funding rates pinned near neutral. Futures open interest has also been subdued and has failed to meaningfully rebuild since the breakdown below $90,000. Across all major venues, the tone is the same: liquidity is lighter, sentiment is softening, and participants are leaning defensive rather than pursuing short-term rallies. The attention is now on how Bitcoin will respond in the aftermath of the Federal Reserve’s recent rate cut. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|fed|federal reserve|Futures Open Interest|glassnode|Relative Unrealized Loss (30D-SMA)|True Market Mean",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55643525,
+    "published": 1765459137000,
+    "title": "Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis",
+    "body": "Bitcoin analysis warned that the next BTC price bottom should only appear in 2026 as exchange trading volume enters a long grind lower.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
