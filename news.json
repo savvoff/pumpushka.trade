@@ -1,244 +1,5 @@
 [
   {
-    "id": 55612932,
-    "published": 1765395663000,
-    "title": "Michael Saylor Slams MSCI Plan to Bar Crypto-Heavy Firms From Indexes",
-    "body": "Strategy Inc. Executive Chairman Michael Saylor publicly slammed a proposal to bar the Bitcoin-buying firm from US indexes as “misguided” and “harmful.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55613223,
-    "published": 1765396800000,
-    "title": "Why Is The Bitcoin Price Down Again? Analyst Calls Out Trading Desk For Triggering Crashes",
-    "body": "Crypto analyst Bull Theory has explained why the Bitcoin price has been crashing recently. The analyst pointed out that Wall Street traders were responsible for the price declines, indicating that these trading desks were manipulating the market for their own benefit. Analyst Explains Why The Bitcoin Price Is Crashing In an X post, Bull Theory blamed Jane Street for the Bitcoin price’s constant crash at 10 a.m. ET when the U.S. market opens. The analyst pointed out that BTC erased 16 hours of gains in just 20 minutes after the U.S. market opened. This has notably been happening since early November, when the flagship crypto fell below $100,000. Meanwhile, a similar price action also played out in the second and third quarters of this year. Related Reading: Confirming The Bitcoin Price Direction: Analyst Reveals What You Should Look Out For Bull Theory noted that another analyst, Zerohedge, has claimed that Jane Street is most likely the entity responsible for this Bitcoin price crash. The analyst stated that the chart shows a pattern that is too consistent to ignore, with a clean wipeout within an hour of the market opening, followed by a slow recovery. He added that this is classic high-frequency execution and that it fits Jane Street’s profile. Bull Theory stated that Jane Street is one of the largest high-frequency trading firms in the world and that they have the speed and liquidity to move markets for a few minutes. The analyst claimed that their behavior is simple: dump BTC at the market open, push the Bitcoin price into liquidity pockets, and then re-enter at a lower price. By doing this, the analyst claimed that Jane Street has accumulated billions in BTC. The trading firm is said to hold $2.5 billion worth of BlackRock’s Bitcoin ETF, which is its 5th-largest position. Bull Theory added that this means most of the dump in the Bitcoin price isn’t due to macro weakness but manipulation by this entity. He expects that BTC will continue its upward momentum once these big players are done buying. Bitcoin At Risk Of A Decline Post-FOMC Crypto analyst Ali Martinez indicated that the Bitcoin price was at risk of a significant decline following today’s FOMC meeting. He pointed out that BTC has consistently reacted negatively to FOMC meetings, with six out of seven meetings this year leading to corrections for the flagship crypto. Related Reading: Bitcoin RSI Shows Shocking Similarities To 2012-2015, But What Happened Last Time? The Bitcoin price had rallied to as high as $94,500 yesterday in anticipation of a third rate cut this year from the Fed. According to CME FedWatch, there is currently a 90% chance that the Fed will lower rates by 25 basis points (bps). A CryptoQuant report noted how these rate cuts have turned out to be a ‘sell the news’ event on the two occasions the Fed lowered rates this year, with the probability of this price action playing out again. At the time of writing, the Bitcoin price is trading at around $92,600, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Ali Martinez|bitcoin|Bitcoin news|bitcoin price|BlackRock’s Bitcoin ETF|btc|BTC news|btc price|btcusd|BTCUSDT|Bull Theory|CME FedWatch|CoinMarketCap|cryptoquant|FOMC Meeting|Jane Street|ZeroHedge",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55613220,
-    "published": 1765396800000,
-    "title": "A16z Crypto to Open Seoul Office, Hire Sungmo Park to Lead Asia Efforts",
-    "body": "Andreessen Horovitz's crypto venture capital unit pointed to high levels of crypto ownership in South Korea and Singapore, and growing onchain activity in Japan.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Seoul|A16z crypto|A16z|Asia|Venture Capital|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55612945,
-    "published": 1765396210000,
-    "title": "Consumer Groups Join Unions Trying to Derail U.S. Crypto Market Structure Bill",
-    "body": "Political progressives have joined forces to oppose current versions of the industry-backed legislative effort in the Senate.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Consumer Protection|Politics|crypto legislation|U.S. Senate|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55613356,
-    "published": 1765397214000,
-    "title": "Bitcoin Outlook Post Fed’s 0.25% Rate Cut: Historical Patterns And Predictions",
-    "body": "In a move that could signal a bullish shift for Bitcoin (BTC) and the broader cryptocurrency market, the Federal Reserve (Fed) announced a 25 basis points (bps) interest rate cut, bringing the new rate range to 3.5% to 3.75%. Bitcoin Poised To Surge Toward $100,000? Kevin Hassett, the White House economic adviser and a leading candidate to become the next Fed chair, commented to the Wall Street Journal CEO Council that there is “plenty of room” for additional interest rate cuts. He stated, “If the data suggests that we could do it, then — like right now, I think there’s plenty of room to do it.” Hassett, who is President Donald Trump’s preferred choice for the Fed chair position after Jerome Powell’s tenure concludes, has been critical of Powell for being “too late” in lowering rates. Related Reading: Crypto Market Structure Talks: Senator Lummis Addresses Latest Legislation Plans While the last rate cut in October had minimal impact on the Bitcoin price, analyst Michael van de Poppe believes that the current rate cut could significantly benefit the cryptocurrency. He characterized it as a “great move” for Bitcoin and noted that a breakout above $92,000 might be indicative of future bullish momentum. Van de Poppe expressed optimism about Bitcoin’s ability to maintain the support level between $91,500 and $92,000, suggesting that if it does, there could be a pathway for Bitcoin to approach the $100,000 mark. Can BTC Avoid Historical 10% Decline? Market expert Ash Crypto pointed out that historically, each of the last four times the Fed slashed rates by 25 bps, Bitcoin experienced a 5% to 10% decline shortly thereafter. Despite this pattern, Ash noted that the current market setup differs from previous scenarios, suggesting that different dynamics could be at play. Related Reading: Ethereum Price Climbs Toward $3,300 For The First Time Since November: What’s Driving The Surge? Several positive factors underpinning this optimism include the conclusion of quantitative tightening (QT) after a three-year period. Should Powell hint at the possibility of quantitative easing (QE) in his forthcoming remarks, it could spur a further bullish trend in the market. Additionally, with this being the third rate cut, Ash asserted that there is potential for increased liquidity to flow back into the markets, which historically benefits risk assets like Bitcoin. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Breaking News Ticker|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency|fed|Fed Bitcoin|fed interest rate|Fed rate cuts",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55613857,
-    "published": 1765398046000,
-    "title": "ChronoForge to shut down amid funding collapse and Web3 gaming turmoil",
-    "body": "ChronoForge’s shutdown highlights mounting financial strain across Web3 gaming as shrinking budgets and dismal market sentiment take their toll.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55613813,
-    "published": 1765397991000,
-    "title": "GameStop Stock Falls After Bitcoin Holdings Lose Value, Firm Says It Could Sell BTC",
-    "body": "Markets haven’t reacted well to GameStop’s latest earnings call, where it revealed sinking Bitcoin value and retail sales alike.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55614860,
     "published": 1765400414000,
     "title": "Market Stress Intensifies for Solana as Liquidity Drops to Cycle Lows and Volatility Builds",
@@ -3412,6 +3173,88 @@
         "ID": 100,
         "NAME": "USDC",
         "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55655333,
+    "published": 1765481447000,
+    "title": "XRP Forecast Turns Explosive As Canadian Experts Highlight Massive FinTech Utility",
+    "body": "The latest analysis circulating is that the Canadian fintech analysts are becoming increasingly bullish on XRP, pointing to a surge in real-world utility that could reshape the digital payments landscape. The financial institutions have continued to adopt blockchain-based settlement systems. This growing utility has led several Canadian researchers to issue an explosive new forecast. How XRP’s Real-world Utility Is Expanding Faster Than Market Valuations Canada’s fintech landscape is shifting, and XRP is rapidly emerging as one of its most influential digital assets. According to a video shared by crypto analyst Skipper_xrp, a Canadian news article highlighted that XRP could become the most compelling fintech play in the entire crypto sector and that it could reach as high as $2,000 by 2027. Related Reading: XRP Price About $1,000 Is A Necessity, Analyst Claims It is worth noting that XRP is no longer just a speculative asset in Canada. It’s now being viewed by Canadian analysts and market observers as a tangible fintech tool powering real change in cross-border payment, with a clear path to becoming a cornerstone of modern finance by 2027. The article also predicts that XRP could become the strongest fintech play in crypto. Skipper_xrp added that RACO, which is known as the beloved raccoon-themed token, has quickly become one of the most talked-about projects and is making a splash on the XRP Ledger. While RACO is gaining traction as more users adopt it for transactions, it is emerging as a standout choice within the XRPL ecosystem. Furthermore, the RACO tokens are now officially available for community members to get early access and be part of the project’s growth. Why The Financial Institutions Can Now Offer XRP Access With Confidence In a major regulatory breakthrough of the Ripple Ledger, analyst Skipper_xrp has also stated that the US Office of the Comptroller of the Currency (OCC) has confirmed that the national banks are now legally permitted to conduct riskless principal transactions in crypto-assets. This riskless principal activity will open the door for the token to be used in these regulated operations and give banks a compliant way to facilitate XRP-based trades and payments. Related Reading: Here’s Why XRP Positions Itself As Treasury-Grade Rail For Institutions Moving Trillions Furthermore, with the OCC’s confirmation, US national banks can now act as intermediaries for XRP transactions in a fully regulated manner without taking any market risk. This makes it easier for institutional and retail clients to access and use XRP through trusted, regulated financial institutions. According to Skipper_xrp, this ruling provides regulatory clarity and gives XRP a competitive edge in the US market, making it the perfect asset for banks to integrate into their service offerings. Such a move could power increased adoption and liquidity for the asset. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|occ|Office of the Comptroller of the Currency|RACO|Ripple|Skipper_xrp|xrp|XRP Ledger|xrp news|XRP Price|XRPL|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55655912,
+    "published": 1765482727000,
+    "title": "Coinbase Expands Reach of Stablecoin-Based AI Agent Payments Tool",
+    "body": "The updated protocol, x402 V2, allows developers to combine payments, enable secure wallet access, and add new features via a clean, modular design.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Coinbase|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
