@@ -1,93 +1,5 @@
 [
   {
-    "id": 55590806,
-    "published": 1765357414000,
-    "title": "Binance co-CEO Yi He hit by WeChat hack amid growing Web2 risks for crypto execs",
-    "body": "SlowMist’s Yu Xuan advises high-profile users to prune contacts, rotate passwords, and act fast on alerts to reduce WeChat takeover risks.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55590591,
-    "published": 1765357251000,
-    "title": "NFT Slump Worsens With Monthly Sales Hitting Rock Bottom",
-    "body": "A sharp slowdown in buying pushed the NFT market back toward its weakest levels of the year, as weekly and monthly totals fell sharply and overall valuations continued to slip. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack According to market trackers, trading activity cooled significantly in November and the first week of December, raising fresh questions about demand heading into year end. Sales And Volume Plunge According to CryptoSlam, NFT sales fell to $320 million in November, down from close to $630 million in October. That level is roughly on par with the $312 million recorded in September 2024. Based on reports, the trend did not improve at the start of December: from Dec. 1–7, collections generated about $62 million in sales — the weakest weekly total recorded so far in 2025. Market participants are being hit by lower turnover and fewer big trades. Market Cap Shrinks Dramatically CoinGecko data shows the sector’s market cap sits at $3.1 billion, which is down 66% from a January high of $9.2 billion. Reports have disclosed a steep month-to-month swing as well: values dropped from $6.6 billion in October to $3.5 billion in November, a fall of 46% in roughly 30 days. There was a brief uptick on Nov. 11 when market cap moved from $3.5 billion to nearly $4 billion during a memecoin-driven surge, but the recovery was short-lived and the market cap later retreated back to $3.1 billion. These moves show that prices are still volatile and driven by bursts of speculative interest. Blue Chips Mostly Lose Ground Top collections were not immune. Based on reports, CryptoPunks fell about 12% over the past month. Bored Ape Yacht Club slid 8.5%, while Pudgy Penguins dropped 10.6% in the same period. Art-focused blue-chip works also fell: Chromie Squiggle lost 5.6%, Fidenza declined 14.6%, Moonbirds went down 17.9% and Mutant Ape Yacht Club slipped 13.4%. The biggest fall among major names came from Hypurr, which dropped 48%. Two Collections Show Gains Not every project followed the downward path. Infinex Patrons posted almost 15% rise in the last 30 days, and Autoglyphs outperformed the top ten with a 21% gain. These outliers were lifted by collector interest, and in some cases by the projects’ small supply or unique on-chain history. Still, such gains remain the exception rather than the rule. Related Reading: Institutions Scoop Up 9,000 Ether, Fueling Bullish Signals Outlook As Year Ends The weak start to December suggests the pullback could continue into the close of the year. Liquidity is thinner now, and short-lived rallies driven by other crypto market events have failed to create lasting momentum. Prices were pushed down across a wide set of collections, and trading volumes have not shown a sustained recovery. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|BAYC|Bored Ape Yacht Club|crypto|cryptopunks|NFT|non-fungible tokens",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55591752,
     "published": 1765359057000,
     "title": "The Current Bitcoin Price Pump Will End In A Crash – Here’s When To Start Selling",
@@ -3407,6 +3319,35 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55635013,
+    "published": 1765443154000,
+    "title": "State Street, Galaxy and Ondo join tokenized cash race with 24/7 sweep fund",
+    "body": "State Street Investment Management and Galaxy Asset Management are launching a tokenized private liquidity fund on Solana, with Ondo expected to invest $200 million.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
