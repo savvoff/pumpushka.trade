@@ -1,122 +1,5 @@
 [
   {
-    "id": 55582058,
-    "published": 1765342988000,
-    "title": "Solana Liquidity Plummets to Bear Level Territory Amid $500M Liquidation Overhang",
-    "body": "On-chain data shows Solana's liquidity has contracted to bear-market levels, with $500M in long positions at risk if its price drops 5.5%.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55581945,
-    "published": 1765342848000,
-    "title": "Bitcoin Exchange Reserves Fall To Lowest Levels on Record: The Bullish Signal Most Traders Are Missing",
-    "body": "Bitcoin is holding above $90,000 as the market heads into a highly anticipated FOMC meeting, a moment that could define the next direction for risk assets. But while price action keeps traders on edge, on-chain indicators are painting a surprisingly different picture beneath the surface. According to a new CryptoQuant report by XWIN Research Japan, Bitcoin’s exchange reserves have continued to fall sharply throughout 2025, even as price corrected toward the $90K range. Related Reading: Smart Whales Align: Top Performers Go All-In On Ethereum Long Positions With Over $425M in Exposure The data shows that the total amount of BTC held on centralized exchanges has dropped to 2.76 million BTC, reaching one of the lowest levels ever recorded. What makes this trend even more striking is its timing: during the steep November–December sell-off, exchange balances did not rise—they fell faster. The report highlights this behavior in the red-marked zone of the chart, showing accelerating outflows while the price was dropping. This pattern signals something unusual: investors are not sending coins to exchanges to sell into weakness. Instead, they continue withdrawing BTC into long-term custody, suggesting confidence rather than capitulation. As volatility builds ahead of the FOMC decision, the contrast between short-term price fear and long-term accumulation is becoming one of the most important dynamics in the current Bitcoin market. Shrinking Exchange Reserves Signal Structural Strength The report emphasizes that Bitcoin’s rapidly shrinking exchange reserves carry important structural implications for the market. When fewer coins sit on centralized exchanges, it means less Bitcoin is available for immediate sale, effectively tightening the liquid supply. According to the data, this decline is not being driven by short-term speculators but by long-term holders and institutional entities steadily moving BTC into self-custody or cold storage. What makes this trend remarkable is its timing. Historically, sharp price declines trigger a wave of inflows to exchanges as investors prepare to sell or panic-exit their positions. This cycle, however, tells a very different story. Even as Bitcoin corrected into the $90K region, exchange balances kept falling, suggesting that buyers with a long-term outlook are actively accumulating rather than retreating. This divergence between price action and on-chain behavior signals underlying strength. While short-term volatility may continue—especially around macro catalysts like the FOMC meeting—the broader structure points toward a market quietly tightening its available supply. As reserves move toward historic lows, a future “supply shock” becomes increasingly plausible. Despite the weak spot market performance, on-chain metrics are slowly turning bullish, hinting that the foundation for the next major trend may already be forming beneath the surface. Related Reading: Ethereum Loses Momentum While OI Holds Steady: Binance Data Shows A Market Reset BTC Tests Critical Support as Market Awaits Direction Bitcoin’s price action on the 3-day chart shows a market attempting to stabilize after a sharp corrective phase. BTC is currently trading around $90,437, hovering just above the 200-day moving average — a level that has historically acted as a major dynamic support during mid-cycle retracements. The recent bounce from the $87K–$88K region suggests that buyers are defending this zone, but the structure remains fragile as long as the price stays below the 50-day and 100-day moving averages, both of which are now sloping downward. The chart reveals a clear shift in momentum. After months of steady higher lows, Bitcoin broke its ascending structure in late November, leading to a fast drop toward the high-$80K range. Volume increased during the decline, indicating stronger participation on the sell side. However, the subsequent candles show shrinking sell volume, hinting at exhaustion among short-term sellers. Related Reading: Ethereum Shows Signs Of Accumulation As CVD Strengthens And Correlation Stays Elevated For a meaningful recovery, BTC must reclaim the $95K–$97K area, where previous support turned into resistance. Failure to break that zone would likely keep the market in a consolidation phase, with risks of another retest of the 200-day MA. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|Binance Bitcoin Exchange Reserve|bitcoin|bitcoin analysis|Bitcoin Bullish|Bitcoin exchange reserve|Bitcoin news|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55582584,
-    "published": 1765343934000,
-    "title": "Rep. Keith Self Moves to 'Fix the Bill' With CBDC Ban Before Key Hearing",
-    "body": "The amendment follows Republican outcry over broken commitments to ban central bank digital currencies in the defense bill.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
     "id": 55582914,
     "published": 1765344358000,
     "title": "Binance Co-CEO Yi He’s WeChat Account Hacked to Push Meme Coin MUBARA",
@@ -3308,6 +3191,170 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55627066,
+    "published": 1765428494000,
+    "title": "XRP Price Under Pressure—Can It Survive This Support Test?",
+    "body": "XRP price started a fresh decline below $2.10. The price is now struggling and faces resistance near the $2.050 pivot level. XRP price started a fresh decline below the $2.040 zone. The price is now trading below $2.020 and the 100-hourly Simple Moving Average. There is a bearish trend line forming with resistance at $2.050 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move down if it settles below $2.00. XRP Price Dips Again XRP price attempted a recovery wave above $2.120 but failed to continue higher, like Bitcoin and Ethereum . The price started a fresh decline below $2.10 and $2.050. There was a move below the $2.00 support level. A low was formed at $1.993, and the price is now consolidating losses below the 23.6% Fib retracement level of the downward move from the $2.177 swing high to the $1.993 low. The price is now trading below $2.050 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $2.0350 level. The first major resistance is near the $2.050 level. There is also a bearish trend line forming with resistance at $2.050 on the hourly chart of the XRP/USD pair. A close above $2.050 could send the price to $2.085 and the 50% Fib retracement level of the downward move from the $2.177 swing high to the $1.993 low. The next hurdle sits at $2.10. A clear move above the $2.10 resistance might send the price toward the $2.150 resistance. Any more gains might send the price toward the $2.1850 resistance. The next major hurdle for the bulls might be near $2.220. More Losses? If XRP fails to clear the $2.050 resistance zone, it could start a fresh decline. Initial support on the downside is near the $2.00 level. The next major support is near the $1.9850 level. If there is a downside break and a close below the $1.9850 level, the price might continue to decline toward $1.920. The next major support sits near the $1.880 zone, below which the price could continue lower toward $1.820. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level. Major Support Levels – $2.00 and $1.9850. Major Resistance Levels – $2.050 and $2.10.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55627522,
+    "published": 1765429215000,
+    "title": "Strategy Calls For Withdrawal Of MSCI’s Exclusion Plan For Digital Asset Treasury Companies",
+    "body": "Strategy, formerly known as MicroStrategy, has expressed strong opposition to a proposal by the Morgan Stanley Capital International (MSCI) to exclude digital asset treasury companies (DATs) from its indexes. Calls For Fair Treatment Of Digital Asset Companies In a recent letter signed by Michael Saylor and the firm’s CEO Phong Le, Strategy highlighted its support for MSCI’s efforts to establish consistent eligibility criteria across its indices. However, the company criticized the proposed threshold for excluding firms with more than 50% digital assets on their balance sheets, calling it “misguided.” The company argued that this measure could have negative implications not only for Strategy’s operations but also for the broader cryptocurrency market. Related Reading: Expert Declares Bitcoin Has Reached Midpoint Of Bear Cycle: What Lies Ahead? Strategy emphasized that, unlike traditional investment funds, it maintains the operational agility to adapt its value-creation strategies in tune with the evolving technology underlying Bitcoin. The firm asserts that this flexibility is a critical asset for investors and distinguishes Strategy and other DATs from traditional digital asset investment vehicles. The firm likened its investment approach in a singular asset class to that of real estate investment trusts (REITs) or oil companies, stating that MSCI categorizes those entities correctly without labeling them as investment funds. Therefore, it argued, DATs should be afforded similar treatment. ‘Discriminatory And Arbitrary’ The letter criticized the proposed 50% digital asset threshold as “discriminatory and arbitrary,” suggesting that it imposes uniquely unfavorable conditions on digital asset companies while allowing other industries—like oil, timber, and real estate—to maintain concentrated asset holdings without similar scrutiny. Strategy raised concerns that enforcing this rule would necessitate MSCI to create new methods for measuring balance sheet concentration, complicating the indexing process unnecessarily due to varying accounting principles across asset classes and jurisdictions. Additionally, Strategy elaborated on how the exclusion of DATs could substantially inhibit innovation within the digital asset industry, which the current administration strongly promotes as part of its economic strategy. The company said that digital assets like Bitcoin have the potential to become foundational elements of global financial systems, but the proposed measures could limit access to these transformative technologies for pension plans and 401(k)s, ultimately redirecting billions away from the sector. Strategy cautioned that a hasty exclusion of DATs could be based on misconceptions about their business models, asserting that it reflects a misunderstanding of the nature of these entities. The firm advocated for a more measured approach similar to MSCI’s past handling of the “Communication Services” sector, which underwent extensive consultation and a thorough review before reorganizing traditional telecom, media, and internet companies. Strategy Urges MSCI To Reconsider If implemented, Strategy warns that MSCI’s proposal could lead to the delisting of numerous companies heavily involved in digital assets. JPMorgan analysts estimate that Strategy alone might face liquidations of up to $2.8 billion as a direct consequence of this exclusion. Such a move is also expected to potentially distort market dynamics by incentivizing Bitcoin miners to sell their assets immediately instead of holding them as part of their business strategy. Related Reading: Ethereum Price Climbs Toward $3,300 For The First Time Since November: What’s Driving The Surge? In light of these concerns, Strategy urged MSCI to withdraw the proposal for excluding companies with over 50% digital asset holdings from its Global Investable Market Indexes. The firm asserted that the proposal is rooted in a flawed understanding of DATs and would impose conditions unaligned with national interests, particularly those advocating for the responsible growth of the digital asset space. As of this writing, the company’s stock, trading under the ticker symbol MSTR, is trading at $185. There has been almost no difference since Tuesday’s trading session amid consolidating crypto prices. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btc|crypto|crypto market|crypto news|DATs|Michael Saylor|Microstrategy|MicroStrategy news|MSCI index|Strategy|Strategy MSCI|Strategy news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55627543,
+    "published": 1765429104000,
+    "title": "Bhutan Launches Sovereign Gold-Backed Token on Solana",
+    "body": "The launch adds to Bhutan’s broader blockchain push, including Bitcoin reserves, Binance Pay integration and hydro-powered BTC mining.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55627272,
+    "published": 1765428508000,
+    "title": "A16z Crypto opens office in South Korea as it bets on Asia",
+    "body": "A16z Crypto opened its first Asian office in Seoul, South Korea, led by SungMo Park, citing the region’s dominance in global adoption and onchain activity.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
       }
     ]
   }
