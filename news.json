@@ -1,134 +1,5 @@
 [
   {
-    "id": 55614860,
-    "published": 1765400414000,
-    "title": "Market Stress Intensifies for Solana as Liquidity Drops to Cycle Lows and Volatility Builds",
-    "body": "Solana’s (SOL) market structure is entering a tense phase, shaped by thinning liquidity, elevated leverage, and conflicting signals across institutional flows and derivatives markets. Related Reading: The Current Bitcoin Price Pump Will End In A Crash – Here’s When To Start Selling While price movements remain within familiar ranges, the underlying conditions paint a more complex picture, one that traders are watching closely for signs of either exhaustion or a sharp reversal. Recent sessions have seen Solana drift between $128 and $145, with brief rebounds lifting it toward the upper end of this range. However, liquidity indicators suggest a deeper reset is taking shape. Analysts note that these conditions often precede turning points, though they can amplify volatility in the short term. SOL's price trends to the downside on the daily chart. Source: SOLUSD on Tradingview SOL Liquidity Drops to Bear-Market Levels On-chain data shows Solana’s 30-day realized profit-to-loss ratio has stayed below 1 since mid-November. This pattern, more losses being realized than gains, typically marks a liquidity contraction similar to historical bear-market phases. Analysts at Altcoin Vector describe the current setup as a “full liquidity reset,” a process that typically takes several weeks to resolve. That backdrop aligns with observations from SynFutures, whose team cites realized losses, declining futures open interest, and fragmented liquidity pools as contributing factors. Market-makers have also pulled back, thinning order books even as realized volatility increases. The effect is a market highly sensitive to sharp moves, particularly around key liquidation clusters. A notable risk is emerging around the $129 level, where nearly $500 million in long positions would be liquidated if the price retests that zone. With $15.6 million in SOL contracts wiped out in the last 24 hours alone, the market remains vulnerable to cascades. Similarly, exchange balances continue to drop, and spot ETFs have brought in more than $17 million this week, signaling accumulation despite broader stress. Volatility Builds as Derivatives and Spot Activity Diverge Derivatives data reflect a cautious but engaged trading environment. Open interest has climbed back above $7.2 billion, rising in tandem with a rebound in daily volume. This type of build-up during a quiet price phase often signals positioning ahead of a larger move. Long-to-short ratios have shifted bullish in recent days, and funding rates remain positive, although traders are becoming increasingly sensitive to macroeconomic catalysts. Spot markets tell a different story. Liquidity is thin, and deep-cycle reset metrics point to selling exhaustion rather than active expansion. This divergence, characterized by high derivative activity against weakening spot liquidity, typically precedes volatility spikes. Key Solana Levels Ahead as Market Awaits a Cycle Turn Technically, Solana remains stuck between established boundaries. The $145 resistance zone has capped multiple attempts to break higher, while support around $135 and deeper levels near $129 hold significance for traders monitoring liquidation risk. Momentum indicators are stabilizing, and the MACD is edging toward a potential positive crossover. Analysts note that past liquidity resets have been followed by rapid upside moves once conditions improved; however, the timing remains uncertain. Related Reading: NFT Slump Worsens With Monthly Sales Hitting Rock Bottom Currently, Solana sits at the center of a tug-of-war between cautious sentiment, thinning liquidity, and steady institutional flows. Whether these opposing forces resolve into a recovery or further volatility may depend less on price action alone and more on how quickly liquidity returns to the ecosystem. Cover image from ChatGPT, SOLUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Solana|Sol|SOL Price|SOLUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55614652,
-    "published": 1765399803000,
-    "title": "Tether launches privacy-focused health platform with on-device AI",
-    "body": "Tether says the system is designed to give users control over biometric data by keeping analysis and storage off the cloud.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55615133,
-    "published": 1765400906000,
-    "title": "'National Security' At Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy",
-    "body": "Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55615734,
     "published": 1765402208000,
     "title": "A Startup Is Trying to Take the Twitter Name From Elon Musk by Force—And It Might Work",
@@ -3261,6 +3132,140 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55657234,
+    "published": 1765485668000,
+    "title": "Ether price trend forecasts triple-digit rally as ETH ETF inflows resume",
+    "body": "Spot ETH ETF inflows resumed, while demand for taker volume improved. Will Ether’s futures markets follow the trend and kickstart a rally toward new all-time highs?",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55657140,
+    "published": 1765485307000,
+    "title": "J.P. Morgan taps Solana for Galaxy’s tokenized corporate bond issuance",
+    "body": "The tokenized commercial bond is one of the earliest transactions of its kind in the budding sector of onchain debt and credit instruments.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55658066,
+    "published": 1765487400000,
+    "title": "HIVE tests investor appetite for AI-Bitcoin infrastructure in Andean markets",
+    "body": "HIVE’s Colombia listing provides Andean investors with access to the growing digital infrastructure sector as Bitcoin miners shift their focus toward AI and HPC.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55657830,
+    "published": 1765487190000,
+    "title": "How Stablecoins Became The Payment Rails For Naughty Finance",
+    "body": "While credit cards exit gambling and brokerages face banking discrimination, stablecoins are solving real payment problems for industries traditional finance won't touch.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
