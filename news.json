@@ -1,307 +1,5 @@
 [
   {
-    "id": 55602526,
-    "published": 1765377587000,
-    "title": "Teacher’s Union Says U.S. Senate Crypto Bill Puts Pensions and Economy at Risk: CNBC",
-    "body": "The AFT said the bill is “irresponsible” and “reckless,” putting pensions of working families at risk and paving the way for the next financial crisis.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Responsible financial innovation act|U.S. Senate Banking Committee|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55603394,
-    "published": 1765379124000,
-    "title": "SpaceX’s $300M Bitcoin Stack Puts Crypto Inside the World’s Biggest Planned IPO",
-    "body": "The Elon Musk–run company is moving ahead with plans for an initial public offering that would seek to raise “significantly more than $30 billion.” Even relatively small balance-sheet allocations matter at that scale.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|SpaceX|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55603243,
-    "published": 1765378800000,
-    "title": "Most Influential: Hayden Davis",
-    "body": "Crypto’s Gen Z supervillain may have single-handedly popped the memecoin bubble this year, exposing it as less a cultural movement and more a parasitic financial machine feeding on new entrants.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Memecoin|Javier Milei|Libra|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55603238,
-    "published": 1765378800000,
-    "title": "Most Influential: The Lazarus Group",
-    "body": "The crypto industry’s most notorious hackers continue to break records, highlighting the importance of taking every step possible to secure wallets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|North Korea|Lazarus group|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55603246,
-    "published": 1765378800000,
-    "title": "Most Influential: The Wrench Attackers",
-    "body": "Perpetrators use various tactics, including posing as delivery drivers or waiting at gyms, homes, or hotel rooms, to target victims and demand access to their wallets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "CoinDesk News|Kidnapping|Ledger|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      }
-    ]
-  },
-  {
-    "id": 55603237,
-    "published": 1765378800000,
-    "title": "Most Influential: Rushi Manche",
-    "body": "The Movement Labs’ co-founder’s secret dealings and subsequent scandal stoked industry-wide anxieties about opaque token allocations and insider trading.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|Insider Trading|Token Sales|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55602956,
-    "published": 1765378323000,
-    "title": "Ether Digital Asset Treasury Companies Outpace Peers as Crypto Tailwinds Build: B. Riley",
-    "body": "The bank said ETH-focused DATCOs have outperformed since Nov. 20 as risk appetite improved, mNAVs ticked up and staking-led strategies gained traction.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Digital Asset Treasury|Bitmine|B. Riley|Analysts|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55602877,
-    "published": 1765378178000,
-    "title": "BONK Slips as Governance Vote Nears, Testing Key Technical Support",
-    "body": "The Solana memecoin dipped below the $0.00001000 threshold ahead of a dYdX integration vote, with elevated volume highlighting heightened positioning activity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 113,
-        "NAME": "BONK",
-        "CATEGORY": "BONK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55603953,
-    "published": 1765378793000,
-    "title": "Norway Central Bank Puts Digital Currency Considerations on Ice",
-    "body": "Norway’s central bank sees no need to introduce a digital currency for now, in an assessment that cements the conservative stance of Nordic authorities regarding such instruments.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55603976,
-    "published": 1765379996000,
-    "title": "Strategy Pushes Back on MSCI’s Digital Asset Exclusion Proposal",
-    "body": "Michale Saylor and team urged MSCI to maintain neutral index standards after a plan to exclude firms with significant digital asset holdings.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|MicroStrategy|Michael Saylor|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55605536,
     "published": 1765382500000,
     "title": "Investors Are Hunting for Countercyclical Value in Privacy Coins",
@@ -3230,6 +2928,286 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55645490,
+    "published": 1765461445000,
+    "title": "UK Lawmakers Urge Reeves to Challenge BOE on Stablecoin Plans",
+    "body": "A cross-party group of UK lawmakers has urged Chancellor Rachel Reeves to push back against the Bank of England’s proposals to cap stablecoin holdings in the country, arguing its policies would undermine government efforts to position the UK as a leader in digital assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55646228,
+    "published": 1765458099000,
+    "title": "XRP Edges Toward Another U.S. Spot ETF After Cboe Approves 21Shares' Fund",
+    "body": "Once live, the ETF will track the CME CF XRP-Dollar Reference Rate (New York Variant), giving investors exposure to XRP via a regulated fund structure without handling the asset directly.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|XRP News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55646643,
+    "published": 1765465219000,
+    "title": "Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000",
+    "body": "A recent post by crypto analyst Stockmoney Lizards on X suggests that the current Bitcoin structure is giving bears “the perfect opportunity” to short the market down to $40,000. His message was paired with a chart showing Bitcoin falling below an important resistance ever since it broke below $100,000, creating what appears to be a clean continuation setup for traders expecting deeper losses. However, although the chart highlights a similar bearish structure in 2022, the analysis behind his post points to a more layered interpretation of what may come next for Bitcoin. The Setup Bears Believe Is Finally Here In the chart he shared, Stockmoney Lizards showed how Bitcoin’s latest breakdown resembles the 2022 pattern, when the price action rejected a major resistance level and fell sharply into what later became a large accumulation zone. The current structure shows a similar rejection just above the $100,000 zone, followed by a drop below the weekly EMA50. This move has brought Bitcoin into a region that is similar to the range where accumulation formed in the earlier cycle. An overlay of the new price action on top of the previous one shows the path downward seems almost predetermined, creating the impression that the Bitcoin price is setting up a natural decline to as low as $40,000 in the coming weeks and months. Bitcoin is currently trading at $90,240. A crash to $40,000 would mean wiping out roughly 55% of its value from here, effectively erasing the entire progress it has built over the past two years. Bitcoin Price Chart. Source: @StockmoneyL On X Why The Perfect Short Is Not The Analyst’s Real Message After the post gained traction, Stockmoney Lizards stepped in to clarify that his message had been taken too literally. His invitation for traders to short down to $40,000 was intentionally exaggerated, and the market does not behave this way. He clarified that he does not foresee a collapse into a deep bear market. Instead, he believes Bitcoin may consolidate, possibly sweep local lows, but not have a prolonged breakdown. Furthermore, he noted that the worst-case scenario would be a touch of the weekly EMA200, and this is not a place where bull markets end. The real midterm prediction is a higher move for the Bitcoin price. Before posting the supposedly bearish prediction, Stockmoney Lizards had shared another analysis describing Bitcoin as being close to the endboss at the weekly EMA50 indicator. Bitcoin Price Chart. Source: @StockmoneyL On X That earlier chart offered a clearer view of his actual stance. In it, he predicted that Bitcoin was approaching a major technical pivot and that he expected upward movement into the end of December and Q1 2025. Therefore, the weekly EMA50 is the barrier that Bitcoin needs to reclaim in order to launch its next phase of bullish momentum. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55646720,
+    "published": 1765465200000,
+    "title": "Coinbase Taps Chainlink CCIP as Sole Bridge for $7B in Wrapped Tokens Across Chains",
+    "body": "The integration enables users to move these assets across different networks and applications, leveraging Chainlink's secure oracle networks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Web3|Chainlink|Coinbase|Base|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55646639,
+    "published": 1765465200000,
+    "title": "Most Influential: Shayne Coplan",
+    "body": "Once mired in legal trouble that included federal probes and law enforcement raids, Polymarket founder and CEO Shayne Coplan has emerged victorious this year, casting off the yoke of regulatory scrutiny and growing the prediction market he founded into a $9 billion betting empire.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Polymarket|Shayne coplan|Kalshi|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55646722,
+    "published": 1765465200000,
+    "title": "Most Influential: Cathie Wood",
+    "body": "Throughout crypto’s ups and downs, Ark Invest CEO Cathie Wood has remained unflaggingly bullish on the industry’s future.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|ARK Invest|Cathie Wood|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55646443,
+    "published": 1765464625000,
+    "title": "Coinbase Ending USDC Rewards for Free Users, Will Only Be for Paid Members",
+    "body": "Not all Coinbase users will be able to earn rewards on USDC holdings, as the exchange moves to make it a feature for Coinbase One members.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55647149,
+    "published": 1765466052000,
+    "title": "Spanish Police Dismantle Network Linked to Crypto ‘Wrench Attack’ Murder",
+    "body": "Five people have been arrested following a murder and kidnapping in April, with another four charged in Denmark.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
