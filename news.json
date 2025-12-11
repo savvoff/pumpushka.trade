@@ -1,203 +1,5 @@
 [
   {
-    "id": 55615734,
-    "published": 1765402208000,
-    "title": "A Startup Is Trying to Take the Twitter Name From Elon Musk by Force—And It Might Work",
-    "body": "Operation Bluebird, led by Twitter's former trademark lawyer, filed to cancel X Corp's Twitter trademarks after Musk abandoned the brand. Will Musk spend millions defending a name he deliberately killed?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 55615556,
-    "published": 1765401799000,
-    "title": "U.S. Banking Regulator Warns Wall Street on 'Debanking,' Claims Practices 'Unlawful'",
-    "body": "The Office of the Comptroller of the Currency probed debanking of certain industries, including digital assets, and said it'll pursue any repeat of such activity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Office of the Comptroller of the Currency|Banking|Regulation|Donald Trump|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55615551,
-    "published": 1765401798000,
-    "title": "GameStop Q3 earnings miss estimates, pressured by soft sales and lower BTC gains",
-    "body": "Falling sales and diminished Bitcoin gains pressured earnings, with the stock continuing to retrace its brief rally in March.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55616034,
-    "published": 1765402712000,
-    "title": "Pantera, Coinbase back Surf’s $15M push to build crypto-native AI models",
-    "body": "The funding will support Surf’s next AI model aimed at delivering deeper onchain analysis and automating research for crypto companies and traders.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55616759,
-    "published": 1765404715000,
-    "title": "Crypto Debanking and Efforts to 'Weaponize Finance' Must End, Says Top US Banking Regulator",
-    "body": "Major U.S. banks denied services to crypto and other lawful businesses based on industry rather than risk, an OCC preliminary report finds.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55616841,
-    "published": 1765404709000,
-    "title": "Fed slashes interest rates, but issues mixed forward guidance",
-    "body": "A lack of clarity on future interest rate cuts under Jerome Powell's leadership has placed a damper on a Bitcoin price rally, analysts say.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55617144,
     "published": 1765405800000,
     "title": "State Street and Galaxy to Launch Tokenized Liquidity Fund on Solana in 2026",
@@ -280,41 +82,6 @@
     ]
   },
   {
-    "id": 55616964,
-    "published": 1765405209000,
-    "title": "Elon Musk's SpaceX Moves Bitcoin Ahead of Potential Record IPO",
-    "body": "Elon Musk's private aerospace company SpaceX moved more of its Bitcoin holdings on Wednesday ahead of reported blockbuster IPO plans.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55617954,
     "published": 1765407876000,
     "title": "Official Trump Crypto Game Revealed With $1 Million in Solana Meme Coin Rewards",
@@ -387,41 +154,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55618714,
-    "published": 1765404348000,
-    "title": "Bank of Mexico Maintains Crypto Caution Despite Global Shift",
-    "body": "Mexico’s central bank said it will maintain a “healthy distance” between digital assets and the country’s traditional financial system.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
@@ -3266,6 +2998,227 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55658942,
+    "published": 1765489672000,
+    "title": "Bitcoin, blockchain should form Pakistan’s new financial rail, minister says",
+    "body": "The remarks signal Pakistan’s push to turn its grassroots crypto activity into a compliant, innovation-driven sector anchored by Bitcoin and digital-asset regulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55658749,
+    "published": 1765489236000,
+    "title": "Save the Children Launches Bitcoin Fund as Aid Groups Look for Faster Crisis Payments",
+    "body": "Save the Children introduced a Bitcoin fund aimed at speeding cash assistance during emergencies and expanding its use of crypto tools.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55659325,
+    "published": 1765490577000,
+    "title": "Do Kwon Sentenced to 15 Years in Prison Over $40 Billion Terra Crypto Collapse",
+    "body": "Terraform Labs founder Do Kwon was sentenced to 15 years in prison, following the $40 billion collapse of UST and Luna in May 2022.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "luna-wormhole|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      }
+    ]
+  },
+  {
+    "id": 55659195,
+    "published": 1765490425000,
+    "title": "Shiba Inu Lead Dev Reacts To Wild Development On Coinbase Involving $35 Million In SHIB",
+    "body": "The Shiba Inu community was jolted by an unexpected surge of whale activity this week, involving a staggering $35 million worth of SHIB. The large-scale whale movement not only caught the community’s attention but also prompted a rare public reaction from Shiba Inu’s lead developer, Shytoshi Kusama. After months of silence, Shytoshi has seemingly resurfaced to acknowledge the massive transfer. Shiba Inu Lead Dev Breaks Silence After Massive Whale Move After over three months of silence, Kusama reappeared on X as the Shiba Inu community reacted to a substantial whale movement. His return followed a repost by World Blockchain Capital about the unusually large transfer of 4,136,208,073,220 SHIB from the crypto exchange Coinbase to a private key wallet. Related Reading: 121 Billion Shiba Inu Coins From Exchanges, Where Are They Headed With Prices Down? World Blockchain Capital tagged several members of the Shiba Inu community in the transaction, urging them to take note and highlighting how rare such a move has been recently. The transaction was first identified by market analyst Del Crxpto, who reported that the more than 4 trillion SHIB transfer was worth about $35 million. Typically, when tokens are removed from exchanges and moved to a private wallet address, it often signals strategic accumulation or long-term holding by major investors rather than immediate trading activity. In this case, the size of the transaction ignited bullish sentiment from market watchers, especially in a period where the price is experiencing significant volatility and choppy action. Excluding the shock of the transfer, what really caught the interest of the community was Kusama’s unexpected reappearance. The lead developer had previously explained in an earlier post that his reduced visibility was due to a shift in focus toward other new projects. At the time, he disclosed a new interest in Artificial Intelligence (AI) initiatives aimed at advancing the ecosystem. Kusama emphasized that, despite exploring new directions, he continues to work with SHIB developers, including Kaal Dhairya and others, to shape Shiba Inu’s next phase. Analyst Eyes $0.0002 SHIB As Whales Return A new report by market analyst ‘SHIB Crack’ on X reveals that the price of Shiba Inu is showing signs of a massive breakout amid rising market activity. Currently, the SHIB price is in a downtrend, dropping by more than 6% this week and over 16% in the past month. Related Reading: Will The Shiba Inu Price Hit A New All-Time High In 2025? Machine Learning Algorithm Answers Despite this severe downturn, SHIB Crack believes that the cryptocurrency is gearing up for a massive rise $0.00002. At the time of writing, the meme coin is trading at $0.0000082, meaning a surge to the analyst’s projected target would require a gain of over 142% SHIB Crack has attributed his bullish forecast to the recent sharp surge in whale activity. According to the post on X, SHIB whales have reemerged and are silently accumulating tokens, signaling confidence in the token’s potential to rally. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Shiba Inu|AI|coinbase|Del Crxpto|Kaal Dhairya|SHIB|SHIB Crack|SHIB news|SHIB price|Shiba Inu news|Shiba Inu Price|SHIBUSD|SHIBUSDT|Shytoshi Kusama'|World Blockchain Capital",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 44,
+        "NAME": "SHIB",
+        "CATEGORY": "SHIB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55659275,
+    "published": 1765490404000,
+    "title": "Terraform co-founder sentenced to 15 years in prison after guilty plea",
+    "body": "A federal judge heard statements from some of Terraform Labs’ and Do Kwon’s victims for hours before deciding on the co-founder’s sentence.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      }
+    ]
+  },
+  {
+    "id": 55659143,
+    "published": 1765490295000,
+    "title": "Terraform's Do Kwon Sentenced to 15 Years in Prison for Fraud",
+    "body": "The Terraform Labs co-founder pleaded guilty to conspiracy and wire fraud in August.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Do Kwon|terraform labs|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      }
+    ]
+  },
+  {
+    "id": 55659441,
+    "published": 1765490423000,
+    "title": "Do Kwon Gets 15 Years in Prison for $40 Billion Terraform Fraud",
+    "body": "Terraform Labs Pte. co-founder and onetime fugitive Do Kwon was sentenced to 15 years in prison for the fraud that led to the company’s $40 billion collapse in 2022 and triggered a series of cascading crises in the cryptocurrency world.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
