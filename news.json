@@ -1,52 +1,5 @@
 [
   {
-    "id": 55605536,
-    "published": 1765382500000,
-    "title": "Investors Are Hunting for Countercyclical Value in Privacy Coins",
-    "body": "In this week’s Crypto Long & Short Newsletter, Carter Feldman writes that the bear market makes this a prime moment for privacy coins, signaling growing user demand for true financial autonomy. Then, we dive into Ethereum with Andy Baehr’s “vibe check” – when ETH rallies, it may signal something larger is afoot.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|Privacy Coin|Privacy Coins|CoinDesk Indices|Crypto Long & Short|institutional investor|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55606400,
     "published": 1765383928000,
     "title": "The Significance Of XXI And What It Means For Strategy",
@@ -3208,6 +3161,175 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55647711,
+    "published": 1765467238000,
+    "title": "BONK Extends Slide as Resistance Rejection Pushes Token Back Toward Support",
+    "body": "BONK fell 4.5% as resistance near $0.00001010 capped early strength, sending the token into a tight consolidation band around $0.00000910.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 113,
+        "NAME": "BONK",
+        "CATEGORY": "BONK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55647424,
+    "published": 1765466673000,
+    "title": "Hong Kong's OSL Group to Offer U.S.-Regulated Stablecoin with Anchorage Digital",
+    "body": "The USDGO token will be issued under U.S. federal oversight and backed 1:1 by U.S. dollar assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoin|Anchorage Digital|OSL|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 55647804,
+    "published": 1765467000000,
+    "title": "Prediction markets bet Bitcoin won’t reach $100K before year’s end",
+    "body": "Bitcoin bull market optimism has suffered since the Oct. 10 crash, as chances of a short-term BTC price rally above $100,000 appeared to be fading.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55648551,
+    "published": 1765468800000,
+    "title": "Crypto for Advisors: Tokenization Trends",
+    "body": "Tokenized Money Market Funds were the breakout asset in 2025. Institutional adoption, regulatory shifts, and new cash rails point to 2026 as the year of acceleration.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|Tokenization|Institutional Investment|CoinDesk Indices|Crypto for Advisors|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55649074,
+    "published": 1765469768000,
+    "title": "Bitcoin Stumbles Back Below $90K as Dollar Sinks to 7-Week Low After Fed Rate Cut",
+    "body": "The dollar, along with precious metals and bond yields, is reacting as expected to easier financial conditions, but crypto remains in a bearish trend.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|U.S. Dollar|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
