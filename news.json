@@ -1,169 +1,5 @@
 [
   {
-    "id": 55617144,
-    "published": 1765405800000,
-    "title": "State Street and Galaxy to Launch Tokenized Liquidity Fund on Solana in 2026",
-    "body": "The fund will run on Solana at launch and use PYUSD.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Tokenization|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 191,
-        "NAME": "PYUSD",
-        "CATEGORY": "PYUSD"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55617060,
-    "published": 1765405328000,
-    "title": "Crypto CEOs Join U.S. CFTC's Innovation Council to Steer Market Developments",
-    "body": "The chief executives of firms such as Gemini and Kraken will pitch in on U.S. policy efforts through the council's future, public discussions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|U.S. Commodity Futures Trading Commission|Gemini|Polymarket|Kraken|Caroline D. Pham|Regulation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55617954,
-    "published": 1765407876000,
-    "title": "Official Trump Crypto Game Revealed With $1 Million in Solana Meme Coin Rewards",
-    "body": "Trump Billionaires Club on iOS and Android will launch by year's end and offer $1 million worth of the president's meme coin as rewards.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "official-trump||Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55617853,
-    "published": 1765407636000,
-    "title": "America’s Largest Banks Quietly Embrace Bitcoin Loans, Saylor Says",
-    "body": "Michael Saylor, executive chairman of Strategy, told attendees at Binance Blockchain Week that the wall of skepticism inside big banks is breaking down faster than he once expected. Related Reading: All-In On XRP: Why This Leading Investor Sold His Entire Bitcoin Stack He said he had thought it might take four to eight years for major financial firms to move fully into Bitcoin. Now, he says, that timeline is compressing and the shift is visible right away. Banking Giants Reverse Course According to Saylor, the past 12 months have seen heavy hitters — including Citibank, BNY, Bank of America, PNC, JPMorgan, Wells Fargo and Vanguard — shift from hostility to a more welcoming stance on crypto. Reports have disclosed that Vanguard has enabled clients to trade ETF shares linked to XRP and Bitcoin through its platform. Saylor added that internal plans are in motion at several institutions to roll out custody services and credit lines tied to crypto holdings. Loans Backed By Bitcoin Based on Saylor’s remarks, Charles Schwab is preparing to offer Bitcoin custody and to extend credit against BTC as soon as next year, and Citibank is said to be moving in a similar direction. He recalled earlier struggles to secure bank loans using Bitcoin as collateral and said lenders have flipped their approach within roughly six months. According to him, eight of the top 10 US banks are now issuing credit backed by Bitcoin, a claim that highlights how quickly attitudes appear to be changing inside the industry. Political Climate Could Be Speeding Things Up Saylor pointed to policy shifts under US President Donald Trump as a factor that has encouraged banks to leave the sidelines. Many firms were already experimenting with blockchain years ago — Goldman Sachs, for example, issued one of the first Bitcoin-backed loans in 2022 — but a friendlier regulatory tone, he said, has accelerated planning and product development. Still, banks face legal, operational and risk hurdles before these services reach broad retail customers. Markets Watching Fed Announcement Meanwhile, traders and analysts are watching the Federal Open Market Committee. The Fed is expected to cut rates by 0.25%, bringing the target to 3.5%–3.75%, a move that often boosts risk assets like Bitcoin. Volatility is likely around the announcement, and some market players warn that early rallies can reverse quickly when the Fed provides forward guidance. Related Reading: NFT Slump Worsens With Monthly Sales Hitting Rock Bottom Technical Signals And Sentiment Bitcoin’s own moves were discussed alongside the banking story. The crypto fear gauge hit 10 this week, signaling extreme fear, and price rebounded from $86,700 to roughly $92,300. One analyst flagged resistance near $94,200 and suggested a clean breakout could open a path toward $103,000. Another observer noted Bitcoin has lagged the Nasdaq’s recovery, a divergence that could work in either direction if markets shift. Featured image from The Information, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|banks|bitcoin|btc|btcusd|crypto|fed|FOMC",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55620558,
     "published": 1765415324000,
     "title": "Crypto among sectors ‘debanked’ by 9 major banks: US regulator",
@@ -3219,6 +3055,52 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55659845,
+    "published": 1765491820000,
+    "title": "Crypto founder Do Kwon sentenced to 15 years in prison",
+    "body": "Tycoon had been applauded by supporters when he entered Manhattan courtroom",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55660186,
+    "published": 1765492584000,
+    "title": "CFTC Gives No-Action Leeway to Polymarket, Gemini, PredictIt, LedgerX Over Data Rules",
+    "body": "The CFTC granted the operators of Polymarket, PredictIt, Gemini and LedgerX permission to skip certain recordkeeping requirements.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|U.S. Commodity Futures Trading Commission|Polymarket|PredictIt|Gemini|Prediction Markets|LedgerX|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
