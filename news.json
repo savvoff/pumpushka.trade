@@ -1,163 +1,5 @@
 [
   {
-    "id": 55601233,
-    "published": 1765375259000,
-    "title": "More Details On The Wall Street $500 Million Investment In XRP",
-    "body": "Ripple’s most recent funding round has become one of the biggest crypto-related deals of the year, mainly because of who joined in and how the deal was structured. According to details shared in Bloomberg’s report, major Wall Street names, including Citadel Securities, Fortress Investment Group, Brevan Howard, and Galaxy Digital, put $500 million into Ripple, giving the company a valuation of around $40 billion. This instantly turned the round into one of the strongest signs yet that traditional finance is taking a serious interest in the XRP ecosystem. How Wall Street Structured The Deal To Protect Themselves In early November 2025, Ripple closed a major private equity round that injected $500 million into the company, resulting in a valuation of roughly $40 billion. However, new details show that the most surprising part of the transaction is not the amount raised but the agreement behind it. Bloomberg reports that investors in this round did not simply buy Ripple shares and hope the value rises. Instead, they secured built-in protections that guarantee them profits later. Related Reading: Here’s The Level That XRP Price Must Reclaim To Trigger Another Surge They were given the right to sell their shares back to Ripple in three to four years at a 10% yearly return, unless Ripple goes public before then. At that rate, Ripple would need to pay roughly $732 million to buy the shares back after four years. That means even if Ripple’s valuation stays flat or drops, the investors still walk away with guaranteed gains. However, if Ripple decides to buy the shares back earlier, the investors get an even higher payout of around 25% annualized rate. A liquidation preference was also included, meaning these investors get paid first if anything goes wrong. Ripple noted in its announcement of the investment round that it has repurchased more than 25% of its outstanding shares over the past few years. Why The Deal Is Really A Bet On XRP Even though the investors bought equity in Ripple, not XRP itself, most of Ripple’s value still comes from its massive XRP holdings. According to Bloomberg, two of the funds that put in money noted that at least 90% of Ripple’s net value is tied to XRP. As of July 2025, Ripple held around $124 billion worth of XRP, although most of its XRP holdings are held in escrow. Related Reading: What’s Happening With XRP And Why Did Its Spot ETF Crash 20%? This means the investment round, in reality, is also a bet on XRP’s long-term relevance and future market strength. If the price of XRP grows, Ripple benefits, and so do the investors who now hold equity backed by a company sitting on one of the world’s largest digital asset reserves. However, the $500 million investment does show that serious investors believe Ripple will continue growing, but just that Ripple’s success is still directly linked to the XRP price. Featured image from Adobe Stock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|bloomberg|Brevan Howard|Citadel Securities|fortress investment group|Galaxy Digital|Ripple|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55601168,
-    "published": 1765375200000,
-    "title": "Telegram Ring Ran Pump-and-Dump Network That Netted $800K in a Month: Solidus Labs",
-    "body": "A Solidus Labs investigation details how an invite-only Telegram group used bots, fake narratives and rapid token deployments across Solana and BNB Chain to manipulate markets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Pump and dump|Telegram|Market Manipulation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55601252,
-    "published": 1765374808000,
-    "title": "Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency",
-    "body": "The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55600962,
-    "published": 1765374607000,
-    "title": "Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto",
-    "body": "Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55602526,
     "published": 1765377587000,
     "title": "Teacher’s Union Says U.S. Senate Crypto Bill Puts Pensions and Economy at Risk: CNBC",
@@ -3225,6 +3067,157 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55644327,
+    "published": 1765460762000,
+    "title": "US DoJ Indicts Ukrainian Over Russia-Linked Cyberattack Groups That Paid in Crypto",
+    "body": "The individual was allegedly involved in two groups that used Telegram to claim credit for attacks against infrastructure targets in the U.S.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55644099,
+    "published": 1765460397000,
+    "title": "Saylor’s Plan To Build A Bitcoin Powered Shadow Central Bank",
+    "body": "Saylor’s bitcoin based monetary engine built on reserves, credit and digital money that could act like a stablecoin, supported by a plan to buy and hold bitcoin at scale.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55644416,
+    "published": 1765461000000,
+    "title": "Klarna Partners With Privy to Explore Crypto Wallet Use Within its Ecosystem",
+    "body": "The project aims to make crypto more accessible to everyday users, building on Klarna's recent launch of KlarnaUSD, a dollar-backed stablecoin.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Klarna|crypto wallet|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55645278,
+    "published": 1765462393000,
+    "title": "Trust Wallet taps Revolut for crypto purchases in Europe",
+    "body": "Trust Wallet’s “zero-fee” crypto purchases through Revolut arrive weeks after the fintech unicorn hit a $75 billion valuation in a private share sale.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55645028,
+    "published": 1765462040000,
+    "title": "Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026",
+    "body": "Ether's inverse head-and-shoulders pattern and rebound from a key accumulation zone signal a potential 80% rally in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
