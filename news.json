@@ -1,279 +1,5 @@
 [
   {
-    "id": 55643805,
-    "published": 1765459887000,
-    "title": "Mexico’s Central Bank Keeps a ‘Healthy Distance’ From Crypto",
-    "body": "Banxico’s year-end report reaffirms its anti-crypto stance, highlighting legal risks, low adoption, and the need for international regulation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Banco de Mexico|Bank of Mexico|Crypto|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55643736,
-    "published": 1765459823000,
-    "title": "Bitcoin Realized Losses From Entities Surges To 2022 Levels Following Crash Below $90,000",
-    "body": "Bitcoin’s price action in the past two weeks has opened a new phase of stress among traders, with on-chain data showing realized losses climbing to heights last observed in 2022. Glassnode’s latest Week-On-Chain report shows Bitcoin is trading above an important cost-basis level but is also visibly straining under intensified loss realization, fading demand and weakening liquidity, which has placed short-term investors in a difficult position. Realized Losses Return To Deep Territory According to Glassnode, realized losses among Bitcoin entities have risen massively, and is now almost at the same magnitudes recorded during the deep retracements of the 2022 bear market. Particularly, the Relative Unrealized Loss (30D-SMA) has climbed to 4.4% after nearly two years below 2%. Related Reading: The Current Bitcoin Price Pump Will End In A Crash – Here’s When To Start Selling The escalation in loss realization reflects how the recent drawdown below $90,000 has forced a large number of market participants to offload coins at prices below their acquisition cost. This, in turn, has disrupted the gradual improvement in profitability seen earlier in the year. Bitcoin’s recent bounce from the November 22 low to above $92,000 hasn’t eased the strain on holders. Glassnode noted that entities are still locking in losses at an increasing pace, with the 30-day average of realized losses now at around $555 million per day. These conditions mean that investors are losing confidence in short-term upside prospects for Bitcoin and choose to reduce exposure, even at unfavorable prices. Therefore, the report noted that resolving it will require a renewed wave of liquidity and demand to rebuild confidence. Glassnode also highlights a sharp rise in profit-taking among long-term holders, whose realized gains have climbed to roughly $1 billion per day and briefly set a new record above $1.3 billion. Even with this elevated level of distribution, Bitcoin is currently positioned just above the True Market Mean, which is a long-standing cost-basis benchmark that serves as a point of structural support. The recent price downturn below $90,000 has pushed this zone close to its limits, but the glimpse of demand reflected around it suggests that price could revisit the 0.75 quantile near $95,000 and possibly approach the short-term holder cost basis as well. Spot ETF, Futures, And Options Markets Indicate Weakness Glassnode’s report points to persistent softness across ETF flows, which have cooled notably after a period of strong inflows earlier in the year. This slowdown represents a reduction in one of the largest and most immediate sources of buy-side liquidity for Bitcoin. Related Reading: Why Is The Bitcoin Price Down Again? Analyst Calls Out Trading Desk For Triggering Crashes Spot market liquidity has also faded, with order books on major exchanges near the lower bound of their 30-day range. This has created an environment where trading activity has weakened through November and into December, and fewer liquidity flows are available to absorb volatility or sustain directional moves. Derivatives positioning reflects similar caution, with funding rates pinned near neutral. Futures open interest has also been subdued and has failed to meaningfully rebuild since the breakdown below $90,000. Across all major venues, the tone is the same: liquidity is lighter, sentiment is softening, and participants are leaning defensive rather than pursuing short-term rallies. The attention is now on how Bitcoin will respond in the aftermath of the Federal Reserve’s recent rate cut. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|fed|federal reserve|Futures Open Interest|glassnode|Relative Unrealized Loss (30D-SMA)|True Market Mean",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55644327,
-    "published": 1765460762000,
-    "title": "US DoJ Indicts Ukrainian Over Russia-Linked Cyberattack Groups That Paid in Crypto",
-    "body": "The individual was allegedly involved in two groups that used Telegram to claim credit for attacks against infrastructure targets in the U.S.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55644099,
-    "published": 1765460397000,
-    "title": "Saylor’s Plan To Build A Bitcoin Powered Shadow Central Bank",
-    "body": "Saylor’s bitcoin based monetary engine built on reserves, credit and digital money that could act like a stablecoin, supported by a plan to buy and hold bitcoin at scale.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55644416,
-    "published": 1765461000000,
-    "title": "Klarna Partners With Privy to Explore Crypto Wallet Use Within its Ecosystem",
-    "body": "The project aims to make crypto more accessible to everyday users, building on Klarna's recent launch of KlarnaUSD, a dollar-backed stablecoin.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Klarna|crypto wallet|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55645278,
-    "published": 1765462393000,
-    "title": "Trust Wallet taps Revolut for crypto purchases in Europe",
-    "body": "Trust Wallet’s “zero-fee” crypto purchases through Revolut arrive weeks after the fintech unicorn hit a $75 billion valuation in a private share sale.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55645028,
-    "published": 1765462040000,
-    "title": "Ethereum vs. Bitcoin: ETH price poised for 80% rally in 2026",
-    "body": "Ether's inverse head-and-shoulders pattern and rebound from a key accumulation zone signal a potential 80% rally in 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55645490,
-    "published": 1765461445000,
-    "title": "UK Lawmakers Urge Reeves to Challenge BOE on Stablecoin Plans",
-    "body": "A cross-party group of UK lawmakers has urged Chancellor Rachel Reeves to push back against the Bank of England’s proposals to cap stablecoin holdings in the country, arguing its policies would undermine government efforts to position the UK as a leader in digital assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55646643,
     "published": 1765465219000,
     "title": "Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000",
@@ -3053,6 +2779,238 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55689598,
+    "published": 1765546878000,
+    "title": "Pakistan clears Binance and HTX to seek local crypto licenses",
+    "body": "Pakistan gives a nod for crypto exchanges Binance and HTX to register local subsidiaries as regulators advance a phased crypto framework.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55689597,
+    "published": 1765546840000,
+    "title": "Ethereum price rallied 260% the last time this happened: Can ETH reach $5K?",
+    "body": "A buying opportunity from Ethereum’s realized price projected a major rally, as analysts say a return to $5,000 in 2026 is plausible.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55689441,
+    "published": 1765546487000,
+    "title": "Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE",
+    "body": "The cryptocurrency industry is riding on the tailwinds of regulatory clarity and newfound interest from institutional investors into the new year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55690361,
+    "published": 1765548174000,
+    "title": "Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B",
+    "body": "Crypto investor demand for memecoins remains at lows not seen since 2024, despite a growing speculative appetite that has boosted TradFi leveraged ETFs to a record $239 billion.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55689976,
+    "published": 1765547501000,
+    "title": "Morning Minute: Do Kwon Gets 15 Years for $40B Terra Luna Fraud",
+    "body": "The sentencing brings a measure of justice, finally, for all of those impacted by the collapse of Terra and its UST stablecoin in 2022.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|terra-luna-2|luna-wormhole|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      }
+    ]
+  },
+  {
+    "id": 55690875,
+    "published": 1765549079000,
+    "title": "CoinDesk 20 Performance Update: SUI Gains 5.2%, Leading the Index Higher",
+    "body": "Aave (AAVE) was also among the top performers, rising 4.5% from Thursday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 2,
+        "NAME": "AAVE",
+        "CATEGORY": "AAVE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55690635,
+    "published": 1765548740000,
+    "title": "MiCA Will Make or Break Euro-Pegged Stablecoins by 2026: DECTA",
+    "body": "German payments processor DECTA expects euro-pegged stablecoins to gain traction in payments and tokenized finance as MiCA takes full effect across the EU.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Stablecoins|Europe|MiCA|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55690950,
+    "published": 1765548543000,
+    "title": "Interactive Brokers Allowing Accounts to be Funded by Stablecoin",
+    "body": "Interactive Brokers Group Inc. is now allowing retail investors to fund individual brokerage accounts with stablecoins as the once-bright lines between traditional and digital finance blur.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NMS:IBKR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
       }
     ]
   }
