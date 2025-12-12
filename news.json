@@ -1,216 +1,5 @@
 [
   {
-    "id": 55621695,
-    "published": 1765418450000,
-    "title": "Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi",
-    "body": "Dragonfly managing partner Haseeb Qureshi has sharpened his defense of Ethereum’s valuation, arguing that critics are using the wrong financial framework and that ETH should be analyzed more like an early-stage Amazon than a mature “value” stock. Speaking on the Milk Road Show on 9 December 2025, Qureshi revisited his now-viral valuation clash with investor Santiago “Santi” Santos, hosted by ThreadGuy, which reignited the debate over how to price layer 1 blockchains. At the core of Qureshi’s thesis is a simple but controversial claim: fee revenue on Ethereum is effectively pure margin and should be treated as profit, not as “revenue” in the traditional corporate sense. “Blockchains don’t have revenue. They have profit,” he said. “When chains charge fees, that’s profit. There’s no expenses for a chain. Chains don’t pay expenses, right? There’s no AWS hosting cost for Ethereum.” Qureshi Pushes Back On Claims Ethereum Is Overvalued Santos had argued that Ethereum is trading at “300 plus” times sales, calling these price-to-sales (P/S) levels “embarrassing” relative to traditional companies and suggesting valuations are “way ahead of their skis.” Qureshi did not contest the magnitude of the multiples but rejected P/S as the right lens. Related Reading: Ethereum Sees Largest Binance Inflow Since 2023 – Warning Sign? “He was insisting in the debate that the right way to look at these things is price of sales. So if you look at price sales for Ethereum, it’s something like 380. If you look at Amazon, I think Amazon topped out at price of sales of 42. And this was during the bubble,” Qureshi said. He countered that for a blockchain, what equity investors would call “sales” is closer to the GDP or GMV of the on-chain economy, which is not directly measured at the protocol level. The only clean, observable line is fee income, which he treats as net income. “The sales in some sense is like the GDP of the blockchain which we’re not measuring,” he argued. “The right thing to understand for a chain is the profit… The right thing to understand is what is the profit of Ethereum relative to the profit of Amazon.” That opens the door to the Amazon analogy. Qureshi emphasized that Amazon delayed profitability for almost two decades to prioritize growth, yet public markets still assigned it extremely high earnings multiples. “Amazon literally made no profit, no profit until basically about 20 years in as a business,” he said. “In the year I think it was 2013… Amazon had a PE ratio… over 600 whereas today the PE ratio of Ethereum of course is something like 380.” Because Ethereum’s P/S and P/E converge under his “fees = profit” assumption, Qureshi’s argument is that investors should compare ETH’s 300–380x multiple to Amazon’s P/E history, not to its much lower P/S, if they are going to use a single headline ratio at all. The broader context, he stressed, is that Ethereum and other L1s are still in an exponential build-out phase, more akin to early internet or e-commerce infrastructure than to late-cycle dividend payers. Related Reading: Ethereum Inches Toward A Critical Decision Point: Bullish Break Or Deeper Dive? “This technology has been getting bigger and bigger over time. It’s gobbling up the entire world of finance from where it started,” he said, referencing his essay “In Defense of Exponentials.” “None of [these technologies] started printing a bunch of profit immediately in the first five or even 10 years.” Despite choppy price action and underperformance of altcoins versus AI equities and gold, Qureshi said his conviction in the long-dated Ethereum thesis has increased, not weakened, through the public debate. “If anything, I have become more confident in my view,” he said, adding that nothing material had changed in the last months to justify a major portfolio rethink. “What exactly has changed in the last 2 months between, you know, ETH going to like $4,800 and ETH being at $3,000? The answer is basically nothing.” Shared some post-debate reflections on my L1 debate with @santiagoroel, my rebuttal against the “crypto is all a big casino” doomers, and where I think we are in the crypto macro cycle 👇 https://t.co/9uMJFuLVrX — Haseeb ＞|＜ (@hosseeb) December 9, 2025 For Qureshi, a genuine repositioning would require a clear invalidation of core assumptions—such as a quantum break of cryptography or a structural collapse in on-chain stablecoin demand. Short-term swings, in his view, are simply the pendulum of sentiment moving around a still-fixed fundamental anchor. His message to skeptics is that if markets tolerated Amazon at 600x earnings while it scaled into a dominant platform, dismissing Ethereum at roughly 300–380x on a “too high on P/S” argument alone is analytically inconsistent. At press time, ETH traded at $3,325. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH news|eth price|ethereum|ethereum news|ethereum price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55621721,
-    "published": 1765418333000,
-    "title": "Hong Kong Cardinal Calls AI a 'Gift From God' as Asian Bishops Mull Ethical Challenges",
-    "body": "Regional church leaders met to establish guidelines for the use of AI in ministry, education, and content.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 55623413,
-    "published": 1765422033000,
-    "title": "Solana Enters Bear Territory: Realized Loss Now Outweighs Profit",
-    "body": "On-chain data shows the Solana Realized Profit/Loss Ratio has dipped into the loss-taking zone recently, a sign that SOL liquidity has thinned. Solana Liquidity Back At Levels Associated With Bear Markets According to data from on-chain analytics firm Glassnode, Solana liquidity has recently contracted to levels that are typically witnessed in a bear market. There are many ways “liquidity” of a cryptocurrency can be assessed, but here, Glassnode has used the Realized Profit/Loss Ratio. Related Reading: Bitcoin In An Opportunity Zone? Hash Ribbons Flash New Buy Signal This indicator measures, as its name already implies, the ratio between the amount of profit and loss that the SOL investors as a whole are realizing through their transactions. The metric works by going through the transaction history of each coin being sold on the network to see what price it was last moved at. If the previous transaction price was less than the latest selling price for any token, then the indicator considers its sale to have realized a net gain. Similarly, the metric adds transactions to the loss-taking category in the opposite case. The exact amount of profit or loss realized in any transfer is naturally equal to the difference between the latest price and last selling value. The indicator adds up this value for both categories and determines the ratio. Now, here is the chart shared by the analytics firm that shows the trend in the 30-day moving average (MA) of the Solana Realized Profit/Loss over the last few years: As displayed in the above graph, the Solana Realized Profit/Loss witnessed a sharp spike during the price rally in September. This suggests that profit taking saw an explosion. The indicator maintained at high levels for a while, but following the price peak in October, its value went downhill fast. In November, the Realized Profit/Loss breached below the 1 mark as SOL plummeted. A value less than 1 on the metric implies loss realization is outpacing profit taking. Since this breakdown, the indicator has only gone lower inside the loss-taking region, a sign investor capitulation has only been becoming more dominant. Glassnode has noted that the trend signals “liquidity has contracted back to levels typically seen in deep bear markets.” During the 2022 bear market, Solana remained in these conditions for a few months before its price found a bottom. Related Reading: Bitcoin Speculation Muted: Glassnode Analyst Calls Perps A ‘Ghost Town’ It now remains to be seen whether the low liquidity will also persist for the cryptocurrency this time, or if the fall into the loss region is only a temporary one for the indicator. SOL Price Solana surged to $144 on Tuesday, but the coin has seen a fall back to $138. Featured image from Dall-E, Glassnode.com, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Solana|Sol|Solana Bear|Solana Bear Market|Solana Realized Loss|Solana Realized Profit|SOLUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55623238,
-    "published": 1765421738000,
-    "title": "Bitcoin Price Slides From Peak Levels—Is a Bigger Correction on Deck?",
-    "body": "Bitcoin price failed to continue higher above $94,000. BTC is now gaining bearish pace and might decline further below $89,500. Bitcoin started a downside correction from the $94,500 zone. The price is trading below $92,000 and the 100 hourly Simple moving average. There was a break below a bullish trend line with support at $91,600 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it settles below the $89,500 zone. Bitcoin Price Dips Again Bitcoin price failed to gain strength for a move above the $94,000 and $94,500 levels. BTC started a downside correction and traded below the $92,000 support. There was a clear move below the 50% Fib retracement level of the upward move from the $87,777 swing low to the $94,583 high. Besides, there was a break below a bullish trend line with support at $91,600 on the hourly chart of the BTC/USD pair. Bitcoin is now trading below $91,200 and the 100 hourly Simple moving average . The price is now approaching the $89,500 support, and the 76.4% Fib retracement level of the upward move from the $87,777 swing low to the $94,583 high. If the bulls remain in action, the price could attempt another increase. Immediate resistance is near the $91,200 level. The first key resistance is near the $91,500 level. The next resistance could be $92,000. A close above the $92,000 resistance might send the price further higher. In the stated case, the price could rise and test the $92,850 resistance. Any more gains might send the price toward the $93,500 level. The next barrier for the bulls could be $94,000 and $94,500. More Losses In BTC? If Bitcoin fails to rise above the $92,000 resistance zone, it could start another decline. Immediate support is near the $89,500 level. The first major support is near the $88,800 level. The next support is now near the $87,750 zone. Any more losses might send the price toward the $86,500 support in the near term. The main support sits at $85,000, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $89,500, followed by $88,800. Major Resistance Levels – $91,200 and $92,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55623907,
-    "published": 1765422077000,
-    "title": "Bitcoin Slides Below $90,000 After Fed Cut Even as Stocks Rally",
-    "body": "Bitcoin slipped in Asia trading hours while other risk assets gained after the US Federal Reserve cut interest rates and expressed optimism about the economy.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55625568,
     "published": 1765425718000,
     "title": "CFTC Innovation Council adds prediction market, exchange CEOs",
@@ -3195,6 +2984,176 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55666651,
+    "published": 1765504811000,
+    "title": "Dogecoin Could Stage A 600% Rally In 2026 If This Multi-Year Support Holds",
+    "body": "As the start-of-week momentum slows, Dogecoin (DOGE) dropped 5.5% on the daily timeframe, falling to the recent lows once again. Some analysts have suggested that the cryptocurrency is setting the stage for a massive short-term and mid-term rally if the retests of current levels hold. Related Reading: Cathie Wood Says Bitcoin Is ‘Climbing Another Wall Of Worry’– Here’s Why Dogecoin Prepares For $1 Milestone On Thursday, Dogecoin followed the rest of the crypto market and retraced to the $0.136-$0.138 levels. The cryptocurrency has retraced around 50% following the Q4 market downturn, trading within the $0.130-$0.155 price range over the past few weeks. Amid this week’s recovery, DOGE’s price briefly tested the local range highs, trying to break out of this area for the second time this month. However, Wednesday’s volatility, driven by the expectations of the Federal Reserve’s rate cut announcement, led to a 4.6% intraday drop before continuing its descent to the current levels. Market observer Trader Tardigrade highlighted the cryptocurrency’s performance, noting that Dogecoin is holding strong at a key support area despite the pullback, which could “potentially set the stage for a massive surge to $1” next year. According to the chart, DOGE is retesting an ascending support zone that has preceded major moves over the past two years. Since late 2023, this support has been retested three times, marking the bottom of each major corrective phase and serving as a “launchpad” to new highs. Notably, the subsequent rally’s size and duration have seen an increasing trend, with the bounces lasting longer and reaching higher levels after each retest of the two-year trendline. During the first rebound, Dogecoin rallied 87% in eight weeks. Meanwhile, DOGE surged by over 210% in ten weeks after retesting this crucial level. Lastly, it registered a 14-week 442% run between Q3 and Q4, 2024, to its multi-year high of $0.48. With the price currently retesting this level once again, the analyst suggested that a rally to the $1 mark could be brewing if the current levels hold. A bounce from this area could kick off a 610% jump at the start of 2026. DOGE’s Rally To September Highs Imminent? The trader also pointed out that DOGE’s MACD Bullish Crossover “is now happening.” He explained that the cryptocurrency’s trend began shifting from a downtrend to an uptrend on Wednesday, suggesting a significant price move is to follow. He previously affirmed that this setup has preceded previous breakouts this year, with the price surging to new local highs in Q2 and Q3 after each MACD bullish cross. As this setup begins to unfold, the analyst’s chart suggests that the price could bounce to the October levels. Similarly, other market observers hinted that Dogecoin could be preparing for a 60%-120% surge in the short term. Analyst Bitcoinsensus highlighted a classic bullish reversal pattern, a falling wedge pattern, that has been forming since October in DOGE’s chart. Related Reading: All Eyes On Ethereum: Price Attempts Key Breakout As BlackRock Files For Staked ETH ETF After the recent price action, the “price has been slowly bleeding inside this structure and now potentially forming a nice rounded bottom. If we get a decent breakout above the upper yellow line, we could be targeting the 0.20$ area (+60%),” the analyst stated. Meanwhile, AltCryptoTalk recently noted that Dogecoin is retesting “the same weekly demand zone that sparked every major rally in the past,” which could spark a 115% rally to the $0.30 September high if the area holds. As of this writing, Dogecoin is trading at $0.137, an 8% decline in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|crypto analyst|Crypto Bull Run 2025|crypto market correction|Crypto Market Recovery|Crypto trader|doge|DOGE breakout|Doge price|DOGE retest|Dogecoin|Dogecoin prediction|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55668339,
+    "published": 1765507598000,
+    "title": "SEC clears DTCC to offer securities market tokenization service",
+    "body": "The Depository Trust and Clearing Corporation plans to tokenize stocks, ETFs, and US Treasurys next year after receiving an SEC no-action letter.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55668670,
+    "published": 1765508410000,
+    "title": "Bitcoin Whales Refuse to Sell: Historic Signal Emerges As Binance CDD Drops To 2017 Levels",
+    "body": "Bitcoin has retraced below the $91,000 level following the Federal Reserve’s decision to cut interest rates by 25 basis points, a move that initially generated volatility across risk assets. While the market’s reaction has leaned bearish in the short term, on-chain data tells a very different story beneath the surface. Related Reading: The Whale Who Can’t Stop Buying: BitcoinOG Scales Ethereum Long To $280M After Price Surge According to new insights from CryptoQuant, one of the most striking signals comes from the Exchange Inflow Coin Days Destroyed (CDD) metric on Binance, which has fallen sharply to 380, its lowest reading since September 2017. CDD is one of the most important indicators for understanding long-term holder behavior because it assigns greater weight to older coins that have accumulated more “coin days.” Low values mean that the BTC moving onto exchanges is predominantly from short-term traders, not long-term holders. In other words, veteran holders — the investors who historically move markets — are refusing to sell, even as Bitcoin trades near cycle highs. Long-Term Holders Signal Strong Conviction CryptoOnchain highlights that the significance of this CDD collapse becomes far clearer when viewed against Bitcoin’s current price context. With BTC trading near $89,600, the market is witnessing an unusually large divergence between price action and long-term holder behavior. Historically, when Bitcoin approaches or surpasses all-time highs, long-held coins tend to move — triggering spikes in CDD as early investors and whales take profits. This pattern has repeated across past cycles, making elevated CDD a classic top-signal. But this time, the exact opposite is happening. Instead of old coins entering exchanges, Exchange Inflow CDD is collapsing, indicating that almost none of the BTC being deposited onto Binance comes from long-term wallets. CryptoOnchain explains that this phenomenon strongly suggests that Smart Money and long-term whales have zero interest in selling at these levels, even after a multi-month correction. This refusal to distribute supply removes a major source of overhead resistance and reflects a market dynamic driven increasingly by strong hands. The absence of long-term sell pressure reduces the available liquid supply, often preceding powerful bullish expansions. In simple terms, whales are signaling confidence — not caution — despite short-term volatility, reinforcing the narrative that Bitcoin may be preparing for its next major move. Related Reading: Why Ethereum’s Rally Isn’t Overheated – And Where Demand Must Grow Next Bitcoin Price Action: Testing Support Amid Weak Momentum Bitcoin’s 3-day chart shows the market stabilizing just above the $90,000 level after last week’s sharp post-FED decline. Price remains compressed between the 200-day moving average (red line)—currently acting as primary support—and the 100-day moving average (green line) overhead, which continues to cap upward momentum. This creates a classic squeeze structure where BTC is holding its ground but struggling to reclaim lost trend levels. The recent candle structure highlights a series of higher lows forming near the $89K–$90K region, suggesting buyers are defending this zone as a short-term floor. However, the rejection from the 100-day MA reinforces the broader bearish shift, as BTC remains below both key trend indicators and is yet to reclaim the breakdown level around $100K. Related Reading: Ethereum Sees Largest Binance Inflow Since 2023 – Warning Sign? Volume also tells an important story: despite the bounce, buy-side conviction appears weak. The rebound has not been accompanied by a spike in demand, indicating that market participants are cautious following the rate cut and macro uncertainty. If Bitcoin loses the 200-day MA, the next major support lies closer to $84K, which would open the door to a deeper retracement. Conversely, a decisive close above the 100-day MA near $98K would signal momentum returning to the bulls. For now, BTC remains in a fragile consolidation with limited directional strength. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Binance|Bitcoin CDD|Bitcoin news|Bitcoin Whale|Bitcoin Whale Activity|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55669237,
+    "published": 1765509494000,
+    "title": "Ethereum Price Prepares for Upside Move—Is the Rally About to Return?",
+    "body": "Ethereum price started a fresh increase above $3,15 0. ETH is now consolidating and might soon aim for a clear upside break above $3,350. Ethereum started a downside correction from the $3,450 zone. The price is trading above $3,200 and the 100-hourly Simple Moving Average. There is a new connecting bullish trend line forming with support at $3,180 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move down if it settles below the $3,150 zone. Ethereum Price Holds Support Ethereum price managed to stay above $3,150 and started a fresh increase, beating Bitcoin . ETH price gained strength for a move above the $3,300 and $3,320 resistance levels. The bulls even pushed the price above $3,400. However, the bears were active below $3,450. A high was formed at $3,448 and the price is now correcting gains. There was a move below $3,250, and the price even spiked below the 50% Fib retracement level of the upward wave from the $2,914 swing low to the $3,448 low. However, the bulls were active near $3,150. Ethereum price is now trading above $3,200 and the 100-hourly Simple Moving Average . Besides, there is a new connecting bullish trend line forming with support at $3,180 on the hourly chart of ETH/USD. If there is another upward move, the price could face resistance near the $3,290 level. The next key resistance is near the $3,320 level. The first major resistance is near the $3,350 level. A clear move above the $3,350 resistance might send the price toward the $3,400 resistance. An upside break above the $3,400 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,450 resistance zone or even $3,500 in the near term. Another Decline In ETH? If Ethereum fails to clear the $3,320 resistance, it could start a fresh decline. Initial support on the downside is near the $3,200 level. The first major support sits near the $3,150 zone. A clear move below the $3,150 support might push the price toward the $3,040 support. Any more losses might send the price toward the $3,020 region. The next key support sits at $3,000. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $3,180 Major Resistance Level – $3,350",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
