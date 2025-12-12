@@ -1,244 +1,5 @@
 [
   {
-    "id": 55640917,
-    "published": 1765454511000,
-    "title": "Disgraced Terraform Labs Founder Do Kwon Faces Sentencing Today",
-    "body": "The upcoming sentencing comes after the South Korean entrepreneur pleaded guilty to defrauding investors in August.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "terra-luna-2|luna-wormhole|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 34,
-        "NAME": "LUNA",
-        "CATEGORY": "LUNA"
-      }
-    ]
-  },
-  {
-    "id": 55640752,
-    "published": 1765454400000,
-    "title": "Sky's Keel Starts $500M Investment Campaign to Boost RWAs on Solana",
-    "body": "The Tokenization Regatta aims to allocate funds and support to projects bringing tokenized real-world assets to the Solana network.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Solana News|Real World Assets|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55640801,
-    "published": 1765454264000,
-    "title": "Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled",
-    "body": "About 30% of the genesis PEPE supply was bundled under the same entity, which sold $2 million worth of tokens the day after launch, according to Bubblemaps.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 93,
-        "NAME": "PEPE",
-        "CATEGORY": "PEPE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55641374,
-    "published": 1765455243000,
-    "title": "Coinbase opens Solana DEX access as CeFi and DeFi converge",
-    "body": "Coinbase has plugged directly into Solana’s fast-growing DeFi ecosystem, letting users trade any Solana token via DEX rails without a formal listing.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55641306,
-    "published": 1765455229000,
-    "title": "Here’s Why Bitcoin is Falling Despite the Fed's Rate Cut",
-    "body": "Analysts say the Fed’s rate cut was priced in, driving Bitcoin lower as risks like sticky inflation and the 2026 election cycle mount.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55641013,
-    "published": 1765454395000,
-    "title": "Marketnode, Lion Global Bring Singapore-Vaulted Gold Fund Onchain on Solana",
-    "body": "The fund offers exposure to physical gold bars vaulted and insured in Singapore, with traditional custody and an option for in-kind redemption.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Gold|Solana News|Tokenized Assets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55642027,
-    "published": 1765456568000,
-    "title": "New Xiaomi Smartphones Will Come With Sei Crypto Wallets Preinstalled",
-    "body": "The partnership will see a Sei “crypto wallet and discovery app” preinstalled on devices sold outside mainland China and the U.S.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55643357,
     "published": 1765456944000,
     "title": "‘Cryptoqueen’ Ignatova’s Lawyer Faces Prosecution Over ‘Improper’ Threats",
@@ -3135,6 +2896,146 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55684510,
+    "published": 1765539000000,
+    "title": "Crypto Markets Today: Bitcoin Stuck in Post-Fed Range as Altcoins Slump Deepens",
+    "body": "Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55685662,
+    "published": 1765540849000,
+    "title": "Why This Market Analyst Is Warning Crypto Investors To Stop Buying XRP",
+    "body": "The XRP price could be on the verge of a massive crash, as a crypto analyst has identified a key technical pattern in the cryptocurrency’s structure that signals a potentially severe downturn. According to the analyst, this formation has appeared only twice in XRP’s history, and each time has preceded a devastating loss. If the pattern were to repeat, the cryptocurrency could be headed for more pain. The analyst warns traders and investors to stop buying XRP at this time, citing heightened risk. Analyst Advices Against Buying XRP As Price Crash Looms An urgent warning from market analyst Steph is Crypto has spread across the community, as he advises traders and investors to “not touch XRP anymore.” The analyst shared a video of his XRP price forecast on a recent X post, revealing that the altcoin’s long-term indicators point to a troubling setup that could mirror downturns observed during past market cycles. Related Reading: Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000 Steph Is Crypto shared that his study of the monthly Moving Average Convergence Divergence (MACD) for XRP has revealed a new bearish crossover taking shape, signaling declining momentum. The analyst stated that XRP had formed a bearish crossover on the chart only twice since its inception in 2012. Both times this pattern appeared, the cryptocurrency underwent one of the most dramatic price crashes ever, losing over half its value right after. He explained that during the first bearish crossover in 2019, XRP crashed by more than 84%. Similarly, a second crossover reemerged in 2022, triggering a deep price decline of about 67%. It’s worth highlighting that each time XRP formed this bearish signal, it was after a major bull market. In 2018, the cryptocurrency staged a historic rally that sent its price to its current all-time high above $3.84. Likewise, the steep correction in 2022 came on the heels of an explosive 2021 bull market, one of the most powerful in crypto’s history. Just as in the past, Steph Is Crypto sees a bearish crossover forming once again in the current cycle, suggesting that the conditions are aligning for another devastating price crash. He admitted that he wishes he had not spotted this formation on XRP’s chart, underscoring his usually bullish stance on the cryptocurrency. The analyst has cautioned traders to take this historical setup seriously and to consider the possibility that XRP could revisit significantly lower price ranges if the pattern plays out. XRP Price Momentum Remains Weak XRP remains in a downward trend, with its price barely holding above $2.00. The cryptocurrency has dropped by over 15% so far this month, declined about 2.2% over the past week, and has crashed approximately 16% year to date, according to CoinMarketCap. Related Reading: Here’s Why Strategy’s $1 Billion Bitcoin Purchase Did Not Trigger A Price Rally XRP’s price momentum is weak, with little indication of a near-term recovery. The cryptocurrency’s Fear and Greed Index has slipped to 42, edging closer to the “fear” zone. This market uncertainty is being driven by the cryptocurrency’s sluggish price action, despite having passed $3.00 earlier this year and nearly challenging its all-time high. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55685893,
+    "published": 1765541133000,
+    "title": "YouTube Now Allows U.S. Content Creators to Get Paid in PayPal’s Stablecon: Fortune",
+    "body": "YouTube has added PayPal’s dollar-pegged stablecoin as a payout option for U.S. content creators, marking one of PYUSD’s most high-profile use cases yet.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Web3|YouTube|Paypal usd|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 191,
+        "NAME": "PYUSD",
+        "CATEGORY": "PYUSD"
+      }
+    ]
+  },
+  {
+    "id": 55686598,
+    "published": 1765541824000,
+    "title": "U.S. SEC Gives Implicit Nod for Tokenized Stocks",
+    "body": "Clearing and settlement company the Depository Trust & Clearing Corp. said a subsidiary had received a no-action letter to offer tokenized real-world assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|SEC|Tokenization|Real World Assets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }
