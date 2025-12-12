@@ -1,28 +1,5 @@
 [
   {
-    "id": 55620558,
-    "published": 1765415324000,
-    "title": "Crypto among sectors ‘debanked’ by 9 major banks: US regulator",
-    "body": "The Office of the Comptroller of the Currency said crypto was one of many industries that banks had denied services to, and it could refer its findings to the Justice Department.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55621695,
     "published": 1765418450000,
     "title": "Ethereum Should Be Valued Like Amazon, Says Dragonfly’s Qureshi",
@@ -3101,6 +3078,129 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55662807,
+    "published": 1765497634000,
+    "title": "Is Dogecoin Waking Up? Critical On-Chain Metric Explodes Higher",
+    "body": "Dogecoin rose 4% to trade at $0.14 Thursday, according to market reports. Market capitalization was about $21 billion while 24-hour trading volume hovered near $1.6 billion. The move followed renewed on-chain activity that has drawn attention from traders and analysts. Related Reading: Institutions Scoop Up 9,000 Ether, Fueling Bullish Signals Spike In Active Wallets Based on reports from BitInfoCharts, the number of daily active addresses on the Dogecoin network jumped to over 67,500 on December 3, marking the second-highest reading in the past three months. That earlier spike on September 15 came as DOGE briefly approached a local top near $0.30. At that time, network activity rose as prices climbed; today, rising wallet activity is being watched closely as prices test a familiar zone after a long slide. Support Holding Near $0.14 Dogecoin is sitting above an important area around $0.138–$0.14, which has been tested and defended multiple times. Reports show the token has bounced off that level before, and trading volume has more than doubled during the most recent uptick, a sign that buying interest is growing. Market feeds also report mixed short-term figures: one line shows the token down by 5% in a week while another notes a 7.5% decline over the last week; those numbers do not align and highlight some reporting inconsistencies. Longer-term data show the token has lost roughly 60% over the past year and is about 50% off its recent highs. Volume And Technical Targets Traders are eyeing $0.16 as the next meaningful resistance. Based on reports, a decisive move above that zone would be the first clear break in the short-term bearish pattern. Beyond that, the 200-day exponential moving average sits as a broader target, often watched for signals that medium-term momentum has shifted. A break above the 200-day EMA would be treated by many as confirmation that a recovery could gain traction, although history shows these signals sometimes reverse quickly. Signals Are Mixed Daily active address spikes can point to rising interest. They can also reflect simple transfers, bot traffic, or wallet reshuffles by large holders. Increased volume helps the case for buyers, but active-address readings alone are not foolproof. The current setup looks like a battleground: both bulls and bears are more active than they were a few weeks ago. That activity makes the coming days important for traders who favor short-term moves. Related Reading: American Bitcoin Makes Big Buy, Adds 416 BTC To Its Stack Fed Meeting Adds A Macro Angle Meanwhile, this week’s Federal Reserve meeting has added an extra element of uncertainty. Market participants are parsing comments for signs of a rate cut, which many expect would lift risk assets, including cryptocurrencies. A shift in rate policy would likely move the broader market more than any single on-chain metric for one token. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|crypto|doge|Dogecoin|Fed meeting|memecoin",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55664620,
+    "published": 1765501036000,
+    "title": "SEC Approves DTCC Pilot to Record US Securities on Select Blockchains Via 'Registered' Wallets",
+    "body": "The three-year program will allow the market’s central clearinghouse to create tokenized entitlements under modified regulatory oversight.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55666119,
+    "published": 1765503724000,
+    "title": "Bitcoin miners could boost corporate adoption as crypto treasury buys slow",
+    "body": "Bitcoin miners Marathon Digital Holdings, Riot Platforms and Hut 8 are already in the top ten largest public companies holding Bitcoin.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
