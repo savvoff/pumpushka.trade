@@ -2376,5 +2376,121 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55705911,
+    "published": 1765574574000,
+    "title": "Bitnomial gains CFTC approval to launch prediction markets in the US",
+    "body": "The US regulator's green light lets Bitnomial’s clearinghouse support prediction markets linked to crypto and economic events, expanding its regulated product and clearing offerings.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55706260,
+    "published": 1765575327000,
+    "title": "These Bleak Victim Letters Helped Seal Terra Founder Do Kwon's Fate",
+    "body": "The judge said the victim letters, which detailed the personal impact of the Terra collapse, were “impactful”—before sentencing Do Kwon to 15 years in prison.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "terra-luna-2|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55706935,
+    "published": 1765576726000,
+    "title": "Senior Vanguard analyst says Bitcoin is no better than a plush toy",
+    "body": "The comments followed the asset management company’s policy change allowing its clients to trade crypto exchange-traded funds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55707270,
+    "published": 1765577501000,
+    "title": "SOL struggles as Solana TVL slides and memecoin demand fades",
+    "body": "SOL demand cools as its total value locked drops by $10 billion and memecoin trading slumps. Traders’ lack of appetite for long leverage could further complicate the situation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
