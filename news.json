@@ -1,28 +1,5 @@
 [
   {
-    "id": 55643357,
-    "published": 1765456944000,
-    "title": "‘Cryptoqueen’ Ignatova’s Lawyer Faces Prosecution Over ‘Improper’ Threats",
-    "body": "A lawyer for the fugitive “cryptoqueen” Ruja Ignatova is being prosecuted for sending “improper” legal threats in a case that is set to scrutinize London’s reputation management industry.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
     "id": 55643805,
     "published": 1765459887000,
     "title": "Mexico’s Central Bank Keeps a ‘Healthy Distance’ From Crypto",
@@ -95,53 +72,6 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55643525,
-    "published": 1765459137000,
-    "title": "Bitcoin due 2026 bottom as exchange volumes grind lower: Analysis",
-    "body": "Bitcoin analysis warned that the next BTC price bottom should only appear in 2026 as exchange trading volume enters a long grind lower.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -334,47 +264,6 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55646228,
-    "published": 1765458099000,
-    "title": "XRP Edges Toward Another U.S. Spot ETF After Cboe Approves 21Shares' Fund",
-    "body": "Once live, the ETF will track the CME CF XRP-Dollar Reference Rate (New York Variant), giving investors exposure to XRP via a regulated fund structure without handling the asset directly.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -3036,6 +2925,134 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55684193,
+    "published": 1765537567000,
+    "title": "Tether Blocks Investor Sales While Pitching $20 Billion Funding",
+    "body": "Tether Holdings SA, the stablecoin issuer seeking to raise up to $20 billion in a stock sale, is exploring ways to ensure liquidity for investors after intervening to stop some existing shareholders from offloading stakes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55688434,
+    "published": 1765545122000,
+    "title": "Florida Seizes $1.5M in Dogecoin, Pepe and Solana Over Case Tied to Chinese National",
+    "body": "Prosecutors used a fugitive disentitlement statute to seize Dogecoin, Solana, and other tokens tied to a Citrus County fraud case.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|dogecoin|pepe||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55688297,
+    "published": 1765544955000,
+    "title": "Saylor Issues Stark Warning Amid Sudden Scramble To Update Bitcoin Price Predictions",
+    "body": "Michael Saylor has warned of “chaos, confusion,\" and \"profoundly harmful consequences\" if his bitcoin-buying company Strategy is ejected from MSCI indices...",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55688314,
+    "published": 1765544793000,
+    "title": "UK MPs warn Bank of England stablecoin plans could drive innovation offshore",
+    "body": "Cross‑party MPs and members of the House of Lords have urged UK Chancellor Rachel Reeves to rein in the Bank of England’s proposed regime for systemic stablecoins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       }
     ]
   }
