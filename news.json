@@ -1,144 +1,5 @@
 [
   {
-    "id": 55649771,
-    "published": 1765470881000,
-    "title": "Belarus blocks ByBit, Bitget, OKX as Russia clamps down on crypto gray area",
-    "body": "Belarus blocked major crypto exchange domains the same day Russia signaled it may ease regulated crypto access requirements while clamping down on the gray market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55649390,
-    "published": 1765470245000,
-    "title": "Save the Children Introduces Bitcoin Fund to Streamline Crisis Response",
-    "body": "New fund enables Save the Children to hold bitcoin, pilot digital wallets, and speed up emergency aid delivery.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Save the Children|Bitcoin News|crypto donations|Charity|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55649328,
-    "published": 1765470162000,
-    "title": "Cross-Chain Liquidity Protocol LI.FI Raises $29M in Series A Extension",
-    "body": "The Berlin-based bridging and swap infrastructure provider has now raised $51.7M in total funding and processed more than $60B in onchain volume.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Fundraising|cross-chain bridge|Multicoin|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
-    "id": 55650497,
-    "published": 1765472008000,
-    "title": "US SEC's Crenshaw takes aim at crypto in final weeks at the agency",
-    "body": "Caroline Crenshaw, the financial agency’s sole remaining Democratic commissioner, is expected to depart in January, 18 months after her official term ended.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55650829,
-    "published": 1765472704000,
-    "title": "Disney Targets Google Over AI Copyright Violations—Alongside $1 Billion OpenAI Deal",
-    "body": "Disney says Google’s AI used its characters without permission, as it signed a new deal with OpenAI to allow character generation with Sora.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55651686,
     "published": 1765474251000,
     "title": "Robinhood Stock Slides 8% After Big Decline in November Trading Volumes",
@@ -2940,6 +2801,181 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55695962,
+    "published": 1765557043000,
+    "title": "Silk Road Bitcoins Are On The Move Again, Is The BTC Price Ready For Another Dump?",
+    "body": "After nearly five years of dormancy, a cluster of Silk Road–linked wallets just moved 33.7 Bitcoin—roughly $3 million—in a sudden on-chain resurgence that immediately brought the BTC price back into focus. While the volume is modest, the combination of its origin, timing, and institutional destination gives it an outsized narrative impact. With Bitcoin already navigating a fragile price range, this development raises concerns about renewed downward pressure. The 33.7 BTC Silk Road BTC Transfer And Its Potential Impact On Bitcoin’s Price The movement began with a series of small outputs originating from early-era Silk Road addresses, all using the old “1…” legacy format. These wallets had last shown activity on February 2, 2021, before abruptly pushing out 176 tiny transactions that were subsequently consolidated into the bech32 address bc1qnysx9sr0s7uw39awr3hh099d5m0lvrnxz7ga54. Roughly a day later, that entire 33.7 BTC was moved again through an intermediary hop and then flagged by chain-analysis dashboards as a Coinbase Prime deposit. Related Reading: Dogecoin Price Set To Surge As Sellers Show Signs Of Exhaustion The first alert about the movement came from the X account DarkWebInformer, which spotted the burst of micro-transactions. Even after this transfer, about 416 BTC—roughly $37.5 million—remains untouched in the wider group of connected addresses. This supports the idea that the 33.7 BTC shift was simply a dust-sweep or cleanup action, not a full-scale release of seized holdings. With the operational picture clear, the focus shifts to the price impact. In terms of liquidity, 33.7 BTC is far too small to trigger a market-wide dump. What matters more is the psychological effect. Bitcoin is already trading in a corrective range, and activity linked to Silk Road history can make traders cautious. Although the Coinbase Prime routing points to OTC or custodial handling rather than a spot-market sale, the optics alone can tighten risk models and stoke volatility in the BTC price. Dormant Wallets And Market Sensitivity Dormant Silk Road wallets have a history of resurfacing. In May 2025, two such wallets moved over 3,400 BTC—worth roughly $322 million—after nearly a decade of inactivity. The funds were transferred into new addresses rather than exchanges, showing that these movements do not automatically trigger selling and are more notable for their on-chain and narrative significance than for their impact on liquidity. Related Reading: Pundit Highlights The Condition That Will Trigger A 2,300% XRP Rally To $50 While these transfers have little direct effect on liquidity, Bitcoin’s current price action makes the market more sensitive to any headline. After approaching $94,000 earlier this month, BTC slipped back to $90,000–$92,000. On X, bearish analysts have highlighted a continuation pattern, with some projecting potential downside toward $88,000 – $89,000. This environment primes traders to react strongly to even minor negative catalysts, including long-dormant wallet activity. Overall, the recent Silk Road transfer is unlikely to trigger a standalone dump. The main pressure stems from Bitcoin’s fragile technical posture, making even small but symbolically significant moves capable of increasing short-term volatility. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55695987,
+    "published": 1765556804000,
+    "title": "Paxos, Fidelity, Ripple, BitGo, and Circle secure US trust bank approvals",
+    "body": "The conditional approvals clear a path for major crypto companies to operate as national trust banks under the supervision of the US OCC.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55696495,
+    "published": 1765557793000,
+    "title": "Circle, Ripple, Paxos, Fidelity and BitGo Get Banking Charters Approved by OCC",
+    "body": "Circle, Ripple among five stablecoin issuers conditionally approved for national banking charters as market hits $313 billion.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55696322,
+    "published": 1765557559000,
+    "title": "Five Crypto Firms Win Initial Approvals as Banks, Including Ripple, Circle, BitGo",
+    "body": "The firms have obtained conditional approval from the Office of the Comptroller of the Currency to convert into national trust banks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Banking|Ripple|Circle|Paxos|Fidelity|BitGo|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55697104,
+    "published": 1765558648000,
+    "title": "Figure Technology files ‘second IPO’ to bring native equity issuance to Solana",
+    "body": "Figure is planning a second IPO to issue blockchain-native equity on Solana, enabling onchain trading and DeFi use cases beyond traditional stock markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
       },
       {
         "TYPE": "122",
