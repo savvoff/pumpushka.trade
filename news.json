@@ -478,175 +478,6 @@
     ]
   },
   {
-    "id": 55694991,
-    "published": 1765555467000,
-    "title": "Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down",
-    "body": "Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Market Wrap|Bitcoin News|Nasdaq|Bitcoin Mining|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55694918,
-    "published": 1765555330000,
-    "title": "Pakistan, Binance Sign MOU to Explore Tokenization of $2B in State Assets: Reuters",
-    "body": "The agreement comes as Pakistan accelerates the rollout of a formal crypto regulatory framework and explores blockchain-based distribution of government-owned assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Pakistan|Binance|Tokenization|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55694500,
-    "published": 1765554505000,
-    "title": "Lawmakers Say Bank of England Stablecoin Proposals Will ‘Limit Adoption, Push Activity Overseas’",
-    "body": "A CryptoUK spokesperson told Decrypt the proposed restrictions “risk undermining the UK’s ambition to lead in digital finance.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55693892,
-    "published": 1765553633000,
-    "title": "Jennifer Garner to Star in Netflix Crypto Comedy 'One Attempt Remaining'",
-    "body": "The film focuses on a divorced couple racing to recover access to their now-valuable crypto before time runs out.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55693504,
-    "published": 1765553037000,
-    "title": "Bitcoin Giant Strategy's Cash Reserve Was a 'Smart' Move, Says BitMine's Tom Lee",
-    "body": "BitMine Immersion Technologies Chairman Tom Lee praised Bitcoin treasury firm Strategy's massive new cash reserve. Here's why.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -1590,6 +1421,82 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55736474,
+    "published": 1765640544000,
+    "title": "Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks",
+    "body": "The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Brazil|Asset Management|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55737232,
+    "published": 1765642235000,
+    "title": "NFT Project Pudgy Penguins Takes Over Las Vegas Sphere in Holiday Campaign",
+    "body": "The NFT brand’s animated segments will air on the Sphere across Christmas week, signaling the crypto company's move into real-world consumer markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|NFTs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
