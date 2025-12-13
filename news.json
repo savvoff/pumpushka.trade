@@ -1555,76 +1555,6 @@
     ]
   },
   {
-    "id": 55679835,
-    "published": 1765530983000,
-    "title": "Standard Chartered, AirAsia parent to test ringgit stablecoin in Malaysia",
-    "body": "Standard Chartered Malaysia and AirAsia parent Capital A plan to issue and test a ringgit-pegged stablecoin for wholesale applications.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55680801,
-    "published": 1765530032000,
-    "title": "Do Kwon Falls Hard — Terraform Labs Chief Gets 15 Years For Wire Fraud",
-    "body": "Do Kwon, the South Korean co-founder of Terraform Labs, was sentenced to 15 years in prison on December 11, 2025 in a Manhattan federal court after pleading guilty to fraud tied to the collapse of the TerraUSD stablecoin and its sister token, Luna. Related Reading: Is Dogecoin Waking Up? Critical On-Chain Metric Explodes Higher According to court documents and news reports, the judge described the scheme as a massive fraud that left thousands of investors facing heavy losses. Sentence And Court Ruling Judge Paul A. Engelmayer handed down the 15-year term after prosecutors urged for a sentence of up to 12 years and the defense asked for a much lighter term. Do Kwon pleaded guilty in August 2025 to conspiracy to defraud and wire fraud, and as part of the plea he agreed to forfeit roughly $19 million. The US Attorney’s office says the guilty plea admits he misled investors about how the stablecoin kept its $1 peg. Scale Of The Losses Reports have placed the market fallout from the Terra collapse at about $40 billion in erased value. Many ordinary investors lost life savings and some victims gave emotional testimony at sentencing, describing real financial ruin. News outlets and court filings tie the crash in May 2022 to a sudden loss of confidence that cascaded through markets and hurt other crypto firms. Civil Penalties And Settlements Before the criminal case reached this point, Kwon and Terraform faced a major civil action from the US Securities and Exchange Commission. According to the SEC, Terraform Labs and Kwon agreed to pay more than $4.5 billion in disgorgement, interest and penalties, while Kwon personally faced an $80 million civil fine and a ban from crypto trading. That civil judgment was filed in 2024 and has been used by regulators as part of the overall effort to make investors whole. International Arrest And Extradition Kwon was arrested in Montenegro in March 2023 after leaving Singapore; authorities say he was using forged travel documents when detained. He fought extradition in Montenegrin courts but was eventually transferred to the US late in 2024 to face federal charges. Reports outline a long legal fight across borders that ended with his return to New York to answer criminal counts. Related Reading: American Bitcoin Makes Big Buy, Adds 416 BTC To Its Stack What The Sentence Means Legal analysts say a 15-year term signals the court’s view that the fraud caused wide damage and that punishment should deter similar schemes. Victims’ statements at sentencing appear to have weighed heavily. Kwon still faces separate probes and possible charges in other countries, and the civil judgment means substantial sums are earmarked for recovery efforts tied to Terraform’s bankruptcy. Featured image from Getty Images, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|Do Kwon|stablecoin|Terraform Labs|TerraUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 34,
-        "NAME": "LUNA",
-        "CATEGORY": "LUNA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -2304,6 +2234,53 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55724323,
+    "published": 1765616425000,
+    "title": "Solana’s Long-Awaited Firedancer Launch Sparks 5% Rally",
+    "body": "Solana’s network took a notable step this week as Firedancer, a validator client developed by Jump Crypto, began running on the mainnet, and markets reacted quickly. Related Reading: Is Dogecoin Waking Up? Critical On-Chain Metric Explodes Higher According to Solana’s announcement, the client moved out of a controlled testing phase and is now active for real-world validation. Traders pushed SOL up about 5%, with the token trading close to $140 during the initial move. Firedancer Goes Live On Mainnet During more than 100 days of controlled tests, a small set of validators produced more than 50,000 blocks without downtime, according to reports. Built in C and C++, Firedancer was made to handle heavy workloads and to lower the chance of network interruptions. Test environments reportedly showed the client processing over 1 million transactions per second, a figure that far exceeds current mainnet throughput. BREAKING: After 3 years of development, Firedancer is now live on Solana Mainnet, and has been running on a handful of validators for 100 days, successfully producing 50,000 blocks 🔥💃 pic.twitter.com/Y0WxxEj2WL — Solana (@solana) December 12, 2025 That high number comes from lab-style tests, not live traffic, and should be read as experimental performance rather than everyday capability. Solana co-founder Anatoly Yakovenko marked the transition as a step out of a long beta cycle for the network. Early Adoption And Stake Adoption is still small in terms of stake. The first Firedancer nodes hold under one percent of total staked SOL, and that share is expected to grow as operators add it to their setups. Reports have disclosed that a December rollout prompted more than 20% of validators to move from earlier experimental clients, showing a rapid shift among some operators. Running multiple validator clients reduces dependence on a single software implementation. If one client encounters a bug, others can keep block production running. That diversity mirrors how other large proof-of-stake chains operate. Why This Matters For Validators And Apps Validators and developers stand to benefit if Firedancer keeps meeting its goals. Faster or more reliable validation could mean more capacity for apps that need many transactions per second. For node operators, the option to mix clients offers an added safety net. Still, the network’s real-world load will be the true test, and watchers say they will be looking at uptime and performance over the coming weeks. Related Reading: Do Kwon Falls Hard — Terraform Labs Chief Gets 15 Years For Wire Fraud Market Moves And Technical Signals The announcement coincided with a clear market flow into SOL. Reports have disclosed $11 million in inflows to Solana ETFs on the day of the news, while Bitcoin saw outflows of $77.30 million and Ethereum $42.35 million. Featured image from Phantom, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoin|crypto|Firedancer|Sol|Solana|SOLUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
