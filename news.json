@@ -2271,5 +2271,52 @@
         "CATEGORY": "REGULATION"
       }
     ]
+  },
+  {
+    "id": 55720572,
+    "published": 1765609250000,
+    "title": "Kalshi To Power Coinbase New Internal Prediction Platform, Insider Reveals",
+    "body": "According to a report from CNBC, Coinbase (COIN), the largest cryptocurrency exchange in the US, is preparing to launch its own prediction market in collaboration with Kalshi, one of the largest federally regulated financial exchanges in the country. Coinbase Teases Major Updates The anticipation surrounding the prediction market has been building for nearly a month. Recently, a screenshot of what appears to be Coinbase’s prediction markets dashboard was shared by Silicon Valley researcher Jane Manchun Wong in a post on social media site X (previously Twitter), shedding some light on the features of the forthcoming product. Related Reading: Crypto Market Dips: The Reasons Behind Bitcoin Plunge Below $90,000 Despite FOMC Optimism The Information first indicated on November 19 that Coinbase planned to introduce these prediction markets powered by Kalshi, with a formal unveiling set for the “Coinbase System Update” event scheduled for December 17. Formal announcements regarding this new platform are expected soon, potentially as early as next week. Bloomberg corroborated this report, stating that the cryptocurrency exchange is also likely to announce a tokenized stock offering during the same event, in line with Tether’s same vision reported earlier this week. While Coinbase has refrained from confirming these developments directly to CNBC, the company has encouraged stakeholders to tune in to its upcoming event for more details. The firm did not disclose a specific timeline for when the prediction markets will become available to users. ‘Everything Exchange’ Status Coinbase’s push to launch a prediction market is part of a broader strategy to transform itself into an “everything exchange”—a comprehensive platform for trading a wide variety of assets, including cryptocurrencies, tokenized stocks, and event contracts. CEO Brian Armstrong articulated this vision earlier in May, stressing that the cryptocurrency exchange aims to evolve into a leading financial services application within the next decade. This development comes as Coinbase faces increasing competition from rivals like Robinhood (HOOD), Gemini (GEMI), and Kraken, all of whom have introduced tokenized equity offerings for users outside the US and are exploring prediction markets to varying extents. Related Reading: Report Reveals 65% Of Bitcoin Treasury Companies Struggling With Major Unrealized Losses Coinbase is expanding its range of financial instruments while making a series of acquisitions this year. These include major deals such as the purchase of the crypto derivatives exchange Deribit and the on-chain advertising firm Spindl, as well as seven other major acquisitions. This also follows a shift in investor sentiment in the digital asset space, with the largest cryptocurrencies — including Bitcoin (BTC) — having retraced by over 30% since October amid fears of a new bear market beginning. Over the past months, the exchange’s stock, which trades under the ticker name COIN, has also seen a significant drop of over 39%, with the current valuation standing at $267 per share. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Coinbase|coin|coinbase|coinbase news|Coinbase prediction market|crypto|crypto market|crypto news|cryptocurrency|Kalshi",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
