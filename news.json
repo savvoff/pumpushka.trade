@@ -792,238 +792,6 @@
     ]
   },
   {
-    "id": 55690875,
-    "published": 1765549079000,
-    "title": "CoinDesk 20 Performance Update: SUI Gains 5.2%, Leading the Index Higher",
-    "body": "Aave (AAVE) was also among the top performers, rising 4.5% from Thursday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 2,
-        "NAME": "AAVE",
-        "CATEGORY": "AAVE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 96,
-        "NAME": "SUI",
-        "CATEGORY": "SUI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55690635,
-    "published": 1765548740000,
-    "title": "MiCA Will Make or Break Euro-Pegged Stablecoins by 2026: DECTA",
-    "body": "German payments processor DECTA expects euro-pegged stablecoins to gain traction in payments and tokenized finance as MiCA takes full effect across the EU.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Stablecoins|Europe|MiCA|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55690950,
-    "published": 1765548543000,
-    "title": "Interactive Brokers Allowing Accounts to be Funded by Stablecoin",
-    "body": "Interactive Brokers Group Inc. is now allowing retail investors to fund individual brokerage accounts with stablecoins as the once-bright lines between traditional and digital finance blur.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:IBKR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 55690361,
-    "published": 1765548174000,
-    "title": "Crypto speculation at 2024 lows as TradFi leveraged ETFs hit record $239B",
-    "body": "Crypto investor demand for memecoins remains at lows not seen since 2024, despite a growing speculative appetite that has boosted TradFi leveraged ETFs to a record $239 billion.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 55689976,
-    "published": 1765547501000,
-    "title": "Morning Minute: Do Kwon Gets 15 Years for $40B Terra Luna Fraud",
-    "body": "The sentencing brings a measure of justice, finally, for all of those impacted by the collapse of Terra and its UST stablecoin in 2022.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|terra-luna-2|luna-wormhole|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 34,
-        "NAME": "LUNA",
-        "CATEGORY": "LUNA"
-      }
-    ]
-  },
-  {
-    "id": 55689598,
-    "published": 1765546878000,
-    "title": "Pakistan clears Binance and HTX to seek local crypto licenses",
-    "body": "Pakistan gives a nod for crypto exchanges Binance and HTX to register local subsidiaries as regulators advance a phased crypto framework.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55689597,
-    "published": 1765546840000,
-    "title": "Ether price rallied 260% last time this happened: Can ETH reach $5K?",
-    "body": "A buying opportunity from Ether’s realized price projected a major rally, as analysts said a return to $5,000 in 2026 is plausible.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55689441,
-    "published": 1765546487000,
-    "title": "Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE",
-    "body": "The cryptocurrency industry is riding on the tailwinds of regulatory clarity and newfound interest from institutional investors into the new year.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -1879,6 +1647,53 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55733609,
+    "published": 1765634400000,
+    "title": "Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin",
+    "body": "Rising Japanese rates and a stronger yen threaten carry trades and could pressure crypto markets despite easing U.S. policy.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bank of Japan|Interest Rates|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
