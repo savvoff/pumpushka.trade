@@ -1625,53 +1625,6 @@
     ]
   },
   {
-    "id": 55677383,
-    "published": 1765526707000,
-    "title": "Solana Will ‘Flip’ Ethereum, Predicts Skybridge Capital’s Scaramucci",
-    "body": "Anthony Scaramucci showed up to Solana Breakpoint in Abu Dhabi wearing a tie — a small act of rebellion in a sea of hoodies — and then proceeded to make a much bigger one on stage: Solana is going to “flip” Ethereum. Scaramucci’s Solana Prediction Not in the Twitter-war, zero-sum, “ETH is dead” kind of way. More like: same league, different growth curve, and Solana ends up with the bigger market cap. “I think it will flip Ethereum, but that doesn’t mean Ethereum’s going down or anything like that. I think there’s going to be market share for Ethereum. I think they could both grow, but I think from a market capitalization perspective, I think Solana will end up growing faster,” Scaramucci told CoinDesk Live on Dec. 11. That’s been his line for a while. This time it came with a prop: his new book, Solana Rising, which dropped Dec. 9 and — according to Scaramucci — quickly hit the top of Amazon’s “new releases” list for investment management/investment strategy. He framed the book as something for the skeptics, or at least for the friends of the believers. Related Reading: Solana Enters Bear Territory: Realized Loss Now Outweighs Profit The pitch is familiar if you’ve been anywhere near crypto conferences this year, but Scaramucci’s version is unusually blunt: Solana is the fastest-growing chain, it’s stacked with activity, it’s cheap to use, and it’s easy to build on. Then you add staking, and you’ve got what he keeps calling “great tokenomics.” And yes, he’s heavily aligned. “Full disclosure,” he said, “I have a large personal holding in Solana. I have it on the firm’s balance sheet.” How large? On SkyBridge’s balance sheet, he put it at “probably 60%,” with the firm sitting on “north of a nine figure balance sheet.” His personal portfolio allocation, he estimated, is around “6% 7%.” Big, but not “I sold the house for SOL” big. Notably, Scaramucci emphasized that he’s not “chain monogamous.” He likes Avalanche. He likes Ethereum. He’s not doing maximalism. He’s doing a portfolio. “In fact, who is chain monogamous?” he joked. Related Reading: Solana Hits Critical Demand Zone — Is A Surprise Bottom Loading? The Skybridge Capital founder added: “It’s not an amorous thing. It just has to do with the realities of investing. It’s like owning a lot of stocks in your portfolio. But to me, I just think that it is the fastest growing chain. That’s the most activity of like the top 50 chains combined. It’s got lots of use cases, lots of versatility. It’s easy to develop on and it’s very low fees to transact on and it’s got great tokenomics if you want to stake your Solana like I do.” He also pointed to the debut of the first spot Solana ETF in the United States — “first staking ETF,” in his words — as another signal that we’re still early. Then came the price talk, because of course it did. Could SOL hit $300–$400 by the end of next year? “Sure,” he said, tying it to a more constructive US regulatory backdrop — specifically his hope that the CLARITY Act gets passed and unlocks “the full utilization of tokenization.” Longer term, he went bigger: “Is Solana go to $1,000 over the next five years? I really do believe that.” He also revisited Bitcoin. Same vibe: right call, wrong calendar. “I’ve been right about Bitcoin, but I’ve been wrong about timing,” Scaramucci said, sticking with a $150,000–$200,000 target, and arguing a friendlier rate environment next year could help. At press time, SOL traded at $139.14. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Anthony Scaramucci|ETH|ethereum|Sol|SOL news|SOL Price|Solana|Solana news|Solana Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -2310,6 +2263,47 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55721588,
+    "published": 1765611012000,
+    "title": "Brazil’s largest private bank advises investors to allocate 3% to Bitcoin in 2026",
+    "body": "Brazil’s largest private bank says Bitcoin can improve portfolio diversification and hedge currency risk despite a volatile year for the asset.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       },
       {
         "TYPE": "122",
