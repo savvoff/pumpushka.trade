@@ -18,6 +18,7 @@ const blog = defineCollection({
     }).optional(),
     category: z.string(),
     tags: z.array(z.string()).default([]),
+    cta: z.array(z.string()).default([]),
     stickyWeight: z.number().default(0),
     canonicalUrl: z.string().url().nullable().optional(),
     coverImage: z.object({

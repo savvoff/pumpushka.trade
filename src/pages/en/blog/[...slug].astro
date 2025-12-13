@@ -1,6 +1,7 @@
 ---
 import { Icon } from 'astro-icon/components'
 import { Image } from 'astro:assets';
+import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
 import { getCollection } from 'astro:content';
 import BlogLayout from '@layouts/Blog.astro';
 import Breadcrumbs from '@components/Breadcrumbs.astro';
@@ -13,8 +14,7 @@ import RecentSlider from '@components/RecentSlider.astro';
 import SocialShare from '@components/SocialShare.astro';
 import Toc from '@components/Toc.astro';
 import RecentPosts from '@components/RecentPosts.astro';
-import Cta1 from '@components/adv/Cta1.astro';
-import { SITE, TRANSLATIONS } from 'src/constants';
+import { SITE, TRANSLATIONS, type CtaName } from 'src/constants';
 import { slugify } from 'scripts/slugify.mjs';
 
 // export async function getStaticPaths() {
@@ -47,6 +47,7 @@ const {
   updatedAt, 
   category, 
   tags, 
+  cta,
   source, 
   lang
 } = entry.data;
@@ -152,7 +153,15 @@ function toPath(seg: string) {
   <!-- Share section -->
   <SocialShare title={ title } description={ description } lang={ lang } />
   <!-- CTA section -->
-  <Cta1 lang={ lang } />
+  {
+    cta?.map((ctaName, index) => {
+      const Cmp = SITE.cta?.[(ctaName as CtaName)];
+      const anchorId = `cta${index + 1}`;
+      return Cmp
+        ? <section id={ anchorId } class="space-y-4"><Cmp lang={ lang } /></section>
+        : <section>Unknown { ctaName }</section>
+    })
+  }
   <!-- Recent slider section -->
   <RecentSlider lang={ lang } />
 

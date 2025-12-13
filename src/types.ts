@@ -32,6 +32,7 @@ export type Post = {
   };
   category: string; 
   tags: string[];
+  cta: string[];
   stickyWeight?: number; 
   canonicalUrl?: string;
   coverImage?: {

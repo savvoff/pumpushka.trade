@@ -5,6 +5,7 @@ import BlogLayout from '@layouts/Blog.astro';
 import Categories from '@components/Categories.astro';
 import Tags from '@components/Tags.astro';
 import RecentPosts from '@components/RecentPosts.astro';
+import RecentSlider from '@components/RecentSlider.astro';
 import { SITE, TRANSLATIONS } from 'src/constants';
 import { slugify } from 'scripts/slugify.mjs';
 
@@ -78,6 +79,10 @@ function scale(count: number) {
     </div>
   </div>
 
+  <!-- Recent slider section -->
+  <RecentSlider lang={ lang }  />
+
+  <hr/>
   <!-- sidebar slots -->  
   <RecentPosts slot="recent" />
   <Categories slot="categories" title={ categoriesText } />

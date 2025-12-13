@@ -144,6 +144,13 @@ export const postPage: Collection = {
       ui: { component: 'select' },
     },
     { 
+      type: 'string', 
+      name: 'cta', 
+      label: 'Теги', 
+      list: true, 
+      ui: { component: 'tags' },
+    },
+    { 
       type: 'number', 
       name: 'score', 
       label: 'Оцінка' 
