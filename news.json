@@ -647,151 +647,6 @@
     ]
   },
   {
-    "id": 55692924,
-    "published": 1765552239000,
-    "title": "Prediction Markets Are Coming to Phantom's 20M User Via Kalshi",
-    "body": "Phantom users will be able to chat and trade Kalshi's prediction markets with any Solana-based tokens, CEO said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Kalshi|Prediction Markets|Solana News|Phantom|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55692595,
-    "published": 1765551600000,
-    "title": "Backed, Chainlink Unveil xBridge to Move Tokenized Stocks Between Solana and Ethereum",
-    "body": "The bridge uses Chainlink's CCIP to ensure consistent behavior across chains, mirroring the behavior of underlying assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Web3|Chainlink|Tokenized Equity|Tokenization|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55692093,
-    "published": 1765550656000,
-    "title": "UAE’s Largest Fuel Retailer Will Accept Stablecoin in 980 Stations in Three Countries",
-    "body": "A new deal with Al Maryah Community Bank brings stablecoin payments to the pumps, shops and car washes at ADNOC retailers in UAE, Saudi Arabia and Ethiopia.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Web3|Dubai|UAE|Stablecoins|crypto payments|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55691471,
-    "published": 1765549897000,
-    "title": "Ripple expands European footprint with AMINA stablecoin payment partnership",
-    "body": "Ripple Payments partnered with Swiss crypto bank Amina to plug its fiat-to-stablecoin payment infrastructure into the FINMA-regulated institution.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55691118,
-    "published": 1765549435000,
-    "title": "Polish Government Urges President to Sign Crypto Bill He Already Rejected: Report",
-    "body": "The Polish government reintroduced crypto legislation without changing a single period, after telling the president he needs to sign it to avoid Russian-linked security threats.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Poland|Prime minister|crypto legislation|Legislation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -1688,6 +1543,53 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55735249,
+    "published": 1765638014000,
+    "title": "Bitcoin Bullish Structure Weakens As Inter-Exchange Liquidity Touches Red Zone – Details",
+    "body": "The Bitcoin market is experiencing a gradual trend reversal following weeks of prolonged price correction between October and November. However, recent on-chain data reveals a concerning trend around BTC’s bullish structure. Related Reading: Here’s Why Bitcoin’s Reaction To Fed Policy Turns Bearish After Each FOMC Update Bitcoin IFP Indicator Suggests Market Has Reached Turning Point Popular analytics page Arab Chain has shared a cautionary insight on the Bitcoin market despite the moderate price recovery in recent weeks. After Bitcoin suffered a 36.5% correction from its all-time high at $126,000, the market leader has lately experienced a significant rebound, rising from $80,000 to as high as $94,000 in the past three weeks. However, data from the Bitcoin Inter-Exchange Flow Pulse (IFP) suggests the upward price momentum might be short-lived. For perspective, the Bitcoin IFP measures the net movement of Bitcoin between exchanges over a given period. Arab Chain explains the IFP indicator continues to trend downward, after breaking below its 90-day moving average (MA), suggesting a weakening market participation amid fewer “bullish” flows between exchanges. Furthermore, the IFP also sits in the red zone, which historically coincides with or precedes a correction period or weak structural momentum that could precede a broader downtrend. Combined, these developments imply the Bitcoin market is at a critical junction, as there is a reduction in exchange flows that has historically supported the price rallies in past market phases. Related Reading: Fed Cut Lights The Fuse: Bitcoin Rebounds And Bulls Predict More Upside Is The Bullish Run Over? Amidst the structural weakness highlighted by the IFP indicator, Arab Chain also noted that the price remains relatively high compared to previous levels in similar situations. The analysts explain that this suggests price and inflows are temporarily moving irrespective of each other. Based on historical data, such detachments usually indicate a prolonged price consolidation or a significant period of extended sideways movement until inter-exchange flows can reestablish market dominance. Therefore, the Bitcoin bullish structure is not collapsing into a bearish state. However, the IFP metric developments suggest there may not be sustained upward movement in the short term due to the structural slowdown in inter-exchange flows. Moreover, price is likely to become sensitive to changes in the market liquidity. Therefore, there is also significant potential for another correction. At press time, Bitcoin trades at $90,338, reflecting a 1.82% decline in the past 24 hours. Meanwhile, daily trading volume is up by 34.64% and valued at $82.68 billion. According to Arab Chain, a continuous price rebound will only occur if the IFP successfully reclaims its 90-day MA, thereby signaling an increase in bullish exchange flows. Featured image from Pexels, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Aave|Bitcoin|Arab Chain|bitcoin|BTCUSDT|cryptoquant|inter-exchange flow pulse",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
