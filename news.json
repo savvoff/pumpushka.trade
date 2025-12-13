@@ -1117,292 +1117,6 @@
     ]
   },
   {
-    "id": 55686598,
-    "published": 1765541824000,
-    "title": "U.S. SEC Gives Implicit Nod for Tokenized Stocks",
-    "body": "Clearing and settlement company the Depository Trust & Clearing Corp. said a subsidiary had received a no-action letter to offer tokenized real-world assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|SEC|Tokenization|Real World Assets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55685893,
-    "published": 1765541133000,
-    "title": "YouTube Now Allows U.S. Content Creators to Get Paid in PayPal’s Stablecoin: Fortune",
-    "body": "YouTube has added PayPal’s dollar-pegged stablecoin as a payout option for U.S. content creators, marking one of PYUSD’s most high-profile use cases yet.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Web3|YouTube|Paypal usd|PayPal|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 191,
-        "NAME": "PYUSD",
-        "CATEGORY": "PYUSD"
-      }
-    ]
-  },
-  {
-    "id": 55685662,
-    "published": 1765540849000,
-    "title": "Why This Market Analyst Is Warning Crypto Investors To Stop Buying XRP",
-    "body": "The XRP price could be on the verge of a massive crash, as a crypto analyst has identified a key technical pattern in the cryptocurrency’s structure that signals a potentially severe downturn. According to the analyst, this formation has appeared only twice in XRP’s history, and each time has preceded a devastating loss. If the pattern were to repeat, the cryptocurrency could be headed for more pain. The analyst warns traders and investors to stop buying XRP at this time, citing heightened risk. Analyst Advices Against Buying XRP As Price Crash Looms An urgent warning from market analyst Steph is Crypto has spread across the community, as he advises traders and investors to “not touch XRP anymore.” The analyst shared a video of his XRP price forecast on a recent X post, revealing that the altcoin’s long-term indicators point to a troubling setup that could mirror downturns observed during past market cycles. Related Reading: Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000 Steph Is Crypto shared that his study of the monthly Moving Average Convergence Divergence (MACD) for XRP has revealed a new bearish crossover taking shape, signaling declining momentum. The analyst stated that XRP had formed a bearish crossover on the chart only twice since its inception in 2012. Both times this pattern appeared, the cryptocurrency underwent one of the most dramatic price crashes ever, losing over half its value right after. He explained that during the first bearish crossover in 2019, XRP crashed by more than 84%. Similarly, a second crossover reemerged in 2022, triggering a deep price decline of about 67%. It’s worth highlighting that each time XRP formed this bearish signal, it was after a major bull market. In 2018, the cryptocurrency staged a historic rally that sent its price to its current all-time high above $3.84. Likewise, the steep correction in 2022 came on the heels of an explosive 2021 bull market, one of the most powerful in crypto’s history. Just as in the past, Steph Is Crypto sees a bearish crossover forming once again in the current cycle, suggesting that the conditions are aligning for another devastating price crash. He admitted that he wishes he had not spotted this formation on XRP’s chart, underscoring his usually bullish stance on the cryptocurrency. The analyst has cautioned traders to take this historical setup seriously and to consider the possibility that XRP could revisit significantly lower price ranges if the pattern plays out. XRP Price Momentum Remains Weak XRP remains in a downward trend, with its price barely holding above $2.00. The cryptocurrency has dropped by over 15% so far this month, declined about 2.2% over the past week, and has crashed approximately 16% year to date, according to CoinMarketCap. Related Reading: Here’s Why Strategy’s $1 Billion Bitcoin Purchase Did Not Trigger A Price Rally XRP’s price momentum is weak, with little indication of a near-term recovery. The cryptocurrency’s Fear and Greed Index has slipped to 42, edging closer to the “fear” zone. This market uncertainty is being driven by the cryptocurrency’s sluggish price action, despite having passed $3.00 earlier this year and nearly challenging its all-time high. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55694465,
-    "published": 1765540392000,
-    "title": "Ripple Payments Lands First European Bank Client in AMINA",
-    "body": "AMINA is said to be able to process cross-border flows involving fiat currencies and stablecoins, including Ripple’s own RLUSD.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Ripple|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55684510,
-    "published": 1765539000000,
-    "title": "Crypto Markets Today: Bitcoin Stuck in Post-Fed Range as Altcoins Slump Deepens",
-    "body": "Bitcoin remains trapped in a range despite the U.S. rate cut, while altcoins and memecoins struggle to attract risk appetite amid shifting investor behavior.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55684036,
-    "published": 1765538008000,
-    "title": "US financial markets ‘poised to move on-chain’ amid DTCC tokenization greenlight",
-    "body": "In comments Thursday, SEC Chair Paul Atkins doubled down on his vision for tokenized US financial markets and onchain settlement.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55683725,
-    "published": 1765537576000,
-    "title": "Binance hints at stock perps in push to join global tokenized equities race",
-    "body": "Binance quietly rolled out API endpoints pointing to stock perpetual futures, potentially signaling a renewed push into stock trading after a failed 2021 launch.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55684193,
-    "published": 1765537567000,
-    "title": "Tether Blocks Investor Sales While Pitching $20 Billion Funding",
-    "body": "Tether Holdings SA, the stablecoin issuer seeking to raise up to $20 billion in a stock sale, is exploring ways to ensure liquidity for investors after intervening to stop some existing shareholders from offloading stakes.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55704004,
     "published": 1765570843000,
     "title": "Tools for Humanity expands World app toward super-app model",
@@ -2176,6 +1890,53 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55730074,
+    "published": 1765627228000,
+    "title": "Bitcoin Bearish Signals Are ‘Hard To Ignore’: Analyst Warns Of Drop To April Lows",
+    "body": "As Bitcoin (BTC) tries to hold the $90,000 barrier, some analysts affirm that the flagship crypto’s bear market signals are becoming clearer, suggesting that a breakdown to new lows could be around the corner. Related Reading: Dogecoin Could Stage A 600% Rally In 2026 If This Multi-Year Support Holds Bitcoin Bear Flag Raises Concerns On Friday, Bitcoin shredded its Thursday gains, dropping 3.2% intraday to retest the $89,500-$90,500 support zone once again. The cryptocurrency has been trading between the $84,500-$94,500 range for the past four weeks, briefly falling to a seven-month low of $80,600 during the late November correction. This week, the flagship crypto’s price has seen more volatility, fueled by the expectations of the Federal Reserve’s interest rate cut and positive regulatory developments in the US. However, BTC has failed to successfully break and hold above its local range’s upper boundary after multiple retests, ultimately falling to the mid-zone of its range. Analyst Ted Pillows highlighted a concerning pattern on Bitcoin’s chart, warning that the cryptocurrency risks a drop to new multi-month lows if the price fails to hold key support levels. Per the post, BTC has been forming a bear flag for nearly a month, which “is too hard to ignore” after the price continues to be rejected from the formation’s upper boundary. The analyst affirmed that this pattern follows a trend that has been developing over the past two months. As he pointed out, bearish flags have been continuously forming on BTC’s chart since the October 10 market pullback, with each pattern resolving in a breakdown to lower levels. To Ted, the new formation signals “that the overall trend is still to the downside.” He suggested that a close above the $96,000 level would invalidate the bearish pattern. On the contrary, a drop to below the $86,000 support, where the formation’s lower boundary is located, could push Bitcoin to the April lows, around the $76,000 mark. Is The 2022 Playbook Repeating? The market observer also noted a resemblance between the last cycle and the current one, which could lead to a drop below the $70,000 level. The chart shows that after losing the 50-Week EMA indications, Bitcoin consolidated within a bear flag before breaking down and descending to the 2022 lows. Now, BTC displays a similar performance after losing the 50-Week EMA and breaking down from its October bear flag. “If this plays out, a pump to $100,000 and then a dump below $70,000” would follow, the analyst added. Meanwhile, Robert Mercer shared a similar perspective in a series of X posts. The analyst affirmed that the classic four-year cycle has not changed despite the significant increase in institutional adoption: Bitcoin is breaking crucial supports one by one and entering a bear market. The same happened back in the end of 2021. At the moment, BTC is forming an ascending channel with the top near $100,000 – $104,000, you can see a clear Right Shoulder of H&S in this move. Something similar happened in the beginning of 2022. He also asserted that Bitcoin shows a similar picture “from the 1W MA50 perspective,” as BTC has traded below this indicator for multiple weeks now for the first time in the bullish cycle. Related Reading: Cathie Wood Says Bitcoin Is ‘Climbing Another Wall Of Worry’– Here’s Why Nonetheless, he concluded that “no such breakdown happens without a retest,” forecasting a relief bounce up to $98,000-$102,000, followed by a dump to the support level of $55,000-$60,000. As of this writing, BTC Trades at $89,990, a 2.75% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|bitcoin analysys|bitcoin bear market|Bitcoin volatility|btc|btc prediction|BTCUSDT|crypto analyst|Crypto Bull Run 2025|crypto market correction|crypto market volatility|Crypto trader",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
