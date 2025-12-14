@@ -884,82 +884,6 @@
     ]
   },
   {
-    "id": 55737232,
-    "published": 1765642235000,
-    "title": "NFT Project Pudgy Penguins Takes Over Las Vegas Sphere in Holiday Campaign",
-    "body": "The NFT brand’s animated segments will air on the Sphere across Christmas week, signaling the crypto company's move into real-world consumer markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|NFTs|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55736474,
-    "published": 1765640544000,
-    "title": "Brazil’s Largest Asset Manager Recommends Investors Put Up to 3% of their Money in Bitcoin to Hedge Against FX, Market Shocks",
-    "body": "The recommendation is in line with other global asset managers like BlackRock and Bank of America suggesting small portfolio allocations to the largest cryptocurrency.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Brazil|Asset Management|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55777357,
     "published": 1765723080000,
     "title": "Emerging Asian Economies Pivot To Stablecoins",
@@ -1002,6 +926,141 @@
         "ID": 13,
         "NAME": "BLOCKCHAIN",
         "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55780302,
+    "published": 1765728042000,
+    "title": "Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus",
+    "body": "A recent technical analysis shared on X by crypto analyst Merlijn The Trader presents Ethereum’s price action on the 2-day candlestick chart as a textbook example of Wyckoff accumulation. In his assessment, Ethereum has already moved through several key stages of the model and is now approaching a powerful expansion phase, provided the structure stays intact. Related Reading: American Bitcoin Makes Big Buy, Adds 416 BTC To Its Stack Wyckoff Accumulation Structure Taking Shape On Ethereum Chart Over the past several days, Ethereum has traded between roughly $3,050 and $3,400, repeatedly failing to secure a sustained move beyond either boundary. At the time of writing, Ethereum’s price action is trading around $3,100. This prolonged standoff has reinforced the view that Ethereum has returned to consolidating rather than trading in a defined trend, a behavior that aligns closely with the accumulation phase highlighted in a technical analysis by Merlijn The Trader. In his post, Merlijn described Ethereum’s chart as a “Wyckoff masterclass,” pointing to a sequence of events that align with textbook behavior from the Wyckoff accumulation schematic, which have been playing out for the entirety of 2025. According to the annotated structure, the spring occurred when ETH briefly dipped below $1,500 in the first half of the year. Price did not linger below that level for long, reclaiming the range within days and going on a rally that eventually ended at a selling climax (SC) of $4,946 Within this structure, the initial selling climax and automatic downtrend reaction established a clear range in which the cryptocurrency has been trading up until now. The chart labels show this as Ethereum moving through Phase D, and this has been highlighted by a downtrend in recent months. However, based on the Wyckoff framework, Ethereum seems to now be approaching the breakout zone, with a transition into a full Phase E and a potential vertical markup coming next if the structure continues to play out. Phase E Projection Points To Strong Upside Scenario If the Wyckoff roadmap continues to unfold as outlined, Merlijn believes Ethereum is setting up for a full Phase E, the final stage of the accumulation process. This phase is characterized by a sustained markup, where price exits the selling climax (SC) decisively and trends higher with increasing momentum. Ethereum / US Dollar: @MerlijnTrader on X The projection on the chart shows a sharp upside expansion once overhead resistance is cleared, with Merlijn pointing to $10,000 and higher as a long-term objective if the structure completes. The path higher is not expected to be linear. The model anticipates an initial push into new all-time highs, followed by a modest rejection around the $5,000 area before the price pauses to consolidate towards the Backup and Last Point of Support Related Reading: Do Kwon Falls Hard — Terraform Labs Chief Gets 15 Years For Wire Fraud According to the chart, this BU/LPS would likely form around $3,750. If Ethereum holds above that level during the pullback, it would confirm structural strength, with the subsequent expansion targeting above $10,000. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|blockchain|crypto market|cryptocurrency|digital currency|ETH|ethereum|ethusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 34,
+        "NAME": "LUNA",
+        "CATEGORY": "LUNA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55779932,
+    "published": 1765727100000,
+    "title": "Why oil-rich investors are fueling Bitcoin’s next liquidity wave",
+    "body": "From petrodollars to ETFs, oil-rich investors are entering Bitcoin via regulated rails, deepening liquidity while reshaping market structure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55779953,
+    "published": 1765720851000,
+    "title": "Bitcoin Headed For $200 Trillion? CEO Makes Bold Prediction",
+    "body": "A new public company with a big Bitcoin stash is pitching a bold claim. Twenty One Capital, which listed on the New York Stock Exchange on December 9, arrived with close to $4 billion Bitcoin treasury and now holds the third-largest BTC reserve among public firms. According to the firm’s CEO, Jack Mallers, Bitcoin’s role could expand far beyond a speculative holding. Related Reading: Solana’s Long-Awaited Firedancer Launch Sparks 5% Rally CEO Sees Bitcoin As A Reserve Asset Mallers told viewers on theCUBE+NYSE Wired that Bitcoin has compounded holders’ portfolios at roughly 50% a year over the past five to 10 years. Based on reports, he expects that the current $2 trillion market for Bitcoin could grow to between $20 trillion and $200 trillion. He argued Bitcoin might become the next global reserve asset as finance “recollateralizes” itself away from traditional treasuries and government debt. If supply then stood at 20 million tokens when a 100x market rise happened, Bitcoin would trade near $10 million per coin. At a present price of $92,270, that outcome would equal an increase of about 10,730%. Market Signals Remain Mixed Short-term market signs are not all in favor of a big rally. According to market watchers, the Federal Reserve’s recent rate cut barely moved Bitcoin, leaving price action largely flat and directionless. The MACD histogram, however, is showing hints of bullish momentum in some technical reads, which suggests buyers may be warming up. The dollar index is showing signs of weakness, which often helps assets like Bitcoin. ETF flows keep disappointing. Without steady inflows from funds, big narratives can struggle to turn into lasting price gains. Product Push Aimed At Liquidity Without Selling Twenty One Capital says it wants to offer services that let holders tap liquidity without selling their coins. The firm plans to start in credit and lending and has said it will roll out products in partnership with Tether. Related Reading: Do Kwon Falls Hard — Terraform Labs Chief Gets 15 Years For Wire Fraud Mallers described the company as more than a balance-sheet accumulator; he compared their ambitions to Coinbase while stressing a narrower focus on Bitcoin services. If executed, these offerings could change how holders manage risk and cash needs. Big Numbers And Big Questions The projection to $200 trillion is headline-grabbing. It is a vision, not a forecast, and it hinges on major shifts in global finance and adoption. Reports note that other industry figures have offered similar long-term targets, which means the idea is not unique but remains highly debated. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|fed|rate cuts",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
