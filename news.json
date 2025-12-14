@@ -1,51 +1,5 @@
 [
   {
-    "id": 55718048,
-    "published": 1765603973000,
-    "title": "OCC Greenlights Ripple, Circle, Paxos, BitGo, Fidelity As Crypto Banks",
-    "body": "The OCC just provided conditional approval to a broad swath of five different companies that adds diveristy and depth to crypto and stablecoins under federal supervision.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55718249,
-    "published": 1765604244000,
-    "title": "Crypto groups slam Citadel for urging tighter DeFi tokenization rules",
-    "body": "The DeFi Education Fund has led a rebuttal to Citadel Securities’ call for the SEC to bring DeFi platforms under securities laws if dealing in tokenized stocks.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
     "id": 55720572,
     "published": 1765609250000,
     "title": "Kalshi To Power Coinbase New Internal Prediction Platform, Insider Reveals",
@@ -909,6 +863,35 @@
         "ID": 64,
         "NAME": "RESEARCH",
         "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55759658,
+    "published": 1765690166000,
+    "title": "XRP bulls gain ground over bears on social media, ETF inflow streak continues",
+    "body": "Spot XRP exchange-traded funds continued a streak of positive flows, with over $20.1 million recorded on Friday, marking 19 consecutive days of net inflows.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
