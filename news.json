@@ -2190,5 +2190,180 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 55843196,
+    "published": 1765834158000,
+    "title": "UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal",
+    "body": "Bitcoin SV (BSV) investors had their appeal refused by the UK Supreme Court, dismissing a $13 billion claim in the process.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|bitcoin-cash-sv|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 134,
+        "NAME": "BSV",
+        "CATEGORY": "BSV"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55843292,
+    "published": 1765834462000,
+    "title": "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
+    "body": "Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Markets|market analysis|Breaking News|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55843458,
+    "published": 1765834417000,
+    "title": "Circle to acquire Interop Labs team and IP as Axelar remains independent",
+    "body": "The agreement adds a key interoperability engineering team to Circle, strengthening its crosschain infrastructure and support for multichain applications.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55843290,
+    "published": 1765834340000,
+    "title": "Senate punts crypto market structure bill to next year",
+    "body": "The Senate will not hold a market structure markup hearing this month, pushing any progress toward a new crypto law to next year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Market Structure Legislation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55843784,
+    "published": 1765835196000,
+    "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
+    "body": "The SEC's crypto task force held its sixth roundtable event, hosting representatives from digital asset advocacy groups and other organizations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
