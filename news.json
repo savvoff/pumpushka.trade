@@ -234,53 +234,6 @@
     ]
   },
   {
-    "id": 55766241,
-    "published": 1765703400000,
-    "title": "Twenty One’s first-day slide highlights investor caution toward BTC-backed stocks",
-    "body": "Twenty One Capital’s NYSE listing showed how tightly markets now price Bitcoin-heavy firms, with investors refusing to pay much beyond the underlying BTC value.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55777357,
     "published": 1765723080000,
     "title": "Emerging Asian Economies Pivot To Stablecoins",
@@ -914,6 +867,35 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55815328,
+    "published": 1765790174000,
+    "title": "Juventus Jumps After Billionaire Agnellis Family Rejects Tether’s Bid",
+    "body": "Juventus Football Club SpA shares rose the most this year after the Agnellis family’s investment vehicle Exor NV rejected an unsolicited bid by Tether Holdings to acquire the Italian football club.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "MIL:JUVE",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
