@@ -169,53 +169,6 @@
     ]
   },
   {
-    "id": 55779953,
-    "published": 1765720851000,
-    "title": "Bitcoin Headed For $200 Trillion? CEO Makes Bold Prediction",
-    "body": "A new public company with a big Bitcoin stash is pitching a bold claim. Twenty One Capital, which listed on the New York Stock Exchange on December 9, arrived with close to $4 billion Bitcoin treasury and now holds the third-largest BTC reserve among public firms. According to the firm’s CEO, Jack Mallers, Bitcoin’s role could expand far beyond a speculative holding. Related Reading: Solana’s Long-Awaited Firedancer Launch Sparks 5% Rally CEO Sees Bitcoin As A Reserve Asset Mallers told viewers on theCUBE+NYSE Wired that Bitcoin has compounded holders’ portfolios at roughly 50% a year over the past five to 10 years. Based on reports, he expects that the current $2 trillion market for Bitcoin could grow to between $20 trillion and $200 trillion. He argued Bitcoin might become the next global reserve asset as finance “recollateralizes” itself away from traditional treasuries and government debt. If supply then stood at 20 million tokens when a 100x market rise happened, Bitcoin would trade near $10 million per coin. At a present price of $92,270, that outcome would equal an increase of about 10,730%. Market Signals Remain Mixed Short-term market signs are not all in favor of a big rally. According to market watchers, the Federal Reserve’s recent rate cut barely moved Bitcoin, leaving price action largely flat and directionless. The MACD histogram, however, is showing hints of bullish momentum in some technical reads, which suggests buyers may be warming up. The dollar index is showing signs of weakness, which often helps assets like Bitcoin. ETF flows keep disappointing. Without steady inflows from funds, big narratives can struggle to turn into lasting price gains. Product Push Aimed At Liquidity Without Selling Twenty One Capital says it wants to offer services that let holders tap liquidity without selling their coins. The firm plans to start in credit and lending and has said it will roll out products in partnership with Tether. Related Reading: Do Kwon Falls Hard — Terraform Labs Chief Gets 15 Years For Wire Fraud Mallers described the company as more than a balance-sheet accumulator; he compared their ambitions to Coinbase while stressing a narrower focus on Bitcoin services. If executed, these offerings could change how holders manage risk and cash needs. Big Numbers And Big Questions The projection to $200 trillion is headline-grabbing. It is a vision, not a forecast, and it hinges on major shifts in global finance and adoption. Reports note that other industry figures have offered similar long-term targets, which means the idea is not unique but remains highly debated. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|fed|rate cuts",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55782376,
     "published": 1765731655000,
     "title": "XRP Holders Labeled ‘Uneducated Perma Bulls’ By Veteran Trader – Details",
@@ -914,6 +867,145 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55825687,
+    "published": 1765806191000,
+    "title": "Morning Minute: The SEC & OCC Usher In Crypto Era",
+    "body": "Two major actions from late last week signal that crypto is fully entering the mainstream, with full regulatory buy in.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55826397,
+    "published": 1765807200000,
+    "title": "Ripple Expands $1.3B RLUSD Stablecoin to Ethereum L2s via Wormhole in Multichain Push",
+    "body": "Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ripple|Stablecoin|Ethereum News|Wormhole|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55826399,
+    "published": 1765807200000,
+    "title": "Kula Brings $50M of Impact Investing Onchain With Community-Governed RWA Model",
+    "body": "The decentralized investment firm is using tokens and DAOs to give local communities direct control over energy and infrastructure projects in emerging markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Real World Assets|Zambia|DAO|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55825957,
+    "published": 1765806692000,
+    "title": "Real-World Asset DeFi Moves Into Sports Finance With Tokenized Football Club Revenues",
+    "body": "A new DeFi model is providing football clubs with faster access to liquidity by converting future media and broadcasting revenues into tokenized, onchain assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Web3|Sports|Soccer|Chiliz|Real World Assets|Tokenization|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55826755,
+    "published": 1765807751000,
+    "title": "Juventus Fan Token Slides Over 13% After Tether Bid Rebuff, Even as Club Shares Surge",
+    "body": "Juventus Football Club shares surged after stablecoin issuer Tether made, and was rebuffed on, a €1.1 billion takeover bid, while the club’s fan token saw a double-digit pullback.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Juventus|Fan Tokens|Tether|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
