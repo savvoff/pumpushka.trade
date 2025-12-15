@@ -281,53 +281,6 @@
     ]
   },
   {
-    "id": 55772079,
-    "published": 1765699253000,
-    "title": "Ethereum Active Address Count Hits Seven-Month Low  — What This Means",
-    "body": "While the Ethereum price still struggles to mount a sustained bullish momentum, an investigation into its on-chain activity has revealed a significant change in the behavior of its market participants. Active Addresses Decline To 327,000 From 483,000 August High In a Quicktake post on the CryptoQuant platform, market analyst CryptoOnchain shared that there has been a growing scarcity of activity within the Ethereum network. Specifically, the quant referenced data obtained from the Ethereum Active Addresses metric, observed on the 7-day Simple Moving Average. Related Reading: If This Ethereum Bear Flag Pattern Holds, ETH Price Could Be On Its Way To $2,400 Since reaching its peak in August, the Active Addresses metric has declined steadily from about 483,000 to 327,000 — a level which marks the lowest reached since May this year. This downturn of more than 32% suggests an increasing exit of willing participants from the Ethereum network. Interestingly, the aforementioned downturn is not a stand-alone phenomenon. Just around the same period where active addresses explored the southside of the charts, the Ethereum price also took on a bearish direction. This period saw the Ether token lose its $4,800 valuation and begin its descent to the current price around $3,100. According to the analyst, this strong correlation between the falling Ethereum valuation and its contracting network usage points to something clear — that the recent price drop is likely a result of reduced network demand. This further shows that market participants are moving past speculation, and are in lieu adopting a broader outlook on the Ethereum blockchain. Ethereum Market Outlook On the more positive side, CryptoOnchain explained how healthy bull cycles differ from the present market cycle. Typically, rising prices are not taken for granted as they often indicate a healthy bullish cycle. An expansion of the cryptocurrency’s network usage also lends credence — enough to serve as confirmation — to suspicions of structural shifts into bullish phases. This theory holds true from a variety of historical occurrences. So, a market would not qualify as bullish enough if the Ethereum price were on the rise without any parallel growth in on-chain activity. Hence, for a convincing price reversal to hold, there has to be a significant and sustained recovery of active addresses. This would signal the return of on-chain demand and further heighten expectations of imminent momentum. Until those conditions are simultaneously met, the Ethereum market remains in a state of utmost caution, where prices could head towards either direction, with the major factor being the influx of network users. As of press time, the Ether token is valued at about $3,106, reflecting no significant movement since the past day. Related Reading: XRP Mirrors 2016 Trend That Led To 69% Crash Before 110,000% Rally Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ethereum|ethereum active addresses|ethereum price|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55777357,
     "published": 1765723080000,
     "title": "Emerging Asian Economies Pivot To Stablecoins",
@@ -920,6 +873,53 @@
         "ID": 55,
         "NAME": "WALLET",
         "CATEGORY": "WALLET"
+      }
+    ]
+  },
+  {
+    "id": 55811012,
+    "published": 1765784869000,
+    "title": "BTC $80K Check-Back Risk Rises as Nasdaq Rebound Stalls",
+    "body": "Nasdaq and MOVE index patterns warrant caution for BTC bulls.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Markets|Nasdaq|Treasury|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
