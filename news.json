@@ -1,86 +1,5 @@
 [
   {
-    "id": 55776710,
-    "published": 1765722000000,
-    "title": "Bitcoin ‘extreme low volatility’ to end amid new $50K BTC price target",
-    "body": "Bitcoin traders braced for a major move “around the corner” after days of BTC price action sticking to a tight range around $90,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55777357,
-    "published": 1765723080000,
-    "title": "Emerging Asian Economies Pivot To Stablecoins",
-    "body": "Explore how emerging Asian economies like the Philippines, India, and Pakistan are leading in stablecoin adoption, revolutionizing cross-border payments and inclusion.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Money|/money|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55778111,
-    "published": 1765724400000,
-    "title": "YO Labs Raises $10M to Scale Cross-Chain Crypto Yield Optimization Protocol",
-    "body": "The protocol automates yield generation by rebalancing capital across DeFi protocols, factoring in risk, and offers access to various assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Web3|Yield|Crypto|Fundraising|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
     "id": 55780302,
     "published": 1765728042000,
     "title": "Ethereum Forms Wyckoff Breakout Setup: $10,000 Price Target Back In Focus",
@@ -1006,6 +925,122 @@
         "ID": 54,
         "NAME": "USDT",
         "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55827631,
+    "published": 1765809012000,
+    "title": "Strategy Adds Nearly a Billion Dollars in Bitcoin for Second Straight Week",
+    "body": "Michael Saylor’s firm is still buying big, adding $980 million worth of Bitcoin—slightly more than last week’s BTC haul.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55828896,
+    "published": 1765810800000,
+    "title": "Most Influential: Todd Blanche",
+    "body": "The crypto industry praised a memo signed by Deputy Attorney General Todd Blanche directing the Department of Justice to end “regulation by prosecution.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|DOJ|Tornado Cash|President Trump|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55828898,
+    "published": 1765810800000,
+    "title": "Most Influential: Roman Storm",
+    "body": "The Tornado Cash developer’s trial this summer is evidence that the crypto industry is still severely lacking regulatory clarity.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Roman storm|Tornado Cash|SDNY|Donald Trump|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55828973,
+    "published": 1765810800000,
+    "title": "Most Influential: Sergey Nazarov",
+    "body": "Chainlink’s co-founder spent 2025 turning oracles, cross-chain messaging and CRE into building blocks for tokenized funds and on-chain finance.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Sergey Nazarov|DeFi|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
       },
       {
         "TYPE": "122",
