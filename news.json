@@ -35,29 +35,6 @@
     ]
   },
   {
-    "id": 55773831,
-    "published": 1765717200000,
-    "title": "Spanish Authorities Bust Crypto Kidnapping Ring After Deadly Attack",
-    "body": "The case highlights a growing trend of physical attacks aimed at extracting access to crypto wallets, known as \"wrench attacks.\"",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "CoinDesk News|Security|Spain|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55777357,
     "published": 1765723080000,
     "title": "Emerging Asian Economies Pivot To Stablecoins",
@@ -896,6 +873,47 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55824928,
+    "published": 1765802295000,
+    "title": "Aave DAO Pushes Back as Interface Fees Shift Away From Treasury",
+    "body": "The change was framed as an upgrade offering improved execution, but delegates flagged that swap-related fees were no longer flowing to the Aave DAO treasury.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Tech|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
