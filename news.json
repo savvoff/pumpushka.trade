@@ -140,53 +140,6 @@
     ]
   },
   {
-    "id": 55768912,
-    "published": 1765708163000,
-    "title": "Bitcoin will ‘dump below $70K’ thanks to hawkish Japan: Macro analysts",
-    "body": "The Bank of Japan is expected to increase its benchmark interest rates on Friday, a historically bearish signal for riskier assets like Bitcoin.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55777357,
     "published": 1765723080000,
     "title": "Emerging Asian Economies Pivot To Stablecoins",
@@ -849,6 +802,100 @@
         "ID": 54,
         "NAME": "USDT",
         "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55818258,
+    "published": 1765794619000,
+    "title": "Hashdex Unveils Its Top 3 Crypto Predictions For 2026",
+    "body": "Hashdex is out with its 2026 crypto investment outlook, and the vibe is pretty clear: stop treating crypto like a weird side-bet and start treating it like… an allocation. The firm’s CIO Samir Kerbage says “most investors” should be thinking in the 5–10% range, framing it as a pragmatic response to a messier macro regime (sticky inflation risk, debt burdens, the 60/40 portfolio looking less like a law of nature and more like a historical artifact). Look, you can debate the exact number, but Hashdex’s point is that the underweight has become the active decision. Crypto is now “well above $3 trillion” in market cap and about 1% of the global investable market by its math—meaning a sub-1% allocation is basically a deliberate fade. They also cite a Charles Schwab survey where 45% of financial advisors said they planned to allocate to crypto ETFs over the next year. And they’re not just waving their hands. Hashdex runs a simple portfolio thought experiment: adding crypto exposure (represented by the Nasdaq Crypto Index US) to a 60/40 improves risk-adjusted returns in their backtest window, with higher allocations juicing total return while, yes, drawdowns get uglier. That trade-off isn’t hidden — it’s the whole point of sizing the position instead of YOLO’ing it. Related Reading: Crypto Tanks After Fed Cut: Santiment Breaks Down The Trap But the meat of the report isn’t “buy crypto because number go up.” It’s three themes, three predictions — basically a roadmap for what they think does the heavy lifting in 2026. Top 3 Crypto Predictions For 2026 First up: the “cryptodollar”. Hashdex argues stablecoins are starting to do something geopolitically weird and financially consequential: while some sovereigns try to de-dollarize, stablecoins re-dollarize at the user and corporate level, with issuers recycling that demand into short-duration Treasuries. Their baseline is stablecoins going from roughly $295 billion to well over $500 billion in 2026. If that accelerates, they suggest it changes the shape of Treasury demand — in one scenario, stablecoin growth could shorten the average duration of US debt by around four months (because the backing skews short). That’s the kind of detail bond people obsess over. Crypto people probably should, too. Related Reading: Will The Crypto Market Benefit From The Trump Fed Takeover? Second: tokenization finally acting like a flywheel instead of a conference slide. Hashdex points to tokenized RWAs at roughly $36 billion as of late 2025 and says the market could grow 10x to about $400 billion by end-2026. They also flag that tokenized Treasury bills have already climbed to over $8 billion, from a little above $700 million two years earlier. They namecheck real-world rollout examples — BlackRock’s liquidity fund, Franklin Templeton’s on-chain government money fund, UBS’s tokenized VCC fund in Singapore, Siemens’ on-chain bond — as proof this isn’t just crypto teams talking to themselves anymore. “We’re not spending enough time talking about how quickly we’re going to tokenize every financial asset.” Third: AI, but not the “add AI to the pitch deck” version. Hashdex says decentralized AI networks pulled nearly $1 billion in venture funding in 2025, largely aimed at problems like verification, coordination, and compute cost. Their call is the “AI Crypto” segment growing from about $3 billion to $10 billion in 2026. The throughline is simple even if the plumbing isn’t: stablecoins deepen on-chain liquidity, tokenization pulls more assets onto rails, and AI pushes demand for crypto-native infrastructure that can verify and coordinate without a single gatekeeper. Hashdex’s punchline is that 2026 is when “exploratory” turns into “strategic.” Not a tidy ending, sure — but markets rarely give you one. At press time, the total crypto market cap stood at $3.03 trillion. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|crypto|Crypto market news|Crypto Market Trends 2026|crypto news|Crypto Predictions 2026",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55819499,
+    "published": 1765796432000,
+    "title": "Dogecoin Holds Demand Zone Above $0.13, What A Bounce Would Do",
+    "body": "As the eventful year of 2025 draws to an end, crypto analysts are looking into what the Dogecoin price could hold for investors going into the end of the year. One of these analysts is BitGuru, who shared an interest in the Dogecoin price chart, highlighting the next possible roadmap that the meme coin could take. With the possibility of a bounce rising, the next targets have become increasingly important to identify in order to maximize gains. Why The Dogecoin Price Could Recover Quickly BitGuru’s analysis focuses on the rising demand surrounding the meme coin after finding support from the recent crash. The Dogecoin price had stopped above $0.13, suggesting that the demand at this level continues to hold strong as buyers return to the market. Related Reading: Reasons Why XRP’s Technical Structure Favors Upside Than Down Over Next 6 Months Pointing out this demand, the crypto analyst explains that the Dogecoin price is actually holding the demand zone after a prolonged downtrend. This is often bullish for the digital asset as it shows rising interest in the cryptocurrency as it establishes new support levels. This base formation, as the analyst calls it, could serve as the starting point for the next rally that could push the Dogecoin price higher. However, for this to happen, the Dogecoin bulls would have to maintain their position above this demand level. If this support level is held, then BitGuru forecasts that the Dogecoin price could start to recover again. This bounce could lead to a 50% increase, with the analyst’s chart outline putting it as high as $0.188. The upper end of the rally shows the price climbing to $0.22 before hitting resistance. End Of Year Could End Red Interestingly, the last quarter of the year has often been reasonably bullish for the Dogecoin price, but the year 2025 has deviated hard. So far, the quarter is already 41.8% deep in the red, according to data from the CryptoRank website, and it doesn’t look like that would change anytime soon. Related Reading: XRP Mirrors 2016 Trend That Led To 69% Crash Before 110,000% Rally The Dogecoin price is already down more than 7.5% in the month of December so far, contributing to the decline that has been felt in the quarter. The months of October and November ended in the red with 20% and 21.3% losses, respectively, and if this trend continues, then the Dogecoin price could follow suit. Featured image from Dall.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
