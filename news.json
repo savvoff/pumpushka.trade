@@ -1,28 +1,5 @@
 [
   {
-    "id": 55784857,
-    "published": 1765736055000,
-    "title": "Firestorm erupts in Aave governance forum over CoW Swap fees",
-    "body": "Members of the Aave DAO clashed with Aave Labs, with some arguing that the company was not acting in the best interests of token holders.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55794994,
     "published": 1765756862000,
     "title": "UK can ‘lead the world’ on crypto, says City minister",
@@ -1580,6 +1557,158 @@
         "ID": 39,
         "NAME": "MINING",
         "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55836346,
+    "published": 1765821807000,
+    "title": "BlackRock Expands Crypto Bet With 7 Senior Hires Across U.S. and Asia",
+    "body": "The $10 trillion asset manager is staffing up to scale digital asset ETFs, pursue tokenization and identify \"first-mover big bets\" in Asia.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|BlackRock|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55836269,
+    "published": 1765821631000,
+    "title": "Market Stress Continues As Bitcoin STH SOPR Dips Below 1– When Will The Pain End?",
+    "body": "Bitcoin continues to struggle below the $90,000 level, failing to reclaim key resistance as bulls attempt to defend current demand zones. Price action reflects a market under pressure, with momentum fading after a prolonged correction. From its all-time high, Bitcoin has now retraced roughly 30%, placing the asset firmly in a corrective phase where uncertainty and caution dominate trading behavior. Related Reading: Ethereum Trades Near Whales’ Cost Basis For The Fourth Time Since 2021 – Historic Test According to a report from Axel Adler, on-chain data confirms that market stress is no longer limited to price alone. Two key indicators—the Short-Term Holder Spent Output Profit Ratio (STH SOPR) and the P/L Block—are signaling broad loss realization among participants and a deterioration in overall market sentiment. These metrics provide insight into the behavior of short-term holders, who are often the most sensitive to price swings and macro uncertainty. Together, these signals suggest that Bitcoin remains in a fragile state, where confidence has weakened, and recovery attempts face increasing resistance. STH SOPR and P/L Block Confirm Capitulation Pressure Adler explains that the Short-Term Holder Spent Output Profit Ratio (STH SOPR) measures whether coins held for less than 155 days are being sold at a profit or a loss. When the indicator falls below one, it signals that recent buyers are realizing losses. Currently, the 7-day moving average of STH SOPR has slipped into the red zone, with a reading near 0.99. This confirms that short-term holders are, on average, selling Bitcoin below their acquisition price—a behavior typically associated with heightened stress and emotional selling. Historically, similar SOPR conditions have marked local capitulation phases, when selling pressure peaks and weaker hands exit the market. As long as the SOPR 7-day average remains below one, short-term participants stay in “stress mode.” Adler notes that a meaningful improvement would require a sustained move back above one on a daily close, signaling that sellers have exhausted supply and buyers are once again absorbing sell-side pressure. Complementing this signal, the P/L Block indicator tracks the aggregated profit and loss state of market participants. The current red block reflects loss dominance, with a P/L Score of minus three—classified as pronounced stress. With Bitcoin down 30% from its all-time high and 30-day returns negative, both indicators align, reinforcing a clear picture of capitulation among short-term holders. Related Reading: XRP Whale Activity Spikes At The Bottom – A Classic Pre-Rally Signal Bitcoin Price Analysis: Weekly Structure Remains Critical The weekly chart shows Bitcoin trading around the $89,900 level after a sharp rejection from the $120,000–$125,000 region. Price has retraced aggressively but is now attempting to stabilize above the rising 200-week moving average (green), a level that has historically defined long-term trend validity. So far, this area is acting as dynamic support, suggesting that buyers are defending higher-cycle structure despite broader market weakness. However, Bitcoin remains below the 50-week moving average (blue), which is now sloping downward. This configuration reflects a loss of medium-term momentum and confirms that the market is still in a corrective phase rather than a resumed uptrend. The 100-week moving average (red) continues to rise well below price, reinforcing that the broader macro trend remains intact, but also highlighting how much excess was built during the prior rally. Related Reading: Bitcoin Whales Refuse to Sell: Historic Signal Emerges As Binance CDD Drops To 2017 Levels Volume has declined during the recent consolidation, signaling indecision rather than aggressive accumulation. This typically precedes a volatility expansion. From a structural perspective, holding above the $85,000–$88,000 zone is critical. A sustained breakdown below the 200-week MA would increase the probability of a deeper retracement toward the $75,000–$80,000 region. Conversely, reclaiming the 50-week MA near $95,000 would be an early signal that downside pressure is fading. Until then, Bitcoin remains range-bound, with long-term support holding but momentum still fragile. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin correction|Bitcoin news|Bitcoin Selling Pressure|Bitcoin STH|Bitcoin STH SOPR|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55835824,
+    "published": 1765820826000,
+    "title": "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million",
+    "body": "Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55836507,
+    "published": 1765821677000,
+    "title": "Digital asset ETPs post third straight week of net inflows, led by US demand",
+    "body": "Bitcoin and Ether accounted for the largest allocations, while short-Bitcoin products posted net outflows, according to CoinShares data.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
