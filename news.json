@@ -1,157 +1,5 @@
 [
   {
-    "id": 55836346,
-    "published": 1765821807000,
-    "title": "BlackRock Expands Crypto Bet With 7 Senior Hires Across U.S. and Asia",
-    "body": "The $10 trillion asset manager is staffing up to scale digital asset ETFs, pursue tokenization and identify \"first-mover big bets\" in Asia.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|BlackRock|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55836269,
-    "published": 1765821631000,
-    "title": "Market Stress Continues As Bitcoin STH SOPR Dips Below 1– When Will The Pain End?",
-    "body": "Bitcoin continues to struggle below the $90,000 level, failing to reclaim key resistance as bulls attempt to defend current demand zones. Price action reflects a market under pressure, with momentum fading after a prolonged correction. From its all-time high, Bitcoin has now retraced roughly 30%, placing the asset firmly in a corrective phase where uncertainty and caution dominate trading behavior. Related Reading: Ethereum Trades Near Whales’ Cost Basis For The Fourth Time Since 2021 – Historic Test According to a report from Axel Adler, on-chain data confirms that market stress is no longer limited to price alone. Two key indicators—the Short-Term Holder Spent Output Profit Ratio (STH SOPR) and the P/L Block—are signaling broad loss realization among participants and a deterioration in overall market sentiment. These metrics provide insight into the behavior of short-term holders, who are often the most sensitive to price swings and macro uncertainty. Together, these signals suggest that Bitcoin remains in a fragile state, where confidence has weakened, and recovery attempts face increasing resistance. STH SOPR and P/L Block Confirm Capitulation Pressure Adler explains that the Short-Term Holder Spent Output Profit Ratio (STH SOPR) measures whether coins held for less than 155 days are being sold at a profit or a loss. When the indicator falls below one, it signals that recent buyers are realizing losses. Currently, the 7-day moving average of STH SOPR has slipped into the red zone, with a reading near 0.99. This confirms that short-term holders are, on average, selling Bitcoin below their acquisition price—a behavior typically associated with heightened stress and emotional selling. Historically, similar SOPR conditions have marked local capitulation phases, when selling pressure peaks and weaker hands exit the market. As long as the SOPR 7-day average remains below one, short-term participants stay in “stress mode.” Adler notes that a meaningful improvement would require a sustained move back above one on a daily close, signaling that sellers have exhausted supply and buyers are once again absorbing sell-side pressure. Complementing this signal, the P/L Block indicator tracks the aggregated profit and loss state of market participants. The current red block reflects loss dominance, with a P/L Score of minus three—classified as pronounced stress. With Bitcoin down 30% from its all-time high and 30-day returns negative, both indicators align, reinforcing a clear picture of capitulation among short-term holders. Related Reading: XRP Whale Activity Spikes At The Bottom – A Classic Pre-Rally Signal Bitcoin Price Analysis: Weekly Structure Remains Critical The weekly chart shows Bitcoin trading around the $89,900 level after a sharp rejection from the $120,000–$125,000 region. Price has retraced aggressively but is now attempting to stabilize above the rising 200-week moving average (green), a level that has historically defined long-term trend validity. So far, this area is acting as dynamic support, suggesting that buyers are defending higher-cycle structure despite broader market weakness. However, Bitcoin remains below the 50-week moving average (blue), which is now sloping downward. This configuration reflects a loss of medium-term momentum and confirms that the market is still in a corrective phase rather than a resumed uptrend. The 100-week moving average (red) continues to rise well below price, reinforcing that the broader macro trend remains intact, but also highlighting how much excess was built during the prior rally. Related Reading: Bitcoin Whales Refuse to Sell: Historic Signal Emerges As Binance CDD Drops To 2017 Levels Volume has declined during the recent consolidation, signaling indecision rather than aggressive accumulation. This typically precedes a volatility expansion. From a structural perspective, holding above the $85,000–$88,000 zone is critical. A sustained breakdown below the 200-week MA would increase the probability of a deeper retracement toward the $75,000–$80,000 region. Conversely, reclaiming the 50-week MA near $95,000 would be an early signal that downside pressure is fading. Until then, Bitcoin remains range-bound, with long-term support holding but momentum still fragile. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin correction|Bitcoin news|Bitcoin Selling Pressure|Bitcoin STH|Bitcoin STH SOPR|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55835824,
-    "published": 1765820826000,
-    "title": "Bitcoin, Ethereum and XRP Fall to Lowest Prices in a Week as Liquidations Top $500 Million",
-    "body": "Bitcoin plunged to a price of nearly $85,000 on Monday, hitting its lowest price since early December as hopes of a Santa rally fade.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55836507,
-    "published": 1765821677000,
-    "title": "Digital asset ETPs post third straight week of net inflows, led by US demand",
-    "body": "Bitcoin and Ether accounted for the largest allocations, while short-Bitcoin products posted net outflows, according to CoinShares data.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55838594,
     "published": 1765825380000,
     "title": "UK Supreme Court refuses BSV appeal, narrowing $13 billion lawsuit against crypto exchanges",
@@ -224,41 +72,6 @@
         "ID": 47,
         "NAME": "SPONSORED",
         "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55838427,
-    "published": 1765821900000,
-    "title": "Bitcoin parabola breakdown raises chance for 80% correction: Veteran trader",
-    "body": "The Bitcoin parabola broke, leading some analysts to predict an 80% drawdown in BTC price. Will growing demand from traditional finance and strategic crypto reserves nullify all bearish predictions?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -3344,6 +3157,222 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55884169,
+    "published": 1765905562000,
+    "title": "How scammers target crypto users during the holidays and how to stay protected",
+    "body": "From fake crypto investment offers to deepfake endorsements, here’s how criminals trick users and what you can do to stay one step ahead.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55884627,
+    "published": 1765906517000,
+    "title": "Marshall Islands launches world’s first blockchain-based UBI on Stellar blockchain",
+    "body": "Backed by U.S. Treasuries, USDM1 marks a new model for digital public finance and universal basic income in underserved regions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Marshall Islands|Stellar|Stellar Development Foundation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55885374,
+    "published": 1765908050000,
+    "title": "Shiba Inu Scores US Regulated Derivatives Entry Via Coinbase",
+    "body": "According to reports, Coinbase has launched regulated futures linked to Shiba Inu, opening the token to trading on a US derivatives venue. Related Reading: Analyst: Bitcoin’s Cycle Is Intact, Yet No Longer Purely Market-Driven The new products include perpetual-style contracts and monthly futures tied to what Coinbase calls the 1k SHIB index (a 1,000 token index), with trading scheduled to run 24/7. The rollout began on December 5, 2025, as part of a broader push by the exchange to add altcoin derivative listings under US rules. Regulated Futures Hit The Market Reports have disclosed that the perpetual contracts operate like offshore swaps in form but are offered through Coinbase’s regulated platform and are designed to include a funding-rate mechanism to keep prices close to spot. Now live: Trade US Perpetual-Style Futures for all altcoins on Coinbase Derivatives, available 24/7. → Shiba Inu $SHIB → Avalanche $AVAX → Bitcoin Cash $BCH → Cardano $ADA → Chainlink $LINK → Dogecoin $DOGE → Hedera $HBAR → Litecoin $LTC → Polkadot $DOT → SUI $SUI →… pic.twitter.com/yjS2XsQ2jN — Coinbase Markets 🛡️ (@CoinbaseMarkets) December 15, 2025 Monthly contracts were made available as an initial phase. Clearing and settlement are handled inside systems compatible with US oversight, and the products are described as compliant with Commodity Futures Trading Commission frameworks. What Traders And Institutions Might Do Market participants say having regulated futures can change who trades a token. Institutional desks and some large funds often need regulated venues and clearer custody paths before they increase exposure. Added liquidity and round-the-clock pricing may attract more active traders, and that could raise volume. At the same time, access to futures also makes it easier to bet against the token, which can push volatility up. Reports note that immediate moves in spot markets have been mixed, showing that access to derivatives does not automatically lift the token’s price. Because SHIB has regulated futures on Coinbase (“1k Shib Index”), it qualifies for spot ETF consideration under the same SEC pathway Bitcoin and Ethereum followed. The big picture for SHIB •SHIB now joins the “ETF-watchlist club” with other futures-backed cryptos. •If/when… pic.twitter.com/cZPxUWWhBn — 𝐋𝐔𝐂𝐈𝐄 (@LucieSHIB) September 18, 2025 Market Context And Exchange Strategy Coinbase’s decision follows steps the exchange has taken to grow its derivatives arm. Company filings and public letters in 2025 framed derivatives growth as a strategic priority, and the firm has pursued deals and product launches to expand those capabilities. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund One notable deal disclosed earlier involved an agreement valued at close to $3 billion to strengthen derivatives know-how and infrastructure. This background helps explain why Coinbase is offering altcoin futures that trade continuously, under a regulated roof. Featured image from Gemini, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Shiba Inu|altcoins|bitcoin|coinbase|crypto|derivatives|digital currency|memecoin|SHIB",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 44,
+        "NAME": "SHIB",
+        "CATEGORY": "SHIB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55885298,
+    "published": 1765907924000,
+    "title": "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
+    "body": "The influential Democrat is the most vocal critic of the crypto legislation, and she continues to throw rhetorical sand in the gears of the negotiation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Sen. Elizabeth Warren|Donald Trump|World Liberty Financial|Pancakeswap|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 167,
+        "NAME": "CAKE",
+        "CATEGORY": "CAKE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55885785,
+    "published": 1765908600000,
+    "title": "Why BitMine is accumulating Ether despite broader market fear",
+    "body": "BitMine is building an Ether-heavy treasury as ETF flows wobble and exchange deposits rise, betting on Fusaka and staking to drive a longer-term thesis.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55886074,
+    "published": 1765908927000,
+    "title": "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
+    "body": "The Federal Deposit Insurance Corp.'s proposal outlines how banks could seek approval to issue payment stablecoins as US regulators move from legislation to rule-making.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }
