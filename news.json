@@ -1,140 +1,5 @@
 [
   {
-    "id": 55838594,
-    "published": 1765825380000,
-    "title": "UK Supreme Court refuses BSV appeal, narrowing $13 billion lawsuit against crypto exchanges",
-    "body": "Crypto lawyer Irina Heaver said the ruling reinforces limits on exchange liability and rejects claims tied to speculative future gains following BSV’s delisting",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|BSV|Craig Wright|Binance|ShapeShift|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 134,
-        "NAME": "BSV",
-        "CATEGORY": "BSV"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55838597,
-    "published": 1765825243000,
-    "title": "Can Bitcoin Price Still Hit $140,000? What The Global M2 Money Supply Says",
-    "body": "The Bitcoin price outlook remains under scrutiny as market analysts assess whether the world’s largest cryptocurrency can still reach $140,000. Given BTC’s recent downturn and fluctuating price, it’s understandable that a dramatic surge to $140,000 could be viewed skeptically. However, the analyst points to global M2 Money Supply, highlighting its correlation with Bitcoin and its support for a significant upside move. New discussions have emerged in the crypto space about the relationship between the Bitcoin price action and the global M2 Money Supply. Pseudonymous crypto analyst ‘MoneyLord’ has projected a massive price surge to $140,000 for BTC based on M2 data. The analyst noted that many people are skeptical about the relevance of M2 Money Supply, likely questioning whether it still holds predictive value for Bitcoin’s performance. Global M2 Money Supply To Fuel $140,000 Bitcoin Price Surge According to MoneyLord, the recent disconnect between Bitcoin and M2 data should not be viewed as a failure of the model, but rather as a consequence of aggressive market interference and increased stress across global financial systems. In his technical report released on X, he argued that, without heavy manipulation and the collapse and insolvency of major entities, Bitcoin would have continued to track global liquidity growth. Related Reading: Is It More Profitable To Hold Bitcoin For The Short-Term? 2025 Numbers Are Here MoneyLord believes that those shocks temporarily suppressed BTC’s price expansion, likely contributing to its recent decline and slow momentum. With market conditions somewhat stabilizing, the analyst suggests that Bitcoin is poised to realign with global M2 Money Supply trends, potentially setting the stage for renewed upward momentum. From this perspective, the current phase is viewed as a delayed reaction rather than a failed cycle. MoneyLord predicts that if Bitcoin begins to catch up with M2 data, the cryptocurrency’s price could hit a target above $140,000 sooner than the market expects. The accompanying chart illustrates this bullish outlook, showing global liquidity, represented by the blue line, continuing to rise toward the projected price. With Bitcoin trading near $90,000 after a more than 6% decline this month, a rally to $140,000 would require a gain of at least 55%. Reaching this level would set a new all-time high, exceeding its present peak of over $126,000 by more than 10%. Bitcoin Shows Resilience Amid Market Sell-Offs According to crypto analyst Don, Bitcoin has bounced back after a period of sharp sell-offs that shook out many traders and triggered widespread liquidations. The analyst noted that bulls have stepped in to reclaim critical support and restore confidence in the market as BTC resumes trading within a well-defined ascending triangle pattern. Related Reading: Bitcoin Realized Losses From Entities Surges To 2022 Levels Following Crash Below $90,000 The chart shows that the triangle has an upper boundary near $94,324 and a lower boundary around $89,241. Price action inside the formation suggests that Bitcoin is consolidating and likely building momentum for a potential breakout. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|Ascending Triangle Pattern|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Don|Global M2 Money Supply|MoneyLord",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55838926,
-    "published": 1765825800000,
-    "title": "Price predictions 12/15: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH",
-    "body": "Bitcoin rallies continue to be capped by selling near the intra-day range highs, and the expectation of Bank of Japan interest rate cuts could amplify the downturn in BTC and altcoins.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55839437,
     "published": 1765826754000,
     "title": "Merriam-Webster Declares 'Slop' the Word of the Year as AI Eats the Web",
@@ -3373,6 +3238,94 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55886861,
+    "published": 1765910441000,
+    "title": "Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine",
+    "body": "The actively managed ETFs of Cathie Wood's Ark Invest loaded up on crypto-related equities like Coinbase, BitMine, and Circle as prices sagged Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55887558,
+    "published": 1765911652000,
+    "title": "XRP Price Is Not Going To $100 By End Of Year, ‘You Need A Reality Check’",
+    "body": "Despite the recent crash that saw the XRP price fall below $2, many analysts claim that the cryptocurrency could still skyrocket to $100 by the end of the year. However, one expert has thoroughly dismissed these projections, urging investors to temper expectations and warning that those who believe such predictions need a “reality check.” Why XRP Can Never Reach $100 By Year’s End Crypto market expert Zach Humphries has delivered a detailed assessment of XRP, calling out extreme price predictions and overly optimistic expectations, especially during the current downtrend. In a video on X, he warns that claims suggesting XRP will reach $100 by the end of 2025 are unrealistic and potentially misleading for investors and traders. Related Reading: Crypto Analyst Predicts How Low The XRP Price Will Go Before Bouncing Humphries emphasized that while he supports XRP and believes in its long-term potential, the spread of exaggerated price targets in the crypto space is harmful. He explained that many investors assume that owning 100 XRP tokens will make them wealthy quickly, holding on to false hope and unrealistic financial expectations. The analyst points out the need for realism in the crypto space, arguing that viral hype posts and overinflated price forecasts can hoodwink people into making genuine financial decisions that could lead to losses. He noted that investors need to understand market structure and the underlying math behind XRP’s price action before believing in any extreme predictions. Humphries stated a $100 XRP price would imply a $5 trillion market capitalization, surpassing the size of Apple, Microsoft, and even the entire crypto market at some historical peaks. He noted that reaching this seemingly impractical price target would require XRP achieving overnight global adoption, full-scale replacement of existing payment rails, and massive sustained institutional inflows. The analyst also highlighted a common misunderstanding about liquidity. Humphries explained that for XRP to reach $100, it would require substantial global liquidity. He noted that despite XRP Spot ETFs recording over $1 billion in inflows recently, the cryptocurrency’s price did not rise; instead, it declined further. He highlighted that this is because institutional investors prioritize stability, deep liquidity, and predictability over volatile, high-risk payment assets. Although his statements may seem like a critique of XRP’s outlook, Humphries emphasized that the cryptocurrency has genuine strengths, including robust cross-border payment capabilities, strong enterprise relationships, and liquidity. He pointed out that, ironically, the more XRP succeeds as a payment rail, the less explosive its price becomes. Analyst Says XRP Could Still Outperform Many Assets In his video, Humphries stated that XRP has survived many market cycles, making it one of the rare resilient cryptocurrencies. Under the right conditions, he believes that the XRP price could outperform many digital assets, which is why it remains a top altcoin in his portfolio. Related Reading: XRP Price To Reach $27: The Technical Formation That Paints 1,300% Surge The analyst emphasized the importance of realistic growth driven by gradual institutional adoption, ETF integration, regulatory clarity, and steady price increases tied to actual usage and utility. He highlighted that these factors could help XRP perform very well, potentially reaching new all-time highs. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|altcoin|Ripple|xrp|xrp news|XRP Price|XRP Spot ETFs|XRPUSD|xrpusdt|Zach Humphries",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
