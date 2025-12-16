@@ -1,204 +1,5 @@
 [
   {
-    "id": 55832235,
-    "published": 1765815598000,
-    "title": "Bank of America says U.S. banks are heading for multi-year onchain future",
-    "body": "The Wall Street firm said faster U.S. stablecoin and charter rules are pulling crypto into the regulated banking system and pushing banks toward an on-chain future.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|crypto regulation|Stablecoins|Bank of America|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55833123,
-    "published": 1765816890000,
-    "title": "Ripple to Expand $1.3 Billion RLUSD Stablecoin to Ethereum Layer-2 Networks",
-    "body": "To support the growth of its RLUSD stablecoin, Ripple said the token is expanding next year to layer-2 networks on Ethereum.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55833898,
-    "published": 1765818023000,
-    "title": "Why XRP Isn’t Reacting to Major Institutional and Regional Developments",
-    "body": "XRP has spent the past several weeks moving sideways around the $2.00 level, even as headlines around Ripple and the broader XRP ecosystem continue to stack up. Related Reading: Dogecoin Holds Demand Zone Above $0.13, What A Bounce Would Do From a $300 million venture fund expansion into South Korea to nearly $1 billion in spot ETF inflows and fresh regulatory approvals, the backdrop appears supportive on paper. However, price action tells a different story. Instead of responding to institutional traction and regional growth, XRP remains locked in a tight range, reflecting a disconnect between developments and market behavior. XRP's price trends to the downside on the daily chart. Source: XRPUSD on Tradingview Institutional Growth Isn’t Translating Into Token Demand Ripple’s expansion into South Korea through a $300 million venture fund has drawn attention due to the involvement of well-established, Seoul-based asset managers. However, market participants are increasingly viewing this move as tied to Ripple’s corporate strategy and potential IPO positioning, rather than direct demand for XRP. Institutional investors tend to prioritize predictable cash-flow or equity-style exposure, limiting the immediate impact such initiatives have on the token’s market dynamics. A similar pattern is visible in the ETF market. Spot XRP ETFs have recorded roughly $990 million in inflows over 30 consecutive days, making them one of the fastest-growing crypto fund segments. Despite this, XRP has fallen more than 12% over the past month. Analysts note that ETF inflows do not always translate into spot market pressure, especially when liquidity is fragmented or offset by broader risk-off sentiment across crypto assets. Technical Pressure and Broader Market Headwinds From a technical standpoint, XRP remains under pressure. The price has retraced to key Fibonacci levels after falling from its yearly high near $3.65. Chart patterns such as a developing death cross and a double-top formation point to downside risk, with support levels around $1.63 and $1.50 in focus if selling continues. Traders describe the current phase as bearish consolidation, with strong resistance clustered between $2.00 and $2.20. These conditions mirror weakness across the wider crypto market. Bitcoin’s decline from earlier highs and drawdowns in major altcoins have reduced risk appetite, often pulling XRP lower regardless of asset-specific news. Liquidity, Bots, and Muted Price Response Market structure may also be playing a role. Analysts point to low trading volumes and heavy arbitrage activity as factors keeping XRP pinned near psychological levels. In thin markets, automated strategies tend to fade moves quickly, preventing follow-through. While some data suggests tokens are gradually moving off exchanges, signaling longer-term holding, short-term price discovery remains dominated by macro flows and Bitcoin-led volatility. Related Reading: Dogecoin (DOGE) Slides Deeper Into Red—Is a Bottom in Sight? Currently, XRP’s lack of movement reflects market mechanics more than a judgment on progress within its ecosystem. Until volume and liquidity shift decisively, headlines alone may not be enough to move the price. Cover image from ChatGPT, XRPUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ripple|xrp|XRP Price|XRPUSD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55833750,
-    "published": 1765817748000,
-    "title": "Juventus Owner Rejects Tether's $1.2 Billion Acquisition Offer, Sending Team's Stock Soaring",
-    "body": "Shares in Italian soccer club Juventus are up 17% after its majority owner spurned an all-cash offer from stablecoin issuer Tether.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55834583,
-    "published": 1765819077000,
-    "title": "Bitcoin Hashrate Sees Sharpest Post Halving Drop Since 2024 Amid China Machine Shutdowns",
-    "body": "Roughly 400,000 bitcoin mining machines shut down in China, according to former Canaan chairman.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Hashrate|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55836346,
     "published": 1765821807000,
     "title": "BlackRock Expands Crypto Bet With 7 Senior Hires Across U.S. and Asia",
@@ -3426,6 +3227,117 @@
         "ID": 100,
         "NAME": "USDC",
         "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55882292,
+    "published": 1765902603000,
+    "title": "How Prediction Markets Actually Grew In 2025",
+    "body": "Prediction markets quadrupled resting capital to $13B in 2025 despite volume volatility, proving they're exchanges for hedging, not just betting platforms.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55883287,
+    "published": 1765904418000,
+    "title": "ADA Enters Critical Phase as Cardano Price Slips Back to Multi-Year Support Levels",
+    "body": "Cardano’s ADA token has returned to a familiar but uncomfortable zone. After months of lower highs and failed recovery attempts, the price has slid back toward long-term support levels that have defined its structure for more than two years. Related Reading: XRP Hasn’t Entered A Bear Market Yet; Analyst Shares Why The move comes amid a broader market pullback, as risk appetite weakens across equities and crypto, but ADA’s decline is also being shaped by internal technical signals that traders are finding hard to ignore. ADA currently trades near $0.38–$0.39, down approximately 5.57% over the past 24 hours. That drop places the token close to a multi-year ascending support trend line that has held for nearly 900 days. ADA's price trends to the downside on the daily chart. Source: ADAUSD on Tradingview Derivatives and Positioning Point to Caution Market data indicate that traders are stepping back rather than leaning into the decline. Futures open interest in ADA has decreased by approximately 11% to around $670 million, indicating that positions are being closed rather than expanded. Funding rates have also softened, with more than 55% of tracked positions now skewed to the short side. Together, these metrics point to reduced confidence in a near-term rebound and a market that is positioning defensively. This caution is not isolated to Cardano. Altcoins across the board have come under pressure as investors adopt a risk-off stance ahead of key U.S. macroeconomic data, including inflation and labor reports, and as concerns surrounding the AI sector spill over into correlated assets like cryptocurrency. Technical Structure Near a Breaking Point On the charts, ADA’s structure remains fragile. The token recently lost the $0.53 horizontal support, confirming a bearish shift on higher timeframes. Momentum indicators reflect that change. The RSI is below 50, and the MACD remains in a negative position. Recent price action looks corrective rather than impulsive, suggesting the latest bounce may already have run its course. ADA is still hovering near its long-term diagonal support, but a clean breakdown would likely alter the outlook materially. Some analysts warn that, if this trend line fails, the price could retrace much deeper, potentially toward levels last seen during the previous bear market. Long-Term Targets Contrast With Short-Term Risk Despite the weak near-term picture, longer-term projections remain divided. One technical analyst has argued that ADA’s current consolidation resembles a prolonged corrective phase similar to the setup seen before its 2020 breakout, outlining upside targets ranging from the $5 area to above $10 in a full bull scenario. Related Reading: US Bitcoin Session Leads December Returns After Weak November However, those views hinge on the market first stabilizing and reclaiming key resistance zones. For now, ADA’s focus is simpler. The token is at a critical phase, with long-term support under pressure and sentiment cautious. Whether this level marks a base or a breakdown will likely shape Cardano’s trajectory into 2026. Cover image from ChatGPT, ADAUSD chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cardano|ADA|ADA price|adausd|Cardano price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55883878,
+    "published": 1765905026000,
+    "title": "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
+    "body": "The Solana-linked product expands Valour’s Brazil footprint as demand for regulated crypto exposure grows among regional investors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
