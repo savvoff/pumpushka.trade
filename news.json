@@ -1,180 +1,5 @@
 [
   {
-    "id": 55843196,
-    "published": 1765834158000,
-    "title": "UK Supreme Court Shuts Down $13 Billion Bitcoin SV Case Appeal",
-    "body": "Bitcoin SV (BSV) investors had their appeal refused by the UK Supreme Court, dismissing a $13 billion claim in the process.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|bitcoin-cash-sv|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 134,
-        "NAME": "BSV",
-        "CATEGORY": "BSV"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55843292,
-    "published": 1765834462000,
-    "title": "Bitcoin slides to $86,000 as slower rate cut risk, AI stock woes shake markets",
-    "body": "Crypto-related stocks suffered far deeper declines as bitcoin slumped well below its recent trading range.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Markets|market analysis|Breaking News|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55843458,
-    "published": 1765834417000,
-    "title": "Circle to acquire Interop Labs team and IP as Axelar remains independent",
-    "body": "The agreement adds a key interoperability engineering team to Circle, strengthening its crosschain infrastructure and support for multichain applications.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55843290,
-    "published": 1765834340000,
-    "title": "Senate punts crypto market structure bill to next year",
-    "body": "The Senate will not hold a market structure markup hearing this month, pushing any progress toward a new crypto law to next year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Market Structure Legislation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55843784,
-    "published": 1765835196000,
-    "title": "SEC commissioner says Crypto is ‘helping to nudge reassessment’ on privacy",
-    "body": "The SEC's crypto task force held its sixth roundtable event, hosting representatives from digital asset advocacy groups and other organizations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55847556,
     "published": 1765843257000,
     "title": "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
@@ -3333,6 +3158,105 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55892078,
+    "published": 1765920157000,
+    "title": "Elizabeth Warren Sounds Alarm on Trump's Crypto Dealings, PancakeSwap",
+    "body": "Senator Elizabeth Warren is seeking answers on what she views as the potential national security risks of decentralized crypto exchanges.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55892531,
+    "published": 1765920151000,
+    "title": "FDIC Approves Thiel-Backed Bank for Deposit Insurance Coverage",
+    "body": "The Federal Deposit Insurance Corp. gave the nod for Erebor Bank N.A. to receive deposit insurance coverage, a key step forward for the crypto-oriented lender as the Trump administration further embraces digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55893122,
+    "published": 1765922431000,
+    "title": "XRP Falls Below $2 As $721 Million Profit-Take Hits Market",
+    "body": "One of the cleaner tells in crypto is when the old supply decides it’s time. Not “made a quick 20% and clipped it” time — years old. That’s basically what Glassnode researcher CryptoVizArt flagged after an XRP wallet aged roughly 5–7 years (with a cost basis around $0.40) realized more than $721.5 million in profit on Dec. 11. A single wallet doesn’t “break” a market on its own. But the timing is the point: this wasn’t profit-taking into a rip. It landed while XRP was showing weakness right at the $2.0 key level. Related Reading: XRP Dominates Institutional Inflows, But Why Is Price Still Low? CryptoVizArt wrote via X: “On December 11th, a 5-7 year old XRP wallet address (with a cost basis of $0.4) realized over $721.5M in profit! A rare sizable profit-taking while the price shows weakness right at the $2.0 key level.” What This Means For XRP Price That $2 handle matters for the usual reasons — round number, obvious chart magnet, psychological line in the sand — but also because the market’s been treating it like a live wire lately. Since early December last year, the support zone between $2 and $1.90 has been tested endless times. XRP bulls always managed to close above the zone on the weekly timeframe. So what does the $721M print mean? It’s a reminder that supply overhang isn’t theoretical. A 5–7 year wallet taking profits can be read as “de-risking,” sure. But in tape terms, it’s also distribution that the market has to absorb while price is already leaning. If bids are deep, it’s a shrug. If bids are thin, it turns $2 into a trapdoor. And right now, “thin” is kind of the vibe across crypto, not just XRP. Related Reading: Why XRP Isn’t Reacting to Major Institutional and Regional Developments CryptoVizArt’s broader framing from Dec. 13 is that the $80K–$90K Bitcoin consolidation is producing stress “comparable to late Jan 2022.” Via X, he wrote: “The current $80K–$90K consolidation range is generating a magnitude of stress comparable to late January 2022, with Relative Unrealized Loss approaching ~10% of market cap. This places the market in a regime where liquidity is constrained, and sensitivity to macro shocks is elevated, yet still below the levels typically associated with full bear-market capitulation.” That backdrop matters because alts don’t trade in a vacuum. When the whole complex is jumpy, big sell events at key levels have more punch. Not because every XRP holder suddenly panics, but because market-makers and discretionary traders tend to pull risk at the same time. Spreads widen, depth thins, and “one-off” flows start to move price more than they should. Still, it cuts both ways. A single, chunky realization can also be the market clearing a problem — old supply exiting, new demand stepping in, the kind of transfer that (eventually) makes a base sturdier. The trick is whether $2 holds while that handoff happens. At press time, XRP was trading at $1.89, which could make Sunday’s weekly close another extremely important event. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP On-Chain Data|XRP Price|XRP price news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
