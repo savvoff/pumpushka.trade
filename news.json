@@ -1,46 +1,5 @@
 [
   {
-    "id": 55808963,
-    "published": 1765781881000,
-    "title": "Doha Bank Issues $150M Digital Bond Using Euroclear’s DLT Platform",
-    "body": "The deal achieved T+0 settlement on a permissioned distributed ledger rather than a public blockchain, reflecting a growing regional shift toward regulated digital bond infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Qatar|Standard chartered|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      }
-    ]
-  },
-  {
     "id": 55811012,
     "published": 1765784869000,
     "title": "BTC $80K Check-Back Risk Rises as Nasdaq Rebound Stalls",
@@ -3042,6 +3001,100 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55861009,
+    "published": 1765867107000,
+    "title": "StraitX to debut Singapore and U.S. dollar stablecoins on Solana for quick currency exchange",
+    "body": "The debut will enable instant swaps between SGD and USD on Solana, facilitating digital forex trading.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Solana News|Stablecoin|Singapore|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55861828,
+    "published": 1765868438000,
+    "title": "Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund",
+    "body": "JPMorgan Asset Management has introduced a tokenized money-market fund built on the Ethereum blockchain, according to company filings and industry reports. The fund, called My OnChain Net Yield Fund (MONY), issues shares as digital tokens that live on the public Ethereum network and are aimed at qualified investors through the bank’s Morgan Money platform. Related Reading: Analyst: Bitcoin’s Cycle Is Intact, Yet No Longer Purely Market-Driven JPMorgan Issues Tokenized Fund On Ethereum Based on reports, MONY holds familiar, low-risk instruments such as US Treasury securities and repurchase agreements fully backed by Treasuries. The bank says the token shares represent direct ownership of the fund and can be held at blockchain addresses, opening up on-chain settlement and recordkeeping for a product that normally sits in traditional custody systems. Seeded With $100 Million Reports have disclosed that JPMorgan seeded MONY with $100 million of its own capital at launch. The move is meant to kickstart liquidity and show institutional seriousness about putting cash management products on-chain. The tokenization work is being handled by internal teams tied to JPMorgan’s digital-assets efforts, and the bank has been testing ways to move conventional securities into token form for several years. How The Tokens Work And Who Can Use Them Investors receive tokenized fund shares that may be transferred or recorded on Ethereum. Based on reports, access is limited: the fund is offered only to qualified clients via Morgan Money, not to the general retail public. The token structure mirrors traditional fund economics — holders are exposed to the same short-term instruments that underpin money-market products — but the record of ownership is stored on a public ledger. Related Reading: Bitcoin Headed For $200 Trillion? CEO Makes Bold Prediction Qualified Investors And Access According to coverage, institutional clients with asset levels above $25 million and accredited individuals with at least $5 million are among those eligible, and the minimum initial investment sits at roughly $1 million. That narrow access aligns with regulatory guardrails for tokenized securities and with the bank’s goal of serving big, sophisticated cash managers first. Analysts say the launch is part of a broader push by big asset managers to experiment with tokenized share classes and on-chain settlement. Other firms have run pilots with similar ideas, and some have already put cash-like products on Ethereum. Based on reports, the move points to an industry desire to test whether blockchain can speed up settlement, increase transparency, or create new on-chain liquidity for institutional cash flows. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|bitcoin|crypto|Ether|ethereum|jpmorgan|tokenized fund",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
