@@ -1,121 +1,5 @@
 [
   {
-    "id": 55827631,
-    "published": 1765809012000,
-    "title": "Strategy Adds Nearly a Billion Dollars in Bitcoin for Second Straight Week",
-    "body": "Michael Saylor’s firm is still buying big, adding $980 million worth of Bitcoin—slightly more than last week’s BTC haul.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55828896,
-    "published": 1765810800000,
-    "title": "Most Influential: Todd Blanche",
-    "body": "The crypto industry praised a memo signed by Deputy Attorney General Todd Blanche directing the Department of Justice to end “regulation by prosecution.”",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|DOJ|Tornado Cash|President Trump|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55828898,
-    "published": 1765810800000,
-    "title": "Most Influential: Roman Storm",
-    "body": "The Tornado Cash developer’s trial this summer is evidence that the crypto industry is still severely lacking regulatory clarity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Roman storm|Tornado Cash|SDNY|Donald Trump|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55828973,
-    "published": 1765810800000,
-    "title": "Most Influential: Sergey Nazarov",
-    "body": "Chainlink’s co-founder spent 2025 turning oracles, cross-chain messaging and CRE into building blocks for tokenized funds and on-chain finance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Sergey Nazarov|DeFi|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55830104,
     "published": 1765812641000,
     "title": "Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue?",
@@ -967,41 +851,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55837640,
-    "published": 1765811566000,
-    "title": "XRP sinks below $2 despite $1B in ETF inflows: How low can price go?",
-    "body": "XRP ETFs recorded inflows for 20 consecutive days, but its price lost key technical support levels, sparking fears of a drop to $1.40.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -3556,6 +3405,274 @@
         "ID": 100,
         "NAME": "USDC",
         "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55877865,
+    "published": 1765895316000,
+    "title": "CoinDesk 20 Performance Update: SUI Gains 3.9% as Index Moves Higher",
+    "body": "Aave (AAVE) was also among the top performers, rising 3.9% from Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 2,
+        "NAME": "AAVE",
+        "CATEGORY": "AAVE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55878100,
+    "published": 1765895702000,
+    "title": "Crypto asset manager Bitwise says bitcoin will break its four-year cycle in 2026",
+    "body": "Bitwise CIO Matt Hougan said BTC is likely to hit all-time highs next year, with lower volatility and weaker equity correlations reshaping how institutions view the asset.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitwise|Bitcoin News|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55879032,
+    "published": 1765897229000,
+    "title": "Private Investment Firm Shares Why XRP Is Their Leading Investment",
+    "body": "A private investment firm has outlined why XRP constitutes the largest share of its portfolio. The firm explains that its investment rationale is anchored in XRP’s Proven operational performance and functional utility rather than aspirational projections, community momentum, or speculative price expectations. As a result, the position reflects a deliberate focus on infrastructure value, reinforcing XRP’s status as a core long-term holding rather than a tactical crypto trade. Why XRP Aligns With A Function-First Investment Approach The investment firm’s reasoning positions XRP as a natural fit for a portfolio strategy that prioritizes function over narrative. According to the firm, its heavy allocation is the byproduct of a disciplined evaluation of how well an asset performs its intended role. In this framework, concentration is justified only when an asset demonstrates clear operational strengths, and XRP is presented as having earned that status through its design and execution. Related Reading: Why Now Is The Perfect Opportunity To Short Bitcoin Down To $40,000 Building on that premise, the firm points to XRP’s specialization as a settlement-oriented digital asset as the primary driver of its allocation decision. The network is structured to deliver rapid and definitive transaction completion, eliminating the uncertainty that can complicate value transfer on many blockchain systems. This reliability is reinforced by consistently low transaction costs that remain stable regardless of usage levels, enabling predictable large-scale transfers without exposure to fee volatility. As transaction volume increases, XRP’s ability to maintain high throughput without congestion further supports its suitability for continuous, real-world payment activity. These technical attributes also connect directly to the firm’s broader investment thesis around institutional usability. By operating without a proof-of-work mechanism, the ledger avoids the inefficiencies and regulatory friction often associated with energy-intensive networks. In the firm’s assessment, this design choice enhances operational clarity and aligns more closely with the compliance and efficiency standards expected by financial institutions. Taken together, these factors explain why the firm views XRP less as a speculative vehicle and more as functional infrastructure, reinforcing its alignment with a function-first investment approach and justifying its central role within the portfolio. Positioning For Institutional Adoption And Market Repricing The firm frames its investment thesis around how markets evolve under regulatory pressure. As digital asset regulation advances, financial institutions are expected to prioritize reliability, compliance, and operational efficiency over popularity or community momentum. Adoption is therefore driven less by attention and more by seamless integration into existing financial frameworks. Related Reading: Here’s Why Strategy’s $1 Billion Bitcoin Purchase Did Not Trigger A Price Rally This perspective also informs how digital assets may be valued. The firm expects a gradual shift from narrative-based pricing toward metrics such as transaction throughput, liquidity efficiency, and real-world demand. Assets able to move value at scale will likely be repriced as usage rises and speculative excess fades. In the firm’s assessment, XRP is one of the few assets already meeting these standards, and by concentrating its portfolio in XRP, it positions itself ahead of this transition. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55879028,
+    "published": 1765897200000,
+    "title": "Most Influential: Tyler Williams",
+    "body": "Williams has helped cement crypto gains in Congress alongside White House allies.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Treasury Department|Donald Trump|Galaxy Digital|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55879024,
+    "published": 1765897200000,
+    "title": "Most Influential: Guy Young",
+    "body": "Young sparked a new category of digital assets, yieldcoins, that sits at the intersection of DeFi rails and TradFi basis trades.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Ethena|Stablecoin|Yield|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55879025,
+    "published": 1765897200000,
+    "title": "Most Influential: Oleg Ogienko",
+    "body": "Sanctions, capital controls and Russia’s improvised financial plumbing helped create A7A5, a ruble stablecoin built on a currency rarely used in global commerce, allowing it to appear legally at major events even as its presence leaves compliance teams panicked.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Russia|ruble|Stablecoin|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55879018,
+    "published": 1765897200000,
+    "title": "Most Influential: Peter Schiff",
+    "body": "Peter Schiff, the outspoken gold advocate and notorious bitcoin critic, has been vindicated by the market’s performance, cementing his stance after years of skepticism towards digital assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Peter Schiff|Gold|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55878585,
+    "published": 1765896408000,
+    "title": "Bitcoin, Ethereum ETFs Shed $582M in a Day as Institutions Trim Risk",
+    "body": "U.S. spot crypto ETFs saw their highest outflows in over two weeks as institutions cut risk rather than adding exposure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
