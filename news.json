@@ -1,144 +1,5 @@
 [
   {
-    "id": 55825687,
-    "published": 1765806191000,
-    "title": "Morning Minute: The SEC & OCC Usher In Crypto Era",
-    "body": "Two major actions from late last week signal that crypto is fully entering the mainstream, with full regulatory buy in.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55826397,
-    "published": 1765807200000,
-    "title": "Ripple Expands $1.3B RLUSD Stablecoin to Ethereum L2s via Wormhole in Multichain Push",
-    "body": "Ripple said it's testing its U.S. dollar stablecoin on Optimism, Base, Ink and Unichain with more blockchains to be added next year pending regulatory review.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Ripple|Stablecoin|Ethereum News|Wormhole|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55826399,
-    "published": 1765807200000,
-    "title": "Kula Brings $50M of Impact Investing Onchain With Community-Governed RWA Model",
-    "body": "The decentralized investment firm is using tokens and DAOs to give local communities direct control over energy and infrastructure projects in emerging markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Real World Assets|Zambia|DAO|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55825957,
-    "published": 1765806692000,
-    "title": "Real-World Asset DeFi Moves Into Sports Finance With Tokenized Football Club Revenues",
-    "body": "A new DeFi model is providing football clubs with faster access to liquidity by converting future media and broadcasting revenues into tokenized, onchain assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Web3|Sports|Soccer|Chiliz|Real World Assets|Tokenization|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55826755,
-    "published": 1765807751000,
-    "title": "Juventus Fan Token Slides Over 13% After Tether Bid Rebuff, Even as Club Shares Surge",
-    "body": "Juventus Football Club shares surged after stablecoin issuer Tether made, and was rebuffed on, a €1.1 billion takeover bid, while the club’s fan token saw a double-digit pullback.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Juventus|Fan Tokens|Tether|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55827631,
     "published": 1765809012000,
     "title": "Strategy Adds Nearly a Billion Dollars in Bitcoin for Second Straight Week",
@@ -3491,6 +3352,210 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55875996,
+    "published": 1765892227000,
+    "title": "U.S. added 64,000 jobs in November, with unemployment rate jumping to 4.6%",
+    "body": "Combined with softer than expected October data, this morning's numbers point to at least a modestly weaker jobs market as the economy heads into the end of the year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|unemployment rate|Jobs|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55876806,
+    "published": 1765893617000,
+    "title": "Dogecoin’s Selloff Tests Long-Held Beliefs as Traders Debate Capitulation or Reset",
+    "body": "Dogecoin’s (DOGE) latest selloff has forced traders to confront a question that has followed the meme coin since its peak years. Is this another temporary washout, or a deeper reset in how the market values DOGE? Related Reading: XRP Hasn’t Entered A Bear Market Yet; Analyst Shares Why Over the past 24 hours, Dogecoin slipped sharply below levels that had held through weeks of consolidation, erasing a sense of stability that many participants had grown accustomed to. The move unfolded without a single defining catalyst, instead reflecting broader weakness across higher-beta crypto assets. At the same time, DOGE’s highly visible online presence has remained active, creating a contrast between weakening price action and persistent cultural relevance. DOGE's price trends to the downside on the daily chart. Source: DOGEUSD on Tradingview Breakdown Below Key Support Shifts Short-Term Structure In the past 24 hours, Dogecoin (DOGE) fell about 5.5%, sliding from roughly $0.1367 to near $0.129, and briefly trading as low as $0.1266. The drop pushed the price below the $0.1370 and $0.1300 support zones, levels that had defined the lower boundary of its recent range. Trading volume surged to around 1.36 billion tokens, more than 180% above average, suggesting the move was driven by active selling rather than gradual drift. Technically, DOGE is now trading below its 100-hour simple moving average, with a bearish trend line forming near $0.1340. Attempts to reclaim $0.1300 have so far failed, reinforcing that level as immediate resistance. Market participants note that once intermediate supports gave way, bid depth appeared thin, allowing the DOGE price to move lower with limited pauses. Sentiment Signals Clash With Weak Dogecoin Price Action Despite the selloff, Dogecoin remains a popular online presence. The official Dogecoin ecosystem account recently acknowledged renewed public endorsements, including comments from a high-profile entrepreneur, and resurfaced cultural callbacks tied to DOGE’s 2021 run. From a positioning standpoint, Dogecoin remains significantly below its all-time high and has declined sharply on a year-to-date basis. Open interest has also declined significantly from earlier 2025 peaks, pointing to reduced speculative participation. For some traders, this is evidence of capitulation; for others, it signals a quieter phase where excess leverage and hype are being flushed out. Levels That Now Matter for Traders In the near term, market focus is centered on the $0.1290–$0.1280 zone. Holding above this area could allow DOGE to consolidate, while a sustained break lower may expose support near $0.1250 and potentially the $0.1200 region. On the upside, a reclaim of $0.1300 would be the first indication that downside momentum is easing, though former supports above $0.1340 remain key hurdles. Related Reading: US Bitcoin Session Leads December Returns After Weak November Whether this move marks the end of an era or a broader reset remains to be seen. For now, Dogecoin remains in a fragile stabilization phase, where confirmation, rather than conviction, is driving trading decisions. Cover image from ChatGPT, DOGEUSD chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|Doge price|dogeusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55876801,
+    "published": 1765893600000,
+    "title": "Hong Kong's RedotPay raises $100 million Series B to push global stablecoin payments",
+    "body": "The Hong Kong-based fintech says demand for stablecoin-powered cards and cross-border payouts is accelerating as it scales payments beyond crypto trading.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Hong Kong|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55876803,
+    "published": 1765893600000,
+    "title": "Strata protocol developer Frontera Labs raises $3 million in seed round",
+    "body": "The funding will help the London-based team expand Strata, a DeFi protocol that structures onchain yields into senior and junior tranches.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Fundraising|DeFi|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55877108,
+    "published": 1765893821000,
+    "title": "Ronin and ZKsync’s onchain metrics fell the most in 2025",
+    "body": "Some of last year’s hottest blockchains saw the steepest declines in onchain activity after viral moments failed to drive sustained growth.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 143,
+        "NAME": "ZK",
+        "CATEGORY": "ZK"
+      }
+    ]
+  },
+  {
+    "id": 55876989,
+    "published": 1765893664000,
+    "title": "Visa launches USDC settlement for US banks on Solana blockchain",
+    "body": "Visa launched USDC settlement for US financial institutions, starting with Cross River and Lead Bank on Solana, with a wider rollout planned for 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
       },
       {
         "TYPE": "122",
