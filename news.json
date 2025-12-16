@@ -1,157 +1,5 @@
 [
   {
-    "id": 55804363,
-    "published": 1765774815000,
-    "title": "Why the ‘stablecoin supercycle’ could rewire banking",
-    "body": "Some technologists believe more than 100,000 such payment systems could swamp the world within five years",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55804362,
-    "published": 1765774807000,
-    "title": "Bitcoin investor plans Caribbean community — with its own court system",
-    "body": "Some locals on the island of Nevis oppose the libertarian project, calling it a ‘state within a state’",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55804383,
-    "published": 1765774128000,
-    "title": "XRP Spot ETFs Rack Up 30-Day Inflow Streak in Divergence From Bitcoin, Ether",
-    "body": "The products have attracted fresh capital every trading day since launch, lifting cumulative net inflows to about $975 million.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|ETFs|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55804620,
-    "published": 1765775316000,
-    "title": "Dogecoin (DOGE) Slides Deeper Into Red—Is a Bottom in Sight?",
-    "body": "Dogecoin started a fresh decline below the $0.1400 zone against the US Dollar. DOGE is now consolidating losses and might face hurdles near $0.1400. DOGE price started a fresh decline below the $0.1400 level. The price is trading below the $0.1380 level and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $0.1375 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could extend losses if it stays below $0.1400 and $0.1420. Dogecoin Price Dips Further Dogecoin price started a fresh decline after it closed below $0.1420, like Bitcoin and Ethereum . DOGE declined below the $0.1400 and $0.1380 support levels. The price even traded below $0.1350. A low was formed near $0.1326, and the price recently corrected some losses. There was a minor increase toward the 23.6% Fib retracement level of the downward move from the $0.1530 swing high to the $0.1326 low. Dogecoin price is now trading below the $0.1400 level and the 100-hourly simple moving average. If there is a recovery wave, immediate resistance on the upside is near the $0.1380 level. There is also a key bearish trend line forming with resistance at $0.1375 on the hourly chart of the DOGE/USD pair. The first major resistance for the bulls could be near the $0.140 level. The next major resistance is near the $0.1425 level and the 50% Fib retracement level of the downward move from the $0.1530 swing high to the $0.1326 low. A close above the $0.1425 resistance might send the price toward the $0.1450 resistance. Any more gains might send the price toward the $0.1500 level. The next major stop for the bulls might be $0.1550. Another Decline In DOGE? If DOGE’s price fails to climb above the $0.140 level, it could continue to move down. Initial support on the downside is near the $0.1340 level. The next major support is near the $0.1325 level. The main support sits at $0.130. If there is a downside break below the $0.130 support, the price could decline further. In the stated case, the price might slide toward the $0.1250 level or even $0.1240 in the near term. Technical Indicators Hourly MACD – The MACD for DOGE/USD is now gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for DOGE/USD is now above the 50 level. Major Support Levels – $0.1340 and $0.1300. Major Resistance Levels – $0.1400 and $0.1420.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "DOGE|DOGE news|Doge price|DOGE USD|DOGE/BTC|DOGE/USDT|Dogecoin|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55808963,
     "published": 1765781881000,
     "title": "Doha Bank Issues $150M Digital Bond Using Euroclear’s DLT Platform",
@@ -2773,6 +2621,152 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55856986,
+    "published": 1765860232000,
+    "title": "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+    "body": "Cloudflare found over 5% of global emails were malicious in 2025, peaking at nearly 10% in November, with more than half of them containing deceptive links.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55857502,
+    "published": 1765861204000,
+    "title": "Solana Leads As Most Popular Blockchain Ecosystem For Second Consecutive Year – Report",
+    "body": "Solana (SOL) has emerged as the most popular blockchain ecosystem of 2025, securing its crown for the second consecutive year despite a significant decrease in chain-specific global interest compared to the previous year. Related Reading: Bitcoin Bearish Signals Are ‘Hard To Ignore’: Analyst Warns Of Drop To April Lows Solana Takes The Popularity Crown On Monday, Solana was named the leading blockchain ecosystem by popularity in 2025 by crypto data aggregator CoinGecko. The study examined interest in blockchain ecosystems based on CoinGecko’s non-botted global web traffic from January 1 to December 14, 2025, only including ecosystems with actively listed coins and a non-zero percentage share of traffic. As a result, a total of 62 blockchain ecosystems were included in the study. Out of the 62 blockchain ecosystems studied, the 20 most popular represented a majority of 95.60% of global interest in chain-specific narratives. According to the report, the Solana ecosystem captured 26.79% of the global interest in chain-specific narratives this year, retaining its title as the most popular blockchain ecosystem for a second consecutive year. The Base ecosystem followed in second place, accounting for 13.94% of global investor interest in chain-specific narratives this year, led by constructive developments and partnerships. However, its mindshare experienced a 2.9% decrease from the 16.81% recorded in 2024. Similar to Solana and Base, the Ethereum ecosystem also retained its position from the 2024 list, ranking as the third most popular ecosystem with 13.43% of global interest. Meanwhile, Sui and BNB Chain moved up in the list, ranking 4th and 5th after more than doubling their mindshare in 2025. Per the study, the Sui ecosystem recorded the largest mindshare growth, with a 6.9% year-over-year (YoY) increase to reach 11.77% of the total global interest in chain-specific narratives. The BNB Chain ecosystem saw a 4.9% surge YoY to capture 9.05% in mindshare, fueled by the launch of Binance Alpha in May, which increased BNB Chain’s on-chain trading volumes, the report noted. Notably, XRP Ledger, Bittensor & Hyperliquid lead new entrants into the top rankings, securing a spot in the top 10 this year. SOL Memecoins Out Of Leading Narratives Despite leading the popularity rankings, CoinGecko highlighted that the Solana ecosystem’s mindshare had significantly decreased from the 38.79% it had dominated in 2024. According to the study, the ecosystem dropped by 12% this year, reflecting the blockchain’s “struggles to expand beyond its close association with meme coin speculation, as well as Solana’s range-bound price despite wider institutional adoption marked by the US ETFs launch.” This resulted in the Solana ecosystem dropping out of the top leading narratives list this year. In a Friday analysis, CoinGecko reported that memecoin emerged as the most popular crypto narrative in 2025 with a combined 25.02% of global investor interest across the main meme coin category and 35 meme coin trends. This represented a 5.65% decline from the 30.67% market share that the memecoin narrative held in 2024, suggesting that “the mania for purely speculative crypto may be subsiding.” Related Reading: Dogecoin Could Stage A 600% Rally In 2026 If This Multi-Year Support Holds The Solana ecosystem lost its spot in the top five most popular crypto narratives, where it had ranked for the previous two years, after being overtaken by AI agents and the Made in USA narratives. Meanwhile, the Solana memecoin sector also dropped out of the top five narratives after a 3.08% decline in global investor interest from 2024. Nonetheless, “it remains to be seen whether the Solana narrative will be able to ride on new catalysts next year, as momentum from its comeback story runs out,” CoinGecko added. As of this writing, SOL is trading at $126, a 2.61% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|AI Agent tokens|Base blockchain|bnb chain|crypto narratives|ethereum|Made In USA tokens|memecoins|Sol|Solana|Solana Ecosystem|Solana memecoins|SOLUSDT|SUI Network",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55857282,
+    "published": 1765860534000,
+    "title": "XRP Price Suffers Sharp 5% Drop—Is More Pain Ahead?",
+    "body": "XRP price started a fresh decline below $1.950. The price is now struggling and faces resistance near the $1.920 resistance level. XRP price started a fresh decline below the $1.950 zone. The price is now trading below $1.90 and the 100-hourly Simple Moving Average. There is a bearish trend line forming with resistance at $1.980 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move down if it settles below $1.850. XRP Price Dips Again XRP price attempted a recovery wave above $2.020 but failed to continue higher, like Bitcoin and Ethereum. The price started a fresh decline below $2.00 and $1.950. There was a move below the $1.920 support level. A low was formed at $1.8550, and the price is now showing bearish signs below the 23.6% Fib retracement level of the downward move from the $2.047 swing high to the $1.8550 low. The price is now trading below $1.90 and the 100-hourly Simple Moving Average . There is also a bearish trend line forming with resistance at $1.980 on the hourly chart of the XRP/USD pair. If there is a fresh upward move, the price might face resistance near the $1.90 level. The first major resistance is near the $1.920 level. A close above $1.920 could send the price to $1.950 or the 50% Fib retracement level of the downward move from the $2.047 swing high to the $1.8550 low. The next hurdle sits at $1.980 and the trend line. A clear move above the $1.980 resistance might send the price toward the $2.050 resistance. Any more gains might send the price toward the $2.120 resistance. The next major hurdle for the bulls might be near $2.150. More Losses? If XRP fails to clear the $1.90 resistance zone, it could start a fresh decline. Initial support on the downside is near the $1.8550 level. The next major support is near the $1.820 level. If there is a downside break and a close below the $1.820 level, the price might continue to decline toward $1.7650. The next major support sits near the $1.7320 zone, below which the price could continue lower toward $1.7050. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level. Major Support Levels – $1.850 and $1.820. Major Resistance Levels – $1.950 and $1.980.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55857134,
+    "published": 1765860438000,
+    "title": "MetaMask adds Bitcoin support after teasing it 10 months ago",
+    "body": "Users can now buy, swap, send, and receive Bitcoin directly within the popular Ethereum-focused wallet, expanding its multichain reach.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
