@@ -1,52 +1,5 @@
 [
   {
-    "id": 55811012,
-    "published": 1765784869000,
-    "title": "BTC $80K Check-Back Risk Rises as Nasdaq Rebound Stalls",
-    "body": "Nasdaq and MOVE index patterns warrant caution for BTC bulls.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Markets|Nasdaq|Treasury|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55815328,
     "published": 1765790174000,
     "title": "Juventus Jumps After Billionaire Agnellis Family Rejects Tether’s Bid",
@@ -3089,6 +3042,111 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55862675,
+    "published": 1765860232000,
+    "title": "Over 1 in 20 emails are malicious, warns internet giant Cloudflare",
+    "body": "Cloudflare found over 5% of global emails were malicious in 2025, peaking near 10% in November, with more than half of them containing deceptive links.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55853248,
+    "published": 1765854084000,
+    "title": "US crypto market structure legislation delayed until early 2026",
+    "body": "The Senate Banking Committee delayed crypto market structure hearings until 2026 amid ongoing bipartisan negotiations.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55863874,
+    "published": 1765872025000,
+    "title": "Will Bitcoin Suffer A 20% Decline After Japan’s Rate Hike? Historical Patterns Suggest So",
+    "body": "Bitcoin (BTC) has experienced a 4% drop, falling below the $86,000 mark on Monday, as market speculation grows regarding the cryptocurrency’s future following the Bank of Japan’s (BOJ) interest rate decision. In a recent poll conducted from December 2 to 9, an overwhelming 90% of economists—63 out of 70—predicted that the BOJ would increase short-term interest rates from 0.50% to 0.75% at this week’s planned meeting. Experts Warn Of Impact From BOJ Rate Hikes Experts on social media have noted a concerning trend: during the last three rate hikes by the BOJ, Bitcoin has typically dropped significantly. The statistics reveal the following declines: a 23% drop in March 2024, a 26% decline in July 2024, and a 31% dip in January of this year. Related Reading: Why XRP Isn’t Reacting to Major Institutional and Regional Developments Based on current prices just below $86,000, this would imply that if the cryptocurrency sees another 20% correction, it could drop all the way to 68,800. This would mean extending the gap compared to the all-time high of $126,000 by almost 46%. The group of experts further highlighted that the dynamics at play in Japan significantly impact Bitcoin’s performance as Japan holds the largest amount of US debt of any nation. When Japanese interest rates rise, capital tends to flow back to Japan, leading to reduced liquidity in dollars. This decrease in dollar liquidity often results in the selling of riskier assets like Bitcoin. On November 30, a foreboding sign of this potential downturn appeared when confirmation of Japan’s impending rate hike caused Bitcoin to dip to around $83,000, erasing approximately $200 billion from the overall cryptocurrency market. However, the bearish sentiment affecting Bitcoin is not solely the result of Japan’s actions. Market analyst known as NoLimit recently pointed to another critical factor: China’s renewed crackdown on Bitcoin mining. China’s Mining Crackdown Spurs Bitcoin Sell-Off The analyst recently asserted that China has tightened regulations, particularly affecting operations in Xinjiang, where a significant number of crypto mining setups were shut down in December. This led to the abrupt offline status of roughly 400,000 miners. The repercussions of such a sudden shift in mining activity are already evident. The Bitcoin network hashrate has fallen by about 8%, indicating that fewer miners are actively contributing to the network. NoLimit suggests that this sudden reduction creates immediate revenue-loss for miners, who may need to liquidate Bitcoin to cover operational costs or to relocate their equipment. Consequently, this generates actual selling pressure on the market, contributing to the downward price trend seen on Monday. Related Reading: Ethereum Price Compression Deepens as Analysts Debate if the Next Move Is a Rally or Breakdown Despite the short-term pain this creates, the analysts clarified that it does not indicate a long-term bearish outlook for Bitcoin. Instead, he views it as a temporary supply shock driven by regulatory decisions rather than a shift in demand. Historical patterns support this notion: when China has previously cracked down on miners, the cycle follows a familiar trajectory: miners are forced offline, hashrate dips occur, prices fluctuate, and eventually, the network adapts before Bitcoin moves forward again. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|crypto|crypto market|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
       },
       {
         "TYPE": "122",
