@@ -1,104 +1,5 @@
 [
   {
-    "id": 55839437,
-    "published": 1765826754000,
-    "title": "Merriam-Webster Declares 'Slop' the Word of the Year as AI Eats the Web",
-    "body": "Merriam-Webster's Word of the Year is \"slop,\" spotlighting AI-generated content that’s fluent, scalable—and increasingly hollow.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55839710,
-    "published": 1765827272000,
-    "title": "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop",
-    "body": "",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|U.S. Securities and Exchange Commission|Paul Atkins|Privacy|government surveillance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55840504,
-    "published": 1765828834000,
-    "title": "Why Bitcoin’s Quiet Price Action May Be ‘Dangerous’ – IFP Signals Rising Structural Risk",
-    "body": "Bitcoin continues to struggle below the $90,000 level, failing to reclaim higher ground as bulls focus on defending current demand zones. After a sharp correction from recent highs, price action has entered a consolidation phase that, on the surface, appears relatively calm. Volatility has compressed, and short-term price movements suggest a market pausing rather than decisively breaking down. However, this apparent stability may be misleading. Related Reading: Ethereum Trades Near Whales’ Cost Basis For The Fourth Time Since 2021 – Historic Test According to a CryptoQuant report from XWIN Research Japan, on-chain data is signaling growing structural risk beneath the surface. The Inter-Exchange Flow Pulse (IFP), a metric that tracks the movement of Bitcoin between exchanges and serves as a proxy for internal market liquidity, has turned red. In such environments, price moves tend to be sharper and less orderly once direction is established. While reduced exchange balances can limit immediate selling pressure, they also amplify the impact of sudden demand or forced liquidations. This shift indicates a clear slowdown in capital circulation across trading venues, suggesting that liquidity conditions are deteriorating. Inter-Exchange Flow Pulse Signals Structural Fragility The report explains that the Inter-Exchange Flow Pulse (IFP) measures how actively Bitcoin moves from one exchange to another, serving as a proxy for internal market liquidity and capital circulation. When IFP is elevated, capital rotates efficiently across venues, arbitrage opportunities are quickly absorbed, and liquidity providers keep order books deep. In those conditions, price discovery is smoother, and volatility tends to remain contained. By contrast, when IFP declines, the market’s internal “blood flow” weakens. Capital becomes static, liquidity fragments, and prices grow increasingly sensitive to relatively small trades. This deterioration in liquidity is unfolding alongside historically low exchange balances. While reduced sellable supply can initially act as price support, it also creates thinner order books. Once price begins to move decisively in either direction, slippage increases and volatility accelerates. With leverage still elevated across derivatives markets, instability becomes driven less by directional conviction and more by the magnitude of forced reactions. Historically, periods when IFP turned red produced abrupt corrections and sharp price swings, not clean trends. The central risk today is therefore not aggressive distribution, but structural fragility. Until inter-exchange liquidity improves, Bitcoin remains vulnerable to sudden, outsized moves, making leveraged positioning particularly risky in the current market structure. Related Reading: XRP Whale Activity Spikes At The Bottom – A Classic Pre-Rally Signal Bitcoin Price Consolidates Below Key Moving Averages The 4-hour Bitcoin chart highlights a market locked in consolidation after a sharp corrective move. Following the aggressive sell-off in late November, BTC found a local bottom near the $82,000–$83,000 zone, where strong demand stepped in and triggered a rebound. However, that recovery quickly lost momentum, and price is now ranging below the descending cluster of moving averages. Bitcoin is currently trading around the $89,000–$90,000 level, repeatedly failing to reclaim the 200-period moving average on the 4-hour timeframe. The 50 and 100 moving averages are also sloping downward, acting as dynamic resistance and reinforcing the short-term bearish structure. Each attempt to push higher has been met with selling pressure, suggesting that bulls lack conviction at current levels. Related Reading: This Whale Isn’t Stopping: $392M Ethereum Long And A Tight Liquidation Price Revealed Volume has noticeably contracted during this consolidation phase, indicating reduced participation and indecision among traders. This typically precedes a volatility expansion, especially when price compresses beneath major resistance. Structurally, BTC remains vulnerable as long as it trades below the $92,000–$94,000 zone, which previously acted as support and now caps upside attempts. On the downside, the $87,000–$88,000 range is emerging as immediate support. A decisive breakdown below this area could reopen the path toward the $84,000 region. Until a clear breakout occurs, Bitcoin remains in a fragile balance between distribution and base-building. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin correction|Bitcoin IFP|Bitcoin news|bitcoin price|Bitcoin Price action|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55841496,
     "published": 1765830600000,
     "title": "Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers",
@@ -153,29 +54,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55841100,
-    "published": 1765829648000,
-    "title": "Anchorage Digital deepens RIA market push by acquiring unit of Securitize",
-    "body": "The deal folds adviser-facing tools into Anchorage’s platform while allowing Securitize to remain focused on tokenizing real-world assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       }
     ]
   },
@@ -3320,6 +3198,211 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55888627,
+    "published": 1765913143000,
+    "title": "SEC ends probe into Aave after four years, CEO says",
+    "body": "According to a letter posted by the protocol’s founder and CEO, the US agency does “not intend to recommend an enforcement action” against Aave.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55888216,
+    "published": 1765912737000,
+    "title": "Crypto Lending Protocol Aave Says SEC Has Ended 4-Year Investigation: 'DeFi Will Win'",
+    "body": "Decentralized finance lending protocol Aave says the SEC has closed its investigation into the project after four years.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55889550,
+    "published": 1765915216000,
+    "title": "Bitcoin Under Pressure As Yen Carry Trade Unwind Hits Global Markets",
+    "body": "The yen carry trade unwind has been hovering over markets lately — the kind of “plumbing” story that most people ignore right up until volatility spikes and everything suddenly feels connected. Graham Stephan put it into a Bitcoin and crypto-friendly frame yesterday. In a Dec. 15 post, the popular YouTuber described the yen carry trade as Wall Street’s long-running “infinite money glitch” — and argued it’s breaking down just as the Fed is signaling a shift in its outlook for next year. “Wall Street found an ‘infinite money’ glitch 20 years ago. They called it the Yen Carry Trade. It just broke, right when the Fed announced its plans for next year,” Stephan wrote. What The Yen Carry Trade Unwind Means For Bitcoin He presented it as a straightforward trade that scaled because the size was big enough to matter. “For decades, the ‘Yen Carry Trade’ has been the secret engine behind global liquidity. The mechanics were simple enough that a child could understand them, but profitable enough to move trillions of dollars.” Related Reading: Market Stress Continues As Bitcoin STH SOPR Dips Below 1– When Will The Pain End? Stephan then laid out the basic steps in plain English: borrow cheaply in Japan, rotate into higher-yield US assets, keep the spread. “Borrow Cheap: Investors borrowed money in Japan, where interest rates were effectively 0%… Invest Abroad: They took that ‘free money’ and bought US Treasuries paying 4-5%… Profit: They pocketed the difference without using any of their own money.” His argument is that the setup turns toxic when the rate differential compresses and the currency leg moves the wrong way. He framed the timing as especially awkward for risk assets: Japan tightening to support the yen while the Fed eases. “Japan is finally raising rates to save its own currency right at the time when the Fed has started slashing rates. The gap between the rates is getting squeezed. The ‘free money’ isn’t free anymore.” From there, he leaned into the mechanical consequence: when funding gets more expensive and the currency shifts, leveraged positions don’t get a long debate window — they get cut. “As Japanese rates rise, that trade flips. Investors are now being forced to sell their US assets to pay back their Yen loans. Instead of money flowing into the US markets, it is being sucked out to pay debts in Tokyo. This is a massive liquidity drain happening right under our noses.” That’s also where his Bitcoin read comes in. Not “Bitcoin is broken,” but that Bitcoin is where risk appetite and leverage tend to show up early — and where forced selling can look brutal when it hits. Stephan expanded on the same theme in a Substack post, pulling the Fed into the timeline more directly and warning readers to brace for turbulence. “You better get ready for a bumpy ride,” he wrote, claiming the Fed cut rates “for the third time this year,” and that the central bank “has officially ended ‘Quantitative Tightening’ and is quietly moving back toward printing money.” Related Reading: US Bitcoin Session Leads December Returns After Weak November He added a “pilot flying blind” angle as well, arguing the Fed cut “without any inflation data whatsoever” due to shutdown-related disruptions. He attached a specific interpretation of balance-sheet policy, too: “Finally, the most important news of the day: Quantitative Tightening (QT) is over… They even announced they will buy $40 billion of Treasuries over the next 30 days. The tightening era is dead. The ‘stimulus’ era is now being rebooted, and the money printer is being turned on.” Taken together, his thesis ends up with Bitcoin sitting between two forces that don’t necessarily move on the same clock: a potentially sharp deleveraging impulse from carry unwinds, and a slower easing impulse if policy conditions loosen. One can hit price violently in a short window; the other can take time to express itself cleanly. Stephan closed with a familiar Bitcoin-with-training-wheels framing: volatility is normal, drawdowns happen, and mining economics create a reference point. “Bitcoin isn’t broken. It’s just volatile, and this isn’t the first time this is happening. Statistically, Bitcoin has seen drastic crashes of 50% or more, but it has never dropped below its “electrical cost” (the cost to mine one coin), which sits around $71,000 today. If we get close to that number, history suggests it’s a strong buy zone,” he concluded. At press time, BTC traded at $87,082. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|Dollar-Yen Carry Trade",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55889645,
+    "published": 1765915200000,
+    "title": "3 reasons why trader demand for XRP evaporated: Is $1 next?",
+    "body": "XRP fails to find demand under $2 as futures volume on Binance fell by 96% and traders’ use of leverage hits new lows. Is $1 XRP the next stop?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55889724,
+    "published": 1765915287000,
+    "title": "Bitcoin treasury Kindly MD faces potential delisting after Nasdaq price notice",
+    "body": "The company has 180 days to regain compliance with Nasdaq’s minimum bid price requirement after its shares traded below $1 for 30 consecutive business days.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
