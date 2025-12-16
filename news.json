@@ -1,128 +1,5 @@
 [
   {
-    "id": 55820942,
-    "published": 1765798420000,
-    "title": "JPMorgan Launches Tokenized Money Market Fund on Ethereum as Wall Street Moves Onchain: Report",
-    "body": "The $4 trillion U.S. bank is the latest financial giant in rolling out tokenized MMF onchain, joining BlackRock, Franklin Templeton and Fidelity.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenization|Ethereum News|JPMorgan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55822307,
-    "published": 1765800690000,
-    "title": "Bitcoin's Parabolic Arc Snaps: Trader Peter Brandt Eyes $25K Crash Floor",
-    "body": "Veteran trader Peter Brandt warns that bitcoin's growth parabola has fractured, potentially leading to a price drop to $25,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Technical Analysis|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55824928,
-    "published": 1765802295000,
-    "title": "Aave DAO Pushes Back as Interface Fees Shift Away From Treasury",
-    "body": "The change was framed as an upgrade offering improved execution, but delegates flagged that swap-related fees were no longer flowing to the Aave DAO treasury.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55825687,
     "published": 1765806191000,
     "title": "Morning Minute: The SEC & OCC Usher In Crypto Era",
@@ -3299,6 +3176,257 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55871626,
+    "published": 1765884818000,
+    "title": "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
+    "body": "Monday once again emerges as a pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bitcoin ETF|ether ETF|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55871838,
+    "published": 1765884600000,
+    "title": "Visa Offers Stablecoin Settlement for US Banks Using Circle’s USDC",
+    "body": "Visa Inc. is opening its US network to stablecoin settlement, expanding crypto-linked products and services enabled by the relaxed regulatory environment under the second Trump administration.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NYS:CRCL|NYS:V",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55871685,
+    "published": 1765884539000,
+    "title": "Crypto Ownership in UK Falls to 8% Despite Political Momentum",
+    "body": "The proportion of Brits that hold crypto declined to around 8% of the adult population this year, despite record prices earlier in the year and a major push by the industry to break into the mainstream.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55872602,
+    "published": 1765886459000,
+    "title": "Dogecoin RSI Hits Levels That Have Triggered ATH Rallies Before",
+    "body": "Dogecoin’s weekly price chart is revealing an interesting event of an important momentum indicator hitting a level that has always been a major turning point for the cryptocurrency. After spending the past several weeks falling lower into the $0.13 price region, Dogecoin’s Relative Strength Index on the weekly timeframe has reached levels that have only appeared a handful of times over the asset’s entire trading history. The observation, first highlighted by crypto analyst Cryptollica, revisits how Dogecoin has behaved the last few times this technical condition happened. A Rare Weekly RSI Signal In Dogecoin’s History Technical analysis indicates that Dogecoin’s weekly Relative Strength Index has dropped into a narrow zone around the 33 level, a condition that has appeared only four times over roughly eleven years of trading history. Each of those occasions aligned with periods where selling pressure had largely run its course, even though price action itself did not immediately reverse. Instead, these phases were marked by quiet accumulation. Related Reading: XRP Dominates Institutional Inflows, But Why Is Price Still Low? The Dogecoin chart highlights these moments clearly, with pronounced RSI dips into the lower band during 2015, 2020, and 2022. In each case, price followed a similar script: extended basing ranges formed after the RSI reached this level, laying the groundwork for the next sustained advance. Now in late 2025, Dogecoin’s RSI is again exhibiting this same structural behavior, and this places the current price action in a way that might play out bullish. Short-term oversold readings are relatively common as reversal indicators, but they often produce false starts. However, since this is on the weekly timeframe, this specific setup tends to emerge only during broader market resets and is much more reliable. During those resets, the RSI stabilized and rebounded from the 30 to 33 zone as price gradually transitioned from consolidation into a new uptrend. Dogecoin Price Chart. Source: @Cryptollica On X What The Current RSI Setup Could Mean Going Forward As of mid-December 2025, Dogecoin is trading in the low-$0.13 to mid-$0.14 range, having slipped back below $0.14 that had been acting as short-term support in recent weeks. This price area has been volatile, with moves between roughly $0.13 and about $0.15, reflecting an ongoing struggle between buyers and sellers and a lack of decisive bullish momentum. The sellers are winning right now, with Dogecoin trading at $0.13, down by 5% in the past 24 hours and about to lose this price level. Related Reading: Silk Road Bitcoins Are On The Move Again, Is The BTC Price Ready For Another Dump? Nonetheless, the weekly RSI that’s currently at the usually significant zone adds additional context. It proposes a scenario where Dogecoin is about to reach a price bottom and buyers regain control in the coming weeks. However, considering that this is a weekly indicator, Dogecoin’s price action might continue to consolidate around this level for the next few weeks before any meaningful bounce takes place. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55872598,
+    "published": 1765886400000,
+    "title": "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
+    "body": "Initial participants include Cross River Bank and Lead Bank, which are settling with Visa in USDC over the Solana blockchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Visa|USDC|Circle|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 100,
+        "NAME": "USDC",
+        "CATEGORY": "USDC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55873059,
+    "published": 1765882891000,
+    "title": "XRP ETFs pass $1 billion mark with no outflow days since launch",
+    "body": "ETF inflows can remain positive even during market drawdowns because they reflect allocation decisions rather than near-term trading signals, one trader said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|XRP News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55872960,
+    "published": 1765846800000,
+    "title": "Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
+    "body": "SBI Holdings and Startale plan a regulated yen stablecoin via Shinsei Trust, aiming for tokenized assets and cross-border settlement by Q2 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
       }
     ]
   }
