@@ -1,104 +1,5 @@
 [
   {
-    "id": 55869139,
-    "published": 1765880635000,
-    "title": "Coinbase, Robinhood Join Newly Formed 'Tech Force' to Direct Talent to US Government",
-    "body": "The initiative will see approximately 1,000 engineers recruited to build AI infrastructure across federal agencies.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55870434,
-    "published": 1765882862000,
-    "title": "Crypto Market Liquidity Shrinks Ahead of Holidays",
-    "body": "The growth rate of USDT’s market cap has plunged by two-thirds since November, signaling a major contraction in crypto market liquidity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55869981,
-    "published": 1765881849000,
-    "title": "Singapore-licensed StraitsX to bring its SGD, USD stablecoins to Solana in 2026",
-    "body": "Monetary Authority of Singapore-licensed issuer StraitsX plans to expand its SGD- and USD-backed stablecoins to Solana, targeting AI-driven transactions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55871626,
     "published": 1765884818000,
     "title": "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
@@ -276,47 +177,6 @@
         "ID": 100,
         "NAME": "USDC",
         "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55873059,
-    "published": 1765882891000,
-    "title": "XRP ETFs pass $1 billion mark with no outflow days since launch",
-    "body": "ETF inflows can remain positive even during market drawdowns because they reflect allocation decisions rather than near-term trading signals, one trader said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -3239,6 +3099,35 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55920262,
+    "published": 1765961514000,
+    "title": "Memecoin boom turns into capitulation one year after $150 billion market peak",
+    "body": "Daily memecoin volume slumped to just under $5 billion this month after surging more than 760% to near $87 billion in 2024 as interest in the pop-culture crypto tokens evaporated.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Markets|memecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
