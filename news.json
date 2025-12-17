@@ -1,75 +1,5 @@
 [
   {
-    "id": 55875062,
-    "published": 1765890305000,
-    "title": "Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’",
-    "body": "Solana co-founder Anatoly Yakovenko claims the network is facing an industrial-scale 6 Tbps DDoS attack that has shown little visible impact.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55875469,
-    "published": 1765891264000,
-    "title": "Serious 2026 $3 Trillion Crypto ‘Collapse’ Fed Warning Issued—$10,000 Bitcoin Price Predicted As Crash Fears Swirl",
-    "body": "The bitcoin price could be teetering on the verge of a massive crash that could wipe out almost all cryptocurrencies...",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55875996,
     "published": 1765892227000,
     "title": "U.S. added 64,000 jobs in November, with unemployment rate jumping to 4.6%",
@@ -3240,6 +3170,257 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55925349,
+    "published": 1765976400000,
+    "title": "Moon Pursuit Capital launches $100 million market-neutral crypto fund",
+    "body": "The new quantitative vehicle aims to deliver risk-managed returns across crypto market cycles as the firm readies a global expansion push.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Crypto Hedge Funds|Exclusive|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55925350,
+    "published": 1765976400000,
+    "title": "Wall Street giant DTCC Picks privacy focused blockchain Canton Network for tokenization",
+    "body": "Canton creator Digital Asset will help tokenize DTC-custodied U.S. Treasury securities.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|DTCC|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55924999,
+    "published": 1765975945000,
+    "title": "Securitize to offer first fully onchain trading for real public stocks in early 2026",
+    "body": "The platform offers full legal ownership, with shares issued and recorded onchain, and provides real shareholder rights and self-custody.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Securitize|Tokenized Equity|Tokenization|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 55925779,
+    "published": 1765976844000,
+    "title": "Bitcoin miner Hut 8 lands $7B Google-backed AI data center lease",
+    "body": "The 15-year agreement anchors Hut 8’s shift toward long-duration AI infrastructure revenue as hyperscalers seek power-first compute capacity.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55925519,
+    "published": 1765976400000,
+    "title": "Wall Street’s $4 quadrillion backbone to roll out tokenized US Treasurys",
+    "body": "The SEC gave DTCC the green light to launch a tokenization service last week, and the company will be starting by minting US Treasurys on Canton.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55926652,
+    "published": 1765978247000,
+    "title": "Analyst Who Predicted The Bitcoin Price Top Reveals The Next Buy Level",
+    "body": "Crypto analyst Doctor Profit has revealed the next Bitcoin price level he is looking to accumulate at in anticipation of a relief rally. Despite plans to buy BTC, the analyst indicated that he is still bearish on the flagship crypto in the long term, with a larger decline expected to unfold. Analyst Reveals The Next Buy Level As Bitcoin Price Eyes Bounce In an X post, Doctor Profit stated that he is buying BTC around $86,000 as he looks to trade a short-term relief bounce. He reiterated that he sees the probability of the Bitcoin price revisiting the $97,000 to $107,000 region before the next major leg lower unfolds. The analyst added that this projected move is a 20% from the current region, which presents a good risk-reward trade with a tight stop loss. Related Reading: Analyst Shares Full Technical Bitcoin Price Breakdown – Here’s The Target Doctor Profit is known to have predicted the Bitcoin price top when it was trading at around $126,000. The analyst noted that he remains very bearish in the long term, expecting further declines. As such, he plans to play this move to buy BTC with absolute and the highest form of risk management. The analyst explained that this means he will ensure to place the stop loss at entry once in solid profit, while his short trade from between $115,000 and $125,000 will still be running. Doctor Profit further remarked that this long setup for the Bitcoin price is aimed at a few weeks only, before the bearish price action resumes with lower targets. BTC Remains “Extremely Unstable And Bearish” Doctor Profit stated that the Bitcoin price remains extremely unstable and bearish for the mid-term, noting that a strong downside continuation can happen at any moment, even before the flagship crypto reaches the projected $97,000 to $107,000 zone. The analyst added that a deeper and faster sell-off is absolutely possible, so those looking to buy now should take extreme caution. Related Reading: Can Bitcoin Price Still Hit $140,000? What The Global M2 Money Supply Says Doctor Profit reiterated that his short positions remain fully open, as any upside is treated as distribution and liquidity for the next leg down. The analyst noted that the $70,000 region remains the main target. If the Bitcoin price manages to revisit the $97,000 to $107,000 region, he stated that he would fully take profit again on the position and add the profits to his short position. In the meantime, crypto analyst Ali Martinez has warned that the Bitcoin price needs to hold the $87,000 region or risk dropping to as low as $70,000. BTC is currently on the edge with Japan set to raise its interest rates this week. At the time of writing, the Bitcoin price is trading at around $86,600, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Ali Martinez|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btcusd|BTCUSDT|CoinMarketCap|Doctor Profit",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55926450,
+    "published": 1765977696000,
+    "title": "Binance names alleged fake listing agents, offers up to $5M whistleblower reward",
+    "body": "Binance has warned users to avoid token listing agents at all costs, offering up to $5 million to whistleblowers reporting listing fraud.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 207,
+        "NAME": "TOKEN LISTING AND DELISTING",
+        "CATEGORY": "TOKEN LISTING AND DELISTING"
+      },
       {
         "TYPE": "122",
         "ID": 211,
