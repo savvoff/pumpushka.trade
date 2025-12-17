@@ -29,7 +29,7 @@ export default defineConfig({
   compressHTML: false,
   adapter: vercel({
     isr: {
-      expiration: 60 * 60, // 60 min
+      expiration: 60 * 60 * 24, // 60 min - 24 hours
     },
   }),
   integrations: [
