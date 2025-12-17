@@ -1,192 +1,5 @@
 [
   {
-    "id": 55871626,
-    "published": 1765884818000,
-    "title": "U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines",
-    "body": "Monday once again emerges as a pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Bitcoin ETF|ether ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55871838,
-    "published": 1765884600000,
-    "title": "Visa Offers Stablecoin Settlement for US Banks Using Circle’s USDC",
-    "body": "Visa Inc. is opening its US network to stablecoin settlement, expanding crypto-linked products and services enabled by the relaxed regulatory environment under the second Trump administration.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NYS:CRCL|NYS:V",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55871685,
-    "published": 1765884539000,
-    "title": "Crypto Ownership in UK Falls to 8% Despite Political Momentum",
-    "body": "The proportion of Brits that hold crypto declined to around 8% of the adult population this year, despite record prices earlier in the year and a major push by the industry to break into the mainstream.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55872602,
-    "published": 1765886459000,
-    "title": "Dogecoin RSI Hits Levels That Have Triggered ATH Rallies Before",
-    "body": "Dogecoin’s weekly price chart is revealing an interesting event of an important momentum indicator hitting a level that has always been a major turning point for the cryptocurrency. After spending the past several weeks falling lower into the $0.13 price region, Dogecoin’s Relative Strength Index on the weekly timeframe has reached levels that have only appeared a handful of times over the asset’s entire trading history. The observation, first highlighted by crypto analyst Cryptollica, revisits how Dogecoin has behaved the last few times this technical condition happened. A Rare Weekly RSI Signal In Dogecoin’s History Technical analysis indicates that Dogecoin’s weekly Relative Strength Index has dropped into a narrow zone around the 33 level, a condition that has appeared only four times over roughly eleven years of trading history. Each of those occasions aligned with periods where selling pressure had largely run its course, even though price action itself did not immediately reverse. Instead, these phases were marked by quiet accumulation. Related Reading: XRP Dominates Institutional Inflows, But Why Is Price Still Low? The Dogecoin chart highlights these moments clearly, with pronounced RSI dips into the lower band during 2015, 2020, and 2022. In each case, price followed a similar script: extended basing ranges formed after the RSI reached this level, laying the groundwork for the next sustained advance. Now in late 2025, Dogecoin’s RSI is again exhibiting this same structural behavior, and this places the current price action in a way that might play out bullish. Short-term oversold readings are relatively common as reversal indicators, but they often produce false starts. However, since this is on the weekly timeframe, this specific setup tends to emerge only during broader market resets and is much more reliable. During those resets, the RSI stabilized and rebounded from the 30 to 33 zone as price gradually transitioned from consolidation into a new uptrend. Dogecoin Price Chart. Source: @Cryptollica On X What The Current RSI Setup Could Mean Going Forward As of mid-December 2025, Dogecoin is trading in the low-$0.13 to mid-$0.14 range, having slipped back below $0.14 that had been acting as short-term support in recent weeks. This price area has been volatile, with moves between roughly $0.13 and about $0.15, reflecting an ongoing struggle between buyers and sellers and a lack of decisive bullish momentum. The sellers are winning right now, with Dogecoin trading at $0.13, down by 5% in the past 24 hours and about to lose this price level. Related Reading: Silk Road Bitcoins Are On The Move Again, Is The BTC Price Ready For Another Dump? Nonetheless, the weekly RSI that’s currently at the usually significant zone adds additional context. It proposes a scenario where Dogecoin is about to reach a price bottom and buyers regain control in the coming weeks. However, considering that this is a weekly indicator, Dogecoin’s price action might continue to consolidate around this level for the next few weeks before any meaningful bounce takes place. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55872598,
-    "published": 1765886400000,
-    "title": "Visa brings Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot",
-    "body": "Initial participants include Cross River Bank and Lead Bank, which are settling with Visa in USDC over the Solana blockchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Visa|USDC|Circle|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55875062,
     "published": 1765890305000,
     "title": "Solana under ‘industrial scale’ DDoS attack: Co-founder says it’s ‘bullish’",
@@ -3129,6 +2942,304 @@
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55921607,
+    "published": 1765971000000,
+    "title": "Crypto Markets Today: Bitcoin drifts lower as bearish trend persists",
+    "body": "Bitcoin slipped overnight, dragging the broader crypto market lower as traders remained cautious with few external cues to provide direction.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|market analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55921421,
+    "published": 1765970682000,
+    "title": "How China’s strengthening yuan could support bitcoin prices",
+    "body": "The yuan has rise to its highest in over two months against the dollar.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|China|Yuan|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55922903,
+    "published": 1765972852000,
+    "title": "5,606 Bitcoin: Lightning Network Sets Fresh Capacity Record",
+    "body": "Lightning Network capacity hit a new high this week as major exchanges put more Bitcoin into off-chain channels, boosting the network’s total liquidity and changing how users move BTC. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund Exchange Support Drives Capacity According to reports, the Lightning Network’s public capacity climbed to about 5,606 BTC, with some trackers briefly showing a peak near 5,637 BTC. That is a clear uptick from earlier levels and marks the highest recorded total so far. Exchanges including Binance and OKX have been named as contributors that added Bitcoin to Lightning channels, and other platforms such as Kraken and Bitfinex are expanding their support as well. These deposits are aimed at speeding up deposits and withdrawals and cutting fees for customers. Network Activity Vs. Public Nodes Based on reports, that increase in capacity has not been matched by a big rise in the number of public nodes or channels. Public node counts sit near 14,940, while public channels are roughly 48,678. In other words, more Bitcoin is available inside the network, but the number of hands handling traffic has not jumped in the same way. Some of this extra liquidity is concentrated in larger, custodial channels run by exchanges, which can move big sums without creating many new public routes. That makes on-chain metrics a bit harder to read. Transaction counts and on-chain fee savings do show real user benefits, even when the node graph looks stable. A separate figure that shows real usage is the share of exchange traffic routed over Lightning. Based on reports, one exchange has routed around 15% of its Bitcoin transactions via Lightning rails after adopting Lightning integrations, pointing to meaningful operational changes at major platforms. New Use Cases And Funding Funding and protocol work are following capacity growth. Tether led a round that raised about $8 million for a startup focused on payments over Lightning, indicating interest in stablecoin flows on the network. Announcing Taproot Assets v0.7, now with reusable addresses, a fully auditable asset supply, and larger, more reliable transactions. ✅ With this release, we are laying the foundation for trillions of dollars to flow on bitcoin and Lightning. 💸 Read more below. Upgrade today! — Lightning Labs⚡️🌐 (@lightning) December 16, 2025 Protocol upgrades — including work around Taproot-related asset handling and reliability improvements — are also being rolled out to support more varied payments and token types. These developments point to Lightning being used for things beyond tiny tips: remittances, merchant payments, and stablecoin transfers are being tested more widely. Related Reading: TechCrunch Founder Names XRP Among His Largest Crypto Positions Market watchers say this mix of exchange liquidity, developer upgrades, and rising on-platform usage could make Lightning a more practical rail for everyday BTC movement. Some critics warn that heavier reliance on custodial channels raises centralization risks and reduces the visibility of true peer-to-peer routing. Others note that improved user experience, lower costs, and faster finality are what ordinary users will notice first. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|Lightning network",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 206,
+        "NAME": "FORKS",
+        "CATEGORY": "FORKS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55923368,
+    "published": 1765973561000,
+    "title": "Norway's sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote",
+    "body": "Norges Bank, which holds a 0.3% stake in Metaplanet voted in favor of for all five proposals ahead of the Dec. 22 EGM.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|MetaPlanet|Bitcoin News|Norway|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55923295,
+    "published": 1765973349000,
+    "title": "Indian MP Pushes Tokenization Bill to Democratize Investment Access for the Middle Class",
+    "body": "A new parliamentary push seeks to use tokenization to open high-value assets to India’s middle class through blockchain-based ownership.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55923391,
+    "published": 1765973320000,
+    "title": "Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges",
+    "body": "A whale moved 4,000 Bitcoin to Binance, sparking fresh fears of a deeper BTC price drop if the $81,500 support level is lost.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55924115,
+    "published": 1765974546000,
+    "title": "Solana tests quantum-resistant transactions in new Project Eleven pilot",
+    "body": "Solana has partnered with a post-quantum security company to test quantum-resistant technology on a Solana testnet, claiming to offer a scalable end-to-end solution.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55923759,
+    "published": 1765973871000,
+    "title": "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
+    "body": "A new report warns that the Central African Republic’s crypto push favored elites and exposed the country to foreign criminal networks, rather than boosting financial inclusion.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
