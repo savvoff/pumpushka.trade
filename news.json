@@ -1,221 +1,5 @@
 [
   {
-    "id": 55884169,
-    "published": 1765905562000,
-    "title": "How scammers target crypto users during the holidays and how to stay protected",
-    "body": "From fake crypto investment offers to deepfake endorsements, here’s how criminals trick users and what you can do to stay one step ahead.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55884627,
-    "published": 1765906517000,
-    "title": "Marshall Islands launches world’s first blockchain-based UBI on Stellar blockchain",
-    "body": "Backed by U.S. Treasuries, USDM1 marks a new model for digital public finance and universal basic income in underserved regions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Marshall Islands|Stellar|Stellar Development Foundation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55885374,
-    "published": 1765908050000,
-    "title": "Shiba Inu Scores US Regulated Derivatives Entry Via Coinbase",
-    "body": "According to reports, Coinbase has launched regulated futures linked to Shiba Inu, opening the token to trading on a US derivatives venue. Related Reading: Analyst: Bitcoin’s Cycle Is Intact, Yet No Longer Purely Market-Driven The new products include perpetual-style contracts and monthly futures tied to what Coinbase calls the 1k SHIB index (a 1,000 token index), with trading scheduled to run 24/7. The rollout began on December 5, 2025, as part of a broader push by the exchange to add altcoin derivative listings under US rules. Regulated Futures Hit The Market Reports have disclosed that the perpetual contracts operate like offshore swaps in form but are offered through Coinbase’s regulated platform and are designed to include a funding-rate mechanism to keep prices close to spot. Now live: Trade US Perpetual-Style Futures for all altcoins on Coinbase Derivatives, available 24/7. → Shiba Inu $SHIB → Avalanche $AVAX → Bitcoin Cash $BCH → Cardano $ADA → Chainlink $LINK → Dogecoin $DOGE → Hedera $HBAR → Litecoin $LTC → Polkadot $DOT → SUI $SUI →… pic.twitter.com/yjS2XsQ2jN — Coinbase Markets 🛡️ (@CoinbaseMarkets) December 15, 2025 Monthly contracts were made available as an initial phase. Clearing and settlement are handled inside systems compatible with US oversight, and the products are described as compliant with Commodity Futures Trading Commission frameworks. What Traders And Institutions Might Do Market participants say having regulated futures can change who trades a token. Institutional desks and some large funds often need regulated venues and clearer custody paths before they increase exposure. Added liquidity and round-the-clock pricing may attract more active traders, and that could raise volume. At the same time, access to futures also makes it easier to bet against the token, which can push volatility up. Reports note that immediate moves in spot markets have been mixed, showing that access to derivatives does not automatically lift the token’s price. Because SHIB has regulated futures on Coinbase (“1k Shib Index”), it qualifies for spot ETF consideration under the same SEC pathway Bitcoin and Ethereum followed. The big picture for SHIB •SHIB now joins the “ETF-watchlist club” with other futures-backed cryptos. •If/when… pic.twitter.com/cZPxUWWhBn — 𝐋𝐔𝐂𝐈𝐄 (@LucieSHIB) September 18, 2025 Market Context And Exchange Strategy Coinbase’s decision follows steps the exchange has taken to grow its derivatives arm. Company filings and public letters in 2025 framed derivatives growth as a strategic priority, and the firm has pursued deals and product launches to expand those capabilities. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund One notable deal disclosed earlier involved an agreement valued at close to $3 billion to strengthen derivatives know-how and infrastructure. This background helps explain why Coinbase is offering altcoin futures that trade continuously, under a regulated roof. Featured image from Gemini, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Shiba Inu|altcoins|bitcoin|coinbase|crypto|derivatives|digital currency|memecoin|SHIB",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 44,
-        "NAME": "SHIB",
-        "CATEGORY": "SHIB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55885298,
-    "published": 1765907924000,
-    "title": "U.S. Senate's Warren asks for Trump-tied crypto probe as market structure bill drags",
-    "body": "The influential Democrat is the most vocal critic of the crypto legislation, and she continues to throw rhetorical sand in the gears of the negotiation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Sen. Elizabeth Warren|Donald Trump|World Liberty Financial|Pancakeswap|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 167,
-        "NAME": "CAKE",
-        "CATEGORY": "CAKE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55885785,
-    "published": 1765908600000,
-    "title": "Why BitMine is accumulating Ether despite broader market fear",
-    "body": "BitMine is building an Ether-heavy treasury as ETF flows wobble and exchange deposits rise, betting on Fusaka and staking to drive a longer-term thesis.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 55886074,
-    "published": 1765908927000,
-    "title": "US banks could soon issue stablecoins under FDIC plan to implement GENIUS Act",
-    "body": "The Federal Deposit Insurance Corp.'s proposal outlines how banks could seek approval to issue payment stablecoins as US regulators move from legislation to rule-making.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
     "id": 55886861,
     "published": 1765910441000,
     "title": "Cathie Wood's Ark Invest Buys the Dip on Coinbase, Circle and Tom Lee’s Ethereum Giant BitMine",
@@ -3538,6 +3322,181 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55936847,
+    "published": 1765992480000,
+    "title": "Polkadot's DOT drops 3% to $1.83 as crypto markets reverse lower",
+    "body": "Strong selling pressure overwhelmed positive Coinbase integration news as the psychological $1.90 level failed to hold.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 21,
+        "NAME": "DOT",
+        "CATEGORY": "DOT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55936560,
+    "published": 1765992057000,
+    "title": "BNB drops nearly 3% to as bitcoin whipsaw and tech selloff hit crypto market",
+    "body": "The decline was accompanied by sharp volatility in bitcoin and weakness in U.S. tech stocks, suggesting a return of risk-off sentiment.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|BNB|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55938354,
+    "published": 1765994449000,
+    "title": "Bitcoin Structure Turns Bearish As Structural Indicators Flip Negative",
+    "body": "Bitcoin is struggling to reclaim the $90,000 level as it continues to test critical demand around the $86,000 zone. After weeks of corrective price action, bulls are finding it increasingly difficult to build a convincing case for trend continuation. Related Reading: XRP Liquidity Dries Up: Futures Buy Volume On Binance Falls from $5.8B to $250M Momentum has faded, upside attempts have been rejected, and market confidence is weakening. As a result, a growing number of analysts are beginning to openly discuss the possibility that Bitcoin is transitioning into a broader bear market phase rather than a temporary pullback within a larger uptrend. This shift in narrative is supported by structural data. In a recent analysis, Axel Adler highlights that Bitcoin’s price action is now aligned with a clear deterioration in market structure. His chart, which combines a composite Structure Shift signal with a Donchian Channel, shows that the indicator has decisively moved into negative territory. The Structure Shift composite ranges from -1 to +1, with values below zero signaling bearish regime dominance. Currently, the signal sits near -0.5, a level historically associated with sustained downside pressure rather than short-lived corrections. At the same time, Bitcoin price has dropped to the lower boundary of the 21-day Donchian Channel and is hovering just above the $85,000 support area. Together, these signals suggest that the market is operating in a risk-off environment, where downside risks remain elevated unless structure improves meaningfully. Bitcoin Structure Confirms Bearish Regime Adler notes that the current position of the Structure Shift composite signal confirms Bitcoin has firmly established itself within a bearish structural zone. With the indicator sitting below zero, the market is no longer in a neutral or transitional phase but operating under sustained downside conditions. According to this framework, the primary trigger for improvement would be a decisive recovery of the composite signal back above the zero threshold, ideally while price continues to hold support within the Donchian Channel. Without that shift, any short-term bounce risks remaining corrective rather than trend-changing. This bearish structure is reinforced by Bitcoin’s Bull-Bear market structure index, which focuses on derivatives dynamics through fast and slow regime components. The latest data shows the bullish component collapsing to just 5%, an extremely low reading that reflects the near absence of constructive long-side momentum. At the same time, the fast bearish component has moved deeper into negative territory, signaling rising seller pressure driven primarily by the futures market. This configuration highlights a critical imbalance. Short-term momentum is firmly controlled by bears, while spot demand has so far proven insufficient to absorb derivatives-led selling pressure. For conditions to improve, the bullish component of the index would need to recover meaningfully, signaling renewed participation from buyers. Taken together, both indicators point to the same conclusion: Bitcoin has undergone a local structural shift into bearish territory. The dominant risk remains continued downside pressure driven by derivatives, especially in the absence of strong spot accumulation. Related Reading: Who Really Sold The Dip? On-Chain Data Exposes Bitcoin’s True Sellers Bitcoin Price Tests Critical Support as Downtrend Persists Bitcoin continues to trade under clear downside pressure. The price now hovers around the $86,500 level after failing to reclaim higher resistance zones. The chart highlights a decisive breakdown below the short- and medium-term moving averages. With BTC trading well beneath the 50-day and 100-day averages. These levels, which previously acted as dynamic support during the uptrend, have now flipped into resistance. Reinforcing the bearish market structure. The most notable technical development is Bitcoin’s interaction with the 200-day moving average, shown in red. Price has briefly tested this long-term support but remains fragile, with follow-through buying notably absent. Historically, sustained trading below faster-moving averages while compressing near the 200-day often signals either a prolonged consolidation phase or the risk of an additional leg lower if demand fails to appear. Related Reading: Why Bitcoin’s Quiet Price Action May Be ‘Dangerous’ – IFP Signals Rising Structural Risk Structurally, Bitcoin remains in a lower-high, lower-low sequence since the October peak near $125K. As long as price remains capped below the $90K–$95K resistance zone, downside risks persist. For bulls to regain control, BTC must first stabilize above current demand and reclaim key moving averages. Signaling that sellers are losing dominance. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin bearish indicator|Bitcoin market structure|Bitcoin news|Bitcoin On-Chain Data|Bitcoin Structure|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55937810,
+    "published": 1765993727000,
+    "title": "Senators Introduce Bipartisan Bill to Establish Federal Crypto Scam Taskforce",
+    "body": "The federal taskforce would have to issue a report within one year of forming, outlining its strategy for combating crypto fraud.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55939047,
+    "published": 1765995387000,
+    "title": "How Banks Learned To Stop Worrying And Love Stablecoins",
+    "body": "Banks worry stablecoins will drain deposits. Data says they won't. The real value is replacing settlement rails built on duct tape and COBOL with a dollar that works.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Investing|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
