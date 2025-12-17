@@ -1,116 +1,5 @@
 [
   {
-    "id": 55882292,
-    "published": 1765902603000,
-    "title": "How Prediction Markets Actually Grew In 2025",
-    "body": "Prediction markets quadrupled resting capital to $13B in 2025 despite volume volatility, proving they're exchanges for hedging, not just betting platforms.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55883287,
-    "published": 1765904418000,
-    "title": "ADA Enters Critical Phase as Cardano Price Slips Back to Multi-Year Support Levels",
-    "body": "Cardano’s ADA token has returned to a familiar but uncomfortable zone. After months of lower highs and failed recovery attempts, the price has slid back toward long-term support levels that have defined its structure for more than two years. Related Reading: XRP Hasn’t Entered A Bear Market Yet; Analyst Shares Why The move comes amid a broader market pullback, as risk appetite weakens across equities and crypto, but ADA’s decline is also being shaped by internal technical signals that traders are finding hard to ignore. ADA currently trades near $0.38–$0.39, down approximately 5.57% over the past 24 hours. That drop places the token close to a multi-year ascending support trend line that has held for nearly 900 days. ADA's price trends to the downside on the daily chart. Source: ADAUSD on Tradingview Derivatives and Positioning Point to Caution Market data indicate that traders are stepping back rather than leaning into the decline. Futures open interest in ADA has decreased by approximately 11% to around $670 million, indicating that positions are being closed rather than expanded. Funding rates have also softened, with more than 55% of tracked positions now skewed to the short side. Together, these metrics point to reduced confidence in a near-term rebound and a market that is positioning defensively. This caution is not isolated to Cardano. Altcoins across the board have come under pressure as investors adopt a risk-off stance ahead of key U.S. macroeconomic data, including inflation and labor reports, and as concerns surrounding the AI sector spill over into correlated assets like cryptocurrency. Technical Structure Near a Breaking Point On the charts, ADA’s structure remains fragile. The token recently lost the $0.53 horizontal support, confirming a bearish shift on higher timeframes. Momentum indicators reflect that change. The RSI is below 50, and the MACD remains in a negative position. Recent price action looks corrective rather than impulsive, suggesting the latest bounce may already have run its course. ADA is still hovering near its long-term diagonal support, but a clean breakdown would likely alter the outlook materially. Some analysts warn that, if this trend line fails, the price could retrace much deeper, potentially toward levels last seen during the previous bear market. Long-Term Targets Contrast With Short-Term Risk Despite the weak near-term picture, longer-term projections remain divided. One technical analyst has argued that ADA’s current consolidation resembles a prolonged corrective phase similar to the setup seen before its 2020 breakout, outlining upside targets ranging from the $5 area to above $10 in a full bull scenario. Related Reading: US Bitcoin Session Leads December Returns After Weak November However, those views hinge on the market first stabilizing and reclaiming key resistance zones. For now, ADA’s focus is simpler. The token is at a critical phase, with long-term support under pressure and sentiment cautious. Whether this level marks a base or a breakdown will likely shape Cardano’s trajectory into 2026. Cover image from ChatGPT, ADAUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cardano|ADA|ADA price|adausd|Cardano price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55883878,
-    "published": 1765905026000,
-    "title": "Solana enters Brazil’s main exchange as Valour expands regulated crypto access",
-    "body": "The Solana-linked product expands Valour’s Brazil footprint as demand for regulated crypto exposure grows among regional investors.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55884169,
     "published": 1765905562000,
     "title": "How scammers target crypto users during the holidays and how to stay protected",
@@ -3432,6 +3321,217 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55933918,
+    "published": 1765988575000,
+    "title": "DTCC Handles $3.7 Quadrillion in Transactions a Year—Now It's Tokenizing Treasuries on Canton",
+    "body": "DTCC unveiled plans to issue tokenized securities on Canton Network, the privacy-enabled blockchain built for financial institutions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      }
+    ]
+  },
+  {
+    "id": 55933814,
+    "published": 1765988445000,
+    "title": "The Protocol: Bug that can drain all your tokens impacting 'thousands' of sites",
+    "body": "Also: Ripple news, Aave protocol debate, and pudgy penguins takeover",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Tech|Newsletters|The Protocol|Bug|Aave|Ripple|Pudgy Penguins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 2,
+        "NAME": "AAVE",
+        "CATEGORY": "AAVE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55935570,
+    "published": 1765990832000,
+    "title": "Saylor’s Long Bitcoin Bet Has Left Corporate Rivals Behind: Crypto Entrepreneur",
+    "body": "Michael Saylor’s firm Strategy continues to make Bitcoin headlines with its enormous purchases, making it one of the largest holders in the world. Related Reading: TechCrunch Founder Names XRP Among His Largest Crypto Positions Reports show the company owns 671,268 Bitcoin, roughly 3.2% of the total supply, valued at about $58.61 billion at the time of publication, according to Saylor Tracker. Bitcoin entrepreneur Anthony Pompliano said on his podcast that it would be extremely difficult for any other public company to match Strategy’s buying pace. Massive Holdings And Recent Purchase Strategy announced a fresh buy of 10,645 Bitcoin for $980.3 million, paying an average of $92,098 per coin. That move pushed its total hoard to roughly 3.2% of all Bitcoin in existence. Those are large figures. They also show why rivals would need huge sums to close the gap. Pompliano On The Scale Needed To Compete According to comments made on The Pomp Podcast, Pompliano said that a company trying to match Strategy would have to “raise hundreds of billions of dollars.” He said it would be “very hard to see that happening.” He pointed to Strategy’s early entry in 2020, when Saylor’s initial purchase was about $500 million while Bitcoin traded between $9,000 and $10,000. That initial stake, based on current prices cited in reports, is now worth more than $4.8 billion with Bitcoin trading around $86,950. Market Impact And Buying Method Market watchers have flagged Strategy’s growing share as something to watch. Some worry a single large holder could influence price moves. Others note the firm does most of its buying through over-the-counter desks. OTC trades are used to handle big orders without sending shockwaves through exchange order books. Many investors see the regular, large purchases as a positive sign for Bitcoin demand. Holding Strategy And Influence Concerns Pompliano described 3.2% as “a big number, but it’s also a small number.” He added, “It’s not like they own 10%.” That view captures a split: the holding is large enough to matter for supply dynamics and market psychology, but not so large that it gives absolute control. Still, the combination of size and repeated buys draws attention from traders and regulators alike. Outlook And Long Term Plans Reports quote Strategy’s CEO Phong Lee as saying the company probably won’t sell any Bitcoin until at least 2065. Saylor has also posted that he plans on “buying the top forever.” Those statements reinforce a long-term stance rather than short-term trading. The market tends to treat such commitments as bullish, and many participants adjust expectations for future demand accordingly. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund A Dominant Buyer With 671,268 Bitcoin on the books and a steady program of purchases, Strategy remains a dominant public buyer. Based on current numbers and public comments, it will be difficult for another listed company to match that level of accumulation without very large capital raises or a dramatic change in corporate behavior. The pace set by Strategy is likely to keep drawing attention from investors watching supply and demand for Bitcoin. Featured image from Pexels, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Anthony Pompliano|btc|btcusd|crypto|Michael Saylor|Strategy",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55935178,
+    "published": 1765990268000,
+    "title": "Crypto stocks pare gains as bitcoin retreats from $90,000 rally",
+    "body": "Crypto-linked stocks pulled back, with miners like MARA Holdings (MARA) down 4.8% and Core Scientific (CORZ) down 6%.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Hut 8|Crypto Stocks|Coinbase|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55935878,
+    "published": 1765991178000,
+    "title": "XRP falls 5% as bitcoin’s sudden pump and dump rattles crypto markets",
+    "body": "XRP's price action now faces resistance at the former support levels, with $1.90 as the immediate line of defense.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
