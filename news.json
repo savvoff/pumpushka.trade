@@ -1,175 +1,5 @@
 [
   {
-    "id": 55859122,
-    "published": 1765862728000,
-    "title": "New React bug that can drain all your tokens is impacting 'thousands of' websites",
-    "body": "Attackers are using the vulnerability to deploy malware and crypto-mining software, compromising server resources and potentially intercepting wallet interactions on crypto platforms.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55859699,
-    "published": 1765864804000,
-    "title": "XRP Price Forecast: Key Factors That Could Propel It To $3 In Early 2026",
-    "body": "As the week began, the XRP price experienced a 4% decline, bringing it nearly 50% below its all-time highs. However, analysts forecast significant gains for one of the market’s leading altcoins in January 2026, citing three major catalysts that could reshape its market outlook. A Major Step Towards Broader Access In a recent analysis, Sam Daodu, a market expert from 24/7 Wall St., emphasized the importance of Vanguard’s decision to approve trading of XRP exchange-traded funds (ETFs). Daodu emphasized that the real significance lies in the facilitation of distribution; with Vanguard’s advisors able to allocate XRP exposure through regulated ETFs without additional cumbersome processes. He indicated that three interrelated factors are now at play: the influx of institutional capital through ETF investments, a reduction in supply, and the influence of Vanguard in altering the approach towards the asset. Related Reading: Bitcoin Pulls Back Under $89K, Michael Saylor Smells Opportunity Notably, the results of the token’s exchange-traded fund launch have already been notable, with XRP inflows hitting $1 billion within the first four weeks of trading, making it one of the fastest-growing crypto ETF launches to date. Additionally, XRP’s market supply has contracted significantly, dropping by 45% from approximately 3.9 billion tokens at the beginning of 2025 to about 1.6 billion by December. This contraction can be attributed to large holders refraining from distributing their tokens, leading to an accumulation in whale wallets and the removal of tokens from liquid markets due to ETF custody. This decreased supply implies that smaller inflows now carry greater influence. With only 1.6 billion tokens available on exchanges, investments of $20-30 million in daily ETF purchases can have a substantive impact on market supply. A Key Driver For Price Appreciation The Vanguard XRP ETF launch is particularly significant in this context, as it locks tokens into regulated custody vehicles that are less likely to be sold frequently. Unlike tokens held on exchanges that can be quickly moved in and out, ETF custody tends to encourage a buy-and-hold strategy, fostering conditions for gradual price appreciation fueled by sustained institutional demand amid a diminishing available supply. Given that the decision to provide ETF access came late in the year, year-end trading typically focuses on maintaining existing allocations rather than creating new positions. While the ETF adds credibility to XRP without causing immediate price pressure, its journey to a $3 valuation by January will depend on how swiftly advisory capital mobilizes, the durability of supply compression, and the overall stability of the markets. XRP Price Path To $3 Three potential scenarios present themselves for XRP’s future. The most optimistic scenario sees advisory capital moving quicker than typical, perhaps allowing advisors to integrate small XRP allocations during January’s rebalancing. In this case, XRP ETF inflows could remain robust, ranging from $40-60 million daily, while the locked-up supply on exchanges supports a price increase that could see the XRP price surpass $2.25, aim for $2.60, and potentially test $3 by the end of January. Related Reading: Ethereum Price Compression Deepens as Analysts Debate if the Next Move Is a Rally or Breakdown The middle-ground perspective suggests a more conventional institutional timing. In this scenario, while the XRP ETF access will gain attention in December, actual allocations might ramp up gradually, leading to a daily influx of about $20-30 million instead of the earlier expected pace. Here, the XRP price could establish higher lows and breach the $2.25 mark, facing resistance between $2.40 and $2.80. Price fluctuations would focus more on future adoption rather than immediate implications. According to Daodu’s conclusions, and given these circumstances, the XRP price reaching $3 could take until the first or second quarter of 2026 rather than being an immediate milestone. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|crypto|crypto news|xrp|xrp news|XRP Price|XRP Price Analysis|XRP Price Forecast|XRP price levels|XRP price news|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55859479,
-    "published": 1765864398000,
-    "title": "Ripple’s RLUSD stablecoin goes multichain in new pilot",
-    "body": "Ripple is testing RLUSD on layer 2s Optimism, Base, Ink, and Unichain, after the token initially launched on the XRP Ledger and Ethereum in 2024.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55859268,
-    "published": 1765864108000,
-    "title": "Dogecoin (DOGE) Under Heavy Pressure—Is a Bottom in Sight?",
-    "body": "Dogecoin started a fresh decline below the $0.1320 zone against the US Dollar. DOGE is now consolidating losses and might face hurdles near $0.1350. DOGE price started a fresh decline below the $0.1320 level. The price is trading below the $0.1300 level and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $0.1340 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could extend losses if it stays below $0.1340 and $0.1350. Dogecoin Price Dips Again Dogecoin price started a fresh decline after it closed below $0.1380, like Bitcoin and Ethereum . DOGE declined below the $0.1350 and $0.1340 support levels. The price even traded below $0.130. A low was formed near $0.1266, and the price is now showing bearish signs. It is consolidating below the 23.6% Fib retracement level of the downward move from the $0.1530 swing high to the $0.1266 low. Dogecoin price is now trading below the $0.1300 level and the 100-hourly simple moving average. If there is a recovery wave, immediate resistance on the upside is near the $0.1325 level. The first major resistance for the bulls could be near the $0.1340 level. There is also a key bearish trend line forming with resistance at $0.1340 on the hourly chart of the DOGE/USD pair. The next major resistance is near the $0.1400 level and the 50% Fib retracement level of the downward move from the $0.1530 swing high to the $0.1266 low. A close above the $0.1400 resistance might send the price toward the $0.1450 resistance. Any more gains might send the price toward the $0.1500 level. The next major stop for the bulls might be $0.1550. More Losses In DOGE? If DOGE’s price fails to climb above the $0.1350 level, it could continue to move down. Initial support on the downside is near the $0.1280 level. The next major support is near the $0.1250 level. The main support sits at $0.120. If there is a downside break below the $0.120 support, the price could decline further. In the stated case, the price might slide toward the $0.1050 level or even $0.10 in the near term. Technical Indicators Hourly MACD – The MACD for DOGE/USD is now gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for DOGE/USD is now above the 50 level. Major Support Levels – $0.1280 and $0.1250. Major Resistance Levels – $0.1340 and $0.1350.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "DOGE|DOGE news|Doge price|DOGE USD|DOGE/BTC|DOGE/USDT|Dogecoin|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55861009,
     "published": 1765867107000,
     "title": "StraitX to debut Singapore and U.S. dollar stablecoins on Solana for quick currency exchange",
@@ -3240,6 +3070,217 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55907730,
+    "published": 1765950242000,
+    "title": "Grayscale outlines top crypto investing themes for 2026 as institutional adoption grows",
+    "body": "Grayscale says macro demand for alternative stores of value and regulatory clarity are underpinning a sustained crypto bull market heading into 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Macro|Markets|Blockchain Development|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55908355,
+    "published": 1765951258000,
+    "title": "SEC Wraps Up Investigation Into Aave Protocol, Confirms CEO Stani Kulechov",
+    "body": "The US Securities and Exchange Commission (SEC) has officially concluded its investigation into the decentralized finance (DeFi) protocol Aave (AAVE), marking a significant development in the ongoing evolution of regulatory approaches within the cryptocurrency industry. Stani Kulechov, the founder and CEO of the Aave protocol, confirmed the end of the four-year investigation in a post on social media, expressing relief and optimism about the future of DeFi. Aave Founder Celebrates End Of SEC Investigation In his announcement, Kulechov emphasized the considerable effort and resources invested by the Aave team throughout this process. He stated, “We are finally ready to share that the SEC has concluded its investigation into the Aave Protocol.” Highlighting the impact of regulatory scrutiny on DeFi, he added, “This process demanded significant effort… to protect Aave, its ecosystem, and DeFi more broadly.” Related Reading: Will Bitcoin Suffer A 20% Decline After Japan’s Rate Hike? Historical Patterns Suggest So Kulechov expressed hope for a new chapter in which developers can freely innovate and contribute to the future of finance, asserting, “DeFi will win.” This conclusion is notable against the backdrop of heightened regulatory pressure that DeFi projects have faced in recent years. Under the previous SEC chair, Gary Gensler, the agency made a concerted effort to enforce regulations in the crypto space. In 2021, the SEC initiated 19 enforcement actions related to cryptocurrency in just the first nine months. However, recent patterns reveal a substantial shift in the commission’s stance on crypto enforcement. SEC Eases Crypto Enforcement Actions By Over 60% Since President Donald Trump returned to the White House, the SEC has reportedly eased enforcement actions in over 60% of ongoing cryptocurrency cases. A New York Times investigation published recently analyzed thousands of government documents and court records, revealing that the SEC has either dismissed, paused, or reduced penalties for a significant majority of active crypto cases since January 20, 2021. Related Reading: XRP Price Forecast: Key Factors That Could Propel It To $3 In Early 2026 While Trump’s first term saw an average of one high-profile cryptocurrency case per month—including the notable action against Ripple Labs—the current landscape indicates a less aggressive regulatory approach for major players like Binance, Ripple, and Gemini. Following the administration shift, enforcement actions against these companies have either been withdrawn or significantly softened. Paul S. Atkins, the newly appointed SEC chair under the Trump administration, has labeled this regulatory shift a “new day” for the cryptocurrency industry. At the time of writing, the protocol’s native token, AAVE, was trading at $187, having only surged by 1% following the announcement. However, on a year-to-date basis, the AAVE token has seen a significant 52% drop, with prices currently 72% down from the all-time high of $661 reached in May 2021. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|Aave (AAVE)|Aave CEO|AAVE news|AAVE Price|Aave protocol|aaveusdt|crypto|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 2,
+        "NAME": "AAVE",
+        "CATEGORY": "AAVE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55908353,
+    "published": 1765951218000,
+    "title": "XRP’s Price Action Sends A Warning Despite Positive ETF Flows",
+    "body": "Despite recent positive closes from spot XRP ETFs, the cryptocurrency’s price action is sending a clear warning to traders. Market structure remains weak, and without signs of a confirmed reversal, short-term risks persist. XRP’s current behavior highlights that bullish sentiment from ETFs alone isn’t enough to drive a sustained rally, making caution essential for anyone entering the market. New Year Volatility Hits Crypto Markets Hard Efloud, in a recent update, highlighted that with the start of the new year and continued uncertainty across the markets, cryptocurrencies have once again been among the hardest hit. Low trading volume and a lack of clear direction have kept pressure on the sector, and without an obvious reversal signal, altcoins continue to grind lower day by day. Related Reading: XRP Dominates Institutional Inflows, But Why Is Price Still Low? Given this backdrop, caution remains essential. As emphasized in previous analyses, any attempt to trade against the prevailing trend at support levels should be backed by clear bullish breakout structures on lower timeframes. Without such confirmation, moves higher are more likely to be short-lived reactions rather than meaningful reversals. From a technical standpoint, XRP’s price has now lost the “Daily Imb” zone, weakening the overall structure. If price dips below the most recent swing low and then attracts buying interest, the $1.98 area is expected to act as the first major resistance. As previously noted, the outlook remains negative unless the YO region is reclaimed. Beyond $1.98, another key resistance lies within the red boxed zone. Together, $1.98, the YO area, and the red boxed region form three critical hurdles where price is likely to face selling pressure in the near term. Price Action Still Outweighs ETF Optimism According to Efloud, while spot XRP ETFs have posted positive closes for 18 consecutive days, this development alone does not outweigh what the chart itself is signaling. He emphasized that price action and market structure remain the most important factors. Until these begin to shift in a clearly bullish direction, any purchases are better seen as part of a gradual accumulation strategy rather than a confirmation of a trend reversal. Related Reading: XRP Price Needs To Hold This Macro Support For Hope Of Revival From this perspective, these buys are primarily aimed at averaging down while the market searches for a more stable structure. Efloud added that if market suppression continues and a sharper correction unfolds, the area around $1.53 could emerge as a potential buy zone. However, this scenario depends on broader market behavior and is not a certainty. Finally, the analyst clarified that the $1.53 level was illustrated as a hypothetical example. Efloud warned that entering positions at support zones or key levels without observing clear breakout or reversal structures carries added risk and should be approached with caution. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|altcoins|Efloud|Ripple|Spot XRP ETFs|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55908438,
+    "published": 1765950498000,
+    "title": "Bitcoin slides with ether and XRP as market tests $3 trillion floor",
+    "body": "BTC's weak tone contrasted with moderate gains in major Asian equity indices, which drew strength mostly from expectations of fiscal stimulus.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|XRP News|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55909096,
+    "published": 1765952299000,
+    "title": "Bitcoin could go ‘sub-$50K if quantum isn’t solved by 2028: Capriole",
+    "body": "Quantitative Bitcoin and digital asset fund Capriole says the price of Bitcoin could plummet if the network doesn’t develop resistance to quantum computing.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
