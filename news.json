@@ -1,180 +1,5 @@
 [
   {
-    "id": 55847556,
-    "published": 1765843257000,
-    "title": "PayPal, issuer of PYUSD, applies for Utah industrial bank license",
-    "body": "The company behind the PYUSD stablecoin said it wants to offer business lending and interest-bearing savings accounts.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|PayPal|banks|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 191,
-        "NAME": "PYUSD",
-        "CATEGORY": "PYUSD"
-      }
-    ]
-  },
-  {
-    "id": 55848113,
-    "published": 1765844255000,
-    "title": "Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets",
-    "body": "The crypto market corrected as a shake-up in the Trump administration’s Fed chair pick spooked traders, and growing US macroeconomic challenges led investors to risk-off.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55849260,
-    "published": 1765846817000,
-    "title": "Bitcoin Could Drop To $70K As Bank Of Japan Rate Move Approaches—Analysts",
-    "body": "Bitcoin risks a further drop toward the $70,000 area if the Bank of Japan follows through with an expected interest-rate rise on Dec. 19, analysts focused on macro forces warned. Related Reading: Analyst: Bitcoin’s Cycle Is Intact, Yet No Longer Purely Market-Driven According to multiple macro-focused voices, the move could sap global liquidity and put fresh downward pressure on risk assets, with some traders already bracing for a sharp pullback. Japan’s policy shift matters because higher rates tend to strengthen the yen and raise the cost of borrowing. When that happens, traders who previously borrowed cheaply in yen to invest elsewhere are often forced to unwind those positions. That process can pull money out of global markets in a short period of time, and Bitcoin has often felt that impact as investors cut exposure during risk-off stretches. BOJ Tightening Drains Global Liquidity According to AndrewBTC, every BOJ hike since 2024 has coincided with Bitcoin drawdowns of more than 20%. Based on reports, the analyst pointed to declines of roughly 23% in March 2024, 26% in July 2024, and 31% in January 2025. 🚨 BREAKING: JAPAN WILL CRASH $BTC Bank of Japan is set to hike rates +25 bps on Dec 19. Japan = largest holder of US government debt 🇯🇵 📉 Look at the $BTC chart: Every BoJ rate hike → Bitcoin dumps over 20%+👇 • March 2024 → -23% • July 2024 → -26% • January 2025 →… pic.twitter.com/grN3QRNUg4 — AndrewBTC (@cryptoctlt) December 13, 2025 Traders are not only watching central bank calendars. Bitcoin’s daily chart also flashed a classic bear flag formation after a steep fall from the $105,000–$110,000 area in November. Market Positioning Widens Ahead Of Key Data Bitcoin slipped below $90,000 in thin trading on Sunday, a move that traders took as a cautionary sign rather than a definitive trigger. Based on reports, Ether held up better than many altcoins, suggesting selective risk taking in the market. Traders are positioning before a busy slate of US data and central bank events that could sway flows. Analyst EX bluntly warned BTC will collapse “below $70,000” under the stated macro conditions, a stark forecast that highlights how crowded bets can amplify moves when liquidity is pulled. EVERY TIME JAPAN HIKES RATES, BITCOIN DUMPS 20–25% NEXT WEEK, THEY WILL HIKE RATES TO 75 BPS AGAIN. IF THE PATTERN HOLDS, $BTC WILL DUMP BELOW $70,000 ON DECEMBER 19. POSITION ACCORDINGLY. pic.twitter.com/IWU8JbXjn3 — ΞX (@rektbyEX) December 13, 2025 Related Reading: Bitcoin Pulls Back Under $89K, Michael Saylor Smells Opportunity What This Means For Investors The story tying BOJ policy to Bitcoin’s swings is simple in outline: when funding costs in Japan rise, global borrowing becomes pricier, and risk assets can be sold as positions are reduced. That dynamic helps explain why past BOJ moves lined up with 20-30% declines in Bitcoin. Still, markets often try to price events ahead of time; a hike that’s already built into prices may have a smaller effect than one that comes as a surprise. Featured image from Nikkei Asia, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Bank of Japan|bitcoin|BoJ|btc|btcusd|crypto|fed|rate hike",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55849254,
-    "published": 1765846800000,
-    "title": "SBI, Startale to launch regulated yen stablecoin for global settlement",
-    "body": "The digital yen stablecoin aims to plug Japan into onchain finance and cross-border tokenized asset flows under the country's new FSA regime.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|SBI|Stablecoins|yen|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 55850188,
-    "published": 1765848405000,
-    "title": "PayPal Moves to Set Up Utah-Chartered Bank to Bolster Payments and Lending",
-    "body": "PayPal is seeking a state-chartered bank license as it deepens lending, deposits, and crypto-linked settlement services in the U.S.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
     "id": 55851118,
     "published": 1765850436000,
     "title": "Cardano SuperTrend Turns Bearish—Last Signal Preceded 80% ADA Drop",
@@ -1576,29 +1401,6 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55872960,
-    "published": 1765846800000,
-    "title": "Japan’s SBI and Startale plan regulated yen stablecoin in 2026 under new framework",
-    "body": "SBI Holdings and Startale plan a regulated yen stablecoin via Shinsei Trust, aiming for tokenized assets and cross-border settlement by Q2 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
       }
     ]
   },
@@ -3450,6 +3252,187 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55896306,
+    "published": 1765929656000,
+    "title": "Bitcoin Could Break Records Again In 6 Months, Grayscale Says",
+    "body": "According to a Grayscale outlook released Monday, the asset manager expects rising demand for alternatives and clearer rules in the US to push Bitcoin to a new all-time high in the first half of 2026. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund The report lays out 10 key investing themes for 2026 and ties the Bitcoin call to two main forces: growing portfolio demand for stores of value and what Grayscale describes as improving regulatory clarity. Spot-Bitcoin ETPs reached the market in 2024, the firm notes, and Congress passed the GENIUS Act in 2025, steps that the report says reduce barriers for big investors. Macro Risks And Demand For Crypto Grayscale frames its outlook around a simple macro point. Rising public debt and the risk that fiat currencies lose buying power are pushing some money toward Bitcoin and Ether, the report says. That argument will sound familiar to many institutional buyers. It is also a broad claim. No exact price targets were offered for Bitcoin, only a view that valuations will climb in 2026 and that the so-called four-year cycle may be ending. Stablecoins are another major theme. Grayscale expects stablecoin use to grow: cross-border payments, collateral on derivatives, even use on corporate balance sheets are all mentioned as likely developments. Asset Tokenization And DeFi Growth Reports have disclosed that Grayscale sees asset tokenization reaching an inflection point next year. Lending protocols and staking are singled out as areas where activity could expand. The firm foresees practical outcomes: stablecoins in payment rails, more institutional access to staking, and tokenized assets showing up in trading and custody systems. Grayscale also flags two narratives it does not expect to move markets in 2026 — quantum computing risk for crypto and digital asset treasuries — saying research will continue but valuations are unlikely to be affected this soon. Related Reading: Analyst: Bitcoin’s Cycle Is Intact, Yet No Longer Purely Market-Driven Over the past 3 months, the average return across nearly all crypto sectors has underperformed Bitcoin. This persistent relative weakness highlights a market environment where capital concentration favours BTC. 📊 https://t.co/rFisuVfSY7 https://t.co/lpXqEe9bbW pic.twitter.com/WNtKEKclX7 — glassnode (@glassnode) December 16, 2025 Onchain Data Suggests Quiet Caution Meanwhile, data from onchain analytics group Glassnode was also cited in this context. Over the last three months, Glassnode reports, the average return across most crypto sectors has underperformed Bitcoin, indicating capital concentration in BTC. That has not translated into strong faith in leadership. A separate institutional feed, Bitcoin Vector, said dominance fell in the second half of the year, with ETH rotations cutting into BTC’s lead and a weaker rebuild after deleveraging events. In short: funds appear to prefer holding Bitcoin, but are not placing big new bets. Featured image from YourStory, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|digital currency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55896372,
+    "published": 1765929780000,
+    "title": "Bank of Canada lays out criteria for ‘good money’ stablecoins",
+    "body": "Canada’s central bank will approve only fiat-backed, high-quality stablecoins to ensure they are “good money” as part of the country’s plan to modernize its financial system.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 55897803,
+    "published": 1765933229000,
+    "title": "Bitcoin Bottom Forecast: Top Expert Predicts $40,000 Target Next Year, Here’s The Analysis",
+    "body": "Bitcoin (BTC) has been struggling to regain momentum in the market, failing to surpass its nearest resistance level of $94,000 for over a month. The cryptocurrency is currently trading within a broad range between $85,000 and $93,000, leading to growing concerns about further price corrections in the upcoming months. Amid this uncertainty, market expert NoLimit recently expressed on social media platform X (formerly Twitter) that he anticipates Bitcoin could bottom out at around $40,000 sometime in 2026. This forecast implies a significant 54% decline from current levels, which are just above $87,860. A Historical Perspective On Market Cycles NoLimit’s analysis outlines several reasons for this predicted downturn. He points out that Bitcoin has a historical tendency to surprise investors, often when confidence in the market is high. While each price cycle may appear unique on the surface, NoLimit argues that the underlying mechanics remain largely unchanged. He emphasizes the cyclical nature of Bitcoin, noting that it moves within a four-year cycle influenced by liquidity, leverage, and human behavior rather than mere sentiment. According to him, the market is currently late in this cycle, and Bitcoin has consistently followed a three-step process during past upward movements. Related Reading: XRP Price Forecast: Key Factors That Could Propel It To $3 In Early 2026 First, Bitcoin tends to surge in price following the Halving event. This is typically followed by an influx of maximum leverage and late-stage buyers. Finally, the cycle concludes with a sharp and often chaotic reset before the next significant price expansion occurs. Historically, Bitcoin has experienced steep declines during these resets, such as an approximate 85% drop in 2013-2014, an 84% drop in 2017-2018, and a 77% drop during the 2021-2022 cycle. In each scenario, investors were convinced that the conditions were different, yet the outcomes remained consistent. $40,000 As Foundation For Bitcoin’s Next Bull Run Considering the current market situation, NoLimit highlights several critical indicators. He notes that Bitcoin has already seen substantial price appreciation, with institutional interest and exchange-trade fund (ETF) approvals now part of the landscape. He also observes that many traders are over-leveraged, market volatility is compressed, and there exists widespread hope for further price increases. These factors often signal a heightened risk of downside movement in the market. Related Reading: Will Bitcoin Suffer A 20% Decline After Japan’s Rate Hike? Historical Patterns Suggest So A potential drop toward the $40,000 range should not be viewed as an unforeseen disaster, according to NoLimit. He argues that significant price declines have historically preceded major upward movements. Additionally, this price target aligns well with several technical indicators, including previous resistance levels that have turned into support, long-term moving averages, and the liquidity gap created by ETF approvals. Such factors suggest that a move toward this region could exhaust forced sellers and provide a solid foundation for recovery. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Bottom|Bitcoin news|bitcoin price|Bitcoin price analysis|Bitcoin Price Forecast|bitcoin price prediction|btc|BTC news|BTCUSDT|crypto market|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55898083,
+    "published": 1765933608000,
+    "title": "Crypto ETPs to enter ‘cheesecake factory’ era in 2026: Bitwise",
+    "body": "The number of crypto exchange-traded products is going to “accelerate forward at ridiculous speed” in 2026, according to Bitwise researcher Ryan Rasmussen.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55898688,
+    "published": 1765934887000,
+    "title": "Tether leads $8M funding for Lightning startup focused on stablecoins",
+    "body": "Speed, which leverages the Bitcoin Lightning Network to facilitate USDT transfers, has secured $8 million from Tether and Ego Death Capital.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
