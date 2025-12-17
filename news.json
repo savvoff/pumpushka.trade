@@ -1,52 +1,5 @@
 [
   {
-    "id": 55866106,
-    "published": 1765875632000,
-    "title": "US Bitcoin Session Leads December Returns After Weak November",
-    "body": "Data shows Bitcoin has witnessed a notable amount of gains during the US trading session in December so far, a shift compared to the November trend. Bitcoin Has Performed The Best During US Trading Session This Month As explained by CryptoQuant community analyst Maartunn in a new post on X, the American trading session has flipped for Bitcoin in December. Below is the chart shared by Maartunn, which compares the returns that BTC has achieved across the different trading sessions over the past month. The trading sessions here have been divided based on when investors of a major market are typically active. Bitcoin and other blockchain-based assets run 24/7, so there naturally isn’t ever a time in any timezone where trading is inactive. However, investors do still tend to trade more actively during their daytime, which is what these sessions are based on. From the chart, it’s visible that cumulative Bitcoin returns were negative for the American trading session during the last couple of weeks of November. Europe and Asia-Pacific didn’t perform much better, but they at least saw close to neutral returns. Related Reading: Cardano SuperTrend Turns Bearish—Last Signal Preceded 80% ADA Drop Toward the end of November, though, a shift began to take shape, with returns during US hours going up. And in this month of December so far, the trading session has pulled away from the rest, with cumulative returns sitting at a positive 8%. In contrast, Europe and Asia-Pacific have the metric at a level of around -4% or lower. Thus, if the cumulative returns during these sessions are anything to go by, it would appear that American investors have been participating in Bitcoin accumulation this month, while the others have been distributing or simply, not buying. In some other news, the Bitcoin selloff last month caused a key on-chain indicator to go through its largest negative change in years, as quant Frank has pointed out in an X post. The metric displayed in the chart is the Realized Price of the Bitcoin short-term holders. This indicator measures the average cost basis of investors on the BTC network. The version listed in the graph specifically tracks the cost basis of short-term holders (STHs), entities who entered the market over the last 155 days. As is visible in the chart, the Bitcoin STH Realized Price saw a notable decline alongside the price crash in the cryptocurrency during November. This suggests investors who bought at higher levels panic capitulated, repricing their coins to the lower post-plunge levels. Related Reading: XRP Mildly Undervalued On MVRV: What About Bitcoin, Ethereum? This capitulation was so strong that the STH Realized Price saw its largest red 7-day change since the FTX crash back in November 2022. BTC Price Bitcoin has witnessed bearish price action during the past day as its price has come down to $85,800 following a drop of about 3.5%. Featured image from Dall-E, Glassnode.com, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin US Performance|Bitcoin US Session|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55868269,
     "published": 1765879249000,
     "title": "XRP Hasn’t Entered A Bear Market Yet; Analyst Shares Why",
@@ -3234,6 +3187,76 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55914734,
+    "published": 1765960995000,
+    "title": "SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces",
+    "body": "Screenshots of an email shared online purportedly show founder Yida Gao stepping down as managing director of Shima Capital and outlining plans for an orderly wind-down of the fund.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55915325,
+    "published": 1765962047000,
+    "title": "Crypto Exchange Hashkey’s Shares Flat In Hong Kong Trading Debut",
+    "body": "Backed by Chinese billionaire Lu Weiding, Hashkey’s $207 million Hong Kong IPO comes amid market volatility, with bitcoin sinking to an eight-month low.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Asia|/asia|Asia|/asia|Business|/business|Forbes Digital Assets|/digital-assets|Money|/money|Markets|/markets|Editors' Pick|editors-pick|premium",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }
