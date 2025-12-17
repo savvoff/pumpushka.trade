@@ -1,104 +1,5 @@
 [
   {
-    "id": 55892078,
-    "published": 1765920157000,
-    "title": "Elizabeth Warren Sounds Alarm on Trump's Crypto Dealings, PancakeSwap",
-    "body": "Senator Elizabeth Warren is seeking answers on what she views as the potential national security risks of decentralized crypto exchanges.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55892531,
-    "published": 1765920151000,
-    "title": "FDIC Approves Thiel-Backed Bank for Deposit Insurance Coverage",
-    "body": "The Federal Deposit Insurance Corp. gave the nod for Erebor Bank N.A. to receive deposit insurance coverage, a key step forward for the crypto-oriented lender as the Trump administration further embraces digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55893122,
-    "published": 1765922431000,
-    "title": "XRP Falls Below $2 As $721 Million Profit-Take Hits Market",
-    "body": "One of the cleaner tells in crypto is when the old supply decides it’s time. Not “made a quick 20% and clipped it” time — years old. That’s basically what Glassnode researcher CryptoVizArt flagged after an XRP wallet aged roughly 5–7 years (with a cost basis around $0.40) realized more than $721.5 million in profit on Dec. 11. A single wallet doesn’t “break” a market on its own. But the timing is the point: this wasn’t profit-taking into a rip. It landed while XRP was showing weakness right at the $2.0 key level. Related Reading: XRP Dominates Institutional Inflows, But Why Is Price Still Low? CryptoVizArt wrote via X: “On December 11th, a 5-7 year old XRP wallet address (with a cost basis of $0.4) realized over $721.5M in profit! A rare sizable profit-taking while the price shows weakness right at the $2.0 key level.” What This Means For XRP Price That $2 handle matters for the usual reasons — round number, obvious chart magnet, psychological line in the sand — but also because the market’s been treating it like a live wire lately. Since early December last year, the support zone between $2 and $1.90 has been tested endless times. XRP bulls always managed to close above the zone on the weekly timeframe. So what does the $721M print mean? It’s a reminder that supply overhang isn’t theoretical. A 5–7 year wallet taking profits can be read as “de-risking,” sure. But in tape terms, it’s also distribution that the market has to absorb while price is already leaning. If bids are deep, it’s a shrug. If bids are thin, it turns $2 into a trapdoor. And right now, “thin” is kind of the vibe across crypto, not just XRP. Related Reading: Why XRP Isn’t Reacting to Major Institutional and Regional Developments CryptoVizArt’s broader framing from Dec. 13 is that the $80K–$90K Bitcoin consolidation is producing stress “comparable to late Jan 2022.” Via X, he wrote: “The current $80K–$90K consolidation range is generating a magnitude of stress comparable to late January 2022, with Relative Unrealized Loss approaching ~10% of market cap. This places the market in a regime where liquidity is constrained, and sensitivity to macro shocks is elevated, yet still below the levels typically associated with full bear-market capitulation.” That backdrop matters because alts don’t trade in a vacuum. When the whole complex is jumpy, big sell events at key levels have more punch. Not because every XRP holder suddenly panics, but because market-makers and discretionary traders tend to pull risk at the same time. Spreads widen, depth thins, and “one-off” flows start to move price more than they should. Still, it cuts both ways. A single, chunky realization can also be the market clearing a problem — old supply exiting, new demand stepping in, the kind of transfer that (eventually) makes a base sturdier. The trick is whether $2 holds while that handoff happens. At press time, XRP was trading at $1.89, which could make Sunday’s weekly close another extremely important event. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|xrp|xrp news|XRP On-Chain Data|XRP Price|XRP price news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55893973,
     "published": 1765924015000,
     "title": "Spot Bitcoin ETFs see $358M outflow: Are investors abandoning BTC?",
@@ -3193,6 +3094,175 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55946471,
+    "published": 1766006787000,
+    "title": "Santa Rally Hopes Fade as Bitcoin Jumps to $90K, Then Falls Even Harder",
+    "body": "Bitcoin's brief rally to $90K quickly turned sour, dropping to $85K as traders lose faith in a Santa rally.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55946130,
+    "published": 1766004890000,
+    "title": "Moody’s Stablecoin Rating Proposal Aims to Assess Liquidity Risk",
+    "body": "Moody’s Ratings is set to adopt a new stablecoin rating system that could redefine how investors evaluate the $300 billion market.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NYS:MCO",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 55946900,
+    "published": 1766007034000,
+    "title": "California's Newsom pokes Trump, flagging convicted crypto allies CZ, Ross Ulbricht",
+    "body": "Potential 2028 presidential candidate Gavin Newsom again goaded the president with a website highlighting ties to those with criminal records, including some in crypto.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Gavin Newsom|California|Donald Trump|Changpeng \"CZ\" Zhao|Ross Ulbricht|BitMEX|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55947658,
+    "published": 1766008807000,
+    "title": "UK Crypto Ownership Takes Biggest Hit Since 2021, Regulator Says",
+    "body": "According to new research commissioned by the Financial Conduct Authority, the share of UK adults who hold cryptocurrencies has fallen to 8% in 2025, down from 12% a year earlier. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund Survey Shows Smaller Numbers Holding Crypto Fieldwork for the FCA study ran from 5th August to 2nd September 2025, using a YouGov online panel to collect a nationally representative sample of 2,353 interviews plus a boosted sample of people who own or previously owned crypto. Awareness of cryptocurrencies remains high at 91%, even as fewer people report owning them. The drop marks the first fall in overall ownership in the last four years, although ownership is still about double the level recorded in 2021. That suggests some people who held small amounts have pulled back while a core of larger holders remains active. Average Holdings Have Increased Reports have disclosed that the mix of holdings has shifted upward. The proportion of holders with crypto worth between £1,001 and £5,000 rose to over 20%, and those with holdings of £5,001 to £10,000 increased to around 10%. At the same time, reported small holdings under £100 have declined. Many users also reported net gains in 2025, with a majority saying their portfolios rose in value over the year. Among people who still hold crypto, Bitcoin is the most common asset at 57%, followed by Ether at 43%. Other tokens are far less widely held, though Solana registers with about 21% of holders. These figures point to concentration in a few large names even as overall participation shrinks. Regulators Move To Tighten Rules The FCA published this research as part of a broader push to bring the sector under clearer rules. The regulator has launched consultations on proposals covering trading platforms, market safeguards and rules for staking, lending and custody. Reports show the consultation process is part of a wider government plan that aims to start formal regulation of cryptoassets by October 2027. What This Means For Markets And Consumers Traders and platforms will likely watch these trends closely. A smaller base of retail owners can mean less retail-driven volatility, but it can also reduce everyday familiarity with crypto in the wider public. Related Reading: 5,606 Bitcoin: Lightning Network Sets Fresh Capacity Record At the same time, higher average portfolio sizes raise the stakes for consumer losses when markets wobble. The FCA’s work on clearer rules comes amid growing government attention to market integrity and consumer protection. In short, fewer Britons now report owning crypto, yet those who remain tend to hold larger sums and favor the top coins. The figures from the FCA suggest a market that is thinning at the edges while concentration and regulatory scrutiny rise. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|bitcoin|btcusd|crypo|cryptoassets|digital currency|fca|UK crypto",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55947919,
+    "published": 1766009045000,
+    "title": "Coinbase gets nod from Indian regulators to acquire CoinDCX stake",
+    "body": "The regulatory approval followed an October notice from Coinbase saying that the exchange would be investing an undisclosed amount into the Indian exchange.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
