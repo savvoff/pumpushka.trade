@@ -1,180 +1,5 @@
 [
   {
-    "id": 55936847,
-    "published": 1765992480000,
-    "title": "Polkadot's DOT drops 3% to $1.83 as crypto markets reverse lower",
-    "body": "Strong selling pressure overwhelmed positive Coinbase integration news as the psychological $1.90 level failed to hold.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 21,
-        "NAME": "DOT",
-        "CATEGORY": "DOT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55936560,
-    "published": 1765992057000,
-    "title": "BNB drops nearly 3% to as bitcoin whipsaw and tech selloff hit crypto market",
-    "body": "The decline was accompanied by sharp volatility in bitcoin and weakness in U.S. tech stocks, suggesting a return of risk-off sentiment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|BNB|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55938354,
-    "published": 1765994449000,
-    "title": "Bitcoin Structure Turns Bearish As Structural Indicators Flip Negative",
-    "body": "Bitcoin is struggling to reclaim the $90,000 level as it continues to test critical demand around the $86,000 zone. After weeks of corrective price action, bulls are finding it increasingly difficult to build a convincing case for trend continuation. Related Reading: XRP Liquidity Dries Up: Futures Buy Volume On Binance Falls from $5.8B to $250M Momentum has faded, upside attempts have been rejected, and market confidence is weakening. As a result, a growing number of analysts are beginning to openly discuss the possibility that Bitcoin is transitioning into a broader bear market phase rather than a temporary pullback within a larger uptrend. This shift in narrative is supported by structural data. In a recent analysis, Axel Adler highlights that Bitcoin’s price action is now aligned with a clear deterioration in market structure. His chart, which combines a composite Structure Shift signal with a Donchian Channel, shows that the indicator has decisively moved into negative territory. The Structure Shift composite ranges from -1 to +1, with values below zero signaling bearish regime dominance. Currently, the signal sits near -0.5, a level historically associated with sustained downside pressure rather than short-lived corrections. At the same time, Bitcoin price has dropped to the lower boundary of the 21-day Donchian Channel and is hovering just above the $85,000 support area. Together, these signals suggest that the market is operating in a risk-off environment, where downside risks remain elevated unless structure improves meaningfully. Bitcoin Structure Confirms Bearish Regime Adler notes that the current position of the Structure Shift composite signal confirms Bitcoin has firmly established itself within a bearish structural zone. With the indicator sitting below zero, the market is no longer in a neutral or transitional phase but operating under sustained downside conditions. According to this framework, the primary trigger for improvement would be a decisive recovery of the composite signal back above the zero threshold, ideally while price continues to hold support within the Donchian Channel. Without that shift, any short-term bounce risks remaining corrective rather than trend-changing. This bearish structure is reinforced by Bitcoin’s Bull-Bear market structure index, which focuses on derivatives dynamics through fast and slow regime components. The latest data shows the bullish component collapsing to just 5%, an extremely low reading that reflects the near absence of constructive long-side momentum. At the same time, the fast bearish component has moved deeper into negative territory, signaling rising seller pressure driven primarily by the futures market. This configuration highlights a critical imbalance. Short-term momentum is firmly controlled by bears, while spot demand has so far proven insufficient to absorb derivatives-led selling pressure. For conditions to improve, the bullish component of the index would need to recover meaningfully, signaling renewed participation from buyers. Taken together, both indicators point to the same conclusion: Bitcoin has undergone a local structural shift into bearish territory. The dominant risk remains continued downside pressure driven by derivatives, especially in the absence of strong spot accumulation. Related Reading: Who Really Sold The Dip? On-Chain Data Exposes Bitcoin’s True Sellers Bitcoin Price Tests Critical Support as Downtrend Persists Bitcoin continues to trade under clear downside pressure. The price now hovers around the $86,500 level after failing to reclaim higher resistance zones. The chart highlights a decisive breakdown below the short- and medium-term moving averages. With BTC trading well beneath the 50-day and 100-day averages. These levels, which previously acted as dynamic support during the uptrend, have now flipped into resistance. Reinforcing the bearish market structure. The most notable technical development is Bitcoin’s interaction with the 200-day moving average, shown in red. Price has briefly tested this long-term support but remains fragile, with follow-through buying notably absent. Historically, sustained trading below faster-moving averages while compressing near the 200-day often signals either a prolonged consolidation phase or the risk of an additional leg lower if demand fails to appear. Related Reading: Why Bitcoin’s Quiet Price Action May Be ‘Dangerous’ – IFP Signals Rising Structural Risk Structurally, Bitcoin remains in a lower-high, lower-low sequence since the October peak near $125K. As long as price remains capped below the $90K–$95K resistance zone, downside risks persist. For bulls to regain control, BTC must first stabilize above current demand and reclaim key moving averages. Signaling that sellers are losing dominance. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin bearish indicator|Bitcoin market structure|Bitcoin news|Bitcoin On-Chain Data|Bitcoin Structure|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55937810,
-    "published": 1765993727000,
-    "title": "Senators Introduce Bipartisan Bill to Establish Federal Crypto Scam Taskforce",
-    "body": "The federal taskforce would have to issue a report within one year of forming, outlining its strategy for combating crypto fraud.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55939047,
-    "published": 1765995387000,
-    "title": "How Banks Learned To Stop Worrying And Love Stablecoins",
-    "body": "Banks worry stablecoins will drain deposits. Data says they won't. The real value is replacing settlement rails built on duct tape and COBOL with a dollar that works.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Investing|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55940910,
     "published": 1765998026000,
     "title": "Mounting Sell Pressure Hits Ethereum as On-Chain Activity Falls to Seven-Month Lows",
@@ -3135,6 +2960,333 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55995261,
+    "published": 1766078912000,
+    "title": "MEV trading returns to court in Pump.fun class-action lawsuit",
+    "body": "The lawsuit against the memecoin launch platform Pump.fun, Solana Labs, the Solana Foundation and Jito was amended to include new evidence over MEV trading practices.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55995766,
+    "published": 1766079967000,
+    "title": "Bitcoin bulls foiled again as price tumbles back to $86,000, giving up CPI gains and more",
+    "body": "Far softer than expected inflation numbers Thursday morning had markets racing early, but some are questioning the data.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Market Wrap|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55995483,
+    "published": 1766078793000,
+    "title": "Bitcoin Volatility Rises Ahead of $23 Billion Options Expiration",
+    "body": "Options are showing that Bitcoin is heading into the final weeks of 2025 under intense pressure, with around $23 billion in contracts set to expire next Friday that threaten to amplify already-elevated volatility.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55995435,
+    "published": 1766078635000,
+    "title": "NYSE Owner Is Said in Talks to Invest in Crypto Firm MoonPay",
+    "body": "Intercontinental Exchange Inc., owner of the New York Stock Exchange, is in talks to invest in crypto payments firm MoonPay Inc. as part of a funding round, people familiar with the matter said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NYS:ICE",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55996324,
+    "published": 1766080805000,
+    "title": "XRP Enters Historical Window That Has Previously Led To Triple-Digit Rallies",
+    "body": "XRP’s weekly chart has entered a technical zone that has repeatedly acted as a turning point in recent years. A recent analysis shared on the social media platform X highlights a recurring relationship between XRP’s price behavior and its 50-week simple moving average, a long-term trend indicator closely watched by traders. Instead of focusing on XRP’s short-term volatility, which has been bearish, the analysis zeroes in on how extended periods below this moving average have coincided with the end of downside phases and the beginning of rally expansions. The 50-Week SMA And Why It Matters For XRP Cycles Technical analysis of XRP’s price action on the weekly candlestick chart, which was posted on the social media platform X by Steph, reveals a repeating cycle around the 50-week simple moving average (SMA). Related Reading: Here’s What To Expect With The XRP Price Trading Under $2 This analysis is interesting because the 50-week simple moving average functions as a structural divider between bearish compression and bullish continuation on higher timeframes. In XRP’s case, previous cycles show that brief dips below this level have not been as significant as sustained stretches beneath it. The XRP price chart below tracks how long XRP stayed below the 50-week SMA before a change in momentum. In the first instance in 2017, XRP spent roughly 10 weekly candles, equivalent to about 70 days, under the moving average before staging a sharp upside move. A similar pattern appeared in the 2021 cycle, where the duration was shorter, with 49 days, but still acted as an inflection point on the weekly chart. However, the most aggressive move highlighted on the chart came in the 2024 period, where XRP traded below the 50-week SMA for about 84 days before posting a much larger rebound of about +850%. XRP Sitting Inside The Same Window Once Again According to the analysis, XRP is currently approaching about seventy days below the 50-week SMA, placing it squarely within the same historical window observed in prior cycles. Particularly, Steph noted that XRP has now spent roughly 70 days below the 50-week SMA again, and this places an outlook on what to look for in the next price action. Related Reading: Crypto Analyst Predicts How Low The XRP Price Will Go Before Bouncing Resulting price action in the past has seen XRP rallying anywhere from 70% in 2021 to 850% in 2024. If XRP resolves to the upside again from the current structure, history suggests the initial signal would be a decisive weekly reclaim of the 50-week SMA, followed by continuation rather than an immediate rejection. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|Simple Moving Average|SMA|Steph|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55996087,
+    "published": 1766080434000,
+    "title": "Bitcoin's 'realized cap' holds at record high over $1 trillion, casting doubt on four-year cycle",
+    "body": "A very supportive macro backdrop is being ignored for now, said Bitwise's Andre Dragosch.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Glassnode|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55996718,
+    "published": 1766081463000,
+    "title": "SEC Says Third-Party Bitcoin Mining Services Are Securities Offerings in New Lawsuit",
+    "body": "The SEC charged a Philadelphia-based Bitcoin mining entrepreneur with running an illegal securities scheme and misappropriating over $48 million of customer funds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55996814,
+    "published": 1766081278000,
+    "title": "SoFi rolls out US dollar stablecoin issued by bank subsidiary",
+    "body": "Issued by SoFi Bank, the dollar-backed token is designed for payments and settlement across banks, fintechs and enterprise platforms.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 55997153,
+    "published": 1766082159000,
+    "title": "ECB’s Christine Lagarde shifts focus to digital euro rollout after holding rates",
+    "body": "With technical and preparatory work complete, the ECB pressed lawmakers to move quickly on Europe’s public digital currency amid global stablecoin concerns.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|ECB|European Central Bank|Christine Lagarde|Digital Euro|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       }
     ]
   }
