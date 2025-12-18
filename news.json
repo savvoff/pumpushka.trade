@@ -1,303 +1,5 @@
 [
   {
-    "id": 55921607,
-    "published": 1765971000000,
-    "title": "Crypto Markets Today: Bitcoin drifts lower as bearish trend persists",
-    "body": "Bitcoin slipped overnight, dragging the broader crypto market lower as traders remained cautious with few external cues to provide direction.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Markets|market analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55921421,
-    "published": 1765970682000,
-    "title": "How China’s strengthening yuan could support bitcoin prices",
-    "body": "The yuan has rise to its highest in over two months against the dollar.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|China|Yuan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55922903,
-    "published": 1765972852000,
-    "title": "5,606 Bitcoin: Lightning Network Sets Fresh Capacity Record",
-    "body": "Lightning Network capacity hit a new high this week as major exchanges put more Bitcoin into off-chain channels, boosting the network’s total liquidity and changing how users move BTC. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund Exchange Support Drives Capacity According to reports, the Lightning Network’s public capacity climbed to about 5,606 BTC, with some trackers briefly showing a peak near 5,637 BTC. That is a clear uptick from earlier levels and marks the highest recorded total so far. Exchanges including Binance and OKX have been named as contributors that added Bitcoin to Lightning channels, and other platforms such as Kraken and Bitfinex are expanding their support as well. These deposits are aimed at speeding up deposits and withdrawals and cutting fees for customers. Network Activity Vs. Public Nodes Based on reports, that increase in capacity has not been matched by a big rise in the number of public nodes or channels. Public node counts sit near 14,940, while public channels are roughly 48,678. In other words, more Bitcoin is available inside the network, but the number of hands handling traffic has not jumped in the same way. Some of this extra liquidity is concentrated in larger, custodial channels run by exchanges, which can move big sums without creating many new public routes. That makes on-chain metrics a bit harder to read. Transaction counts and on-chain fee savings do show real user benefits, even when the node graph looks stable. A separate figure that shows real usage is the share of exchange traffic routed over Lightning. Based on reports, one exchange has routed around 15% of its Bitcoin transactions via Lightning rails after adopting Lightning integrations, pointing to meaningful operational changes at major platforms. New Use Cases And Funding Funding and protocol work are following capacity growth. Tether led a round that raised about $8 million for a startup focused on payments over Lightning, indicating interest in stablecoin flows on the network. Announcing Taproot Assets v0.7, now with reusable addresses, a fully auditable asset supply, and larger, more reliable transactions. ✅ With this release, we are laying the foundation for trillions of dollars to flow on bitcoin and Lightning. 💸 Read more below. Upgrade today! — Lightning Labs⚡️🌐 (@lightning) December 16, 2025 Protocol upgrades — including work around Taproot-related asset handling and reliability improvements — are also being rolled out to support more varied payments and token types. These developments point to Lightning being used for things beyond tiny tips: remittances, merchant payments, and stablecoin transfers are being tested more widely. Related Reading: TechCrunch Founder Names XRP Among His Largest Crypto Positions Market watchers say this mix of exchange liquidity, developer upgrades, and rising on-platform usage could make Lightning a more practical rail for everyday BTC movement. Some critics warn that heavier reliance on custodial channels raises centralization risks and reduces the visibility of true peer-to-peer routing. Others note that improved user experience, lower costs, and faster finality are what ordinary users will notice first. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|Lightning network",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55923368,
-    "published": 1765973561000,
-    "title": "Norway's sovereign wealth fund supports Metaplanet bitcoin plan ahead of EGM vote",
-    "body": "Norges Bank, which holds a 0.3% stake in Metaplanet voted in favor of for all five proposals ahead of the Dec. 22 EGM.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|MetaPlanet|Bitcoin News|Norway|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55923295,
-    "published": 1765973349000,
-    "title": "Indian MP Pushes Tokenization Bill to Democratize Investment Access for the Middle Class",
-    "body": "A new parliamentary push seeks to use tokenization to open high-value assets to India’s middle class through blockchain-based ownership.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 55923391,
-    "published": 1765973320000,
-    "title": "Bitcoin price at ‘critical’ point as whale moves $348M BTC to exchanges",
-    "body": "A whale moved 4,000 Bitcoin to Binance, sparking fresh fears of a deeper BTC price drop if the $81,500 support level is lost.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55924115,
-    "published": 1765974546000,
-    "title": "Solana tests quantum-resistant transactions in new Project Eleven pilot",
-    "body": "Solana has partnered with a post-quantum security company to test quantum-resistant technology on a Solana testnet, claiming to offer a scalable end-to-end solution.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55923759,
-    "published": 1765973871000,
-    "title": "CAR’s crypto push fueled ‘state capture’ by elites, criminal networks: Report",
-    "body": "A new report warns that the Central African Republic’s crypto push favored elites and exposed the country to foreign criminal networks, rather than boosting financial inclusion.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55925349,
     "published": 1765976400000,
     "title": "Moon Pursuit Capital launches $100 million market-neutral crypto fund",
@@ -3229,6 +2931,170 @@
         "ID": 25,
         "NAME": "EXCHANGE",
         "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55981950,
+    "published": 1766059083000,
+    "title": "ETHGas raises $12M as Buterin spotlights onchain gas futures",
+    "body": "Ethereum blockspace trading platform ETHGas announced a $12 million raise shortly after ETH co-founder Vitalik Buterin endorsed the idea, promising 50ms transaction times.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55981561,
+    "published": 1766058608000,
+    "title": "Digital Asset Treasuries Draw In $2.6B Amid Crypto Market Uncertainty",
+    "body": "Inflows to Bitcoin and Ethereum DATs hit a seven-week high, absorbing over $2.6 billion in the two weeks after the Fed rate cut.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55982115,
+    "published": 1766059538000,
+    "title": "Micron crushes earnings with BTC buoyant above $87,000",
+    "body": "Blowout Micron results reignite AI optimism, lifting tech futures and stabilising bitcoin even as parts of the AI equity complex remain under pressure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|AI|Coreweave|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55983238,
+    "published": 1766061019000,
+    "title": "Bitcoin Just Entered Extreme Oversold Levels And Analysts Predict New ATH Targets",
+    "body": "Bitcoin (BTC) has entered an extreme oversold phase, with momentum indicators dropping to levels that historically signal market exhaustion and a trend reversal. Researchers tracking macro conditions and long-term price behavior say that the current drawdown reflects a reset in positioning, not the end of the bull market. Based on past recovery patterns, the analyst believes that Bitcoin could soon forge a path toward a new all-time high. Bitcoin Enters Extreme Oversold Territory Thomas Lee, Co-founder and Chief Investment Officer (CIO) of Fundstrat Capital, has flagged Bitcoin’s latest market condition as a key technical development. He pointed to data from Bittel Julien, head of macro research at Global Macro Investor, which highlights how deeply oversold Bitcoin has become within the current cycle and the cryptocurrency’s potential to reach a new ATH. Related Reading: Why This Week Could Be Transformational For The XRP Price In his post on X, Lee publicly commended Julien’s analysis, emphasizing that historically extreme oversold conditions in BTC have often been followed by meaningful bounces. Julien, who also shared his report on X this Wednesday, explained that his analysis responds to frequent requests for updates on a long-running market model that tracks Bitcoin’s behavior following major momentum breakdowns. According to him, the model examines BTC’s average price path after the Relative Strength Index (RSI) falls below 30, a level widely considered to indicate extreme oversold conditions. The analyst stated that Bitcoin’s recent price action has closely followed technical historical patterns, provided the broader bull market structure remains intact. The accompanying chart compares current Bitcoin price behavior with the average historical trajectory observed after the last five instances in which the cryptocurrency entered oversold territory. The point at which RSI declines below 30 is marked as “time zero.” In previous cycles, this moment typically followed a period of stabilization and a strong upward recovery over the following weeks and months. Based on historical averages, Julien sees a potential path toward new all-time highs if Bitcoin continues to track past recovery patterns. While the market researcher cautions that the chart is not perfect, he argues that it remains a useful analytical framework, particularly if the four-year cycle thesis continues to play out. BTC Cycle Could Extend Into 2026 As 4-Year Pattern Breaks Julien’s analysis also suggests that the current Bitcoin cycle could extend well into 2026 and challenge the relevance of the traditional four-year cycle thesis. According to the market researcher, the BTC cycle has never been driven by halving events, contrary to what the broader crypto community believes. Instead, he stated that the cycle is fueled by public debt refinancing, which was delayed by a year after COVID. Related Reading: Private Investment Firm Shares Why XRP Is Their Leading Investment He highlighted that Bitcoin’s four-year cycle is now officially broken due to an increase in the weighted average maturity of the debt term structure. He also noted that liquidity conditions and ongoing interest expense monetization, which far exceed GDP growth, support a prolonged cycle. Furthermore, Julien emphasized that Bitcoin’s price bases usually take time to form and often include periods of volatility before a significant upward move occurs. The market researcher explained that his analysis was not a signal of an immediate market decline but rather a framework that assumes the bull market is still firmly in place. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
