@@ -1,75 +1,5 @@
 [
   {
-    "id": 55914734,
-    "published": 1765960995000,
-    "title": "SEC lawsuit puts Shima Capital’s future in question as wind-down message surfaces",
-    "body": "Screenshots of an email shared online purportedly show founder Yida Gao stepping down as managing director of Shima Capital and outlining plans for an orderly wind-down of the fund.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 55915325,
-    "published": 1765962047000,
-    "title": "Crypto Exchange Hashkey’s Shares Flat In Hong Kong Trading Debut",
-    "body": "Backed by Chinese billionaire Lu Weiding, Hashkey’s $207 million Hong Kong IPO comes amid market volatility, with bitcoin sinking to an eight-month low.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Asia|/asia|Asia|/asia|Business|/business|Forbes Digital Assets|/digital-assets|Money|/money|Markets|/markets|Editors' Pick|editors-pick|premium",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
     "id": 55916594,
     "published": 1765963848000,
     "title": "The Bearish Structure That Puts Bitcoin Price At $92,550, And Then $82,000",
@@ -117,41 +47,6 @@
     ]
   },
   {
-    "id": 55916170,
-    "published": 1765963066000,
-    "title": "Hyperliquid governance vote aims to permanently sideline $1B Assistance Fund",
-    "body": "The proposal seeks a binding social consensus that the funds will never be accessed through future protocol upgrades.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55917832,
     "published": 1765965418000,
     "title": "Bitcoin institutional buys flip new supply for the first time in 6 weeks",
@@ -171,35 +66,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55920262,
-    "published": 1765961514000,
-    "title": "Memecoin boom turns into capitulation one year after $150 billion market peak",
-    "body": "Daily memecoin volume slumped to just under $5 billion this month after surging more than 760% to near $87 billion in 2024 as interest in the pop-culture crypto tokens evaporated.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Markets|memecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -3141,6 +3007,70 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55973301,
+    "published": 1766046776000,
+    "title": "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
+    "body": "Spot Bitcoin ETFs logged their strongest inflows in over a month amid renewed institutional demand tied to shifting macro expectations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55975053,
+    "published": 1766049349000,
+    "title": "JPMorgan’s tokenized dollars are quietly rewiring how Wall Street moves money",
+    "body": "The Wall Street titan’s recent embrace of a public blockchain is a harbinger of things to come.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Coinbase|JPMorgan|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
