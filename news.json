@@ -1,145 +1,5 @@
 [
   {
-    "id": 55946471,
-    "published": 1766006787000,
-    "title": "Santa Rally Hopes Fade as Bitcoin Jumps to $90K, Then Falls Even Harder",
-    "body": "Bitcoin's brief rally to $90K quickly turned sour, dropping to $85K as traders lose faith in a Santa rally.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55946900,
-    "published": 1766007034000,
-    "title": "California's Newsom pokes Trump, flagging convicted crypto allies CZ, Ross Ulbricht",
-    "body": "Potential 2028 presidential candidate Gavin Newsom again goaded the president with a website highlighting ties to those with criminal records, including some in crypto.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Gavin Newsom|California|Donald Trump|Changpeng \"CZ\" Zhao|Ross Ulbricht|BitMEX|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55947658,
-    "published": 1766008807000,
-    "title": "UK Crypto Ownership Takes Biggest Hit Since 2021, Regulator Says",
-    "body": "According to new research commissioned by the Financial Conduct Authority, the share of UK adults who hold cryptocurrencies has fallen to 8% in 2025, down from 12% a year earlier. Related Reading: Ethereum Meets Wall Street: JPMorgan Rolls Out Tokenized Fund Survey Shows Smaller Numbers Holding Crypto Fieldwork for the FCA study ran from 5th August to 2nd September 2025, using a YouGov online panel to collect a nationally representative sample of 2,353 interviews plus a boosted sample of people who own or previously owned crypto. Awareness of cryptocurrencies remains high at 91%, even as fewer people report owning them. The drop marks the first fall in overall ownership in the last four years, although ownership is still about double the level recorded in 2021. That suggests some people who held small amounts have pulled back while a core of larger holders remains active. Average Holdings Have Increased Reports have disclosed that the mix of holdings has shifted upward. The proportion of holders with crypto worth between £1,001 and £5,000 rose to over 20%, and those with holdings of £5,001 to £10,000 increased to around 10%. At the same time, reported small holdings under £100 have declined. Many users also reported net gains in 2025, with a majority saying their portfolios rose in value over the year. Among people who still hold crypto, Bitcoin is the most common asset at 57%, followed by Ether at 43%. Other tokens are far less widely held, though Solana registers with about 21% of holders. These figures point to concentration in a few large names even as overall participation shrinks. Regulators Move To Tighten Rules The FCA published this research as part of a broader push to bring the sector under clearer rules. The regulator has launched consultations on proposals covering trading platforms, market safeguards and rules for staking, lending and custody. Reports show the consultation process is part of a wider government plan that aims to start formal regulation of cryptoassets by October 2027. What This Means For Markets And Consumers Traders and platforms will likely watch these trends closely. A smaller base of retail owners can mean less retail-driven volatility, but it can also reduce everyday familiarity with crypto in the wider public. Related Reading: 5,606 Bitcoin: Lightning Network Sets Fresh Capacity Record At the same time, higher average portfolio sizes raise the stakes for consumer losses when markets wobble. The FCA’s work on clearer rules comes amid growing government attention to market integrity and consumer protection. In short, fewer Britons now report owning crypto, yet those who remain tend to hold larger sums and favor the top coins. The figures from the FCA suggest a market that is thinning at the edges while concentration and regulatory scrutiny rise. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|bitcoin|btcusd|crypo|cryptoassets|digital currency|fca|UK crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55947919,
-    "published": 1766009045000,
-    "title": "Coinbase gets nod from Indian regulators to acquire CoinDCX stake",
-    "body": "The regulatory approval followed an October notice from Coinbase saying that the exchange would be investing an undisclosed amount into the Indian exchange.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55948880,
     "published": 1766010659000,
     "title": "Texas Doubles Bitcoin Buy With Second $5 Million, Bringing Holdings To $10 Million",
@@ -3445,6 +3305,351 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56003677,
+    "published": 1766092917000,
+    "title": "NYSE parent in talks to invest in crypto company MoonPay: Report",
+    "body": "The discussions follow Intercontinental Exchange's $2 billion investment in prediction platform Polymarket in October.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004362,
+    "published": 1766094415000,
+    "title": "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
+    "body": "Solana tumbled below $120 to its weakest price since April, while SUI, DOGE and ADA also fell sharply.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Market Wrap|Solana News|Altcoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004020,
+    "published": 1766093637000,
+    "title": "SOL price action lags the wider altcoin market: Is Solana’s heyday over?",
+    "body": "SOL falls behind multiple altcoin competitors as its onchain activity, fee and DApp revenues slump. Cointelegraph explains why.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004807,
+    "published": 1766095248000,
+    "title": "Federal Reserve Revamps Bank Crypto Rules, Opening New Channels for Digital Asset Trading",
+    "body": "The U.S. Federal Reserve has taken a notable step in reshaping how banks under its supervision can engage with crypto, reversing guidance introduced in 2023 that had sharply limited such activities. Related Reading: XRP Risks Double-Top Crash Toward $0.40, Peter Brandt Warns The decision reflects a broader reassessment inside the central bank about how regulation should adapt to financial innovation, especially as digital assets continue to intersect with traditional banking infrastructure. Under the earlier framework, uninsured state-chartered banks were required to follow the same constraints as federally insured institutions in order to remain under Federal Reserve supervision. That approach effectively barred some crypto banks from accessing core payment systems or Federal Reserve membership. BTC's price trends to the downside on the daily chart. Source: BTCUSD on Tradingview What the Policy Shift Changes for Banks The new guidance establishes a formal pathway for both insured and uninsured banks supervised by the Federal Reserve to pursue certain innovative activities, including those related to cryptocurrencies. Institutions will still be required to meet supervisory and risk-management standards, but they will no longer be automatically excluded based on their business models. For uninsured banks, the implications are significant. Access to Federal Reserve membership would allow direct settlement through central bank payment systems rather than reliance on intermediary banks. This idea could lower operational frictions for crypto custody, settlement, and related services, potentially expanding the role of banks in digital asset markets without changing existing safety and soundness expectations. Custodia Case Highlights Regulatory Tensions The policy reversal has renewed attention on Custodia Bank, a crypto-focused institution whose application for a Federal Reserve master account was denied in part due to the now-rescinded guidance. Custodia CEO Caitlin Long has argued that the 2023 policy effectively blocked lawful access to the Fed’s infrastructure and welcomed its withdrawal as a correction of past regulatory overreach. Not all policymakers agree. Federal Reserve Governor Michael Barr dissented from the decision, warning that loosening the framework could undermine a level competitive playing field and encourage regulatory arbitrage. Michael Barr’s position highlights the ongoing debate within regulatory circles over how to strike a balance between innovation and financial stability.r Broader Implications for Crypto Markets While the Fed’s move does not directly change how cryptocurrencies such as Bitcoin or Ethereum trade, it may influence market structure over time. Easier access for banks could support deeper institutional participation, greater liquidity, and expanded custody and settlement options. Related Reading: Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst For now, the shift signals a more flexible regulatory posture, one that acknowledges the rapid evolution of digital asset markets and the banks that seek to serve them. Cover image from ChatGPT, BTCUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|bitcoin price|btc|btc price|btcusd|crypto",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004847,
+    "published": 1766095146000,
+    "title": "Coinbase appoints ex-UK finance minister George Osborne to chair advisory council",
+    "body": "Osborne began advising Coinbase in 2024 and has been critical of the UK government's lack of robust digital asset regulations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004463,
+    "published": 1766094412000,
+    "title": "Brazilian stock exchange to launch tokenization platform and stablecoin",
+    "body": "A representative from Brazil's stock exchange, B3, said the stablecoin would be “a tool to enable trading in tokens,\" which it planned to offer in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 56004639,
+    "published": 1766094300000,
+    "title": "Charles Hoskinson Talks Trump's Impact on Crypto",
+    "body": "Charles Hoskinson comments on Trump's meme coin, the president's impact on crypto, and how the government ruined the super cycle:“The minute that Trump Coin got launched. It went from ‘crypto is bipartisan’ to ‘crypto = Trump = bad = corruption.'\"",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56005074,
+    "published": 1766095656000,
+    "title": "Charles Hoskinson: Trump Crypto Ventures Have Been 'Frustrating'—But Others Won't Talk About It",
+    "body": "The Cardano founder said Trump’s meme coin launch and politicization of crypto hurt the industry’s long-term prospects ahead of the 2026 midterm elections.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56004958,
+    "published": 1766094900000,
+    "title": "Charles Hoskinson Critiques US Government on Crypto Objectivity",
+    "body": "Cardano’s Charles Hoskinson says the U.S. government needs much more rigorous testing when it comes to deciding which cryptocurrencies are considered valuable and which are not.“Why is XRP in the system but not Sui? Why is Solana in the system but not BNB? Can we objectively answer that against some metric?”",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
