@@ -1,127 +1,5 @@
 [
   {
-    "id": 55927292,
-    "published": 1765979100000,
-    "title": "Uniform Labs’ Multiliquid targets structural gap in $35 billion tokenized asset market",
-    "body": "The new protocol offers instant swaps between tokenized money market funds and stablecoins as regulators scrutinize yield-bearing stablecoin models.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Tokenization|Stablecoin|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55928010,
-    "published": 1765980000000,
-    "title": "Agentic Brokerage Viral Launch Signals Trouble For Incumbents",
-    "body": "Public's agentic brokerage announcement drew a flood of customers from Schwab and Fidelity. The switching costs that protected incumbents are evaporating thanks to AI.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55927748,
-    "published": 1765979763000,
-    "title": "Hut 8 stock surges 20% on Fluidstack AI data center deal",
-    "body": "The bitcoin miner deepened its pivot into AI infrastructure with a $7 billion long term lease backed by Google.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Hut 8|AI|Bitcoin News|Google|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55928101,
-    "published": 1765980000000,
-    "title": "New protocol targets redemption delays in $20B tokenized market",
-    "body": "Uniform Labs’ Multiliquid aims to bridge the gap between tokenized funds and stablecoins, targeting liquidity constraints that have slowed institutional adoption.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 55929065,
     "published": 1765981537000,
     "title": "Bitcoin Traders Brace for Bank of Japan Rate Hike Amid Crypto Sell-Off",
@@ -182,47 +60,6 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55928846,
-    "published": 1765981119000,
-    "title": "Solana TVL hits $8.6B six-month lows: Is $80 SOL price next?",
-    "body": "SOL price traded 52% lower than its $255 highs reached on Sept. 18, as onchain data and a bearish pattern suggested that SOL investors risked further losses.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -3212,6 +3049,128 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55985848,
+    "published": 1766064933000,
+    "title": "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
+    "body": "Bitcoin rose above $88,000 on the pleasing news as forecasts had been for inflation to continue to run above 3%.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Inflation|CPI|Breaking News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55986997,
+    "published": 1766066475000,
+    "title": "Bitcoin ETFs Notch $457M Haul, Third-Largest Since October",
+    "body": "Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55986995,
+    "published": 1766066462000,
+    "title": "Fetch.ai Says Its AI Agents Will Overcome Online Retail Barriers Faced by Today’s Tools",
+    "body": "The AI developer claims the system, set to launch in January, allows agents to complete payments with credit cards, stablecoins, and FET tokens.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 116,
+        "NAME": "FET",
+        "CATEGORY": "FET"
+      }
+    ]
+  },
+  {
+    "id": 55986881,
+    "published": 1766066400000,
+    "title": "The UAE Isn’t Just Regulating Tokenization — It’s Building Its Economy Around It",
+    "body": "As other jurisdictions stall in regulatory debate, the UAE is institutionalizing tokenization, moving it to the core of its economic infrastructure, according to MidChains CEO.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Opinion|UAE|Dubai|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
