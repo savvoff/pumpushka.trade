@@ -1,163 +1,5 @@
 [
   {
-    "id": 55903514,
-    "published": 1765944017000,
-    "title": "Why Ethereum Is Chosen As A Settlement Layer For New Money Market Fund",
-    "body": "In a significant milestone for the evolution of on-chain finance, a new money market fund has selected Ethereum as its primary settlement layer toward blockchain-native infrastructure for traditional financial products. This decision reflects growing confidence in ETH security, scalability, ecosystem maturity, and qualities that institutional investors and asset managers increasingly demand when moving regulated financial instruments onto public blockchains. How The New On-Chain Settlement Improves Operational Efficiency The largest money whale in institutional finance just made its biggest move by launching a new money market fund on Ethereum, and it’s coming from J.P. Morgan Asset Management. According to an analyst known as Milk Road on X, the company oversees roughly $4 trillion in client assets, and seeds these funds with $100 million of its own capital before opening them up to the public. This fund is called My On-Chain Net Yield Fund (MONY), which is similar to a normal money market fund. Related Reading: Ethereum Emerges As A Dollar Settlement Powerhouse, Outpacing Traditional Payment Networks – Details It is set to hold assets designed to preserve capital and remain liquid. A key difference between the fund and others is that shares are issued and tracked on ETH using JPMorgan’s Kinexys platform. The feature allows the fund to settle faster, issue and redeem shares continuously, and transfer ownership without waiting on the traditional clearing system. Furthermore, this product is limited to large investors, individuals with at least $5 million investments, and institutions with $25 million, including a $1 million minimum to get started. The risk profile and purpose are familiar, and it’s a safe yield for investors. Meanwhile, for JPMorgan, this is a major operational upgrade offering faster cash transactions, tighter integration with treasury systems, and smoother collateral movement. Larger asset managers are starting by moving the safest, most conservative products on-chain first, because that’s where efficiency gains would show up immediately. “Adoption is accelerating,” Milk Road noted. Why Ethereum Is More Than Just Technology According to AdrianoFeria, the world’s greatest misunderstanding of Ethereum is viewing it solely as a technology. AdrianoFeria has pointed out that ETH is a network of economic actors coordinating around shared rules. It is also a social contract and a system that is designed to enable collaboration in the most adverse situations. Related Reading: Here’s Why Ethereum Emerges As The Global Capital Rails For On-Chain Finance At the core, ETH functions as a global and neutral arbitrator. Over time, it has proven itself to be the most long-standing, reliable, and trustworthy neutral arbitrator in the world. This arbitrator is the most valuable aspect of ETH, and any valuable model must account for it to have a chance of estimating realistic ETH price targets. “If you are stuck with a cash flow-centric valuation for ETH, then it is time to sit down and study the system more deeply, and if you believe cash flow explains most of ETH’s value, you haven’t dug deep enough,” the expert mentioned. Featured image from Adobe Stock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|AdrianoFeria|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|jpmorgan|Milk Road|MONY|My On-Chain Net Yield Fund",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55904068,
-    "published": 1765944772000,
-    "title": "Why XRP’s drop below $1.93 shifts short-term market structure",
-    "body": "The move followed multiple failed attempts to sustain momentum above recent resistance, leaving XRP vulnerable once support levels were tested again.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|XRP News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55904231,
-    "published": 1765945133000,
-    "title": "DOGE exits range as selling pressure builds at key levels",
-    "body": "The $0.1310–$0.1315 zone is now a resistance area, with further downside likely if volume remains high on declines.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55904849,
-    "published": 1765945859000,
-    "title": "SAFE Crypto Act will have scammers shaking in their boots: Crypto lawyer",
-    "body": "Newly proposed legislation could see the US Treasury, FinCEN, the Secret Service, and law enforcement coordinate to catch crypto scammers and fraudsters.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 162,
-        "NAME": "SAFE",
-        "CATEGORY": "SAFE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55905899,
     "published": 1765947610000,
     "title": "Bitcoin, Ethereum Plunge Triggers Near-$600 Million Crypto Long Flush",
@@ -3129,6 +2971,117 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55959693,
+    "published": 1766027901000,
+    "title": "Ethereum Price Continues to Slide—Where Is the Next Support?",
+    "body": "Ethereum price failed to stay above $3,00 0 and declined further. ETH is now consolidating and might soon aim to start a recovery wave if it clears $2,880. Ethereum started a fresh decline below the $2,950 zone. The price is trading below $2,900 and the 100-hourly Simple Moving Average. There is a connecting bearish trend line forming with resistance at $2,920 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move down if it settles below the $2,800 zone. Ethereum Price Dips To New Weekly Lows Ethereum price attempted a fresh increase but struggled above $3,000, like Bitcoin . ETH price dipped below $2,950 and $2,920 to enter a bearish zone. The bears even pushed the price below $2,850. A low was formed at $2,790 and the price is now consolidating losses well below the 23.6% Fib retracement level of the downward move from the $3,175 swing high to the $2,790 low. Ethereum price is now trading below $2,900 and the 100-hourly Simple Moving Average. Besides, there is a connecting bearish trend line forming with resistance at $2,920 on the hourly chart of ETH/USD. If there is another upward move, the price could face resistance near the $2,880 level. The next key resistance is near the $2,920 level and trend line. The first major resistance is near the $2,980 level and the 50% Fib retracement level of the downward move from the $3,175 swing high to the $2,790 low. A clear move above the $2,980 resistance might send the price toward the $3,030 resistance. An upside break above the $3,030 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,120 resistance zone or even $3,150 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,880 resistance, it could start a fresh decline. Initial support on the downside is near the $2,800 level. The first major support sits near the $2,780 zone. A clear move below the $2,780 support might push the price toward the $2,740 support. Any more losses might send the price toward the $2,625 region. The next key support sits at $2,550. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI – The RSI for ETH/USD is now below the 50 zone. Major Support Level – $2,780 Major Resistance Level – $2,920",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55960634,
+    "published": 1766029252000,
+    "title": "Bitcoin’s volatility below Nvidia in 2025 as investor base grew: Bitwise",
+    "body": "Bitwise predicted Bitcoin's volatility will stay below Nvidia's in 2026, citing institutional adoption and ETFs as drivers of the asset’s maturation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55962032,
+    "published": 1766030988000,
+    "title": "Crypto ETPs could see a flood of liquidations by 2027: Analyst",
+    "body": "Many of the crypto ETP applications awaiting SEC approval will launch in 2026, but a lot of those won’t survive beyond 2027, says Bloomberg analyst James Seyffart.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
