@@ -1,426 +1,5 @@
 [
   {
-    "id": 55931730,
-    "published": 1765985297000,
-    "title": "Central African Republic’s Crypto Experiment ‘Riddled With Red Flags,’ Says Report",
-    "body": "The Global Initiative against Transnational Organized Crime said that the CAR president’s embrace of crypto has offered few benefits.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55932243,
-    "published": 1765986100000,
-    "title": "Bitcoin shorts scramble for the exits as BTC climbs",
-    "body": "Bitcoin surged from an intraday low near $86,200 to reclaim $90,000, driven by aggressive spot buying and a wave of short liquidations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|open interest|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55931972,
-    "published": 1765985803000,
-    "title": "Hut 8 and Coinbase outperform as Crypto stocks jump on bitcoin's sudden rally",
-    "body": "Mining stocks, trading platforms, and cryptocurrency infrastructure firms saw significant gains, including Hut 8, Riot Platforms, and Coinbase.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Coinbase|Stocks|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55932966,
-    "published": 1765987228000,
-    "title": "Russia Draws Firm Line on Digital Assets, Keeping Crypto Out of Domestic Payments",
-    "body": "Russia has reiterated its firm stance on crypto, drawing a clear distinction between digital assets and traditional currency. While global debate continues over whether crypto can coexist with national currencies, Russian lawmakers are reinforcing a long-held view. Related Reading: Bitcoin ‘Death Cross’ Panic Returns: History Says It’s A Late Signal Inside the country, payments remain the sole domain of the ruble. The position comes as crypto usage grows worldwide and as Russia experiments with alternative settlement tools for cross-border trade under pressure from sanctions. At the center of the latest comments is Anatoly Aksakov, chair of the State Duma Committee on Financial Markets and a key figure behind Russia’s crypto legislation. Speaking to state media, Aksakov said there is no ambiguity in the law. BTC's price records some gains on the daily chart. Source: BTCUSD on Tradingview Lawmakers Reinforce Ruble-only Payment Rule In Russia, cryptocurrencies such as Bitcoin and Ethereum can be held or traded as investments, but they are not permitted to function as a means of payment in domestic commerce, according to lawmaker Anatoly Aksakov. All payments for goods and services must continue to be settled in rubles. Aksakov’s remarks restate provisions introduced in Russia’s 2020 digital assets law, which removed cryptocurrencies from any form of legal tender. Lawmakers argue that money must be issued and controlled by the state, and private digital currencies do not meet that standard. Officials say there are no plans to soften this stance. The rule applies across retail, online services, and business contracts, closing the door on crypto payments regardless of adoption trends or market conditions. Central Bank Skepticism Shapes Policy The Bank of Russia continues to play a decisive role in this approach. Governor Elvira Nabiullina has long warned that cryptocurrencies pose risks to financial stability and consumer protection. The central bank has consistently opposed using crypto as a medium of exchange and has previously pushed for broad restrictions on exchanges and transactions. This position has led to years of friction with the Ministry of Finance, which favored regulation and taxation over outright limits. While several legislative proposals emerged from that debate, none altered the core prohibition on crypto payments. Today, policymakers appear to be aligned in preserving the ruble’s monopoly. Cross-Border Use Grows Despite Domestic Ban Although crypto is barred from internal payments, Russian authorities acknowledge its growing role in international trade. Businesses are permitted to use digital assets for cross-border settlements under an experimental legal regime, a workaround that has gained traction amid global financial restrictions. Officials estimate that billions of dollars’ worth of trade has already moved through such channels. Similarly, Russia has legalized cryptocurrency mining and is tightening oversight of the sector, underscoring a split strategy, limited use abroad, and strict control at home. Related Reading: The Bearish Structure That Puts Bitcoin Price At $92,550, And Then $82,000 That divide alone defines Russia’s crypto policy. Digital assets may serve as investment tools or external settlement instruments, but inside the country, the ruble remains the only means of payment. Cover image from ChatGPT, BTCUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|btc|btcusd|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55932712,
-    "published": 1765986749000,
-    "title": "Bitcoin Miner Hut 8's Stock Soars After Inking $7 Billion Google-Backed AI Deal",
-    "body": "Publicly traded Bitcoin miner Hut 8 inked a $7 billion data center deal with Google's financial backing, sending shares soaring Wednesday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55933465,
-    "published": 1765987917000,
-    "title": "Bitcoin tumbles back below $88,000 as gains evaporate as quickly as they formed",
-    "body": "It was a blink and you missed it rally as continued deflation in the AI trade sent the Nasdaq sharply lower, dragging crypto along with it.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Breaking News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55933491,
-    "published": 1765987897000,
-    "title": "Singapore Entrepreneur Loses Entire Crypto Portfolio After Downloading Fake Game",
-    "body": "The malware downloaded by Mark Koh was able to steal wallet credentials without his browser wallets being open.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 55933373,
-    "published": 1765987850000,
-    "title": "Robinhood looks better placed than Coinbase for prediction-market upside, Mizuho says",
-    "body": "Robinhood stands to gain more from prediction markets than Coinbase as users plan to deploy fresh capital rather than sell existing crypto, the bank said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Robinhood|Coinbase|Prediction Markets|Mizuho|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55933138,
-    "published": 1765987405000,
-    "title": "Macquarie sees U.S. Senate near crypto deal as market structure, GENIUS rules advance",
-    "body": "The bank said bipartisan Senate talks on market structure legislation and parallel GENIUS Act rulemaking could deliver a workable U.S. crypto framework by early 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Stablecoins|Cryptocurrency Regulations|Market Structure Legislation|Macquarie|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55933918,
-    "published": 1765988575000,
-    "title": "DTCC Handles $3.7 Quadrillion in Transactions a Year—Now It's Tokenizing Treasuries on Canton",
-    "body": "DTCC unveiled plans to issue tokenized securities on Canton Network, the privacy-enabled blockchain built for financial institutions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      }
-    ]
-  },
-  {
-    "id": 55933814,
-    "published": 1765988445000,
-    "title": "The Protocol: Bug that can drain all your tokens impacting 'thousands' of sites",
-    "body": "Also: Ripple news, Aave protocol debate, and pudgy penguins takeover",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|Newsletters|The Protocol|Bug|Aave|Ripple|Pudgy Penguins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 2,
-        "NAME": "AAVE",
-        "CATEGORY": "AAVE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55935570,
     "published": 1765990832000,
     "title": "Saylor’s Long Bitcoin Bet Has Left Corporate Rivals Behind: Crypto Entrepreneur",
@@ -3323,6 +2902,292 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55990889,
+    "published": 1766072441000,
+    "title": "Gold, silver shine in debasement trade as bitcoin is left behind",
+    "body": "JPMorgan analysts in October said investors betting on currency devaluation would lift precious metals and bitcoin, but only one of those trades has worked.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|market analysis|Bitcoin News|Gold|ByteTree|K33|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55990887,
+    "published": 1766072390000,
+    "title": "DAWN raises $13M to expand decentralized broadband networks",
+    "body": "The decentralized wireless protocol plans U.S. expansion and new international deployments as investors back a user-owned alternative to legacy internet providers.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|DePIN|Internet|Funding Rounds|Polychain Capital|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 55990672,
+    "published": 1766072073000,
+    "title": "Trump Media Shares Soar Amid Planned $6 Billion Merger With Fusion Power Firm",
+    "body": "President Donald Trump's media company is now planning to merge with a fusion power firm as part of a $6 billion all-stock deal.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 55991604,
+    "published": 1766073649000,
+    "title": "Breakdown Or Bear Trap? BNB Loses Trendline But Flashes Strong Rebound Signals",
+    "body": "BNB has slipped below its long-standing bullish trendline, raising fresh concerns about a deeper pullback. However, the selloff is unfolding right into a key support zone, where multiple technical signals hint that buyers may be preparing for a counter-move. With breakdown risk clashing against early rebound signs, BNB now sits at a pivotal moment that could define the next major move. Bullish Trendline Break Signals A Change In BNB Market Character According to crypto analyst Marcus Corvinus, BNB has just experienced a significant structural shift by losing its long-held bullish trendline. This technical break is a critical development that is rapidly changing the market mood from optimism to caution, as a primary support trendline has been invalidated. Related Reading: BNB Rebound Underway? Price Caught Within A Head And Shoulders Pattern The analyst noted that while the price had been respecting this upward trend for a considerable period, this decisive break indicates that buyers are finally losing control. Momentum is visibly cooling off, providing sellers with the necessary opening to press and take command of the short-term price action. Corvinus warned that if the price fails to reclaim the broken trendline, the path will likely open for a much deeper move to the downside. He emphasized that this current behavior appears to be a fundamental shift in market structure rather than just a typical small pullback, suggesting a more prolonged period of weakness. Thus, the market has now entered a caution zone, with the analyst noting that bears are knocking on the door of lower support levels. The next major reaction from the market will be the deciding factor in whether BNB can recover its uptrend or embark on a new, sustained bearish trajectory. Confluence Emerges At Key Support Zone In a recent update shared on X, analyst Batman revealed that BNB is currently carving out a highly attractive long setup. The asset is exhibiting a rare alignment of multiple technical indicators, suggesting that the current price level may serve as a powerful launchpad for the next leg up. Related Reading: Binance Coin (BNB) Extends Pullback as Meme-Coin Rug Pulls Sting BNB Chain This setup is rooted in a confluence of support levels. Specifically, BNB is resting within a strong bullish Fair Value Gap (FVG). This high-interest zone has seen a positive reaction from the market, as the price tapped the 0.618 Fibonacci retracement level. To further bolster the bullish conviction, the momentum oscillators have aligned with the price action. Batman pointed out that the Stochastic indicator has officially formed a bullish divergence followed by a golden cross. Significantly, this combination signals that selling exhaustion has been reached and that buyers may be regaining control, thereby paving the way for a potential sustained price recovery. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BNB|BATMAN|BNB news|BNB Price|BNB price prediction|BNBUSD|bnbusdt|Fair Value Gap|Fibonacci Retracement Level|FVG|golden cross|Marcus Corvinus|Stochastic Indicator",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55991598,
+    "published": 1766073600000,
+    "title": "CF Benchmarks views bitcoin as portfolio staple, projects $1.4 million price target by 2035",
+    "body": "The index provider applies capital market models to bitcoin, arguing institutional adoption supports long-term valuations and structured portfolio allocation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55991600,
+    "published": 1766073600000,
+    "title": "Crypto for Advisors: Predictions for 2026",
+    "body": "Pantera Capital's Paul Veradittakit shares his 2026 crypto predictions: RWA tokenization, AI security advances, a big IPO wave, and the shift to institutional adoption.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|Financial Advisors|Real World Assets|Predictions|CoinDesk Indices|Crypto for Advisors|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55992127,
+    "published": 1766074382000,
+    "title": "Bitcoin, Ethereum Rise Following Soft US Inflation Data",
+    "body": "Inflation unexpectedly cooled last month, but it remains above the Fed's 2% target.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55992630,
+    "published": 1766075139000,
+    "title": "FBI Seizes Crypto Exchange Allegedly Used to Launder $70M From Ransomware Attacks",
+    "body": "U.S. prosecutors say virtual currency service E-Note moved more than $70 million tied to cybercrime since 2017.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       }
     ]
   }
