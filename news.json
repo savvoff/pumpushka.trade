@@ -1,226 +1,5 @@
 [
   {
-    "id": 55929065,
-    "published": 1765981537000,
-    "title": "Bitcoin Traders Brace for Bank of Japan Rate Hike Amid Crypto Sell-Off",
-    "body": "The Bank of Japan's expected rate hike to a 30-year high could unwind the yen carry trade, draining liquidity from risk assets like Bitcoin.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55929037,
-    "published": 1765981414000,
-    "title": "Securitize announces ‘real’ tokenized stocks, touts DeFi integration",
-    "body": "Securitize plans to launch compliant, natively tokenized stocks in early 2026, enabling real equity ownership to trade 24/7 fully onchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55930506,
-    "published": 1765983600000,
-    "title": "Most Influential: Caroline Pham",
-    "body": "As an acting chairman at the Commodity Futures Trading Commission, Caroline Pham pulled no punches in pursuing crypto-friendly policy aims.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|CFTC|Caroline D. Pham|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 55930507,
-    "published": 1765983600000,
-    "title": "Most Influential: Carlos Domingo",
-    "body": "The Securitize CEO ground through the uncool years of tokenization while NFTs, FTX and memecoins soaked up the hype. With billions in tokenized assets, a SPAC listing in the works and BlackRock as a flagship client and backer, Carlos Domingo’s early bet is finally paying off.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Real World Assets|Tokenization|Carlos Domingo|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 55930510,
-    "published": 1765983600000,
-    "title": "Most Influential: Jeremy Allaire",
-    "body": "Allaire spent 2025 pushing regulated digital dollars into the mainstream, shaping U.S. policy and unveiling Arc as the foundation for institutional blockchain finance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Circle|Tether|CoinDesk Most Influential 2025|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55930343,
-    "published": 1765983334000,
-    "title": "Did Bitcoin's 4-year cycle break, and is the bull market really over?",
-    "body": "Bitcoin ETFs, corporate treasuries, and macro tailwinds are challenging BTC’s traditional four-year cycle, which could result in new all-time highs in 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55930249,
-    "published": 1765983266000,
-    "title": "Gavin Newsom Singles Out CZ, Ross Ulbricht, Arthur Hayes as Trump's 'Criminal Cronies'",
-    "body": "The California governor has launched a new website taking aim at Trump’s presidential pardons, including those of crypto figures.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55931730,
     "published": 1765985297000,
     "title": "Central African Republic’s Crypto Experiment ‘Riddled With Red Flags,’ Says Report",
@@ -240,53 +19,6 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55931250,
-    "published": 1765984742000,
-    "title": "Bitcoin re-takes $90,000 as price spikes early in U.S. session",
-    "body": "Surging metals prices and dovish comments from leading Fed chair contender Chris Waller were among the news items possibly boosting crypto prices.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Market Wrap|Bitcoin News|Gold|Breaking News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -3171,6 +2903,426 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 55988177,
+    "published": 1766068348000,
+    "title": "Trump Media stock surges 25% on merger agreement with nuclear fusion firm TAE Technologies",
+    "body": "Trump Media and Technology Group has more than 11,500 bitcoin on its balance sheet worth roughly $1 billion at current prices.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Trump|Crypto Stocks|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55987707,
+    "published": 1766067581000,
+    "title": "CoinDesk 20 Performance Update: Uniswap Surges 8.4% as All Index Constituents Rise",
+    "body": "Ethereum (ETH) joined Uniswap (UNI) as a top performer, gaining 3.8% from Wednesday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55988641,
+    "published": 1766062800000,
+    "title": "Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum",
+    "body": "Digital bank operator SoFi Technologies Inc. has launched its own US dollar stablecoin, joining a growing list of financial firms betting on what is seen as a critical component of the digital asset economy.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NMS:SOFI",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989282,
+    "published": 1766070005000,
+    "title": "Why Is Bitcoin And Ethereum Prices Down Today? BlackRock Deposits Spark Worry",
+    "body": "The Bitcoin and Ethereum prices are down today as the crypto market remains in a phase of extreme fear. This latest crash came amid BlackRock’s move, which sparked fear of a sell-off from the world’s largest asset manager. The Bitcoin and Ethereum prices are down today following BlackRock’s transfer of 2,257 BTC and 74,973 ETH to Coinbase, indicating plans to offload these coins. Notably, the BTC and ETH ETFs recorded outflows on December 16, likely why the asset manager moved these coins to redeem shares for its IBIT and ETHA ETFs, which were sold that day. Bitcoin and Ethereum Prices Decline Amid BlackRock’s Transfer These Bitcoin and Ethereum ETFs have continued to record mixed flows, which have partly contributed to declines in BTC and ETH prices. Notably, the Bitcoin price had surged to around $90,000 yesterday from an intraday low of around $87,000, before retracing below $87,000 about an hour later. This immediately sparked theories of manipulation, with some crypto pundits revealing that BlackRock wasn’t the only one selling. Related Reading: The Bearish Structure That Puts Bitcoin Price At $92,550, And Then $82,000 Crypto pundit Kruse claimed that Binance first bought nonstop for over 30 minutes to pump the price, then started dumping millions of BTC and ETH to liquidate longs. He noted that the Bitcoin price pumped about $3,300 in 30 minutes, with $106 million in shorts wiped out during that period. Following that, BTC printed another volatile hourly candle to the downside, which flushed out $52 million in longs. A similar price action had also played out for the Ethereum price. Kruse declared that this wasn’t random volatility but rather liquidity hunting. The pundit further warned that this is how leverage gets punished in crypto. He then reiterated that the volatile Bitcoin and Ethereum price actions weren’t random, indicating the market is being manipulated. Onchain Sleuth Tracer also accused Binance of being responsible for the Bitcoin and Ethereum price declines. He claimed that the crypto exchange pumped and dumped millions of BTC to liquidate traders, with $194 million in shorts and longs liquidated in one hour. BTC And ETH To Hit New All-Time Highs Next Year? Crypto asset manager Bitwise has predicted that the Bitcoin price will break the four-year cycle and set new all-time highs in 2026. The asset manager alluded to factors such as the Bitcoin halving and interest rate cycles as what will drive this rally for the flagship crypto. The firm also remarked that crypto booms and busts fueled by leverage are weaker than in past cycles. Related Reading: Ethereum 2-Year Trend Maps Out This Unique Crash Path To Bottom At $2,187 Bitwise also stated that institutions are likely to allocate more to Bitcoin ETFs, which is why they expect the Bitcoin price to reach new all-time highs next year. Furthermore, the firm noted that the pro-crypto regulatory shift will continue to allow companies to adopt crypto at a faster rate. The crypto asset manager also predicted that the Ethereum price could reach a new all-time high if the CLARITY Act passes. Featured image from iStock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Binance|bitcoin|Bitcoin news|bitcoin price|bitwise|BlackRock|btc|BTC news|btc price|btcusd|BTCUSDT|CLARITY Act|coinbase|ETHA|ethereum|IBIT|Kruse|Onchain Sleuth Tracer|spot Bitcoin ETFs",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989276,
+    "published": 1766070000000,
+    "title": "Most Influential: Javier Pérez-Tasso",
+    "body": "Pérez-Tasso brought Swift into the blockchain age.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|SWIFT|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 55989274,
+    "published": 1766070000000,
+    "title": "Most Influential: Dennis Porter",
+    "body": "When it seemed like many of the states came up with the same bitcoin reserve idea at the same time, a campaign driven by Porter deserves some credit for that tide.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Bitcoin Strategic Reserve|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989368,
+    "published": 1766070000000,
+    "title": "Most Influential: Will and Dan Roberts",
+    "body": "The co-founders and co-CEOs of IREN Limited have transformed the bitcoin mining firm into an AI infrastructure powerhouse.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Bitcoin Mining|AI|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989364,
+    "published": 1766070000000,
+    "title": "Most Influential: Gilles Roth",
+    "body": "Led by Finance Minister Gilles Roth, Luxembourg in the second half of 2025 became the first of the 20-member eurozone to invest in bitcoin.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Luxembourg|CoinDesk Most Influential 2025|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989273,
+    "published": 1766070000000,
+    "title": "PayPal to use PYUSD stablecoin fund AI infrastructure through USD.AI",
+    "body": "The move links PayPal’s dollar-pegged token to onchain funding for GPUs and data centers, supported by a $1 billion customer incentive program.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|PayPal|AI|Loans|Financing|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 191,
+        "NAME": "PYUSD",
+        "CATEGORY": "PYUSD"
+      }
+    ]
+  },
+  {
+    "id": 55989142,
+    "published": 1766069757000,
+    "title": "Former Pump.fun Dev Sentenced to Six Years in Prison for $2 Million Solana Fraud",
+    "body": "Jarett Dunn, a former developer at Pump.fun, drained $2 million from his then-employer and sent funds to random addresses.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989771,
+    "published": 1766070720000,
+    "title": "Coinbase shares rise as ‘ambitious expansion’ wins analyst praise",
+    "body": "The event marked a milestone that broadens the platform’s reach across new and traditional assets, the analysts said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Coinbase|Citi|Analysts|JPMorgan|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 55989509,
+    "published": 1766070103000,
+    "title": "Bitcoin hunts liquidity as US CPI inflation drops to lowest since 2021",
+    "body": "Bitcoin tagged $89,500 as US CPI data revealed sudden multiyear lows in inflation, but liquidations stayed high as the BTC price spiked.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
