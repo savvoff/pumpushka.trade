@@ -1,69 +1,5 @@
 [
   {
-    "id": 55973301,
-    "published": 1766046776000,
-    "title": "Spot Bitcoin ETFs record $450M inflows in ‘early positioning’ push",
-    "body": "Spot Bitcoin ETFs logged their strongest inflows in over a month amid renewed institutional demand tied to shifting macro expectations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55975053,
-    "published": 1766049349000,
-    "title": "JPMorgan’s tokenized dollars are quietly rewiring how Wall Street moves money",
-    "body": "The Wall Street titan’s recent embrace of a public blockchain is a harbinger of things to come.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Coinbase|JPMorgan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55975685,
     "published": 1766050243000,
     "title": "XRP Risks Double-Top Crash Toward $0.40, Peter Brandt Warns",
@@ -3544,6 +3480,53 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56029507,
+    "published": 1766134851000,
+    "title": "Solana (SOL) Support Shattered, Potential $100 Test Looms, Says Analyst",
+    "body": "Solana (SOL) is currently one of the poorest performers among the top ten largest cryptocurrencies in the market, experiencing a sharp 13% decline over the past week. Bearish Patterns Emerge For Solana This downturn comes as the cryptocurrency has broken below the critical support level of $120, which had acted as a pivotal floor since the start of the month and previously prevented further drops. The situation appears even more dire for investors with bullish sentiments, as recent data from CoinGecko indicates that Solana has retraced nearly 60% from its all-time high of $293, reached back in January of this year. Year-to-date, the token has experienced a significant loss of 40%, which raises additional concerns among top analysts about its near-term stability. Related Reading: Optimism Grows In Crypto Market Structure Bill After Wednesday’s Senate Banking Meeting Experts are cautioning that unless conditions change, the Solana price may soon retest the $100 mark—an area not seen since April. Should this scenario materialize, it would imply an additional drop of approximately 15.9%. Some analysts, like market commentator EddieTradezz, have pointed to a bearish “head and shoulders” pattern formed in SOL’s daily chart, suggesting that Solana is on the brink of a substantial decline. He notes that it is now breaking through strong long-term resistance, with April’s lows around $95 potentially being a more realistic target than $100. Adding to the bearish sentiment, fellow expert ColdBloodShill has indicated that Solana may be heading toward a price point of $80, which would result in a drastic additional drop of 32%. However, as EddieTradezz mentioned, the possibility for recovery would largely depend on market-wide conditions and investor sentiment. Institutional Interest Grows As SOL ETFs See Major Inflows Despite the prevailing bearish indicators, there has been a noteworthy development on the institutional front. Recently approved Solana exchange-traded funds (ETFs) in the US have seen impressive uptake, amassing $63.9 million in net inflows over the past week. This suggests that institutions are beginning to accumulate Solana, potentially viewing it as a long-term investment opportunity. However, this positive news has been overshadowed by heavy selling pressure in spot markets. Related Reading: Bitwise’s 2026 Crypto Forecast: Bitcoin, Ethereum, And Solana Poised For New Record Highs Increased volatility has led to a rise in liquidations for leveraged positions, dampening Solana’s price reaction to the overall positive developments in institutional interest. Ultimately, Solana’s future remains uncertain. While institutional interest may offer some hope, the immediate outlook is clouded by increased selling pressure and the inability to regain capital in the broader market, which has recently dropped below the $2.90 trillion mark in total market capitalization. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|crypto|crypto news|Sol|SOL Price|SOL price analysis|SOL price news|Solana ( SOL)|Solana ETFs|Solana news|Solana price analysis|solana price correction|Solana price forecast|Solana Price prediction|SOLUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
