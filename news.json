@@ -1,127 +1,5 @@
 [
   {
-    "id": 55985848,
-    "published": 1766064933000,
-    "title": "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
-    "body": "Bitcoin rose above $88,000 on the pleasing news as forecasts had been for inflation to continue to run above 3%.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Inflation|CPI|Breaking News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55986997,
-    "published": 1766066475000,
-    "title": "Bitcoin ETFs Notch $457M Haul, Third-Largest Since October",
-    "body": "Bitcoin ETFs saw $457 million in inflows, signaling a 'flight to quality' as capital consolidates around Bitcoin amid Ethereum outflows.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55986995,
-    "published": 1766066462000,
-    "title": "Fetch.ai Says Its AI Agents Will Overcome Online Retail Barriers Faced by Today’s Tools",
-    "body": "The AI developer claims the system, set to launch in January, allows agents to complete payments with credit cards, stablecoins, and FET tokens.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 116,
-        "NAME": "FET",
-        "CATEGORY": "FET"
-      }
-    ]
-  },
-  {
-    "id": 55986881,
-    "published": 1766066400000,
-    "title": "The UAE Isn’t Just Regulating Tokenization — It’s Building Its Economy Around It",
-    "body": "As other jurisdictions stall in regulatory debate, the UAE is institutionalizing tokenization, moving it to the core of its economic infrastructure, according to MidChains CEO.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Opinion|UAE|Dubai|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 55988177,
     "published": 1766068348000,
     "title": "Trump Media stock surges 25% on merger agreement with nuclear fusion firm TAE Technologies",
@@ -3264,6 +3142,146 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 56041255,
+    "published": 1766151861000,
+    "title": "Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps",
+    "body": "Bubblemaps says 23 wallets tied to the Ava deployer sniped 40% of the AVA supply at launch. The Solana AI token later fell 96% from its peak.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56041763,
+    "published": 1766152849000,
+    "title": "Here’s How Much % Of Bitcoin Supply Is Currently Sitting In Losses",
+    "body": "On-chain analytics platform Glassnode has revealed the number of Bitcoin supply that is currently sitting at a loss. This comes as the BTC price continues to trade below the psychological $90,000 level following its crash, which began last month. Here’s The Amount Of Bitcoin Supply At A Loss In a report, Glassnode revealed that the Bitcoin supply in loss has risen to 6.7 million BTC, marking the highest level of loss-bearing supply observed in this cycle. The analytics platform further noted that this represents 23.7% of the circulating supply, which is currently underwater. 10.2% of this supply is held by long-term holders and 13.5% by short-term holders. Related Reading: The Bearish Structure That Puts Bitcoin Price At $92,550, And Then $82,000 Glassnode stated that this distribution suggests that, much like in prior cycle transitions into deeper bearish regimes, the loss-bearing Bitcoin supply accumulated by recent buyers is gradually maturing into the long-term cohort. Meanwhile, the analytics platform noted that the 6-7 million range, which has been at a loss since mid-November, mirrors early transitional phases of prior cycles, where mounting investor frustration came before a shift toward more bearish conditions and intensified capitulation at lower Bitcoin prices. Notably, the Bitcoin price has dropped to levels last seen in 2024, erasing its year-to-date (YTD) gains. Glassnode stated that this has left behind a dense supply cluster accumulated by top buyers in the $93,000 to $120,000 range. The resulting supply distribution is said to reflect a top-heavy market structure where recovery attempts are capped by heavy overhead sell pressure, especially in the early stages of a bearish phase. Glassnode declared that as long as the Bitcoin price remains below this range and fails to reclaim key thresholds, most notably the Short-Term Holder Cost Basis at $101,500, the risk of further corrective downside persists. BTC Spot Demand Is Unstable Glassnode revealed that the Bitcoin spot market flows continue to reflect an uneven demand profile across major venues. The Cumulative Volume Delta bias is said to show periodic bursts of buy-side activity, but has failed to develop into sustained accumulation, especially during the recent BTC price pullbacks. Related Reading: Why Is Bitcoin And Ethereum Prices Down Today? BlackRock Deposits Spark Worry The on-chain analytics platform noted that the Coinbase spot CVD remains relatively constructive, indicating steadier participation from US-based investors. On the other hand, Binance and aggregate Bitcoin flows remain choppy and largely directionless. Glassnode stated that these dispersion points point to selective engagement rather than coordinated spot demand. Meanwhile, the platform alluded to recent Bitcoin price declines, which it pointed out have not triggered decisive expansion in positive CVD. Glassnode noted that this suggests dip-buying remains tactical and short-term. In the absence of sustained accumulation across all venues, Bitcoin’s price action continues to rely more on activity in the derivatives market and liquidity conditions rather than organic spot demand. At the time of writing, the Bitcoin price is trading at around $86,800, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|Binance|bitcoin|Bitcoin news|bitcoin price|Bitcoin Spot Market|Bitcoin supply|btc|BTC news|btc price|btcusd|BTCUSDT|Coinbase Spot CVD|CoinMarketCap|cumulative volume delta|glassnode|Year-To-Date|YTD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56041757,
+    "published": 1766152800000,
+    "title": "Re-litigating the GENIUS Act Brings Risk and No Rewards",
+    "body": "If bipartisan agreements like the GENIUS Act can be immediately reopened whenever an incumbent industry dislikes their competitive implications, legislative compromise becomes impossible, argues Blockchain Association CEO Summer Mersinger.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|Stablecoin legislation|US Congress|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 56042373,
+    "published": 1766153663000,
+    "title": "CoinDesk 20 Performance Update: Index Jumps 4.6% as All Constituents Trade Higher",
+    "body": "Sui (SUI) gained 7% and Solana (SOL) rose 6.9%, leading the index higher.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
