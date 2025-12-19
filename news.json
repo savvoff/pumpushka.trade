@@ -1,116 +1,5 @@
 [
   {
-    "id": 55992630,
-    "published": 1766075139000,
-    "title": "FBI Seizes Crypto Exchange Allegedly Used to Launder $70M From Ransomware Attacks",
-    "body": "U.S. prosecutors say virtual currency service E-Note moved more than $70 million tied to cybercrime since 2017.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      }
-    ]
-  },
-  {
-    "id": 55992944,
-    "published": 1766075696000,
-    "title": "BONK drops 6.2% as elevated volume marks shift at key technical levels",
-    "body": "Speculative token selling accelerated as heavy volume formed near resistance before a sustained pullback.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Technical Analysis|Bonk|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 113,
-        "NAME": "BONK",
-        "CATEGORY": "BONK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55994039,
-    "published": 1766077232000,
-    "title": "Ripple Goes Institutional: What The Doppler Finance And SBI Partnership Means For XRP",
-    "body": "Ripple’s push to advance XRP’s institutional relevance took a concrete step forward following a post published by Doppler Finance confirming its partnership with SBI Ripple Asia. The announcement marks a strategic shift from retail-driven narratives to regulated, institution-ready financial infrastructure on the XRP Ledger. The collaboration positions XRP as part of a framework centered on yield generation, compliant custody, and real-world financial integration. Doppler Finance And SBI Ripple Asia To Expand XRP’s Role Beyond Payments The partnership between Doppler Finance and SBI Ripple Asia represents a major evolution in XRP’s role in finance. While XRP has long been valued for fast, low-cost cross-border payments, it has lacked infrastructure for institutional investors to earn a regulated yield. This collaboration aims to change that by developing XRP-based yield products designed specifically for compliance-conscious institutions, creating a pathway for professional investors to use XRP as a productive financial asset. Related Reading: Dogecoin RSI Hits Levels That Have Triggered ATH Rallies Before Unlike experimental DeFi initiatives, this effort prioritizes regulated access, risk management, and compliance. SBI Ripple Asia—a joint venture between SBI Holdings and Ripple—anchors the project within an established financial ecosystem, lending credibility and operational rigor. Notably, this is the first time SBI Ripple Asia has partnered with an XRP Ledger-native protocol, signaling that the focus is on building durable, scalable financial infrastructure rather than marketing hype. Custody and security are central to making these yield products viable for institutional participants. SBI Digital Markets will provide segregated custody for all assets, meeting the strict standards required by asset managers, corporate treasuries, and funds. For traders and institutional users, this means they can access XRP-based yield opportunities without assuming self-custody responsibilities or exposure to smart-contract risks typical in retail DeFi. The framework transforms XRP from a token primarily used for payments into a balance-sheet-compatible asset that can generate regulated returns, opening new avenues for institutional adoption, portfolio diversification, and professional-grade risk management. Strategic Implications For XRP And Ripple In The Broader Market The partnership strengthens XRP’s role in real-world asset tokenization. Doppler Finance and SBI Ripple Asia plan to leverage the XRP Ledger to support regulated financial products tied to tangible value, positioning XRPL as infrastructure for institutional-grade applications beyond digital payments. This approach lays the groundwork for a structured rollout of XRP-based solutions. Related Reading: Why This Week Could Be Transformational For The XRP Price Formalized as a memorandum of understanding, the collaboration signals phased implementation rather than immediate launches. While timelines and yield structures remain undisclosed, the framework reflects clear strategic intent, creating conditions for XRP to expand its role in institutional finance. For XRP, the impact is structural. Combining yield generation, compliant custody, and real-world asset integration broadens its utility in capital markets and reinforces Ripple’s institutional narrative in Asia, where regulatory clarity typically precedes retail adoption. Ultimately, the Doppler Finance–SBI partnership redefines XRP’s value proposition. The asset moves from a transaction medium to becoming an integral part of institutional financial architecture. If executed as intended, XRP’s role in global finance could shift from speed-focused transactions to long-term, durable adoption. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55995261,
     "published": 1766078912000,
     "title": "MEV trading returns to court in Pump.fun class-action lawsuit",
@@ -2827,6 +2716,205 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56048170,
+    "published": 1766162580000,
+    "title": "Foundation behind restaking protocol EigenLayer plans bigger rewards for active users",
+    "body": "An Incentives Committee would direct programmatic token emissions, focusing allocations on participants that secure AVSs and contribute to the EigenCloud ecosystem.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|EigenLayer|Ethereum News|Governance|Eigenlabs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 56048850,
+    "published": 1766163662000,
+    "title": "Decrypt’s 2025 Project of the Year: Hyperliquid",
+    "body": "Hyperliquid, a venue for high-risk leveraged trading on volatile assets, captured the attention of the crypto industry like no other project this year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Long Reads",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56048504,
+    "published": 1766163230000,
+    "title": "Bitcoin earns base case target of $143,000 at Citigroup",
+    "body": "The Wall Street bank said its bitcoin forecast relies on further crypto ETF inflows and a continued rally in traditional equity markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Citigroup|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56048688,
+    "published": 1766162232000,
+    "title": "OpenAI bailed out? Trump Media stock up 40%! Wallet Connect Interview",
+    "body": "Commission-free stock and etf trading (u.S.), allowing users to trade equities alongside crypto using usd or usdc. Prediction markets, enabling trading on real-world outcomes like elections, sports, and economic data via a partnership with kalshi. Equity futures and perpetuals trading, expanding derivatives access directly inside the main coinbase app. Solana dex trading via jupiter, allowing users to swap solana tokens directly on coinbase. New borrowing functionality against btc and eth holdings. Coinbase token sales, allowing for ico launches and early-stage token support. Coinbase tokenize, an institutional platform designed to support tokenized assets, including tokenized stocks over time. Base app global launch, making coinbase’s onchain “everything app” available in more than 140 countries. Coinbase business, now generally available, offering payments, invoicing, and usdc-based tools for companies. Expanded stablecoin and payments apis, including embedded wallets and custom-branded stablecoins for builders. Coinbase advisor, an ai-powered assistant designed to help users navigate portfolios and coinbase products.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 205,
+        "NAME": "TOKEN SALE",
+        "CATEGORY": "TOKEN SALE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56047048,
+    "published": 1766160879000,
+    "title": "Citi is still a believer in crypto stocks despite bitcoin being rocked to end the year",
+    "body": "Circle remains the bank's top pick in the sector, with Bullish and Coinbase following.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Circle|Gemini|Bullish|Citi|Strategy|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
       {
         "TYPE": "122",
         "ID": 211,
