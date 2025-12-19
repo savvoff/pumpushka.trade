@@ -1,87 +1,5 @@
 [
   {
-    "id": 55954226,
-    "published": 1766019634000,
-    "title": "Bitcoin’s Make-or-Break Phase Begins: Weekly Support Holds, Momentum Fades",
-    "body": "Bitcoin has entered a critical make-or-break phase as price clings to key weekly support while momentum continues to fade. Despite holding above a major confluence zone, repeated rejections overhead suggest buyers are losing control. With macro pressure building and liquidity levels still untested, the next move from here could define whether BTC stabilizes or slides into a deeper reset. Lower-Timeframe Rejection Keeps The Downtrend In Control Crypto analyst Michael Van De Poppe revealed in a recent post that Bitcoin has faced a clear rejection at a key resistance level. This failure signals that the short-term downtrend remains intact on lower timeframes, confirming that selling pressure currently outweighs buying momentum in the immediate term. Related Reading: Bitcoin Bullish Structure Weakens As Inter-Exchange Liquidity Touches Red Zone – Details To flip this short-term bias, Van de Poppe expects a clear breakout above the $88,000 level. A successful move above this mark would serve as a strong, unequivocal signal to the markets that the corrective phase is over and that upward momentum is likely to take hold from that point forward. If buyers fail to achieve this necessary breakout, it remains highly probable that the price will pursue liquidity targets below, specifically targeting a test at $83,000 for liquidity. Should that fail, a further descent to the $80,000 level will trigger stop-losses. Finally, Van De Poppe connected the technical outlook to the broader economic environment. Given the high volume of macroeconomic events scheduled to take place over the course of the week, such as FOMC, Poppe believes that the market could experience significant volatility and end up reaching one of the predicted downside liquidity tests. $93,000 Rejection Stalls Momentum, but Weekly Structure Still Intact According to a weekly chart update by Crypto Damus, Bitcoin recently faced a firm rejection at the $93,000 resistance level. Despite that setback, price action remains constructive for now, with BTC holding above the crucial $86,000 weekly support zone. This area is reinforced with the key 100-week moving average confluence, making it an important level to watch in the near term. Related Reading: Bitcoin Price Faces Potential 60% Decline As Expert Warns Of ‘Major Bull Trap’ That said, the broader structure still leaves room for deeper downside. Crypto Damus notes that a full retracement toward the rising wedge breakdown target cannot be ruled out, which aligns closely with the April low around the $78,000 region. A move into that zone would represent a more pronounced corrective phase within the larger cycle. Looking further ahead, a deeper bear-market-style retest may ultimately present a more attractive long-term opportunity. A revisit of the $70,000 level is highlighted as a potential high-conviction buying area, should the market extend its pullback. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Crypto Damus|FOMC|Michael van de Poppe",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55955034,
-    "published": 1766020542000,
-    "title": "Ethereum could get faster in January with gas limit rise to 80M",
-    "body": "Ethereum could see another rise in transaction speed in January, with developers considering raising the gas limit to 80 million after the next blob parameter-only hard fork.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55958291,
     "published": 1766025798000,
     "title": "Bitcoin Price Rejection Sparks Bearish Pressure—Support Under Threat?",
@@ -3521,6 +3439,140 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56007677,
+    "published": 1766100600000,
+    "title": "Synthetix returns to Ethereum mainnet after 3 years: ‘We can run it back’",
+    "body": "Synthetix founder Kain Warwick expects other perpetual decentralized exchanges to follow Synthetix back to Ethereum, which is faster than ever.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56008771,
+    "published": 1766102880000,
+    "title": "XRP’s familiarity helps push ETFs past $1B assets: Exec",
+    "body": "XRP has a “number of reasons” that are attracting traditional investor dollars, which has helped to push XRP ETFs over $1 billion in assets, says CF Benchmarks CEO Sui Chung.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56008707,
+    "published": 1766102719000,
+    "title": "Solana, Aptos Move to Harden Blockchains Against Future Quantum Attacks",
+    "body": "Developers have begun testing new cryptography to guard against forged transactions and wallet theft, in preparation for a changing world.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "aptos||Technology",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 70,
+        "NAME": "APT",
+        "CATEGORY": "APT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56011093,
+    "published": 1766107643000,
+    "title": "Senate confirms Trump crypto-friendly nominees to take over CFTC, FDIC",
+    "body": "In a package of confirmations, the U.S. Senate approved Mike Selig to lead the CFTC and Travis Hill to run the FDIC, both with major potential reach into crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|U.S. Senate|U.S. Commodity Futures Trading Commission|U.S. Federal Deposit Insurance Corp.|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
