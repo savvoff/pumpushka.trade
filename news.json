@@ -1,169 +1,5 @@
 [
   {
-    "id": 55998799,
-    "published": 1766084735000,
-    "title": "Bitcoin Policy Institute reps sound alarm on de minimis tax exclusion",
-    "body": "US lawmakers are only considering de minimis tax exemptions for dollar-pegged stablecoins, according to Bitcoin Policy advocate Conner Brown.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56000693,
-    "published": 1766088046000,
-    "title": "Fading ETF Interest Puts Pressure on Dogecoin as Price Approaches Critical Cost-Basis Zone",
-    "body": "Dogecoin (DOGE) is approaching a sensitive phase as weakening investor demand, stalled ETF inflows, and growing sell-side pressure converge near a key price area. Related Reading: XRP Risks Double-Top Crash Toward $0.40, Peter Brandt Warns Once driven largely by retail enthusiasm, the meme coin is now trading closer to levels where a significant share of holders last acquired their tokens, raising questions about downside risk if confidence continues to erode. At the same time, isolated whale accumulation and long-term cost-basis data suggest the market is approaching a zone that could define the next major move. DOGE's price trends to the downside on the daily chart. Source: DOGEUSD on Tradingview Dogecoin ETF Inflows Stall as Sentiment Softens One of the clearest shifts in Dogecoin’s recent market structure has been the loss of momentum in its exchange-traded funds. Data shows that the Grayscale and Bitwise DOGE ETFs have not recorded any inflows since December 11, with total inflows since launch standing at roughly $2 million. Combined assets under management are around $5.2 million, representing a negligible fraction of Dogecoin’s overall market capitalization. The muted response contrasts sharply with other altcoin ETFs, particularly XRP and Solana products, which have attracted hundreds of millions of dollars in inflows. The lack of sustained interest has raised questions about the long-term viability of DOGE-focused funds, especially given their low revenue potential at current asset levels. More broadly, the ETF slowdown reflects a risk-averse environment, with the crypto Fear and Greed Index remaining in fear territory. On-Chain and Derivatives Data Point to Bearish Bias Beyond ETFs, on-chain metrics show declining participation from large holders. Wallets holding between 100 million and 1 billion DOGE have reduced their balances by over 1 billion tokens since early December. Similarly, the proportion of DOGE supply in profit has slipped to near 50%, suggesting fewer holders are sitting on unrealized gains. Derivatives markets reinforce this cautious outlook. Short positions now account for more than half of open DOGE derivatives, while over $5 million in long positions were liquidated in a 24-hour period. Open interest has also declined, pointing to reduced speculative appetite rather than aggressive dip-buying. Price Near Key Support as $0.10 Comes Into Focus Technically, Dogecoin is trading near the $0.123–$0.126 range, an area that has repeatedly acted as support since April. The price remains below key moving averages, with momentum indicators such as MACD and RSI signaling continued downside pressure. A decisive break lower could expose the psychological $0.10 level. Related Reading: Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst Analysts have also projected deeper historical support near $0.074, where roughly 28 billion DOGE last changed hands. While a move to that level would require further deterioration in sentiment, current conditions suggest Dogecoin is approaching a cost-basis zone that could determine whether sellers remain in control or longer-term holders begin to step in. Cover image from ChatGPT, DOGEUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|Doge price|dogecoin price|dogeusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56000687,
-    "published": 1766088000000,
-    "title": "What if crypto's U.S. market structure effort just never gets there?",
-    "body": "Guessing the direction of Congress is akin to long-range weather prediction, with so many variables in play, and the industry's fate depends on a break in the storm.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "News Analysis|U.S. Senate|Senate Banking Committee|Regulation|crypto legislation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56000547,
-    "published": 1766087785000,
-    "title": "XRP slumps as bitcoin once again falls back to $85,000 level after surge",
-    "body": "Crypto markets swung sharply Thursday following a softer-than-expected U.S. CPI print, which briefly lifted bitcoin above $89,000 during U.S. hours.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56003677,
     "published": 1766092917000,
     "title": "NYSE parent in talks to invest in crypto company MoonPay: Report",
@@ -2756,6 +2592,76 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56054936,
+    "published": 1766174402000,
+    "title": "Bitcoin Price Lags Network Utility: A Valuation Reset Is Underway",
+    "body": "Bitcoin continues to struggle below the $90,000 level as volatility remains elevated and market conviction weakens. Short-term price swings have failed to establish a clear directional bias, reinforcing a broader sense of uncertainty among traders and investors. While price remains historically high, internal market conditions suggest that underlying stress is building beneath the surface, particularly within the mining sector. Related Reading: Bitcoin Faces Elevated Downside Risk: Loss Selling Takes Hold As STH SOPR Falls Below 1 A recent analysis by Axel Adler highlights growing pressure on Bitcoin miners using the Miner Financial Health Index, a composite metric that assesses mining profitability relative to price. Readings above 80% historically signal excessive profitability and late-cycle conditions, while levels below 20% indicate financial strain and elevated risk for miners. Currently, the index sits near 22%, once again approaching the Alert zone. This places miner profitability near one of its weakest levels since 2022, despite Bitcoin trading well above its summer 2022 price range. Similar conditions have typically appeared during post-correction phases or shortly after halving events, when revenue compression collides with high network difficulty. This divergence between elevated price levels and deteriorating miner fundamentals raises important questions about the sustainability of Bitcoin’s current structure as the market searches for its next equilibrium. Miner Economics Signal Growing Stress Beneath Bitcoin’s Price Adler’s analysis further examines the demand–supply balance within Bitcoin’s mining economics, offering deeper insight into why miner profitability continues to deteriorate. This index tracks the ratio of transaction fee revenue relative to new coin issuance, effectively measuring how much users are willing to pay for blockspace compared to the rate of supply expansion. Historically, readings above 70% indicate strong demand and a risk-on environment, while levels below 30% reflect structural weakness. Currently, the demand–supply balance sits near 38% on a 30-day average. While not yet in outright stress territory, the metric has declined steadily from local highs above 60%, placing it firmly in a neutral-weak zone. This trend suggests that organic demand for blockspace remains subdued, with users showing little urgency to outbid one another through higher fees. For a clear improvement in conditions, Adler notes that the index would need to reclaim levels above 50%, likely requiring a surge in transaction activity or a meaningful on-chain catalyst. This weakness is mirrored in absolute miner revenue. Bitcoin miner revenue, measured in US dollars and smoothed over seven days, has fallen to roughly $40 million after a recent peak. Although consistent with 2025 averages, this level remains well below revenue spikes seen during periods of heightened network activity. With difficulty remaining elevated, declining revenues amplify pressure on less efficient miners, reinforcing the stress signaled by both profitability and demand metrics. Related Reading: Legendary Bitcoin OG Deepens Ethereum Bet Despite Losses Exceeding $70 Million Bitcoin Price Struggles to Reclaim Key Trend Levels Bitcoin’s price action on the daily chart reflects a market struggling to regain structural strength after a sharp corrective phase. BTC is currently trading around the $88,000 area following a rebound from recent lows, but the broader trend remains fragile. The selloff from the $120,000–$125,000 region marked a clear break in momentum, with price slicing below the short-term moving averages and triggering accelerated downside pressure. Notably, Bitcoin lost the daily 50-day and 100-day moving averages during the decline, confirming a shift toward a bearish short-term structure. While the 200-day moving average continues to trend higher and remains intact, price is now consolidating just below it, turning this level into a critical zone of resistance. As long as BTC fails to reclaim and hold above this long-term trend line, upside attempts are likely to face selling pressure. Related Reading: Bitcoin Structure Turns Bearish As Structural Indicators Flip Negative The sharp increase in sell volume during the breakdown contrasts with relatively muted buying volume on the rebound, suggesting that recent upside moves are corrective rather than impulsive. Structurally, Bitcoin is forming a lower-high pattern, which keeps downside risk elevated if support near $85,000–$86,000 fails. For bulls to regain control, BTC must reclaim the 200-day moving average and establish higher highs. Until then, the chart favors consolidation or further volatility rather than a sustained recovery. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin network activity|Bitcoin news|bitcoin price|Bitcoin valuation|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56054593,
+    "published": 1766173581000,
+    "title": "Samourai co-founder claims Biden-era lawfare in calling for Trump pardon",
+    "body": "Keonne Rodriguez said on social media that he will report to prison on Friday to begin his five-year sentence for operating an illegal money transmitter.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
