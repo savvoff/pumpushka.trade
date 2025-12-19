@@ -1,367 +1,5 @@
 [
   {
-    "id": 55984529,
-    "published": 1766062871000,
-    "title": "North Korean Hackers Have Stolen $2 Billion in Crypto This Year: Report",
-    "body": "Attackers from North Korea have swiped over $2 billion worth of crypto so far this year, accounting for 59% of all stolen funds.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55984528,
-    "published": 1766062863000,
-    "title": "SoFi Unveils Ethereum Stablecoin for Trading and Payments",
-    "body": "SoFi Technologies said that it will soon offer its own stablecoin on Ethereum, following the company’s re-entry into crypto last month.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55984404,
-    "published": 1766062800000,
-    "title": "SoFi unveils the first bank-issued stablecoin for enterprise payments",
-    "body": "SoFi Bank becomes the first U.S. national bank to launch a stablecoin, positioning SoFiUSD as a faster, safer alternative to crypto-native tokens.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|SoFi|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 55984506,
-    "published": 1766062800000,
-    "title": "North Korean hackers stole a record $2 billion of crypto in 2025, Chainalysis says",
-    "body": "North Korea-linked hackers drove a record year for crypto thefts, favoring rare but massive attacks on centralized services, led by Bybit’s $1.4 billion breach.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|North Korea|Chainalysis|Hack|Crime|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 55984133,
-    "published": 1766062383000,
-    "title": "Dogecoin and Shiba Inu lag market as memecoins continue to lose ground to bitcoin",
-    "body": "Despite increased whale accumulation, both DOGE and SHIB face selling pressure unless they reclaim key technical levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 44,
-        "NAME": "SHIB",
-        "CATEGORY": "SHIB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55983945,
-    "published": 1766061991000,
-    "title": "Hut 8 price target boosted at Cantor and Canaccord after Google-backed AI deal",
-    "body": "Cantor Fitzgerald Analyst Brett Knoblauch expects the bitcoin miner turned AI infrastructure provider to generate $6.9 billion in income from the 15-year lease.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Hut 8|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55984222,
-    "published": 1766061324000,
-    "title": "Uniswap vote could soon tie UNI token value to its multibillion-dollar trading engine",
-    "body": "The proposal would also execute an immediate burn of 100 million UNI from the treasury, worth over $500 million at current rates.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55985071,
-    "published": 1766063567000,
-    "title": "Attacker takes over multisig minutes after creation, drains up to $40M slowly",
-    "body": "Forensic analysis suggests an attacker took control of a whale’s multisig wallet minutes after creation and has been slowly draining funds since.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 55984677,
-    "published": 1766062800000,
-    "title": "Crypto losses near $3.4B as hackers went ‘big game hunting’",
-    "body": "Three major incidents accounted for the majority of crypto losses in 2025, while upgraded security across DeFi protocols managed to keep hackers at bay, according to Chainalysis.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55985675,
-    "published": 1766064604000,
-    "title": "Bitcoin Washout Points To $180,000 In 90 Days, GMI Says",
-    "body": "Global Macro Investor (GMI) head of macro research Julien Bittel posted a bitcoin “oversold RSI” roadmap on X, arguing the market has tracked it closely and tying the setup to a broader view that the cycle could run into 2026—an outlook he says would render the traditional “four-year cycle” framework obsolete. “A lot of people have been asking for an update on this chart, so I’ll just leave this here for anyone who needs to see it,” Bittel wrote, sharing a chart of bitcoin’s average price path after RSI falls below 30, with the RSI breach marked as t=0. “This shows the average BTC trajectory following an oversold RSI reading, with RSI falling below 30 at t=0.” Can Bitcoin Skyrocket To $180,000 In Just 90 Days? Bittel said the overlay has matched the current tape. “So far, it’s been pretty bang on,” he wrote. The “average market path” line rises sharply over the weeks that follow. The chart shows a steep rally within 90 days after t=0, with the BTC price potentially surging near the $180,000 area. Related Reading: From Cycles To Continuity: Why Bitcoin’s 4-Year Pattern May Be Breaking Still, Bittel emphasized the chart is not meant to be a precision forecast. “No, it won’t be perfect,” he wrote, adding that “assuming the bull market isn’t already over, it’s a useful chart to keep in mind.” He also warned that the rebound process can be uneven: “bases can take time to form and usually come with plenty of chop before the bigger up-move kicks in.” He reiterated the conditional nature of the framework in blunt terms. “If you think the bull market is over and we are now facing twelve months of pain, this chart is not for you. Move along…” The bigger point, Bittel said, is that the familiar cycle narrative should not be taken for granted. “Unless you believe the 4-year cycle is still in play, which we don’t, this chart should hold up contextually over time,” he wrote. “As we’ve outlined many times, based on our work on the business cycle, the current path of financial conditions, and our expectations for overall liquidity, the balance of probabilities is that this cycle extends well into 2026.” In that scenario, he added, “the 4-year cycle is dead.” Bittel also challenged the common assumption that bitcoin’s rhythm is fundamentally “about the halving.” “Remember, the 4-year cycle was never about the halving, despite widespread belief that it is, but instead has always been driven by the public debt refinancing cycle,” he wrote, adding that post-COVID that dynamic “was pushed out by one year.” He now argues the cycle is “officially broken” because “the weighted average maturity of the debt term structure has increased.” He framed the macro backdrop in terms of debt-service pressure and liquidity response. “The bigger picture is that there is still a vast amount of interest expense that needs to be monetized, which has far exceeded GDP growth,” Bittel wrote. Reactions across crypto X ranged from enthusiastic to skeptical. The ₿itcoin Therapist replied: “$180,000 BTC in 90 days.” Related Reading: Bitcoin ‘Death Cross’ Panic Returns: History Says It’s A Late Signal LondonCryptoClub (@LDNCryptoClub) said the chart “lines up with our thinking,” tying the narrative to what it called the Fed’s “not QE QE” dynamics and “liquidity games” between the Treasury and the central bank. The account still anticipated turbulence into year-end—“noise and chop into year end (which is negative liquidity)”—before “these fundamental drivers start to see BTC reconnect with the bull trend,” adding that “sentiment appears sufficiently bad for a BTC move higher to be the most hated trade to start 2026!” Others struck a more sardonic tone. “precision-grade hopium here,” wrote doug funnie (@cryptoklotz), while still sketching a conditional path forward: Still think as long as BTC survives (ie doesn’t close in the $70k’s and starts grinding down or accepting there), there’s a plausible path to new highs on the earlier side in 2026. Just need to survive the ‘transition zone’ of 4 year deterministic selloors exhausting, and then ending up in an awkward spot as the music keeps playing.” Capriole Investments founder Charles Edwards was more critical of the statistical grounding, urging a broader test set: “Now re run this with 100 occurrences, not 5 during up only.” For traders, Bittel’s post effectively combines a tactical signal with a regime call: the RSI sub-30 template may map the rebound path, but only “assuming the bull market isn’t already over,” and only in a world where, as he put it, “the balance of probabilities” favors a cycle that “extends well into 2026.” At press time, BTC traded at $87,330. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|bitcoin price prediction|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 55985848,
     "published": 1766064933000,
     "title": "U.S. inflation data surprises, with CPI higher by just 2.7% in November",
@@ -562,41 +200,6 @@
         "ID": 53,
         "NAME": "UNI",
         "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 55988641,
-    "published": 1766062800000,
-    "title": "Digital Bank SoFi Joins Stablecoin Race With Own Dollar-Backed Token on Ethereum",
-    "body": "Digital bank operator SoFi Technologies Inc. has launched its own US dollar stablecoin, joining a growing list of financial firms betting on what is seen as a critical component of the digital asset economy.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:SOFI",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
       },
       {
         "TYPE": "122",
@@ -3562,6 +3165,105 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56039219,
+    "published": 1766149210000,
+    "title": "XRP Holders Are In For More Pain As There’s ‘Not A Single Support Holding’",
+    "body": "XRP holders could be facing another prolonged stretch of downside pressure as the cryptocurrency continues to lose ground in a weakening market. XRP’s performance this period has been underwhelming enough that analysts have seemingly given up hope of the price challenging higher resistance levels in the near term. They revealed that XRP has slipped below key support zones, leaving few technical barriers to slow further declines. XRP Faces Further Decline As All Support Fails A crypto market analyst who goes by the name ‘Guy on the Earth’ on X has shared a rather bleak outlook on XRP’s near-term prospects. In his post on Thursday, the analyst revealed that XRP looks set for more pain as the market structure continues to deteriorate. He noted that price action is now threatening to lose its Descending Channel, signaling overall weakness rather than stabilization. Related Reading: Bitcoin Just Entered Extreme Oversold Levels And Analysts Predict New ATH Targets According to the expert, the probability of XRP reclaiming the $1.95 level by the weekly close is incredibly low. However, losing this consolidation range that has contained price since November 2024 opens the door to a technical downside target near $0.90. He also pointed out that a confirmation from the monthly timeframe aligns with the two-week chart, which is fast approaching its close in just a few days. Guy on the Earth stated there was little optimism left in the current price setup. He emphasized that no meaningful support levels are holding, and the market demand appears thin, leaving XRP vulnerable to continued selling pressure and potential declines. The analyst’s review of the cryptocurrency’s performance was blunt, suggesting that the market “is what it is” at this stage. Looking at the chart shared alongside the analysis, XRP is clearly trading within a well-defined downward channel that has guided price lower for several months now. Each bounce attempt has been capped by descending resistance, reinforcing the cryptocurrency’s bearish trend. Recent candles also show price drifting toward the lower boundary of the Descending Channel, increasing the risk of a correction. Momentum indicators at the bottom of the chart also reflect ongoing pressure. XRP’s Relative Strength Index (RSI) sits near the lower end of its range, showing persistent weakness as price fails to recover. Related Reading: Ripple Goes Institutional: What The Doppler Finance And SBI Partnership Means For XRP Analyst Weighs Short-Term Hope For XRP When asked by a crypto community member if a daily close back inside the Descending Channel could temporarily save XRP from an extended downturn, Guy on the Earth acknowledged the possibility. He stated that such a move could help in the short term but described it as a “trivial” development compared to larger structural levels. The crypto analyst’s focus remains on the $1.95 level on the two-week close, highlighting it as the most critical area to watch. He pointed out that this structure has remained intact for the past 13 months, making it a defining support zone for XRP. While bouncing back to the channel would not erase the broader bearish trend, the expert revealed that it would at least suggest that XRP still has a chance to grow. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56039995,
+    "published": 1766149996000,
+    "title": "What Malaysia’s royal stablecoin reveals about Asia’s shift to tokenized money",
+    "body": "Malaysia’s RMJDT shows how Asia is pulling stablecoins into regulated finance, linking tokenized assets with local-currency onchain settlement.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 56040349,
+    "published": 1766150738000,
+    "title": "Terraform Bankruptcy Admin Sues Jump Trading for $4B Over TerraUSD Collapse: Report",
+    "body": "Jump is accused of unlawfully profiting from and contributing to the collapse of Terra, in a lawsuit seeking $4 billion in damages.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "terra-luna-2|luna-wormhole|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       }
     ]
   }
