@@ -1,350 +1,5 @@
 [
   {
-    "id": 56003677,
-    "published": 1766092917000,
-    "title": "NYSE parent in talks to invest in crypto company MoonPay: Report",
-    "body": "The discussions follow Intercontinental Exchange's $2 billion investment in prediction platform Polymarket in October.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004362,
-    "published": 1766094415000,
-    "title": "Altcoins plunge as bitcoin's $85,000 test triggers $550 million in liquidations",
-    "body": "Solana tumbled below $120 to its weakest price since April, while SUI, DOGE and ADA also fell sharply.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Market Wrap|Solana News|Altcoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004020,
-    "published": 1766093637000,
-    "title": "SOL price action lags the wider altcoin market: Is Solana’s heyday over?",
-    "body": "SOL falls behind multiple altcoin competitors as its onchain activity, fee and DApp revenues slump. Cointelegraph explains why.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004807,
-    "published": 1766095248000,
-    "title": "Federal Reserve Revamps Bank Crypto Rules, Opening New Channels for Digital Asset Trading",
-    "body": "The U.S. Federal Reserve has taken a notable step in reshaping how banks under its supervision can engage with crypto, reversing guidance introduced in 2023 that had sharply limited such activities. Related Reading: XRP Risks Double-Top Crash Toward $0.40, Peter Brandt Warns The decision reflects a broader reassessment inside the central bank about how regulation should adapt to financial innovation, especially as digital assets continue to intersect with traditional banking infrastructure. Under the earlier framework, uninsured state-chartered banks were required to follow the same constraints as federally insured institutions in order to remain under Federal Reserve supervision. That approach effectively barred some crypto banks from accessing core payment systems or Federal Reserve membership. BTC's price trends to the downside on the daily chart. Source: BTCUSD on Tradingview What the Policy Shift Changes for Banks The new guidance establishes a formal pathway for both insured and uninsured banks supervised by the Federal Reserve to pursue certain innovative activities, including those related to cryptocurrencies. Institutions will still be required to meet supervisory and risk-management standards, but they will no longer be automatically excluded based on their business models. For uninsured banks, the implications are significant. Access to Federal Reserve membership would allow direct settlement through central bank payment systems rather than reliance on intermediary banks. This idea could lower operational frictions for crypto custody, settlement, and related services, potentially expanding the role of banks in digital asset markets without changing existing safety and soundness expectations. Custodia Case Highlights Regulatory Tensions The policy reversal has renewed attention on Custodia Bank, a crypto-focused institution whose application for a Federal Reserve master account was denied in part due to the now-rescinded guidance. Custodia CEO Caitlin Long has argued that the 2023 policy effectively blocked lawful access to the Fed’s infrastructure and welcomed its withdrawal as a correction of past regulatory overreach. Not all policymakers agree. Federal Reserve Governor Michael Barr dissented from the decision, warning that loosening the framework could undermine a level competitive playing field and encourage regulatory arbitrage. Michael Barr’s position highlights the ongoing debate within regulatory circles over how to strike a balance between innovation and financial stability.r Broader Implications for Crypto Markets While the Fed’s move does not directly change how cryptocurrencies such as Bitcoin or Ethereum trade, it may influence market structure over time. Easier access for banks could support deeper institutional participation, greater liquidity, and expanded custody and settlement options. Related Reading: Ethereum Risks Slide To $2,000 If December Closes Below This Level: Analyst For now, the shift signals a more flexible regulatory posture, one that acknowledges the rapid evolution of digital asset markets and the banks that seek to serve them. Cover image from ChatGPT, BTCUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|bitcoin price|btc|btc price|btcusd|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004847,
-    "published": 1766095146000,
-    "title": "Coinbase appoints ex-UK finance minister George Osborne to chair advisory council",
-    "body": "Osborne began advising Coinbase in 2024 and has been critical of the UK government's lack of robust digital asset regulations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004463,
-    "published": 1766094412000,
-    "title": "Brazilian stock exchange to launch tokenization platform and stablecoin",
-    "body": "A representative from Brazil's stock exchange, B3, said the stablecoin would be “a tool to enable trading in tokens,\" which it planned to offer in 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56004639,
-    "published": 1766094300000,
-    "title": "Charles Hoskinson Talks Trump's Impact on Crypto",
-    "body": "Charles Hoskinson comments on Trump's meme coin, the president's impact on crypto, and how the government ruined the super cycle:“The minute that Trump Coin got launched. It went from ‘crypto is bipartisan’ to ‘crypto = Trump = bad = corruption.'\"",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56005074,
-    "published": 1766095656000,
-    "title": "Charles Hoskinson: Trump Crypto Ventures Have Been 'Frustrating'—But Others Won't Talk About It",
-    "body": "The Cardano founder said Trump’s meme coin launch and politicization of crypto hurt the industry’s long-term prospects ahead of the 2026 midterm elections.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56004958,
-    "published": 1766094900000,
-    "title": "Charles Hoskinson Critiques US Government on Crypto Objectivity",
-    "body": "Cardano’s Charles Hoskinson says the U.S. government needs much more rigorous testing when it comes to deciding which cryptocurrencies are considered valuable and which are not.“Why is XRP in the system but not Sui? Why is Solana in the system but not BNB? Can we objectively answer that against some metric?”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56005933,
     "published": 1766097149000,
     "title": "Crypto CLARITY Act set for Senate markup in January, says Sacks",
@@ -2726,6 +2381,198 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 56057581,
+    "published": 1766179531000,
+    "title": "Crypto's closest ally in Congress, Sen. Lummis, is retiring next year",
+    "body": "The most tireless advocate of digital assets issues in the U.S. Senate said she's grown too tired to keep at it, leaving her Republican seat in play next year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Cynthia Lummis|U.S. Senate|crypto legislation|U.S. Senate Banking Committee|U.S. Political Elections|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56057603,
+    "published": 1766179422000,
+    "title": "South Korean Hyundai Offices Evacuated Over Bomb Threat, Bitcoin Ransom Demand: Report",
+    "body": "An anonymous individual called in a bomb threat on two Hyundai buildings in South Korea, demanding over $1 million in Bitcoin as ransom.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56057860,
+    "published": 1766179800000,
+    "title": "SEC confirms years-long director bans for former Alameda, FTX executives",
+    "body": "In the latest update on the FTX saga, the SEC confirmed Caroline Ellison had consented to a officer-and-director bar, preventing her from leading any companies for 10 years.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 56058646,
+    "published": 1766181630000,
+    "title": "Ethereum Exchange Supply Just Crashed To New Lows, Why This Is Bullish For Price",
+    "body": "CryptoQuant has released a new report, highlighting a significant shift in Ethereum’s exchange supply dynamics and institutional behavior. According to the data, the amount of ETH held on crypto exchanges has crashed to unexpected lows. The decline coincides with growing institutional accumulation, a trend often viewed as an early signal of a bullish price outlook. Ethereum Exchange Balances Fall To 2016 Lows Arab Chain, a crypto analyst on CryptoQuant, revealed that Ethereum’s exchange supply ratio across all tracked platforms has declined to approximately 0.137. According to the data referenced in the report, this represents one of the lowest readings observed since 2016. Related Reading: Ethereum 2-Year Trend Maps Out This Unique Crash Path To Bottom At $2,187 The analyst emphasized that this metric reflects the proportion of total ETH supply currently held on exchanges relative to the overall circulating supply. Lower levels of this metric reflect a smaller fraction of ETH ready for liquidation on exchanges, which the analyst identifies as an important factor in understanding market liquidity conditions. Arab Chain also noted that the sustained decline in this ratio indicates a continued outflow of ETH from centralized exchanges to external wallets. This movement suggests that a smaller portion of Ethereum’s supply is readily available for trading. It also signals growing confidence among holders who prefer long-term positioning over short-term speculation. From a broader market perspective, a shrinking exchange supply is often seen as bullish for prices due to basic supply-and-demand dynamics. When fewer coins are available to sell, even a slight increase in demand can push prices up, as buyers compete for a smaller pool of liquid ETH. Reduced liquidity can also limit the intensity of declines, as large sell orders become harder to execute without moving the market. In his report, Arab Chain references historical behaviour, illustrated by a chart showing the Ethereum supply ratio for all exchanges. The analyst noted that similar declines in exchange supply have occurred during periods of reaccumulation or in the lead-up to stable price movements following significant market volatility. Ethereum Supply On Binance Crashes Arab Chain has also shared insights on Ethereum’s supply on Binance. The analyst disclosed that ETH balances on the exchange have been steadily declining over the past few months. As one of the largest crypto exchanges in the world, Binance’s reserve changes often reflect broader market sentiment. Related Reading: Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue? The CryptoQuant report highlights that the Exchange Supply Ratio on Binance has crashed to 0.0325, a relatively low level compared to previous months. This indicates a steady withdrawal of ETH from the crypto exchange, reducing the amount of tokens available for immediate spot market selling. Arab Chain suggested that the drop in Ethereum supply on Binance shows that traders are becoming more cautious. Rather than engaging in short-term trades, many appear to be holding ETH off exchanges due to ongoing market volatility and uncertainty. The analyst added that the falling supply, combined with ETH’s price stability, indicates lower selling pressure. It also signals that the market may be entering a new phase of liquidity absorption and repositioning. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|Arab Chain|Binance|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|exchange supply ratio",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56058453,
+    "published": 1766181201000,
+    "title": "FTX, Alameda Execs Will Be Barred From Wall Street Roles for Up to 10 Years",
+    "body": "The SEC proposed settlement agreements for key members of FTX co-founder and former CEO Sam Bankman-Fried’s inner circle.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 56058825,
+    "published": 1766181915000,
+    "title": "Brooklyn Man Charged in Phishing Scheme That Swiped $16 Million From Coinbase Users",
+    "body": "A 23-year-old Brooklynite, Ronald Spektor, was charged with stealing $16 million in cryptocurrency from dozens of Coinbase users.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
