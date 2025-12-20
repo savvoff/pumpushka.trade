@@ -1,174 +1,5 @@
 [
   {
-    "id": 56040349,
-    "published": 1766150738000,
-    "title": "Terraform Bankruptcy Admin Sues Jump Trading for $4B Over TerraUSD Collapse: Report",
-    "body": "Jump is accused of unlawfully profiting from and contributing to the collapse of Terra, in a lawsuit seeking $4 billion in damages.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "terra-luna-2|luna-wormhole|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56041255,
-    "published": 1766151861000,
-    "title": "Solana AI token Ava hit by launch sniping tied to deployer: Bubblemaps",
-    "body": "Bubblemaps says 23 wallets tied to the Ava deployer sniped 40% of the AVA supply at launch. The Solana AI token later fell 96% from its peak.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56041763,
-    "published": 1766152849000,
-    "title": "Here’s How Much % Of Bitcoin Supply Is Currently Sitting In Losses",
-    "body": "On-chain analytics platform Glassnode has revealed the number of Bitcoin supply that is currently sitting at a loss. This comes as the BTC price continues to trade below the psychological $90,000 level following its crash, which began last month. Here’s The Amount Of Bitcoin Supply At A Loss In a report, Glassnode revealed that the Bitcoin supply in loss has risen to 6.7 million BTC, marking the highest level of loss-bearing supply observed in this cycle. The analytics platform further noted that this represents 23.7% of the circulating supply, which is currently underwater. 10.2% of this supply is held by long-term holders and 13.5% by short-term holders. Related Reading: The Bearish Structure That Puts Bitcoin Price At $92,550, And Then $82,000 Glassnode stated that this distribution suggests that, much like in prior cycle transitions into deeper bearish regimes, the loss-bearing Bitcoin supply accumulated by recent buyers is gradually maturing into the long-term cohort. Meanwhile, the analytics platform noted that the 6-7 million range, which has been at a loss since mid-November, mirrors early transitional phases of prior cycles, where mounting investor frustration came before a shift toward more bearish conditions and intensified capitulation at lower Bitcoin prices. Notably, the Bitcoin price has dropped to levels last seen in 2024, erasing its year-to-date (YTD) gains. Glassnode stated that this has left behind a dense supply cluster accumulated by top buyers in the $93,000 to $120,000 range. The resulting supply distribution is said to reflect a top-heavy market structure where recovery attempts are capped by heavy overhead sell pressure, especially in the early stages of a bearish phase. Glassnode declared that as long as the Bitcoin price remains below this range and fails to reclaim key thresholds, most notably the Short-Term Holder Cost Basis at $101,500, the risk of further corrective downside persists. BTC Spot Demand Is Unstable Glassnode revealed that the Bitcoin spot market flows continue to reflect an uneven demand profile across major venues. The Cumulative Volume Delta bias is said to show periodic bursts of buy-side activity, but has failed to develop into sustained accumulation, especially during the recent BTC price pullbacks. Related Reading: Why Is Bitcoin And Ethereum Prices Down Today? BlackRock Deposits Spark Worry The on-chain analytics platform noted that the Coinbase spot CVD remains relatively constructive, indicating steadier participation from US-based investors. On the other hand, Binance and aggregate Bitcoin flows remain choppy and largely directionless. Glassnode stated that these dispersion points point to selective engagement rather than coordinated spot demand. Meanwhile, the platform alluded to recent Bitcoin price declines, which it pointed out have not triggered decisive expansion in positive CVD. Glassnode noted that this suggests dip-buying remains tactical and short-term. In the absence of sustained accumulation across all venues, Bitcoin’s price action continues to rely more on activity in the derivatives market and liquidity conditions rather than organic spot demand. At the time of writing, the Bitcoin price is trading at around $86,800, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|Binance|bitcoin|Bitcoin news|bitcoin price|Bitcoin Spot Market|Bitcoin supply|btc|BTC news|btc price|btcusd|BTCUSDT|Coinbase Spot CVD|CoinMarketCap|cumulative volume delta|glassnode|Year-To-Date|YTD",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56041757,
-    "published": 1766152800000,
-    "title": "Re-litigating the GENIUS Act Brings Risk and No Rewards",
-    "body": "If bipartisan agreements like the GENIUS Act can be immediately reopened whenever an incumbent industry dislikes their competitive implications, legislative compromise becomes impossible, argues Blockchain Association CEO Summer Mersinger.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion|Stablecoin legislation|US Congress|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
-    "id": 56042373,
-    "published": 1766153663000,
-    "title": "CoinDesk 20 Performance Update: Index Jumps 4.6% as All Constituents Trade Higher",
-    "body": "Sui (SUI) gained 7% and Solana (SOL) rose 6.9%, leading the index higher.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 96,
-        "NAME": "SUI",
-        "CATEGORY": "SUI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56042986,
     "published": 1766154496000,
     "title": "Is Bitcoin Primed for a 2026 Breakout? Analysts Weigh History vs. Fundamentals",
@@ -1531,6 +1362,111 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56092575,
+    "published": 1766232000000,
+    "title": "The UK’s crypto rulebook is finally taking shape",
+    "body": "A long-awaited crypto regime in the U.K. is moving from theory to execution, even if firms must wait until 2027 for full clarity.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|UK|UK Government|FCA|Feature",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56093116,
+    "published": 1766239214000,
+    "title": "Why XRP Price Is Playing Catch-Up Despite Successful ETF Launch: Analyst",
+    "body": "After a strong start to the year, the XRP price has struggled to build a sustained bullish momentum throughout 2025. These struggles are highlighted in the altcoin’s downward spiral since hitting the all-time high of $3.65 in July 2025. The launch of the spot XRP exchange-traded funds (ETFs) in the United States was expected to offer some relief through increased demand for the underlying asset’s price. However, the latest on-chain analysis shows that the ETFs have failed to reduce the bearish pressure on the XRP price. XRP Price Could Fall To $1.5 If Exchange Inflows Persist In a Quicktake post on the CryptoQuant platform, pseudonymous analyst PelinayPA revealed that the activity of a specific group of XRP whales has been the major driving force behind the steady price decline. The market pundit provided an ETF angle to this whale activity over the past few weeks. Related Reading: Peter Brandt Highlights Bearish XRP Price Chart, ‘You Need To Deal With It’ PelinayPA drew insights from the Exchange Inflow – Value Bands chart, which tracks and sorts the amount of a specific cryptocurrency flowing into centralized exchanges by different investor cohorts within a given period. Recent data shows that the majority of inflows are coming from the 100K-1M XRP and 1M+ XRP bands. PelinayPA wrote in the Quicktake post: After each major inflow spike on the chart, price forms a lower high and lower low structure, clearly showing that supply is overwhelming demand. This happens because there is no strong new spot buyer in the market. Even though whales are not aggressively dumping, the continuous increase in available supply keeps pushing the price lower. Using the inflow intensity and price reactions, the crypto analyst posited that the first major support zone stands at around $1.82 – $1.87. According to PelinayPA, this region represents an area with substantial historical buying activity that has offered stability in the past. However, the XRP price could fall to as low as the $1.50 – $1.60 range if the exchange inflows from whales continue to climb. As earlier inferred by the analyst, large transfers to centralized exchanges are often viewed as a signal of impending selling pressure. XRP Whales Offloaded Their Holdings When Spot ETFs Went Live As seen with its predecessors — Bitcoin and Ethereum ETFs, the similar XRP exchange-traded products were expected to create institutional demand, leading to higher prices for the altcoin. However, the story has been the exact opposite for the XRP price, which is nearly 50% down from its all-time high. Market data shows that the US-based spot XRP ETFs have not registered a negative outflow day since their trading debut in mid-November. According to SoSoValue, the exchange-traded funds have a total net asset of over $1.14 billion. Related Reading: Ethereum Exchange Supply Just Crashed To New Lows, Why This Is Bullish For Price Interestingly, PelinayPA hypothesized that the reason behind XRP’s steady decline is that whales started offloading their holdings on exchanges as the ETF expectations heightened. This provided the sell-side liquidity for the retail investors who were looking to buy the ETF launch news. PelinayPA said that this occurrence explains why the XRP price faces selling pressure each time it approaches the $1.95 level. The market analyst noted that the exchange inflows would first need to dry up if the altcoin is to see a bullish run anytime soon. As of this writing, the price of XRP stands at around $1.90, reflecting an over 3% jump in the past 24 hours. Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|Spot XRP ETFs|xrp|xrp news|XRP Price|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56093113,
+    "published": 1766239200000,
+    "title": "BlackRock's Bitcoin ETF rare fund with massive 2025 inflows despite negative performance",
+    "body": "\"If you can do $25 billion in bad year, imagine the flow potential in good year,\" said Bloomberg's Eric Balchunas",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
