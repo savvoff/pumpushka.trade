@@ -1,274 +1,5 @@
 [
   {
-    "id": 56031482,
-    "published": 1766137475000,
-    "title": "Metaplanet to debut US trading with Deutsche Bank under MPJPY",
-    "body": "Metaplanet will debut US trading via American Depositary Receipts, aiming to broaden access for US investors without raising new capital.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56031228,
-    "published": 1766137271000,
-    "title": "Metaplanet to start sponsored ADR program to woo over-the-counter U.S. investors",
-    "body": "The sponsored level I ADR listing strengthens U.S. investor access, settlement quality and market credibility, the company said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|MetaPlanet|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      }
-    ]
-  },
-  {
-    "id": 56031856,
-    "published": 1766137886000,
-    "title": "Fragmentation drains up to $1.3B a year from tokenized assets: Report",
-    "body": "New research models how crosschain price gaps and capital friction are eroding efficiency as tokenized markets scale across blockchains.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      }
-    ]
-  },
-  {
-    "id": 56032737,
-    "published": 1766139453000,
-    "title": "Bitcoin’s Post-CPI Whipsaw Liquidates Over $500M Again",
-    "body": "Liquidations surged amid volatility from derivatives profit-taking and a shifting macro backdrop from the Bank of Japan’s rate hike.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56032669,
-    "published": 1766139295000,
-    "title": "Jump Trading hit with $4B lawsuit tied to $50B Terra crash: WSJ",
-    "body": "Terraform Labs sued Jump Trading and senior executives for $4 billion, alleging the firm manipulated Terra’s ecosystem and unlawfully profited from the crash, the WSJ reported.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 34,
-        "NAME": "LUNA",
-        "CATEGORY": "LUNA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56032537,
-    "published": 1766138996000,
-    "title": "Coinbase files lawsuits in 3 states over attempts to regulate prediction markets",
-    "body": "The crypto exchange is taking legal action against Connecticut, Michigan and Illinois, Chief Legal Officer Paul Grewal wrote on X.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Coinbase|Prediction Markets|Connecticut|Michigan|Illinois|lawsuits|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56032355,
-    "published": 1766138722000,
-    "title": "Latest bitcoin bull turns bear, Fidelity director warns of year-long crypto winter",
-    "body": "Fidelity’s global macro director, Jurien Timmer, has called the end of the latest bitcoin bull run, while highlighting gold’s continued bull market strength.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Fidelity|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56035601,
     "published": 1766143812000,
     "title": "Bitcoin Feels The Weight Of Quantum Risk Concerns, Industry Leaders Warn",
@@ -1952,6 +1683,53 @@
         "ID": 46,
         "NAME": "SOL",
         "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56083673,
+    "published": 1766224808000,
+    "title": "Here’s Why The XRP Price Keeps Crashing",
+    "body": "On-chain analytics platform CryptoQuant has revealed why the XRP price keeps crashing, recently dropping below the psychological $2 level. The platform noted that the XRP ETF approval has failed to stop the selling pressure but instead looks to have escalated it. Why The XRP Price Is Crashing Despite ETF Success In a CryptoQuant report, analyst PelinayPA revealed that the XRP price is facing significant selling pressure from whales holding between $100,000 and 1m XRP and those holding above 1m. These XRP whales are said to account for the majority of inflows into the crypto exchange Binance. Related Reading: Peter Brandt Highlights Bearish XRP Price Chart, ‘You Need To Deal With It’ These transfers indicate that these whales are typically looking to offload these coins, which is putting selling pressure on the XRP price. PelinayPA noted that after each major inflow spike on the chart, the XRP price forms a lower high and lower low structure, suggesting that supply is overwhelming demand at the moment. The CryptoQuant report noted that this happens because there is no strong new spot buyer in the market. The continuous increase in available supply is also said to keep pushing the XRP lower, even though the whales are not aggressively dumping. Meanwhile, PelinayPA highlighted key price levels to watch out for as the price continues to crash. The analyst stated that, based on the inflow intensity and price reactions, the first major support zone stands between $1.82 and $1.87. She noted that this range marked where the price briefly stabilized and where small buyers appeared. However, XRP still risks crashing to the $1.50 and $1.66 range if the large outflows continue. The chart does not indicate that the altcoin could rally anytime soon with this selling pressure. Whales Took Advantage Of The ETF Narrative The CryptoQuant report stated that, in theory, the XRP ETF process was expected to create institutional demand and push the price higher through spot buying. However, that hasn’t been the case, as there have instead been high-volume XRP inflows to Binance. PelinayPA explained that whales were the first to act as ETF approval expectations increased. Related Reading: XRP Hasn’t Entered A Bear Market Yet; Analyst Shares Why The analyst further revealed that XRP accumulated in advance for the ETF narrative was transferred to exchanges and used as sell-side liquidity. Basically, whales sold the ETF approval story to retail investors. As a result, the XRP price faces significant selling pressure every time it approaches the $1.95 level. PelinayPA reiterated that expecting a bullish move before exchange inflows decline would be an unrealistic assumption. However, it is worth noting that the XRP ETFs have been successful so far, accumulating over $1 billion in net assets in just over a month since their launch. At the time of writing, the XRP price is trading at around $1.90, up almost 4% in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|altcoin|Binance|CoinMarketCap|cryptoquant|PelinayPA|Ripple|Spot XRP ETFs|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
