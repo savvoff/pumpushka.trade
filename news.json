@@ -1,197 +1,5 @@
 [
   {
-    "id": 56057581,
-    "published": 1766179531000,
-    "title": "Crypto's closest ally in Congress, Sen. Lummis, is retiring next year",
-    "body": "The most tireless advocate of digital assets issues in the U.S. Senate said she's grown too tired to keep at it, leaving her Republican seat in play next year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Cynthia Lummis|U.S. Senate|crypto legislation|U.S. Senate Banking Committee|U.S. Political Elections|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56057603,
-    "published": 1766179422000,
-    "title": "South Korean Hyundai Offices Evacuated Over Bomb Threat, Bitcoin Ransom Demand: Report",
-    "body": "An anonymous individual called in a bomb threat on two Hyundai buildings in South Korea, demanding over $1 million in Bitcoin as ransom.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56057860,
-    "published": 1766179800000,
-    "title": "SEC confirms years-long director bans for former Alameda, FTX executives",
-    "body": "In the latest update on the FTX saga, the SEC confirmed Caroline Ellison had consented to a officer-and-director bar, preventing her from leading any companies for 10 years.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 56058646,
-    "published": 1766181630000,
-    "title": "Ethereum Exchange Supply Just Crashed To New Lows, Why This Is Bullish For Price",
-    "body": "CryptoQuant has released a new report, highlighting a significant shift in Ethereum’s exchange supply dynamics and institutional behavior. According to the data, the amount of ETH held on crypto exchanges has crashed to unexpected lows. The decline coincides with growing institutional accumulation, a trend often viewed as an early signal of a bullish price outlook. Ethereum Exchange Balances Fall To 2016 Lows Arab Chain, a crypto analyst on CryptoQuant, revealed that Ethereum’s exchange supply ratio across all tracked platforms has declined to approximately 0.137. According to the data referenced in the report, this represents one of the lowest readings observed since 2016. Related Reading: Ethereum 2-Year Trend Maps Out This Unique Crash Path To Bottom At $2,187 The analyst emphasized that this metric reflects the proportion of total ETH supply currently held on exchanges relative to the overall circulating supply. Lower levels of this metric reflect a smaller fraction of ETH ready for liquidation on exchanges, which the analyst identifies as an important factor in understanding market liquidity conditions. Arab Chain also noted that the sustained decline in this ratio indicates a continued outflow of ETH from centralized exchanges to external wallets. This movement suggests that a smaller portion of Ethereum’s supply is readily available for trading. It also signals growing confidence among holders who prefer long-term positioning over short-term speculation. From a broader market perspective, a shrinking exchange supply is often seen as bullish for prices due to basic supply-and-demand dynamics. When fewer coins are available to sell, even a slight increase in demand can push prices up, as buyers compete for a smaller pool of liquid ETH. Reduced liquidity can also limit the intensity of declines, as large sell orders become harder to execute without moving the market. In his report, Arab Chain references historical behaviour, illustrated by a chart showing the Ethereum supply ratio for all exchanges. The analyst noted that similar declines in exchange supply have occurred during periods of reaccumulation or in the lead-up to stable price movements following significant market volatility. Ethereum Supply On Binance Crashes Arab Chain has also shared insights on Ethereum’s supply on Binance. The analyst disclosed that ETH balances on the exchange have been steadily declining over the past few months. As one of the largest crypto exchanges in the world, Binance’s reserve changes often reflect broader market sentiment. Related Reading: Why Did The Bitcoin, Ethereum, And XRP Prices Crash, And Will It Continue? The CryptoQuant report highlights that the Exchange Supply Ratio on Binance has crashed to 0.0325, a relatively low level compared to previous months. This indicates a steady withdrawal of ETH from the crypto exchange, reducing the amount of tokens available for immediate spot market selling. Arab Chain suggested that the drop in Ethereum supply on Binance shows that traders are becoming more cautious. Rather than engaging in short-term trades, many appear to be holding ETH off exchanges due to ongoing market volatility and uncertainty. The analyst added that the falling supply, combined with ETH’s price stability, indicates lower selling pressure. It also signals that the market may be entering a new phase of liquidity absorption and repositioning. Featured image from Adobe Stock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|Arab Chain|Binance|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|exchange supply ratio",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56058453,
-    "published": 1766181201000,
-    "title": "FTX, Alameda Execs Will Be Barred From Wall Street Roles for Up to 10 Years",
-    "body": "The SEC proposed settlement agreements for key members of FTX co-founder and former CEO Sam Bankman-Fried’s inner circle.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 56058825,
-    "published": 1766181915000,
-    "title": "Brooklyn Man Charged in Phishing Scheme That Swiped $16 Million From Coinbase Users",
-    "body": "A 23-year-old Brooklynite, Ronald Spektor, was charged with stealing $16 million in cryptocurrency from dozens of Coinbase users.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56061829,
     "published": 1766188803000,
     "title": "Citi Analysts Project Bitcoin Price Could Reach $189,000 Next Year In Bullish Scenario",
@@ -971,6 +779,47 @@
         "ID": 53,
         "NAME": "UNI",
         "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56110134,
+    "published": 1766266769000,
+    "title": "Bitcoin's apparent demand shrinks, signals new bear market: Analysts",
+    "body": "Multiple factors, including ETF outflows, contracting demand, and price falling below key support levels, indicate the start of a BTC bear market.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
