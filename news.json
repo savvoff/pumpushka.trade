@@ -1,52 +1,5 @@
 [
   {
-    "id": 56111717,
-    "published": 1766269851000,
-    "title": "Major Ethereum Metric Just Hit A New All-Time High – Can Price Reclaim $3,000?",
-    "body": "Ethereum’s derivatives market is showing signs of a decisive shift beneath the surface, and price action is about to return above the $3,000 mark. On-chain data suggests trader behavior on major exchanges is shifting into a more accumulative phase. Even as ETH continues to linger below the psychologically important $3,000 price level, this metric indicates that market participants are already preparing for a bullish move and a test of direction in the days ahead. Related Reading: XRP ETFs Grow Past $60M As Price Struggles To Respond Ethereum Leverage Ratio Prints New All-Time High Data from on-chain analytics platform CryptoQuant shows that Ethereum’s Estimated Leverage Ratio on Binance has climbed to 0.611, the highest level ever recorded for this metric. The Estimated Leverage Ratio compares open interest to exchange reserves, and this offers insight into how much borrowed capital traders are deploying relative to available liquidity. Sustained increases in this ratio are a reflection of an increase in risk appetite from investors. It means that traders are committing larger leveraged positions in anticipation of favorable price movement. The current reading surpasses previous cycle peaks, and this environment can amplify price moves, since even modest spot price changes can trigger large liquidations when leverage is elevated. Ethereum: Estimated Leverage Ratio – Binance: CryptoQuant Another important metric points to an increase in Ethereum demand alongside record leverage. This metric is in the form of the Taker Buy Sell Ratio, which recently spiked to 1.13 on Binance. This is interesting because this level was last observed in September 2023. A reading above 1 indicates that market participants are executing more buy orders than sell orders. This combination of strong taker demand and rising leverage reveals optimism is now dominating short-term sentiment. The chart below shows the spikes in the Taker Buy Sell Ratio have more often than not coincided with periods of increased volatility. This buying pressure is now notable, with Ethereum trading around $2,900 in the past few hours, and this means that many traders are positioning ahead of a potential attempt to reclaim $3,000. Ethereum: Taker Buy Sell Ratio – Binance. Source: CryptoQuant Analyst Maps Out Ethereum’s Path Back Above $3,000 Adding a price-based perspective to the on-chain signals, crypto analyst Ted Pillows has outlined a clear technical roadmap for Ethereum’s next move. According to his analysis, ETH recently tapped into an important demand zone between $2,700 and $2,800 and has started to rebound from that area. This move occurred when Ethereum broke below $3,000 again this week to reach a low of $2,781 on December 18, which is highlighted on the chart below as a major support band. Ethereum Price Chart. Source: @TedPillows On X Pillows noted that holding this support zone keeps the bullish structure intact. If buyers continue to defend the $2,700-$2,800 range, Ethereum could build enough momentum for a push to the $3,100 to $3,200 region. That zone also sits just above the psychologically important $3,000 level. Related Reading: Bitcoin Feels The Weight Of Quantum Risk Concerns, Industry Leaders Warn The downside scenario is equally clear. A failure to hold the current support would expose Ethereum to a deeper pullback, with the chart pointing toward a potential retest of the $2,500 level. Featured image from Pexels, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|blockchain|crypto|crypto market|crypto news|cryptocurrency|digital currency|ETH|ethereum|ethusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56123817,
     "published": 1766294163000,
     "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
@@ -429,6 +382,29 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56154574,
+    "published": 1766355448000,
+    "title": "Tokenization will disrupt finance faster than digital disrupted media: Crypto exec",
+    "body": "Putting real-world assets onchain opens up new markets, increases capital velocity and democratizes access to finance, advocates say.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   }
