@@ -1,28 +1,5 @@
 [
   {
-    "id": 56072108,
-    "published": 1766208064000,
-    "title": "Adam Back slams Bitcoiner VC for ‘uninformed noise’ about quantum risk",
-    "body": "Blockstream CEO Adam Back said that Castle Island Ventures founding partner Nic Carter is “not helping” the ongoing quantum-Bitcoin narrative for Bitcoiners.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 56077692,
     "published": 1766216316000,
     "title": "Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting Tom Lee",
@@ -639,6 +616,29 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56123817,
+    "published": 1766294163000,
+    "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
+    "body": "Industry supporters said crypto \"would not be where it is today\" without US Senator Cynthia Lummis, who announced she would not seek reelection next year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
