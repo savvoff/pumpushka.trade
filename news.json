@@ -1,52 +1,5 @@
 [
   {
-    "id": 56097789,
-    "published": 1766246454000,
-    "title": "Bitcoin’s Cost Base Resets As New Whales Take The Lead",
-    "body": "According to onchain data, Bitcoin may be moving into a different phase of market participation rather than simply hitting a classic cycle top or bottom. Related Reading: Bitcoin Feels The Weight Of Quantum Risk Concerns, Industry Leaders Warn New, large entrants are paying higher prices and holding on, and that change is reshaping where the network’s cost base sits. This is not just a short blip; the pattern has several clear data points behind it. New Whales Rewrite The Network Cost Base According to CryptoQuant figures, addresses classified as new whales now account for almost 50% of Bitcoin’s realized cap. Before 2025, that share rarely rose above 22%. Realized cap tracks the value of BTC at the price each coin last moved, so this shift shows where capital entered the system, not just who currently holds the most coins. Reports say the realized cap share from new whales continued to climb even during pullbacks, which suggests the network’s aggregate cost basis is being re-anchored at higher levels. Short-Term Demand Surges As Larger Players Buy Dips Short-term holder supply expanded by roughly 100,000 BTC over a 30-day span, reaching an all-time high, according to analysts. That jump in STH supply points to intense demand at the near-term level. Based on exchange flows, about 37% of BTC sent to Binance came from whale-size wallets, defined in the data set as holdings between 1,000–10,000 BTC. Reports from Hyblock show the cumulative volume delta for whale wallets — those in the $100,000–$10 million range — posted a positive $135 million delta this week. In contrast, retail wallets ($0–$10,000) and mid-size traders ($10,000–$100,000) logged negative deltas of $84 million and $172 million, respectively. In short: larger players absorbed selling pressure while smaller holders reduced their exposure. Related Reading: XRP ETFs Grow Past $60M As Price Struggles To Respond Derivatives Point To Short-Term Risk Price action was sharp. Bitcoin rose to $88,000 from $85,100 in about five hours after the Bank of Japan raised rates, a move that many investors had tracked as a potential macro trigger. Open interest climbed faster than the price, and funding rates turned positive, which indicates fresh margin-driven long positions were being added rather than a simple cover of shorts. That kind of flows pattern raises the chance of volatile reversals if sentiment shifts, even when spot demand looks healthy. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|whales",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56101698,
     "published": 1766252601000,
     "title": "Crypto user loses $50 million in 'address poisoning' scam",
