@@ -407,5 +407,139 @@
         "CATEGORY": "MARKET"
       }
     ]
+  },
+  {
+    "id": 56157611,
+    "published": 1766361600000,
+    "title": "Institutional Meets Retail: How Teng Is Positioning Binance For The Next Crypto Boom",
+    "body": "Binance is now a global system layer, able to carry the weight of institutional flows, the frequency of retail activity, and the precision of regulatory infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56158463,
+    "published": 1766363565000,
+    "title": "Uniswap fee switch to go live as community vote set to pass",
+    "body": "Uniswap’s fee switch proposal, designed to boost its token’s supply-demand dynamics via token burns, has passed a community vote threshold and is set to take effect this week.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56160828,
+    "published": 1766368922000,
+    "title": "Fintechs’ prediction market addons will cost them in churn: Inversion CEO",
+    "body": "Inversion Capital CEO Santiago Roel Santos argued that “casino-like” features increase user liquidation risk, undermining long-term value capture.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 56162668,
+    "published": 1766373532000,
+    "title": "Ethereum Price Seeks Additional Gains as Bulls Try to Regain Momentum",
+    "body": "Ethereum price started a recovery wave above $2,95 0. ETH is now consolidating and might soon attempt another recovery wave if it clears $3,050. Ethereum started a decent upward move above the $2,950 zone. The price is trading above $2,950 and the 100-hourly Simple Moving Average. There was a break above a bearish trend line with resistance at $2,920 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move up if it settles above the $3,050 zone. Ethereum Price Eyes More Gains Ethereum price started a decent increase from $2,775, like Bitcoin . ETH price was able to surpass the $2,850 and $2,880 resistance levels to enter a positive zone. The bulls pushed the price above the 50% Fib retracement level of the downward move from the $3,175 swing high to the $2,775 low. Moreover, there was a break above a bearish trend line with resistance at $2,920 on the hourly chart of ETH/USD. Ethereum price is now trading above $2,950 and the 100-hourly Simple Moving Average . If there is another upward move, the price could face resistance near the $3,020 level and the 61.8% Fib retracement level of the downward move from the $3,175 swing high to the $2,775 low. The next key resistance is near the $3,050 level. The first major resistance is near the $3,080 level. A clear move above the $3,080 resistance might send the price toward the $3,150 resistance. An upside break above the $3,150 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,220 resistance zone or even $3,250 in the near term. Another Decline In ETH? If Ethereum fails to clear the $3,050 resistance, it could start a fresh decline. Initial support on the downside is near the $2,950 level. The first major support sits near the $2,915 zone. A clear move below the $2,915 support might push the price toward the $2,880 support. Any more losses might send the price toward the $2,840 region. The next key support sits at $2,800. Technical Indicators Hourly MACD – The MACD for ETH/USD is losing momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $2,915 Major Resistance Level – $3,050",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
