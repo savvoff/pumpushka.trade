@@ -1,34 +1,5 @@
 [
   {
-    "id": 56128163,
-    "published": 1766305034000,
-    "title": "Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report",
-    "body": "Brazil’s crypto market showed signs of maturity in 2025, with higher transaction volumes, larger per-user investments and growing demand for low-risk products.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56130842,
     "published": 1766307615000,
     "title": "Bitcoin Remains In Bearish State Despite Recent Surge — Here’s Why",
@@ -614,6 +585,82 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56170828,
+    "published": 1766389318000,
+    "title": "Uniswap token burn moves closer to reality as 99% voters favor ‘fee switch’ proposal",
+    "body": "The protocol’s “UNIfication” proposal has already crossed quorum, with more than 69 million UNI tokens voting in favor and virtually no opposition as of Monday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Uniswap|Uniswap Foundation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56171267,
+    "published": 1766391682000,
+    "title": "Metaplanet clears issuance of dividend-paying shares for overseas institutions",
+    "body": "Japan’s largest corporate Bitcoin holder approved preferred shares with dividends, signaling a shift toward income-focused institutional capital.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
