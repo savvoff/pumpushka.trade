@@ -1,28 +1,5 @@
 [
   {
-    "id": 56123817,
-    "published": 1766294163000,
-    "title": "Crypto community ‘very sorry’ over Senator Lummis' reelection decision",
-    "body": "Industry supporters said crypto \"would not be where it is today\" without US Senator Cynthia Lummis, who announced she would not seek reelection next year.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56126314,
     "published": 1766300715000,
     "title": "US lawmakers propose tax break for small stablecoin payments, staking rewards",
@@ -655,6 +632,41 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56165290,
+    "published": 1766379619000,
+    "title": "Binance allowed suspicious accounts to operate even after 2023 US plea agreement",
+    "body": "Leaked files show continued activity despite links to terror networks, failed ID checks and other red flags",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
