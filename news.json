@@ -1,40 +1,5 @@
 [
   {
-    "id": 56126314,
-    "published": 1766300715000,
-    "title": "US lawmakers propose tax break for small stablecoin payments, staking rewards",
-    "body": "US lawmakers are proposing a $200 tax exemption for stablecoin payments and a multi-year deferral option for crypto staking and mining rewards.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56128163,
     "published": 1766305034000,
     "title": "Crypto activity in Brazil rises 43% with average investment surpassing $1,000: Report",
@@ -95,53 +60,6 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56135900,
-    "published": 1766300425000,
-    "title": "Citi Projects $143,000 Base Case For Bitcoin In 12-Month Outlook",
-    "body": "Bitcoin is back in focus after an outlook from Citigroup, where analysts mapped out a wide price range for the next year that captures both upside momentum and lingering downside risks. The bank’s latest projections point to a base-case target of $143,000 over the next 12 months, anchored in expectations around a growth in ETF participation and clearer regulatory frameworks. Furthermore, Citi outlined an optimistic path that stretches to $189,000, alongside a bearish scenario that projects a downward move to $78,500. Related Reading: Banks Could Favor A Higher XRP Price, Finance Expert Says ETF Adoption And Institutional Demand Citi’s base and bullish scenarios are built around the same core thesis: the growing role of regulated investment vehicles in shaping Bitcoin’s market structure. Crypto analysts are always noting that Spot Bitcoin ETFs have lowered barriers for institutional investors, making it easier for large pools of capital to gain exposure without direct custody concerns. Analysts at Citi are leaning into this school of thought and are projecting bullish price levels for Bitcoin. With the expectations of ETF interest and regulatory clarity in mind, Citi sees Bitcoin trending toward $143,000 under its base case within the next 12 months. Interestingly, the outlook of a bullish scenario from the analysts projected that Bitcoin will be trading somewhere around $189,000 within the next 12 months. These projections are notable considering the current state of Bitcoin’s price action, which is currently struggling near $90,000. They are also contingent on a turnaround in the state of flows surrounding Spot Bitcoin ETFs. LATEST: 📈 Citi analysts put Bitcoin’s 12-month price base case at $143,000, driven by anticipated ETF interest and regulatory clarity, with a bullish scenario of $189,000 and a bearish one of $78,500. pic.twitter.com/jAukEDkXQe — CoinMarketCap (@CoinMarketCap) December 20, 2025 Despite its constructive outlook, Citi also flagged downside risks that could derail bullish momentum. A bearish framework by Citi analysts projects the Bitcoin price sliding to $78,500 within the next 12 months. Fundstrat’s Internal View Contrasts With Citi’s Optimism Citi’s bullish projections are in contrast to a more cautious internal outlook recently reported by Fundstrat Global Advisors. Internal discussions within the firm are warning of a possible drawdown of the Bitcoin price toward the $60,000 to $65,000 range. According to an internal note circulated to clients, Fundstrat’s head of digital asset strategy, Sean Farrell, cautioned that a further correction may unfold during the first half of 2026 as macroeconomic pressures and tightening financial conditions weigh on risk assets. According to @_FORAB, Tom Lee’s fund, Fundstrat, stated in its latest 2026 cryptocurrency strategy advice to internal clients that a significant correction is expected in the first half of the year, completely contradicting Tom Lee’s public statements. The internal report sets… pic.twitter.com/HbRoNzr85z — Wu Blockchain (@WuBlockchain) December 20, 2025 The report outlined downside targets that place Bitcoin in the $60,000 to $65,000 range, a level that would represent a 30% decrease from its current price range. The same internal framework also projected Ethereum retreating downwards to $1,800 to $2,000, alongside Solana falling into a $50 to $75 range. Related Reading: Bitcoin Feels The Weight Of Quantum Risk Concerns, Industry Leaders Warn This goes against the public stance of Fundstrat co-founder Tom Lee, who has publicly maintained a bullish stance on the long-term trajectory and new all-time highs for Ethereum and Bitcoin. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|altcoins|bitcoin|bitcoin price|btc|citi|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
