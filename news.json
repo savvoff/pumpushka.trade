@@ -1,163 +1,5 @@
 [
   {
-    "id": 51823126,
-    "published": 1766335206000,
-    "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
-    "body": "Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Long Reads",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56143533,
-    "published": 1766336419000,
-    "title": "Ethereum ETFs Record Over $600M In Outflows — Warning Signal For Traders?",
-    "body": "The price of Ethereum endured significant selling pressure over the past week, reflecting the current climate of the crypto market. The latest data shows that the spot US-based Ethereum ETFs (exchange-traded funds) did not have it any better, as significant capital flowed out of the market in the past week. Ethereum ETFs Weekly Outflow Exceeds $600 Million In a Quicktake post on the CryptoQuant platform, market pundit CryptoOnchain revealed an overwhelming exodus of institutional capital from the Ethereum market. More specifically, the analyst highlighted that over $600 million in capital flowed out of the US-based spot Ethereum ETFs over the past week. The relevant indicator here is the ETH ETF Net Flow metric, which monitors the net movement of capital (in millions of USD) into or out of the Ethereum exchange-traded fund market. Related Reading: Why XRP Price Is Playing Catch-Up Despite Successful ETF Launch: Analyst BlackRock’s iShares Ethereum Trust (with the ticker ETHA) is the primary contributor to the massive outflows witnessed by the Ethereum ETFs in the past week. CryptoQuant’s data shows that about $470 million in value was withdrawn from ETHA in the last trading week. Fidelity’s Ethereum Fund (ticker: FETH) also registered a notable amount in net outflows, as around $35 million was withdrawn by investors. Grayscale’s Ethereum ETF (ETHE) also posted significant net outflows of approximately $49 million in the past week. What The Outflow Means For Ethereum Price In normal conditions, the Ethereum ETFs tend to provide substantial price stability and institutional support for the ETH price. However, these products could also be a source of immense volatility for the market, depending on their investor behavior. Typically, waves of ETF outflows indicate a reduction in institutional risk appetite for Ethereum. CryptoOnchain explained that when the week begins with reduced exposure from institutional participants, their not-so-optimistic sentiment becomes apparent in the market, as price nosedives, too. The lack of institutional demand could, in turn, make it difficult for Ethereum to defend its immediate support levels. Moreover, this could mean that institutional interest sits at price levels further south of the Ethereum price. This creates a vacuum of demand beneath the current price levels, which short-term traders in general may have trouble filling. Until ETF flows begin ascending towards positive values, the Ethereum market could be in for more bearish pressure. It, then, becomes very likely that the ‘king of altcoins’ would revisit lower support levels. Hence, it is important that investors involve themselves in the market with utmost caution. As of press time, Ethereum is valued at approximately $2,975, with no significant price movement in the past day. Related Reading: Major Ethereum Metric Just Hit A New All-Time High – Can Price Reclaim $3,000? Featured image from Shutterstock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ethereum|Ethereum ETFs|ethereum price|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56143230,
-    "published": 1766335850000,
-    "title": "Why Bitcoin Billionaire Arthur Hayes Expects BTC to Hit $200K by March",
-    "body": "BitMex co-founder Arthur Hayes thinks Bitcoin will range until year's end, but it could jump to $200,000 before March. Here's why.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 45336747,
-    "published": 1766337109000,
-    "title": "Crypto Game Crashouts: The Biggest Shutdowns in 2025",
-    "body": "From Deadrop to Nyan Heroes and plenty in between, many promising crypto games closed up shop this year. These are the biggest.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Long Reads",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56147758,
     "published": 1766343646000,
     "title": "Whale Inflows Dampen XRP ETF Optimism As Selling Pressure Persists",
@@ -1461,6 +1303,315 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56189017,
+    "published": 1766418996000,
+    "title": "JPMorgan explores crypto trading for institutional clients: Report",
+    "body": "The move by the traditional banking giant would represent a significant deepening of ties to the crypto industry and change in CEO Jamie Dimon’s approach to digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56188679,
+    "published": 1766418379000,
+    "title": "Ethereum analysts see ‘upward breakout’ as ETH price returns to $3K",
+    "body": "Ether rebounded 16% to reclaim $3,000 as whales accumulate heavily, exchange supply hits nine-year lows, and network activity surges.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56189654,
+    "published": 1766420010000,
+    "title": "Vincetrust Launches Digital Asset Retirement Portfolio for Structured, Technology-Driven Long-Term Wealth Growth",
+    "body": "As digital assets continue to gain prominence within global financial markets, retirees are increasingly seeking diversified and forward-looking wealth management solutions. London-based digital asset management firm Vincetrust has announced the launch of its Digital Asset Retirement Growth Portfolio , offering a structured and automated alternative to traditional retirement planning. The initiative integrates algorithmic asset management models with blockchain-based infrastructure, providing participants with a transparent and compliance-oriented framework designed to support long-term financial planning. Addressing Retirement Planning in Evolving Markets “Blockchain is transitioning from a speculative instrument into foundational infrastructure for long-term wealth management,” says digital finance researcher Laura Bennett . “For retirees, the emphasis is no longer on short-term performance, but on how technology can support sustainable planning through transparency, automation, and disciplined risk management.” Persistent inflation and declining yields from conventional pension products have led many retirees to reassess their asset allocation strategies. In response , Vincetrust ’s retirement portfolio focuses on digital asset infrastructure and income-oriented strategies, enabling participants to access alternative return opportunities within a clearly defined and structured framework. About Vince Trust Founded in 2019 and headquartered in London, Vince Trust provides blockchain cloud computing and digital asset management services to users worldwide. As of 2025, the platform has served more than 6.3 million registered users across over 150 countries and regions, managing assets exceeding US$74 billion. The platform supports mainstream digital assets including BTC, ETH, and XRP, with a strong emphasis on institutional-grade risk management, security standards, and operational transparency. Key Features 1.No technical barriers No hardware installation or specialised technical knowledge required. 2.Automated management and settlement Asset allocation, performance calculations, and daily income settlements are handled automatically through intelligent systems. 3.Professional oversight Operations are supervised by a global team of experienced financial professionals and technical specialists. 4.Global accessibility Users can access the platform from anywhere via smartphone or compatible devices, with no geographic or nationality restrictions. Security and transparency Data confidentiality, transparent contract structures, and real-time earnings monitoring are prioritised. Contract plans are underwritten by the internationally recognised L&G Group , allowing participants to focus solely on long-term performance outcomes. Getting Started Register on the Vince Trust platform to receive a welcome bonus providing immediate access to the newcomer rewards package.Trade using supported digital assets such as BTC, ETH, XRP, USDT, and others.Select a curated retirement savings investment portfolio and purchase contracts directly.Profits are automatically settled every 24 hours and can be withdrawn at any time. Conclusion As the financial landscape grows increasingly complex, Vince Trust offers a structured, automated, and compliance-focused approach to digital asset retirement planning. By combining cloud-based algorithms with blockchain infrastructure, the platform establishes a modern long-term wealth management framework centred on transparency, efficiency, and disciplined risk management. For those exploring compound interest strategies and long-term digital asset allocation, visitors are encouraged to spend a few minutes reviewing the https://vincetrust.com/ official website to learn more about Vince Trust .",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56189206,
+    "published": 1766419273000,
+    "title": "BlackRock names bitcoin ETF a top 2025 theme despite price slump",
+    "body": "The world's largest asset manager is promoting its underperforming bitcoin fund over higher-fee winners, signaling long-term commitment.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|BlackRock|Bitcoin ETF|ETFs|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56189829,
+    "published": 1766420294000,
+    "title": "U.S. bipartisan lawmakers draw up tax bill with stablecoin and staking relief",
+    "body": "New House proposal would exempt some stablecoin payments from capital gains taxes and allow stakers to defer income recognition for up to five years.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|House of Representatives|Bill|crypto tax|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 56192135,
+    "published": 1766423339000,
+    "title": "Tokenized US Treasurys surge 50x since 2024, marking shift toward on-chain finance",
+    "body": "From niche experiment to $7 billion market, tokenized US Treasurys are quietly becoming a major driver of institutional onchain yield.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      }
+    ]
+  },
+  {
+    "id": 56192728,
+    "published": 1766424753000,
+    "title": "BNB lags market despite break above $860 as scrutiny of Binance grows",
+    "body": "The underperformance came over an investigation alleging Binance failed to stop suspicious transactions, despite agreeing to pay $4.3 billion to settle a U.S. criminal case in 2023.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|BNB",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56192498,
+    "published": 1766424250000,
+    "title": "How US banks are quietly preparing for an onchain future",
+    "body": "Behind the scenes, US banks are rebuilding core financial infrastructure so cash, custody and funds can move onchain under regulatory oversight.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56193772,
+    "published": 1766426463000,
+    "title": "Binance Failed to Prevent Suspicious Accounts from Moving $144M After 2023 Plea Deal: Report",
+    "body": "Details have been leaked of 13 suspicious Binance accounts which moved $144 million since the 2023 settlement, and $1.7 billion since 2021.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
