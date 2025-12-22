@@ -1,52 +1,5 @@
 [
   {
-    "id": 56147758,
-    "published": 1766343646000,
-    "title": "Whale Inflows Dampen XRP ETF Optimism As Selling Pressure Persists",
-    "body": "Expectations around XRP exchange-traded funds were seen as a turning point that could unlock new institutional demand and change XRP’s price structure in favor of buyers. However, recent on-chain data suggests the price response has diverged immensely from that narrative. Metrics tracked by the on-chain analytics platform CryptoQuant point to a very different dynamic unfolding beneath the surface, one that explains why the altcoin continues to struggle for traction despite headline optimism and inflows into Spot XRP ETFs. Related Reading: Banks Could Favor A Higher XRP Price, Finance Expert Says Whale Exchange Inflows Expose Supply Pressure Data from on-chain analytics platform CryptoQuant reveals an interesting trend among XRP whale addresses and their activity on crypto exchange Binance. A closer look at the Binance Inflow-Value Band chart shows that recent XRP deposits to exchanges are overwhelmingly concentrated in the 100,000 to 1 million XRP range and transactions exceeding 1 million coins. These are not retail-sized movements. They reflect activity from large holders moving significant balances onto exchanges, and this behavior aligns with distribution or preparation for selling. The chart showing the exchange inflow into Binance makes this pattern clear, with repeated inflow spikes driven almost entirely by these higher-value bands, while smaller transaction sizes are comparatively lower. The chart image below shows inflows in chunks between 100,000 XRP and 1 million XRP in purple and inflows of chunks more than 1 million XRP in light blue. Most of the inflows into Binance in the past few days have been characterized by these two cohorts, with a few instances of inflows in chunks between 10,000 XRP and 100,000 XRP. XRP Ledger: Exchange Inflow Value Bands – Binance. Source: CryptoQuant This imbalance means that supply is being added to the market by whales at a pace that smaller buyers cannot absorb, and this is why inflows into Spot XRP ETFs have failed to have a positive effect on the altcoin’s price action. Lower Highs, Lower Lows Confirm Supply Overpowering Demand As shown in the price action overlaid in the chart above, the coin printed repeatedly lower highs and lower lows after major exchange deposits. This happens because of the relatively low numbers of new spot buyers on Binance, and even moderate selling pressure has been enough to cap rallies. As it stands, the crypto is facing selling pressure every time it approaches $1.95. Based on the intensity of exchange inflows and the market’s reaction, the first meaningful support zone is between $1.82 and $1.87. However, if large inflows persist, the data suggests the XRP price could continue declining to the $1.50 to $1.66 range. Related Reading: Bitcoin Feels The Weight Of Quantum Risk Concerns, Industry Leaders Warn The interpretation is that the ETF trend did not translate into sustained spot demand for XRP. Instead, whales who accumulated XRP ahead of ETF approval expectations appear to have used the resulting attention as an opportunity to dump their holdings. That said, inflows into Spot XRP ETFs may have helped limit deeper downside, as data from SoSoValue shows these funds recorded $82.04 million in inflows over the recent week. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|crypto news|cryptocurrency|digital currency|etf|Ripple|xrp|XRP ETF|xrp news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56154574,
     "published": 1766355448000,
     "title": "Tokenization will disrupt finance faster than digital disrupted media: Crypto exec",
@@ -1612,6 +1565,146 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56194514,
+    "published": 1766427547000,
+    "title": "David Sacks calls CFTC, SEC picks a crypto regulation ‘dream team‘",
+    "body": "Following Michael Selig's confirmation, White House official David Sacks said the SEC and CFTC were set to offer \"clear regulatory guidelines\" for digital assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56196063,
+    "published": 1766430063000,
+    "title": "5 Biggest Crypto Airdrops of 2025",
+    "body": "Crypto users were the recipients of billions in \"free money\" token airdrops during 2025. Here's a look at the biggest.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 204,
+        "NAME": "AIRDROP",
+        "CATEGORY": "AIRDROP"
+      }
+    ]
+  },
+  {
+    "id": 56198869,
+    "published": 1766434599000,
+    "title": "Thiel-Backed Crypto Hoarder ETHZilla Sells Tokens to Pay Debt",
+    "body": "ETHZilla Corp., a cryptocurrency accumulator backed by billionaire Peter Thiel, appears to be shifting focus as investors abandon what was briefly one of the stock market’s hottest trades.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56199986,
+    "published": 1766437224000,
+    "title": "Dogecoin Weekly Fractal Hints At A Bigger Move Brewing",
+    "body": "Dogecoin is doing that thing again, not pumping, not capitulating, just sitting there on the weekly like it’s waiting for a cue. And if you’re the type who still believes memes have market structure like in 2017 and 2021, one chart making the rounds on X says this is exactly what the pre-run “calm” has looked like before. Crypto analyst Cryptollica (@Cryptollica) posted a weekly DOGE chart marking four major structural points across the coin’s history, arguing the current stretch maps onto prior accumulation phases. “We are looking at a textbook fractal setup,” Cryptollica wrote. “The chart highlights four distinct structural points (1, 2, 3, 4). We are currently at Point 4, and the structure is rhyming perfectly with the pre-bull run accumulation phases of the past.” Will History Repeat For Dogecoin? The pitch is basically: zoom out, stop staring at intraday noise, and look at the cycle cadence. In his framing, Zones 1 and 2 were the “boredom phases,” the stretches where volatility dried up, price rounded out a base, and the market slowly rotated from weak hands to more patient holders. Zone 2, he says, was the launchpad that ultimately led into the 2021 face-melter. Related Reading: Dogecoin Holds The Floor, But Momentum Says Otherwise — A Critical Standoff Unfolds “Zones 1 & 2: These were the ‘boredom phases’ where volatility died, and smart money accumulated,” he wrote. “Zone 2 specifically was the launchpad for the massive 2021 parabolic run. Zone 4 (Current Price Action): We are seeing the exact same rounding bottom formation.” That “rounding bottom” bit matters, because it’s not the dramatic reversal traders love to screenshot. It’s the opposite. It’s price stabilizing, forming a heavy base, refusing to break down — and doing it slowly enough that most people stop paying attention. Which, again, is kind of the point. Then there’s the RSI argument, and it’s the cleaner one. Cryptollica highlighted a weekly RSI floor around the low-30s area, suggesting DOGE has repeatedly found major cycle bottoms when momentum reset to that band. “Look at the RSI indicator at the bottom. The red line (~32 level) acts as a historical floor,” he wrote. “Every single time the weekly RSI touched or hovered near this baseline (Points 1, 2, and 3), it marked a macro bottom. Now: The RSI has reset back to this critical support level.” Related Reading: Dogecoin Breakdown Ahead? Analyst Flags 2022-Style Signal That’s the “sellers are exhausted” claim — not because a candle says so today, but because the longer-term momentum gauge has already done the full trip down to where DOGE previously stopped bleeding out and started building again. And he’s not being subtle about what comes next, at least in the cleanest version of the fractal. “This isn’t just random noise; it’s a cyclical reset,” Cryptollica wrote. “The chart suggests we are in the ‘Golden Pocket’ for accumulation. If the fractal plays out like it did in 2020 (Zone 2), the current price action is simply the calm before the storm.” To be clear, fractals aren’t guarantees. DOGE isn’t trading in a vacuum, and the macro/liquidity backdrop can absolutely mess with tidy historical comparisons. But if history repeats for DOGE, the best days could be ahead. At press time, Dogecoin traded at $0.13294. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
