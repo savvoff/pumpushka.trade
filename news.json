@@ -1,239 +1,5 @@
 [
   {
-    "id": 56174677,
-    "published": 1766397975000,
-    "title": "Bullish Bitcoin Plays on Bitfinex Swell to Highest Since Early 2024",
-    "body": "Margin long positions continue to climb, signaling strong conviction despite bitcoin’s weakness.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Bitfinex|Whale|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56175383,
-    "published": 1766398801000,
-    "title": "$90K BTC vs. record gold price: 5 things to know in Bitcoin this week",
-    "body": "Bitcoin gained new warnings of a BTC price breakdown as gold and silver hit new all-time highs in the shadow of Japanese market instability.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56176955,
-    "published": 1766400689000,
-    "title": "Ghana Passes Law to Legalize Widespread Use Of Cryptocurrency",
-    "body": "Ghana’s parliament approved the legalization of cryptocurrency, a move to address central bank concerns about the widening and unregulated use of the alternative asset in the West African country.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56178348,
-    "published": 1766403403000,
-    "title": "Bitcoin ‘Santa rally’ targets $120K as key BTC metric flips bullish",
-    "body": "Bitcoin approached $90,000 amid Santa Rally speculation, backed by bullish derivatives and chart patterns that target a BTC price above $100,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56180029,
-    "published": 1766406075000,
-    "title": "Regulatory Delays Trigger $952M Exodus From US Crypto Funds",
-    "body": "Digital asset funds saw $952 million in outflows last week as US regulatory delays spooked investors, with Ethereum leading the retreat.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||||Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56180537,
-    "published": 1766405568000,
-    "title": "Aave slides as community debates over who controls the brand",
-    "body": "A dispute over who controls Aave’s brand and online assets has moved to a vote, sending the token sharply lower.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|DAOs|Governance|Aave|Lending|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56182230,
     "published": 1766409389000,
     "title": "Strategy boosted cash reserve by $748 million last week",
@@ -1917,53 +1683,6 @@
     ]
   },
   {
-    "id": 56218101,
-    "published": 1766398801000,
-    "title": "$90K BTC vs. record gold price: 5 things to know in Bitcoin this week",
-    "body": "Bitcoin saw new warnings of a BTC price breakdown as gold and silver hit new all-time highs in the shadow of Japanese market instability.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56219724,
     "published": 1766473234000,
     "title": "XRP ETFs Record 25-Day Streak As Price Eyes Key Resistance Level",
@@ -2170,6 +1889,217 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56226146,
+    "published": 1766482239000,
+    "title": "Altcoin Season Index Crashes To Low 17 As Bitcoin Price Struggles, What This Means",
+    "body": "There’s been a major shift in profitability since the Bitcoin price crashed from $126,000, and altcoins have borne the brunt of it. With major altcoins down between 30% and 80% from their all-time high values, calls for an altcoin season have gone down drastically. This has been reflected in the performance of the Altcoin Season Index, falling to one of the lowest recorded levels in 2025 as the year draws to an end. Altcoin Season Index Says Losses Are The Order Of The Day The Altcoin Season Index Chart on the CoinMarketCap website, which tracks the performance of altcoins against Bitcoin, has now fallen below 20 again. This index collates the performance of the top 100 altcoins in the market, comparing their 90-day performance to that of Bitcoin, in order to pinpoint whether the market is currently experiencing an altcoin season. Related Reading: Bitcoin Price Remains Stuck Inside This Range, But A Breakout Could Follow The index ranks the performance on a scale of 1-100, depending on how many altcoins out of the top 100 are outperforming Bitcoin, and uses that to score the market. At the time of writing, the Altcoin Season Index was sitting at a score of 17, which means only 17 of the top 100 altcoins have seen a better performance than Bitcoin in the last 90 days. With the index’s score sitting this low, it suggests that altcoins are currently in a bear market. Additionally, Ethereum, which is often the altcoin leader when it comes to an alt season, is still underperforming compared to Bitcoin. The second-largest cryptocurrency has recorded a 28.30% decrease in the last 90 days, while Bitcoin is down 21.10% in comparison. How To Know If Altcoins Are In A Bull Run? To know if the altcoin market is experiencing an altcoin season, the index would have to read at a score of 75 or higher. This is when the majority of altcoins are outperforming Bitcoin in a 3-month period, and their combined market cap surpasses that of the leading cryptocurrency. Related Reading: Pundit Shares Why XRP Will Become Expensive And A $1,000 Price Tag Is Possible Scores lower than 75 suggest that the market is yet to enter a full-blown altcoin season, and the lower it goes, the higher the chances that altcoins are experiencing a bear market. However, the higher the Altcoin Season Index score is, nearing 100, the more likely it is that the altcoin market may be experiencing a top. Altcoin seasons are often characterized by rapid increases in price, with 100% rallies on a daily basis being the norm. The last major altcoin season was back in 2021, and while the expectation was that another altcoin season would begin in 2025, this has not been the case. Featured image from Dall.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoin|altcoin news|Altcoin Season|altcoins|Altcoins news|crypto|crypto adoption|crypto market|crypto news|cryptocurrency|cryptocurrency market",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56225714,
+    "published": 1766481387000,
+    "title": "Ether ETFs break outflow streak while XRP products hit multi-week highs",
+    "body": "Altcoin ETF flows are beginning to diverge, with Ether stabilizing, XRP drawing steady demand and smaller funds getting uneven traction.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56231064,
+    "published": 1766489383000,
+    "title": "Crypto Markets Today: Cardano-based NIGHT crashes, ZEC, XMR also drop",
+    "body": "Most tokens that debuted this year are trading below their initial valuations.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Markets|market analysis|Derivatives|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 57,
+        "NAME": "XMR",
+        "CATEGORY": "XMR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56231627,
+    "published": 1766490171000,
+    "title": "ZOOZ's Bitcoin treasury play faces Nasdaq delisting clock",
+    "body": "ZOOZ’s minimum bid‑price notice makes it the latest Bitcoin treasury stock to brush up against Nasdaq’s listing rules.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56232121,
+    "published": 1766490806000,
+    "title": "Bitcoin's growing roadblock: The trendline from $126,000 limits gains",
+    "body": "Trendline from record highs capped BTC's recovery attempt Monday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Technical Analysis|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
