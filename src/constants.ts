@@ -1,4 +1,3 @@
-import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
 import Cta1 from '@components/adv/Cta1.astro';
 import siteConfig from './content/site-config.json';
 
