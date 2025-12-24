@@ -1,279 +1,5 @@
 [
   {
-    "id": 56242277,
-    "published": 1766505663000,
-    "title": "Emerge's 2025 'Person' of the Year: Ani the Grok Chatbot",
-    "body": "Ani’s rise showed how chatbots became partners instead of tools, driving a year of AI intimacy and its human consequences.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Long Reads",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 56242068,
-    "published": 1766505439000,
-    "title": "ECB gains backing from Council of EU for caps on digital euro holdings",
-    "body": "Concerned that a CBDC will drain funds from traditional banks, regulators are considering caps on how much digital euro citizens can hold to ensure it's purely for payments.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|European Central Bank|Digital Euro|European Union|CBDCs|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 56243661,
-    "published": 1766507414000,
-    "title": "Solana treasury-focused Upexi files for up to $1 billion capital raise",
-    "body": "The company manages a portfolio of consumer brands and holds about 2 million SOL, making it the fourth-largest solana treasury of any public company.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Solana News|Digital Asset Treasury|filings|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56244779,
-    "published": 1766509236000,
-    "title": "Bitcoin May Stay Outside Central Bank Vaults, Billionaire Says",
-    "body": "According to recent interviews, billionaire investor Ray Dalio has sharpened his caution about Bitcoin’s fit for official reserves while still recognizing its scarce nature. Related Reading: Before You Sell Bitcoin For Gold, Hear This Warning He said that Bitcoin carries money-like qualities because of its limited supply, but he drew a firm line over who should hold it on a balance sheet. Dalio said public transaction records and the risk of outside interference make it hard for reserve managers to treat Bitcoin the same way they treat gold. Dalio Flags Traceability Concerns Dalio warned that the open ledger that underpins Bitcoin creates vulnerabilities for large custodians. He argued that public transactions can be traced and, in some scenarios, interrupted, which raises concerns for institutions charged with protecting national wealth. NEW: RAY DALIO SAYS THAT BITCOIN IS “UNLIKELY TO BE HELD SIGNIFICANTLY BY CENTRAL BANKS” – TRANSACTIONS ARE TOO TRANSPARENT, THE GOVERNMENT CAN INTERFERE WITH THEM pic.twitter.com/NzxrhBzp4m — DEGEN NEWS (@DegenerateNews) December 20, 2025 He contrasted this with gold, which he said is harder for authorities to control once it is taken out of the formal financial system. He also raised security worries, including the possibility that Bitcoin could be cracked, broken, or controlled in ways that would alter its long-term usefulness as a store of value. Stablecoins Seen As Transactional Tools Based on reports, Dalio also gave a low rating to stablecoins as long-term holdings. He pointed out that stablecoins are tied to fiat currencies and generally do not pay interest, so they work well for quick transfers but not as wealth preservation. He said he keeps some exposure to Bitcoin personally — “a little bit” — but places gold ahead of it when the goal is an asset shielded from state actions. Last year, Dalio urged investors to favor scarce assets like gold and Bitcoin over debt instruments as many big economies wrestle with rising debt. Institutional Demand And Market Signals Crypto markets are moving closer to mainstream finance with spot Bitcoin ETFs and improved custody services, and market structure is shifting. BTC will hit $250k by year-end 2027. 2026 is too chaotic to predict, though Bitcoin making new all-time highs in 2026 is still possible. Options markets are currently pricing about equal odds of $70k or $130k for month-end June 2026, and equal odds of $50k or $250k by year-end… — Alex Thorn (@intangiblecoins) December 21, 2025 According to Galaxy Research, overlapping macro and market risks make Bitcoin unusually hard to forecast in 2026. Galaxy’s team says options pricing and volatility trends show Bitcoin acting more like a macro asset than a pure high-growth gamble. The same research group nonetheless kept a long-term bullish stance, projecting that Bitcoin could reach $250,000 by the end of 2027. Related Reading: Bitcoin’s $126K Sprint May Be Over — Fidelity Predicts 2026 Slide Macro Signals And Price Outlook That mix of views highlights a separation between policy suitability and price potential. Dalio’s focus is on whether sovereigns will accept the asset on a reserve ledger; Galaxy’s analysis looks at how markets may price Bitcoin under evolving macro forces. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56244967,
-    "published": 1766509464000,
-    "title": "Crypto exchange Bybit to restrict access for Japanese users as regulatory pressure mounts",
-    "body": "The announcement comes just days after Bybit said it had returned to the U.K.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Bybit|Japan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56246541,
-    "published": 1766511716000,
-    "title": "AI trade isn’t dead: An inside look into Wall Street's lucrative data center deals",
-    "body": "Megawatts are still trading hands, and the AI trade is very much alive, according to investment banker Joe Nardini, as miners pivot to HPC and buyers chase scarce power.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bitcoin Mining|Bitcoin News|Feature|Exclusive|B. Riley|AI|Top Stories|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56246898,
-    "published": 1766511934000,
-    "title": "IMF says El Salvador in talks to sell state-run Chivo Bitcoin wallet",
-    "body": "Despite President Nayib Bukele's claim that El Salvador's government wouldn't stop buying Bitcoin, the IMF said negotiations for the sale of its wallet were ”well advanced.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56247626,
-    "published": 1766513288000,
-    "title": "JPMorgan’s institutional crypto push could boost rivals like Coinbase, Bullish, analysts say",
-    "body": "The Wall Street giant's move — should it come to pass — would further legitimize crypto and increase distribution channels, said ClearStreet's Owan Lau.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|JPMorgan|Coinbase|Bullish|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56248947,
     "published": 1766515200000,
     "title": "Tensions over El Salvador's bitcoin holdings ease as IMF praises economic progress",
@@ -2030,6 +1756,240 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56299361,
+    "published": 1766592062000,
+    "title": "GG Story of the Year 2025: Crypto Gaming Collapses as Funding Dries Up",
+    "body": "Venture capital funding for crypto gaming all but evaporated this year, causing games to shut shop and players to lose their communities.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Long Reads",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56299250,
+    "published": 1766592011000,
+    "title": "How XRP Is Approaching A Structural Break That Could Change Everything",
+    "body": "After years of compression, XRP is quietly approaching a moment where the market will see a true structural break. This breakout is about a high-timeframe setup where market structure is on the verge of shifting. It is also the potential resolution of a multi-year structure that has compressed prices, absorbed supply, and conditioned participants to underestimate what comes next. Why Volatility Has Collapsed Ahead Of Expansion At the least expected time, XRP will print a legendary candle that will set a structural foundation and never move down. A crypto investor known as 24HRSCRYPTO noted on X that this move that is coming won’t be powered by retail hype, but by real economic activity on the XRP Ledger. When the altcoin begins to function as a settlement asset, volatility will become a liability, rather than a feature. Related Reading: Banks Could Favor A Higher XRP Price, Finance Expert Says Additionally, the payment rails, liquidity provisioning, and institutional settlement system will require price stability. A bridge asset referred to as a vehicle currency cannot swing 30-40% and still clear trillions in value. As volume and utility increase, XRP begins to transition from a speculative instrument into market infrastructure. Liquidity depth would be key to absorb shocks, while the price becomes anchored by demand. This is why the first candle isn’t a top, but the market repricing XRP’s role from a tradeable asset into a financial primitive. With new initiatives, XRP’s adoption is set to increase. Analyst X Finance Bull has revealed that RLUSD is the first US trust-regulated stablecoin launched by Ripple, issued natively on the XRP Ledger and extending across Ethereum Virtual Machine (EVM) chains for broader institutional access. Any banks that would integrate with RLUSD will be automatically onboarded into the XRP rails. This isn’t just about stable payments, but about demand generation for the altcoin as the default bridge asset. From BlackRock funds flow to global repo markets, that’s where the real volume begins to flow. This flips the game, allowing RLUSD to provide the liquidity, while XRP captures the movement. Why XRPL Meets Institutional Due Diligence Standards For the first time, XRP Ledger has now processed over 4 billion transactions since its launch in 2012. Co-founder of Tedlabsio, a crypto trader and investor, Niels, has pointed out that the real-world usage across the network has sustained more than 13 years of uninterrupted operation. Related Reading: Here’s How Many Transactions XRP Must Process To Reach A $2,000 Price Tag The XRPL consistently handles around 1.5 million transactions per day, with regular peaks exceeding 5 million, and settles in 3 to 5 seconds. All of this happens at fractions of a cent per transaction. Over time, more than 13 million XRP have been burned in transaction fees, a metric that reflects continuous demand in network activity. This is why institutions pay attention to XRPL. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|24HRSCRYPTO|BlackRock|Ethereum Virtual machine|EVM|Niels|Ripple|RLUSD|Tedlabsio|X Finance Bull|xrp|XRP Ledger|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56299080,
+    "published": 1766591400000,
+    "title": "70% Ether positions are 'long' as whale accumulation tightens ETH supply",
+    "body": "Whales have accumulated over $2 billion in Ether, as derivatives positioning skewed 70% net long with leverage at record highs. When will ETH price break out?",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56301658,
+    "published": 1766595615000,
+    "title": "$130 Million XRP Fumble: Analyst Reveals What Went Wrong",
+    "body": "A crypto analyst has revealed how a well-timed XRP investment from the 2017 bull cycle turned into a missed $130 million opportunity, highlighting how execution failures can derail even the most promising strategies. The admission, shared publicly on X, has reignited debate over discipline, timing, and emotional control in long-term crypto investing. XRP’s Perfect Entry, Failed Exit The investment began with a disciplined entry. In early 2017, two participants collectively invested $1,200 into XRP at approximately $0.007, accumulating 171,428 tokens. From a market timing perspective, the entry was near optimal. XRP later surged during the cycle, briefly trading close to its peak and lifting the position’s value to roughly $770,000. Related Reading: Analyst Reveals Bitcoin Make Or Break Level Amid Campaign For $90,000 At this stage, the trade had already achieved what most investors aim for: asymmetric upside realized within a single market cycle. However, the position was never exited. Despite clear signs of market euphoria and a dramatic expansion in price, the gains remained unrealized. The analyst later acknowledged that hesitation and emotional attachment prevented decisive action, effectively transforming a winning trade into a missed opportunity. This hesitation exposed a structural weakness in the strategy: there was no enforced exit discipline. While the entry was carefully planned, the decision to sell depended on the moments when emotional pressures are strongest and risk perception is most skewed. The scenario highlights a recurring issue in crypto markets, where many investors focus heavily on asset selection and timing entries, yet underestimate how psychologically demanding exits can be during periods of rapid price growth. The Missed Rotation And Compounding Effect Of Inaction The second failure compounded the first. The analyst explained that selling XRP near its peak would have freed capital to redeploy into Bitcoin while BTC traded around $1,000. That move could have converted the XRP proceeds into roughly 771 Bitcoin, effectively positioning the portfolio to benefit from the next major phase of the market cycle. Related Reading: Analyst Shares ‘Cold, Hard Truth’ For Bitcoin Investors As Price Struggles Holding those Bitcoin through later highs—approaching 170,000 CAD—would have resulted in total proceeds exceeding $130 million. The strategy was simple and systematic: take profits from an outperforming asset and rotate into another with asymmetric upside potential. It required no leverage, no complex instruments, and no precise market timing beyond a broad understanding of overall market cycles. However, hesitation, second-guessing, and attachment to the original position prevented decisive action. By delaying the rotation, the investor forfeited the compounding advantage, leaving the portfolio largely static while the broader market continued to advance. The analyst’s reflection highlights how the crypto market consistently rewards preparation and disciplined execution but punishes hesitation. This experience serves as a stark reminder that the ability to act decisively at critical moments is often the true determinant of long-term success in crypto investing. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56303567,
+    "published": 1766598329000,
+    "title": "Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone",
+    "body": "Offchain Labs increases its ARB holdings, signaling long-term conviction in Arbitrum as governance token prices slump and layer-2 competition intensifies.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 71,
+        "NAME": "ARB",
+        "CATEGORY": "ARB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56304057,
+    "published": 1766599240000,
+    "title": "Why Has The Solana Price Been In A Steady Downtrend Since January?",
+    "body": "Solana’s price action this year has followed a clear but uncomfortable pattern. After pushing to a new all-time high around the $296 region in January, the rally quickly lost momentum and transitioned into a steady decline that has persisted for months. Many traders have attributed this weakness to a risk-off sentiment across crypto, but a deeper on-chain breakdown shared by crypto analyst Ardi on X suggests the story began well before the January peak and has more to do with who was buying and who was quietly exiting. Distribution Was Already Underway Before The January Peak Solana has been on a clear downtrend since September, when it reached a lower high of around $247 compared to its January 19 all-time high of $293. One of the most important insights from Ardi’s analysis is that Solana’s January all-time high did not mark the start of distribution but rather the culmination of it. Related Reading: Why Has The Solana Price Been Crashing Since October? This Major SOL Player Is Selling The chart attached to his post shows that selling volume was already increasing months earlier, well ahead of October, meaning that large holders were positioning for exits long before price reached its final peak. From that perspective, the January high looks less like the beginning of a new expansion phase and more like the last push of a rally. After that point, price action began forming lower highs, and each rebound attempt lacked the strength needed to reclaim the all-time high. Interestingly, Solana failed to reach a new all-time high, even as other large market cap cryptos like Bitcoin, Ethereum, XRP, and BNB pushed to new all-time highs during the year. Another interesting feature of the data is the widening gap between retail behavior and that of larger players. Cumulative delta metrics on the chart show that retail-sized wallets have been consistently active throughout the year and are increasing their activity even as Solana’s price moved lower. On the other hand, mid-sized and institutional wallets tell a very different story. Their activity has been trending downward for months, starting from the January peak and extending up until the time of writing. Is Solana’s Price Becoming Dependent On Memecoin Activity? Ardi’s analysis also raises a broader question about what is currently driving demand for Solana. Outside of retail activity on Solana itself, one of the few consistent sources of activity has been the memecoin sector. Successes and booms of meme coins like Cat in a Dogs World (MEW), Peanut the Squirrel (PNUT), and Fartcoin (FARTCOIN), which gained traction in the second half of 2024, contributed to Solana’s push to all-time highs during those periods. Related Reading: Will Solana Flip Ethereum? Revenue Numbers Show Disturbing Trend Those meme coin successes culminated with the launch of the Official Trump ($TRUMP) token in January 2025 on Solana, which experienced eye-watering gains shortly after its launch. This, in turn, contributed to Solana’s all-time high in January. However, since then, the TRUMP token and other Solana-based meme coins have been trending downwards in recent months and no longer command the same level of attention or trading intensity they had this time last year. That has led to the view that Solana’s price is increasingly sensitive to the success of memecoins in its ecosystem. At the time of writing, Solana is trading at $121.50, down by about 58.6% from its January all-time high of $293. Featured image from iStock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|Ardi|bitcoin|BNB|cat in a dogs world|ethereum|Fartcoin|meme coin|MEW|peanut the squirrel|PNUT|Sol|SOL news|SOL Price|Solana news|Solana Price|SOLUSD|SOLUSDT|Trump|xrp",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
