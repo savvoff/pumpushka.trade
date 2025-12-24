@@ -1,175 +1,5 @@
 [
   {
-    "id": 56208648,
-    "published": 1766455222000,
-    "title": "Bitcoin Inflow Slowdown: CryptoQuant Founder Says Sentiment Could Take Months To Recover",
-    "body": "The founder and CEO of on-chain analytics firm CryptoQuant has revealed how Bitcoin on-chain capital inflows have stalled over the last couple of months. Bitcoin Realized Cap Has Witnessed A Slowdown Recently In a new post on X, CryptoQuant founder and CEO Ki Young Ju has talked about how on-chain capital inflows have been weakening for Bitcoin recently. “After about 2.5 years of growth, realized cap has stalled over the past month,” noted Young Ju. The “Realized Cap” here refers to an on-chain capitalization model for Bitcoin that calculates its total value by assuming the value of each coin in circulation is equal to the price at which it was last transacted on the blockchain. Related Reading: Bitcoin & Ethereum Diverge: Longs Dominate BTC, While ETH Shorts Rise Since the last transaction of any coin is likely to represent the last instance of it changing hands, the price at that time can be considered as its current cost basis. Therefore, the Realized Cap is just a sum of the cost basis of the entire BTC supply. In other words, it tracks the capital that the investors used to purchase their tokens. Realized Cap had been enjoying growth for the last couple of years, but as the CryptoQuant founder has revealed, capital inflows have dropped off. This suggests a decline in sentiment around Bitcoin. The turnaround in sentiment is also visible through the analytics firm’s PnL Index, which incorporates key on-chain indicators to build a single valuation metric for BTC. The indicators in question are the MVRV Ratio, NUPL, and STH/LTH SOPR. The first two both deal with the amount of unrealized profit or loss held by the investors as a whole, while the latter provides a look into investor profit-taking. Below is the chart shared by Young Ju that shows the trend in the 365-day moving average (MA) of the Bitcoin PnL Index over the history of the asset. From the graph, it’s visible that the Bitcoin PnL Index saw its 365-day MA reach a high earlier in the year, implying that the coin had potentially become overvalued. Since then, the metric has seen a reversal to the downside. Currently, its value is still notably positive, so the cryptocurrency may be considered to be in a bullish phase, but historically, drawdowns have tended to lead into bear markets. Though there were a couple of instances where this pattern didn’t hold. One being the aftermath of the COVID crash and the other the decline that occurred in the early months of 2025. Related Reading: Ethereum Exchange Outflows Soar To $978M: Sign Of Dip Buying? So far, the indicator hasn’t shown signs of any turnaround back to the upside, although it should be noted that it’s an average over the past year, so there is some delay attached. Based on the on-chain trend, Young Ju has said, “Sentiment recovery might take a few months.” BTC Price Bitcoin has made recovery from last week’s plunge as its price is now back at $89,800. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin inflows|Bitcoin Realized Cap|bitcoin sentiment|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56209756,
-    "published": 1766457678000,
-    "title": "Bitcoin Price Holds Firm, Upside Extension Now in Trader Focus",
-    "body": "Bitcoin price started a decent recovery wave above $88,000. BTC is now consolidating below $89,000 and might aim for a fresh increase. Bitcoin started a recovery wave above the $87,500 zone. The price is trading above $87,500 and the 100 hourly Simple moving average. There is a bullish trend line forming with support at $87,900 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move up if it settles above the $89,100 zone. Bitcoin Price Eyes More Gains Bitcoin price attempted a fresh recovery wave above $87,500 and $88,000. BTC even cleared the $88,800 resistance and tested the $90,500 hurdle. A high was formed at $90,552 and the price is now consolidating gains. There was a minor decline below $89,000 and $88,500. The price dipped below the 23.6% Fib retracement level of the upward move from the $84,420 swing low to the $90,552 high. Bitcoin is now trading above $87,800 and the 100 hourly Simple moving average . There is also a bullish trend line forming with support at $87,900 on the hourly chart of the BTC/USD pair. If the price remains stable above the trend line, it could attempt more gains. Immediate resistance is near the $89,100 level. The first key resistance is near the $89,500 level. The next resistance could be $90,500. A close above the $90,500 resistance might send the price further higher. In the stated case, the price could rise and test the $92,000 resistance. Any more gains might send the price toward the $92,500 level. The next barrier for the bulls could be $93,200 and $93,500. Another Decline In BTC? If Bitcoin fails to rise above the $89,500 resistance zone, it could start another decline. Immediate support is near the $88,000 level and the trend line. The first major support is near the $87,500 level. The next support is now near the $86,750 zone and the 61.8% Fib retracement level of the upward move from the $84,420 swing low to the $90,552 high. Any more losses might send the price toward the $85,450 support in the near term. The main support sits at $84,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now losing pace in the bullish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $88,000, followed by $87,500. Major Resistance Levels – $89,500 and $90,500.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56210405,
-    "published": 1766458842000,
-    "title": "BlackRock pins Bitcoin ETF as major theme alongside T-bills, tech stocks",
-    "body": "BlackRock’s IBIT Bitcoin ETF has featured on the $13.5 trillion asset manager's homepage, representing one of three major investment themes as the market heads into 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56211418,
-    "published": 1766460763000,
-    "title": "Bitcoin perpetual open interest rises as traders bet on year-end rally",
-    "body": "Bitcoin perpetual open interest climbed to 310,000 BTC while funding rates doubled, signaling bullish positioning for the year-end.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56212340,
     "published": 1766462424000,
     "title": "Here’s Why This Bitcoin Bounce Is Designed To Hurt The Most",
@@ -1874,6 +1704,293 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56264814,
+    "published": 1766541628000,
+    "title": "Why This Market Analyst Is Advising XRP Investors Not To Sell Their Coins",
+    "body": "A growing part of the XRP community is paying closer attention to infrastructure changes taking shape on the XRP Ledger, especially as they relate to long-term utility and institutional adoption. That context explains why crypto market commentator Brad Kimes, widely known on X as Digital Perspectives, reiterated a long-standing message that continues to resonate with many XRP holders: “Never sell your XRP.” His comment was in anticipation of the upcoming XRPL Lending Protocol. Why You Shouldn’t Sell Your XRP The comment from Digital Perspectives was a response to a post from Ed Hennis, a software engineer at Ripple, who recently outlined the upcoming proposal for the XRPL Lending Protocol. The proposal introduces fixed-term, fixed-rate, underwritten credit directly at the protocol level of the XRP Ledger. This approach is interesting because it moves lending away from smart-contract layers into a standardized, protocol-native system governed by validator consensus. Related Reading: Here’s Why The XRP Price Keeps Crashing According to the explanation by Ed Hennis, the proposed loans on the XRPL Lending Protocol are going to be done with structured, clear terms, predictable interest, and explicit authorization, features that real-world institutions expect before committing capital. Therefore, Digital Perspectives’ “never sell” message is a reflection of a longer-term view where holders never sell their XRP and instead use them as collateral for loans. Instead of relying on generalized liquidity pools like most lending protocols, the design of the XRPL Lending Protocol places each loan inside a segregated Single Asset Vault. This structure isolates risk to a specific credit facility and avoids the cross-contamination that has plagued many DeFi lending platforms during periods of market stress. Therefore, the XRPL Lending Protocol reduces execution risk and creates a framework that resembles traditional credit markets more closely than existing crypto lending models. Real-World Applications Of The XRPL Lending Protocol Most decentralized lending systems today depend on heavy overcollateralization to offset volatility and the risk of anonymity. That approach might work for traders, but it is inefficient for real businesses that operate on predictable cash flows and underwritten credit lines. Enterprises are accustomed to borrowing without locking up more capital than the value of the loan itself, and that mismatch has kept many institutions on the sidelines. Related Reading: Ripple Reveals How It’s Hijacking A $16 Trillion Industry Using The XRP Ledger The XRPL’s approach introduces undercollateralized, institutionally underwritten lending alongside existing overcollateralized models. This expands the range of viable borrowers and aligns on-chain credit with how financing actually works in traditional markets. As noted by Hennis, real-world use cases of XRPL’s lending protocol include market makers borrowing XRP/RLUSD for inventory and arbitrage, Payment Service Providers (PSPs) borrowing RLUSD to pre-fund instant merchant payouts, and fintech lenders accessing short-duration working capital. The feature is slated to be available for voting at the end of January 2026. From there, the voting decision is up to validators on the XRP Ledger. Once the lending protocol goes live and XRP begins to play a direct role in institutional credit markets, selling XRP at that stage may be short-sighted. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Brad Kime|DeFi|Digital Perspectives|Ed Hennis|Payment Service Providers|PSPs|Ripple|RLUSD|Single Asset Vault|xrp|XRP Ledger|xrp news|XRP Price|XRP/RLUSD|XRPL Lending Protocol|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56265048,
+    "published": 1766541904000,
+    "title": "Frozen Out: Why My Bank Account Disappeared Before Christmas",
+    "body": "A month after moving to the US, my bank account vanished without warning. The structural reasons behind mass debanking reveal gaps in the financial system.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 56266294,
+    "published": 1766544364000,
+    "title": "Bitcoin Price Weakens Further, Additional Losses Now on the Table",
+    "body": "Bitcoin price failed to continue higher and dipped below $88,500. BTC is now declining and might struggle to stay above $86,800. Bitcoin started a fresh decline from the $90,500 zone. The price is trading below $88,000 and the 100 hourly Simple moving average. There is a bearish trend line forming with resistance at $87,650 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it trades below the $86,800 zone. Bitcoin Price Corrects Gains Bitcoin price failed to stay in a positive zone and started a fresh decline below $90,000. BTC dipped below $89,500 and $88,500 to move into a bearish zone. The bears were able to push the price below the 50% Fib retracement level of the upward move from the $84,420 swing low to the $90,552 high. Besides, there is a bearish trend line forming with resistance at $87,650 on the hourly chart of the BTC/USD pair. Bitcoin is now trading below $88,000 and the 100 hourly Simple moving average . If the price remains stable above $87,000, it could attempt a fresh recovery wave. Immediate resistance is near the $87,650 level and the trend line. The first key resistance is near the $88,500 level. The next resistance could be $89,100. A close above the $89,100 resistance might send the price further higher. In the stated case, the price could rise and test the $90,000 resistance. Any more gains might send the price toward the $90,500 level. The next barrier for the bulls could be $91,500 and $92,000. More Losses In BTC? If Bitcoin fails to rise above the $88,500 resistance zone, it could start another decline. Immediate support is near the $87,000 level. The first major support is near the $86,750 level and the 61.8% Fib retracement level of the upward move from the $84,420 swing low to the $90,552 high. The next support is now near the $86,000 zone. Any more losses might send the price toward the $85,450 support in the near term. The main support sits at $84,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $86,750, followed by $86,000. Major Resistance Levels – $87,650 and $88,500.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56266280,
+    "published": 1766544188000,
+    "title": "Solana treasury Upexi slides 7.5% on $1B shelf registration filing",
+    "body": "Shares in Upexi fell 7.5% on Tuesday after it filed a $1 billion shelf registration, suggesting its Solana holdings could again grow after over five months of no purchases.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56266778,
+    "published": 1766545229000,
+    "title": "Solana Enters A Low-Interest Phase After November 2024 All-Time High — Here’s Why",
+    "body": "The story of Solana has shifted from a meteoric rise to a high-stakes battle for relevance. After reaching a historic all-time high in November 2024, the network has struggled to reclaim its former momentum. This loss of momentum reflects technical exhaustion and a market recalibration after an aggressive run-up. Thus, SOL has entered a new phase as investors assess whether fresh demand can emerge or if the network needs a new catalyst to reassert leadership. How Solana Momentum Fades After The November Peak Crypto trader Ardi has revealed on X that market interest has noticeably thinned ever since Solana set its $296 all-time high in November 2024. On-chain data has shown that buying pressure has been dominated almost by the retail-sized wallets, particularly those making purchases between $0 and $1,000. Related Reading: Solana Faces Critical Test Near $100 as Macro Pressure and Network Upgrades Collide Ardi argues that while many observers point to micro conditions to explain the stalled price action, the tape reveals that the distribution has begun before the peak. The selling volume had already been accelerating for months before October 10, signaling that major players were planning their exits long before the drawdown. The data also confirms a massive divergence between demographics. Meanwhile, the mid-sized wallets involving $0 to $100,000, and the institutional-sized wallets involving $100,000 to $10 million in volume have been in a steady downtrend for roughly 13 months. Over the same period, retail wallets have shown a consistent uptrend, and are clearly convinced that SOL is still trading at a deep discount price. This imbalance leads to the ultimate question: Is Solana’s value now intrinsically tied to memecoins? The correlation between SOL’s demand and the memecoin actively on the network has been near-perfect, which means that without the frenzy of the meme sector, most bids would largely be disinterested. What Comes After Memes Will Decide Solana’s Future An investor and trader, Jas pointed out that 2025 has definitely been a reset for Solana, but it isn’t over for the altcoin. SOL active monthly traders have fallen from roughly 30 million to under 1 million, a staggering 97% drop in network activity. The speculative engine was the memecoin boom that fueled its rise and also exposed its biggest vulnerability. Related Reading: Solana at a Breaking Point: Fading Memecoin Hype and Alameda Unlocks Test the $140 Support Zone Furthermore, SOL is down nearly 58% from its yearly high. SOL’s network revenue dropped fivefold year-over-year from $2.5 billion in 2024 to $500 million in 2025. The contrast with Ethereum is hard to ignore, and ETH generated $1.4 billion in revenue this year and outperformed SOL by 56% year-to-date. “SOL’s future may depend less on memes and more on what follows them,” Jas noted. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|Crypto trader Ardi|Jas|meme coin|Sol|SOL news|SOL Price|Solana news|Solana Price|SOLUSD|SOLUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56267052,
+    "published": 1766545644000,
+    "title": "Amplify ETFs for stablecoins, tokenization go live for trading",
+    "body": "Two new exchange-traded funds from Amplify track companies building the infrastructure for stablecoins and tokenization, blending stocks and crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56267413,
+    "published": 1766546331000,
+    "title": "Ethereum Price Flashes Bearish Bias, Bulls Lose Short-Term Control",
+    "body": "Ethereum price failed to continue higher above $3,00 0 and dipped. ETH is now showing bearish signs and might slide further below $2,880. Ethereum started a fresh decline below $3,000 and $2,980. The price is trading below $2,950 and the 100-hourly Simple Moving Average. There was a break below a rising channel with support at $2,980 on the hourly chart of ETH/USD (data feed via Kraken). The pair could continue to move down if it settles below the $2,880 zone. Ethereum Price Faces Rejection Ethereum price failed to stay above the $3,000 pivot level and started a fresh decline, like Bitcoin . ETH price dipped below $2,980 to enter a bearish zone. The bears were able to push the price below the 50% Fib retracement level of the upward move from the $2,775 swing low to the $3,075 high. Besides, there was a break below a rising channel with support at $2,980 on the hourly chart of ETH/USD. Ethereum price is now trading below $2,980 and the 100-hourly Simple Moving Average. If the bulls are able to protect more losses below $2,880, the price could start a fresh recovery. Immediate resistance is seen near the $2,980 level. The first key resistance is near the $3,000 level. The next major resistance is near the $3,050 level. A clear move above the $3,050 resistance might send the price toward the $3,120 resistance. An upside break above the $3,120 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,200 resistance zone or even $3,220 in the near term. More Losses In ETH? If Ethereum fails to clear the $3,000 resistance, it could start a fresh decline. Initial support on the downside is near the $2,880 level and the 61.8% Fib retracement level of the upward move from the $2,775 swing low to the $3,075 high. The first major support sits near the $2,845 zone. A clear move below the $2,845 support might push the price toward the $2,800 support. Any more losses might send the price toward the $2,775 region. The next key support sits at $2,720. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bearish zone. Hourly RSI – The RSI for ETH/USD is now below the 50 zone. Major Support Level – $2,880 Major Resistance Level – $3,000",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
