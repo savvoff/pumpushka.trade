@@ -1,221 +1,5 @@
 [
   {
-    "id": 56293624,
-    "published": 1766583671000,
-    "title": "Crypto M&A hits record $8.6 billion in 2025 as Trump’s regulatory stance spurs deals",
-    "body": "The largest deals of the year included Coinbase's $2.9 billion acquisition of Deribit, Kraken's $1.5 billion purchase of NinjaTrader, and Ripple's $1.25 billion buyout of Hidden Road.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Mergers|Acquisitions|crypto market|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56293732,
-    "published": 1766583611000,
-    "title": "Aave founder under scrutiny for $10M token purchase amid governance drama",
-    "body": "Aave founder Stani Kulechov is facing criticism after a $10 million AAVE purchase ahead of a key DAO vote, as critics raise concerns over voting power concentration.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 2,
-        "NAME": "AAVE",
-        "CATEGORY": "AAVE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56294417,
-    "published": 1766584848000,
-    "title": "Dogecoin Price Could Rally If It Reclaims This Fibonacci Level",
-    "body": "The Dogecoin price is currently trading within a tight range as analysts evaluate its next potential move. Recent technical analysis has focused on specific price levels that could influence future movement. They suggest that a shift in broader crypto momentum, combined with a crucial Fibonacci level reclaim, may set the stage for a renewed, explosive upside for DOGE. Dogecoin Price Faces Key Test At $0.138 Dogecoin has been trending downwards for months now, as it faces pressure from ongoing volatility and an overall market slowdown. Although DOGE’s price remains below $0.13 after declining consistently over the past few months, crypto market analyst Kevin has outlined conditions under which the meme coin’s price could recover and see a strong upside soon. Related Reading: Analyst Reveals Bitcoin Make Or Break Level Amid Campaign For $90,000 In an X post on Tuesday, Kevin pointed to the $0.138 level as a critical area that must be reclaimed on a strong higher time frame three-day to one week closes. According to his view, such a move would mark a meaningful shift in Dogecoin’s momentum and signal renewed strength after an extended period of consolidation. He also disclosed that a recovery would open the door to a potentially massive price rally for the meme coin. The analyst explained that reclaiming the $0.138 level would place Dogecoin back above a key macro Fibonacci retracement around 0.382. This Fibonacci level has acted as an important dividing line between bearish and bullish market phases in the past. As a result, a move above it could suggest that long-term buyers are regaining control. Kevin also emphasized the significance of the 200-week Simple Moving Average (SMA) on the chart, noting that it often serves as a key support or resistance level during significant trend changes. A decisive move above this key level would validate the analyst’s bullish perspective, signaling that Dogecoin could be nearing the end of its correction and preparing to transition into a stronger market phase. Notably, once this structural change occurs, Kevin’s chart points to the next major liquidity and resistance zone, which sits around $0.46. Dogecoin Price Rally Tied To Bitcoin’s Momentum In his accompanying chart, Kevin shows that Dogecoin is currently trading sideways within what appears to be a DCA zone. This range reflects extended consolidation where price has failed to make a decisive move in either direction. Related Reading: Analyst Shares ‘Cold, Hard Truth’ For Bitcoin Investors As Price Struggles The chart setup suggests that any meaningful breakout in Dogecoin’s price would likely coincide with renewed strength in Bitcoin. Kevin notes that Bitcoin reclaiming the $88,000 to $91,000 region could support bullish momentum across the crypto market and influence a potential price rally for Dogecoin. A move toward this range would require the leading cryptocurrency to rally by approximately 2-6% from its present price level. Without that confirmation, the analyst believes that DOGE may continue consolidating within its current narrow range. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56295695,
-    "published": 1766586691000,
-    "title": "WhiteFiber NC-1 deal is promising, says B. Riley, seeing 127% upside after stock price plunge",
-    "body": "The analyst team said the first long-term co-location agreement at NC-1 validates WhiteFiber’s retrofit model.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|AI|Data Centers|B. Riley|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56296204,
-    "published": 1766587320000,
-    "title": "EU’s crypto tax reporting starts in January with threat of asset seizure",
-    "body": "New directive, which operates alongside MiCA, expands tax data sharing, sets July 1 compliance deadline for exchanges across bloc.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|EU|crypto tax|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56296871,
-    "published": 1766588440000,
-    "title": "The Dogecoin Cycle Fractal That Shows Where The Price Is Headed Next",
-    "body": "Crypto analyst Cryptollica has pointed to a Dogecoin cycle fractal, which shows where the DOGE price may be headed next. This came as the analyst provided a bullish outlook for the top meme coin and indicated that this was a good time for investors to buy DOGE. Dogecoin Cycle Fractal Shows DOGE’s Bull Run Is Imminent In an X post, Cryptollica indicated that Dogecoin was at the point before it begins its bull run, with the accompanying chart showing that the meme coin could still rally above $1. The analyst noted that the cycle fractal has repeated itself at the macro level, with their chart highlighting four distinct structural points. Related Reading: Dogecoin’s 53,000% Surge Shows Renewed Interest, But Why Is DOGE Price Lagging? Cryptollica revealed that Dogecoin is currently at Point 4 and that the structure is rhyming perfectly with the pre-bull run accumulation phases of the past. The analyst then broke down the patterns observed in this cycle fractal. The first is the ‘Rounding Bottoms,’ with Zones 1 and 2 being the “boredom phases” in which volatility died and smart money accumulated. Zone 2 is said to be the launchpad for the massive 2021 parabolic run for Dogecoin. Meanwhile, Zone 4 is the current price action, with Cryptollica noting that the same rounding-bottom formation is playing out. The analyst added that the DOGE price is stabilizing and forming a heavy base just like it did before the previous explosions. Cryptollica then highlighted Dogecoin’s Relative Strength Index (RSI), noting that the 32 level acts as a historical floor. The analyst explained that the DOGE price has formed a macro bottom every single time the weekly RSI touched or hovered near this baseline. The RSI is said to have reset back to this critical support level, indicating that sellers are exhausted and the momentum is primed to flip. DOGE Is In The “Golden Pocket” For Accumulation Cryptollica stated that the cycle fractal isn’t just random noise but a cyclical reset, as the chart suggests that Dogecoin is in the Golden Pocket for accumulation. The analyst further remarked that if the fractal plays out as it did in 2020, in Zone 2, then the current DOGE price action is simply the calm before the storm. Related Reading: Dogecoin Reclaiming $0.128 Support Could Signal The Perfect Chance For Long Positions Cryptollica again highlighted the technical structure, noting that a bullish rounding bottom was forming for Dogecoin while the RSI was at a historical oversold support level, which is a buy zone. The analyst declared that the spring is loading and that patience is required, but that the setup points to a major impulsive move that is on the horizon. In line with this, Cryptollica urged investors to “buy Dogecoin.” At the time of writing, the Dogecoin price is trading at around $0.127, down almost 3% in the last 24 hours, according to data from CoinMarketCap. Featured image from Peakpx, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|CoinMarketCap|Cryptollica|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|golden pocket|Relative Strength Index|Rounding Bottom|RSI",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56299361,
     "published": 1766592062000,
     "title": "GG Story of the Year 2025: Crypto Gaming Collapses as Funding Dries Up",
@@ -1054,6 +838,100 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 56345525,
+    "published": 1766669411000,
+    "title": "Could XRP Make Trillionaires? Tech Firm Founder Thinks It’s Possible",
+    "body": "According to reports, Joshua Dalton, founder of Triblu, has put forward a striking scenario: that XRP holders could become millionaires, billionaires, or even trillionaires if the token were used as part of a US strategic crypto reserve. Related Reading: JPMorgan Eyes Crypto Services As Institutional Demand Grows – A Boost For BTC Price? Dalton argued that XRP, because of its ties to a US-based company, is a safer fit for a national reserve than Bitcoin. The claim has energized some corners of the crypto community, but it also faces steep legal and market obstacles. Dalton’s Bold Claim And The Numbers Dalton’s case relies on hard math. Based on reports, the US national debt is about $38 trillion. Ripple’s escrow holds roughly 34.4 billion XRP. Using those figures, Dalton and others calculate that an XRP price near $883 would be needed to offset roughly 80% of that debt. Many people won’t like what I say below. “Bitcoin cannot be the official currency for the United States’ reserves because Satoshi Nakamoto is still unknown and it could be the currency operated by China. The government can 💯 trust XRP because it is operated by @Ripple and 💯… — Joshua Dalton (@J9Dalton) January 23, 2025 At present, XRP trades around $1.91. That would mean a rise of over 46,000% for the token. By comparison, Bitcoin is trading near $89,000 and would have to reach about $30 million per coin to meet a similar debt-offset goal if the plan focused on 1 million BTC, an idea once floated by US Senator Cynthia Lummis. That would be a gain of more than 33,000% from current levels. Legal And Market Limits US President Donald Trump signed an executive order earlier this year creating a national Bitcoin reserve and a wider crypto stockpile framework. But policymakers appear to be focused mainly on Bitcoin for the reserve role, with other coins treated as seizure assets or general holdings. Importantly, Ripple’s escrow is privately controlled and governed by contracts. It cannot be commandeered by a government without legal action and likely long court fights. Even if US authorities somehow obtained large amounts of XRP, unloading such a position on global markets would likely push the price down, not up. Markets are not built to absorb trillions of dollars without heavy distortion. Holders And Wealth Scenarios Based on wallet data, some XRP addresses would see big nominal gains at an $880 price. For example, a holder of 10,000 XRP — currently worth about $19,100 — could see that stake climb to nearly $9 million on paper. Reports show 179,546 wallets hold between 5,000 and 10,000 XRP. About 2,006 addresses sit between 500,000 and 1 million XRP. Yet most of the largest reserves are held by Ripple, its founders, or exchanges. Only 20 wallets contain between 500 million and 1 billion XRP, and six addresses hold more than 1 billion. 2026 is going to be epic! Locked in! XRP will be the star of 2026. — Coach, JV (@Coachjv_) December 23, 2025 Market Reaction And Expert Views Matthew Sigel, lead researcher at VanEck, has argued in public that Bitcoin offers the best path to large-scale fiscal uses, and other analysts remain skeptical of any single token being used to “solve” national debt. Related Reading: XRP To $1,000? Korean Researcher Lays Out 10-Year Roadmap Coach JV and other commentators have shifted attention to 2026 as a potentially strong year for XRP price action, framing the outlook as speculative and time-bound. These views are primarily sentiment-driven and rely on factors beyond government policy, such as market demand and regulatory clarity. Featured image from Pixabay, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|bitcoin|crypto|Ripple|Trump|xrp",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56347018,
+    "published": 1766671800000,
+    "title": "Fed Q1 2026 outlook: Potential impact on Bitcoin and crypto markets",
+    "body": "BTC may fall to $70,000 and ETH to $2,400 if the Fed pauses rate cuts in the first quarter of 2026 and inflationary pressure persists.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
