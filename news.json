@@ -1,181 +1,5 @@
 [
   {
-    "id": 56306189,
-    "published": 1766602473000,
-    "title": "Circle platform promising tokenized gold, silver swaps is 'fake,' company says",
-    "body": "The release, distributed on Christmas Eve, used Circle branding and claimed to quote executives, but a Circle spokesperson said it was \"not real.\"",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Web3|Security|Circle|USDC|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56308704,
-    "published": 1766606449000,
-    "title": "Ethereum Bearish Structure Meets Bullish Supply Signal – What Happens Next",
-    "body": "Ethereum is facing renewed selling pressure as market uncertainty deepens and confidence continues to erode across the broader crypto landscape. After weeks of fragile price action and failed recovery attempts, ETH has struggled to attract sustained demand, pushing an increasing number of analysts to warn that the market may be entering the early stages of a bear cycle. Volatility remains elevated, sentiment is weak, and traders appear hesitant to commit capital as downside risks grow more pronounced. Related Reading: Bitcoin and Ethereum Coinbase Inflows Collapse While Binance Retains Relative Activity – Details Recent on-chain and technical analysis from CryptoQuant highlights why concerns are mounting. Ethereum’s price structure has tightened into a descending triangle formation, a pattern that often emerges during periods of distribution rather than accumulation. Price remains capped below a well-defined downtrend line, while key moving averages continue to act as overhead resistance, limiting upside momentum. This compression reflects a market where sellers maintain control, even as prices attempt to stabilize. Historically, this type of technical setup increases the probability of a downside resolution. In Ethereum’s case, the $2,800 level has become a critical support zone. A sustained break below it would likely confirm a broader bearish continuation, potentially accelerating losses as stop orders are triggered. On-Chain Supply Tightening Challenges Ethereum’s Bearish Technical Outlook While Ethereum’s price structure continues to reflect stress, on-chain data is telling a more nuanced story. Analysis shared by CryptoOnchain highlights a sharp contraction in the amount of ETH available for immediate sale on major exchanges, particularly Binance. The Ethereum Exchange Supply Ratio on Binance has fallen to 0.032, its lowest reading since September 2024, pointing to a meaningful reduction in liquid supply despite ongoing price weakness. This drop suggests that market participants are moving ETH off exchanges and into self-custody, a behavior typically associated with longer-term positioning rather than imminent selling. In practical terms, fewer coins sitting on exchanges reduces the immediate sell-side pressure that often exacerbates downtrends. The timing is notable, as this supply contraction is unfolding while Ethereum remains locked in a bearish technical formation. The contrast between the chart and the on-chain data is becoming increasingly relevant. From a purely technical perspective, the descending triangle and persistent resistance argue for caution. However, shrinking exchange supply introduces the risk of a supply-driven move if demand stabilizes. Should buyers successfully defend the $2,800 support zone, even modest inflows could have an outsized impact on price due to reduced available liquidity. For now, the market sits at an inflection point. A decisive break above the downtrend line would strengthen the case that accumulation is taking precedence over distribution, potentially shifting the balance away from the prevailing bearish narrative. Related Reading: Gold & Silver Breakout While Bitcoin Chops: Why Capital Is Flowing Into Precious Metals Ethereum Consolidates as Bearish Structure Remains Intact Ethereum is trading around the $2,930 level on the daily chart, continuing to consolidate after an extended decline from its late-summer highs. The broader structure remains technically weak, with price still forming a sequence of lower highs and lower lows since failing to hold above the $4,500–$4,800 zone earlier in the cycle. This rejection marked a clear trend shift, transitioning ETH from expansion into a corrective and potentially distributive phase. From a trend perspective, Ethereum remains capped below its key daily moving averages. The faster moving average has rolled over sharply and continues to act as immediate resistance, while the 111-day and 200-day simple moving averages sit higher, converging in the $3,400–$3,600 range. This layered resistance suggests that any upside attempts are likely to face strong selling pressure unless momentum improves meaningfully. Related Reading: The Gold-to-Bitcoin Rotation Narrative Gains Strength: A Data-Driven Review Price action over recent weeks reflects indecision rather than recovery. ETH has been oscillating in a tight range between roughly $2,850 and $3,050. Indicating short-term stabilization but not a confirmed reversal. Volume supports this view, as selling spikes dominated the initial breakdown, while subsequent rebounds have lacked strong participation from buyers. Technically, the $2,800–$2,900 zone remains critical. Holding this area preserves the possibility of base-building, but a decisive breakdown would open the door to a deeper retracement. For structure to improve, Ethereum would need to reclaim the $3,200–$3,300 region and regain acceptance above its declining daily averages. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum News|ETH|ethereum|Ethereum Bullish Signal|ethereum news|ethereum price|Ethereum structure|Ethereum supply|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56308696,
-    "published": 1766606400000,
-    "title": "Bitcoin bears currently favored in BTC’s end-of-year $30.3B options expiry",
-    "body": "Bitcoin options markets remain tilted toward bears despite US investors’ expectations of economic stimulus injections and semi-bullish outlook for 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56310945,
-    "published": 1766610044000,
-    "title": "XRP Price Must Stay Above This Level Or Crash To $0.9",
-    "body": "A crypto analyst has identified a key support level that could determine whether the XRP price stabilizes or experiences a sharp sell-off, sending it crashing toward the $0.90 mark. With volatility building and market sentiment turning cautious, XRP’s next move may be critical for both short-term traders and long-term holders. XRP Price Faces Decline To $0.9 If Support Fails A crypto market expert who refers to himself as ‘Guy on the Earth’ on X has released an updated outlook on XRP, warning traders about a critical price level that could determine the cryptocurrency’s near-term direction. He noted that XRP has closed below the $1.95 monthly support zone for the first time in 13 months, signaling growing downside risk. According to his assessment, this breakdown could have serious technical implications if XRP fails to recover quickly. Related Reading: Here’s Why The XRP Price Will Shine In The New Year The analyst’s chart shows that this marks the second time XRP has fallen below the $1.95 support on the weekly timeframe. Guy on the Earth stated that the last time it happened was during April’s US tariff-related market stress, which caused XRP and the broader crypto market to crash. If history is any guide, the cryptocurrency could decline again if it fails to hold the $1.95 support level. The analyst has set the breakdown target at $0.90, which represents a more than 50% crash from current levels around $1.85. For the XRP price to stabilize, bulls must reclaim the $1.95 level and hold above it as soon as possible. Guy on the Earth noted that XRP recently attempted to move back above $1.95 but was rejected, forming another lower high and reinforcing its broader bearish structure. He added that if the monthly chart fails to reclaim this support within the next several days, XRP’s downside momentum could accelerate. For traders uncomfortable with the current setup, the analyst suggested reducing exposure and waiting for a confirmed daily close above $1.95 before re-entering the market. He explained that this strategy could help limit losses while keeping traders positioned for a potential price recovery. From a longer-term perspective, Guy on the Earth has identified several potential accumulation zones if XRP’s price continues to fall. The key levels to watch on the chart are $1.61, $1.42, and the $0.90 target, with $0.75 representing the initial breakdown area from the previous rally. The analyst further noted that increased selling pressure from Bitcoin could open the door to deeper downside moves for XRP. Analyst Confirms Bullish Recovery Still Possible Toward the end of his analysis, Guy on the Earth noted that the recent price action does not indicate a full-scale downturn for XRP. He explained that the cryptocurrency is less than $0.04 from the rectangle resistance and that Bullish Divergence has yet to play out across multiple timeframes. Related Reading: Peter Brandt Highlights Bearish XRP Price Chart, ‘You Need To Deal With It’ According to the analyst, a recovery and subsequent rally are still in the books for XRP, highlighting that sellers are becoming exhausted. Nevertheless, he warned that caution is necessary given XRP’s two consecutive weekly closes below key support. Featured image from Adobe Stock, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|bullish divergence|Guy on the Earth|Ripple|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56321850,
     "published": 1766628023000,
     "title": "Ethereum Fails To Surpass $3,000: Predictions For The Final Days Of The Year",
@@ -792,6 +616,35 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56356532,
+    "published": 1766688129000,
+    "title": "Canton token rallies 27% after DTCC outlines tokenized Treasury plans",
+    "body": "DTCC’s move to bring US Treasurys onchain highlights growing institutional momentum behind tokenized real-world assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       }
     ]
   }
