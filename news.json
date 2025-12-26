@@ -1,99 +1,5 @@
 [
   {
-    "id": 56351838,
-    "published": 1766680250000,
-    "title": "Bitcoin Extreme Fear Streak Extends To 13 Days On Christmas",
-    "body": "Data of the Bitcoin Fear & Greed Index suggests the average investor sentiment has now been inside the extreme fear zone for 13 straight days. Bitcoin Fear & Greed Index Is Still Pointing At Extreme Fear The “Fear & Greed Index” refers to an indicator created by Alternative that tells us about the average sentiment shared by traders in the Bitcoin and wider cryptocurrency markets. The index determines the sentiment by referring to the data of five factors: market cap dominance, trading volume, Google Trends, social sentiment, and volatility. It then represents it using a numeric scale that runs from zero to hundred. Related Reading: Bitcoin Price Trading Near ‘Fair Value,’ Says On-Chain Model All values above 53 indicate the presence of a greed sentiment among the investors, while those below 47 suggest the dominance of fear. Levels lying between the two thresholds correspond to a net neutral mentality. Besides these three core regions, there are also two “extreme” zones in the Fear & Greed Index, known as the extreme fear and extreme greed. The former occurs at and below 25, while the latter occurs above 75. Now, here is how the sentiment among investors in the current Bitcoin market is, according to the Fear & Greed Index: As is visible above, the majority sentiment in the cryptocurrency sector is one of extreme fear at the moment, with the indicator sitting at a value of 23. The despair among the investors isn’t new, as the index has, in fact, remained in this region for the last couple of weeks. As displayed in the chart, the Bitcoin Fear & Greed Index has indicated extreme fear for 13 consecutive days now, underscoring the FUD that has been present in the market. If history is anything to go by, though, the extremely fearful sentiment may not actually be such a bad sign for BTC and other cryptocurrencies. Often, digital asset markets tend to move in a direction that goes contrary to the crowd’s belief. This probability of an opposite move generally becomes the strongest inside the extreme sentiment zones, with major tops and bottoms historically forming while the index has been in the respective region. The price low in November, which has acted as the bottom for Bitcoin so far, also occurred alongside an extended stay inside the extreme fear territory. Clearly, though, that extreme fear streak wasn’t enough to reignite sustained bullish momentum for BTC, as the asset has only consolidated since then. Related Reading: When Will Bitcoin Bottom? History Points To October 2026, Says Analyst As such, it only remains to be seen whether the latest stay inside extreme fear will be able to change that or if it will be a while before the bottom is reached in the current cycle. BTC Price At the time of writing, Bitcoin is floating around $87,500, unchanged from one week ago. Featured image from Dall-E, Alternative.me, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin Extreme Fear|Bitcoin Fear & Greed Index|btc|BTCUSDT|Christmas",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56354932,
-    "published": 1766685630000,
-    "title": "Bitcoin Has Entered A Bear Market, And This Data Backs It Up",
-    "body": "The ongoing Bitcoin price play out leading into a bear market is now one of the most pressing questions in the crypto industry. Right now, Bitcoin is trading between $87,700 and $88,000, which is a 30% drop from the all-time high it reached in October 2025. Price action alone often leaves room for debate, but on-chain data is beginning to offer clearer guidance. Notably, analysis from CryptoQuant shows that Bitcoin’s internal market structure is shifting in a way that aligns more closely with early-stage bear market conditions. BCMI Drops Below Equilibrium The important bear market signal is from Bitcoin’s Combined Market Index, or BCMI, which is a composite indicator that blends price behavior with on-chain momentum. According to Woo Minkyu, a verified analyst on the CryptoQuant platform, Bitcoin’s BCMI returned to the 0.5 level in October. This was initially interpreted as a cooling phase rather than a definitive cycle top. At the time, the assumption was that Bitcoin was consolidating after an extended rally. Related Reading: Bitcoin Price Remains Stuck Inside This Range, But A Breakout Could Follow However, that view has weakened with the deterioration of market conditions. Particularly, Bitcoin’s price action has declined materially since late October, and the BCMI has fallen in tandem with the price. This joint decline suggests the market has reset not only through time but also through valuation and participation. As shown on the chart below, the BCMI has now slipped below its equilibrium zone, and this is a development that is known to coincide with transitions into bearish phases, where rallies tend to be capped, and downside risks increase. A closer look at prior Bitcoin cycles adds more context to the current setup. In both 2019 and 2023, meaningful cycle bottoms formed only after BCMI compressed into the 0.25 to 0.35 range. Those levels reflected deep sentiment compression, washed-out positioning, and a structural reset of the market. At current readings, Bitcoin’s Combined Market Index is less than 0.4. This reading is below equilibrium but still well above a bottom zone. This opens the possibility that the market is transitioning into a bear phase, not just experiencing a pullback. According to the analyst, a more durable bottom may only form if history repeats itself and the BCMI revisits 2019-2023 levels. Weak Sentiment Adds To Bear Market Evidence Market sentiment is also supporting the idea that Bitcoin is moving deeper into a bearish phase. Optimism has been really scarce in recent weeks, with traders showing little confidence that the price has found a sustainable floor. CoinMarketCap’s Crypto Fear and Greed Index is currently posting a reading of 28, which places sentiment firmly in the Fear zone. Related Reading: The Bitcoin Bull And Bear Cases That Crypto Traders Should Know About This poor sentiment backdrop has been affirmed by industry commentary. For instance, Changpeng Zhao recently noted that many investors only wish they had bought Bitcoin early when prices were already at all-time highs. In practice, those early accumulations happened during periods like the present one, when fear, uncertainty, and doubt dominate market psychology. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|BCMI|bitcoin|Bitcoin news|bitcoin price|Bitcoin’s Combined Market Index|btc|BTC news|btc price|btcusd|BTCUSDT|changpeng zhao|CoinMarketCap|cryptoquant|fear and greed index",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56356532,
     "published": 1766688129000,
     "title": "Canton token rallies 27% after DTCC outlines tokenized Treasury plans",
@@ -810,6 +716,199 @@
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
       },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56403915,
+    "published": 1766762593000,
+    "title": "Coinbase named a top three 2026 fintech pick at Clear Street",
+    "body": "The crypto exchange’s tokenization, AI tools, and stablecoin revenue help it stand out in ‘transition year’ for crypto equities, said Clear Street's Owen Lau.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56405403,
+    "published": 1766764893000,
+    "title": "Bitcoin sinks below $87,000 as crypto assets slide, metals soar post-Xmas",
+    "body": "Gold, silver, platinum and copper all surged to new records as metals — not bitcoin — attracted capital on the debasement trade and geopolitical tension.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Metals|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56405695,
+    "published": 1766765081000,
+    "title": "Price predictions 12/26: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
+    "body": "Bitcoin and several major altcoins attempted to start a relief rally, but higher levels continue to attract strong selling by the bears.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56409308,
+    "published": 1766770275000,
+    "title": "Coinbase Says Former Agent Arrested In India Over Exchange Hack",
+    "body": "Coinbase Global Inc. Chief Executive Officer Brian Armstrong said that a former customer service agent for the largest US crypto exchange was arrested in India, months after hackers bribed customer service representatives to gain access to customer information.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "NMS:COIN",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 56409995,
+    "published": 1766772000000,
+    "title": "Crypto ETFs set to explode higher in 2026, analysts say",
+    "body": "Regulatory clarity in the United States and the likelihood of falling interest rates will push the crypto ETF market higher in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 37,
