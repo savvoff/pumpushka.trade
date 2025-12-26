@@ -1,110 +1,5 @@
 [
   {
-    "id": 56338202,
-    "published": 1766657090000,
-    "title": "NFT collections get no Santa rally as market hits 2025 lows",
-    "body": "Market data showed shrinking participation across NFTs, with fewer buyers, sellers and transactions signaling fading speculative interest.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56338984,
-    "published": 1766658620000,
-    "title": "Why The Current XRP Valuation Doesn’t Make Sense",
-    "body": "Can a digital asset like XRP realistically sit at a few dollars if it is expected to serve as an important liquidity layer for the global financial system? That question is at the center of a growing debate around XRP’s market value and is the basis of comments shared on X by Jesse of Apex Crypto. His argument challenges the idea that XRP can function as a worldwide liquidity instrument through Ripple’s framework while maintaining a relatively low valuation around $3, which he says doesn’t make sense. The Liquidity Argument Behind XRP’s Valuation Debate XRP’s price history shows a clear ceiling that it has struggled to overcome. Since launch, the token has never sustained a move above the $4 level, with its highest recorded peak sitting around $3.65 in mid-July. Recent weeks have been even more challenging, as XRP has been trading under $2 with the entire crypto market going through a weak phase. Related Reading: $130 Million XRP Fumble: Analyst Reveals What Went Wrong Despite this, some bullish analysts continue to speculate about scenarios where the price revisits the $3 region. That outlook, however, was directly challenged by Jesse of Apex Crypto, who asserted that even a $3 valuation fundamentally misses the point of what XRP is designed to become. Jesse’s position is built around XRP’s intended role in global finance. According to him, if XRP grows into a primary liquidity source for cross-border settlements like it was intended to be, then a valuation around $3 would not align with that responsibility. In his video commentary, he questioned what XRP would ultimately be backed by or pegged to, pointing to a structure tied to vast pools of global financial assets. These include fiat currencies, potential central bank digital currencies, and even commodities such as gold or silver. He noted that such a framework would imply that the total value represented by XRP tokens would correspond to the combined value of these underlying assets. In simple terms, if roughly 100 billion XRP were expected to support or represent liquidity linked to trillions of dollars in global assets, then a single-digit price per token would appear mathematically inconsistent. From this perspective, XRP’s valuation would need to reflect the scale of the assets it helps move. Institutional Adoption Versus Price Reality The valuation debate is much more complex when placed alongside Ripple’s growing institutional footprint. Ripple has continued to expand partnerships with banks, payment providers, and financial institutions across multiple regions, which strengthens the case that its technology is gaining traction within traditional finance. Related Reading: Dogecoin Price Could Rally If It Reclaims This Fibonacci Level At the corporate level, Ripple’s valuation and funding activity point to strong confidence from large investors, a factor Jesse of Apex Crypto believes should provide a valuation floor for XRP. However, XRP’s market price has not mirrored this institutioacnal momentum. Even with XRP-related investment products gaining attention and steady inflows, the price action is still limited, and the cryptocurrency might continue trading at low valuations in the near term. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56341919,
-    "published": 1766663210000,
-    "title": "CZ proposes fix to address poisoning after investor loses $50M",
-    "body": "Zhao urged the blockchain industry to adopt new security measures, including scam address blacklist, after an investor lost $50 million to an address poisoning scheme.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
     "id": 56345525,
     "published": 1766669411000,
     "title": "Could XRP Make Trillionaires? Tech Firm Founder Thinks It’s Possible",
@@ -622,6 +517,281 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56390741,
+    "published": 1766742824000,
+    "title": "Trust Wallet users lose $7 million to hacked Chrome extension",
+    "body": "Changpeng Zhao, a co-founder of Binance, which owns the utility, said the losses will be reimbursed.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Wallets|Crime|Trust Wallet|Binance|Exploits|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 56390806,
+    "published": 1766742605000,
+    "title": "Inside the Swiss city where you can pay for almost everything in Bitcoin",
+    "body": "From McDonald’s to municipal taxes, Lugano is proving that Bitcoin adoption is not about predicting the future; it is about building the infrastructure to handle it today.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56391757,
+    "published": 1766744100000,
+    "title": "AI bubble risks in 2026: What’s the potential impact on Bitcoin price?",
+    "body": "Tether CEO Paolo Ardoino warned an AI sector correction could spill over into crypto markets in 2026, with some analysts projecting BTC to drop to as low as $65,000.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56393441,
+    "published": 1766746878000,
+    "title": "Uniswap's token burn, protocol fee proposal backed overwhelmingly by voters",
+    "body": "The proposal, which transforms UNI into a value-accruing asset, received more than 125 million votes in support with just 742 dissenting.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Uniswap|Governance|dexs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56393445,
+    "published": 1766746811000,
+    "title": "Flare Launches New Way For XRP Investors To Earn",
+    "body": "Flare Network has rolled out a new yield-focused product in collaboration with Upshift and Clearstar that offers XRP holders a way to earn returns without selling their XRP holdings. XRP’s price action has been bearish in recent weeks, and that calm has carried into the past trading sessions. The cryptocurrency is trading around $1.87, after staying confined between roughly $1.83 on the downside and $1.88 on the upside in the latest session. This subdued price behavior has preoccupied recent discussions, but development around its ecosystem has continued quietly in the background. Flare Launches New XRP Product Flare Network has officially introduced a new product designed to expand what XRP holders can do with their cryptocurrencies besides holding or trading. The product, which is called earnXRP, is positioned as the first on-chain yield solution that is fully denominated in XRP, and at the same time, addresses a long-standing gap in the ecosystem where earning yield typically required moving into stablecoins or other assets. Related Reading: The Decision That Could Change Everything For XRP Investors The launch is built around Flare’s FAssets system, which allows XRP to be represented on the network as FXRP on a one-to-one basis. To participate in earnXRP, holders deposit FXRP (XRP represented 1:1 on Flare) directly into an on-chain vault, where those assets are deployed across yield-generating strategies. In return, users receive a receipt token that tracks their deposited FXRP along with any yield accrued over time, with earnings remaining fully denominated in XRP. Users receive earnXRP, which represents the user’s deposited FXRP plus any yield generated over time. This structure removes much of the complexity typically associated with DeFi participation. Strategy execution, rebalancing, and compounding are handled within the vault. Users can also request withdrawals at any time, a process where their earnXRP tokens are burned, and FXRP is returned to their wallet. Muted Price Reaction For The Altcoin Flare’s earnXRP is one of the few avenues XRP holders can participate in DeFi. FXRP is a 1:1 ERC-20 representation of XRP that unlocks DeFi utility not possible on the XRP Ledger alone. Related Reading: XRP Price Falls To Critical Support Level, Is It Time To Panic? “Only 0.1% of XRP supply is utilized in DeFi, despite it being the 5th largest cryptocurrency by market cap. Users have not had an easy way to capture sustainably high returns. We’re excited to work with Flare and Clearstar to unlock XRP yield using the new Flare XRP Yield vault,” said Ethan, Growth Lead at Upshift. Despite the significance of the launch from a utility standpoint, the immediate market response has been limited. XRP is still trading within its recent range, with the price still below $1.9 and showing little reaction to the announcement. This response shows that the altcoin is currently heavily influenced by broader market conditions and macro sentiment, which have weighed on price action across the entire sector. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Clearstar|DeFi|flare network|Flare XRP Yield vault|FXRP|Ripple|Stablecoins|Upshift|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 122,
+        "NAME": "FLR",
+        "CATEGORY": "FLR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56395828,
+    "published": 1766750114000,
+    "title": "Memecoins go from Christmas cheer to cold reality, sinking 65% in a year",
+    "body": "Once a barometer of retail hype, memecoins are closing the year with shrinking liquidity, weaker participation and fading speculative momentum.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56397120,
+    "published": 1766752240000,
+    "title": "Saylor Reveals What Will Drive Bitcoin Price To New ATHs – It’s Not What You Think",
+    "body": "Bitcoin price dynamics heading into the next market cycle are being reframed by Michael Saylor, who argues that the forces capable of pushing Bitcoin to new all-time highs have little to do with speculation, retail enthusiasm, or ETF-driven flows. Instead, Saylor’s outlook positions Bitcoin price appreciation as the outcome of a deeper structural transition that is unfolding quietly within the banking system. Michael Saylor On Bitcoin Price’s Structural Shift As the market looks toward 2026, Michael Saylor’s thesis on Bitcoin price action focuses on a structural shift away from trader-driven dynamics toward regulated financial institutions, a transition that could fundamentally reshape how capital engages with Bitcoin at scale. For most of its history, Bitcoin price discovery has been dominated by cyclical trading behavior, leverage, and sentiment-driven momentum. Related Reading: Why The Current XRP Valuation Doesn’t Make Sense Even milestones such as spot Bitcoin ETFs, while broadening access, largely remain confined to traditional capital markets. Saylor’s view departs from this model by highlighting Bitcoin’s gradual integration into bank balance sheets, where valuation is driven by utility, collateralization, and long-term capital allocation rather than short-term market cycles. Recent developments underscore this shift. A growing number of major US banks have begun offering Bitcoin-collateralized loans, a move that signals a reclassification of Bitcoin from a high-volatility trading asset to a recognized form of financial collateral. Lending against Bitcoin reflects institutional confidence in its liquidity, custody standards, and long-term value stability. In practical terms, this positions Bitcoin alongside assets that are suitable for credit creation rather than short-term speculation. Once Bitcoin is integrated into lending structures, treasury operations, and institutional risk models, demand characteristics change materially. Capital deployed through these channels is not reactive to short-term price fluctuations. It is strategic, compliance-driven, and designed for multi-year horizons. This type of demand absorbs supply consistently, reinforcing scarcity dynamics already embedded in Bitcoin’s fixed issuance model. As a result, Bitcoin price appreciation becomes a function of sustained capital allocation rather than episodic market rallies. Banking Infrastructure And The New Ceiling For Bitcoin Price Saylor identifies 2026 as the period when the impact of banking adoption becomes fully visible. Major financial institutions such as Charles Schwab and Citigroup, planning to roll out Bitcoin custody and related services, point to a broader alignment between Bitcoin and regulated financial infrastructure. Related Reading: $130 Million XRP Fumble: Analyst Reveals What Went Wrong Custody plays a pivotal role in this process. When banks custody Bitcoin, they unlock the ability to embed it across wealth management platforms, corporate treasury strategies, and secured lending products. This dramatically expands Bitcoin’s addressable capital base by enabling participation from institutions previously constrained by regulatory, operational, or fiduciary limitations. As banking participation deepens, Bitcoin price behavior is likely to evolve. Volatility driven by leveraged trading and speculative positioning diminishes in relative importance, while long-term balance-sheet accumulation becomes a dominant force. In this environment, according to Saylor, Bitcoin’s new all-time highs will not be the product of sudden euphoria but the result of sustained absorption by institutions operating at scale. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
       },
       {
         "TYPE": "122",
