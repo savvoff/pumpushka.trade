@@ -63,6 +63,10 @@ const lang = SITE.defaultLanguage;
 //   return paths;
 // }
 
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, s-maxage=1800, stale-while-revalidate=86400'
+);
 
 const blogTitle = TRANSLATIONS[lang].blog;
 const categoriesText = TRANSLATIONS[lang].tags;

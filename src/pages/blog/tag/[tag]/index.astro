@@ -40,6 +40,11 @@ const lang = SITE.defaultLanguage;
 //     props: { tagSlug: slug, tagName: label, tagCount: count, lang },
 //   }));
 // }
+
+Astro.response.headers.set(
+  'Cache-Control',
+  'public, s-maxage=1800, stale-while-revalidate=86400'
+);
 const blogTitle = TRANSLATIONS[lang].blog;
 const categoriesText = TRANSLATIONS[lang].categories;
 const tagsText = TRANSLATIONS[lang].tags;
