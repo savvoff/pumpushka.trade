@@ -1,57 +1,5 @@
 [
   {
-    "id": 56328268,
-    "published": 1766638746000,
-    "title": "Crypto saw record $8.6B in deals in 2025 with growth under Trump: FT",
-    "body": "The number of crypto deals reportedly skyrocketed this year and hit a record total value of $8.6 billion, led by Coinbase’s record-breaking acquisition of Deribit.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56330014,
-    "published": 1766641637000,
-    "title": "Social engineering cost crypto billions in 2025: How to protect yourself",
-    "body": "Crypto hackers took social engineering to a whole other level this year, and advances in artificial intelligence mean scams are about to get even harder to detect.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56332539,
     "published": 1766646015000,
     "title": "Bitcoin ETFs lose $825M in five days as US becomes 'biggest seller' of BTC",
@@ -543,6 +491,82 @@
     "title": "Bitcoin market fundamentals ‘couldn't be better,’ says Strategy CEO",
     "body": "Bitcoiners wanting to focus on short-term factors should be “fairly methodical and mathematical,” says Strategy CEO Phong Le.",
     "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56375849,
+    "published": 1766721193000,
+    "title": "Ethereum unlikely to reach new highs in 2026: Ben Cowen",
+    "body": "If Ether manages to reclaim its all-time high in 2026, it may just be a “bull trap,” says crypto analyst Ben Cowen.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56377070,
+    "published": 1766723110000,
+    "title": "Crypto sentiment holds ‘Extreme Fear’ for 14th straight day",
+    "body": "The Crypto Fear & Greed Index is hovering at levels lower than during the shock FTX collapse in late 2022, despite Bitcoin trading at roughly five times the price.",
+    "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "",
     "lang": "EN",
