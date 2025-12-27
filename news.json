@@ -1,57 +1,5 @@
 [
   {
-    "id": 56387063,
-    "published": 1766737729000,
-    "title": "Aave governance vote ends in rejection after community pushback",
-    "body": "The failed vote highlights deeper tensions over token value capture, governance power and whether DAO structures can effectively manage protocol identity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56388253,
-    "published": 1766739186000,
-    "title": "Trust Wallet will cover $7M lost in Christmas Day hack, CZ says",
-    "body": "The malicious Trust Wallet extension has also been exporting users’ personal information, pointing to potential insider activity, according to cybersecurity company SlowMist.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 56389025,
     "published": 1766740500000,
     "title": "Dogecoin Is Repeating Its 2020 Accumulation Cycle, Analyst Says",
@@ -1056,6 +1004,52 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56437462,
+    "published": 1766818476000,
+    "title": "JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report",
+    "body": "JPMorgan has reportedly frozen accounts linked to Y Combinator–backed stablecoin startups BlindPay and Kontigo after flagging exposure to sanctioned jurisdictions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 56441549,
+    "published": 1766811616000,
+    "title": "Year in a word: Stablecoins",
+    "body": "In spite of efforts to bring it into the mainstream, the cryptocurrency remains one step removed from money",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
