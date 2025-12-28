@@ -1,128 +1,5 @@
 [
   {
-    "id": 56450126,
-    "published": 1766838654000,
-    "title": "Bitcoin To Retest $85,000 As Bearish Technicals And On-Chain Weakness Align",
-    "body": "The Bitcoin market stands at a critical juncture, as it currently hovers above its $85,000 psychological level. Aside from its psychological validity, this key support also appears to hold technical importance. Hence, its strength could be tested before the market shows directional momentum. However, a recent analysis has surfaced that paints a grim picture for the flagship cryptocurrency’s future. Related Reading: Bitcoin Supply Overhang: 6.6 Million BTC Bought Above Current Price Descending Triangle Forms Near $85,000 Support In a recent post made on QuickTake, CryptoOnchain reveals that there has been the appearance of a classic technical pattern, indicative of an asset’s bearish continuation intent. This pattern, which is present on the Bitcoin daily timeframe, is characterized by a sequence of lower swing highs, with price compressing against a horizontal support acting as the triangle’s base. Interestingly, a price level, known as the Point Of Control (POC) — wherein lies the highest traded volume — also sits near the $85,000 support. This further reinforces the significance of the price level. If this price level were to be breached decisively, the Bitcoin price could see a rapid downward movement, seeing as liquidation and capitulation events would likely follow. Notably, heightening downward pressure might be seen if very little or no demand comes into play to reassert bullish momentum. Related Reading: Ethereum’s 2026 Overhaul Aims To Cut Costs, Boost Speed, Limit Censorship Exchange Activity Drops To Multi-Year Lows CryptoOnchain supports his bearish hypothesis with another notable on-chain observation. The indicator here is the Bitcoin Exchange Withdrawing Transactions (7-day Moving Average) metric, which keeps tabs on the number of on-chain withdrawal transactions made from cryptocurrency exchanges over a period of seven days. The analyst highlights that the metric’s readings have fallen to levels around 5,000, the lowest seen since 2016, about nine years ago. Interestingly, this current level falls short of the readings put in during previous bear markets (in 2018, 2020, and 2022). Exchange withdrawal activity offers insight into investor conviction and accumulation behavior. Rising withdrawal activity signifies growing accumulation appetite and increasing confidence, as coins sent out of exchanges are usually kept in private wallets. On the flipside, this significant fall in exchange withdrawal activity points to a deep feeling of disinterest among Bitcoin investors, or a lack of conviction that is important for long-term holding. Aside from the evident lack of urgency to acquire coins into private wallets, the low readings from this metric reveal that investors are also not actively accumulating BTC. The analyst concludes that “the data suggests widespread skepticism or exhaustion, with real, non-speculative demand largely absent.” If the $85,000 support fails, the lack of interested buyers could cause Bitcoin’s price to fall rapidly. As of press time, Bitcoin holds a value of $87,410, with no real movement since the past 24 hours. Featured image from Pexels, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin support|btcusd|BTCUSDT|CryptoOnchain|descending triangle|exchange withdrawal activity",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56450029,
-    "published": 1766838270000,
-    "title": "Coinbase CEO says reopening GENIUS Act is ‘red line,’ slams bank lobbying",
-    "body": "Coinbase CEO Brian Armstrong warned that reopening the GENIUS Act would cross a “red line,” accusing banks of lobbying Congress to block stablecoin rewards and limit competition.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56453275,
-    "published": 1766844062000,
-    "title": "From Circle to Bullish: Crypto Wraps Up 'Bellwether Year' for IPOs",
-    "body": "Crypto companies rushed to Wall Street in 2025, with Circle, Bullish, and eToro going public while Kraken lined up for its market debut.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56456228,
     "published": 1766849441000,
     "title": "Bitcoin Fractal Hints Next Cycle Bottom To Form Around $45K — Here’s When",
@@ -758,6 +635,53 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56497221,
+    "published": 1766930463000,
+    "title": "The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party",
+    "body": "This year, ETFs opened several new doors to crypto on Wall Street, as the SEC forged a fresh approach to the products.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Long Reads",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
