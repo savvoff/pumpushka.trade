@@ -1,198 +1,5 @@
 [
   {
-    "id": 56417456,
-    "published": 1766783754000,
-    "title": "Etheruem’s tokenization role takes focus as Tom Lee outlines bullish outlook",
-    "body": "Fundstrat’s head of research said institutional tokenization supports a $7,000–$9,000 Ether price in early 2026 and a longer-term case for $20,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      }
-    ]
-  },
-  {
-    "id": 56418385,
-    "published": 1766785143000,
-    "title": "Bitmain slashes ASIC prices amid mining industry turmoil: Report",
-    "body": "Discounts and bundle deals were offered to mining operators, as 2025 ends on a bad note for the crypto market and the mining industry.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56422717,
-    "published": 1766792788000,
-    "title": "Ethereum's TVL could skyrocket '10X' in 2026: Sharplink CEO",
-    "body": "A surge in stablecoins, tokenized RWAs and growing sovereign wealth fund interest could drive a major increase in Ethereum’s TVL in 2026, Sharplink’s co-CEO said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56423117,
-    "published": 1766793630000,
-    "title": "Bitcoin Supply Overhang: 6.6 Million BTC Bought Above Current Price",
-    "body": "On-chain data shows a chunk of the Bitcoin supply has its cost basis above the current spot price, which could potentially shape volatility if BTC rebounds. Bitcoin Supply Overhang Could Dictate Volatility & Selling Pressure As pointed out by CryptoQuant community analyst Maartunn in a new post on X, over 6.6 million BTC is being held above the latest spot price of the cryptocurrency. The on-chain indicator of relevance here is the “Supply In Loss,” which measures, as its name suggests, the total amount of Bitcoin that’s currently carrying some net unrealized loss. Related Reading: Bitcoin Extreme Fear Streak Extends To 13 Days On Christmas The metric works by going through the transaction history of each token in circulation to determine the price at which it was last transacted on the blockchain. If this previous transfer price was more than the current spot price for any coin, then that particular token is considered to be in a state of loss. The Supply In Loss adds up all coins fulfilling this condition to find the total situation on the network. A counterpart indicator called the Supply In Profit accounts for the supply of the opposite type. Now, here is the chart shared by Maartunn that shows the trend in the Bitcoin Supply In Loss over the last few years: As displayed in the above graph, the Bitcoin Supply In Loss shrunk to a value of zero as the asset’s price set its all-time high (ATH) above $126,000 back in October, but with the market downturn that has followed since then, the indicator’s value has shot up. Today, around 6.6 million tokens of the cryptocurrency sit below cost basis, equivalent to a third of the BTC supply in circulation. The recent highs in the Supply In Loss represent the highest degree of pain in the market since 2023. In another X post, the analyst has shared the chart for another Bitcoin indicator, this one called the UTXO Realized Price Distribution (URPD). The URPD contains information about how much BTC was bought last at each of the levels that the asset has visited in its history. Looks like a significant portion of the supply sits above the spot price | Source: @JA_Maartun on X From the chart of the URPD, it’s visible how the Bitcoin supply that’s in loss is distributed across the various levels right now. A few levels are particularly prominent in the degree of supply that they carry, while some others are notably thin with coins. Generally, investors who are in loss look forward to a retest of their cost basis so that they can get their money “back.” Once this happens, some of these hands decide to exit, fearing that BTC will go down again in the near future. This selling can make large supply clusters above the spot price, potential points of volatility. Related Reading: Bitcoin Price Trading Near ‘Fair Value,’ Says On-Chain Model Considering that a large portion of the supply is underwater right now, a venture back to higher levels could be met with selling pressure for Bitcoin. BTC Price Bitcoin has made some recovery during the past day as its price has returned to $88,600. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin Loss|Bitcoin Overhang|Bitcoin Supply In Loss|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56425000,
-    "published": 1766797214000,
-    "title": "Gemini Poll Finds Over 70% Of Investors Predict XRP Below $2 By Year’s End",
-    "body": "As the year draws to a close, XRP investors are increasingly adopting a bearish outlook, anticipating that the altcoin will remain below the critical $2 threshold. XRP Forecasts Dipped A recent poll conducted by cryptocurrency exchange Gemini, running from December 12 to 23, reveals that 73% of investors predict XRP will finish the year between $1.50 and $2.00, suggesting a muted conclusion for the altcoin’s performance in 2025. Just weeks prior, market sentiment was more optimistic, with around 38% of traders expecting XRP to rally to a range of $2.00 to $2.50 by December 31. However, that figure has since dropped to 28%, reflecting a significant decline in confidence. Related Reading: Bitcoin Correction Timeline: Analyst Predicts Potential Bottom In October 2026 The possibility of the cryptocurrency exceeding $2.50 appears almost non-existent, as only about 4% of respondents foresee it reaching the $2.50 to $3.00 range, and a similar 4% predict it could surpass $3.00. The consensus of 73% predicting an XRP finish between $1.50 and $2.00 marks an increase from the 63% recorded earlier in the poll. This growing alignment among poll participants indicates that they are consolidating around this range as the most likely scenario. Furthermore, the sentiment towards higher price levels has significantly shifted. The percentage of voters anticipating a rally into the mid-$2 range has dwindled to a mere 4%, reflecting dwindling confidence after several failed attempts to break through resistance levels. Even the outlook for the altcoin’s price to drop below $1.50 has risen slightly to 7%, up from 6%, although most believe a sharp sell-off is unlikely. Rising Supply From Early Investors This prevailing sentiment aligns with Futures data indicating a prevalence of aggressive sell orders, while the slow accumulation of XRP in exchange-traded funds (ETFs) at a pace of $30 to $50 million daily cannot keep up with profit-taking and risk reduction activities in the market. On-chain data reveals that significant realized gains have been secured as XRP approached its recent highs. For instance, a long-term holder who initially acquired the altcoin around $0.40 sold over 350 million tokens at approximately $2.00, reaping an estimated profit of $721 million. Related Reading: Ethereum Fails To Surpass $3,000: Predictions For The Final Days Of The Year With many early investors reportedly cashing out at the $2 level, there has been minimal support for dip-buying to bolster the price, keeping it in the current range between $1.7 and $1.8 recorded in the week. Experts suggest that when the supply increases from long-term holders, whose initial investments were made at $0.40 to $0.60, it creates a resistance ceiling that is challenging to break without substantial new demand entering the market. At the time of writing, XRP was trading at $1.830. The altcoin has recorded major losses in all time frames, with a year-to-date decline of 15%, in line with the broader market’s performance. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|crypto|crypto market|crypto news|xrp|XRP ETF News|XRP ETFs|xrp news|XRP poll|XRP Price Forecast|XRP price news|XRP price predictions|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56427083,
     "published": 1766800853000,
     "title": "Trust Wallet Exploit Drains $7M: Hundreds Of Users Affected",
@@ -798,6 +605,88 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56468832,
+    "published": 1766873094000,
+    "title": "Fed's 'skinny' accounts end Operation Chokepoint 2.0 — Senator Lummis",
+    "body": "Giving crypto companies and fintech startups access to accounts at the Federal Reserve is a hedge against debanking by commercial banks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56470406,
+    "published": 1766876430000,
+    "title": "Bitcoin 4-Year Cycle Is Dead: Crypto Trader Explains What Happens Next",
+    "body": "According to a well-known crypto analyst, Bitcoin’s (BTC) long-standing four-year cycle can no longer dictate the direction of the crypto market. For months, both Bitcoin and major altcoins have struggled to regain their previous highs, while traditional markets have flourished. This difference in performance has sparked discussions about whether the old cycle rule still applies and what could come next for the broader market. Analyst Declares Bitcoin 4-Year Cycle Dead A popular crypto analyst with over 227,000 followers on X, @theunipcs, has announced that the Bitcoin four-year cycle is dead. He stated that this market cycle is now unable to determine the behavior of BTC and many major altcoins. Related Reading: Ethereum’s 2026 Overhaul Aims To Cut Costs, Boost Speed, Limit Censorship Traditionally, crypto’s four-year cycles have relied on the Bitcoin halving to reduce supply and trigger price surges. However, based on Unipcs’ analysis, these mechanisms no longer govern the market, especially as factors such as monetary policy, Spot ETFs, liquidity flows, macroeconomic factors, and dramatic liquidation events have significantly altered it. Unipcs emphasized that the market has been in a long phase of consolidation and accumulation, showing little of the explosive activity historically expected after halving events. He pointed out that the price of Bitcoin and leading altcoins have remained depressed for months, trading roughly 30% or more below their all-time highs. This decline stands in stark contrast to other major asset classes, which continue to climb. The analyst noted that Silver has been hitting record levels almost daily, while Gold continues to climb to new peaks. Additionally, major US stock indexes, such as the S&P 500, are hitting fresh highs, while crypto remains stagnant and underperforming. Notably, this extended period of weakness is highlighted by Bitcoin’s crash below $85,000 earlier this month after peaking above $126,000 during the first week of October. Many altcoins, including Ethereum, Solana, XRP, and others, have followed a similar trajectory, surging explosively before plunging to new lows. Technical indicators, such as the Fear & Greed Index, indicate that investor sentiment remains deeply negative, while analyst insights point to a bearish market structure. Overall, Unipcs’ analysis signals the possible end of the historically repetitive 4-year cycle, though he suggests it could mark the beginning of a new bullish phase for crypto. What’s Next For BTC And The Crypto Market? Despite the prolonged slump, Unipcs believes that the ongoing accumulation trend could end soon, triggering an aggressive rally in the crypto market. He believes that once this happens, Bitcoin and major altcoins could surge explosively to new all-time highs once the dormant market transitions into a new bullish phase. Related Reading: Could XRP Make Trillionaires? Tech Firm Founder Thinks It’s Possible While the timing of his optimistic outlook remains uncertain, the analyst is confident in the market’s potential for a decisive breakout and recovery. Unipcs has stated that the crypto market will eventually catch up and potentially outperform all asset classes soon. Featured image from Pexels, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin Cycle|Bitcoin news|btc|btcusd|crypto|crypto market|crypto news|cryptocurrency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
