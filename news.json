@@ -1,28 +1,5 @@
 [
   {
-    "id": 56437462,
-    "published": 1766818476000,
-    "title": "JPMorgan freezes accounts of two stablecoin startups over sanctions concerns: Report",
-    "body": "JPMorgan has reportedly frozen accounts linked to Y Combinator–backed stablecoin startups BlindPay and Kontigo after flagging exposure to sanctioned jurisdictions.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
     "id": 56450126,
     "published": 1766838654000,
     "title": "Bitcoin To Retest $85,000 As Bearish Technicals And On-Chain Weakness Align",
@@ -523,6 +500,129 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56483564,
+    "published": 1766905091000,
+    "title": "Uniswap executes 100M UNI burn after governance approval",
+    "body": "Uniswap has removed 100 million UNI from circulation after its fee-burning proposal passed with near-unanimous support.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56485551,
+    "published": 1766898001000,
+    "title": "Bitcoin Sees Unusual Short-Term Supply Spike, Raising Bearish Flags",
+    "body": "Since the short squeeze in mid-December, Bitcoin has yet to make any significant price gain, facing multiple rejections at the $90,000 price zone. The maiden cryptocurrency is presently consolidating within the $87,000, while investors patiently anticipate a clear market direction. According to pseudonymous analyst Sunny Mom, recent on-chain analysis suggests that bearish sentiment will remain dominant in the coming months following the initial extended correction in October and November. Related Reading: Bitcoin 4-Year Cycle Is Dead: Crypto Trader Explains What Happens Next Why Rising Short-Term Bitcoin Supply Is Flashing A Rare Bearish Signal In a QuickTake post on December 27, Sunny Mom draws attention to the BTC HODL waves, which show the rising share of short-term holders coinciding with falling prices, flipping a metric that typically supports bullish narratives. Historically, an increase in short-term holder (STH) supply, coins held for less than 155 days, suggests fresh capital is entering the market ahead of sustained rallies. However, the analyst described the current move as “passive bag-holding” rather than signaling “new blood.” This is because investors who bought during the $120,000 rally in October, driven by FOMO, alongside dip buyers in November, now sit on unrealized losses, thereby creating a price setup that alters market behavior. Sunny Mom explains that each relief rally is met with selling pressure as these holders attempt to exit at breakeven, effectively turning the expanding STH cohort into a ceiling rather than a floor. Therefore, price rebounds struggle to gain traction. The renowned analyst explains that the market is witnessing an emotional toll that is growing visibly on-chain. Notably, there have been repeated spikes in Net Realized Loss (NRL) since October liquidations, suggesting that capitulation is underway, with investors locking in losses after months of endurance. Sunny Mom describes the process as a “dull knife” finally cutting deep, an indication that weaker hands are being forced out, not through a single crash, but through prolonged exhaustion. Related Reading: Bitcoin Short-Term Holders Face Prolonged Pain As Key Metric Stays Red Bitcoin In Demand Vacuum As Likely Fall Below $80,000 Remains Active In further analysis, Mom attributes the current bearish setup to a demand vacuum. The market expert explains that exchange reserves are sitting near multi-year lows, signaling limited immediate sell-side liquidity. At the same time, long-term holders (LTHs) show little interest in distributing coins, reinforcing the view that conviction capital remains intact. Therefore, the problem lies on the demand side. With macro uncertainty still elevated, new buyers appear hesitant to step in, creating a demand vacuum. This also creates thin order books, meaning even modest sell pressure can push prices sharply lower. While some market watchers target a potential recovery in Q1 2026, citing expectations of rate cuts and improved global liquidity. Mom predicts Bitcoin may need a “final shakeout” to resolve the imbalance and reset the market for a bullish breakout. The analyst points to a potential move below $80,000 as a liquidity hunt that could flush remaining weak hands and allow larger holders to reaccumulate. Featured image from Pngtree, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Bearish Signal|bitcoin|btcusd|BTCUSDT|Demand Vacuum|QuickTake post|resistance|Short-term Bitcoin supply|Sunny Mom",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56486760,
+    "published": 1766912406000,
+    "title": "Here’s When Bitcoin Super Cycle Will Kick In  — Analyst",
+    "body": "Popular market analyst KillaXBT has shared a bold prediction of a Bitcoin super cycle. After multiple failed “super cycle” calls by other market enthusiasts, the anonymous market expert argues that Bitcoin’s defining breakout has yet to begin, highlighting a key market condition. Related Reading: Bitcoin Short-Term Holders Face Prolonged Pain As Key Metric Stays Red Metal Market Downtrend, Bitcoin Supertrend According to KillaXBT in an X post on December 27, the real super cycle will only emerge when capital decisively rotates away from precious metals and into Bitcoin, marking a generational shift rather than a typical crypto rally. Unlike past “premature” super-cycle narratives, driven more by optimism, the analyst references a budding price structure similarity that indicates a massive Bitcoin price rally ahead. Notably, interest in precious metals is soaring after gold and silver recently reached new ATH prices of $4,500 and $77, respectively. Similar to most analysts, KillaXBT anticipates these precious metals will eventually slip into a multi-year downtrend that will force investors to explore other havens against inflation. In particular, the analyst expects older generations to remain anchored in gold, while a new cohort of capital increasingly chooses Bitcoin as its preferred store of value. As metals underperform, a scarce Bitcoin is tipped to record an unprecedented demand. The analyst draws a historical parallel between gold in early 1972 and Bitcoin’s current position heading into 2027. In this period, Gold entered a powerful multi-year run as capital sought protection from inflation and currency debasement. KillaXBT argues Bitcoin is approaching a similar inflection point and is set to outperform every major asset class in the next cycle. Interestingly, gold, long considered the ultimate store of value, is currently valued at an estimated $31.7 trillion in market cap value. Bitcoin, by contrast, sits near $1.83 trillion. KillaXBT explains that even at a Bitcoin price of $200,000, the network’s market cap would rise to roughly $5 trillion, still about six times smaller than gold, highlighting how early Bitcoin remains in the global asset hierarchy. Related Reading: Ethereum Investors Slide Deeper Into Losses – What The Drop Below $3,000 Means This Is The Last Sub $100,000 Bear Market – Analyst In concluding notes, KillaXBT states that skepticism has accompanied every major Bitcoin rally, consistently peaking just before large upside moves. In past cycles, critics pointed to regulation, environmental concerns, and volatility risks. Today, the fear narrative has shifted to emerging technologies such as artificial intelligence and quantum computing. The analyst suggests that these concerns may once again pressure investors out of the market prematurely. However, KillaXBT is taking a bullish stance as they believe the current phase could represent the final prolonged bear market in which Bitcoin trades below $100,000. However, they warn that investors should expect the supercycle boom in 2027, as 2026 is likely to be a bearish period. Featured image from Shutterstock, chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Bitcoin Supercycle|btcusd|BTCUSDT|capital rotation|gold|KillaXBT|multi-year downtrend|silver",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
