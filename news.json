@@ -1,93 +1,5 @@
 [
   {
-    "id": 56491210,
-    "published": 1766920556000,
-    "title": "Bitcoin risks first post-halving year red candle with price stuck at $88K",
-    "body": "Bitcoin analysis said that while a retest of $93,500 could still occur by the yearly close, a red 2025 candle would threaten the four-year cycle theory.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56492069,
-    "published": 1766922088000,
-    "title": "BTC, ETH, SOL, XRP and DOGE trade higher as precious metals rally keeps macro focus",
-    "body": "Altcoins posted broader gains in quiet Sunday trading as bitcoin held a tight range near $88K and analysts weighed crypto against the surge in precious metals.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Crypto News|Altcoins|precious metals|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56497221,
     "published": 1766930463000,
     "title": "The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party",
@@ -616,6 +528,204 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 56538413,
+    "published": 1767000476000,
+    "title": "Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on 2026",
+    "body": "Trend Research founder Jack Yi pledged to continue buying Ether, citing a conviction for more financial and regulatory tailwinds driving crypto valuations in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56540902,
+    "published": 1767004525000,
+    "title": "Bitcoin reverses early gains, drops below $88,000 as Nasdaq futures wilt",
+    "body": "Bitcoin reversed Asian session gains, dropping below $88,000 and affecting major altcoins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56541908,
+    "published": 1767005980000,
+    "title": "South Korean financial group Mirae Asset eyes crypto exchange Korbit acquisition: report",
+    "body": "The financial group is in talks to acquire a 92% stake in Korbit for a as much as 140 billion won ($97 million).",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|South Korea|Seoul|Korbit|Acquisitions|mergers and acquisitions|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56542756,
+    "published": 1767007374000,
+    "title": "Real-world assets top DEXs to become 5th-largest category in DeFi by TVL",
+    "body": "RWA protocols have overtaken decentralized exchanges by total value locked, as tokenized Treasurys, private credit, and commodities become core onchain building blocks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56543874,
+    "published": 1767009300000,
+    "title": "Crypto ETPs shed $446M over Christmas as year-end sentiment remains fragile",
+    "body": "Weekly fund flows point to lingering caution, with investors favoring newer products and select regions over broad market exposure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 56543704,
+    "published": 1767009114000,
+    "title": "Sberbank issues Russia's first crypto-backed loan to bitcoin miner Intelion Data",
+    "body": "Sberbank used its in-house crypto custody tool to back a loan for mining firm Intelion Data, signaling broader interest in crypto lending.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Sberbank|Bitcoin News|Bitcoin Mining|Crypto|Loans|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
