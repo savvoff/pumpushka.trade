@@ -1260,5 +1260,262 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 56557152,
+    "published": 1767032802000,
+    "title": "BlackRock's BUIDL hits $100M in payouts, showing tokenized finance at scale",
+    "body": "BlackRock’s tokenized money market fund has distributed $100 million from Treasury yields, offering a real-world test of blockchain-based financial infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 56558200,
+    "published": 1767034847000,
+    "title": "XRP Exchange Inflows Spike To End 2025: Will Price Decline Deepen?",
+    "body": "On-chain data shows XRP has seen a significant value on the Binance Exchange Inflow during the last couple of weeks, a sign that may be bearish for the asset’s price. XRP Binance Exchange Inflow Has Shot Up To End 2025 As pointed out by Darkfrost in a CryptoQuant Quicktake post, the Exchange Inflow has been elevated for XRP recently. The “Exchange Inflow” is an indicator that measures the total amount of the asset that investors are depositing into wallets connected with a given centralized exchange. Related Reading: XRP Triangle Hints At Potential 10% Move—But In Which Direction? When the value of the metric is high, it means traders are moving large amounts from self-custodial wallets to the exchange. As one of the main reasons why holders deposit to these platforms is for selling-related purposes, this kind of trend can have bearish implications for the token’s price. On the other hand, the indicator being low suggests that demand for transferring coins to the exchange is low among the investors. Depending on whether withdrawals are also occurring, such a trend may be neutral or bullish for the cryptocurrency. Now, here is a chart that shows the trend in the XRP Exchange Inflow for the Binance platform over the last few months: As displayed in the above graph, the XRP Binance Exchange Inflow was at relatively muted levels between October and the first half of December, suggesting exchanges weren’t receiving that many deposit transactions. This trend flipped starting December 15th, however, as the indicator witnessed a surge. Its value has since maintained above 35 million tokens, with a particularly sharp peak of 116 million coins coming on the 19th. The analyst has noted that the shift in investor behavior points to “a move toward profit taking for older positions, as well as capitulation and loss selling from more recent entrants.” The surge in the Exchange Inflow has arrived as the XRP price has plunged under the $2.0 level. The fact that these deposits have been sustained could be a reason why the coin has been unable to make much recovery. Related Reading: Bitcoin Supply Overhang: 6.6 Million BTC Bought Above Current Price “If this selling pressure continues, the current correction could not only extend in time but also deepen further,” noted Darkfrost. It now remains to be seen how the Exchange Inflow will develop as 2026 arrives. The Exchange Inflow provides just one way to gauge selling pressure in the market. Another method is through tracking the supply attached to the whales. As analyst Ali Martinez has highlighted using data from on-chain analytics firm Santiment in an X post, the big-money XRP investors have seen their supply go down recently. From the chart, it’s visible that XRP whales have shed 40 million tokens recently, showcasing that large investors have been in a phase of net distribution. XRP Price At the time of writing, XRP is trading around $1.87, down almost 3% in the last week. Featured image from Dall-E, CryptoQuant.com, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|XRP Exchange Inflows|XRP Price|XRP Selling|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56558326,
+    "published": 1767035025000,
+    "title": "Flow scraps blockchain 'rollback' plan after community backlash over decentralization",
+    "body": "The layer-1 network reversed course after ecosystem partners warned that rewriting chain history would undermine decentralization and create operational risks following a $3.9 million exploit.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Tech|Blockchain Technology|Decentralization|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 56559292,
+    "published": 1767036776000,
+    "title": "South Korean lawmaker faces scrutiny over family ties to crypto exchange: Report",
+    "body": "A key lawmaker overseeing financial institutions reportedly tried to secure a job for one of his sons at a crypto exchange while raising concerns about a competitor.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56560070,
+    "published": 1767038411000,
+    "title": "Crypto Heat Fizzling Out? US Search Interest Plunges As Retail Shy Away",
+    "body": "Search interest for the word “crypto” has fallen to levels not seen in a year, signaling a sharp drop in retail curiosity as 2025 ends. According to recent Google Trends readings, worldwide interest stood at 26 on the 0–100 scale, just above this year’s low of 24. Related Reading: Bitcoin Forecasts For 2026 Range From $65K To $250K As Sentiment Hits ‘Extreme Fear’ Searches Slide As Prices And Headlines Stumble Based on reports, US search activity for “crypto” hit a one-year low of 26, underscoring that casual investors are not hunting for basic information the way they did in earlier cycles. The dip follows a turbulent year that included a severe market sell-off in April and a sharp October flash crash that knocked major coins down from recent highs. Market watchers point to several triggers. Memecoin collapses tied to high-profile figures shook confidence. Policy shocks tied to US President Donald Trump’s tariff moves also coincided with big drops in interest during the spring. Some commentators say retail users moved on after heavy losses and viral token drama. There is close to no retail interest in crypto right now Do we need to start pumping the dino coins again to get retail to come back? After the Trump/Melania memecoin drama it seems that retail lost a lot of faith in the space None of my normie friends or family ask me… pic.twitter.com/ZNnOwT4FKe — 0xMarioNawfal (@RoundtableSpace) December 27, 2025 Retail Pullback Could Mean Quieter Weeks Ahead The practical effect is a quieter retail base. Trading volumes from small accounts have thinned. That does not mean prices must fall; it can mean fewer headline-grabbing rallies driven by newcomers. Institutions, which do not typically show up in Google searches, still play a big role in market flow. Year-end coverage highlights that institutional activity and regulatory moves shaped much of 2025’s action. Analysts Offer Different Takes On What Comes Next Some analysts warn that low retail interest removes a source of quick upside, making long rallies harder to sustain without strong macro catalysts. Others argue this lull is a pause, and that interest can return if prices break out or a major positive regulatory decision lands. Mario Nawfal and other commentators have described the current environment as a near-total absence of retail buzz. Data Points And What They Show The Google Trends scale gives a quick read. A 26 reading is low compared with earlier peaks during boom months. Reports from several industry outlets show the same pattern across regions, with the US particularly muted. Industry trackers note that big headline events still move markets, but everyday search traffic — the kind that often signals mass retail involvement — is down. Related Reading: Bitcoin Rules The Decade: Outshines Gold And Silver, Analyst Says A fall in Google searches is a sentiment indicator, not a trading rule. It shows fewer people are asking basic questions like how to buy or where to trade. That can cut both upside and downside volatility driven by inexperienced traders. Crypto is likely to remain under the radar until new catalysts appear, like significant price changes, regulatory updates, or a compelling story that captures mainstream interest again. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|bitcoin|crypto|digital currency|google trends",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56561196,
+    "published": 1767040140000,
+    "title": "Crypto Firm Tied to Trumps Axes Auditor in Latest Sign of Strife",
+    "body": "A small financial-technology company tied to a Trump family crypto project has fired its auditor, the latest sign of turmoil at the Las Vegas-based firm.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56561823,
+    "published": 1767042039000,
+    "title": "Here’s Why The ZCash (ZEC) Price Rallied Above $500 Again",
+    "body": "The Zcash (ZEC) price has rallied above the psychological $500 level, providing a bullish outlook for the privacy-focused token. This comes amid a notable surge in whale accumulation and derivatives activity among crypto traders. Why Zcash (ZEC) Price Rallied Above $500 Despite Crypto Market Decline CoinMarketCap data show that the Zcash (ZEC) price has rallied above $500 again, up over 20% in the last week. This comes despite the crypto market downtrend, with Bitcoin trading in a tight range just below the psychological $90,000 level. The ZEC surge above $500 comes amid a significant increase in whale accumulation, which has contributed to this price surge. Related Reading: Zcash Explodes 700% Since September – What’s Driving The Rally Amid The Bear Market? Nansen data show a 47% increase in ZEC whale holdings, with the top 100 addresses now holding 66% of the token’s total supply. This has likely created a supply shock, sparking a rise in the Zcash (ZEC) price. Notably, there has been a 55.36% drop in the supply held by exchanges, further highlighting the accumulation trend, with investors likely moving their coins off-exchanges for long-term holding. On-chain analytics platform Lookonchain also highlighted the accumulation trend among these whales. In an X post, Lookchain revealed two newly created wallets that withdrew 26,241 ZEC ($13.5 million) from Binance. In another post, the on-chain analytics platform revealed that another whale withdrew 7,714 ZEC ($4.12 million) from Kraken. Lookonchain had also drawn attention to a whale that withdrew 30,000 ZEC ($13.25 million) from Binance last week. Activity in the derivatives market has also contributed to the Zcash (ZEC) price rally above $500. CoinGlass data show an increase in the altcoin’s open interest, indicating that traders are increasing their positions. Most of these traders are currently long with the long/short ratio above 1. This recovery marks a positive for the privacy token, which had dropped to as low as $310 earlier this month. ZEC is notably the best-performing crypto among the top tokens with a year-to-date (YTD) gain of around 800%. ‘Next Stop Is $1,000’ BitMEX co-founder Arthur Hayes declared in an X post that the next stop for the Zcash (ZEC) price is $1,000 following its recovery above $500. This represents a potential 100% gain from its current price level. The BitMEX co-founder has been bullish on the privacy token for some time now, predicting it could eventually reach $10,000. Related Reading: The Bitcoin Bull And Bear Cases That Crypto Traders Should Know About Meanwhile, Zcash’s co-founder Eli Ben-Sasson suggested that the Zcash (ZEC) price will continue to rally because of its good product, scarcity, and regulatory atmosphere. He noted that privacy is now widely recognized as necessary in crypto. As such, the privacy narrative is expected to keep fueling this price surge. At the time of writing, the Zcash (ZEC) price is trading at around $536, up over 3% in the last 24 hours, according to data from CoinMarketCap. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ZEC|Arthur Hayes|Binance|BitMEX|Coinglass|CoinMarketCap|Eli Ben-Sasson|Lookonchain|Nansen|Year-To-Date|YTD|ZCash|Zcash Price|ZEC Price|zecusd|ZECUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
