@@ -1,81 +1,5 @@
 [
   {
-    "id": 56516412,
-    "published": 1766967391000,
-    "title": "Most crypto treasuries ‘will disappear’ amid bleak 2026 outlook: Execs",
-    "body": "Many crypto and Bitcoin treasury companies may go under in 2026 as the model comes under pressure, industry executives tell Cointelegraph.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56516890,
-    "published": 1766968417000,
-    "title": "Flow validators urged to halt work after divisive blockchain rollback",
-    "body": "The Flow Foundation has been slammed for rolling the layer 1 Flow chain back to patch up a $3.9 million exploit, with one partner advising validators to stop processing transactions until further notice.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 56519650,
     "published": 1766973648000,
     "title": "Ubisoft halts Rainbow Six Seige after hackers give each player $13.3M credits",
@@ -1509,6 +1433,246 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56562072,
+    "published": 1767042306000,
+    "title": "Flow scraps rollback plan after pushback over decentralization, security",
+    "body": "Although recovery of assets affected in a $3.9 million exploit of the Flow blockchain isn't guaranteed, many users responded positively to a change in the remediation plan.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 125,
+        "NAME": "FLOW",
+        "CATEGORY": "FLOW"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 56562380,
+    "published": 1767043159000,
+    "title": "As Democrats gain in odds to take U.S. House, Waters bashes SEC chair on crypto",
+    "body": "Maxine Waters, the top Democrat who may lead the House Financial Services Committee again if Democrats prevail, has a crypto bone to pick with SEC's Atkins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|U.S. House Committee on Financial Services|Maxine Waters|Paul Atkins|U.S. Securities and Exchange Commission|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56562966,
+    "published": 1767044189000,
+    "title": "Onchain perpetual futures drive surge in crypto derivatives activity",
+    "body": "According to Coinbase researcher David Duong, decentralized platforms and shifting trader behavior have pushed perpetual futures into a more central market role.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56563466,
+    "published": 1767045604000,
+    "title": "Dogecoin Chart Mirrors Silver’s Breakout, Analyst Flags $9+ Scenario",
+    "body": "Silver has staged a historic, late-December breakout, surging from roughly $50 an ounce in mid-November to an intraday all-time high above $83, before easing slightly as traders took profits. Will Dogecoin follow its lead? At press time, spot silver was holding near $76 after pulling back from the earlier record high of $83.62, with the metal up roughly 181% year-to-date in 2025, an outsized move for the precious-metal. The rally is attributed to a mix of macro and market-structure drivers including expectations for easier US monetary policy in 2026, strong industrial and investment demand, persistent supply shortfalls, and silver’s recent designation as a US “critical mineral,” which added a policy-sensitive supply narrative to an already tight market. The ‘Silver Fractal’ Pitch For Dogecoin That silver move is now being used as a visual analog in crypto. X analyst Cantonese Cat (@cantonmeow) posted a side-by-side TradingView comparison suggesting Dogecoin’s 6-month chart resembles silver’s 3-day structure from three weeks ago, implying DOGE could be positioned for a similarly persistent advance if the fractal holds. In the shared DOGE 6-month panel, Cantonese Cat shows a large selloff candle and frames it as a potential cyclical low. Based on the silver comparison, the interpretation is not “DOGE pumps next week,” but “DOGE trends for years.” Related Reading: Dogecoin Triangle Formation Breakdown Spells Trouble As 15% Move Nears – Time To Be Cautious? In the proposed fractal path, the current 6-month candle would mark the bottom, followed by eight additional 6-month candles spanning roughly four years where seven are green and only one is red. The lone red candle is mapped as the third in the sequence, implying the first half of 2027 could be a down half-year even within an overarching uptrend. If the pattern were to track silver “exactly,” the projected cycle peak would land in the second half of 2029, with a peak price “above $11” in that window. Related Reading: Dogecoin Is Repeating Its 2020 Accumulation Cycle, Analyst Says How It Fits His Earlier Wave Framework The comparison follows Cantonese Cat’s earlier Dec. 20 post outlining a longer-horizon DOGE roadmap on the weekly chart. “We’ve already had a 13 month bear market for DOGE, with my working hypothesis of this being likely a wave 2 correction prior to wave 3 explosion,” the analyst wrote. The accompanying weekly DOGE chart labels the prior advance as “Wave 1” and the subsequent decline as “Wave 2,” with a descending trendline drawn across the multi-year structure. The Dec. 20 weekly snapshot shows DOGE around $0.13160 with retracement levels including 0.382 at about $0.11771, and 0.236 at about $0.08427, with the base (“0”) around $0.04909. Above the current price, the analysis maps 0.5 at about $0.15422 as the next resistance, followed by 0.618 at about $0.20205, 0.707 at about $0.24770, 0.786 at about $0.29681, and 0.886 at about $0.37315, before the 1.0 level near $0.48442. Above the prior high, the same map plots extension targets often used in Elliott Wave projection frameworks, labeled near 1.272 ($0.90288), 1.414 ($1.24968), 1.618 ($1.99344), 2 ($4.77927), and 2.272 ($8.90771). The implication is conditional: the extensions matter only if DOGE completes the corrective phase and reclaims the prior impulse high. At press time, DOGE traded at $ Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56565146,
+    "published": 1767049253000,
+    "title": "XRP Selling Pressure Returns: Investors Shift From Holding to Distribution",
+    "body": "XRP is trading below critical technical levels after losing the $2 mark, a breakdown that has shifted market sentiment decisively toward fear. Bulls are struggling to find reliable support as price action weakens, and recent attempts at stabilization have failed to attract sustained demand. The loss of this psychological and structural level has left XRP vulnerable, with traders increasingly positioning defensively amid broader uncertainty across the altcoin market. Related Reading: Why $100,000 Is Bitcoin’s Most Important Resistance Level According to analysis shared by Darkfost, selling pressure on XRP has intensified materially over recent weeks. The data shows that the current move is not a minor pullback, but part of a deeper corrective phase. XRP has declined by roughly 50% from its cycle peak near $3.66, falling toward the $1.85 region. This magnitude of decline reflects a clear shift in market behavior, as earlier optimism has given way to risk reduction and capital preservation. Darkfost’s assessment suggests that the increase in selling is driven by a combination of profit-taking from older positions and capitulation from more recent buyers who entered at higher levels. As the price moves further away from prior highs, confidence has deteriorated, reinforcing the downside momentum. Exchange Inflows Highlight Rising Sell-Side Pressure Darkfost further explains that the recent surge in selling pressure becomes especially clear when examining XRP inflows to exchanges, with Binance standing out as the primary focal point. As the exchange that concentrates the largest share of XRP trading volume, Binance often serves as an early indicator of shifting market intent. Rising inflows to exchanges are commonly interpreted as a signal that holders are preparing to sell, particularly when the increase is sudden and sustained. After several weeks of relatively calm conditions, characterized by stable and moderate inflows, this pattern changed sharply around December 15. Since then, XRP transfers to Binance have accelerated, with daily inflows consistently ranging between 35 million XRP and a pronounced spike of roughly 116 million XRP recorded on December 19. This marks a clear break from the prior holding-oriented behavior observed through much of October and November. The shift in inflow dynamics suggests a change in investor psychology. Longer-term holders appear to be taking profits after XRP’s strong run earlier in the cycle, while more recent entrants are increasingly capitulating and selling at a loss as the price continues to slide. This combination amplifies downside pressure and reinforces the current corrective trend. As long as elevated exchange inflows persist, conditions for accumulation remain unfavorable. Without a meaningful slowdown in deposits, XRP is likely to struggle to form a durable base, increasing the risk that the correction extends further in both time and depth. Related Reading: Trust Wallet Exploit Drains $7M: Hundreds Of Users Affected XRP Price Action Details: Testing Demand XRP continues to trade under clear technical pressure, with price hovering near the $1.87–$1.90 zone after a prolonged downtrend on the daily chart. The structure shows a decisive loss of bullish control following the rejection from the $3.00–$3.50 region earlier in the year. Since that peak, XRP has consistently printed lower highs and lower lows, confirming a bearish market structure that remains intact. From a trend perspective, the price is trading below all major moving averages. The short-term moving average has turned sharply lower and now acts as immediate dynamic resistance, while the medium- and long-term averages are also sloping downward, reinforcing the broader bearish bias. Each recent attempt at a relief bounce has failed below these averages, suggesting that sellers continue to dominate rallies. Related Reading: Bitcoin and Ethereum Coinbase Inflows Collapse While Binance Retains Relative Activity – Details The $1.80–$1.85 region is now a critical support area. This zone has absorbed several tests in recent weeks, indicating short-term demand, but the lack of a strong rebound highlights weak buying conviction. A clean break below this level would expose XRP to a deeper retracement toward the $1.50 region, where historical demand previously emerged. Unless XRP can reclaim the $2.10–$2.20 range and hold above it, the path of least resistance remains to the downside, with risks skewed toward further consolidation or continuation of the correction. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|XRP analysis|XRP holders|xrp news|XRP Price|XRP Selling|XRP selling pressure|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56566836,
+    "published": 1767052801000,
+    "title": "US Strategic Bitcoin Reserve: Key Catalyst For Potential Surge Toward $150,000 Next Year",
+    "body": "As Bitcoin (BTC) maintains a consolidated trading range between $86,000 and $90,000 after experiencing a 30% correction from its all-time high in October, market expectations for the cryptocurrency’s future remain optimistic. Market analyst Dominic Basulto from The Motley Fool believes that despite the persistent challenges seen in the fourth quarter of the year, Bitcoin could soar to $150,000 by 2026, fueled by the newly established US Strategic Bitcoin Reserve. Is $150,000 Possible For Bitcoin? Historical context supports Basulto’s prediction; Bitcoin’s performance over the years has shown significant recovery potential, with 2015 marking its worst bull market year at just a 36% gain. Significantly, in seven of its years, Bitcoin has achieved triple-digit percentage returns. The analyst suggests that 2026 may resemble 2019, a year when Bitcoin appreciated by 95% following the dismal performance in 2018, when it plummeted by 74%. Related Reading: XRP Supply Shock Incoming? Expert Reveals The Truth In 2019, several catalysts, such as heightened global economic uncertainty and a surge in institutional interest, propelled Bitcoin upwards—situations that appear similar to current conditions. Institutional investors are increasingly adding BTC to their portfolios, driven by spot Bitcoin exchange-traded funds (ETFs). Meanwhile, concerns over global tariffs and macroeconomic instability in the US continue to resonate among investors, setting the stage for potential bullish movement. However, Basulto emphasizes that Bitcoin can only reach the $150,000 milestone if it is perceived as a long-term store of value. If investors view it merely as another high-risk asset, they may choose to favor physical gold over digital gold, which has seen a record-breaking year. The crux of his argument centers on one pivotal factor that could significantly impact Bitcoin’s price: a notable increase in purchases by the US Strategic Bitcoin Reserve. What Happens If Nations Stockpile BTC? Basulto claims that if the US government were to start buying substantial quantities of Bitcoin, it could trigger a global arms race among other countries keen to create their own strategic BTC reserves. According to the analyst, such purchases from national reserves could dramatically inflate Bitcoin’s price, likely surpassing the impact of corporate treasury companies that have already amassed close to 5% of the world’s circulating BTC supply. Related Reading: Investment Firm CEO Drops Utility Bomb On XRP, Is Community Hype A Detriment? Although reaching the $150,000 mark may seem ambitious given Bitcoin’s recent performance, more aggressive predictions exist for 2026. For instance, JPMorgan Chase has forecasted a potential price of $170,000, while Wall Street strategist Tom Lee from Fundstrat has suggested that BTC might even hit $250,000 next year. While a variety of factors must align for BTC to reclaim its status as digital gold, the possibility of elevated prices hinges on strategic actions by both the US government and institutional investors. Basulto concluded that if the leading cryptocurrency can consolidate its position and the Strategic Bitcoin Reserve gains traction, the predicted price of $150,000 could be achieved by next year. At the time of writing, BTC’s price retraced towards $87,330 following an early Monday move above $90,500. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|US Bitcoin reserve|US Strategic Bitcoin Reserve",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
