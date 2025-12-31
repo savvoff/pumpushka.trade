@@ -234,123 +234,6 @@
     ]
   },
   {
-    "id": 56585476,
-    "published": 1767082731000,
-    "title": "Institutions are increasingly using the bitcoin options playbook for altcoins: STS Digital",
-    "body": "Institutions are increasingly using bitcoin options strategies on altcoins to manage price volatility and enhance returns, STS Digital told CoinDesk.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Bitcoin Options|Altcoins|Options|Derivatives|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56584732,
-    "published": 1767081608000,
-    "title": "Store of value demand, regulatory clarity to drive 2026 bull market: Grayscale",
-    "body": "Grayscale said macro pressure and clearer US regulations are setting the stage for crypto’s next bull market in 2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56583979,
-    "published": 1767080597000,
-    "title": "Lighter DEX launches LIT token with 25% airdrop",
-    "body": "The LIT token supply is split evenly between the ecosystem and team/investors, with a portion airdropped to early participants.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|DeFi|airdrop|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 204,
-        "NAME": "AIRDROP",
-        "CATEGORY": "AIRDROP"
-      }
-    ]
-  },
-  {
     "id": 56595225,
     "published": 1767097859000,
     "title": "XRP Still Has A Path To $28 This Cycle, Analyst Says",
@@ -1611,6 +1494,182 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56632309,
+    "published": 1767164122000,
+    "title": "South Korean retail keeps buying ether hoarder BitMine despite 80% drop:  Report",
+    "body": "The company's pivot to building an ether treasury sparked a 3,000% rally, attracting attention from high-risk investors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 56633419,
+    "published": 1767166877000,
+    "title": "Coinbase exec warns Senate stablecoin misstep could hand China a global edge",
+    "body": "A Coinbase executive says changes to the GENIUS Act could weaken US dollar stablecoins as China moves to boost the digital yuan by allowing interest-bearing wallets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56635202,
+    "published": 1767169838000,
+    "title": "Bitcoin Long-Term Holder Dump Is Over: On-Chain Data Just Flipped",
+    "body": "Bitcoin’s long-term holder cohort appears to have stopped net selling, according to multiple on-chain commentators, in a shift that could remove a key source of structural supply pressure heading into 2026. The change hinges on a supply-change read of long-term holders (coins held longer than six months), which had been negative for months but has now turned modestly positive, said on-chain analyst Darkfost. Is This The Bitcoin Bottom Signal? Darkfost argues that recent claims about long-term holders “selling more than ever” miss what the data is actually showing, especially when large, discrete exchange-related movements skew the picture. “On this chart, which I adjusted to isolate the movement of nearly 800,000 BTC from Coinbase that was distorting LTH data, we can observe a clear shift in supply change,” Darkfost wrote. “Since July 16, the monthly LTH supply change (30 day sum) had been firmly anchored in a distribution phase until recently.” Related Reading: 2026 Bitcoin Price Predictions: What Banks, Institutions And Experts Forecast In plain terms, that meant the share of supply held by long-term holders had been declining for much of the second half of 2025, a regime that tends to coincide with persistent sell pressure as older coins rotate into the market. That phase, Darkfost said, has now ended, at least for the moment. “We have now moved back into positive territory, with around 10,700 BTC transitioning into long term held coins,” Darkfost wrote, calling it “a very modest change,” but “not insignificant.” The implication is that long-term holders have eased off distribution enough for their aggregate holdings to start rising again, even as short-term holders “continue to hold their BTC,” in Darkfost’s framing. CryptoQuant CEO Ki Young Ju echoed the directional takeaway in a shorter post, saying, “Bitcoin long-term holders stopped selling.” Related Reading: Bitcoin Risks A Year-Long Bear Market If This Happens: On-Chain Data VanEck’s head of digital research Matthew Sigel characterized the turn as a meaningful shift in positioning pressure via X. “BTC: Long-term holders turn net accumulators, easing a major Bitcoin headwind and ending, for now, the largest sell pressure event from this cohort since 2019,” Sigel wrote. Renowned expert James Van Straten added historical context to the scale of the move, saying the magnitude of distribution “marked the 2019 bottom as well,” suggesting the current inflection is notable even if it doesn’t, by itself, guarantee a repeat. Darkfost also pointed to historical patterning around these flips. “Historically, such shifts have often preceded the formation of consolidation phases or even bullish recoveries, depending on how the broader trend evolves,” he wrote, emphasizing conditions rather than certainty. At press time, BTC traded at $88,623. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56635987,
+    "published": 1767170923000,
+    "title": "Bitwise files for 11 single‑token ‘strategy’ crypto ETFs with US SEC",
+    "body": "Bitwise is seeking SEC approval for 11 single‑token “strategy” ETFs tied to major altcoins, expanding its product shelf deeper into the altcoin market.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
