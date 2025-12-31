@@ -597,82 +597,6 @@
     ]
   },
   {
-    "id": 56572360,
-    "published": 1767063305000,
-    "title": "Bitcoin Price Erases Recent Gains, Raising Fresh Downside Risks",
-    "body": "Bitcoin price failed to clear $90,000 and trimmed all gains. BTC is now consolidating losses and might struggle to stay above $86,500. Bitcoin started a recovery wave but failed to surpass $90,000. The price is trading below $88,000 and the 100 hourly Simple moving average. There is a declining channel forming with resistance at $87,500 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might continue to move down if it trades below the $86,500 zone. Bitcoin Price Dips Sharply Bitcoin price attempted a fresh increase above $88,500 and started a recovery wave. BTC even climbed above the $89,000 barrier but struggled near $90,000. A high was formed at $90,298 before the bears appeared. There was a sharp downside reaction below $89,000. BTC trimmed all gains and even dived below $88,000. A low was formed at $86,700, and the price is now consolidating losses below the 23.6% Fib retracement level of the downward move from the $90,298 swing high to the $86,700 low. Bitcoin is now trading below $88,000 and the 100 hourly Simple moving average . If the price remains stable above $86,500, it could attempt a fresh recovery wave. Immediate resistance is near the $87,500 level. Besides, there is a declining channel forming with resistance at $87,500 on the hourly chart of the BTC/USD pair. The first key resistance is near the $88,000 level. The next resistance could be $88,500 and the 50% Fib retracement level of the downward move from the $90,298 swing high to the $86,700 low. A close above the $88,500 resistance might send the price further higher. In the stated case, the price could rise and test the $89,200 resistance. Any more gains might send the price toward the $90,000 level. The next barrier for the bulls could be $90,500 and $91,200. Another Decline In BTC? If Bitcoin fails to rise above the $88,500 resistance zone, it could start another decline. Immediate support is near the $86,500 level. The first major support is near the $86,000 level. The next support is now near the $85,500 zone. Any more losses might send the price toward the $85,000 support in the near term. The main support sits at $83,500, below which BTC might accelerate lower in the near term. Technical indicators: Hourly MACD – The MACD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $87,500, followed by $88,000. Major Resistance Levels – $86,500 and $86,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56570205,
-    "published": 1767059191000,
-    "title": "ZachXBT links fake Coinbase support scam to $2M in losses",
-    "body": "An Investigation from ZachXBT traced the suspect through posts gloating on social media and Telegram activity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56595225,
     "published": 1767097859000,
     "title": "XRP Still Has A Path To $28 This Cycle, Analyst Says",
@@ -1652,6 +1576,41 @@
         "ID": 74,
         "NAME": "BNB",
         "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56622158,
+    "published": 1767144780000,
+    "title": "Ringing In Crypto’s ‘Watershed’ Tax Year: A Tricky 2026 Filing Season",
+    "body": "According to digital asset tax experts, the 2026 filing season will be messy and a minefield for most crypto investors. Getting tax professional help in 2026 is critical",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
