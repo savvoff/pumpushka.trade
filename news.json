@@ -1,245 +1,5 @@
 [
   {
-    "id": 56601642,
-    "published": 1767107526000,
-    "title": "XRP supply on exchanges hits 8-year lows: Will it spark a 2026 price rally?",
-    "body": "XRP exchange supply hits 8-year lows, tightening the available supply for sale and setting the stage for a potential 2026 supply-shock rally.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56605642,
-    "published": 1767114025000,
-    "title": "Crypto Policy In The Hot Seat As US Lawmaker Calls SEC Hearing",
-    "body": "US Representative Maxine Waters has formally asked House Financial Services Committee Chair French Hill to schedule an oversight hearing with Securities and Exchange Commission (SEC) Chairman Paul Atkins, saying the agency must explain recent choices that, she argues, weaken enforcement of securities laws. Related Reading: Bitcoin Rules The Decade: Outshines Gold And Silver, Analyst Says Waters Seeks Answers On Dropped SEC Cases According to Waters’ letter, the SEC has terminated or stayed a number of high-profile crypto enforcement actions that had been moving through the agency’s process, and committee Democrats want an explanation for those decisions. Reports have disclosed that the letter names actions involving Coinbase, Binance, Justin Sun, Kraken, and Ripple among those of concern. The request lists nine areas where the SEC’s recent conduct raises questions for lawmakers, including whether enforcement choices were driven by legal judgment or by outside pressures. Waters, who is the ranking Democrat on the Financial Services Committee, told Chairman Hill that the public deserves clarity about changes to enforcement strategy and about how investor protections will be preserved. Concerns About Politicization And Investor Protections Based on reports, Waters expressed particular alarm that the agency’s handling of cases since US President Donald Trump took office looks different from prior enforcement patterns, and she argues that some moves could amount to an erosion of investor protections. Industry observers and several media outlets have picked up the story, noting the broader context: a year of big shifts in crypto policy and new legislation that has altered the regulatory picture. 🚨 MAXINE WATERS CALLS FOR HEARING ON SEC CHAIR ATKINS’ CRYPTO DECISIONS — The Wolf Of All Streets (@scottmelker) December 30, 2025 Some outlets say the timing of Waters’ letter—sent late in December—reflects rising pressure from Democrats as they prepare for oversight if they regain more committee influence. What Waters Wants From The SEC In her request, Waters seeks direct answers about why certain cases were dropped or delayed, what internal analyses the SEC relied on, and whether staff reductions or policy shifts affected enforcement. She also asked that Chairman Atkins appear before the committee so members can question him in public. Committee Role And Next Steps Reports indicate the letter was delivered to Chairman Hill on December 29, 2025, and that Waters urged him to set a date for an oversight hearing as soon as possible. Related Reading: Crypto Heat Fizzling Out? US Search Interest Plunges As Retail Shy Away The committee could use a hearing to examine documents and testimony from SEC officials, and to press for a public accounting of how decisions were made about major crypto matters. How quickly that happens will depend on the committee’s calendar and on whether Hill agrees to a formal public session. The issue has drawn attention because it involves both enforcement of existing securities law and the future of crypto oversight in the US. Investors, industry groups, and lawmakers on both sides are watching to see whether the SEC’s recent moves represent a long-term policy shift or isolated choices tied to individual cases. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|bitcoin|crypto|Maxine Waters|sec",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56605314,
-    "published": 1767113492000,
-    "title": "Grayscale files for first U.S. Bittensor ETP as decentralized AI gains momentum",
-    "body": "The filing marks the first attempt to bring TAO, Bittensor’s native token, to U.S. markets through a regulated investment product.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Grayscale|decentralized AI|Crypto ETPs|Exchange-Traded Product|SEC|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 73,
-        "NAME": "BITTENSOR",
-        "CATEGORY": "BITTENSOR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56605221,
-    "published": 1767113034000,
-    "title": "Ethereum quietly sets a record: 8.7M contracts deployed in one quarter",
-    "body": "Onchain development activity on Ethereum has rebounded sharply, driven by tokenized assets, stablecoins and infrastructure, according to Token Terminal.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56606300,
-    "published": 1767114935000,
-    "title": "Grayscale moves toward exchange listing for TAO trust in US",
-    "body": "The proposed TAO investment vehicle, one of the first exchange-traded products that could be available to US markets, is expected to be listed on NYSE Arca following approval.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 73,
-        "NAME": "BITTENSOR",
-        "CATEGORY": "BITTENSOR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56607049,
-    "published": 1767116201000,
-    "title": "South Korea’s long-awaited crypto law stalls over who can issue stablecoins",
-    "body": "The Digital Asset Basic Act is stalled as regulators clash over who should be allowed to issue won-pegged stablecoins, extending uncertainty in one of Asia’s most active crypto markets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|South Korea|Regulation|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56608917,
     "published": 1767119423000,
     "title": "XRP’s Real Use Case Is Laying The Groundwork For Appreciation — Here’s How",
@@ -1699,6 +1459,99 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56649811,
+    "published": 1767194151000,
+    "title": "Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
+    "body": "Several analysts remain bullish on Bitcoin, expecting it to surge to a new all-time high as early as in the first quarter of 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56653185,
+    "published": 1767200021000,
+    "title": "Base’s creator coin push sparks builder backlash over favoritism concerns",
+    "body": "Builders on Base are pushing back against the network’s close alignment with Zora, arguing the creator-coin narrative sidelines established projects.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Base|Creator Economy|meme coin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56653552,
+    "published": 1767200461000,
+    "title": "Crypto billionaires are among biggest losers of 2025: Report",
+    "body": "While Circle CEO Jeremy Allaire increased his net worth by a reported 149%, others like Changpeng Zhao and the Winklevosses saw declines.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
