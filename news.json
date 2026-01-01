@@ -1,181 +1,5 @@
 [
   {
-    "id": 56632309,
-    "published": 1767164122000,
-    "title": "South Korean retail keeps buying ether hoarder BitMine despite 80% drop:  Report",
-    "body": "The company's pivot to building an ether treasury sparked a 3,000% rally, attracting attention from high-risk investors.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 56633419,
-    "published": 1767166877000,
-    "title": "Coinbase exec warns Senate stablecoin misstep could hand China a global edge",
-    "body": "A Coinbase executive says changes to the GENIUS Act could weaken US dollar stablecoins as China moves to boost the digital yuan by allowing interest-bearing wallets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56635202,
-    "published": 1767169838000,
-    "title": "Bitcoin Long-Term Holder Dump Is Over: On-Chain Data Just Flipped",
-    "body": "Bitcoin’s long-term holder cohort appears to have stopped net selling, according to multiple on-chain commentators, in a shift that could remove a key source of structural supply pressure heading into 2026. The change hinges on a supply-change read of long-term holders (coins held longer than six months), which had been negative for months but has now turned modestly positive, said on-chain analyst Darkfost. Is This The Bitcoin Bottom Signal? Darkfost argues that recent claims about long-term holders “selling more than ever” miss what the data is actually showing, especially when large, discrete exchange-related movements skew the picture. “On this chart, which I adjusted to isolate the movement of nearly 800,000 BTC from Coinbase that was distorting LTH data, we can observe a clear shift in supply change,” Darkfost wrote. “Since July 16, the monthly LTH supply change (30 day sum) had been firmly anchored in a distribution phase until recently.” Related Reading: 2026 Bitcoin Price Predictions: What Banks, Institutions And Experts Forecast In plain terms, that meant the share of supply held by long-term holders had been declining for much of the second half of 2025, a regime that tends to coincide with persistent sell pressure as older coins rotate into the market. That phase, Darkfost said, has now ended, at least for the moment. “We have now moved back into positive territory, with around 10,700 BTC transitioning into long term held coins,” Darkfost wrote, calling it “a very modest change,” but “not insignificant.” The implication is that long-term holders have eased off distribution enough for their aggregate holdings to start rising again, even as short-term holders “continue to hold their BTC,” in Darkfost’s framing. CryptoQuant CEO Ki Young Ju echoed the directional takeaway in a shorter post, saying, “Bitcoin long-term holders stopped selling.” Related Reading: Bitcoin Risks A Year-Long Bear Market If This Happens: On-Chain Data VanEck’s head of digital research Matthew Sigel characterized the turn as a meaningful shift in positioning pressure via X. “BTC: Long-term holders turn net accumulators, easing a major Bitcoin headwind and ending, for now, the largest sell pressure event from this cohort since 2019,” Sigel wrote. Renowned expert James Van Straten added historical context to the scale of the move, saying the magnitude of distribution “marked the 2019 bottom as well,” suggesting the current inflection is notable even if it doesn’t, by itself, guarantee a repeat. Darkfost also pointed to historical patterning around these flips. “Historically, such shifts have often preceded the formation of consolidation phases or even bullish recoveries, depending on how the broader trend evolves,” he wrote, emphasizing conditions rather than certainty. At press time, BTC traded at $88,623. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56635987,
-    "published": 1767170923000,
-    "title": "Bitwise files for 11 single‑token ‘strategy’ crypto ETFs with US SEC",
-    "body": "Bitwise is seeking SEC approval for 11 single‑token “strategy” ETFs tied to major altcoins, expanding its product shelf deeper into the altcoin market.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56637462,
     "published": 1767173355000,
     "title": "More NFTs, less money: Supply rose to 1.3B as sales fell 37% in 2025",
@@ -1410,6 +1234,94 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56676437,
+    "published": 1767248753000,
+    "title": "Investors funnel $32B into US crypto ETFs despite year-end pullback",
+    "body": "BlackRock has further separated itself from competitors in the crypto ETF market in 2025, with its Bitcoin and Ether funds, IBIT and ETHA, accounting for the majority of net inflows.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56680384,
+    "published": 1767256620000,
+    "title": "Trader bags $1M from ‘abnormal’ BROCCOLI714 memecoin activity on Binance",
+    "body": "A trader claimed to have made $1 million by timing a long-short trade after spotting abnormal activity by a market maker account on Binance, while the exchange denied any security breach.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
       }
     ]
   }
