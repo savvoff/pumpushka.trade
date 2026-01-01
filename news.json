@@ -1,250 +1,5 @@
 [
   {
-    "id": 56644442,
-    "published": 1767185223000,
-    "title": "Korbit fined $1.9 million for anti money-laundering, customer verification breaches",
-    "body": "The South Korean regulator slapped Korbit with a compliance penalty as the crypto exchange conducts talks to be bought by Mirae Asset.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Korbit|South Korea|AML|Crime|Anti-Money Laundering|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56646217,
-    "published": 1767187957000,
-    "title": "Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026",
-    "body": "Ether trades sideways as spot ETF outflows, weak bullish leverage demand, and low Ethereum network fees cap recovery prospects going into 2026.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56646049,
-    "published": 1767187930000,
-    "title": "APT falls as token underperforms wider crypto markets",
-    "body": "The token underperformed broader digital assets as trading activity remained subdued despite recent ecosystem developments.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|Aptos|Technical Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 70,
-        "NAME": "APT",
-        "CATEGORY": "APT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56646745,
-    "published": 1767189060000,
-    "title": "KBW upgrades TeraWulf to outperform, sees AI pivot as catalyst for sharp growth",
-    "body": "The bank raised its its price target on the shares to $24 from $9.50.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|TeraWulf|Bitcoin Mining|AI|Kbw|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56647118,
-    "published": 1767189663000,
-    "title": "Emerge’s Top 10 WTF AI Moments of 2025",
-    "body": "From Grok’s “MechaHitler” meltdown to North Korea’s “vibe-hacking” ransomware, 2025 was the year AI stopped pretending to be smart and started acting unhinged.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 56647737,
-    "published": 1767190731000,
-    "title": "CoinDesk 20 Performance Update: Solana (SOL) Gains 1.4%, Leading the Index Higher",
-    "body": "Cronos (CRO) joined Solana (SOL) as a top performer, also rising 1.4%.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 75,
-        "NAME": "CRO",
-        "CATEGORY": "CRO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56649092,
-    "published": 1767192991000,
-    "title": "Trump Media to distribute digital tokens to DJT shareholders",
-    "body": "The Truth Social parent said it will issue a new digital token on Crypto.com’s Cronos blockchain, with shares and crypto prices rising following the announcement.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Donald Trump|Djt|Crypto.com|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 75,
-        "NAME": "CRO",
-        "CATEGORY": "CRO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56649811,
     "published": 1767194151000,
     "title": "Price predictions 12/31: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
@@ -1100,6 +855,234 @@
         "ID": 209,
         "NAME": "DIGITAL ASSET TREASURY",
         "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56690078,
+    "published": 1767274244000,
+    "title": "Bitcoin Could Be Setting Up A Comeback Vs. Gold, Analyst Suggests",
+    "body": "A veteran market analyst has flagged a technical pattern that could signal a turning point for Bitcoin after months of underperformance versus gold. The move comes as traders weigh whether the long run of gains for the yellow metal has exposed limits in Bitcoin’s safe-haven story. Related Reading: Gold And Stocks Ran Ahead, But Bitcoin May Close The Gap In 2026 Bitcoin Versus Gold Ratio Down The Bitcoin-to-gold ratio has plunged. It fell from 32 on Oct. 5 to about 20 today, a drop of more than 37%. According to the data, that means one Bitcoin bought roughly 32 ounces of gold in early October but now buys about 20. The ratio’s slide has accelerated since gold’s rally took hold and Bitcoin’s price slipped below key levels. Daily readings point to a possible change in momentum. On Nov. 21 the BTC/GOLD pair hit a low of 20 and the RSI stood at 21.30. A lower low near Dec. 1 came with a higher RSI low of 26.83. Then another trough at 19 on Dec. 26 coincided with a higher RSI low of 32.21. That’s a valid bullish divergence on the daily timeframe for BTCUSD vs. Gold. Interested to see where that leads us into 2026. pic.twitter.com/D6ei8HsIDy — Michaël van de Poppe (@CryptoMichNL) December 31, 2025 Based on reports, Michaël van de Poppe called this pattern a “strong” bullish divergence on the daily chart, a setup traders watch because it can show selling pressure easing even as prices make new lows. Technical Signals Show Cooling Selling Pressure On the weekly chart the picture adds weight to the signal. The weekly RSI for the BTC/GOLD pair has sunk to about 31.85 at press time. That level was last seen during the November 2022 sell-off tied to the FTX collapse, a point that marked a bottom in that cycle. Reports also link similar RSI lows to the bottoms seen in 2015 and 2018. Taken together, the daily divergence and the low weekly RSI make a stronger case that the downtrend may be losing steam, though nothing is guaranteed. Market Sentiment Splits Investors Gold’s rally has been dramatic. Reports show gold surged by over 70% in 2025 while Bitcoin fell by 7% over the year in some measures. At press time Bitcoin trades at $87,750, down 4.8% year-to-date. The breakdown in the Bitcoin-to-gold ratio and Bitcoin’s continued weakness below $100,000 have prompted fresh questions about the “digital gold” story as bullion posts historic gains. Short-term money appears to favor gold for capital protection. Many traders are treating the metal as a shelter while it climbs to new highs. Long-term holders, however, still point to Bitcoin’s potential for big upside once risk appetite returns. Related Reading: Crypto Headed For A $10 Trillion Future? Hoskinson Says RWA Is The Key According to market watchers, the near-term outlook hinges on whether the BTC/GOLD ratio and price action deliver follow-through above key levels. Until that happens, signals will remain tentative. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|gold|yellow metal",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56690190,
+    "published": 1767274174000,
+    "title": "SOL accumulation tops crypto trends on New Year’s Day: Santiment",
+    "body": "Whale accumulation across Solana tokens is headlining crypto-related social buzz as 2026 begins, according to data from Santiment.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56691155,
+    "published": 1767276379000,
+    "title": "Base’s creator coin experiment meets resistance after Nick Shirley launch",
+    "body": "Base’s push into creator coins is facing mounting criticism from traders and builders after Nick Shirley’s token on Zora spiked to about a $9 million valuation and then promptly slumped.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56690991,
+    "published": 1767276000000,
+    "title": "The Federal Reserve Is The Christmas Gift That Keeps On Taking",
+    "body": "On its 112th anniversary, the Federal Reserve's track record speaks clearly: 97% purchasing power lost, M2 up 140,000%. Bitcoin offers a fundamentally different path.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56691482,
+    "published": 1767276900000,
+    "title": "The XRP Army got everything except $5 price: Will 2026 deliver?",
+    "body": "XRP scored every major win in 2025 with the SEC case resolved and spot ETFs launched, yet the price crashed 50%, with the $5 target remaining elusive.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56692869,
+    "published": 1767279647000,
+    "title": "Dogecoin Mirrors AMD’s Setup From Last Year, Analyst Claims",
+    "body": "Dogecoin’s pullback is starting to look like a setup, not a breakdown, at least according to crypto analyst Cantonese Cat (@cantonmeow), who says the meme coin is behaving the way AMD did before its turn higher last year. Can Dogecoin Replicate The AMD Rally? In a X post on Dec. 31, the analyst argued that slipping prices on weakening volume and growing public reluctance to be bullish is exactly what improves the trade’s risk/reward. “I said that about AMD last year. I’m saying that about DOGE right now,” Cantonese Cat wrote. “The lower price goes down on low volume. The more worried influencers are to publicly be bullish on it. The less people care about this. The better risk-reward ratio there is.” The Dec. 31 chart is built around Fibonacci retracement levels mapped from DOGE’s prior move, with key bands marked at roughly $0.373 (0.886), $0.297 (0.786), $0.202 (0.618), $0.154 (0.5), $0.118 (0.382), $0.084 (0.236) and a lower reference near $0.049 (0). In that view, DOGE is shown sliding into the 0.382 region (around $0.118), a level many technicians watch as a make-or-break area for whether a pullback remains corrective or risks turning into a deeper unwind. Related Reading: Dogecoin Near $0.11–$0.12 Offers ‘Incredible Risk/Reward,’ Says Analyst Below price, Cantonese Cat’s volume bars are annotated with downward arrows, reinforcing the point made in the accompanying commentary: as DOGE moved lower, participation appeared to fade. For the analyst, that combination: declining price paired with softer volume and a more reluctant public tape fits a pattern where marginal sellers can exhaust without attracting aggressive new supply. Long-Term Dogecoin Price Targets Cantonese Cat’s earlier Dec. 20 post sets the broader roadmap, describing the preceding stretch as a prolonged downcycle and positioning the current phase as a corrective structure rather than a fresh trend. “We’ve already had a 13 month bear market for DOGE, with my working hypothesis of this being likely a wave 2 correction prior to wave 3 explosion,” the analyst wrote. “The entire reason why this may play out is that it doesn’t feel likely right now, and you want me to stop posting.” Related Reading: Dogecoin Chart Mirrors Silver’s Breakout, Analyst Flags $9+ Scenario That Dec. 20 chart also projects upside targets using Fibonacci extensions, with levels plotted well above the prior range. The marked extension ladder includes roughly $0.90 (1.272), $1.25 (1.414), and $1.99 (1.618), with more aggressive levels further out near $4.78 (2.0) and $8.91 (2.272). The thesis is not that those levels are imminent, but that the convexity of a potential “wave 3” is what makes the current pullback, if it holds the corrective framing, attractive from a risk/reward standpoint. Notably, the AMD comparison is not the only cross-market framing Cantonese Cat has used recently. The analyst has also drawn parallels between Dogecoin and silver, according to our recent coverage, extending the same core idea across different assets: periods that feel uninteresting or unpopular can be precisely when the setup becomes more asymmetric. At press time, DOGE traded at $0.12. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|AMD|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
