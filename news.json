@@ -1,99 +1,5 @@
 [
   {
-    "id": 56683800,
-    "published": 1767263429000,
-    "title": "Crypto ETFs Defy The Pullback With $32 Billion In Fresh Investor Cash",
-    "body": "According to Farside Investors data, US investors put close to $32 billion into US crypto exchange-traded funds in 2025 even as markets lost steam late in the year. Related Reading: Crypto Headed For A $10 Trillion Future? Hoskinson Says RWA Is The Key Spot Bitcoin ETFs drew the biggest share, with $21.4 billion in net inflows. That is smaller than the $35 billion that poured into Bitcoin ETFs in 2024. Blackrock Dominates Flows BlackRock’s iShares Bitcoin Trust ETF, IBIT, accounted for most of the activity. Reports show IBIT took in about $24.7 billion. That makes its inflows roughly five times larger than the nearest rival, Fidelity’s FBTC. Market watchers noted IBIT ranked near the top among all ETF flows, placing behind only a few broad index funds and a big treasury bond fund. If IBIT’s number is removed, the wider spot Bitcoin ETF group actually finished the year with about $3 billion in combined outflows. Grayscale’s Bitcoin product lost nearly $4 billion on the year. Bitcoin’s price was lower than at the start of 2025; it began the year around $93,500. Ethereum Interest Strong But Cooling Based on reports, interest in Ethereum ETFs was real, but the momentum looks uneven. BlackRock’s iShares Ethereum Trust, ETHA, sits at nearly $12.6 billion in inflows. Fidelity’s FETH follows at $2.6 billion, while Grayscale’s Ethereum Mini Trust ETF holds about $1.5 billion. Still, public on-chain data showed little renewed demand for spot Bitcoin and Ether ETFs in the last month of the year, suggesting flows may slow into 2026. Ether ETFs benefited from being new and giving investors a regulated way to own ETH, but recent days have seen quieter buying. Spot Ether ETFs, which only became widely tradable after their July 2024 launch, gathered $9.6 billion in their first full year. Spot Solana ETFs, launched in late October, added $765 million through year end. Altcoin ETFs Show Curiosity, Not Frenzy Litecoin and XRP ETFs also began trading in the latter half of the year, giving investors more choices for regulated altcoin exposure. The sums are small compared with Bitcoin and Ether. Solana’s $765 million is an example of early interest that has not yet turned into a large, steady stream of assets. These products are being tested by the market. Related Reading: Gold And Stocks Ran Ahead, But Bitcoin May Close The Gap In 2026 Global Flows Tell A Different Story Industry trackers reported that crypto ETFs listed worldwide experienced $2.95 billion in net outflows in November, and there was about $179 billion invested in crypto ETFs globally at the end of that month. Regulators and exchanges moved faster this year under new SEC leadership that was more open to approvals, which in turn helped institutional adoption in the US. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|bitcoin|btc|btcusd|crypto|etf|Ether|ethereum",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56686884,
-    "published": 1767268800000,
-    "title": "How crypto's promised year-end fireworks turned into a bloodbath",
-    "body": "Digital asset treasuries, altcoin ETFs and bitcoin’s famed year‑end seasonality were meant to supercharge prices. What came instead was the worst drawdown since 2022's crypto winter.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|market analysis|Bitcoin News|Crash|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56690078,
     "published": 1767274244000,
     "title": "Bitcoin Could Be Setting Up A Comeback Vs. Gold, Analyst Suggests",
@@ -851,6 +757,175 @@
         "NAME": "ZRX",
         "CATEGORY": "ZRX"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56725782,
+    "published": 1767348292000,
+    "title": "Internet Computer climbs back to $3 as short-term momentum improves",
+    "body": "ICP pushed above the $3 level on rising activity, holding recent gains as traders reassess near-term direction.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Technical Analysis|ICP|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 82,
+        "NAME": "ICP",
+        "CATEGORY": "ICP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56727316,
+    "published": 1767351649000,
+    "title": "Bitcoin Price Crash To $25,000: Why The Bottom Is Much Lower",
+    "body": "Crypto analyst Crypto Whale has explained why the Bitcoin price could still crash to as low as $25,000. The analyst also stated this would form the macro bottom for the leading crypto, as it recovers from this bear market. Why The Bitcoin Price Could Drop To As Low As $25,000 In an X post, Crypto Whale stated that the monthly chart suggested that the Bitcoin price could form a macro bottom near $25,000 sometime in 2026. The analyst further remarked that if history rhymes, these deep retracements tend to mark long-term accumulation zones. He added that this doesn’t signify the end of the cycle but the reset before the next expansion. However, in another X post, Crypto Whale suggested that the Bitcoin price isn’t yet in a bear market, highlighting how the 2026 bull run is likely to unfold. He stated that this month, the crypto market will see a Bitcoin-led rally, while there will be a broad altcoin expansion in February. The analyst expects the bull trap to set in in March, which he predicts would lead to volatility and panic selling. Related Reading: Analyst Reveals Why The Bitcoin Price Is Extremely Bearish Right Now Once that happens, Crypto Whale predicts that May will usher in the capitulation phase, while a full bear market confirmation will happen in June. This outlook for the Bitcoin price comes as research firm XWIN Research noted that BTC has not clearly entered a new bullish trend. The firm further stated that the crypto market remains in a high-volatility range environment, which is neither decisively bullish nor bearish. Meanwhile, XWIN Research raised the possibility that the Bitcoin price could drop to as low as $50,000. They stated that this could happen if recession risks intensify, with deleveraging and ETF outflows pushing the leading crypto below $80,000 and making $50,000 a possibility. BTC Death Cross Signals Drop To $38,000 In an X post, crypto analyst Ali Martinez drew attention to a death cross, which has been recurring on the BTC weekly chart. The analyst noted that if history repeats itself, the Bitcoin price could record a similar 50% to 60% correction, dropping to as low as $38,000 in the process. Related Reading: Bitcoin Enters Decision Phase, But What Does It Mean For The Crypto Market? This death cross between the 10-week and 50-week simple moving averages is said to have occurred in September 2014, leading to a Bitcoin price correction of 67%. It also occurred in June 2018, March 2020, and January 2022, resulting in price corrections of 54%, 53%, and 64%, respectively. Martinez opined that the zone between $50,000 and $38,000 is starting to become interesting from a long-term spot accumulation standpoint. He added that the market will confirm the next move for the Bitcoin price in its own time. At the time of writing, the Bitcoin price is trading at around $88,700, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Ali Martinez|altcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|crypto whale|etf|Simple Moving Averages|SMA|XWIN Research",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56728211,
+    "published": 1767353400000,
+    "title": "5 Trends Crypto Investors Can’t Ignore In 2026",
+    "body": "After a year of regulatory thaw and institutional buy-in, crypto is settling into the financial system’s core.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Money|/money|Daily Cover|daily-cover|Editors' Pick|editors-pick|premium",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56728908,
+    "published": 1767355044000,
+    "title": "Turkmenistan legalizes crypto mining and exchanges to boost the economy",
+    "body": "The legislation aims to boost economic development and foreign investment while treating virtual assets strictly as property.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Virtual Assets Bill|Cryptocurrency Regulations|Crypto Mining|Crypto Exchanges|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56729259,
+    "published": 1767355780000,
+    "title": "Iran accepts cryptocurrency as payment for advanced weapons",
+    "body": "Prospective customers could purchase weapons such as missiles, tanks and drones using crypto, according to a government website.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Iran|Sanctions|cryptocurrency payments|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
