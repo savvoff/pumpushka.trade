@@ -1,75 +1,5 @@
 [
   {
-    "id": 56673691,
-    "published": 1767243511000,
-    "title": "Crypto forces to compound in 2026, accelerating adoption: Coinbase",
-    "body": "Coinbase’s head of research said the forces that drove crypto in 2025, such as regulation, ETFs, stablecoins and tokenization, will only get stronger in the coming year.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56675497,
-    "published": 1767247078000,
-    "title": "4 crypto comebacks from 2025 that could help shape the year ahead",
-    "body": "From Ross Ulbricht’s pardon to Ripple’s SEC victory, here’s a list of crypto’s most celebrated turnarounds this year and what they mean for the year ahead.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56676437,
     "published": 1767248753000,
     "title": "Investors funnel $32B into US crypto ETFs despite year-end pullback",
@@ -868,6 +798,35 @@
         "ID": 54,
         "NAME": "USDT",
         "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56717078,
+    "published": 1767329344000,
+    "title": "Solana enters 2026 with last-minute boost in RWA momentum",
+    "body": "Solana finished the year with record tokenized RWA activity and strong inflows into Solana ETFs, which could push SOL toward new highs in 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
