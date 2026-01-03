@@ -1,87 +1,5 @@
 [
   {
-    "id": 56714590,
-    "published": 1767324110000,
-    "title": "Dogecoin surges 7% as a double-bottom break sparks DOGE rally",
-    "body": "The breakout was supported by spot activity, indicating a healthier market move.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56715192,
-    "published": 1767324976000,
-    "title": "Tether adds nearly $800 million in bitcoin, bringing holdings above 96,000 BTC",
-    "body": "The purchase is part of Tether's strategy to use up to 15% of its quarterly profits for bitcoin acquisitions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|btc|USDT|Tether|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56717078,
     "published": 1767329344000,
     "title": "Solana enters 2026 with last-minute boost in RWA momentum",
@@ -996,6 +914,53 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56753233,
+    "published": 1767409219000,
+    "title": "Bitcoin Key Moving Averages Indicate An Imminent Drop To $38,000",
+    "body": "As 2025 came to a close, Bitcoin (BTC) ended on a negative note, trading more than 30% below its all-time highs and grappling with the formation of a death cross—a technical indicator that traditionally precedes significant price corrections. Currently hovering just above $89,200, Bitcoin recently saw its 10-week and 50-week simple moving averages (SMAs) cross paths on December 8, a development highlighted by market analyst Ali Martinez on social media site X (previously Twitter). Bitcoin May Face 50%-60% Correction Martinez emphasized the importance of watching the behavior of these two moving averages on the weekly chart. Historically, each time Bitcoin has registered a death cross between the 10-week and 50-week SMAs, it has been followed by substantial corrections. Related Reading: Dogecoin Long-Term Bullish Structure Still In Play And Will Cross $10 As seen in the cryptocurrency’s weekly chart below, past occurrences of such crossovers have led to price declines of 67% in September 2014, 54% in June 2018, 53% in March 2020, and 64% in January 2022. With the recent death cross-forming, Martinez suggests that if history is any guide, Bitcoin could face a correction between 50% and 60%, which would place its price anywhere between $50,000 and $38,000. Adding another layer of complexity to the analysis, market expert Mags has outlined two potential scenarios for Bitcoin’s near future. Two Scenarios For BTC’s Future Following Bitcoin’s downturn since its October highs above $126,000, it has been trading around the $85,000 mark for several weeks. Coinciding with this, Tether’s USDT dominance has broken out of its previous range, currently maintaining levels above the breakout zone. Since Bitcoin and USDT dominance exhibit an inverse correlation, Mags has identified two main scenarios moving forward. The first, a bullish scenario, hinges on the idea that if USDT dominance begins to decline, the current breakout could turn out to be a fakeout. Mags asserts that such a move could potentially ignite another expansion in Bitcoin’s price, possibly even leading to a new all-time high before any significant distribution occurs. Related Reading: Here’s How Much The XRP Price Will Be If It Overtakes Ethereum In Market Cap Conversely, Mags outlined a second scenario indicating early signs of a bearish structure. If the broader market trend weakens, Bitcoin might experience a temporary bounce, while USDT dominance forms a higher low near its mid-range before trending back upwards. In this case, BTC would exhibit a slow distribution pattern, marking neither a crash nor a rapid decline, but rather a gradual, choppy downward movement characteristic of initial bearish market behavior. The next move in USDT dominance is poised to play a crucial role in determining whether the current market represents a mere pause before further price continuation or the onset of an extended distribution phase leading up to a new all-time high. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin chart|Bitcoin Death Cross|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
