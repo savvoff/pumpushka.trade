@@ -542,5 +542,87 @@
         "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
+  },
+  {
+    "id": 56821545,
+    "published": 1767558885000,
+    "title": "Altcoins hold 'crucial' support, set for 'big leg' up, says analyst",
+    "body": "The altcoin market is set to rally, based on technical analysis showing altcoins trading above critical support levels formed in October.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 56822235,
+    "published": 1767560401000,
+    "title": "$18 Million Ethereum Loss Sends Whale Running To Gold",
+    "body": "A large crypto wallet that recently took a sharp loss on Ethereum has restructured its holdings, moving away from volatile tokens and increasing exposure to stablecoins and tokenized gold, according to on-chain tracking data. Related Reading: A Maduro Bet, A Market Alarm: US Lawmaker Targets Trading Abuses The address drew attention after an aggressive Ethereum purchase late last year went wrong. Between November 3 and November 7, 2025, the wallet spent about $110 million to acquire 31,005 ETH at an average price of $3,581. As prices slid, the position was unwound. Nearly the entire holding was sold for roughly $92.19 million, locking in a loss close to $18 million within two weeks. At current prices near $3,020, that same Ethereum stack would now be valued at around $93.6 million. Shift Away From Ether After Costly Exit Based on reports from blockchain monitoring platforms, the sell-off marked a clear change in behavior. The wallet, once heavily tied to Ethereum, no longer holds a large directional bet on the asset. Instead, balances have been spread across cash-like tokens and commodities. The move reflects caution rather than an attempt to quickly recover losses. An unknown whale, who lost $18.8M on $ETH in just 2 weeks, has abandoned $ETH and rotated into #gold. The whale has spent $14.58M to buy 3,299 $XAUT at $4,421 over the past 7 hours.https://t.co/hit6agWmHd pic.twitter.com/X7k94zV0iQ — Lookonchain (@lookonchain) January 2, 2026 Gold Buying Shows Preference For Lower Volatility According to on-chain records, the address began building a position in Tether’s tokenized gold product, XAUT. Starting on Friday, the wallet spent $14.58 million in USDT to buy 3,299 XAUT across several transactions. The average purchase price came in near $4,421 per token. This was not the first gold buy. A smaller XAUT acquisition was made on December 13, roughly three weeks earlier. As of the latest data, the wallet holds 3,386 XAUT tokens worth about $14.92 million. The broader portfolio now totals close to $91 million. About $58 million sits in USDT, another $18 million is held in USDC, while the remainder is split between XAUT and a reduced Ethereum balance. The composition points to capital protection rather than high-risk positioning. Metals Outperform Crypto In 2025 Returns from last year help explain the change. Reports have disclosed that Bitcoin fell by 6% in 2025, while Ethereum dropped 11%. Over the same period, gold surged over 60%, and silver rose an even steeper 147%. Related Reading: Bitcoin Dominance Grows As Altcoins Post Another Losing Year: Analyst Major stock indexes such as the S&P 500, Dow Jones, and Nasdaq 100 also posted stronger performance than much of the crypto market. With those results in view, some investors appear more comfortable holding assets linked to metals or cash. Meanwhile, analysts at asset manager VanEck have pointed to 2026 as a possible recovery year for the crypto market. Their view contrasts with the current behavior of large wallets moving into stablecoins and gold-linked tokens. The divide shows how uncertain sentiment remains after a year when metals and traditional assets delivered stronger gains than major cryptocurrencies. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|altcoins|crypto|ETH|Ether|ethereum|gold|yellow metal",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
   }
 ]
