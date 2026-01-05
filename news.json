@@ -1,150 +1,5 @@
 [
   {
-    "id": 56808905,
-    "published": 1767531600000,
-    "title": "Crypto rich threaten to leave California after new tax: Is it a bluff?",
-    "body": "Crypto billionaires in California are threatening to leave the state, but are they ready to make good on their promise, or is an impending wealth exodus more of a paper tiger?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 56808749,
-    "published": 1767531291000,
-    "title": "Wrench attacks against crypto holders are rising and growing ‘more violent’",
-    "body": "An analysis of “wrench attacks” shows physical assaults against crypto holders are increasing in number and severity, with Europe and Asia seeing the sharpest rise.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56812244,
-    "published": 1767538804000,
-    "title": "PwC ‘leans in’ to crypto as Donald Trump and lawmakers embrace sector",
-    "body": "Big Four firm has made strategic pivot towards digital assets, says US boss",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56812212,
-    "published": 1767538800000,
-    "title": "Neobanks will fuel Ethereum's 2026 growth, says ether.fi CEO",
-    "body": "Ethereum's next phase will be defined by financial products that feel familiar to everyday users, Mike Silagadze said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Ether.Fi|Consensus Hong Kong 2026|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56812760,
-    "published": 1767539847000,
-    "title": "Ghana Legalizes Crypto While Ghanaian Village Shows Bitcoin’s Potential",
-    "body": "At the end of 2025, Ghana's parliament passed a law legalizing crypto, making it easier for projects like Bitcoin Dua to educate everyday Ghanaians about Bitcoin.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56813865,
     "published": 1767542436000,
     "title": "Dogecoin Enters Crucial Accumulation Zone — DOGE Price To $0.2?",
@@ -1270,6 +1125,391 @@
         "ID": 55,
         "NAME": "WALLET",
         "CATEGORY": "WALLET"
+      }
+    ]
+  },
+  {
+    "id": 56849928,
+    "published": 1767617006000,
+    "title": "Starknet mainnet hit by fresh downtime as team probes cause",
+    "body": "Starknet, an Ethereum ZK‑rollup network used for decentralized finance and gaming, is facing fresh mainnet downtime following previous outages in 2025.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56851252,
+    "published": 1767619828000,
+    "title": "Dogecoin Price On The Brink Of A 9,000% Rally To $10? What Historical Performance Shows",
+    "body": "Dogecoin has spent a large part of the current cycle moving sideways, leaving its long-term chart largely defined by a downtrend. However, a technical study of Dogecoin’s previous market cycles, where similar stretches of compression preceded outsized price expansions, points to instances where Dogecoin can rally to price targets anywhere between $10 and $20 in the current cycle. How Dogecoin Performed During Previous Alt-Seasons A recent technical analysis shared by crypto analyst Javon Marks on the social media platform X looks at direct comparisons between Dogecoin’s current structure and the setups that led to its most dramatic rallies in the past. Related Reading: Dogecoin Long-Term Bullish Structure Still In Play And Will Cross $10 Looking back at previous market cycles, Dogecoin went through some of the biggest magnitudes of rallies, even within the volatile world of cryptocurrencies. During its first major alt-season run, Dogecoin surged by more than 9,000% from its base to reach a new peak of $0.015 in early 2018. Back then, this rally caught many doubters off guard, considering the fact that Dogecoin had no inherent value at the time and was the first mover in a niche of meme coins. What followed in the next cycle was even more extreme, with the second major expansion delivering gains of about 28,000% in 2021. This rally was enough to establish Dogecoin’s reputation as the king of meme coins, and the all-time high of $0.73 it reached back then is yet to be broken. The chart that followed Marks’ analysis shows that each rally began after prolonged periods where Dogecoin appeared largely stagnant and was trading sideways. What A 9,000% Or 20,000% Move Means For DOGE Applying those percentage gains to Dogecoin’s current price range produces eye-catching figures that propose a break above the anticipated $1 level and even above double digits. Related Reading: Dogecoin Price Could Rally To All-Time Highs If It Breaks This Resistance Level A move similar to the first major alt-season rally, roughly 9,000%, would place Dogecoin around the $10 price level. A repeat of the second cycle’s performance would push the price far higher. to as high as $20. These are ultra-bullish targets that seem unrealistic based on Dogecoin’s current price levels. However, the analyst also highlighted near-term reference zones that sit well below the most extreme projections but still reflect meaningful upside. Price levels around $0.6533 and $1.25111 were identified as more realistic milestones within a bullish scenario. Interestingly, these are also very bullish, as they represent increases of 340% and 740%, respectively, from Dogecoin’s price range around $0.15. Not everyone reading the chart arrives at the same conclusion, and that difference in interpretation was evident in comments under Marks’ post. Another Dogecoin analyst, KrissPax, responded by saying there’s a difference between a full alt-season and what he described as a relief rally. According to KrissPax, nothing in the current chart suggests a $20 Dogecoin this year. However, Marks explained that the idea is not that Dogecoin will certainly reach $10 or $20 this year, but to show what types of gains to expect if another alt-season unfolds, which is looking more and more likely. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|altseason|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|Javon Marks|KrissPax",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56851300,
+    "published": 1767619645000,
+    "title": "Three bullish XRP charts to watch as price gains 18% in 2026",
+    "body": "XRP price gained in the first five days of 2026 as chart breakouts and steady ETF inflows produced targets near $3, with longer-term projections as high as $7-8.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56851411,
+    "published": 1767619912000,
+    "title": "How ZachXBT exposed a Coinbase impersonation scam using onchain clues",
+    "body": "How an onchain investigator linked a Coinbase impersonation scam to $2 million in losses and why social engineering remains the real risk.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56851802,
+    "published": 1767620551000,
+    "title": "Ethereum can move beyond Bitcoin-style limits as new scaling tools mature: Vitalik Buterin",
+    "body": "PeerDAS is already live on Ethereum's mainnet, while zkEVMs are at an advanced stage, focusing on safety and scalability.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Ethereum News|Vitalik Buterin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56852406,
+    "published": 1767622172000,
+    "title": "Goldman Sachs upgrades Coinbase to buy, cuts eToro to neutral",
+    "body": "The bank said it is 'selectively constructive' on brokers and crypto companies heading into 2026.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Coinbase|eToro|Goldman Scahs|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56853439,
+    "published": 1767624210000,
+    "title": "CoinDesk 20 Performance Update: Cronos (CRO) Rises 9% as Index Gains Over Weekend",
+    "body": "Polygon (POL) joined Cronos (CRO) as a top performer, rising 8% from Friday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 38,
+        "NAME": "MATIC",
+        "CATEGORY": "MATIC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 75,
+        "NAME": "CRO",
+        "CATEGORY": "CRO"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56853987,
+    "published": 1767625299000,
+    "title": "Bitcoin network hashrate fell for second consecutive month in December: JPMorgan",
+    "body": "Mining profitability also declined last month, with daily block reward revenue down 7%, and 32% year-on-year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bitcoin Mining|Hashrate|Hut 8|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56853869,
+    "published": 1767625037000,
+    "title": "Bitmine Immersion adds 33,000 ETH, bringing total crypto and cash holdings above $14 billion",
+    "body": "Led by Chairman Tom Lee, the company now holds 4.14 million ether (ETH), or 3.4% of the total supply.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Bitmine|Ether|Ethereum Treasury|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56853657,
+    "published": 1767624353000,
+    "title": "CME Group’s average crypto derivatives volume hit record $12 billion in 2025",
+    "body": "CME's overall average daily volume across asset classes hit an all-time high of 28.1 million contracts, with crypto being a key contributor.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|CME Group|Crypto Derivatives|Crypto Trading|Derivatives|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56854149,
+    "published": 1767625594000,
+    "title": "Starknet goes down for over 4 hours, team is ‘actively investigating’",
+    "body": "Downtime can have knock-on effects across decentralized finance and other onchain applications.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Tech|starknet|layer 2|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
