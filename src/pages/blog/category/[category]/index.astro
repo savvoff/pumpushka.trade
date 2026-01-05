@@ -146,7 +146,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/category/${category}/` : `/blog
   )}
 
   <!-- sidebar slots -->  
-  <RecentPosts slot="recent" category={ categoryName } />
+  <RecentPosts slot="recent" />
   <Categories slot="categories" title={ categoriesText } currentCategory={ categoryName } />
   <Tags slot="tags" title={ tagsText } />
 <!-- <div slot="ad-sidebar"></div>

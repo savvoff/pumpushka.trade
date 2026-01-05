@@ -190,7 +190,7 @@ const pageHref = (p: number) => p === 1 ? `/blog/tag/${tag}/` : `/blog/tag/${tag
   </nav>
 
   <!-- sidebar slots -->  
-  <RecentPosts slot="recent" tag={ tagName } />
+  <RecentPosts slot="recent" />
   <Categories slot="categories" title={ categoriesText } />
   <Tags slot="tags" title={ tagsText } currentTag={ tagName } />
 <!-- <div slot="ad-sidebar"></div>

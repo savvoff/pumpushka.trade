@@ -191,7 +191,7 @@ const pageHref = (p: number) => p === 1 ? `/${lang}/blog/tag/${tag}/` : `/${lang
   </nav>
 
   <!-- sidebar slots -->  
-  <RecentPosts slot="recent" tag={ tagName } lang={ lang } />
+  <RecentPosts slot="recent" lang={ lang } />
   <Categories slot="categories" title={ categoriesText } lang={ lang } />
   <Tags slot="tags" title={ tagsText } currentTag={ tagName } lang={ lang } />
 <!-- <div slot="ad-sidebar"></div>
