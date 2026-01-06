@@ -1,163 +1,5 @@
 [
   {
-    "id": 56862455,
-    "published": 1767642961000,
-    "title": "Bitfinex Hacker Behind $11 Billion Bitcoin Heist Credits Trump for Early Prison Release",
-    "body": "The White House defended the release of Ilya Lichtenstein, who stole over 119,000 Bitcoin in 2016, from prison to home confinement—but didn’t take credit for the action.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56862278,
-    "published": 1767642687000,
-    "title": "A few Republicans have crypto's destiny in their hands at the SEC, CFTC",
-    "body": "After holiday leadership shifts, the two U.S. markets regulators — the SEC and CFTC — are now run only by pro-crypto Republicans, with Congress still debating.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|U.S. Securities and Exchange Commission|Paul Atkins|Caroline D. Pham|Mike selig|crypto legislation|U.S. Senate|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56863160,
-    "published": 1767644422000,
-    "title": "XRP's 9% surge leads crypto as bitcoin climbs to 6-week high near $95,000",
-    "body": "Bakkt, Figure and Hut 8 were among numerous crypto-related stocks posting double-digit percentage gains.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|XRP News|Market Wrap|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56864295,
-    "published": 1767646822000,
-    "title": "Bitcoin’s Recovery Extends Into 2026 as Charts Hint at Another Leg Higher",
-    "body": "Bitcoin (BTC) has opened 2026 with renewed momentum, extending a recovery that began in the final days of December and pushing prices back above key psychological levels. Related Reading: XRP Is Setting Up For Its ‘Next Explosive Move,’ Analysts Say: Here’s The Target After ending 2025 with a modest decline that challenged expectations around the traditional four-year cycle, the largest asset has reclaimed the $90,000 zone and is trading above $92,000. The move reflects a mix of technical breakouts, steady institutional inflows, and easing selling pressure, even with long-term skepticisms. BTC's price records moderate gains on the daily chart. Source: BTCUSD on Tradingview Technical Structure Points to Higher Levels On the daily chart, Bitcoin (BTC) has been forming a rounded base that resembles the early stages of a cup-and-handle pattern, a structure often associated with trend continuation. Recent candles have closed higher, though long upper wicks suggest some resistance near current levels. Analysts note that maintaining a sustained hold above the $89,500–$90,000 range is crucial to sustaining the bullish setup. A confirmed break above the $94,700 area could validate the pattern and open the door to a measured move toward the $100,000–$104,000 zone, implying roughly 10–12% upside from recent prices. Shorter-term indicators also show improving momentum, with higher lows forming on lower time frames and moving averages beginning to turn upward. However, elevated leverage on derivatives platforms means that pullbacks could still trigger sharp liquidations if support levels are breached. Bitcoin ETF Inflows and On-Chain Data Support the Move Beyond charts, underlying market data points to reduced distribution. Exchange inflows have dropped sharply since the end of December, signaling lower immediate selling pressure. On-chain metrics show both short-term and long-term holders moving fewer coins, suggesting a preference to hold rather than sell into strength. Institutional demand has also re-emerged through spot Bitcoin ETFs. Early January saw more than $600 million in net inflows in a single session, reinforcing the view that larger investors continue to treat Bitcoin as a portfolio allocation rather than a short-term trade. This steady accumulation has helped Bitcoin absorb macro-driven volatility, including recent geopolitical headlines that briefly lifted broader risk assets. Skepticism Remains as Market Eyes 2026 Outlook Not everyone is convinced the recovery will last. Economist Peter Schiff has reiterated his long-standing view that Bitcoin’s rally is unsustainable, arguing that recent gains in precious metals offer a stronger long-term case. Related Reading: Memecoin Strength Returns After Historic Market Decline: A Setup For A Comeback? Still, Bitcoin remains roughly 26% below its all-time high, leaving room for further debate over valuation and direction. Consequently, the market appears to be focused on whether Bitcoin can build on its early 2026 recovery. Cover image from ChatGPT, BTCUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin price|btc|btc price|btcusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56865868,
     "published": 1767650039000,
     "title": "NFT Paris cancels conferences: ‘The market collapse hit us hard‘",
@@ -2694,6 +2536,486 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56901722,
+    "published": 1767723524000,
+    "title": "‘Like sats for Bitcoin’: Tether creates tiny gold unit as onchain demand grows",
+    "body": "The stablecoin issuer says its Scudo unit could make gold easier to transact digitally as prices surge and institutional demand accelerates.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56901669,
+    "published": 1767723410000,
+    "title": "Polkadot's DOT declines in U.S. afternoon selloff",
+    "body": "The technical breakdown erased earlier gains as DOT plunged through $2.19 support on heavy volume.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|AI Market Insights|Polkadot|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 21,
+        "NAME": "DOT",
+        "CATEGORY": "DOT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56902235,
+    "published": 1767723402000,
+    "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
+    "body": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP led up 12% to $2.37RENDER (+18%), SUI (+18%) and LIT (+15%) led top movers. Bank of America formally launched its crypto recommendations for wealth clients with up to 4% portfolio allocation. Morgan Stanley filed for a Solana Trust with the SEC. Goldman Sachs upgraded Coinbase to a ‘Buy’ rating today while simultaneously downgrading eToro. Japan’s finance minister endorsed deeper crypto integration, including lower taxes and exchange-level reforms. Vitalik Buterin claimed Ethereum has effectively solved the “Blockchain Trilemma” by balancing decentralization and scalability through its Layer-2 roadmap. Kraken is investigating reports that customer data is allegedly for sale on the dark web following a potential security exploit. Ledger users are on high alert as the hardware wallet provider faces a data breach involving its e-commerce partner, Global-E, exposing customer contact details.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56903357,
+    "published": 1767726567000,
+    "title": "US crypto market structure bill could be delayed until 2027: Report",
+    "body": "The midterm elections in November could cause some Senate Democrats to withhold support for the Responsible Financial Innovation Act due to conflict of interest concerns.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56903062,
+    "published": 1767726320000,
+    "title": "U.S. Senate back to crypto talks as industry's make-or-break bill faces time crunch",
+    "body": "Senators met to restart the high-stakes negotiation over the crypto market structure bill, and one of them reportedly said a markup is planned next week.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|U.S. Senate|crypto legislation|Tim scott|U.S. Senate Banking Committee|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56903111,
+    "published": 1767726000000,
+    "title": "ETH price taps $3.3K: Here’s what must happen for another 20% rally",
+    "body": "ETH’s price chart shows a confirmed double bottom pattern with a $3,900 price target. Here are the necessary factors to make it happen.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56903933,
+    "published": 1767727977000,
+    "title": "EU Calls Grok's Child Images 'Illegal' as Global Crackdown Intensifies",
+    "body": "The European Commission called Grok's AI-generated child images \"illegal\" and \"disgusting\" as countries start cracking down on Elon Musk's chatbot.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56904705,
+    "published": 1767729647000,
+    "title": "Pundit Warns XRP Investors To Stop Calling For $10,000, Shares ‘Realistic’ Price Targets",
+    "body": "A prominent crypto commentator known as Mason Versluis has issued a notable warning for XRP investors, pointing out that parts of the discussion around XRP to lofty price targets as high as $10,000 have drifted far away from reality and risk misleading investors. Pundit Pushes Back Against $10,000 XRP Predictions Bullish price predictions around XRP have been arriving at an unusually fast pace in recent months, especially as spot exchange-traded funds and institutional participation are now a major part of investor conversations. Related Reading: The Great XRP Exodus: Here’s How Much Is Left On Crypto Exchanges Social media platforms are now filled with increasingly high targets, ranging from triple-digit valuations to extreme calls for four-figure and even five-figure prices at $10,000. Just a few years ago, you would not have believed such XRP price predictions would be as rampant as this. In a recent video clip circulating across the crypto community, Mason Versluis delivered an unusually blunt assessment of the $10,000 predictions for the altcoin. He dismissed the figure outright, noting that such price targets should not even be part of current conversations. According to Versluis, anyone aggressively promoting those numbers is doing investors a disservice and misleading them. His argument is based on the fact that XRP has yet to demonstrate the ability to break above far lower price levels, making five-digit projections detached from present conditions. A closer look at XRP’s circulating supply explains why the $10,000 prediction raises doubts. XRP currently has a circulating supply of about 66 billion tokens with a market cap of $141.9 billion. Therefore, calculations based on the current circulating supply would imply a market cap of roughly $660 trillion if the altcoin reaches $10,000, which is far greater than the current top 100 assets by market cap combined. To put this in context, gold currently has a market cap of about $31 trillion. The most realistic way that the token might reach $10,000 is for the circulating supply to decrease significantly. Bullish Bias Exists, But Built Around Progression According to Versias, XRP reaching $10,000 is not outright impossible. However, the world has only seen roughly 2% of the changes that would be required for XRP to approach a $10,000 valuation. Related Reading: Here’s How Much The XRP Price Will Be If It Overtakes Ethereum In Market Cap XRP has not even reached $10, let alone maintained it. In order for any outstanding price levels to become a reality, XRP would first need to break above double digits $10, and hold above. From here, discussions about $50, $100, or higher only become meaningful after XRP proves strength at each preceding level. Despite the criticism, Versluis made it clear that his outlook on XRP is not bearish. He acknowledged that his stance has grown increasingly optimistic due to developments such as ETF momentum, DeFi activity, and institutional engagement surrounding XRP and the XRP ledger, continuing to improve. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|DeFi|etf|Mason Versias|Ripple|xrp|XRP Ledger|xrp news|XRP Price|XRPL|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56904508,
+    "published": 1767729087000,
+    "title": "Bitcoin ETFs Just Had Their Best Day in Months as Crypto Market Rebounds",
+    "body": "Bitcoin ETFs hit $697 million in single-day inflows as Morgan Stanley enters the race with new BTC and Solana fund filings.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56904835,
+    "published": 1767729600000,
+    "title": "Bitcoin liquidation data point to ‘absurd’ potential rally to $100K: Analyst",
+    "body": "Bitcoin’s liquidation map is still heavily biased toward a downside liquidity sweet, but a swift rally to $100,000 could quickly turn the tables in the bulls’ favor.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56905594,
+    "published": 1767731392000,
+    "title": "Asset manager Bitwise sees 3 tests for crypto’s 2026 rally",
+    "body": "Bitcoin and ether are off to a strong start this year, and Bitwise says the path to new highs hinges on market stability, U.S. legislation and calm equities.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ether|Bitwise Asset Management|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56906486,
+    "published": 1767733206000,
+    "title": "Dogecoin’s Rebound Gains Traction Amid DOGE ETF Activity and Renewed Memecoin Demand",
+    "body": "Dogecoin (DOGE) has extended its rally into early 2026, showing signs of sustained momentum as the memecoin space experiences renewed interest. Related Reading: Here’s Why The Shiba Inu Price Jumped Over 13% After a nearly 30% rise over four days, DOGE is consolidating above key technical levels, supported by rising trading volumes, derivatives data, and the growing popularity of leveraged Dogecoin ETFs. DOGE's price trends to the upside on the daily chart. Source: DOGEUSD on Tradingview Technical Momentum Supports Dogecoin Consolidation Dogecoin’s recent surge began after establishing a base around $0.132, breaking through resistance zones at $0.145 and $0.150. The rally peaked near $0.154 before entering a consolidation phase, a typical pattern in trending markets that suggests a healthy price structure rather than a sharp reversal. Currently trading near $0.151, DOGE remains above short-term moving averages, with immediate support levels at $0.150 and $0.145. Technical indicators, like the RSI, are above 50, signaling ongoing bullish momentum. However, some oscillators near overbought territory suggest that minor pullbacks could occur. On the upside, breaking through the $0.154 to $0.155 resistance range could pave the way for targets between $0.162 and $0.166, with potential extensions toward $0.175 and $0.180. Conversely, a drop below $0.142 may open the door to lower support levels near $0.135. DOGE ETF Activity and Whale Accumulation Fuel Rally The derivatives market reflects growing confidence in DOGE. Open interest in Dogecoin futures recently peaked at 13.47 billion contracts before a slight controlled decline, indicating leveraged positions are being managed cautiously rather than rapidly unwound. Adding to the momentum, a 2x leveraged Dogecoin ETF has become one of the top-performing ETFs in the first quarter of 2026, highlighting renewed institutional and retail interest. These ETFs amplify buying pressure by requiring fund managers to adjust their holdings to maintain leverage, effectively creating a feedback loop that can boost DOGE’s price during upswings. Large holders, or whales, have been active, purchasing hundreds of millions of DOGE tokens within a short span. This accumulation suggests confidence in further upside and can create a supply squeeze that reinforces price gains. Memecoin Revival Reflects Broader Market Trends Dogecoin’s rally is part of a larger revival in the memecoin sector. The overall market capitalization of memecoins has increased by more than 30% recently, reaching nearly $48 billion after months of underperformance. Historically, periods of low memecoin dominance often precede significant rallies, and DOGE, as the original and most liquid memecoin, frequently leads these cycles. Related Reading: John Bollinger: Bitcoin BB Squeeze Breakout Targets $107,000 The broader crypto market’s relative stability, particularly in Bitcoin and Ethereum, supports speculative flows into high-beta assets like DOGE. Additionally, social media engagement and mentions from influential figures can provide further catalysts, although these factors remain unpredictable. Cover image from ChatGPT, DOGEUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|Doge price|dogeusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 44,
+        "NAME": "SHIB",
+        "CATEGORY": "SHIB"
       },
       {
         "TYPE": "122",
