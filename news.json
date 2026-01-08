@@ -1,321 +1,5 @@
 [
   {
-    "id": 56918749,
-    "published": 1767758083000,
-    "title": "Bitcoin Dips to $92K as Liquidations Top $440M",
-    "body": "Bitcoin has slipped from highs near $94,000 as selling pressure returned, exposing the rally’s thin leverage despite improving liquidity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56920702,
-    "published": 1767762040000,
-    "title": "Ether Staking Heats Up As Entry Queue Hits 1.3 Million ETH",
-    "body": "According to Beaconcha.in data and market reports, the Ethereum validator exit queue has shrunk to just 32 ETH, with a wait time of about one minute. That is a steep drop from its mid-September peak of 2.67 million ETH — a fall of almost a hundred percent. Markets often react when locked assets are freed up for sale. Right now, that specific source of immediate selling seems to have faded. Related Reading: Crypto Users Lose Far Less To Phishing As Losses Drop 83% – Details Validator Exit Queue Near Empty The exit mechanism limits how fast validators can stop validating and pull out their full stake. With the queue near zero, there is no backlog waiting to cash out. That reduces one form of nervous selling. Validators still earn rewards while queued and can face penalties if they act badly, but the bottleneck that once forced slow exits is gone. Reports show the withdrawal process for partial payouts remains separate, and those smaller payouts continue without affecting the full-exit flow. Entry Queue Hits Fresh Highs Based on reports, the entry queue has climbed to about 1.3 million ETH, its largest level since mid-November. Large operators are sending chunks of ETH into staking. BitMine began staking on Dec. 26 and added 82,560 ETH to the queue on Jan. 3. The firm now lists 659,219 ETH staked, worth roughly $2.1 billion at current prices. BitMine’s wider holdings stand at just over 4.1 million ETH, representing about 3.4% of the total supply and valued near $13 billion. Those moves add real, measurable demand for staked Ether and help explain why fewer validators appear eager to leave. Exchange Balances And Liquidity Exchange reserves for ETH sit at multi-year lows. That matters because when fewer coins are parked on trading platforms, automatic or panic selling becomes harder to pull off. Traders and analysts point to this as a reason selling pressure is easing. Some industry figures have been quoted saying the exit queue is “basically empty,” and that selling pressure is drying up as staking outpaces withdrawals. Still, the market can move by other means — derivatives, lending desks, and off-exchange trades can shift exposure without touching the staking queues. BULLISH: $ETH surpasses Netflix to reclaim its position as the 36th-largest asset by market cap. pic.twitter.com/NetdCcdtSa — CoinGecko (@coingecko) January 6, 2026 Market Cap Milestone And What It Means Meanwhile, in another development, market watchers also noted that Ethereum has moved past Netflix to be the 36th-largest asset by market cap. That headline grabs attention. It says something about investor focus on blockchain assets right now. Related Reading: Bitcoin Wealth Isn’t About Hype—It’s About Time And Stacking, Expert Says But crossing a market-cap threshold is not the same as a direct reason to buy. Valuation rankings change often, and they can be driven by price moves that are themselves shaped by flows, news, or macro shifts rather than a change in the underlying business. Featured image from Pexels, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|altcoins|BitMine|crypto|ETH|Ether|ethereum|validator queue",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56920729,
-    "published": 1767762007000,
-    "title": "Lloyds leads charge in using blockchain to disrupt UK banking",
-    "body": "‘Deposit tokenisation’ could overhaul how customers use their accounts, says chief Charlie Nunn",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
-    "id": 56921044,
-    "published": 1767762560000,
-    "title": "Ethereum blob limit bumps up to 21, boosting network scalability",
-    "body": "Ethereum developers have raised the blob limit for a second time in recent weeks, a move that will allow more transactions to be batched via rollups, making them cheaper.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56920913,
-    "published": 1767762512000,
-    "title": "Solana (SOL) Holds Support Post-Gains, Testing Bull Conviction",
-    "body": "Solana started a fresh increase above the $135 zone. SOL price is now consolidating above $135 and might aim for more gains above the $140 zone. SOL price started a fresh upward move above the $135 and $138 levels against the US Dollar. The price is now trading above $135 and the 100-hourly simple moving average. There is a contracting triangle forming with support at $138 on the hourly chart of the SOL/USD pair (data source from Kraken). The pair could extend gains if it clears the $140 resistance zone. Solana Price Eyes Another Increase Solana price started a decent increase after it settled above the $130 zone, like Bitcoin and Ethereum . SOL climbed above the $135 level to enter a short-term positive zone. The price even smashed the $140 resistance. The bulls were able to push the price above $142. Recently, there were a couple of swing moves and the price dipped below the 50% Fib retracement level of the recent upward move from the $136 swing low to the $141 high. Solana is now trading above $138 and the 100-hourly simple moving average. Besides, there is a contracting triangle forming with support at $138 on the hourly chart of the SOL/USD pair. On the upside, the price is facing resistance near $140. The next major resistance is near the $142 level. The main resistance could be $145. A successful close above the $145 resistance zone could set the pace for another steady increase. The next key resistance is $150. Any more gains might send the price toward the $155 level. Downside Break In SOL? If SOL fails to rise above the $142 resistance, it could start another decline. Initial support on the downside is near the $138 zone, the trend line, and the 76.4% Fib retracement level of the recent upward move from the $136 swing low to the $141 high. The first major support is near the $136 level. A break below the $136 level might send the price toward the $130 support zone. If there is a close below the $130 support, the price could decline toward the $120 support in the near term. Technical Indicators Hourly MACD – The MACD for SOL/USD is losing pace in the bullish zone. Hourly Hours RSI (Relative Strength Index) – The RSI for SOL/USD is above the 50 level. Major Support Levels – $138 and $136. Major Resistance Levels – $140 and $142.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Technical analysis|Sol|Solana|solbtc|SOLUSD|SOLUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56922496,
-    "published": 1767765658000,
-    "title": "Solana Shatters Records: 2025 Annual Review Reveals New All-Time Highs In Key Metrics",
-    "body": "Solana (SOL), one of the foremost blockchains in the cryptocurrency sector, recently released its annual review for 2025, showcasing major growth across several key metrics, including daily active wallets and decentralized exchange (DEX) volume. Seven Solana Apps Break $100 Million Revenue Barrier According to the report issued on social media platform X (previously Twitter) applications built on Solana generated $2.39 billion in revenue, reflecting a year-over-year increase of 46% and marking a new all-time high (ATH). Seven standout applications in particular, including Pumpfun, each surpassed the $100 million revenue threshold in 2025. Additionally, the variety of smaller applications—those earning under $100 million—collectively produced over $500 million in revenue. Related Reading: XRP Surges Towards $2.20: Leading Monday Gains And Driving Crypto ETF Inflows The network’s performance indicators are equally impressive. Solana achieved a revenue of $1.4 billion, demonstrating a 48-fold increase over the past two years. Non-vote transactions reached a new ATH of 33 billion, with a year-over-year growth of 28%. Furthermore, the network averaged 1,054 non-vote transactions per second (TPS) while unique active wallets averaged 3.2 million daily, marking a 50% increase year-on-year. In terms of wallet growth, Solana saw 725 million new wallets. Bitcoin Trading Volume Skyrockets To $33 Billion In terms of asset management, Solana’s stablecoin supply ended the year at $14.8 billion, more than doubling year-on-year. The blockchain facilitated a colossal $11.7 trillion in stablecoin transfers, marking a sevenfold increase over two years. Notably, equities made their debut on Solana in 2025, achieving a supply of $1 billion and trading volume of $651 million. Bitcoin trading volume grew fivefold compared to the previous year, reaching $33 billion and solidifying a new ATH. The total Bitcoin supply also doubled to $770 million. Staked SOL also saw an increase, with 421 million tokens staked, representing an 8% growth and another ATH. Additionally, the introduction of Solana ETFs attracted net inflows of $1.02 billion. SOL-Stablecoin Volume Soars To $782 Billion In the realm of decentralized exchanges, the total DEX volume reached $1.5 trillion, reflecting a 57% year-over-year growth and another all-time high for the network’s annual review. The trading volume for SOL-stablecoins set a record at $782 billion, more than doubling year-over-year. Twelve DEX platforms managed to process over $10 billion in volume, with Raydium leading the way at $347 billion. Furthermore, the artificial intelligence (AI) agent volume reached a new all-time high of $31 billion, along with tokenized asset volume rising to $598 million and project token volume increasing to $86 billion. Related Reading: Bitcoin Reaches $93,000 Amid Renewed Optimism: What To Keep An Eye On This Week In the sectors of memecoins and launchpads, memecoin volume totaled $482 billion, although this represented a slight decline of 10% year-on-year. Launchpads had a successful year as well, with six platforms generating over $1 billion in volume and launchpad revenue doubling year-on-year to $762 million. Trading platforms contributed significantly to Solana’s ecosystem, earning $940 million, a 44% increase compared to the prior year. Moreover, the trading volume processed by these platforms reached $108 billion, up 66% year-on-year. https://www.tradingview.com/x/dPrTZvZ9/ At the time of writing, SOL is trading at $138.50, having recovered by 10% over the past seven days. However, it is still trading 50% below its all-time high of $293, which was reached during last year’s rally. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Solana|crypto|crypto market|crypto news|Sol|SOL news|SOL Price|Solana blockchain|Solana Ecosystem|Solana metrics|Solana network|Solana news|SOLUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56922321,
-    "published": 1767765300000,
-    "title": "4 reasons XRP has just been called the ‘hottest crypto trade’ of 2026",
-    "body": "XRP is having an explosive start to the year, driven by strong ETF inflows, bullish sentiment, and declining exchange reserves.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56922873,
-    "published": 1767766337000,
-    "title": "Ethereum Raises Data Capacity in Latest Scaling Tweak",
-    "body": "The update raises Ethereum’s data capacity, easing pressure on rollups and clarifying how the network plans to scale.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56923299,
     "published": 1767767192000,
     "title": "Trump says he’ll be impeached if Republicans lose midterms",
@@ -382,35 +66,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56923141,
-    "published": 1767766672000,
-    "title": "Wealth transfer may boost crypto adoption among younger investors: Galaxy exec",
-    "body": "An industry executive argues that generational wealth transfer could influence crypto adoption patterns over time.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
       },
       {
         "TYPE": "122",
@@ -2525,6 +2180,280 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56961072,
+    "published": 1767845295000,
+    "title": "XRP Price Gives Back Upside, Market Watches Support Closely",
+    "body": "XRP price failed to gain pace above $2.320 and trimmed gains. The price is now struggling and faces resistance near the $2.20 level. XRP price started a fresh decline below the $2.250 zone. The price is now trading below $2.250 and the 100-hourly Simple Moving Average. There was a break below a key bullish trend line with support at $2.245 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could continue to move down if it settles below $2.150. XRP Price Trims Gains XRP price failed to continue higher above $2.35 and started a fresh decline, like Bitcoin and Ethereum . The price declined below $2.320 and $2.250 to enter a short-term bearish zone. There was a break below a key bullish trend line with support at $2.245 on the hourly chart of the XRP/USD pair. The pair even spiked below $2.150. A low was formed at $2.141, and the price is now showing bearish signs below the 23.6% Fib retracement level of the downward move from the $2.416 swing high to the $2.141 low. The price is now trading below $2.250 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $2.20 level. The first major resistance is near the $2.250 level. A close above $2.250 could send the price to $2.30. The next hurdle sits at $2.320 and the 61.8% Fib retracement level of the downward move from the $2.416 swing high to the $2.141 low. A clear move above the $2.320 resistance might send the price toward the $2.350 resistance. Any more gains might send the price toward the $2.40 resistance. The next major hurdle for the bulls might be near $2.450. More Losses? If XRP fails to clear the $2.250 resistance zone, it could start a fresh decline. Initial support on the downside is near the $2.150 level. The next major support is near the $2.120 level. If there is a downside break and a close below the $2.120 level, the price might continue to decline toward $2.050. The next major support sits near the $2.00 zone, below which the price could continue lower toward $1.880. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level. Major Support Levels – $2.120 and $2.050. Major Resistance Levels – $2.20 and $2.250.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56961555,
+    "published": 1767846146000,
+    "title": "Solana Mobile to launch SKR token for Seeker phone on Jan. 21",
+    "body": "Solana Mobile will airdrop up to 20% of SKR tokens to users of its Seeker phone on Jan. 21, and introduce so-called Guardians to secure the network.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 204,
+        "NAME": "AIRDROP",
+        "CATEGORY": "AIRDROP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56961726,
+    "published": 1767846097000,
+    "title": "Ethereum bumps blob capacity as it gears for Fusaka upgrade",
+    "body": "Ethereum increased its data capacity per block, raising the blob target to 14 and the maximum blob limit to 21.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum ecosystem|Ethereum network|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56961950,
+    "published": 1767847075000,
+    "title": "Google, Character.AI Agree to Settle US Lawsuit Over Teen’s Suicide",
+    "body": "A lawsuit alleging an AI chatbot contributed to a teen’s suicide has been settled, closing a closely watched case over AI accountability.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 56962581,
+    "published": 1767848425000,
+    "title": "Did Morgan Stanley Orchestrate Bitcoin October Crash? Analysts Draw Correlations",
+    "body": "Morgan Stanley’s filing for a Bitcoin (BTC) and Solana (SOL) exchange-traded fund (ETF), coupled with MSCI’s decision to retain digital asset companies in its index, has ignited a wave of speculation among analysts. Notably, analysts from Bull Theory have alleged that these events could be indicative of a larger-scale market manipulation. Bitcoin Market Manipulation? In a post on social media platform X (formerly Twitter), the Bull Theory analysts drew attention to the timeline of events involving Bitcoin, arguing that the trajectory from its October crash to its subsequent recovery in January resembles an orchestrated setup supported by data. The first significant trigger occurred on 10 October, when MSCI — previously a division of Morgan Stanley — proposed removing Digital Asset Treasury Companies (DATCOs) from its global indexes. Related Reading: Bitcoin Accumulation Continues: Strategy Purchases 1,287 BTC Amid Rising Prices This decision would affect firms like Strategy and Metaplanet, which hold substantial Bitcoin assets on their balance sheets. The implications were profound, given that MSCI’s indexes guide trillions of dollars in passive investments. If these companies were removed, institutional investors, including pension funds and ETFs, would be compelled to divest, leading to a substantial contraction in institutional exposure to Bitcoin and an immediate tightening of liquidity. Following that announcement, Bitcoin’s price plummeted by nearly $18,000, wiping out over $900 billion from the total crypto market cap. Morgan Stanley And The MSCI Shift The uncertainty continued with a consultation period that remained open until December 31. This three-month window of prolonged anxiety effectively froze investor demand for Bitcoin. Passive investors became wary, index-linked funds faced potential forced selling, and as a result, prices saw a stark decline—with Bitcoin dropping about 31% and altcoins suffering even more, marking the worst quarter for crypto markets since 2018. However, the tide began to shift on January 1, 2026, as Bitcoin experienced an unexpected surge, rising 8% in just five days. This $7,300 increase, from $87,500 to $94,800, left many analysts puzzled, especially since the relentless selling had seemingly halted abruptly. The analysts noted that this sudden upturn could imply that insiders might have had prior knowledge of forthcoming developments. Then, the narrative shifted dramatically on January 5 and 6. In a matter of 24 hours, Morgan Stanley unveiled its plans for spot Bitcoin, Ethereum (ETH), and Solana ETFs. This was followed by MSCI announcing its decision not to proceed with the previously proposed exclusion of crypto-heavy companies from its indexes. A Calculated Move? The sequence of these events has led the analysts to present a narrative: MSCI initiated pressure by threatening index removals in October, leading to an extended period of uncertainty and suppressed prices. Related Reading: Solana Shatters Records: 2025 Annual Review Reveals New All-Time Highs In Key Metrics Once institutions had accumulated at lower prices, Morgan Stanley introduced its ETF, and MSCI subsequently removed the threat of exclusion, raising serious concerns about the possibility of coordinated efforts to manipulate market conditions. Bull Theory analysts assert that as the market now transitions back towards liquidity, the same entities that potentially orchestrated the prior downturn may be strategically positioned to profit from the rebound. At the time of writing, BTC is trading at $91,550, having retraced 2% from the $95,000 2-month high reached at the beginning of the week. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|BTCUSDT|crypto market|crypto news|cryptocurrency|Morgan Stanley|MSCI index|Strategy MSCI",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56962615,
+    "published": 1767848305000,
+    "title": "Memecoin social buzz grows as traders return to risk assets",
+    "body": "Memecoins fell 65% over 2025 as risk-taking behavior dropped among traders, but the tokens are seeing gains as positive sentiment returns to crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56964235,
+    "published": 1767851833000,
+    "title": "Solana Accelerate to open Consensus Hong Kong in February",
+    "body": "CoinDesk and the Solana Foundation said the developer event will kick off Consensus Hong Kong on Feb. 11, setting the tone for a week focused on builders, capital, and policymakers.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Consensus Hong Kong 2026|Solana News|Hong Kong|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 56964620,
+    "published": 1767852407000,
+    "title": "Morgan Stanley’s Bitcoin ETF has ‘intangible benefit’ outside of flows: Exec",
+    "body": "Morgan Stanley has an “intangible benefit” up its sleeve even if its spot Bitcoin ETF isn’t a huge success, says ProCap investment chief Jeff Park.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
