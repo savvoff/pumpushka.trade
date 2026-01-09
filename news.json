@@ -1,348 +1,5 @@
 [
   {
-    "id": 56975788,
-    "published": 1767876380000,
-    "title": "BNB falls below $885 as broader market pulls back and treasury tensions emerge",
-    "body": "The token's performance is likely impacted by a civil war within a major BNB treasury firm, where a shareholder is challenging the company's leadership.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|AI Market Insights|BNB|Technical Analysis",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56976279,
-    "published": 1767877218000,
-    "title": "Zcash Plunges Double Digits After ECC Team ‘Constructively Discharged’",
-    "body": "In a statement, the board said that the disagreements stemmed from recent proposals to privatize the Zashi mobile wallet.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "zcash|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      }
-    ]
-  },
-  {
-    "id": 56976786,
-    "published": 1767878380000,
-    "title": "Crypto Liquidations Top $477M as Bitcoin Slips Below $90K",
-    "body": "Bitcoin’s dip below $90,000 has triggered a liquidation spree as bullish momentum fades amid ETF outflows and thin liquidity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|bonk||pepe||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56977889,
-    "published": 1767880800000,
-    "title": "Tokenized Brazilian credit card debt offers 13% yield through BlackOpal's GemStone platform",
-    "body": "The initiative leverages the Plume Network to tokenize credit card receivables, while giving merchants immediate access to cash.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Brazil|Markets|Tokenization|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 56977892,
-    "published": 1767880800000,
-    "title": "Stand With Crypto advocacy group sees nearly 700,000 new members ahead of 2026 election",
-    "body": "The organization established by Coinbase to mobilize crypto enthusiasts has built up a 2.6-million-member base across 50 state chapters as U.S. elections loom.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Stand With Crypto|crypto legislation|U.S. Political Elections|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56977887,
-    "published": 1767880757000,
-    "title": "Digital assets to move from speculation to infrastructure in 2026, B. Riley says",
-    "body": "Regulatory clarity, tokenization and bank adoption will push crypto firms from balance-sheet accumulation toward real operations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Digital Asset Treasury|Bitmine|B. Riley|Analysts|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 56977769,
-    "published": 1767880377000,
-    "title": "China’s interest-bearing digital yuan piles pressure on US stablecoin rules",
-    "body": "China’s move to pay interest on the digital yuan is colliding with the GENIUS Act’s ban on stablecoin yield, intensifying questions over whether US digital dollars can stay competitive.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 56979002,
-    "published": 1767883079000,
-    "title": "Zcash backer Bootstrap says split due to clash over nonprofit rules, Zashi future",
-    "body": "Zcash’s nonprofit backer Bootstrap said governance tensions stem from nonprofit limits on outside investment, following a split with Electric Coin Company.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      }
-    ]
-  },
-  {
-    "id": 56979457,
-    "published": 1767883844000,
-    "title": "Polymarket user who won $400K on Maduro ouster bet quietly disappears",
-    "body": "The Polymarket account that profited on Nicholas Maduro's capture and ouster as president is inaccessible, adding to concerns over insider trading allegations on prediction markets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 56980003,
-    "published": 1767885300000,
-    "title": "Optimism proposes OP token buybacks using 50% of superchain revenue",
-    "body": "Under the proposal, which is set to move to a governance vote on January 22, Optimism would begin monthly buybacks starting in February.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Optimism|Optimism foundation|Token Governance|Ethereum News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 92,
-        "NAME": "OP",
-        "CATEGORY": "OP"
-      }
-    ]
-  },
-  {
-    "id": 56979894,
-    "published": 1767885060000,
-    "title": "JPMorgan says the crypto selloff may be nearing a bottom as ETF outflows ease",
-    "body": "Flow and positioning data suggest the recent crypto market correction may be running out of steam, with early signs of stabilization across ETFs and derivatives.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Ether|ETFs|JPMorgan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 56980442,
     "published": 1767885992000,
     "title": "Bitcoin trader maintains $76K BTC price target as 2026 comeback fizzles",
@@ -2488,6 +2145,315 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57011059,
+    "published": 1767962266000,
+    "title": "Visa-linked stablecoin platform Rain raises $250M at $1.95B valuation",
+    "body": "The raise values Rain at $1.95 billion after a 30-fold card growth in 2025 as the Visa-linked platform plans expansion across multiple continents.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57010975,
+    "published": 1767961800000,
+    "title": "The 24/7 global stock market is impossible on today’s blockchain",
+    "body": "Current blockchain infrastructure has inadequate throughput and systematic front-running. Real-world finance demands sub-second finality and fair transaction ordering.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57011490,
+    "published": 1767963642000,
+    "title": "Cathie Wood: Trump May Buy Bitcoin For US Reserve Ahead Of Midterms",
+    "body": "Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments. Speaking on ARK’s “Bitcoin Brainstorm” podcast in an episode dated Jan. 08, Wood framed government buying as a potential inflection point at a time when she believes institutional participation remains “just beginning” and bitcoin’s supply dynamics are getting harder to ignore. “We have seen very little institutional buy-in, it is just beginning,” Wood said. “And I think if we get the US, for example, not adding just confiscated bitcoin to a strategic reserve but, you know, out there buying, and we don’t know if that’s going to be the case. But if they were to do so, I have a feeling that would set off what we’re all waiting for, which is, you know, the scarcity value to reassert itself again now that we’re near 20 million bitcoin outstanding and we only have one more million to go.” Related Reading: Bitcoin Emerges As A Hedge Amid Rising Global Geopolitical Tensions In the discussion, Wood suggested the administration’s posture so far has effectively been limited to confiscated holdings. She contrasted that with what she described as an earlier ambition for scale, noting “the original intent was to own a million bitcoin,” before adding her view that a pivot toward purchases is plausible. Midterms Could Drive US Bitcoin Reserve Buys Wood linked that possibility to political incentives heading into the 2026 US midterm elections, describing Trump as motivated to keep momentum and avoid being politically sidelined. “President Trump does not want to be a lame duck,” she said. “So I have a feeling that he is going to work with his crypto and AI czar to do a few things… [and] it seems as though there’s been reticence about actually buying bitcoin for the strategic reserve. So far, so far it’s confiscated… So I actually think they will start buying.” Related Reading: Bitcoin Indicator With 84% Hit Rate Flashes Again: Is A Price Rally Next? Wood also pointed to what she sees as aligned constituencies around the president, arguing he has “all kinds of reasons” to lean into crypto while emphasizing that the political calculus matters because of the midterm timeline. When the conversation turned to how such purchases could be executed, Wood echoed the idea that any reserve strategy would need to be budget-neutral. She didn’t outline a mechanism, but treated the constraint as a key gating factor for feasibility. Wood argued that explicit US buying would not just be a domestic market event. Iit could force other capitals to revisit reserve policy. “Something that’s really important… we thought that countries would adopt it much earlier than they have,” she said. “I think if the US actually says, ‘Okay, now we’re going to buy,’ that’s going to spur a lot of other governments to think this thing through. Do they want to be hostage to the dollar…? And you know, no, they don’t. So put some bitcoin in your reserves.” If that dynamic accelerates, Wood warned emerging-market currencies could face renewed pressure, describing a scenario where reserve diversification toward bitcoin reshapes volatility across weaker fiat regimes, a downstream effect, she suggested, of Washington making the first overt move from holding seized BTC to competing in the open market. At press time, BTC traded at $90,578. Featured image from YouTube, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|Cathie Wood|Donald Trump|Strategic Bitcoin Reserve",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57011510,
+    "published": 1767963569000,
+    "title": "Sharplink pockets $33M from Ether staking, deploys another $170M ETH",
+    "body": "Corporate crypto treasuries are increasingly turning to ether staking, as firms like SharpLink generate recurring yield from onchain operations.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57010745,
+    "published": 1767961360000,
+    "title": "The hidden risk of public WiFi: How a single approval wiped a crypto wallet",
+    "body": "A crypto user who lost $5,000 from a hot wallet after a stay at a hotel said the real culprits were open WiFi, a casual lobby phone call and one careless wallet approval.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57012021,
+    "published": 1767965034000,
+    "title": "Ripple scores UK regulatory approval via local subsidiary",
+    "body": "Ripple’s UK subsidiary gained regulatory approval as an Electronic Money Institution to provide payment services, but faces limits on certain crypto activities.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57013403,
+    "published": 1767969021000,
+    "title": "Wall Street Analyst Is Still Bullish On Bitcoin, Predicts Price Recovery",
+    "body": "As the market remains divided on Bitcoin’s (BTC) near-term direction, one Wall Street analyst is standing firm in his bullish outlook. He predicts that Bitcoin could soon enter a price discovery, underscoring its value beyond being a payment currency to a market leader and one of the best-performing assets that could eventually reach gold’s market capitalization. Analyst Stays Bullish On Bitcoin Despite Price Instability In a recent interview with CNBC, William Blair’s fintech equity analyst Andrew Jeffrey said recent price swings do not change his long-term conviction in Bitcoin’s recovery and future value. CNBC opened the discussion by pointing out that crypto started the year on a stronger note than Q4 2025, rising about 5% before giving back more than 2% after a sharp rally. Related Reading: Analyst Predicts Strongest XRP Price Rally In History Is Coming, Here’s Why When asked what was happening beneath the surface of Bitcoin’s latest moves, Jeffrey said its behavior reflects the nature of an immature asset. He explained that BTC has a market capitalization of more than $1.9 trillion. Yet, roughly one-third of the total supply is controlled by a small group of wallets, roughly estimated at 2 million. The Wall Street analyst stated that this supply concentration creates instability, especially during periods of market stress. He added that recent buyers, particularly retail investors entering through ETFs, tend to have weaker conviction and are more likely to sell during downturns. According to Jeffrey, these sell-offs can feed on themselves, leading to sharper declines. He said the current environment is broadly risk off, but emphasized that he sees this phase as temporary. The Wall Street analyst also highlighted his belief that Bitcoin will increasingly be viewed as a store of value. He stated that BTC could eventually challenge gold’s role in that category and move closer to the precious metal’s market cap, which is currently about 15x larger than Bitcoin’s today. While optimistic about Bitcoin’s outlook, Jeffrey made it clear that he does not see it becoming a dominant payment tool. Instead, he stated that stablecoins like Circle’s USDC are more suited for transactions. The analyst emphasized that price discovery is still underway and that BTC’s long-term potential remains intact despite recent market turbulence. Bitcoin Still Needs To Lead For Crypto To Rise In the interview, Jeffrey spoke with CNBC about fading excitement around Bitcoin as newer crypto stories attract attention. CNBC raised concerns that BTC feels like old news as prices hover and interest shifts towards more interesting news surrounding companies like Ripple. Related Reading: XRP Mirrors Gold’s Trajectory: What A Similar ATH Rally Would Mean Jeffrey replied that Bitcoin’s short-term price action is driven by investor psychology, while its long-term performance tells a different story. He highlighted that Bitcoin has been the best-performing asset in the world over the past decade and said investors need to maintain that perspective. CNBC also questioned whether crypto growth could now occur without Bitcoin leading the way. The Wall Street analyst responded that it would be very hard for the crypto market to see sustained gains without BTC at the forefront. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57014291,
+    "published": 1767971484000,
+    "title": "Altcoins Defy Bitcoin Slump as XRP, Solana Notch Double-Digit Gains",
+    "body": "Experts note altcoins’ superior performance compared to Bitcoin is driven by ETF narratives and markets awaiting key U.S. economic data.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57014160,
+    "published": 1767970974000,
+    "title": "Tether said to have invested up to $50 million in crypto lender Ledn at $500 million valuation",
+    "body": "The stablecoin issuer’s previously undisclosed investment valued the lender at about $500 million, according to a person familiar with the transaction.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Ledn|Tether|mergers and acquisitions|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
       {
         "TYPE": "122",
         "ID": 211,
