@@ -1,261 +1,5 @@
 [
   {
-    "id": 57010752,
-    "published": 1767961582000,
-    "title": "Ripple wins UK regulatory approval from Financial Conduct Authority",
-    "body": "Ripple has gained FCA registration through its U.K. subsidiary, marking a key regulatory milestone as Britain moves to bring crypto into its financial framework.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Ripple|UK|FCA|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57011059,
-    "published": 1767962266000,
-    "title": "Visa-linked stablecoin platform Rain raises $250M at $1.95B valuation",
-    "body": "The raise values Rain at $1.95 billion after a 30-fold card growth in 2025 as the Visa-linked platform plans expansion across multiple continents.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57010975,
-    "published": 1767961800000,
-    "title": "The 24/7 global stock market is impossible on today’s blockchain",
-    "body": "Current blockchain infrastructure has inadequate throughput and systematic front-running. Real-world finance demands sub-second finality and fair transaction ordering.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57011490,
-    "published": 1767963642000,
-    "title": "Cathie Wood: Trump May Buy Bitcoin For US Reserve Ahead Of Midterms",
-    "body": "Cathie Wood, ARK Invest’s founder and CEO, said she expects the Trump administration could move beyond simply holding seized bitcoin and begin purchasing BTC to build a US strategic reserve, a shift she argued could become a catalytic signal for markets and other governments. Speaking on ARK’s “Bitcoin Brainstorm” podcast in an episode dated Jan. 08, Wood framed government buying as a potential inflection point at a time when she believes institutional participation remains “just beginning” and bitcoin’s supply dynamics are getting harder to ignore. “We have seen very little institutional buy-in, it is just beginning,” Wood said. “And I think if we get the US, for example, not adding just confiscated bitcoin to a strategic reserve but, you know, out there buying, and we don’t know if that’s going to be the case. But if they were to do so, I have a feeling that would set off what we’re all waiting for, which is, you know, the scarcity value to reassert itself again now that we’re near 20 million bitcoin outstanding and we only have one more million to go.” Related Reading: Bitcoin Emerges As A Hedge Amid Rising Global Geopolitical Tensions In the discussion, Wood suggested the administration’s posture so far has effectively been limited to confiscated holdings. She contrasted that with what she described as an earlier ambition for scale, noting “the original intent was to own a million bitcoin,” before adding her view that a pivot toward purchases is plausible. Midterms Could Drive US Bitcoin Reserve Buys Wood linked that possibility to political incentives heading into the 2026 US midterm elections, describing Trump as motivated to keep momentum and avoid being politically sidelined. “President Trump does not want to be a lame duck,” she said. “So I have a feeling that he is going to work with his crypto and AI czar to do a few things… [and] it seems as though there’s been reticence about actually buying bitcoin for the strategic reserve. So far, so far it’s confiscated… So I actually think they will start buying.” Related Reading: Bitcoin Indicator With 84% Hit Rate Flashes Again: Is A Price Rally Next? Wood also pointed to what she sees as aligned constituencies around the president, arguing he has “all kinds of reasons” to lean into crypto while emphasizing that the political calculus matters because of the midterm timeline. When the conversation turned to how such purchases could be executed, Wood echoed the idea that any reserve strategy would need to be budget-neutral. She didn’t outline a mechanism, but treated the constraint as a key gating factor for feasibility. Wood argued that explicit US buying would not just be a domestic market event. Iit could force other capitals to revisit reserve policy. “Something that’s really important… we thought that countries would adopt it much earlier than they have,” she said. “I think if the US actually says, ‘Okay, now we’re going to buy,’ that’s going to spur a lot of other governments to think this thing through. Do they want to be hostage to the dollar…? And you know, no, they don’t. So put some bitcoin in your reserves.” If that dynamic accelerates, Wood warned emerging-market currencies could face renewed pressure, describing a scenario where reserve diversification toward bitcoin reshapes volatility across weaker fiat regimes, a downstream effect, she suggested, of Washington making the first overt move from holding seized BTC to competing in the open market. At press time, BTC traded at $90,578. Featured image from YouTube, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|Cathie Wood|Donald Trump|Strategic Bitcoin Reserve",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57011510,
-    "published": 1767963569000,
-    "title": "Sharplink pockets $33M from Ether staking, deploys another $170M ETH",
-    "body": "Corporate crypto treasuries are increasingly turning to ether staking, as firms like SharpLink generate recurring yield from onchain operations.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57010745,
-    "published": 1767961360000,
-    "title": "The hidden risk of public WiFi: How a single approval wiped a crypto wallet",
-    "body": "A crypto user who lost $5,000 from a hot wallet after a stay at a hotel said the real culprits were open WiFi, a casual lobby phone call and one careless wallet approval.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57012021,
-    "published": 1767965034000,
-    "title": "Ripple scores UK regulatory approval via local subsidiary",
-    "body": "Ripple’s UK subsidiary gained regulatory approval as an Electronic Money Institution to provide payment services, but faces limits on certain crypto activities.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57013403,
-    "published": 1767969021000,
-    "title": "Wall Street Analyst Is Still Bullish On Bitcoin, Predicts Price Recovery",
-    "body": "As the market remains divided on Bitcoin’s (BTC) near-term direction, one Wall Street analyst is standing firm in his bullish outlook. He predicts that Bitcoin could soon enter a price discovery, underscoring its value beyond being a payment currency to a market leader and one of the best-performing assets that could eventually reach gold’s market capitalization. Analyst Stays Bullish On Bitcoin Despite Price Instability In a recent interview with CNBC, William Blair’s fintech equity analyst Andrew Jeffrey said recent price swings do not change his long-term conviction in Bitcoin’s recovery and future value. CNBC opened the discussion by pointing out that crypto started the year on a stronger note than Q4 2025, rising about 5% before giving back more than 2% after a sharp rally. Related Reading: Analyst Predicts Strongest XRP Price Rally In History Is Coming, Here’s Why When asked what was happening beneath the surface of Bitcoin’s latest moves, Jeffrey said its behavior reflects the nature of an immature asset. He explained that BTC has a market capitalization of more than $1.9 trillion. Yet, roughly one-third of the total supply is controlled by a small group of wallets, roughly estimated at 2 million. The Wall Street analyst stated that this supply concentration creates instability, especially during periods of market stress. He added that recent buyers, particularly retail investors entering through ETFs, tend to have weaker conviction and are more likely to sell during downturns. According to Jeffrey, these sell-offs can feed on themselves, leading to sharper declines. He said the current environment is broadly risk off, but emphasized that he sees this phase as temporary. The Wall Street analyst also highlighted his belief that Bitcoin will increasingly be viewed as a store of value. He stated that BTC could eventually challenge gold’s role in that category and move closer to the precious metal’s market cap, which is currently about 15x larger than Bitcoin’s today. While optimistic about Bitcoin’s outlook, Jeffrey made it clear that he does not see it becoming a dominant payment tool. Instead, he stated that stablecoins like Circle’s USDC are more suited for transactions. The analyst emphasized that price discovery is still underway and that BTC’s long-term potential remains intact despite recent market turbulence. Bitcoin Still Needs To Lead For Crypto To Rise In the interview, Jeffrey spoke with CNBC about fading excitement around Bitcoin as newer crypto stories attract attention. CNBC raised concerns that BTC feels like old news as prices hover and interest shifts towards more interesting news surrounding companies like Ripple. Related Reading: XRP Mirrors Gold’s Trajectory: What A Similar ATH Rally Would Mean Jeffrey replied that Bitcoin’s short-term price action is driven by investor psychology, while its long-term performance tells a different story. He highlighted that Bitcoin has been the best-performing asset in the world over the past decade and said investors need to maintain that perspective. CNBC also questioned whether crypto growth could now occur without Bitcoin leading the way. The Wall Street analyst responded that it would be very hard for the crypto market to see sustained gains without BTC at the forefront. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57014291,
     "published": 1767971484000,
     "title": "Altcoins Defy Bitcoin Slump as XRP, Solana Notch Double-Digit Gains",
@@ -293,35 +37,6 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57014160,
-    "published": 1767970974000,
-    "title": "Tether said to have invested up to $50 million in crypto lender Ledn at $500 million valuation",
-    "body": "The stablecoin issuer’s previously undisclosed investment valued the lender at about $500 million, according to a person familiar with the transaction.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Ledn|Tether|mergers and acquisitions|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
@@ -398,47 +113,6 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57011641,
-    "published": 1767964167000,
-    "title": "Bitcoin may be gearing up for a rally that sent price to $126,000 last year",
-    "body": "The current tight consolidation closely mirrors the April 2025 range that set the stage for the record run above $126,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -1513,6 +1187,105 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57039947,
+    "published": 1768048959000,
+    "title": "Betterment urges users to ignore ‘unauthorized’ crypto promotion message",
+    "body": "The message claimed Betterment would “triple” Bitcoin and Ether deposits sent within hours, urging users to transfer $10,000 to crypto wallets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57041256,
+    "published": 1768053627000,
+    "title": "Bitcoin Price Hits Crash Line, But This Time Is Not Random",
+    "body": "According to a new technical analysis, the Bitcoin price has returned to its “Crash Line,” fueling talk of a possible bullish turnaround. The expert behind this analysis has suggested that this is not a random event, but a deliberate move that could signal the beginning of Bitcoin’s next upward move. Bitcoin Price Revisits Familiar Crash Line In a recent post on X, market analyst Crypto Tice announced that Bitcoin has just hit the Crash Line, a level that has repeatedly acted as a critical reload point during the current bull cycle. The analyst indicated that this trendline has historically led to strong price rallies for BTC. He observed that throughout the bull market, Bitcoin has consistently followed the same sequence each time the price returns to the Crash Line. Related Reading: Crypto Market Watches As Clarity Act Enters Senate Debate Next Week: US Senator The process begins with momentum overheating, meaning buyers push prices up too quickly, creating unsustainable upward pressure. As this momentum builds, excessive leverage accumulates in the market, followed by a sharp correction. This price decline often brings Bitcoin back to the Crash Line. From this point, BTC usually starts gearing up for its next expansion phase. Crypto Tice shared a weekly chart illustrating this pattern. Each time Bitcoin approached the Crash Line, its price corrected by about 33.10% and 30.97% before quickly surging higher. Now that Bitcoin has returned to the Crash Line after a recent 33.38% drop, the analyst suggested it could follow the same historical trend and launch a major rally. Crypto Tice also noted that the Crash Line has consistently marked leverage flushes, selling-pressure exhaustion, and trend continuation zones for Bitcoin. Rather than signaling structural weakness, the analyst said this trendline has acted as a transition point. He noted that if the broader structure remains intact, the Crash Line could mark the area where Bitcoin’s upside reloads. Analyst Predicts Next Possible Moves For Bitcoin In a separate X post, market expert Crypto King said that Bitcoin is currently “stuck in a no trading zone,” meaning that the market still lacks a clear direction despite its recent rebound above $90,000. The analyst added that BTC’s liquidity and market participation are drying up, particularly as price moves sideways and the risk of getting caught in false moves increases. As a result, Crypto King has outlined two possible scenarios for Bitcoin. If the cryptocurrency can push above $92,000 and hold that level, he expects it to flip from resistance into support. Related Reading: Bitcoin’s Next Peak Might Ignite ADA’s Rally, Says Cardano Creator On the other hand, if price fails to reclaim $92,000, the analyst predicts Bitcoin could decline again, this time testing the Chicago Mercantile Exchange (CME) gap at $88,000. The analyst has highlighted two potential demand zones on the chart: one around the CME gap and another extending lower between $60,000 and $50,000. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|BTC news|btc price|btcusd|crypto|crypto market|crypto news|cryptocurrency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57042044,
+    "published": 1768057200000,
+    "title": "Institutions know a “good” exchange is built for failure",
+    "body": "A platform's onboarding polish should not be confused for its ability to execute trades and handle immense volumes, argues Bridgeport co-founder and CCO Chris Soriano.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       }
     ]
   }
