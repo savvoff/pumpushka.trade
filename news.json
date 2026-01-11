@@ -1,104 +1,5 @@
 [
   {
-    "id": 57039947,
-    "published": 1768048959000,
-    "title": "Betterment urges users to ignore ‘unauthorized’ crypto promotion message",
-    "body": "The message claimed Betterment would “triple” Bitcoin and Ether deposits sent within hours, urging users to transfer $10,000 to crypto wallets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57041256,
-    "published": 1768053627000,
-    "title": "Bitcoin Price Hits Crash Line, But This Time Is Not Random",
-    "body": "According to a new technical analysis, the Bitcoin price has returned to its “Crash Line,” fueling talk of a possible bullish turnaround. The expert behind this analysis has suggested that this is not a random event, but a deliberate move that could signal the beginning of Bitcoin’s next upward move. Bitcoin Price Revisits Familiar Crash Line In a recent post on X, market analyst Crypto Tice announced that Bitcoin has just hit the Crash Line, a level that has repeatedly acted as a critical reload point during the current bull cycle. The analyst indicated that this trendline has historically led to strong price rallies for BTC. He observed that throughout the bull market, Bitcoin has consistently followed the same sequence each time the price returns to the Crash Line. Related Reading: Crypto Market Watches As Clarity Act Enters Senate Debate Next Week: US Senator The process begins with momentum overheating, meaning buyers push prices up too quickly, creating unsustainable upward pressure. As this momentum builds, excessive leverage accumulates in the market, followed by a sharp correction. This price decline often brings Bitcoin back to the Crash Line. From this point, BTC usually starts gearing up for its next expansion phase. Crypto Tice shared a weekly chart illustrating this pattern. Each time Bitcoin approached the Crash Line, its price corrected by about 33.10% and 30.97% before quickly surging higher. Now that Bitcoin has returned to the Crash Line after a recent 33.38% drop, the analyst suggested it could follow the same historical trend and launch a major rally. Crypto Tice also noted that the Crash Line has consistently marked leverage flushes, selling-pressure exhaustion, and trend continuation zones for Bitcoin. Rather than signaling structural weakness, the analyst said this trendline has acted as a transition point. He noted that if the broader structure remains intact, the Crash Line could mark the area where Bitcoin’s upside reloads. Analyst Predicts Next Possible Moves For Bitcoin In a separate X post, market expert Crypto King said that Bitcoin is currently “stuck in a no trading zone,” meaning that the market still lacks a clear direction despite its recent rebound above $90,000. The analyst added that BTC’s liquidity and market participation are drying up, particularly as price moves sideways and the risk of getting caught in false moves increases. As a result, Crypto King has outlined two possible scenarios for Bitcoin. If the cryptocurrency can push above $92,000 and hold that level, he expects it to flip from resistance into support. Related Reading: Bitcoin’s Next Peak Might Ignite ADA’s Rally, Says Cardano Creator On the other hand, if price fails to reclaim $92,000, the analyst predicts Bitcoin could decline again, this time testing the Chicago Mercantile Exchange (CME) gap at $88,000. The analyst has highlighted two potential demand zones on the chart: one around the CME gap and another extending lower between $60,000 and $50,000. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|BTC news|btc price|btcusd|crypto|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57042044,
-    "published": 1768057200000,
-    "title": "Institutions know a “good” exchange is built for failure",
-    "body": "A platform's onboarding polish should not be confused for its ability to execute trades and handle immense volumes, argues Bridgeport co-founder and CCO Chris Soriano.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      }
-    ]
-  },
-  {
     "id": 57042641,
     "published": 1768059114000,
     "title": "Brazilian exchange Mercado Bitcoin outlines 6 crypto trends shaping markets in 2026",
@@ -462,6 +363,117 @@
         "ID": 24,
         "NAME": "ETH",
         "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57069222,
+    "published": 1768136400000,
+    "title": "Ethereum’s future hinges on zero-knowledge proofs, EF director says",
+    "body": "In a recent interview with CoinDesk, Ethereum Foundation co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap, pointing to “many amazing breakthroughs” in the past one to two years.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Ethereum News|Zero-Knowledge Proofs|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57069622,
+    "published": 1768137631000,
+    "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
+    "body": "The Ethereum co-founder argues that price benchmarks, oracle security and staking incentives remain unresolved challenges for decentralized stablecoins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Tech|Stablecoins|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57071623,
+    "published": 1768143634000,
+    "title": "Bitcoin Price Compresses Below $94K, But Possible Repeat Of 2025 Breakout Looms",
+    "body": "After retreating from late-2025 highs, Bitcoin has spent much of recent trading days fluctuating between the mid-$80,000s and low-$90,000s, with buyers consistently stepping in on dips and sellers defending the same resistance level. Interestingly, this technical setup resembles the structure Bitcoin formed before its last major rally that eventually pushed it to its price peak above $126,000. Related Reading: Crypto Market Watches As Clarity Act Enters Senate Debate Next Week: US Senator Bitcoin Revisits A Familiar Consolidation Structure A closer look at BTC price action on the daily candlestick timeframe chart shows that the leading cryptocurrency is tracing a pattern that looks very similar to what played out between March and May 2025. In that earlier phase, Bitcoin spent weeks trading between roughly $76,000 and $86,000, repeatedly failing to break higher and giving the impression of stagnation. During that time, the Bitcoin price held above support levels and continued to print lower lows within the range and gave the impression of a lack of immediate upside. That consolidation ultimately proved to be a base. Once Bitcoin broke above the upper boundary of that range at $86,000, the sentiment changed very quickly and created the stage for a strong upside move that eventually led to Bitcoin. The current structure shows the same characteristics, only at a higher altitude. This time, Bitcoin is ranging between approximately $84,000 and $94,000, with price compressing in a similar way to early 2025. Bitcoin Price Chart. Source: @aganstwallst On X Why Bitcoin Might Push To New ATHs The $94,000 level has become the primary area determining Bitcoin’s current upward price action. Bitcoin’s price action tested this zone during an early January rally, briefly pushing toward $94,500 on January 5 before facing rejection and dropping back into correction. That rejection is now in the past, and the next priority is what Bitcoin might do once it finally secures a decisive break above this resistance. The previous performance is a good reference point for what could follow a confirmed breakout. After Bitcoin cleared $86,000 during the prior consolidation last year, it pushed up for many months, eventually reaching a peak price of around $126,080. That move represented a gain of about 46% from the breakout level. No two price movements can play out in exactly the same way, but the similarities between the current setup and last year’s structure suggest that Bitcoin may once again be building energy below resistance. Related Reading: Bitcoin’s Next Peak Might Ignite ADA’s Rally, Says Cardano Creator If Bitcoin delivers a comparable expansion after breaking above $94,000, the projected upside targets would extend a little above $126,000 and lead to the creation of a new all-time high. Applying the same percentage move from $94,000 points to a potential advance to as high as $138,000. Featured image from Pexels, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|btc|btcusd|crypto|crypto market|crypto news|cryptocurrency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
