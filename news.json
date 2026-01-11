@@ -1,57 +1,5 @@
 [
   {
-    "id": 57048702,
-    "published": 1768075560000,
-    "title": "Starknet publishes post-mortem report after temporary network outage",
-    "body": "The outage was the second major network disruption in 2025, with both incidents requiring a block reorganization that rolled back some activity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57049172,
-    "published": 1768076908000,
-    "title": "3 Crypto Payments Trends For Investors To Watch",
-    "body": "2026 is set to be the year that crypto payments go mainstream",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57052277,
     "published": 1768086045000,
     "title": "Analyst Outlines The Bull Case For XRP And Why Price Will Hit All-Time High Soon",
@@ -410,6 +358,135 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57076746,
+    "published": 1768158004000,
+    "title": "XRP Ledger May Get A Tokenized Gold Upgrade, Web3 Founder Reveals",
+    "body": "Tokenized gold is getting fresh attention in the XRP community, and some voices are saying the technology is ready. According to posts from XRPL developers and industry figures, the ledger can support 24/7 access, quick transfers, and integration with automated market makers. Related Reading: Bitcoin’s Next Peak Might Ignite ADA’s Rally, Says Cardano Creator Meld Gold is cited as a concrete step: reports have disclosed that Meld partnered with Ripple in June 2024 and launched gold and silver tokens in Q3 2024, with each token backed by one gram of physical metal held by trusted providers. That move put an actual product on the ledger instead of just talk. Tokenized Metals Moving Toward XRPL Advocates argue that having on-ledger tokens backed by real metal changes the use case for XRP and the XRPL. Phil Kwok, co-founder of Web3 technology company and education platform EasyA, told followers that “tokenized gold is coming to the XRPL,” and validators like Vet pointed out the technical fit. absolutely. tokenised gold is coming to the xrp ledger. and it’s going to be epic. https://t.co/wSPobxHD2W — Phil Kwok | EasyA (@kwok_phil) January 9, 2026 Vet highlighted features such as constant availability and links to DeFi tools, and raised the question of why broad adoption has not happened yet. Some future features, including lending and escrow, were mentioned as ways to make tokenized metals more useful. Market Demand And The Incentive Gap Demand already exists in other corners of crypto. Reports note Paxos and Tether manage billions of dollars’ worth of tokenized metals, showing investor interest is real. Still, execution matters. Pano Mekras of Anodos Finance told the discussion that incentives are likely the missing piece; large firms may be reluctant to launch products on the XRPL unless there are clear economic reasons to do so. Attracting high-volume projects may require active outreach and stronger on-ledger incentives. Market Reaction And Price Action Based on reports, XRP’s price moved above $2 early in January 2026 and touched around $2.41 during a broader crypto upswing. The token later settled near $2 as traders digested gains. A pullback of roughly 14% has been reported since the highs, and trading has shown both inflows from institutions and bouts of profit-taking. There is no clear proof that tokenized metals have driven these swings, however; market moves are being tracked separately from on-ledger product launches. What This Means For The XRPL If more tokenized metal products arrive, the XRPL could find new uses beyond payments. Trading and settlement for gold and silver tokens would add transaction volume and could open room for new DeFi tools built around those tokens. Related Reading: Crypto Market Watches As Clarity Act Enters Senate Debate Next Week: US Senator Adoption will depend on custody arrangements, audit practices, and regulatory clarity, areas observers say still need work. Economic incentives, as Mekras warned, will play a key role in whether major issuers come onboard. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|Meld Gold|Precious Metals|Ripple|xrp|XRPL. Tokenized gold|yellow metal",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57077541,
+    "published": 1768160131000,
+    "title": "India tightens KYC requirements for crypto user onboarding",
+    "body": "Tax and other regulatory agencies in India claim that cryptocurrencies and permissionless blockchain tech undermine tax collection.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57079145,
+    "published": 1768165204000,
+    "title": "Bitcoin Price Remains Below 50-Week Moving Average — What This Means",
+    "body": "The Bitcoin price has slowed down after a relatively hot start to the year, as it appears that not much has structurally changed for the market leader. A crypto analyst recently revealed that the premier cryptocurrency continues to trade beneath a critical price threshold. Why The Present Scenario Raises Caution Among Investors In a January 10 post on social media platform X, analyst Ali Martinez shared that the Bitcoin price has continued to trade underneath its 50-week Simple Moving Average (SMA). This not-so-optimistic trend, according to the crypto pundit, has been ongoing for the past nine weeks. Related Reading: Bitcoin Maintains Mid-$90k Levels: Possible Price Targets — Analyst For context, the 50-week SMA is a long-term technical indicator that calculates, on average, the closing price of an asset — in this case, Bitcoin — over the past 50 weeks. This indicator is particularly useful in establishing points of dynamic support and resistance during differing market cycles. For example, it functions as support during bull markets and acts as resistance in bear markets. When Bitcoin trades above the 50W SMA, it is often a sign that the market is in a strong uptrend. Contrarily, when the Bitcoin price trades beneath this dynamic resistance level for an extended period, it indicates that upside momentum is weakening and that major corrections might soon ensue. Interestingly, historical data is the source of this observation. From the chart shared below, there are recurrent periods where the Bitcoin price stayed consistently below the 50W SMA. In those past cycles, these periods of prolonged deviation beneath the 50W SMA preceded major pullbacks for BTC, which often ranged between 50% to 70%. Notably, the pullbacks seen did not end Bitcoin’s long-term uptrend. Rather — as is typical of corrections — they likely served as reset phases, where excessive leverage was wiped out of the market in preparation for the next long-term continuations. As a result, concerns have been raised among Bitcoin market participants, considering the similarity of the current setup to past ones. If history were to repeat itself here, the Bitcoin price could see a pullback by at least 50%, with the price falling to levels as low as $50,000. Bitcoin Price Outlook On a more positive note, the Bitcoin price still has a chance to escape the snares of its historical woes. For this to happen, the world’s leading cryptocurrency would have to reclaim the 50-week moving average and hold above it for prolonged periods. As of press time, the price of Bitcoin stands at around $90,352, reflecting no movement in the past day. Related Reading: Bitcoin’s Next Peak Might Ignite ADA’s Rally, Says Cardano Creator Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|50-week moving average|bitcoin|Bitcoin news|bitcoin price|btc|btc price|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
