@@ -1,75 +1,5 @@
 [
   {
-    "id": 57072838,
-    "published": 1768146923000,
-    "title": "Walmart and Google bet on AI agents to reshape how people shop online",
-    "body": "The retail giant said a new Gemini integration reflects a broader shift from search-based shopping to AI systems that can act on a customer’s behalf.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|AI|Google|Walmart|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57074255,
-    "published": 1768150826000,
-    "title": "Spot XRP ETFs Hit Record Trading Volume In Past Week — Details",
-    "body": "The launch of the spot XRP ETFs (exchange-traded funds) in the United States was one of the rare success stories of 2025’s final quarter. The crypto-linked products have helped ensure significant capital influx into the altcoin in recent months. While the XRP ETFs recorded their first negative outflow day in the past week, the exchange-traded funds also reached a new record in terms of the total value traded in a single week. This milestone reflects the growing maturity of the XRP ETF market in the US. XRP Funds Post $219M Trading Volume In Past Week According to the latest market data, the spot XRP ETFs posted their highest weekly trading volume since debut at $219 million. This figure is almost double the value traded in the XRP ETF market in the previous week ($117.4 million). Related Reading: Analyst Outlines The Bull Case For XRP And Why Price Will Hit All-Time High Soon Meanwhile, this new record merely surpasses the previous record of $213.9 million reached in the third week of December 2025. This feat signals the rising investor demand for the XRP exchange-traded funds despite the waning interest in the broader crypto ETF market. As mentioned earlier, the US-based XRP ETFs registered their first negative performance in the past week, with a net outflow of $40.8 million on Wednesday, January 7. However, this single-day performance didn’t stop the exchange-traded products from ending the week in the green. Data from SoSoValue reveals that the XRP ETF market saw an additional $38.07 million in value for the week ending January 9. However, a look at the chart shows that the capital inflow for the crypto-linked products is steadily declining. As of this writing, the spot XRP ETFs have accumulated $1.47 billion in total net assets since launching in mid-November 2025. Canary Capital’s XRPC tops the list with $375.1 million in net assets under management (AUM), followed by Bitwise’s XRP fund at $300.3 million, and Franklin Templeton’s XRPZ at $279.6 million. XRP ETFs Shine While Crypto ETF Market Flounders While the XRP ETFs seem to be enduring the market storm, the more-established Bitcoin and Ether ETFs have seen better days. According to recent market data, the crypto funds saw a combined withdrawal of $749.6 million during their first full trading week of the year. Most notably, the spot Bitcoin ETFs saw their largest single-day net outflows of $486.1 million on Wednesday, January 7. The BTC exchange-traded funds closed the week with a net outflow of over $681 million. Meanwhile, the Ethereum ETF market, which started on a positive note with inflows of $168.1 million on January 5 and $114.7 million on January 6, eventually ended the week with net withdrawals of $68.6 million. Related Reading: Bitcoin Tests $90,000 Support As Netflows Turn Positive — Details Featured image from iStock,chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|xrp|XRP ETFs|xrp news|XRP Price|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57076746,
     "published": 1768158004000,
     "title": "XRP Ledger May Get A Tokenized Gold Upgrade, Web3 Founder Reveals",
@@ -1362,6 +1292,321 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57101395,
+    "published": 1768231896000,
+    "title": "BitGo aims to raise $201 million in IPO targeting $1.85 billion valuation",
+    "body": "The company has reported significant revenue growth and achieved profitability with $35.3 million in net income in the first nine months of 2025.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|BitGo|IPO|Custodians|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57101352,
+    "published": 1768231468000,
+    "title": "Ethereum set for 95% copycat rally against Bitcoin",
+    "body": "ETH price could rally 95% versus Bitcoin if a decisive breakout above the key 0.042 BTC neckline confirms a bullish reversal.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57101977,
+    "published": 1768233350000,
+    "title": "Trump-linked World Liberty brings $3.4B stablecoin into crypto lending markets",
+    "body": "World Liberty Financial has launched a crypto lending platform built around its USD1 stablecoin, as demand for onchain credit shows signs of recovery.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57102091,
+    "published": 1768233960000,
+    "title": "Wall Street broker Benchmark says this could be a pivotal week for digital assets",
+    "body": "Senate action on market structure legislation could end years of regulatory uncertainty, unlock institutional liquidity and re-rate crypto-linked stocks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Cryptocurrency Regulations|Market Structure Legislation|Institutional Adoption|Benchmark|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57102621,
+    "published": 1768235457000,
+    "title": "Why XRP Deserves A Place As Long-Term Wealth And Life-Saving Strategy",
+    "body": "In a world where financial systems are becoming fragile, XRP stands out as the intersection of a financial infrastructure designed for instant global value transfer, speed, reliability, and global accessibility. XRP’s ability to move value instantly across borders, with minimal cost and without reliance on fragile banking systems, positions it as both a long-term wealth tool and a potential life-saving instrument. XRP should be considered as part of life-saving plans. An analyst known as Bird on X has pointed out that most people keep their money in the bank, earning around 4-6% a year, and feel comfortable with it, but they rarely factor in the impact of inflation. Over time, the purchasing power of currencies like the US dollar and the British pound has been quietly eroded to the point where your money can grow on paper while losing value in the real world. XRP’s Role In The Next Phase Of Global Payments Although savings accounts are safe, many people are actually standing still or falling massively behind without even realizing it, which is why XRP comes in as a long-term life-saving strategy. XRP has spent years held back by legal uncertainty, and during that time, the technology continued to mature. Currently, there’s clarity, and what was being built has become visible. Related Reading: XRP Ledger May Get A Tokenized Gold Upgrade, Web3 Founder Reveals Real-world usage is arriving in cross-border payments, institutions are engaging, stablecoins like RLUSD are being introduced, and real-world assets are being tokenized on the chain. As the utility is increasing, capital is flowing into the ecosystem. More usage creates more demand, and sustained demand is what drives long-term value growth. According to Bird, XRP is to be trusted more than fiat, which is why it is a long-term savings vehicle rather than a short-term trade. XRP can be reserved for self-custody, stored on a cold wallet, removing reliance on banks altogether. Instead of earning a few percentages while fighting inflation, you’re holding a digital asset positioned at the centre of growing global financial infrastructure, which is more likely to increase in value over time. In comparison, it is unclear whether inflation will ever pause to make cash worth more. The analyst views this scenario as a long-term wealth investment and believes that XRP will become one of the most utilised digital assets in the world. Thus, building a savings position now could prove to be one of the smartest financial decisions someone could make over the long run. A Bridge Between Old Money And New Rails ChartNerd noted that Ripple is not built to be a traditional crypto company that aims to destroy the old money. Instead, Ripple acts as the bridge between the old and new financial worlds, and this will be a more successful long-term strategy. Related Reading: XRP Whale Deposits To Binance Ease: Data Points To Lower Distribution Risk A sustainable financial change will emerge gradually, not through a knee-jerk move or total disruption in just one cycle. XRP is clearly the long-game asset, while 2025 was the most productive year for Ripple, nothing is priced in yet. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Bird|ChartNerd|Ripple|RLUSD|stablecoin|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57102707,
+    "published": 1768235544000,
+    "title": "Bitcoin loses to gold as debasement trade with BTC at 2-year lows: Analysis",
+    "body": "Bitcoin failed to become investors' choice as the debasement trade as BTC price action slumps while gold and silver hit repeat all-time highs, said analysis.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57104631,
+    "published": 1768241458000,
+    "title": "Crypto infrastructure firm Bakkt jumps 17% on deeper stablecoin payments push with new deal",
+    "body": "The firm said it has agreed to acquire Distributed Technologies Research, a blockchain-based payment infrastructure provider.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Bakkt|Stablecoin|acquisition|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      }
+    ]
+  },
+  {
+    "id": 57104622,
+    "published": 1768241370000,
+    "title": "Two UK-Registered Companies Moved $1B in Stablecoins for Iran: Report",
+    "body": "The two companies transferred a total of $619.1 million in funds to wallets linked to Iran’s Islamic Revolutionary Guard Corps in 2024.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57104554,
+    "published": 1768241064000,
+    "title": "Crypto enters round 2 of institutional adoption led by Morgan Stanley: Binance",
+    "body": "Binance Research said crypto markets are entering a new phase, as institutional allocation and strategic positioning begin to outweigh retail-driven momentum.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
