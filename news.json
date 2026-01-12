@@ -1,28 +1,5 @@
 [
   {
-    "id": 57061888,
-    "published": 1768115013000,
-    "title": "Tennessee sends cease-and-desist letters to Kalshi, Polymarket, Crypto.com",
-    "body": "Tennessee regulator warned that failure to comply could trigger steep fines, court injunctions and potential law enforcement referrals for for further investigation.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
     "id": 57065832,
     "published": 1768126530000,
     "title": "CryptoQuant founder slams X for penalizing crypto content instead of bots",
@@ -768,6 +745,123 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57083810,
+    "published": 1768178945000,
+    "title": "X to roll out ‘Smart Cashtags’ for crypto, stocks next month",
+    "body": "Smart Cashtags aim to enable users to track real-time price movements of crypto tokens and stocks, building on X’s long-term vision to become an Everything App.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57093516,
+    "published": 1768208237000,
+    "title": "MEXC offers $200,000 P2P airdrop to attract new users",
+    "body": "Crypto trading platform MEXC has rolled out a new promotional campaign built around its peer-to-peer marketplace, offering a $200,000 airdrop pool exclusively for users making their first-ever deposit on the platform. The limited-time event began on Jan. 4, 2026, at 11:00 UTC and will run until Jan. 31 at 16:59 UTC. Participation is restricted to accounts that have never previously deposited funds on MEXC, with eligibility tied specifically to deposits completed through the exchange’s P2P channel rather than standard trading methods. To take part, users must first register for the campaign via the dedicated event page. Only after opting in are participants able to qualify by completing their first P2P deposit and reaching a net deposited amount exceeding $100 during the event period. MEXC notes that users who fail to register before depositing will not be counted toward the promotion. Participants who meet the requirements within seven days of registration unlock a fixed 10 USDT reward. All rewards are distributed from a shared $200,000 pool and allocated on a first-come, first-served basis, meaning that late participants may miss out once the pool is fully claimed. Following the conclusion of the campaign, eligible rewards will be credited directly to users’ Spot wallets. MEXC states that distribution will take place within 14 calendar days after the event ends, with most users expected to receive their airdrops within five business days. The campaign places renewed focus on MEXC’s P2P trading service, which allows users to purchase cryptocurrencies using local currencies, flexible pricing, and a wide range of payment methods. Unlike traditional exchange trades, P2P transactions on MEXC come with zero platform fees, a feature the exchange continues to promote as competition among P2P marketplaces intensifies. Through the P2P platform, users can access major cryptocurrencies including USDT, Bitcoin, Ethereum, USDC, Dogecoin, and Solana. The service is designed to cater to regions where direct fiat on-ramps may be limited or where users prefer localized payment options. However, the exchange has outlined several restrictions tied to the promotion. Users who withdraw funds within 24 hours of meeting the deposit requirements will be disqualified from receiving rewards. In addition, participants who have previously received rewards from other MEXC P2P promotions are excluded from this campaign. Eligibility is limited to main accounts only. Sub-accounts cannot participate independently, and any activity associated with them will be consolidated under the primary account for the purposes of eligibility checks and reward calculations. MEXC also applies internal risk and compliance reviews before rewards are finalized. Any attempts to manipulate the event, including creating multiple accounts, providing false identity information, inflating trading data, or engaging in other forms of abnormal activity, may result in disqualification and forfeiture of rewards. The exchange added that the campaign rules may be adjusted or terminated if necessary. Users were also reminded that cryptocurrency markets remain volatile and that promotional incentives do not remove the risks associated with trading digital assets. Claim the P2P airdrop",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 204,
+        "NAME": "AIRDROP",
+        "CATEGORY": "AIRDROP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57093923,
+    "published": 1768209470000,
+    "title": "Bitcoin's early gains fade fast as prices fall back below $91,000",
+    "body": "Risk sentiment deteriorates as safe havens outperform and equities weaken.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Gold|MicroStrategy|Michael Saylor|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
       {
         "TYPE": "122",
         "ID": 211,
