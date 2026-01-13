@@ -1,344 +1,5 @@
 [
   {
-    "id": 57105037,
-    "published": 1768242360000,
-    "title": "Stablecoin platform VelaFi secures $20M to scale cross-border settlement rails",
-    "body": "The funding will support expansion of enterprise payment and settlement services across Latin America, the United States and Asia.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 57104927,
-    "published": 1768242349000,
-    "title": "Bitcoin, Ethereum ETFs Shed Nearly All 2026 Gains as Rate Cut Hopes Fade",
-    "body": "Bitcoin and Ethereum ETFs are surrendering nearly all 2026 gains as fading Fed rate cut hopes drive sizable crypto fund outflows.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57105201,
-    "published": 1768243161000,
-    "title": "Apple Taps Google's Gemini to Power AI Models After 'Apple Intelligence' Stumbles",
-    "body": "Apple says its next generation of AI models will be based on Google’s Gemini, marking a reset after its in-house effort failed to compete.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57105507,
-    "published": 1768244070000,
-    "title": "Crypto Firm BitGo Targets Nearly $2 Billion Valuation in US IPO Filing",
-    "body": "Private crypto wallet and custody firm BitGo filed for an initial public offering in the U.S. with aims to raise as much as $200 million.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57105418,
-    "published": 1768243943000,
-    "title": "CFTC to tap Tyler Winklevoss, other crypto CEOs as first members of innovation panel",
-    "body": "Mike Selig, chairman of the Commodity Futures Trading Commission, is settling in with the revamping of a new innovation panel with many crypto names.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Tyler Winklevoss|Mike selig|U.S. Commodity Futures Trading Commission|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57105859,
-    "published": 1768245230000,
-    "title": "Staking goes mainstream: what 2026 could look like for ether investors",
-    "body": "From fully staked ETFs to customizable institutional vaults, staking is evolving from a secondary consideration into a foundational pillar of Ethereum’s market structure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Ethereum News|Ethereum staking|Lido|Exclusive|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57106170,
-    "published": 1768246200000,
-    "title": "Dogecoin Breaks Its ‘Lower-Band Prison’ As Daily Trend Flips",
-    "body": "The Dogecoin price is currently up by approximately 17% since the December 31 low and the rebound is starting to look less like a dead-cat bounce and more like a regime change, according to crypto analyst Cantonese Cat, who points to a clear shift in how DOGE is trading inside its Bollinger Bands on the daily chart. The setup matters now because price has moved from months of lower-band pressure into the upper half of the range, often the earliest tell that trend behavior is rotating. Cantonese Cat’s latest daily view (Binance) frames the move through Bollinger Band positioning rather than pattern-chasing. As the analyst put it: “DOGE daily shows a clear trend change that is easy to see when you see how it was riding on the lower half of the Bollinger band for months but now has a clear change in character.” That “character” is visible in the band mechanics. DOGE closed around $0.1405 on the print shown, now trading above the 20-day basis line near $0.1348 after spending much of the prior stretch leaning into the lower half of the envelope. The upper band is near $0.1564 and the lower band near $0.1132. Related Reading: Here’s How High The Dogecoin Price Would If It Repeats Previous Parabolic Runs In the analyst’s framing, the basis line becomes the near-term “line in the sand” for whether this is a genuine trend flip or simply a volatility expansion that fades. Holding above it keeps price in the upper half of the bands, where trends typically behave differently than they do during lower-band rides. Weekly And Monthly Chart Support The Thesis Zooming out, Cantonese Cat’s weekly chart (Dec. 20) casts the broader structure as an Elliott-style sequence: a completed Wave 1 advance followed by a Wave 2 correction. The analyst wrote: “We’ve already had a 13 month bear market for DOGE, with my working hypothesis of this being likely a wave 2 correction prior to wave 3 explosion. The entire reason why this may play out is that it doesn’t feel likely right now, and you want me to stop posting.” Related Reading: Is The Dogecoin Rally A Dead Cat Bounce? Analysts Weigh In The levels on the chart are explicit. DOGE is sitting between the 0.382 retracement near $0.1177 and the 0.5 level near $0.1542, with higher retracement markers at roughly $0.2021 (0.618), $0.2477 (0.707), $0.2968 (0.786), and $0.3732 (0.886). Above that, the 1.0 level is labeled near $0.4844, with extensions reaching approximately $0.9029 (1.272), $1.2497 (1.414), $1.9934 (1.618), $4.7793 (2.0), and $8.9077 (2.272), the latter aligning with the analyst’s repeatedly cited “$9 region” target for this cycle. On Jan. 9, Cantonese Cat paired DOGE’s monthly chart with the iShares Russell 2000 ETF (IWM), arguing a recurring bull-phase rhythm: “DOGE has always been about 2-4 months behind IWM during the bull phase.” The comparison highlights prior instances where IWM’s breakout behavior preceded DOGE’s major upside phases, implying DOGE’s current improvement could be read as a delayed echo if the template holds. Overall, the near-term question is whether DOGE can keep closing above the daily Bollinger basis (~$0.1348) and avoid slipping back into the lower-half posture that defined the prior months. On the upside, a break above the upper band region (~$0.1564) and the 0.5 Fib ($0.1542) is crucial for further upside. At press time, DOGE traded at $0.13674. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57108014,
-    "published": 1768251603000,
-    "title": "This Ethereum Triangle Breakout Puts Price Above $24,000, Here’s The Path",
-    "body": "Ethereum is nearing a decisive phase that could unlock a major long-term price expansion. A higher-timeframe analysis shared by a TradingView analyst suggests that, despite current short-term weakness, Ethereum remains structurally positioned for a significant upside move. If the ongoing formation resolves as expected, the projected breakout places Ethereum’s price well above $24,000. Ethereum’s Long-Term Structure Remains Intact From a broader perspective, the analyst emphasizes that Ethereum has not broken its established trend since 2020. Over that period, price action has continued to form higher highs, reinforcing the view that the long-term structure remains valid. Rather than signaling failure, the prolonged consolidation seen over recent years is framed as stabilization within a large and defined range. Related Reading: Analyst Predicts Strongest XRP Price Rally In History Is Coming, Here’s Why This range sits between $1,000 and $3,000, with the $1,000 level identified as a critical psychological and structural support. According to the analysis, Ethereum’s ability to hold above this zone is central to the bullish thesis. Remaining above it allows the asset to continue developing a massive ascending triangle, a formation often associated with strong continuation moves once completed. Within this triangle, the analyst outlines a clear progression of internal price phases. Two major legs of the structure have already formed, and Ethereum is now moving through the final phase needed to complete the setup. This phase has brought short-term bearish signals, but they remain part of the broader structure rather than a structural breakdown. As the price approaches the lower boundary of the triangle, several layers of support converge. These include the rising structural trendline and key moving averages that have historically supported Ethereum’s price. The analyst notes that stabilization and a bounce are likely in this area, provided Ethereum does not break below the triangle’s lower limit. Such a break would invalidate the structure, but current conditions suggest that risk remains contained. Why A Breakout Opens The Door To $24,000 The bullish scenario hinges on confirmation. Once the triangle is fully formed and Ethereum breaks above its upper boundary, the analyst expects a continuation move to follow. Based on the size of the formation and prior market behavior, the projected expansion points to a move of roughly 300% from current levels. When applied to Ethereum’s existing range, that expansion places the primary bullish target above $24,000. This projection is not presented as a short-term price call, but as the potential outcome of a multi-year structure finally resolving upward. Related Reading: XRP Mirrors Gold’s Trajectory: What A Similar ATH Rally Would Mean Additional context strengthens this outlook. Ethereum continues to benefit from growing institutional participation, and recent data shows record stablecoin transfer volumes exceeding $8 trillion on the network. These developments suggest increasing reliance on Ethereum’s infrastructure, which could support sustained price expansion following a confirmed breakout. Ultimately, the analyst believes Ethereum’s next major move depends on how this consolidation phase concludes. If the structure holds and the breakout is confirmed, the path toward prices above $24,000 becomes a technical continuation rather than an outlier scenario. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57107797,
-    "published": 1768250700000,
-    "title": "3 ETH price charts predict a sharp move to $4K is brewing",
-    "body": "ETH’s recent rally was driven by spot demand and a healthy use of futures market leverage, potentially setting Ether up for a follow-up move to $4,000.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57108490,
     "published": 1768252959000,
     "title": "Bitmine ETH holdings climb to 4.1M as chairman seeks to expand crypto strategy",
@@ -2660,6 +2321,287 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57135332,
+    "published": 1768329201000,
+    "title": "Eric Adams’ NYC Memecoin Crashes After Debut, Sparking Outcry",
+    "body": "Eric Adams’ fondness for crypto — which during his one-term tenure mayor of New York included the launch of the ill-fated ‘NYCCoin’ — is once again attracting controversy.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57135061,
+    "published": 1768329093000,
+    "title": "Stablecoin yield debate looks like 'parallel banking system,' JPMorgan CFO says",
+    "body": "JPMorgan's Jeremy Barnum said the bank would compete with crypto offerings but warned that stablecoin yield products look like banks without the same regulation.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Market Structure Legislation|JPMorgan Chase|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57135087,
+    "published": 1768327947000,
+    "title": "PsyopAnime Meme up 30X! Are Memes back? Monero ATH! Interview W/ Joseph Chalom, CEO of Sharplink",
+    "body": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top movers; XMR hit another new ATH at $680 (now $640). Gold and Silver hit new ATHs again in the wake of the Powell investigation. The US Senate released the draft Crypto Market Clarity Act, including limits on stablecoin rewards. Senator Warren pressed the SEC over inclusion of crypto in 401ks arguing they expose retirees to too much risk. Vitalik Buterin warned crypto needs better decentralized stablecoins, citing governance capture and inflation risks. World Liberty Financial launched a crypto lending platform built around its USD1 stablecoin, attracting ~$20M. BitGo filed for a U.S. IPO targeting a ~$2B valuation as custody assets surpassed $100B. Tennessee regulators ordered Polymarket, Kalshi, and Crypto.com to halt sports prediction markets and refund users, escalating a multi-state legal fight.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 57,
+        "NAME": "XMR",
+        "CATEGORY": "XMR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57136271,
+    "published": 1768332607000,
+    "title": "XRP Is At An Unique Moment In History: Developer Calls End Of Suppression",
+    "body": "An XRP Ledger ecosystem developer behind the meme coin DROP is drawing attention after predicting a sharp shift in XRP’s relative value versus bitcoin this year, framing it as the start of a new “price discovery” phase for the token. Bird, who posts under @Bird_XRPL, wrote on X yesterday that “5,000 XRP will be worth 1 Bitcoin in 2026,” then clarified his math with a specific price path in mind. “I said I think 5,000 XRP will be worth 1 Bitcoin,” he added. “For example 5,000 * $27 (XRP) = $135K (BTC).” While the post reads like a headline-grabbing forecast, the structure of Bird’s claim is a ratio trade: XRP outperforming BTC enough that 5,000 XRP could purchase one bitcoin. By anchoring the example to $27 XRP and a $135,000 BTC, Bird effectively argued that the market’s next leg higher could involve a meaningful repricing of XRP’s utility narrative rather than a simple beta move to bitcoin. Related Reading: Get Ready For An XRP Price Explosion Once This Happens; Analyst XRP Entering ‘Price Discovery’ Phase The call arrived alongside a series of posts linking XRP’s setup to broader risk-asset conditions and upcoming US macro catalysts. Bird argued that “above $2.70 $XRP opens the path to all time highs and beyond,” presenting that level as a technical inflection point. “Take a breath. Stay present. Remember this moment,” he wrote. “This is the end of a 7–8 year suppression and the beginning of true price discovery.” Bird’s longer thesis, posted on Jan. 11, focused less on short-term trading and more on a personal allocation framework that treats XRP as a long-duration hold. “XRP should be considered as part of your life saving plans,” he wrote, contrasting bank deposit yields with inflation drag. Related Reading: Ripple Builds ‘Next Amazon’ With XRP At The Center, Says Crypto CEO “Most people keep their money in banks earning around 4–6% a year and feel comfortable doing so, but they rarely factor in inflation. Over time, the buying power of the US dollar and the British pound for example has fallen so much, meaning your money often grows on paper while quietly losing value in the real world.” He then positioned XRP as an alternative store of value tied to expanding usage rather than fiat purchasing power. “That’s where XRP comes in. XRP has spent years suppressed by legal uncertainty, yet during that time the technology continued to mature. Now we have clarity, and we can clearly see what’s being built,” Bird wrote, pointing to “cross border payments, institutional adoption, stablecoins like RLUSD, and real world assets being tokenised on chain.” Bird framed the trade-off as custody and counterparty risk versus upside participation. “That’s why I personally treat XRP as a long term savings vehicle rather than a short term trade,” he wrote. “You can self custody it, store it on a cold wallet, and remove reliance on banks altogether.” Bird also tied the timing of his forecast to what he described as a convergence of market structure and policy headlines. “It’s a massive week for XRP,” he wrote, citing CPI and PPI as volatility events and highlighting that the US market structure bill is scheduled to drop on Thursday. “The charts are aligning. The macro is aligned. If this pushes in our favour and we clear $2.70+, an all time high can come very fast for XRP people!” At press time, XRP traded at $2.06. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Ripple|xrp|xrp news|XRP Price|XRP Price Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57136113,
+    "published": 1768332062000,
+    "title": "Feds Seek Forfeiture of $200K in USDT Tied to Tinder ‘Pig Butchering’ Scam",
+    "body": "Law enforcement seized $200,000 belonging to a Massachusetts victim who wired more than $500,000 into a suspected fake crypto trading platform.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57136526,
+    "published": 1768333234000,
+    "title": "SOL chart shows ‘masterpiece’ setup to $190 after key trend turns bullish",
+    "body": "Steady ETF inflows, a bullish cup and handle chart pattern and improving sentiment across the total crypto market could propel Solana price to $190.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57137894,
+    "published": 1768337073000,
+    "title": "Strive, Semler Stocks Fall After Shareholders Approve Bitcoin Treasury Acquisition",
+    "body": "Semler Scientific shareholders approved Strive's acquisition in an all-stock deal, but both Bitcoin treasury stocks dropped on the news.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
