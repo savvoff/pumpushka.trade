@@ -1,367 +1,5 @@
 [
   {
-    "id": 57128046,
-    "published": 1768310354000,
-    "title": "ZKsync sets 2026 roadmap focused on privacy and institutional adoption",
-    "body": "ZKsync’s 2026 plan shifts focus from experimentation to production-ready infrastructure designed for banks, enterprises and regulated financial systems.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 143,
-        "NAME": "ZK",
-        "CATEGORY": "ZK"
-      }
-    ]
-  },
-  {
-    "id": 57128914,
-    "published": 1768312800000,
-    "title": "Franklin Templeton retrofits money market funds for tokenized stablecoin market",
-    "body": "Franklin Templeton is amending institutional money market funds to support stablecoin reserves and onchain cash use without launching new crypto-native products.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57128695,
-    "published": 1768312320000,
-    "title": "Crypto infrastructure firm pushes deeper into stablecoin payments with $250 million deal",
-    "body": "The move comes as crypto projects increasingly position themselves as offering payment platforms that resemble traditional digital banks, but operate on blockchain rails.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Polygon|Polygon labs|Stablecoin|payments|acquisition|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 38,
-        "NAME": "MATIC",
-        "CATEGORY": "MATIC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57129243,
-    "published": 1768313845000,
-    "title": "CoinDesk 20 Performance Update: Internet Computer (ICP) Gains 7.4%",
-    "body": "NEAR Protocol (NEAR) was also a top performer, rising 6% from Monday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 82,
-        "NAME": "ICP",
-        "CATEGORY": "ICP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 89,
-        "NAME": "NEAR",
-        "CATEGORY": "NEAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57129146,
-    "published": 1768313434000,
-    "title": "Monero climbs to new high of $687 as crypto surveillance tightens",
-    "body": "Tightening KYC regulations and growing scrutiny on the digital economy are triggering more investor demand for privacy-preserving digital assets like Monero.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 57,
-        "NAME": "XMR",
-        "CATEGORY": "XMR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57128968,
-    "published": 1768313146000,
-    "title": "Bitcoin spikes to $92,500 as U.S. December consumer prices rise 0.3%",
-    "body": "The U.S. Consumer Price Index came in roughly in line with expectations as market participants largely expects the Fed to leave interest rates unchanged at the January meeting.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Inflation|Bitcoin News|Federal Reserve|Economy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57129159,
-    "published": 1768307908000,
-    "title": "Bitcoin rose above $92,000 as BlackRock ETF moved $300 million to Coinbase Prime",
-    "body": "The asset manager sent 3,290 bitcoin, worth about $298 million, along with 5,692 ether valued near $17.8 million.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin ETF|ETFs|BlackRock|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57129472,
-    "published": 1768312800000,
-    "title": "Cyrpto's Altcoin Fringe Sees $40 Billion Exodus In Risk Unwind",
-    "body": "Altcoins — once the high-octane casino of the crypto boom — are struggling to rally for even a month.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57130260,
-    "published": 1768316545000,
-    "title": "Ether collapse to zero could test Ethereum’s role as finance hub, Bank of Italy economist warns",
-    "body": "The study suggests that Ethereum's role in financial systems makes its token economics a concern for regulators, who may need to consider safeguards for its use in regulated finance.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Ethereum News|DeFi|central banks|Italy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57130661,
-    "published": 1768317519000,
-    "title": "Bitcoin attempts $92K breakout as stocks hit new record on low US CPI data",
-    "body": "Bitcoin sought new weekly highs as US CPI numbers came in below expectations and President Donald Trump called for more interest-rate cuts.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57131551,
     "published": 1768320051000,
     "title": "Crypto Bill Draft Grants XRP, Solana and Dogecoin Same Legal Status as Bitcoin",
@@ -2819,6 +2457,496 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 57157613,
+    "published": 1768394553000,
+    "title": "Germany’s second-largest lender DZ Bank secures retail crypto trading MiCA license",
+    "body": "DZ Bank will \"shortly\" roll out a crypto trading platform for cooperative banks to offer to clients.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|MiCA|Crypto Trading|Germany|TradFi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57157606,
+    "published": 1768394123000,
+    "title": "Tokenized gold drives 25% of RWA growth in 2025 with 177% surge",
+    "body": "Onchain gold products added billions in new value last year, outpacing physical bullion and most gold ETFs as trading activity increasingly shifted to blockchain rails.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57158035,
+    "published": 1768395600000,
+    "title": "Congress must bar interest on payment stablecoins to avoid harming Main Street lending",
+    "body": "Allowing crypto exchanges and other intermediaries to offer yield-like incentives on payment stablecoins would pose significant risks to local economies, argues Kevin Paintner, chairman of the Independent Community Bankers of America’s Digital Assets Subcommittee.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Opinion|Stablecoin legislation|Market Structure Legislation|US Congress|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57158711,
+    "published": 1768397188000,
+    "title": "Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform",
+    "body": "Retail crypto access will initially cover Bitcoin, Ether, Litecoin and Cardano through participating cooperative banks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 3,
+        "NAME": "ADA",
+        "CATEGORY": "ADA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 33,
+        "NAME": "LTC",
+        "CATEGORY": "LTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57159403,
+    "published": 1768399200000,
+    "title": "Algorand Foundation returns to U.S. amid friendlier crypto regulation under Trump",
+    "body": "The blockchain nonprofit is moving its base of operations back to the United States and has appointed a new board to oversee its next phase of growth.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Algorand Foundation|payments|Tokenization|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 4,
+        "NAME": "ALGO",
+        "CATEGORY": "ALGO"
+      },
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57159352,
+    "published": 1768398911000,
+    "title": "Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026",
+    "body": "Bitcoin ETF flows have swung sharply in early 2026 as investors pour billions into traditional ETFs, leaving crypto funds lagging behind.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57153989,
+    "published": 1768384598000,
+    "title": "U.S. bitcoin buyers are now driving price rally, reversing late 2025 trend",
+    "body": "Strength in bitcoin linked U.S. equities, led by Strategy, is reinforcing positive sentiment during U.S. trading hours.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|MicroStrategy|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57159698,
+    "published": 1768399960000,
+    "title": "Mantra restructures and cuts staff after OM token collapse and tough year",
+    "body": "RWA blockchain Mantra is restructuring and cutting staff after a steep OM token collapse and prolonged market pressure strained its business model in 2025.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 169,
+        "NAME": "OM",
+        "CATEGORY": "OM"
+      }
+    ]
+  },
+  {
+    "id": 57159477,
+    "published": 1768399200000,
+    "title": "Crossmint gets MiCA nod to provide stablecoin infrastructure across EU",
+    "body": "Crossmint has secured MiCA authorization from Spain’s CNMV to operate as a crypto asset service provider, allowing it to passport stablecoin infrastructure services across the EU.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57159553,
+    "published": 1768399200000,
+    "title": "Figure Technology to Enable Direct Stock Lending Over Blockchain",
+    "body": "Blockchain-based lender Figure Technology Solutions Inc. is launching a new platform to issue on-chain equity, allowing investors to lend shares directly to one another without traditional intermediaries.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "NMS:FIGR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      }
+    ]
+  },
+  {
+    "id": 57160345,
+    "published": 1768401804000,
+    "title": "Crypto analytics firm Chainalysis says impersonation, AI crypto scams stole $17 billion last year",
+    "body": "Scams and fraud against individuals are increasing and if the trend continues, they could soon surpass crypto stolen via cyberattacks, Chainalysis said.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Chainalysis|crypto scams|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57161068,
+    "published": 1768403719000,
+    "title": "CleanSpark shares rise as bitcoin miner expands AI power capacity in Texas",
+    "body": "Bitcoin miner targets large scale AI and high performance computing infrastructure in the Houston region.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|AI|CleanSpark|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57160903,
+    "published": 1768403286000,
+    "title": "Blockchain lender Figure named 2026 'top pick' by Wall Street analyst",
+    "body": "The Wall Street broker said that the regulatory momentum and a volatile banking backdrop are amplifying demand for Figure’s blockchain-based credit platform.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Figure Technologies|Tokenization|Crypto-Backed Lending|Bernstein|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57160972,
+    "published": 1768403243000,
+    "title": "Bitnomial opens US-regulated futures market for Aptos",
+    "body": "The launch expands Aptos’ reach in CFTC-regulated derivatives markets and adds to Bitnomial’s altcoin futures offerings as investor interest in altcoins grows.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 70,
+        "NAME": "APT",
+        "CATEGORY": "APT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
