@@ -1,326 +1,5 @@
 [
   {
-    "id": 57150026,
-    "published": 1768373976000,
-    "title": "Dogecoin jumps nearly 9% as buyers push price out of recent downtrend",
-    "body": "The rally in meme coins like Dogecoin and Pepe reflects renewed speculative interest as broader crypto markets remain mixed.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57150789,
-    "published": 1768376077000,
-    "title": "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
-    "body": "Cooling inflation and post–year-end rebalancing help draw institutional money back into spot bitcoin funds.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57151365,
-    "published": 1768377600000,
-    "title": "Spanish bank Bankinter joins BBVA and Tether with stake in crypto exchange Bit2Me",
-    "body": "The investment strengthens Bit2Me's capital structure and supports its regulatory ambitions in Europe and Latin America.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bit2Me|Spain|Bankinter|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57151483,
-    "published": 1768377985000,
-    "title": "Visa teams up with BVNK to launch stablecoin payouts",
-    "body": "The new feature lets companies send money to digital wallets instantly, even outside banking hours.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Visa|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57152035,
-    "published": 1768379409000,
-    "title": "Ripple Builds XRP ‘Wall Street Kit’: Developer Claims ‘Billions Incoming’",
-    "body": "Software engineer and AI founder Vincent Van Code (@vincent_vancode) is arguing that institutional barriers to holding and using XRP have largely shifted from “market structure” to “plumbing,” claiming Ripple has spent 2025–2026 assembling an institutional stack for custody, treasury, and prime brokerage that makes large-scale participation operationally viable. In a post on X on Wednesday, the engineer framed self-custody as a non-starter for traditional allocators managing retirement pools, pensions, and bank balance sheets. Ripple Assembles The XRP ‘Wall Street Kit’ “Institutions juggling billions in 401(k)s, pensions, hedge funds, banks & governments? Self-custody was always insane—audit hell, compliance nightmares, risk officers saying ‘no way,’” he wrote. “That changed in 2025–2026. Ripple built the full-stack bridge: regulated, scalable, bank-trusted infrastructure so big money can finally hold & use XRP + RLUSD without the chaos.” Related Reading: Why XRP Is Gearing Up For A Massive Week Van Code’s core contention is that the crypto-native custody debate misses the institutional reality: risk committees, auditors, and compliance functions require regulated custody, reporting, and controls that can plug into existing workflows. He argues Ripple’s recent buildout amounts to a “Wall Street kit” that addresses those constraints end-to-end, spanning payments rails, corporate treasury tooling, prime brokerage services, and bank-grade custody. While the post is advocacy rather than a formal Ripple announcement, it reflects a view increasingly common among XRP supporters: that productized rails and regulated wrappers matter as much as market narratives when large allocators consider adding exposure or utility. Van Code pointed to Ripple Payments as the transaction layer, describing it as “ISO 20022-compliant, real-time cross-border rails on XRPL—already moving billions for global banks.” He then tied institutional adoption to what he portrayed as adjacent infrastructure designed to make XRP and Ripple’s RLUSD workable inside corporate and financial-institution operations. Related Reading: XRP Is At An Unique Moment In History: Developer Calls End Of Suppression Among the pieces he highlighted was GTreasury, which Ripple acquired for $1 billion, characterizing it as an enterprise treasury management platform enabling corporations to manage “fiat + digital liquidity in real-time.” He also cited Ripple Prime, described as being “powered by Hidden Road acquisition for $1.25B”, as a prime brokerage stack offering “clearing, financing & OTC trading—including XRP & RLUSD—with seamless XRPL settlement for faster, cheaper post-trade ops.” For custody, he argued Ripple has converged on a bank-facing offering through a series of deals and integrations. “Ripple Custody (bolstered by Palisade acquisition + prior Standard Custody/Metaco) → Bank-grade, regulated storage with MPC security, multi-chain support & zero-trust architecture,” he wrote, adding that it is “auditable, insured, scalable for billions.” Van Code also claimed “RLUSD reserves [are] custodied by BNY Mellon for ultimate trust.” The post’s conclusion was blunt about expected impact. “Bottom line: Excuses erased. Compliance baked in. Custody risk? Solved,” Van Code wrote. “Institutions aren’t just watching—they’re quietly stacking & building on XRPL. 2026 is the year XRP shifts from ‘spec play’ to core financial infrastructure. Billions incoming.” If that thesis holds, the next signal for markets will not be rhetoric but observable integration: whether these components translate into sustained institutional flows, deeper liquidity venues, and production use of XRP and RLUSD, ultimately showing up in price discovery. At press time, XRP traded at $2.15. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|Ripple|ripple news|xrp|xrp news|XRP Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57151896,
-    "published": 1768378929000,
-    "title": "Efforts to bulletproof Ethereum are paying off in user metrics",
-    "body": "The Ethereum blockchain underwent a series of upgrades last year that have resulted in lower transaction fees and more active addresses.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57152722,
-    "published": 1768381200000,
-    "title": "Binance Wallet unlocks in-app leveraged crypto futures trading with Aster team-up",
-    "body": "Binance Wallet's new feature allows users to trade leveraged futures directly from their crypto wallets through an integration with decentralized exchange Aster.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Binance|Markets|perpetual contracts|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57152870,
-    "published": 1768381404000,
-    "title": "UK rolls back digital ID for work checks as privacy fears drive backlash",
-    "body": "UK Prime Minister Keir Starmer scrapped plans to make digital ID mandatory for workers after a backlash over “Orwellian” surveillance fears.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57152869,
-    "published": 1768381200000,
-    "title": "Ripple targets MiCA passporting in EU with Luxembourg e-money nod",
-    "body": "The preliminary Luxembourg approval boosts Ripple’s EU expansion aims following its recent UK authorization, supporting its push toward full MiCA compliance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57153398,
     "published": 1768383042000,
     "title": "Bitcoin’s New Power Buyers: Companies Bought 3 Times What Miners Produced",
@@ -3286,6 +2965,298 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57179160,
+    "published": 1768458395000,
+    "title": "NCAA urges CFTC to pause college sports prediction markets",
+    "body": "The group says contracts mirror sports betting but lack safeguards, warning transfer portal markets could pose “catastrophic” risks to student athletes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Prediction Markets|Polymarket|Kalshi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57179801,
+    "published": 1768460404000,
+    "title": "Crypto Market Bill Draft Criticized For Allowing Continued Developer Prosecution",
+    "body": "The recently released draft of the CLARITY Act, a significant piece of legislation aimed at regulating the crypto market, has ignited a wave of criticism from supporters within the community. Initially, the bill was meant to include protections for developers. However, expert commentary suggests that it opens the door to continued prosecution of developers and enhances surveillance measures for users of non-custodial software. Crypto Market Structure Bill Draft Lacks Essential Protections Market expert Ryan Adams highlighted another key issue in the crypto bill, stating that if banks succeed in eliminating stablecoin yield provisions within the CLARITY Act, it would indicate that the Senate is prioritizing bank interests over those of the general public. Adams’s concerns were echoed by various users, who opined that the strategy appears orchestrated to allow banks to benefit by controlling how yields are managed and distributed. Related Reading: Zcash Foundation Investigation Closed: SEC Decision Sparks 12% Jump In ZEC Price An independent report by The Rage reinforces these worries, detailing how the proposed draft includes so-called developer protections that may fall short. Notably absent are safeguards against the rigorous implications of the Bank Secrecy Act (BSA) for self-custodial wallets. Additionally, the draft hints at possible applications to decentralized finance (DeFi) that could empower agencies to implement Travel Rule-like regulations, along with anti-money laundering (AML) measures targeting web-based interfaces and blockchain analysis firms. Per the report, the Senate has already received 137 amendments to the draft ahead of its markup, scheduled for January 15. A revised version of the Blockchain Regulatory Certainty Act (BRCA) is also included, which has been seen as vital for protecting developers. BRCA Loopholes While the BRCA offers exemptions under AML and counter-terrorist financing regulations, it continues to leave developers vulnerable to accountability for the actions of users utilizing their software. The BRCA states that “non-controlling” developers—defined as those without unilateral control over digital asset transactions—will not be categorized as money transmitters under the relevant laws. However, this only alleviates certain charges and doesn’t prevent criminal liability for those whose software is misused. Pro-crypto Senator Cynthia Lummis remarked on this aspect of the BRCA, indicating that it retains all necessary AML protections, which implies that despite any positives, accountability remains a looming threat for developers. Simultaneously, the “Keep Your Coins Act” within the draft includes provisions claiming that federal agencies cannot prohibit self-custody of digital assets. However, further stipulations assert that this right does not prevent the application of laws concerning illicit finance, leaving loopholes for government intervention. The Securities and Exchange Commission’s (SEC) past attempts to impose a broker rule that would classify decentralized finance services as intermediaries requiring reporting obligations have been echoed in the current draft. This time, the Senate Banking Committee appears to be leaning towards a similar regulatory approach, aiming to provide guidance on BSA and AML compliance for “non-decentralized finance protocols,” thereby raising concerns about the implications for crypto developers who maintain and update protocols. Privacy Concerns Mount Under the new sections, the Senate Banking Committee introduces a concept termed “Distributed Ledger Application Layers,” which the report claims invites scrutiny and creates compliance obligations for software applications that allow users to interact with decentralized finance protocols. The provisions also compel the Treasury to develop additional oversight mechanisms to mitigate exposure to illicit financing risks identified through distributed ledger analysis tools, effectively ensuring that crypto transactions remain under close scrutiny. Related Reading: The NYC Token Crash: Allegations Of Rug Pull After $2.5 Million Liquidity Withdrawal As it currently stands, the lack of robust protections for developers and users involved in privacy-enhancing technologies in this current draft suggests that the Senate’s proposal for market structure will do little to safeguard non-custodial developers. Instead, it further entrenches their vulnerability to government oversight and user surveillance. Ultimately, these developments present a significant challenge for privacy software users and developers. Featured image from DALL-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|blockchain developers|CLARITY Act|crypto|crypto market|Crypto Market Structure Bill|crypto news|cryptocurrency|US crypto news|US crypto regulation",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57180460,
+    "published": 1768462299000,
+    "title": "Bitcoin ETFs take in $830 million amid positive inflows across ether, solana and XRP",
+    "body": "Bitcoin, ether, solana and XRP spot ETFs all posted net inflows on Wednesday, led by the strongest day for bitcoin funds in months.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin ETF|exchange-traded funds|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57173197,
+    "published": 1768439734000,
+    "title": "Senator Lummis expects delay to crypto market structure markup: Bloomberg",
+    "body": "Disputes over stablecoin reward provisions in the CLARITY Act risk delaying the bill as banking and crypto stakeholders push competing agendas.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57181262,
+    "published": 1768464786000,
+    "title": "Crypto slump hits ARK ETFs in Q4, Coinbase becomes top detractor",
+    "body": "A fourth-quarter crypto downturn exposed how closely ARK’s flagship ETFs are now tied to digital assets, with Coinbase and Roblox emerging as the biggest performance drags.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57181623,
+    "published": 1768465639000,
+    "title": "DeFi quietly breaks up with Discord as scams overwhelm public channels",
+    "body": "Ticketed help desks and live support are replacing always-on Discord channels at major DeFi protocols.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57181817,
+    "published": 1768466617000,
+    "title": "Bitcoin bull case grows as U.S. bond market volatility sinks to lowest since 2021",
+    "body": "The bond market volatility gauge has slipped to its lowest since October 2021, supporting risk-taking in financial markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bonds|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57182130,
+    "published": 1768467637000,
+    "title": "Analyst Says It’s Time For Ethereum’s ‘Big Test’ – Is ETH Season Loading?",
+    "body": "After its recent price breakout, Ethereum (ETH) is facing its next big test and attempting to turn a crucial area into support. Some analysts have suggested that the altcoin is ready to continue its bullish momentum, arguing that the biggest rotation in years is coming. Related Reading: Bitcoin Nears ‘Historic’ Technical Test As Price Eyes $93,500 Barrier – What’s Next? Ethereum Challenges Key Resistance Area On Wednesday, Ethereum broke past a crucial area and retested the $3,400 level for the first time in over a month. The king of altcoins has seen a 6% increase in the daily timeframe, jumping from the $3,100 level to the current levels. Notably, ETH has been hovering between the $3,000-$3,300 area since the start of the year rally, but failed to break the local range’s upper boundary during last week’s attempt. Now, the cryptocurrency has daily closed above this barrier and is testing this area as support. Amid this performance, analyst Michaël van de Poppe affirmed that “it’s ETH season” as the leading altcoin has held above the 21-day Moving Average (MA) since January 1. He explained that this level, officially lost during the early Q4 2025 corrections, is crucial for the price to hold onto to strengthen the momentum. To the market observer, Ethereum is “ready to make new highs and continue the uptrend,” and based on this structure, his main scenario is that the cryptocurrency will likely retest the $3,800 area soon. Meanwhile, Daan Crypto Trades pointed out that ETH is currently facing a “big test.” The trader noted that the altcoin has been moving within its $2,600-$3,300 price range over the past two months, adding that a breakout from this range is necessary to define the direction of its next move. Per the chart, Ethereum must reclaim the $3,350 level, where the 200-day exponential moving average (EMA) is located. This indicator has served as a key rejection area since November, and breaking above it “should lead to a move higher to catch the Daily 200MA next,” currently located around the $3,600 area. ETH To Follow Its 2018 Playbook? Crypto Jelle also shared an optimistic outlook for the cryptocurrency, asserting that Ethereum “looks better than it has looked in years” against both Bitcoin (BTC) and the US Dollar. He argued that both charts are poised to move higher since ETH’s downtrend against BTC is over, and its USD chart looks ready to push towards the $4,000 barrier again. He added that the ETH/BTC anticipated rally means “ETHUSD could see price move a lot higher over the coming months.” Similarly, Alex Wacy recently explained that the “biggest ETH rotation in 8 years [is] forming right now.” The analyst highlighted that the king of altcoins is repeating the same playbook that led to its 2018 breakout against BTC, but with “bigger players” and “more capital entering.” Related Reading: Monero (XMR) Hits New $610 All-Time High – Veteran Trader Shares Silver-Like Setup According to the chart, ETH saw a multi-year accumulation against Bitcoin between 2015 and 2017, leading to its massive expansion in 2018. After an initial breakout, the cryptocurrency re-accumulated for an extended period inside a falling wedge pattern, which resulted in a 50x pump from this structure. This time, Ethereum’s trading pair against BTC moved within a multi-year falling wedge pattern again, which was broken out of in Q4 2025. If history repeats itself, the altcoin could see a new massive surge against the flagship crypto over the coming months. As of this writing, Ethereum is trading at $3,375, a 5% increase in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btc|crypto analyst|Crypto Market Recovery|Crypto trader|ETH|eth price|ethbtc|ethereum|Ethereum Breakout|Ethereum Price analysis|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
