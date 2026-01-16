@@ -1,465 +1,5 @@
 [
   {
-    "id": 57186341,
-    "published": 1768480865000,
-    "title": "Short squeeze hits top 500 cryptos as traders unwind bearish bets",
-    "body": "Crypto markets saw the largest short squeeze since October as short positions were liquidated and Bitcoin outperformed the US dollar amid geopolitical uncertainty.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57186856,
-    "published": 1768482671000,
-    "title": "Tom Lee's Bitmine invests $200 million in billionaire YouTube star MrBeast’s company",
-    "body": "The investment gives Bitmine a stake in a brand with strong Gen Z and millennial appeal, reaching over 450 million subscribers across its YouTube channels.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bitmine|YouTube|Crypto|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57187492,
-    "published": 1768484635000,
-    "title": "SWIFT trials euro stablecoin in tokenized bond payments with SG-Forge",
-    "body": "Societe Generale-Forge said its EUR CoinVertible stablecoin is the first MiCA-compliant digital asset that is “natively compatible” with SWIFT’s interoperability capabilities.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57187343,
-    "published": 1768484031000,
-    "title": "Galaxy closes first $75M blockchain-based loan deal on Avalanche",
-    "body": "Galaxy Digital has completed its first tokenized CLO, using blockchain infrastructure to bring private credit and crypto-backed loans onchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57187792,
-    "published": 1768485600000,
-    "title": "Stablecoins and self-custody are driving the rise of crypto neobanks",
-    "body": "For years, crypto’s most ambitious builders focused on blockchains’ plumbing. But a growing number of projects are now stepping away from the base layer and focusing on payments and neobank-like services.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Tech|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57187793,
-    "published": 1768485600000,
-    "title": "Lower volatility, bigger allocations: Ark Invest sees bitcoin entering its next chapter",
-    "body": "With ETFs and corporate treasuries absorbing more bitcoin than expected, the market is entering a more institutional, lower-volatility era.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|ARK Invest|Bitcoin News|Exclusive|Bitcoin ETF|Digital Asset Treasury|Feature",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57187988,
-    "published": 1768485946000,
-    "title": "MrBeast Nabs $200 Million Investment from Tom Lee’s Bitmine",
-    "body": "Bitmine Immersion Technologies Inc., the largest corporate holder of the cryptocurency Ether and chaired by Fundstrat’s Tom Lee, said it will invest $200 million for a stake in Beast Industries, the private company behind YouTube star Jimmy “MrBeast” Donaldson.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57188958,
-    "published": 1768489204000,
-    "title": "Analyst Says XRP Price Just Entered Neutral State – What This Means",
-    "body": "A crypto analyst has announced that the XRP price has just entered a neutral state and could be gearing up for a major rally. He explains how this phase has historically appeared before strong rallies and outlines what the current market structure may signal for XRP moving forward. XRP Price Enters Neutral State Before Bull Rally Crypto expert and data analyst CW recently shared a fresh update on XRP’s price action, noting that the cryptocurrency has broken out from its bottom and moved into a neutral state. He said this shift marks the early stage of a larger bull rally, with a decisive move above the previous all-time high acting as the key signal for price acceleration. Related Reading: XRP Analyst Says This Is What They Aren’t Showing You, ‘Don’t Get Shaken Out’ The chart he shared shows XRP following a repeated four-phase pattern across multiple market cycles, first from 2014 to 2018 and again from 2017 to date. In the 2014 cycle, Phase 1 began with a sharp breakout to TP1, setting a new ATH. From that peak, XRP entered Phase 2, which formed a Symmetrical Triangle. During this phase, XRP moved sideways within a tightening range for several months. Phase 3 came next, marking a long consolidation period for XRP. Eventually, XRP’s price broke the upper boundary of the symmetrical triangle and entered Phase 4. In this final phase, XRP surged to TP2, reaching a second ATH at the 6.618 Fibonacci extension level. According to the chart, XRP has already completed Phases 1-3 in the current cycle and has entered Phase 4. After hitting its first peak around $3.5 (TP1) earlier in 2025, the cryptocurrency recently broke above the upper boundary of a similar Symmetrical Triangle pattern, entering a “neutral state.” Now that XRP has reached this state, CW noted that it has entered Phase 4, the final stage of the four-phase historical pattern. The analyst has projected a second new all-time high for XRP near $21.5, aligning with the 6.618 Fibonacci extension level from the 2014 cycle. How Momentum Indicators Reacted During Each Phase At the bottom of CW’s price chart is a Stochastic Oscillator and a Moving Average Convergence Divergence (MACD) histogram. The stochastic shows overbought and oversold conditions for each cycle. Related Reading: Analyst Breaks Down Why Investors Will Make More Money With XRP Than Bitcoin In Phase 2 of each cycle, the stochastic frequently hits oversold levels, which align with the extended consolidation and price decline observed in that period. During Phase 3, it stays around the middle range, reflecting a neutral state. Finally, in Phase 4 of the 2014 cycle, it spikes toward overbought levels, coinciding with strong price breakouts. Meanwhile, the MACD histogram mirrors momentum shifts in each phase. During Phase 1, the histogram shows strong positive bars during the initial breakout. Phase 2 saw negative bars as the price declined, signaling bearish momentum. After this, Phase 3 showed small, fluctuating bars, indicating low momentum. Lastly, in Phase 4, the histogram rapidly expands on the breakout, pushing its price to new ATHs in 2014. Featured image from Freepik, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|CW|MACD Histogram|Moving average convergence divergence|Ripple|Stochastic Oscillator|Symmetrical Triangle Pattern|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57188988,
-    "published": 1768489146000,
-    "title": "JPMorgan sees 2026 crypto inflows topping the $130 billion hit in 2025",
-    "body": "The bank said global capital moving into digital assets hit a record last year and is poised to grow further as institutional investors return.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|JPMorgan|Bitcoin News|Institutional Adoption|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189223,
-    "published": 1768490073000,
-    "title": "Michael Saylor's Strategy still has major upside despite 2025 plunge, says TD Cowen",
-    "body": "Strategy remains an effective proxy for bitcoin exposure, particularly for investors with a long-term view, analyst Lance Vitanza said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Strategy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189123,
-    "published": 1768489688000,
-    "title": "Bank of America CEO says stablecoins could drain trillions in bank deposits",
-    "body": "BofA CEO Brian Moynihan echoed other banks in warning that $6 trillion in bank deposits were at stake, even as he said the bank will “be fine.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Bank of America|JPMorgan|American Bankers Association|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 57189144,
-    "published": 1768489670000,
-    "title": "Crypto Wallet MetaMask Adds Tron Support Following Bitcoin, Solana Expansions",
-    "body": "MetaMask continues adding chains as it expands beyond Ethereum, adding Tron support Thursday following last month’s Bitcoin move.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189090,
-    "published": 1768489624000,
-    "title": "Crypto bill delay 'may ultimately be constructive' for final product, Benchmark says",
-    "body": "Delayed markups could give Congress time to resolve issues that may determine how, and whether, institutions fully enter U.S. crypto markets, broker Benchmark said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|crypto regulation|Market Structure Legislation|Benchmark|Stablecoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189375,
-    "published": 1768490100000,
-    "title": "These three XRP charts hint at a price rally toward $2.80",
-    "body": "XRP’s technical and onchain signals hint at a bullish breakout, with bulls eyeing a significant rally toward $2.80 by the month’s end.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57189688,
     "published": 1768491388000,
     "title": "DeadLock Ransomware Using Polygon Smart Contracts to Evade Detection",
@@ -2861,6 +2401,368 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57214173,
+    "published": 1768566903000,
+    "title": "Jefferies’ ‘Greed & Fear’ strategist cuts Bitcoin allocation to zero on quantum risk",
+    "body": "Jefferies’ Greed & Fear strategist Christopher Wood has slashed a 10% Bitcoin allocation from his portfolio and moved into gold, citing the quantum risk to BTC, Bloomberg reports.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57214632,
+    "published": 1768568400000,
+    "title": "Trump moves on the Fed, Italy warns ‘fin-fluencers’: Global Express",
+    "body": "US President Donald Trump is bringing criminal charges against the head of the Fed in what many see as a political move motivated by a desire for lower interest rates.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57214473,
+    "published": 1768568039000,
+    "title": "Jefferies strategist Christopher Wood swaps bitcoin for gold on quantum computing concern",
+    "body": "Christopher Wood, Jefferies' global head of equity strategy, swapped a 10% bitcoin allocation with gold on concern quantum computing could weaken bitcoin’s security case.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|quantum computing|Investing|Jefferies|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57215754,
+    "published": 1768572057000,
+    "title": "Crypto Chill: Sentiment Drops As US Lawmakers Stir Market Fears",
+    "body": "The market mood in crypto cooled sharply after a quick spike in optimism. According to the Crypto Fear & Greed Index, the reading fell by 12 points on Friday, dropping from 61 to 49. Related Reading: Altcoin Rallies Are Getting Shorter, And Wintermute Has The Data That swing moved the gauge from “greed” into a “neutral” zone in a single session. Bitcoin had jumped about 4.5% earlier in the week to roughly $97,700, which helped push sentiment higher, but the focus shifted toward politics and lawmaking in Washington. Regulatory Concerns Shake Markets Based on reports, the main trigger was debate over a Senate version of a long-awaited crypto market structure bill. The measure would set out how US regulators oversee digital assets and includes language that would tighten rules around stablecoin yields. Several lobbyists and executives raised alarms about those provisions. Brian Armstrong, the CEO of Coinbase, withdrew his backing, saying the proposal would be worse than the current setup and that a bad law would be harmful. After the backlash, the Senate Banking Committee cancelled its planned markup and the Senate Agriculture Committee moved its session to late January while lawmakers seek more support. Social Media Sentiment Shifts As Traders React According to crypto analytics firm Santiment, the market activity had two different trends at once: larger holders were building positions while smaller, retail traders were selling. Social chatter began to reflect worry after the regulatory news, even as on-chain data showed accumulation by more experienced wallets. The index’s peak earlier in the week was the highest since it reached 64 on October 10, the same day a market crash triggered over $19 billion in liquidations. Those past losses still hang in investors’ memories. Smart Money Buys While Retail Sells Reports have disclosed that smart money accumulation can support prices, but headlines shape short-term moods. Bitcoin was trading at about $95,642 at the time of publication, down around 0.02% over the past 24 hours, according to CoinGecko. That small move shows market resilience, yet the sentiment measure’s drop demonstrates how fragile confidence can be when policy doubts emerge. Many traders watch Washington closely, sometimes even more closely than charts. Related Reading: Bitcoin’s New Power Buyers: Companies Bought 3 Times What Miners Produced Delay Seen As Chance By Some Industry Players A segment of the industry read the postponements as constructive. David Sacks, who advises on crypto matters at the White House, said the pause could help close gaps between stakeholders and bring the bill closer to something workable. Brad Garlinghouse, CEO of Ripple, kept engaging with lawmakers and described the delay as an opening to improve the text. Those views contrast with more alarmed voices and help explain the mixed market reaction. Featured image from The Drive, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btcusd|coinbase|crypto|fear and greed|stablecoin",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57215737,
+    "published": 1768571895000,
+    "title": "Ethereum ETF buying outpaces new supply: Will it push ETH price to $4.5K?",
+    "body": "Renewed spot Ethereum ETF inflows topped $474 million this week while network metrics smashed records, positioning ETH for a rally to $4,500 in the coming weeks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57215505,
+    "published": 1768571194000,
+    "title": "Huione-linked Tudou Guarantee winds down amid $130M USDT refunds: Bitrace",
+    "body": "The apparent shutdown follows years of scrutiny of one of crypto’s largest fraud marketplaces.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57216970,
+    "published": 1768575600000,
+    "title": "Who gets the yield? CLARITY Act becomes fight over onchain dollars",
+    "body": "The CLARITY Act is becoming a fight over who controls yield as rules split DeFi companies and incumbents and risk pushing onchain US dollar yield offshore.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57216739,
+    "published": 1768573120000,
+    "title": "Early 2026 tailwinds for bitcoin miners as hashrate falls, profitability improves: JPMorgan",
+    "body": "U.S.-listed bitcoin miners entered 2026 with rising revenues, improving margins and recovering valuations, setting a more constructive near-term backdrop.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|Bitcoin News|Hashrate|Iren|JPMorgan|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57216737,
+    "published": 1768572935000,
+    "title": "CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Gains 3.1%, Leading Index Higher",
+    "body": "Aave (AAVE) was also a top performer, rising 1.4% from Thursday.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 2,
+        "NAME": "AAVE",
+        "CATEGORY": "AAVE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57216735,
+    "published": 1768570775000,
+    "title": "BitMine’s $200 million MrBeast investment seen as strategic diversification: B. Riley",
+    "body": "The investment gives BitMine exposure to consumer media and potential DeFi revenue streams, strengthening its treasury strategy beyond ether accumulation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitmine|Ethereum Treasury|B. Riley|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       }
     ]
   }
