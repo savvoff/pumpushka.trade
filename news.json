@@ -1,501 +1,5 @@
 [
   {
-    "id": 57189688,
-    "published": 1768491388000,
-    "title": "DeadLock Ransomware Using Polygon Smart Contracts to Evade Detection",
-    "body": "The ransomware family’s abuse of Polygon smart contracts echoes techniques recently seen in Ethereum-based attacks.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|polygon|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 38,
-        "NAME": "MATIC",
-        "CATEGORY": "MATIC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189646,
-    "published": 1768491024000,
-    "title": "State Street Is Joining Crypto Rush With Digital-Asset Rollout",
-    "body": "State Street Corp. is rolling out a suite of tokenized products as the firm pushes to grow in the increasingly popular asset class.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NYS:STT",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57190076,
-    "published": 1768492800000,
-    "title": "Crypto for Advisors: Blockchain’s Impact on Government",
-    "body": "The CLARITY Act, expected to clarify digital asset rules, will enable blockchain to bring real-time transparency to government operations and public spending.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|Financial Advisors|Clarity Act|CoinDesk Indices|Crypto for Advisors|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57189915,
-    "published": 1768492276000,
-    "title": "Galaxy Digital stock rises 4% after Texas grid operator approves data center expansion",
-    "body": "The expansion supports Galaxy's AI and high-performance computing plans, with construction underway on the first phase.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Galaxy Digital|Texas|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 57189881,
-    "published": 1768492119000,
-    "title": "Bitcoin slides below $96,000 as key crypto bill stalls in Congress",
-    "body": "After a brief reprieve, crypto returned to selling off during U.S. market hours on Thursday.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Market Wrap|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57190371,
-    "published": 1768493557000,
-    "title": "Elon Musk's X Bans Access to ‘InfoFi’ Crypto Projects Amid ‘AI Slop’ Backlash",
-    "body": "X is making major changes to its API to prevent access by \"InfoFi\" crypto projects that seek to incentivize \"reply spam,\" an exec said.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57190697,
-    "published": 1768494659000,
-    "title": "Bitcoin Rally Reflects Buyer Conviction On Coinbase Spot Markets, Bull Run Back On?",
-    "body": "The recent Bitcoin rally may be driven by real spot demand on Coinbase. Data indicating elevated spot activity on Coinbase suggests that this move higher is bolstered by direct purchases rather than leveraged positioning in derivatives markets. This distinction matters because Spot buying reflects a real capital commitment, not a temporary bet. Why Risk Management When Demand Is Structural The Bitcoin rally since Sunday’s Powell subpoena news has been largely linked to Coinbase spot buyers. Crypto trader Alex Krüger has highlighted on X that both the Adjusted Coinbase Premium and Cumulative Volume Delta (CVD) show steady spot accumulation, which is exactly why this has been a true hated rally even among bitcoiners. For over a month, the dominant narrative in every crypto chat room has been that BTC is lagging while equities and commodities are moving upward. Related Reading: Analyst Outlines The Bulllish And Bearish Scenarios For Bitcoin – Here’s What To Know However, the fun fact is that equities are not accurate, but 40% of the S&P 500 (Standard & Poor’s 500) stocks have actually closed red in 2025, (39.2% to be precise). Perception is doing a lot of work here, and the United States Department of Justice (DOJ) move on Powell represented a major macro litmus test for BTC. Kruger claims that the BTC long-term value proposition is about protecting against the tail risk of central bank profligacy. On Monday, BTC surged upward, although the move was just a little surge. According to Krüger, the BTC key battlefield remains the 50-week moving average (WMA), which is currently around $101,420. Meanwhile, the trader is looking to take some profits into short liquidations right above the $100,000 mark. Why Bitcoin Benefits First From Institutional Flows The Digital Asset Market Clarity Act is set for markup today, January 15th, 2026, in the Senate Banking Committee. According to the update by BTC_road_to200k on X (Formally Twitter), this is where the lawmakers will debate and shape the final version of the bill before it moves forward. Related Reading: Bitcoin Price Stays Pinned Above Support, Setting Up a Bigger Move This matters because the art aims to clear up the ongoing regulatory uncertainty between the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC), which has been a major source of hesitation for large institutional players looking to move into Bitcoin and other digital assets. Furthermore, the Clarity Act will be a turning point as it aims to clear rules that will bring more confidence to banks, pension funds, and large investors, which often translates into higher demand and stronger price momentum for BTC. As the regulatory clouds lift, the market might start experiencing a renewed wave of institutional money flowing in, and that’s obviously bullish for BTC. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Adjusted Coinbase Premium|Alex Kruger|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTC_road_to200k|btcusd|BTCUSDT|cftc|CLARITY Act|coinbase|Commodity Futures Trading Commission|cumulative volume delta|CVD|doj|S&P 500|sec|Securities and Exchange Commission|Standard & Poor’s 500|United States Department of Justice",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57190749,
-    "published": 1768494742000,
-    "title": "MrBeast Eyes DeFi as Tom Lee's Ethereum Treasury BitMine Invests $200 Million",
-    "body": "BitMine Immersion Technologies unveiled a $200 million investment in Beast Industries, a company founded by YouTube creator MrBeast.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57191249,
-    "published": 1768496449000,
-    "title": "Chainlink, Cardano and Stellar Futures Begin Trading on CME Next Month",
-    "body": "CME Group plans to launch Cardano, Chainlink, and Stellar futures on February 9, pending approval.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57191323,
-    "published": 1768496343000,
-    "title": "Bitcoin’s renewed push to $100K sparked by fresh institutional demand",
-    "body": "Sustained US Bitcoin ETF inflows are supporting prices near $97,000, raising questions about whether institutional demand is reshaping Bitcoin’s market cycle.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57191548,
-    "published": 1768495774000,
-    "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
-    "body": "Crypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.11. DCR (+30%), DASH (+10%), ICP (+10%) and ZEC (+7%) led top movers; XMR hit another new ATH at $800 before retracing to $725. Coinbase pulled support for the Senate’s crypto market structure bill ahead of a key vote, citing major concerns with the latest draft, leading to the Senate delaying the bill. Zcash avoided SEC action after the Zcash Foundation said the agency’s investigation has concluded. Ripple secured a Luxembourg license as its European expansion continued. Pakistan teamed with World Liberty Financial to explore stablecoin use cases for remittances and cross-border payments. The Human Rights Foundation awarded nearly $1.3M in Bitcoin grants to projects tied to human rights and freedom tech. Figure unveiled a new public equity network designed to enable on-chain issuance of stocks and related assets. FTX prepared another round of creditor payments and outlined timing details for the next distribution on March 31. Sui came back online after a nearly six-hour network stall, marking another reliability test for the chain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57192045,
-    "published": 1768499030000,
-    "title": "Kaito to sunset 'Yaps' as X cracks down on InfoFi apps, token falls 17%",
-    "body": "The crypto analytics firm is replacing its reward-driven social product with a more selective creator marketing platform after X revised its API policies to curb spam.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Social Media|X|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57191831,
-    "published": 1768498414000,
-    "title": "Citrea unveils U.S. Treasury-backed stablecoin for its Bitcoin ecosystem",
-    "body": "The first stablecoin issued through MoonPay’s launchpad aims to solve liquidity fragmentation by issuing natively on Citrea.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Stablecoins|MoonPay|Layer 2s|Zero-Knowledge Proofs|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57192599,
-    "published": 1768500701000,
-    "title": "CME Group to expand crypto futures with Cardano, Chainlink and Stellar contracts",
-    "body": "The planned altcoins listings will expand CME’s regulated crypto derivatives contracts beyond Bitcoin, Ether, XRP and Solana.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57192758,
     "published": 1768501362000,
     "title": "DeFi sees ‘bad’ crypto bill’s collapse as win, not setback",
@@ -2763,6 +2267,403 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57217498,
+    "published": 1768577414000,
+    "title": "Iranians Turn to Crypto as Economic Crisis and Sanctions Deepen",
+    "body": "As Iran’s economy continues to strain under heavy sanctions, high inflation, and a weakening currency, many citizens are turning to crypto as an alternative financial lifeline. Related Reading: Bitcoin Tailwind: Cathie Wood Sees ‘Reaganomics On Steroids’ Ahead Recent blockchain data shows a sharp rise in Bitcoin withdrawals and transfers to personal wallets, particularly during periods of unrest and internet restrictions. For many Iranians, digital assets now serve both as a hedge against currency collapse and a way to move funds beyond government-controlled systems. The Iranian rial has lost around 90% of its value against the U.S. dollar since 2018, while inflation has hovered between 40% and 50%. In response, crypto usage has grown steadily, with Iran’s total cryptocurrency activity reaching an estimated $7.78 billion in 2025, according to Chainalysis. BTC's price trends sideways on the daily chart. Source: BTCUSD on Tradingview Bitcoin Use Rises During Protests and Internet Blackouts Crypto activity surged during mass protests that began in late December 2025, triggered by rising living costs and currency devaluation. As demonstrations spread, authorities imposed internet shutdowns and tightened financial controls. During this period, blockchain data showed higher average daily transaction values and a notable increase in transfers from Iranian exchanges to self-custodied Bitcoin wallets. Smaller withdrawals, often associated with individual users, recorded some of the strongest growth. Medium and large transfers also increased, suggesting that both households and businesses were seeking to move funds out of local platforms. Bitcoin’s appeal lies in its ability to be stored and transferred without relying on domestic banks or state oversight. For Iranians facing restrictions on access to cash, foreign currency, or international transfers, crypto offers a way to preserve value and maintain some financial mobility. Crypto’s Dual Role: Citizens and State Actors While ordinary Iranians are using cryptocurrencies to protect savings, state-linked actors are also active in the digital asset space. Wallets associated with Iran’s Islamic Revolutionary Guard Corps (IRGC) accounted for more than half of the country’s crypto transaction value in the final quarter of 2025. These wallets received over $3 billion during the year, up from around $2 billion in 2024. Western authorities believe the IRGC uses cryptocurrencies to bypass sanctions, move funds across borders, and support regional operations. Chainalysis notes that these figures likely underestimate the true scale, as many affiliated wallets and networks remain unidentified. At the same time, spikes in Iranian crypto activity have closely followed major political and security events, including the Kerman bombings in 2024, missile strikes in October 2024, and a 12-day conflict in June 2025 that disrupted Iran’s largest crypto exchange and a major state bank. A Growing Dependence on Digital Assets For many Iranians, cryptos have become more than a speculative asset. They are increasingly used as a tool for financial survival in an economy marked by inflation, sanctions, and limited access to global markets. Bitcoin’s censorship resistance and portability make it especially attractive during periods of unrest or capital controls. Related Reading: XRP In A ‘Super Cycle’? SuperTrend Suggests Another Story As economic pressures persist and geopolitical tensions remain high, blockchain analysts expect crypto usage in Iran to continue rising. Whether as a means of preserving personal wealth or navigating sanctions, digital assets are now a central part of Iran’s financial landscape. Cover image from ChatGPT, BTCUSD chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|bitcoin|btc|btcusd|crypto|ETH|ethereum|ethusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57217389,
+    "published": 1768577013000,
+    "title": "Wikipedia Reveals Multiple Deals with AI Giants to Use Its Content",
+    "body": "The Wikimedia Foundation said it has inked agreements with Microsoft, Google, Amazon and Meta to use its content for training LLMs.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57217631,
+    "published": 1768576695000,
+    "title": "Crypto card spending hits $18 billion annualized as stablecoin use shifts to everyday payments",
+    "body": "Artemis research shows crypto credit and debit card spending is now rivaling peer-to-peer stablecoin transfers, with Visa capturing most on-chain volume through early infrastructure partnerships.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Visa|Crypto card|Stablecoins|cryptocurrency payments|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57217629,
+    "published": 1768576343000,
+    "title": "Riot Platforms surges 11%  as lease deal with AMD marks major AI infrastructure pivot",
+    "body": "The company sold nearly $100 million of bitcoin to fund the purchase of its 200-acre Rockdale site and signed a leasing agreement with Advanced Micro Devices that could deliver $1 billion in revenue.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|Riot platforms|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57218277,
+    "published": 1768579784000,
+    "title": "South Korea Tightens Crypto Access as Google Play Blocks Unregistered Exchanges",
+    "body": "A new app store crackdown has landed in South Korea as lawmakers formalize a framework for tokenized securities.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57218189,
+    "published": 1768579636000,
+    "title": "Bitcoin pulls back to $94,300 as U.S. stocks sink, precious metals tumble",
+    "body": "A selloff in precious metals and lower U.S. stocks appeared to be denting crypto sentiment.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57218768,
+    "published": 1768579819000,
+    "title": "HR services provider Gusto taps Zerohash to speed up global payouts with stablecoins",
+    "body": "Payroll and HR platform Gusto is piloting stablecoin payouts powered by Zerohash, aiming to cut cross-border payment times.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Zero Hash|Stablecoins|Exclusive|Cross-Border Payments|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57219136,
+    "published": 1768582821000,
+    "title": "XRP Whale Inflows To Binance Hit Their Lowest Level Since 2021: Accumulation Behavior?",
+    "body": "XRP is consolidating above the $2 mark after a volatile stretch, as the market begins to wake up and traders watch for the next directional move. While price action remains relatively stable, on-chain data suggests that selling pressure from large holders may be easing, creating a more constructive short-term backdrop for bulls. Related Reading: Bitcoin Bull Score Hits Level Seen Only 7 Times In 6 Years – A Rare Historical Signal A report from Arab Chain on CryptoQuant highlights a sharp decline in whale transfers to Binance over the past few days. Data from the XRP Ledger shows that the Whale Transfer Flow (30DMA) dropped to 48 million XRP before rebounding slightly to 56.1 million XRP, marking the lowest levels recorded since 2021. This metric tracks the average volume of large wallet transfers moving into exchanges, and it is often used as a proxy for whale distribution and sell-side intent. Historically, when whale inflows surge, it tends to signal that large investors are positioning to offload holdings, adding supply to the market and increasing downside risk. However, when these flows compress to unusually low levels, it typically reflects reduced urgency to sell, which can help stabilize price during consolidation phases. With XRP holding above $2, this shift in exchange-bound whale activity suggests the market may be entering a quieter accumulation window, where any breakout will likely depend on fresh demand rather than panic-driven liquidity. Whale Inflows Cool Off as XRP Holds Key Support What makes this reading especially notable is that it comes while XRP remains relatively stable on the price chart. Averaging around $2.15 during the same period. Instead of seeing whales rush to exchanges into strength, the data suggests large holders are choosing to stay positioned. Investors may prefer to hold XRP rather than actively distribute it into the market. This type of behavior is often associated with “quiet” market phases. Where price compresses and liquidity thins out, setting the stage for a larger move once demand returns. When exchange-bound whale transfers fade, it typically means fewer coins are immediately available for sale. This can reduce resistance on small upside pushes and keep downside moves more contained. Historical context adds weight to the signal. In 2021, the last time whale inflows to exchanges reached similarly low levels, XRP was entering periods that later developed into stronger upward trends. Back then, supply on exchanges stayed constrained while demand gradually built, allowing price to respond more efficiently once momentum shifted. For now, the current decline in whale inflows is easing short-term sell pressure and improving the supply setup. If buyers step in with stronger volume, XRP may be better positioned to break out of consolidation without facing heavy distribution from large wallets. Related Reading: Bitcoin Reclaims $97K As Long-Term Holders Supply Stays Locked XRP Momentum Stalls Under Key Averages XRP is trading near $2.06 on the daily chart after weeks of choppy consolidation. Showing a market that is stabilizing but still lacks strong trend conviction. Price has held above the psychological $2 level, which has served as a short-term floor following the late-2025 selloff that dragged XRP toward the $1.80–$1.90 zone. However, the rebound remains technically fragile, as XRP is still trading below key moving averages that continue to slope downward. The blue and green trend lines, which represent medium-term resistance, sit above the price and highlight how sellers have defended rallies since November. XRP’s recent push higher was met with rejection near the $2.30–$2.35 area. Reinforcing that demand has not yet been strong enough to reclaim higher levels and shift the market structure bullish. Related Reading: Bitcoin Bulls Take Control: Futures Positioning Turns Bullish for First Time Since October Volume has also remained relatively muted outside of isolated spikes, suggesting the market is not seeing aggressive expansion in participation. For bulls, the immediate objective is building acceptance above $2.20 and flipping the descending averages into support. If XRP loses $2, downside pressure could quickly return toward the $1.90 area. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Binance XRP|xrp|XRP Accumulation|xrp news|XRP Whale|XRP Whale Activity|XRP Whale Binance Inflow|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57219321,
+    "published": 1768583268000,
+    "title": "Bitcoin is now most undervalued versus gold: Will BTC price rebound?",
+    "body": "BTC price surged nearly 150% after a similar BTC–gold undervaluation signal in late 2022, highlighting how extreme discounts have preceded major rallies.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57219718,
+    "published": 1768584680000,
+    "title": "Nasdaq Warns Bitcoin Hardware Maker Canaan About Delisting",
+    "body": "Bitcoin miner Canaan faces Nasdaq delisting deadline as shares languish below $1 despite major hardware order and brief October rally.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57220396,
+    "published": 1768586955000,
+    "title": "Despite the Dip, Bitcoin Just Flashed Its Most Reliable Bullish Signal: Analysis",
+    "body": "The price of Bitcoin is down today, but BTC also just flashed its most-watched bullish signal. Is a recovery rally on the way?",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
