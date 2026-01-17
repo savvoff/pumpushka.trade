@@ -1,455 +1,5 @@
 [
   {
-    "id": 57196219,
-    "published": 1768512187000,
-    "title": "West Virginia lawmaker introduces bill to allow state crypto investments",
-    "body": "The legislation would allow the state‘s treasury to hold digital assets with a market capitalization of more than $750 billion, which applied only to Bitcoin as of January.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57196890,
-    "published": 1768514417000,
-    "title": "Zcash Surges Post-SEC Probe: Is a Fresh Yearly High on the Horizon?",
-    "body": "Zcash (ZEC) is back on investors’ radar after U.S. regulators ended a long-running investigation into the Zcash Foundation without enforcement. The decision removes a key source of uncertainty that had followed the privacy-focused cryptocurrency since 2023. Related Reading: XRP Price Is Approaching A Key Decision Zone, But Structure Is Still Firmly Bullish Markets reacted quickly, with ZEC posting double-digit gains in some sessions and stabilizing above the $400 level. While regulatory clarity has helped improve sentiment, questions around governance and long-term development remain. ZEC's price trends sideways after a violent move upwards on the daily chart. Source: ZECUSD on Tradingview SEC Closes Two-Year Zcash Investigation The U.S. Securities and Exchange Commission confirmed it has concluded its review of the Zcash Foundation, which began with a subpoena issued on August 31, 2023. The inquiry focused on potential securities law concerns tied to Zcash’s funding model, governance structure, and token distribution. According to the foundation, the SEC does not intend to recommend enforcement action, fines, or operational changes. This outcome marks a notable shift for privacy-focused cryptocurrencies, which have often faced heightened regulatory scrutiny due to concerns about illicit use. The decision suggests that Zcash’s privacy features alone were not deemed sufficient grounds for action under existing securities laws. The closure also aligns with a broader trend of the SEC withdrawing from several high-profile crypto investigations in recent months under new leadership. For Zcash, the end of the probe removes a regulatory overhang that had weighed on investor confidence for nearly two years. Market Reaction and Price Projections Following the announcement, ZEC surged between 5% and 14% across major exchanges, briefly testing the $440–$450 resistance zone. Currently, the token is trading around $427–$442, holding above the $400 psychological support level. Technically, ZEC remains in a consolidation phase after falling from its January high near $535. Resistance is clustered around $450–$470, while support sits near $400, with a deeper floor around $350 if sentiment weakens. Some analysts point to a symmetrical triangle pattern on longer timeframes, often viewed as a continuation structure after strong rallies. A confirmed breakout above the upper trendline could open the door toward higher levels, including a potential retest of the $1,000 mark later in 2026. Governance Uncertainty Clouds the Outlook Despite the regulatory win, internal challenges persist. Earlier this month, the full development team at Electric Coin Company (ECC), which has led core Zcash development, resigned following a dispute with its nonprofit board. Former ECC leaders cited deteriorating working conditions and have since announced plans to launch a new privacy-focused wallet, cashZ, based on Zcash technology. Related Reading: Arthur Hayes Bets On MSTR, Metaplanet And Zcash As Bitcoin Liquidity Turns The Zcash Foundation has stated that network operations and protocol stability remain unaffected by the personnel changes. Still, the departures have raised concerns about governance stability, development continuity, and long-term coordination within the ecosystem. Cover image from ChatGPT, ZECUSD chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Zcash Zec|ZCash|ZEC|ZEC Price|zecusd",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57196956,
-    "published": 1768514432000,
-    "title": "Brian Armstrong’s Crypto Bill Diatribe Was Only the Beginning",
-    "body": "Emily Masonand Olga Kharif sum up just about everything the crypto industry disliked in a bill that was postponed by the Senate Banking Committee just before it was about to go to markup.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:COIN",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57197561,
-    "published": 1768516200000,
-    "title": "Bitcoin rally collapses at $97K as funding rate stalls, retail traders sit out",
-    "body": "Bitcoin failed to hold $97,000 as its funding rate stalled and retail traders watched from the sidelines. Will TradFi reignite the rally to $100,000?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57197854,
-    "published": 1768517204000,
-    "title": "Democrats Blast SEC Over Crypto Retreat, Justin Sun’s Alleged China Ties",
-    "body": "House Democrats have accused the SEC of selectively enforcing laws against crypto firms, while spotlighting Tron founder Justin Sun.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57198107,
-    "published": 1768518027000,
-    "title": "Sui Restores Service After Major 6-Hour Outage Shook Network",
-    "body": "Sui’s blockchain resumed normal activity after a network stall that halted transactions for roughly six hours on January 14, 2026. According to reports, validators identified the problem in the mid-afternoon and worked to roll out a fix that restored block creation and transaction processing later that evening. Related Reading: Bitcoin’s New Power Buyers: Companies Bought 3 Times What Miners Produced Outage Timeline And Recovery Based on reports, Sui’s team first flagged the issue at about 2:52 pm UTC when block production and checkpoint creation stopped. Validators applied changes and began bringing nodes back into sync. Service was reported as restored at about 8:44 pm UTC, a span of roughly five hours and 52 minutes from detection to recovery. During that interval, no new blocks were finalized and user activity stopped across wallets and decentralized apps. The Sui network is now back and fully operational. Transactions are flowing normally. If you are still seeing issues, please refresh your app or browser window. Thanks for your patience. We will share a full incident review in the coming days. Please check… — Sui (@SuiNetwork) January 14, 2026 Transactions Halted And Value Frozen The halt left a large amount of on-chain value inactive while the network was stalled. Reports indicate more than $1 billion in value was effectively frozen during the outage, though there were no signs of funds being stolen or altered. Users and apps that rely on the chain saw failed or queued transactions, and many dApps displayed errors until validators finished their updates. Cause, Response And Market Reaction Reports have disclosed that the problem was recorded as a consensus outage, meaning the mechanism used to agree on new blocks stopped finalizing. A full technical root-cause writeup has not yet been published. The Sui Foundation said an incident report will appear later with more detail. The SUI token showed modest movement during the event, trading around $1.80–$1.85 in the hours after the network came back, with a brief spike recorded on some exchanges as the news circulated. Past Interruptions And Context Sui launched mainnet in May 2023, and this outage follows previous incidents that raised similar questions about validator coordination and uptime. One earlier major disruption occurred in November 2024, which also involved issues around consensus and validator operation. Developers who build on Sui said many of their services experienced interrupted user flows while the chain was stalled. Related Reading: Russia Drafts Bill That Could Change Who Can Buy Crypto Questions About Network Reliability Some community members and outside observers have asked how often such consensus stalls can happen and what measures will reduce future occurrences. Validators and the Sui team said they were focused on patching the immediate bug and improving monitoring so problems are detected faster. Based on reports, the foundation plans to share specific steps for validators and node operators in the upcoming post-mortem. Sui’s team has said transactions are flowing again and advised users to refresh wallets or apps if they still see problems. The network’s operators have promised more transparency with a formal incident report, which will be watched closely by developers, exchanges, and investors who depend on the chain’s steady operation. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|altcoins|blockchain|crypto|DeFi|memecoins|SUI",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 96,
-        "NAME": "SUI",
-        "CATEGORY": "SUI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57199003,
-    "published": 1768520756000,
-    "title": "BitMine expects $400 million income on ether holdings, bet on MrBeast could '10x'",
-    "body": "BitMine Chair Tom Lee told investors that the company could generate over $400 million income on its $13 billion worth of ether holdings, primarily via staking.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bitmine|Ethereum Treasury|Digital Asset Treasury|Ethereum News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      }
-    ]
-  },
-  {
-    "id": 57199296,
-    "published": 1768521608000,
-    "title": "Dogecoin Price Is Following This Bullish Signal With A Major Target",
-    "body": "Crypto analyst Trader Tardigrade has revealed that the Dogecoin price is following a bullish signal, which could lead to a rally above the $0.15 level. This comes as the crypto market rebounds, with Bitcoin rallying to a new yearly above $97,000. Dogecoin Price Eyes Rally Above $0.15 With This Bullish Signal In an X post, Trader Tardigrade hinted that the Dogecoin price could rally above $0.15 after rebounding from the Kumo support, which was exactly what the bullish signal flagged. The rebound comes amid the broader crypto market rally, with major crypto assets also recording significant gains as Bitcoin rallies above $97,000, with the psychological $100,000 level now in sight. Related Reading: Dogecoin Rapid Accumulation Suggests Sharp Upward Sweep Is Coming In another X post, Trader Tardigrade revealed that the Dogecoin price has formed a bull flag on the weekly chart and is now targeting the $0.195 price level. This will bring the leading meme coin close to the psychological $0.2 level, with a break above it paving the way for new local highs. Crypto analyst Crypto Tony highlighted the $0.154 level as being critical for the next leg up for the Dogecoin price. His accompanying chart showed that reclaiming this level would spark a rally above $0.16. One factor that could contribute to this bullish run for the foremost meme coin is renewed inflows into the Dogecoin ETFs. SoSoValue data shows that these Dogecoin ETFs still recorded zero flows on January 14 despite the rebound in the Dogecoin price. However, this could change soon, as these funds notably saw increased demand at the start of the year, when DOGE rallied to as high as $0.15, making it one of the best-performing crypto assets among the top 10 coins by market cap. What’s Next For DOGE As It Targets New Highs In an X post, crypto analyst Kevin Capital stated that a successful retest followed by a new local high will be further evidence that the corrective phase for the Dogecoin price has ended. This came as he noted that DOGE, like BTC and many other altcoins, has since come back and successfully tested its key 4-hour MAs after breaking out of them, attempting to end its major corrective phase. The analyst added that a new high would be a break of $0.157. Related Reading: Here’s Why The Bitcoin, Ethereum, And Dogecoin Prices Are Surging Today Meanwhile, crypto analyst Bitcoinsensus has suggested that the Dogecoin price could rally to as high as $4.5 if DOGE is repeating its macro cycle pattern. The analyst noted that so far this cycle, the meme coin has maintained its ground and has mainly been moving sideways. As such, it remains to be seen if this cycle can be as explosive as the last ones. At the time of writing, the Dogecoin price is trading at around $0.143, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Pixabay, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|altcoins|bitcoin|Bitcoinsensus|btc|CoinMarketCap|Crypto Tony|doge|DOGE news|Doge price|Dogecoin ETFs|Dogecoin news|dogecoin price|dogeusd|dogeusdt|Kevin Capital|SoSoValue|Trader Tardigrade",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57200057,
-    "published": 1768523750000,
-    "title": "Viral ‘Stranger Things’ AI Videos Raise New Concerns Over Deepfakes",
-    "body": "Excerpts warn how the demos using Kling’s Motion Control AI spotlight new risks as full-body identity swaps flood social media.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57200501,
-    "published": 1768525208000,
-    "title": "Bitcoin Rally Accompanied By ‘Very Bullish’ Whale-Retail Behavior, Santiment Says",
-    "body": "On-chain analytics firm Santiment has revealed how Bitcoin is currently in a bullish zone based on the behavior of whale and retail investors. Bitcoin Major & Retail Entities Have Shown Opposite Trajectories Recently In a new post on X, Santiment has talked about how Bitcoin investor behavior currently compares between the top and low ends. Sharks and whales make up for the former category, while retail investors represent the latter. Formally, the wallet ranges of the two sides of the market are defined as 10 to 10,000 BTC and less than 0.01 BTC. Below is the chart shared by Santiment that shows the trend in the Bitcoin supply held by each of these cohorts over the last few months. Related Reading: Bitcoin Fear & Greed Index Turns ‘Neutral’ For First Time Since October As is visible in the graph, the Bitcoin sharks and whales have seen their combined supply rise during the last few days, indicating that the large investors have been accumulating. Meanwhile, the retail investors have sold instead. This could imply that the big-money hands are backing the latest price rally, while small holders don’t believe the run will last, so they are exiting with their profits. If history is to go by, this may actually be a positive signal. According to the analytics firm, whale and retail behavior diverging in this manner puts the market in what it defines as the “Very Bullish” zone. “This is the ideal setup for a bull run,” noted Santiment. In the chart, the analytics firm has also highlighted four other zones for BTC based on the trajectories followed by the whale and retail supplies. “Very Bearish” (colored in red) follows the same contrarian logic as the Very Bullish region, with the zone appearing when large entities are selling, and retail is accumulating. Bearish (orange), Neutral (yellow), and Bullish (blue) map out the spectrum between the two extreme regions. Bitcoin’s latest venture into the green Very Bullish zone has come as sharks and whales have loaded up on 32,693 BTC (worth about $3.1 billion) since January 10th, corresponding to a supply increase of 0.24%. Retail investors have sold 149 BTC ($14.4 million) in this window instead, equivalent to a drop of 0.30%. Related Reading: Litecoin Whale Activity Spikes To 5-Week High: Reversal Or Continuation Signal? It now remains to be seen whether BTC will stay in this region for long or if another shift in investor behavior will take place. “How long it lasts depends on how long retail doubts the mini rally that has formed,” explains Santiment. BTC Price Bitcoin witnessed a break beyond the $97,000 level on Wednesday, but the bullish momentum has since cooled, with the BTC price returning to the $96,900 mark. Featured image from Dall-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin rally|Bitcoin retail|Bitcoin whales|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57200566,
-    "published": 1768525200000,
-    "title": "Uniswap lands on OKX’s X Layer as exchange deepens DeFi strategy",
-    "body": "The integration marks a key step in the crypto exchange's second-phase rollout, bringing Uniswap’s markets directly to its layer-2 network.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57200768,
-    "published": 1768525767000,
-    "title": "Kaito winds down crypto-backed ‘Yaps’ as X bans payments for ‘AI slop’",
-    "body": "The Kaito.ai and Cookie DAO tokens fell over 15% after X’s ban, a move X’s head of product Nikita Bier said should improve user experience on the social media platform.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57201713,
     "published": 1768528766000,
     "title": "Nexo to pay $500K fine to California regulator over ‘risky loans’",
@@ -2595,6 +2145,111 @@
         "ID": 49,
         "NAME": "TECHNOLOGY",
         "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57224192,
+    "published": 1768599278000,
+    "title": "Etherealize co-founders: ETH will hit $15,000 by 2027",
+    "body": "Etherealize co-founders Vivek Raman and Danny Ryan believe Ethereum is exiting a regulatory \"purgatory\" to become the premiere destination for Wall Street.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Ether|Ethereum News|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57224498,
+    "published": 1768600216000,
+    "title": "CES Top 12 Companies Redefining Personalization With Web3, AI, Robots",
+    "body": "At CES 2026, 12 companies reveal how AI, robots, and Web3 are redefining personalization through identity, trust, smart products, and human-centered design.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Business|/business|Innovation Rx: Technologies|/feature/innovation-rx/technologies|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57225824,
+    "published": 1768604451000,
+    "title": "The Ethereum MACD Crossover That Could Lead To A Massive Bull Wave",
+    "body": "Ethereum is showing bullish technical strength, with momentum indicators beginning to tilt back in favor of buyers. After weeks of uneven price action, the ETH/USD chart on the 3-day timeframe is now printing a MACD bullish crossover, a signal that has preceded some of Ethereum’s rallies in the past. The setup is notable because it proposes a situation where Ethereum is laying the groundwork for another sustained rally that plays throughout the entirety of 2026. Bullish MACD Crossover For Ethereum The latest analysis shared by Javon Marks points to Ethereum climbing steadily following another MACD bullish crossover in December 2025. This bullish crossover is visible on the 3-day chart, where the MACD line crossed above the signal line from below. Related Reading: Ethereum Chart Turns Bullish: New Cycle Energy Points To $5,000 This is a change that shows downside momentum has faded and bullish pressure is starting to rebuild among Ethereum traders. At the time of writing, Ethereum is trading around the $3,300 region, about 33% below its August 2025 peak, but holding above swing lows in November 2025. According to Javon Marks, this recent price action is potentially the early stages of a much larger bull wave. This projection is based on the fact that the current crossover looks like an earlier crossover that occurred before Ethereum transitioned into an extended upside move in early 2025. Back in April 2025, the 3-day MACD also recorded a bullish crossover after an extended period of consolidation and pullbacks that lasted for a few months. That signal was the start of a multi-month rally that steadily pushed Ethereum higher, eventually culminating in a new all-time high in August 2025. Price action following that April crossover did not explode immediately. Ethereum first stabilized for a few days, then began forming higher lows above $1,500. Once resistance at $2,000 gave way, the rally gained much momentum and carried Ethereum from the mid-$2,000 range all the way above $4,800, broke above its old record of $4,878 that had stood since Nov. 2021, before finally peaking at $4,946 in late August. Price Targets To Look Forward To The final message of this technical analysis is that Ethereum is about to embark on a comparable rally and break out to new all-time highs. According to the updated outlook by Javon Marks, the first major level that defines this potential continuation is $4,811.71. This price acted as an important resistance level during the previous rally in 2025. Related Reading: Ethereum Enters Overbought Levels With Weekend Pump, Why A Crash Could Be Coming A decisive break and sustained hold above $4,811.71 would confirm that Ethereum has exited its corrective phase and re-entered into a broader expansion move. If that breakout unfolds as expected, the measured move projected from the chart points to $8,557.68 as a target to look forward to. This target is based on the magnitude of Ethereum’s last MACD-driven advance and would translate to a 160% increase from current price levels. Featured image from iStock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|Javon Marks|MACD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
