@@ -1,156 +1,5 @@
 [
   {
-    "id": 57201713,
-    "published": 1768528766000,
-    "title": "Nexo to pay $500K fine to California regulator over ‘risky loans’",
-    "body": "California’s finance watchdog claims Nexo made nearly 5,500 loans to Californians without a valid license and did not properly assess their ability to repay.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57201622,
-    "published": 1768528426000,
-    "title": "Iran’s crypto ecosystem spikes to $7.8B amid mass protests: Chainalysis",
-    "body": "Bitcoin has become an “element of resistance\" in Iran, providing liquidity in an increasingly restricted economic environment, says Chainalysis.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57202837,
-    "published": 1768532447000,
-    "title": "Keyrock Flags 12 Crypto Charts You Need To Watch This Year",
-    "body": "Keyrock and Dune have published a “12 Charts to Watch in 2026” dashboard that tries to pin next year’s crypto narrative to measurable market structure, where liquidity is forming, where value is being returned, and which rails are quietly becoming systemically important. The report’s premise is straightforward: each chart pairs a live dataset with an explicit 2026 prediction. Taken together, the set reads like a checklist of whether crypto’s core primitives: trading, issuance, payments, and funding are becoming deeper and more institutional in their behavior. 12 Crypto Metrics To Watch This Year Keyrock puts prediction markets near the top of the stack after a 2025 run that saw weekly volume rise 9.2x to just under $5 billion, with Kalshi, Polymarket and Opinion controlling a combined 98.4% share at the time of writing. For 2026, it forecasts a 5x jump versus the 2025 run-rate to $25 billion in weekly volume, and a matching 5x rise in open interest as markets deepen and positions persist longer. Related Reading: Crypto Market Bill Draft Criticized For Allowing Continued Developer Prosecution On tokenization, the chart tracks non-stablecoin onchain RWA AUM, explicitly excluding stablecoins to isolate whether capital markets assets are moving onchain. Keyrock says non-stablecoin RWA AUM grew 3.4x in 2025 and projects more than 4x growth in 2026, led by tokenized cash-like products (T-bills and money market funds) and private credit, with early signs of equities and ETFs as market structure and regulation mature. A third adoption vector is x402, which Keyrock describes as an open payments protocol pioneered by Coinbase in 2025 to let software, including AI agents pay for digital services using stablecoins. Its measurable call: weekly x402 volume exceeding $100 million in 2026, framed as a proxy for “machine-native commerce” showing up in production. For onchain asset management, Keyrock tracks vault AUM across major providers and argues 2025 was about product maturity; 2026 is positioned as distribution. Its headline forecast is vault AUM tripling to $36 billion before year-end, alongside a prediction that at least one major broker-dealer offers an onchain vault “yield shelf.” Related Reading: New Hope For Crypto: Senators Introduce Blockchain Regulatory Certainty Act Derivatives are treated as the clearest stress test for depth. Keyrock highlights how the DEX-to-CEX futures trading ratio grew more than 3x in 2025, from 6.34% to 21%, and says open interest—not volume—is the key signal for whether venues can “hold risk in size” as new asset classes migrate onchain. The 2026 target: onchain perp OI exceeding $50 billion. Value return is monitored via buybacks. The report notes multi-million-dollar programs in 2025 from Hyperliquid, Raydium and Pump.fun, and predicts weekly buyback spend reaches at least 2x 2025 levels, plus a shift away from “fixed percentage of fees” models toward “value-aware” execution (pacing bands, triggers, disciplined accumulation). Solana MEV is framed as a distribution problem as much as a trading one. Keyrock notes tip-based MEV (validator + Jito tips) fell from a peak of 100,000 SOL (about $25 million at the time) to a low of 1,000 SOL (about $139,000), then points to the Block Assembly Marketplace (BAM) as the mechanism that could reshape where MEV is captured, away from reflexive tip spikes and toward explicit execution pricing set by apps and venues. Moreover, Keyrock uses “shielded ZEC” as a privacy proxy and forecasts shielded deposits rising from 4.9 million to more than 7 million by end-2026. On Ethereum, it tracks whether blobs develop a meaningful fee floor and predicts a median hourly blob cost of at least $0.05 per blob on a full-year basis. Payments show up in consumer form via crypto card spend, with the report forecasting a $500 million monthly spend print at least once in 2026. TradFi integration is tracked via spot BTC ETF AUM, with Keyrock projecting holdings surpass 2.5 million BTC in 2026 and net inflows positive in at least eight months. Finally, the stablecoin funding chart anchors on Aave’s USDC variable borrow APY on Ethereum, which it says ranged from 2.4% to 9.8% in 2025. The forward-looking claim is about rate stability rather than level: a drop in 30-day rolling volatility of USDC borrow APY to an average below 0.25 versus roughly 0.40 in 2025—positioned as a prerequisite for longer-duration, institution-style strategies. At press time, the total crypto market cap stood at $3.25 trillion. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto|Crypto Charts|crypto news|ethereum|Keyrock|Solana",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57202891,
-    "published": 1768532513000,
-    "title": "DeadLock ransomware hides using exploited Polygon smart contracts",
-    "body": "Group-IB found a ransomware dubbed DeadLock that is exploiting Polygon smart contracts to rotate proxy addresses to evade takedowns.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 38,
-        "NAME": "MATIC",
-        "CATEGORY": "MATIC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57203281,
-    "published": 1768533656000,
-    "title": "Utah Man Gets Three Years for $2.9M Fraud Tied to Crypto Cash Scheme",
-    "body": "The sentencing of a Utah man links investor fraud and unlicensed cash-to-crypto activity under the same prosecution.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
     "id": 57204006,
     "published": 1768536039000,
     "title": "Bitcoin Bull Score Hits Level Seen Only 7 Times In 6 Years – A Rare Historical Signal",
@@ -2250,6 +2099,123 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57229553,
+    "published": 1768615246000,
+    "title": "PEPE Price Could Soar 3,000% If The Bottom Is In; Analyst Explains",
+    "body": "As meme coins posted sharp rebounds earlier this year, PEPE also rallied, delivering notable gains. Although the meme coin has since slipped back into negative territory, a crypto analyst believes another bullish reversal may be approaching soon. According to the analyst, a key technical pattern has recently emerged on the chart, suggesting that PEPE has formed a bottom and could be on its way to a massive 3,000% price rally. PEPE Price Prepares For Massive 3,000% Rally In a post shared on X this Thursday, market analyst CryptoLinx outlined a bullish outlook for PEPE, pointing to a key shift on the weekly chart that he believes could trigger a 3,000% rally in the meme coin’s price. He stated that PEPE has just printed a bullish Moving Average Convergence Divergence (MACD) cross on the weekly timeframe. Related Reading: Bitcoin Price Crash To $57,000: The Bullish Path That Could End In Tears The analyst’s chart shows the weekly MACD lines crossing upward with momentum shifting from red to green. This move comes after an extended downtrend and coincides with price stabilizing and starting to curl higher, a pattern often associated with a rounded bottom. In his post, CryptoLinx emphasized that most traders and investors do not fully understand just how powerful the weekly MACD can be when it crosses at a true market bottom. Such moments often mark the market’s transition from an accumulation phase to a sustained uptrend. In previous cycles, similar setups have led to substantial price appreciation in PEPE. Moves of 200% to 300% were recorded in the PEPE price as momentum shifted in favor of buyers. CryptoLinx has suggested that if PEPE has indeed found its true bottom, its potential price rally could be significantly more explosive than past cycles. Based on the analyst’s predictions, the bullish MACD cross would not fuel a simple price recovery for PEPE, but an explosive surge that could completely flip its ongoing downtrend and mark a new ATH. The analysis points to a potential upside of 1,500% to 3,000% for PEPE this year. Such a rally could see the meme coin jump from its current levels around $0.00000585 to $0.0000928 and $0.000179, respectively. An Update On PEPE Price Action In 2025, the Pepe price spent several months in a sustained downtrend, closing the year in the red and extending its losses into the first few days of 2026. However, as meme coins saw a sudden market revival at the beginning of the year, PEPE jumped by more than 30%, briefly rallying before shedding some of its gains. Related Reading: Next XRP Wave Shows Where Price Is Headed Next, But There’s A Catch According to CoinMarketCap’s data, the PEPE price remains down over 68% Year-to-Date (YTD). Despite this broader decline, the meme coin has shown signs of recovery, climbing more than 44% over the past month. At the time of writing, PEPE is down nearly 3% in the last 24 hours and about 4.5% in the past week. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "PEPE",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 93,
+        "NAME": "PEPE",
+        "CATEGORY": "PEPE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57230072,
+    "published": 1768616707000,
+    "title": "Crypto bank Anchorage Digital eyes $400M raise with IPO in sight: Report",
+    "body": "Being the first federally chartered bank, Anchorage is looking to become a leading stablecoin issuer in 2026, with plans to double the size of its stablecoin team this year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 57230775,
+    "published": 1768618817000,
+    "title": "XRP Breakout Possible Before The Weekend, Expert Says",
+    "body": "XRP could be approaching an inflection point as a closely watched chart pattern tightens into its apex and broader “risk-on” signals in equities flash green, according to XRPL developer Bird (@Bird_XRPL). In a series of posts on X, Bird, the developer behind XRPL meme coin DROP, pointed to XRP’s hourly structure as setting up for a decisive move “before the end of the week,” arguing that a technical breakout could accelerate quickly toward a nearby upside objective. “Take a look at XRP on the hourly. A move is about to happen before the end of the week,” Bird wrote alongside a chart showing a contracting triangle with price compressing into the tip. “A measured move if we send upwards could push us straight to that $2.69 mark which finally gets us into ‘bull run’ mode.” Russell 2000 Breakout Puts XRP on Alert Beyond the short-term pattern, Bird anchored his thesis to US small caps, arguing that the Russell 2000’s behavior has historically mattered for XRP and the broader altcoin complex. Related Reading: XRP In A ‘Super Cycle’? SuperTrend Suggests Another Story “The Russell 2000 is about to close its highest weekly close in history. That matters ALOT for XRP,” Bird said. “Historically, XRP and altcoins have always tracked the Russell 2000 extremely closely. It’s the true risk on index for mid caps (not mega caps like the S&P or MAG7 where most capital has been parked).” Bird’s argument is that XRP still trades more like a mid-cap risk asset than a mega-cap “store of value” proxy, making the Russell’s breakout a useful macro tell for when speculative capital rotates back into higher beta exposures. He described the current backdrop as “capital rotating” and “risk … back on,” suggesting that the market may be entering a window where positioning can change quickly if narratives align. In a longer follow-up thread, Bird described XRP’s extended consolidation as increasingly out of sync with what he views as constructive macro conditions across risk assets. “We’re at a genuinely clinical moment for XRP. We’ve gone sideways for over a year, yet the Russell 2000 is now in full price discovery, other stock markets have been at all time highs for a long time, metals are elevated, and Bitcoin dominance is chopping at levels that historically dumps at,” he wrote. Related Reading: Ripple Builds XRP ‘Wall Street Kit’: Developer Claims ‘Billions Incoming’ Bird also pointed to a prior episode as a reference point: “In November ’24, the Russell turned green and XRP went parabolic roughly 10 days later,” he said, arguing that this time the Russell has gone further by reclaiming highs and holding strength across timeframes. In his view, the remaining constraint is rotation, not necessarily a sharp drawdown in metals or other assets, but simply a pause that allows risk appetite to re-price. On XRP and Ripple specific context, Bird said “acquisitions done, partnerships rolling out, NDAs lifting, legal clarity forming,” and argued that the market is nearing a point where “a single narrative, catalyst, or push can ignite XRP fast.” The key near-term test is whether the tightening technical structure resolves upward as Bird expects and whether cross-asset risk appetite continues to support alt beta. If both align, Bird’s framework suggests traders will be watching for a momentum break that could carry XRP toward the $2.69 objective and, in his view, potentially open the door to a faster path toward fresh cycle highs. At press time, XRP traded at $2.06. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP Price|XRP Price Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
