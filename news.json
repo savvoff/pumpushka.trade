@@ -1,81 +1,5 @@
 [
   {
-    "id": 57232819,
-    "published": 1768624426000,
-    "title": "Sacrificing Ethereum’s values for mainstream adoption must stop now: Buterin",
-    "body": "Vitalik Buterin wants improved private payments, easier running of full nodes, decentralized apps that don’t rely on centralized services, and more on-chain privacy.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57233291,
-    "published": 1768626046000,
-    "title": "Bitcoin Flashes Near-Identical Fractal Before The 2021 Bull Run Started",
-    "body": "Bitcoin may be replaying a market structure that historically preceded one of its most powerful rallies. A high-timeframe trader has identified a fractal that closely mirrored Bitcoin’s behavior ahead of the 2021 bull run. He argues that the current cycle is unfolding in line with a well-established structural script observed across multiple market cycles spanning more than a decade. Bitcoin’s Fractal: Rooted In High-Timeframe Structure The fractal highlighted by the trader is based on a direct structural comparison between Bitcoin’s current cycle and the 2021 setup, illustrated in a chart he attached to his analysis. The chart aligns both periods to show how price advanced into a broad distribution range, rolled over into a sharp corrective phase, and then attempted to recover while capped by descending resistance. In both cases, Bitcoin retraced to the 0.382 Fibonacci level before stabilizing, marking a shared technical inflection point rather than a coincidental price overlap. Related Reading: XRP Price Is Approaching A Key Decision Zone, But Structure Is Still Firmly Bullish This structural symmetry extends beyond price levels into timing. According to the trader, the current cycle has tracked the rhythm of prior four-year cycles with notable consistency, allowing historical all-time highs and lows to be mapped objectively. Using that same framework, the data previously supported a high-probability short near the peak candle around $123,000, reinforcing his view that recurring market structure continues to guide directional risk. By comparing the two cycles directly, the trader argues that Bitcoin’s behavior is being evaluated through a recurring structural pattern that has remained intact for more than 12 years, rather than through subjective bias. $100,000 As A Structural And Psychological Ceiling Within the identified fractal, psychological resistance is a key determinant of Bitcoin’s upside potential. Looking back at 2021, Bitcoin failed to decisively reclaim the $50,000 level and instead front-ran it before reversing, establishing a behavioral precedent for how traders respond to significant round-number thresholds. Applying this pattern to the current cycle, $100,000 now functions as the analogous psychological ceiling. As a result, some participants may act preemptively, which could generate selling pressure from underwater holders and distribution by larger players. Related Reading: Pundit Reveals The Biggest Enemy Of XRP Investors As Price Struggles At $2 This potential resistance is reinforced by diagonal trendlines that mirror the caps observed in 2021, creating a structural limit on upside momentum. Within this context, short-term extensions into the $98,000–$99,000 range remain plausible and are fully compatible with the fractal, as price can approach the psychological ceiling. Moreover, positioning data from the past six to eight months indicates that the median short-term buyer cost basis has clustered between $95,000 and $100,000, highlighting zones where profit-taking and defensive selling are likely to intensify. These elements suggest a scenario where price may test resistance, experience temporary stalls, and respect structural limits without invalidating the broader high-timeframe thesis. However, the trader notes that the framework is probabilistic: only a sustained move above $104,000–$105,000 would break the fractal pattern and necessitate a full reassessment of the high-timeframe trend. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57235892,
     "published": 1768633228000,
     "title": "XRP To Repeat Its 2017 Playbook? Analyst Forecasts 1,250% Expansion",
@@ -680,6 +604,70 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57261044,
+    "published": 1768712415000,
+    "title": "Crypto industry turns against US bill it had pushed to regulate digital assets",
+    "body": "Lobbyists want to see legislation passed while Republicans still have control of Congress",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57260790,
+    "published": 1768711787000,
+    "title": "Ethereum validator exit queue falls to zero as staking demand soars",
+    "body": "The massive staking inflows are strengthening ETH’s supply-demand dynamic, potentially setting the stage for upward price momentum this year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
