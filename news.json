@@ -1,116 +1,5 @@
 [
   {
-    "id": 57239615,
-    "published": 1768643664000,
-    "title": "User loses $282M in one of the largest social engineering crypto heists",
-    "body": "The crypto user was reportedly deceived by an attacker impersonating Trezor support, tricked into revealing their hardware wallet seed phrase.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57241676,
-    "published": 1768649276000,
-    "title": "Spot Bitcoin ETFs attract $1.42B in strongest week since early October",
-    "body": "Spot Bitcoin ETFs posted their strongest week since October as institutional investors returned via regulated products, helped by reduced whale selling and tightening effective supply.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57242314,
-    "published": 1768651242000,
-    "title": "Dogecoin RSI Just Entered Historical Oversold Levels Again, Will It Repeat 2021?",
-    "body": "The Dogecoin Relative Strength Index (RSI) is said to have entered historical oversold levels. This has raised the possibility that the foremost meme coin could repeat its parabolic rally in the 2021 bull cycle. Dogecoin Eyes Parabolic Rally As RSI Enters Oversold Levels Crypto analyst Cryptollica has indicated that the Dogecoin price could record another parabolic rally as the RSI enters oversold levels. In an X post, the analyst noted that this is the fourth time in 12 years that the DOGE RSI has been this oversold, and that every time this has happened, it has been life-changing. Related Reading: Dogecoin Price Is Following This Bullish Signal With A Major Target Cryptollica further remarked that the drop in Dogecoin’s RSI to this low has always been an “epic buying opportunity” and that those who loaded up made insane gains. In line with this, the analyst remarked that this is another massive opportunity. Meanwhile, Cryptollica alluded to previous times when the RSI dropped this low, including during the last cycle bottom, when DOGE dropped to $0.5. Dogecoin rallied to a new all-time high (ATH) of $0.74 after bottoming at $0.05, recording massive gains in the process. Cryptollica noted that these setups don’t come often and urged market participants not to miss this one. His accompanying chart suggested that DOGE could rally to the psychological $1 level this time around, marking a new ATH for the foremost meme coin. DOGE Mirroring Past Accumulation Pattern In another X post, Cryptollica highlighted a similar DOGE/BTC pattern between the 2014-2017 and 2021-2026 accumulations. The analyst stated that the structure is identical and assured that the bleed against Bitcoin is not “death” but the necessary energy compression before the rotation. Cryptollica added that when the green line breaks, risk appetite changes instantly. Related Reading: Dogecoin Price On The Brink Of A 9,000% Rally To $10? What Historical Performance Shows Meanwhile, Cryptollica declared that the fractal was loading, with Dogecoin set to be the heartbeat of the altcoin cycle. The analyst claimed that this is the final stage of a multi-year compression against Bitcoin. This historically leads to a specific volatility squeeze that precedes a massive capital rotation from BTC to altcoins. Crypto analyst Bitcoinsensus raised the possibility of a Dogecoin rally to $0.70, which could be near. This came as the analyst noted that DOGE has been moving in a nice way up throughout this entire bull cycle. This is said to be evident in the mini cycles, with the foremost meme coin tapping the dotted line, followed by a slow retrace. Based on this pattern, Bitcoinensus noted that DOGE could soon target the $0.70 range if the strong momentum in the crypto market returns. At the time of writing, the Dogecoin price is trading at around $0.137, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Dogecoin|altcoin|bitcoin|Bitcoinsensus|CoinMarketCap|Cryptollica|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|Relative Strength Index|RSI",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57243119,
     "published": 1768653212000,
     "title": "Three reasons why Bitcoin's 'real breakout' toward $107K has begun",
@@ -557,6 +446,158 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57267099,
+    "published": 1768728312000,
+    "title": "80% of hacked crypto projects never ‘fully recover,’ expert warns",
+    "body": "Security failures don’t just drain funds, they often destroy trust, leaving most hacked crypto projects unable to recover despite fixing the technical flaws.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57268511,
+    "published": 1768726841000,
+    "title": "Bitcoin Records Large Exchange Inflows As Price Climbs — What Next For BTC?",
+    "body": "Bitcoin recently failed to overcome the $97,000 resistance following its price surge seen in mid-January. At the moment, the leading cryptocurrency has taken on a state of inertia, with no significant movement in either direction seen. However, an investigation of on-chain dynamics has recently revealed that trouble might be looming for the flagship cryptocurrency. Related Reading: Bitcoin Holds Key Support As Weekend Liquidity Sets In — $98,200 And $107,500 In Focus Sudden Inflows: Caution Or Opportunity? In a QuickTake post on CryptoQuant, key opinion leader CryptoZeno shares a potentially foreboding observation on Bitcoin’s market dynamics, saying the premier cryptocurrency could be facing a risk of distribution in the near-term. This conjecture is based on the Bitcoin: Exchange Inflow (Total) – All Exchanges metric, which serves the basic function of tracking the total amount of BTC transferred into centralized exchanges over a certain period. CryptoZeno highlights in the post that exchange inflows have seen sharp surges through Bitcoin’s most-recent trading sessions, which represent one of the most significant spikes seen in the month of January. Typically, large inflows of BTC into exchanges act as a telltale sign that investors are preparing to distribute their holdings. This is contrary to any inclination towards long-term holding. Interestingly, the sign of distribution-readiness is more typical if the event were to occur just after a strong advance of the BTC price. Also citing historical occurrences, CryptoZeno explains that such behavior, where BTC holders increasingly send their tokens to exchanges, suggests that investors are venturing out of Bitcoin and to more “liquid venues.” Expectedly, such a massive dispersal of their holdings would translate into price as increased sell-side pressure, especially in the short-term. Notably, the analyst makes it clear that inflows alone do not tell a sure story of an immediate reversal. More accurately, spikes in exchange inflows often come before heightened volatility periods or corrective price action. Related Reading: Are XRP ETFs About To Act Like Banks? Expert Thinks So Analyst Highlights Mid- To Large-Size Bands As Main BTC ‘Movers’ CryptoZeno provides more context by merging the Spent Output Value Bands with the Exchange Inflow metric. This shows which investor cohort was more involved in creating the distribution signal seen. On inspection of the blended metric, it becomes apparent that the spike in exchange inflows was largely induced by mid-to-large size bands (10-100 BTC, and 100-1,000BTC). These size bands, according to the crypto expert, are associated with whales, long-term investors who are repositioning, or even ETFs. These investor classes do not merely act without strategic reasons. As a result, their activity is usually more important compared to retail activity. A simultaneous increment to exchange inflows, alongside large investor distribution, is another sign that the Bitcoin market is on the brink of a fragile phase. In the event that inflows remain high as price struggles to reclaim past highs, the world’s leading cryptocurrency could be entering a phase of trouble, as it would suggest the predominance of supply over demand. As of this writing, Bitcoin is worth $95,250, recording almost no growth since the past day. Featured image from Flickr, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin Exchange Inflows|Bitcoin large holders|Bitcoin whales|btcusd|BTCUSDT|cryptoquant",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57269112,
+    "published": 1768734034000,
+    "title": "SUI Price Breakout Next? Analyst Sets $2.3 Short-Term Target",
+    "body": "The SUI price struggled to replicate its early-year momentum over the past week despite the general market seeing renewed optimism. The altcoin’s price mostly moved sideways, oscillating between the $1.70 – $1.90 levels. According to a popular analyst on the social media platform X, this slight inactivity might be a bullish signal of what is to come over the next few weeks. Is SUI On The Verge Of A 30% Surge? In a January 18 post on the X platform, crypto analyst Ali Martinez shared an interesting chart setup for the SUI price. According to the market pundit, a break out of the current chart setup could see the altcoin reach the $2.29 level over the coming weeks. Related Reading: Dogecoin RSI Just Entered Historical Oversold Levels Again, Will It Repeat 2021? The rationale behind this positive prediction is the formation of a bull flag pattern on the 4-hour timeframe of the Bitcoin price chart. The bull flag is a technical analysis pattern characterized by a period of steep upward movement (the flagpole) typically followed by sideways or slightly downward price action. Typically, the bull flag functions as a prevailing continuation pattern for an existing upward trend, suggesting a potential move to a higher price point. While this chart is often a bullish signal, it is crucial to wait for a successful breach of the upper boundary of the consolidation range; this increases the odds that the price will continue in its upward trajectory. As shown in the chart above, the price level that needs to be broken to confirm the uptrend continuation lies around the $1.84 mark. Meanwhile, the target for this chart pattern is usually calculated by adding the vertical height of the flagpole to the potential breakout point from the flag. According to Martinez, a sustained break above this level could see the SUI price run up to as $2.29, representing an almost 30% surge from the current price point. SUI Price Overview As of this writing, the price of SUI stands at around $1.78, reflecting a mere 0.9% dip in the past 24 hours. This tame daily action highlights the indecisiveness currently affecting this altcoin market, as the SUI bulls and bears battled for dominance over the past week. According to CoinGecko data, the altcoin’s value is down by 1.7% in the last seven days. However, this past week’s struggles have not been enough to wipe out SUI’s recent success, especially on broader timeframes. For instance, the altcoin’s value has increased by more than 28% on the monthly timeframe. With this positive performance, the token has maintained a position within the top 30 largest cryptocurrencies by market cap. Related Reading: XRP Wave C Push On The Way: What Could Send Price Below $2? Featured image from iStock, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "SUI|altcoin|bull flag|crypto news|SUI price|SUIUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 96,
+        "NAME": "SUI",
+        "CATEGORY": "SUI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57269214,
+    "published": 1768734000000,
+    "title": "Crypto’s decentralization promise breaks at interoperability",
+    "body": "Crypto’s interoperability layer reveals a gap between the industry’s decentralization narrative and how value actually moves across blockchains.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
