@@ -1,81 +1,5 @@
 [
   {
-    "id": 57254092,
-    "published": 1768684586000,
-    "title": "Coinbase refutes rumors of White House's threat to pull support for crypto bill",
-    "body": "\"The White House has been super constructive here,\" said CEO Brian Armstrong.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Top Stories|Coinbase|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57257115,
-    "published": 1768694412000,
-    "title": "Ethereum Maintains Structural Strength Despite Resistance Near $3,400",
-    "body": "Ethereum continues to show resilience, holding its ground above key support levels even as price faces firm resistance near the $3,400 zone. The ability to sustain strength after recent gains highlights improving market structure, suggesting that buyers remain in control. As long as ETH stays supported above its critical trend levels, the broader upside narrative remains intact despite near-term hesitation. Daily Bull Market Support Band Holds As Key Reversal Zone Luca, in a recent ETH update shared on X, pointed out that Ethereum’s market structure has strengthened considerably over the past several days. The price has been able to hold above the 1D Bull Market Support Band, a level that has acted as a reliable reversal zone multiple times over the last couple of months. This sustained hold suggests improving market confidence and a reduction in immediate downside risk. Related Reading: Ethereum Price Pushes Toward Breakout Levels, Bulls Smell Opportunity Alongside this structural improvement, ETH successfully reclaimed the 0.618 Fibonacci point of interest around the $3,100 region. This level is often viewed as a critical threshold in corrective phases, and holding above it typically signals that buyers are gaining the upper hand. Despite the positive developments, Ethereum has not moved higher without hesitation. ETH’s price recently faced rejection near the 0.5 Fibonacci level around $3,400, an outcome Luca noted was largely expected. Historically, this area has acted as a significant decision point, often attracting selling pressure and temporary pullbacks before the market decides on its next direction. Looking forward, Luca believes the overall outlook remains constructive as long as ETH continues to trade above the 1D Bull Market Support Band and the 0.618 Fibonacci level. Maintaining these supports would keep the path open for renewed upside attempts, even if short-term consolidations occur, and the analyst’s positioning remains unchanged. ETH Above Daily 200MA, Structure Remains Constructive According to a recent post by Daan Crypto Trades, Ethereum is still advancing gradually while respecting the Daily 200-day moving average against Bitcoin. This type of slow, methodical grind often signals strength beneath the surface, suggesting that buyers remain in control even without aggressive momentum. Related Reading: Ethereum’s Q1 Outlook: Analyst Shares Historical Setup As Price Nears Key Resistance The analyst explained that prolonged consolidations and steady climbs like this typically resolve with an acceleration phase. Should ETH break out with stronger upside momentum, it could serve as a trigger for renewed interest across the altcoin market, helping lift sentiment and price action. However, the structure remains conditional. Holding the Daily 200MA, highlighted in purple, is critical to maintaining this constructive setup. In parallel, Bitcoin must stay above the $94,000 level to maintain the broader low-timeframe bullish structure. As long as these conditions are met, the path of least resistance continues to favor further upside. Featured image from iStock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Ethereum|1D Bull Market Support Band|200ma|bitcoin|Daan Crypto Trades|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|Fibonacci Point of Interest|Luca",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57259058,
     "published": 1768699842000,
     "title": "Analyst Reveals How Far Bitcoin Price Will Crash If The Uptrend Doesn’t Continue",
@@ -756,6 +680,88 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57284867,
+    "published": 1768778684000,
+    "title": "Binance Restores Real-Time Bank Transfers for Australian Users",
+    "body": "Binance Australia has reopened direct dollar deposits and withdrawals after more than two years of disrupted banking access.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57286999,
+    "published": 1768785125000,
+    "title": "Bitcoin slides below $93,000 as $680 million longs are liquidated",
+    "body": "Glassnode says the push toward $96,000 was driven by leverage, while CryptoQuant warns demand remains too weak to confirm a trend reversal.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|btc|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
