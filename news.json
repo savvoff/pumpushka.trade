@@ -1,110 +1,5 @@
 [
   {
-    "id": 57267099,
-    "published": 1768728312000,
-    "title": "80% of hacked crypto projects never ‘fully recover,’ expert warns",
-    "body": "Security failures don’t just drain funds, they often destroy trust, leaving most hacked crypto projects unable to recover despite fixing the technical flaws.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57269112,
-    "published": 1768734034000,
-    "title": "SUI Price Breakout Next? Analyst Sets $2.3 Short-Term Target",
-    "body": "The SUI price struggled to replicate its early-year momentum over the past week despite the general market seeing renewed optimism. The altcoin’s price mostly moved sideways, oscillating between the $1.70 – $1.90 levels. According to a popular analyst on the social media platform X, this slight inactivity might be a bullish signal of what is to come over the next few weeks. Is SUI On The Verge Of A 30% Surge? In a January 18 post on the X platform, crypto analyst Ali Martinez shared an interesting chart setup for the SUI price. According to the market pundit, a break out of the current chart setup could see the altcoin reach the $2.29 level over the coming weeks. Related Reading: Dogecoin RSI Just Entered Historical Oversold Levels Again, Will It Repeat 2021? The rationale behind this positive prediction is the formation of a bull flag pattern on the 4-hour timeframe of the Bitcoin price chart. The bull flag is a technical analysis pattern characterized by a period of steep upward movement (the flagpole) typically followed by sideways or slightly downward price action. Typically, the bull flag functions as a prevailing continuation pattern for an existing upward trend, suggesting a potential move to a higher price point. While this chart is often a bullish signal, it is crucial to wait for a successful breach of the upper boundary of the consolidation range; this increases the odds that the price will continue in its upward trajectory. As shown in the chart above, the price level that needs to be broken to confirm the uptrend continuation lies around the $1.84 mark. Meanwhile, the target for this chart pattern is usually calculated by adding the vertical height of the flagpole to the potential breakout point from the flag. According to Martinez, a sustained break above this level could see the SUI price run up to as $2.29, representing an almost 30% surge from the current price point. SUI Price Overview As of this writing, the price of SUI stands at around $1.78, reflecting a mere 0.9% dip in the past 24 hours. This tame daily action highlights the indecisiveness currently affecting this altcoin market, as the SUI bulls and bears battled for dominance over the past week. According to CoinGecko data, the altcoin’s value is down by 1.7% in the last seven days. However, this past week’s struggles have not been enough to wipe out SUI’s recent success, especially on broader timeframes. For instance, the altcoin’s value has increased by more than 28% on the monthly timeframe. With this positive performance, the token has maintained a position within the top 30 largest cryptocurrencies by market cap. Related Reading: XRP Wave C Push On The Way: What Could Send Price Below $2? Featured image from iStock, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "SUI|altcoin|bull flag|crypto news|SUI price|SUIUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 96,
-        "NAME": "SUI",
-        "CATEGORY": "SUI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57269214,
-    "published": 1768734000000,
-    "title": "Crypto’s decentralization promise breaks at interoperability",
-    "body": "Crypto’s interoperability layer reveals a gap between the industry’s decentralization narrative and how value actually moves across blockchains.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57271778,
     "published": 1768741239000,
     "title": "What’s Driving The $1.42 Billion Comeback In Spot Bitcoin ETFs?",
@@ -1317,6 +1212,544 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57297519,
+    "published": 1768817199000,
+    "title": "Privacy Coins Monero, Dash and Dusk Defy Crypto Market Slump",
+    "body": "The privacy coin category posted gains amid a broad market sell-off, as experts cite growing demand for \"defensive\" assets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|monero|zcash|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 57,
+        "NAME": "XMR",
+        "CATEGORY": "XMR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57297532,
+    "published": 1768816820000,
+    "title": "Bitcoin Bulls Fired Up As Saylor Teases ‘Bigger Orange’ After Huge Buy",
+    "body": "Michael Saylor’s hint about a “Bigger Orange” has sent fresh energy through parts of the Bitcoin market. It came after Strategy executed a very large buy, and traders took the message as a sign there may be more accumulation ahead. Short bursts of buying have a way of changing tone on trading floors. Related Reading: What’s Driving The $1.42 Billion Comeback In Spot Bitcoin ETFs? Saylor Signals New Buying Spree According to reports, Strategy purchased more than $1.25 billion in Bitcoin in its latest move, adding thousands of coins to its holdings. That stack has pushed the company closer to a massive total that some sources put near 700,000 BTC. Markets reacted quickly. Prices nudged higher in the hours after the news, and shares of Strategy were treated by some investors as a way to get extra Bitcoin exposure. Traders Pounced And Charts Reacted Momentum traders were the first to lean in. They saw the buy as proof that a major corporate buyer still sees value in stacking coins during dips. Options desks showed increased call buying, and volume spiked on spot desks in New York and Asia. Sentiment grew more positive, but caution remained. Big buys can lift short-term prices, yet they don’t always start long, steady rallies. ₿igger Orange. pic.twitter.com/HI47hMCnui — Michael Saylor (@saylor) January 18, 2026 Market Reaction And Investor Moves Retail and institutional players both turned their attention to liquidity. Reports note that when one large buyer moves, other firms often reassess their risk and allocation plans. Hedge funds checked their models. Family offices ran fresh numbers. For some investors, the appeal is simple: owning a scarce asset that an influential buyer keeps adding to can feel reassuring. Corporate Treasuries And Public Perception Corporate cash strategies have been in the spotlight since Strategy first started buying coins. CEOs and boards watch those moves closely, and investors watch boards. For a public company to keep buying, confidence has to be high enough to risk press questions and regulatory attention. That choice is being watched by analysts who say such buys shape public debate about Bitcoin’s role as part of a company’s balance sheet. What Analysts Are Watching Analysts are tracking three things: how many coins are being taken off exchanges, whether accumulation is steady or one-off, and how the market digests more large purchases. On-chain trackers showed notable withdrawals after the reported purchase, which can tighten available supply. Some onlookers cautioned that short-term price jumps can be reversed if selling follows or if macro news turns sour. Related Reading: More XRP Than Cash? “You’re A Genius”, Analyst Says A Cautious Ending Note Based on market chatter, the “Bigger Orange” tease is more than a bit of bravado — it is treated as a strategic signal by many market players. Still, outcomes are far from certain. Buying by a major corporate holder can shift sentiment and squeeze short positions, but markets are shaped by many forces at once. For now, traders, investors, and watchers will keep an eye on any follow-up moves and how price and liquidity respond in the next sessions. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|crypto|digital currency|Michael Saylor|orange dots",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57298025,
+    "published": 1768818528000,
+    "title": "CertiK links $63M in Tornado Cash deposits to $282M wallet compromise",
+    "body": "Blockchain data showed that stolen Bitcoin was bridged to Ethereum, fragmented into multiple wallets and later routed into the crypto mixer.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57298324,
+    "published": 1768819560000,
+    "title": "‘Attack On The Fed’—Bitcoin Bulls Now Predict $1 Million Price",
+    "body": "The DOJ's criminal probe of Jerome Powell marks a historic challenge to Fed independence. For Bitcoin believers, it validates their thesis about fiat currency.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57299186,
+    "published": 1768822219000,
+    "title": "XRP Price Could Surge Another 30% If This Trend Is Confirmed",
+    "body": "Crypto analyst ChartNerd has raised the possibility of the XRP price recording another 30% surge from its current level. This comes even as the altcoin risks erasing its year-to-date (YTD) gains due to the recent crypto market crash. How The XRP Price Could Rally To $2.70 In an X post, ChartNerd stated that a potential XRP price rally to $2.70 is a possibility in the near term if the altcoin can hold the Fib support targets and mark a higher low. He highlighted three Fib support levels, including the 0.5 at $2, 0.618 at $1.99, and 0.786 at $1.89. He noted that the $2.70 was the base of the descending triangle, around the area where XRP broke down from following the October 10 crypto crash last year. Related Reading: XRP Wave C Push On The Way: What Could Send Price Below $2? ChartNerd also explained that the XRP price was currently in a falling wedge breakout pattern and that this typically leads to rallies as high as where the coin had broken down. As such, in this case, XRP could reach the descending triangle resistance at $2.70. The crypto analyst had also highlighted bullish fundamentals that could drive the rally toward this target. This includes Ripple’s alleged ties to South Korea’s tokenized infrastructure and projected major expansion for XRP. However, it is worth mentioning that the XRP price is also at risk of a further decline amid the latest crypto market crash, led by Bitcoin. BTC has dropped to as low as $92,000 in the last 24 hours, forcing XRP to crash below the psychological $2 level. This crash has occurred on the back of the latest Trump tariffs on some European nations over the U.S. proposed takeover of Greenland. The EU is weighing retaliatory tariffs, which could escalate this into another full-blown trade war. The Crash Could Be A “Blessing In Disguise” In another X post, ChartNerd suggested that the recent XRP price crash could be a blessing in disguise. This came as the analyst alluded to the $1.80 liquidity pocket on the monthly heatmap. He noted that this latest drawdown has swept the altcoin into that exact sell-side liquidity, a move which ChartNerd described as a clarity response. ChartNerd also suggested that the XRP price is likely a minor setback rather than a major retracement. He noted that although altcoins are taking hefty hits, Bitcoin hasn’t lost any key structure and that all he sees is “opportunity” until the trendline is invalidated. As such, XRP could see a bounce if BTC successfully defends this trendline. Related Reading: Analyst Says XRP Price Just Entered Neutral State – What This Means At the time of writing, the XRP price is trading at around $1.96, down over 4% in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|altcoin|bitcoin|ChartNerd|CoinMarketCap|Donald Trump|Falling Wedge Formation|Ripple|xrp|xrp news|XRP Price|XRPUSD|xrpusdt|Year-To-Date|YTD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57299215,
+    "published": 1768822346000,
+    "title": "India's central bank proposes a plan to create digital-currency link among BRICS nations",
+    "body": "The Reserve Bank of India is urging the government to put a plan to link BRICS nations' central bank digital currencies on the agenda for the 2026 summit it will host.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|India|RBI|CBDCs|BRICS|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57299269,
+    "published": 1768822288000,
+    "title": "Three reasons why Ethereum price remains bullish above $3,000",
+    "body": "Despite Ether’s rejection from $3,400, data suggested that ETH price could see a sustained recovery over the next few weeks, as long as a key support level held.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57299712,
+    "published": 1768823832000,
+    "title": "Crypto ETPs gather steam with $2.2B inflows, Bitcoin dominates gains",
+    "body": "Bitcoin drove 71% of last week’s $2.17 billion crypto fund inflows, while Ether and Solana held up despite US CLARITY Act proposals to restrict stablecoin yields.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57299589,
+    "published": 1768823572000,
+    "title": "Bitcoin slips below key support as tariff talk rattles crypto: Crypto Markets Today",
+    "body": "Crypto prices fell alongside global equities after reports the EU is preparing retaliatory tariffs against the U.S.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Altcoins|Privacy Coins|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57299617,
+    "published": 1768823365000,
+    "title": "Vitalik Buterin calls for a new DAO design for onchain disputes and governance",
+    "body": "Ethereum co-founder Vitalik Buterin says DAOs must move beyond simple token-voting treasuries and be redesigned to power core infrastructure like oracles and onchain courts.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57300327,
+    "published": 1768825837000,
+    "title": "Chinese crime ring arrested in South Korea laundered over $100 million worth of crypto",
+    "body": "South Korean customs officials said they arrested three China nationals and have referred them for prosecution. They allegedly used an unauthorized crypto exchange to launder assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|South Korea|Cryptocurrency|Money Laundering|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57300390,
+    "published": 1768825800000,
+    "title": "Bridges are crypto’s next FTX waiting to happen",
+    "body": "Cross-chain bridges concentrate risk and centralize trust, creating vulnerabilities that could trigger a systemic crypto crisis under stressed market conditions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57300321,
+    "published": 1768825689000,
+    "title": "Crypto derivatives exchange Paradex reports outage, cancels open orders",
+    "body": "The decentralized perpetuals exchange said multiple core services were affected as it worked through a rollback and recovery process.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      }
+    ]
+  },
+  {
+    "id": 57300195,
+    "published": 1768824766000,
+    "title": "Bitcoin's 'digital gold' narrative crumbles again as $100,000 odds wilt after Trump's tariff threat",
+    "body": "",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Polymarket|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
