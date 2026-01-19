@@ -35,53 +35,6 @@
     ]
   },
   {
-    "id": 57268511,
-    "published": 1768726841000,
-    "title": "Bitcoin Records Large Exchange Inflows As Price Climbs — What Next For BTC?",
-    "body": "Bitcoin recently failed to overcome the $97,000 resistance following its price surge seen in mid-January. At the moment, the leading cryptocurrency has taken on a state of inertia, with no significant movement in either direction seen. However, an investigation of on-chain dynamics has recently revealed that trouble might be looming for the flagship cryptocurrency. Related Reading: Bitcoin Holds Key Support As Weekend Liquidity Sets In — $98,200 And $107,500 In Focus Sudden Inflows: Caution Or Opportunity? In a QuickTake post on CryptoQuant, key opinion leader CryptoZeno shares a potentially foreboding observation on Bitcoin’s market dynamics, saying the premier cryptocurrency could be facing a risk of distribution in the near-term. This conjecture is based on the Bitcoin: Exchange Inflow (Total) – All Exchanges metric, which serves the basic function of tracking the total amount of BTC transferred into centralized exchanges over a certain period. CryptoZeno highlights in the post that exchange inflows have seen sharp surges through Bitcoin’s most-recent trading sessions, which represent one of the most significant spikes seen in the month of January. Typically, large inflows of BTC into exchanges act as a telltale sign that investors are preparing to distribute their holdings. This is contrary to any inclination towards long-term holding. Interestingly, the sign of distribution-readiness is more typical if the event were to occur just after a strong advance of the BTC price. Also citing historical occurrences, CryptoZeno explains that such behavior, where BTC holders increasingly send their tokens to exchanges, suggests that investors are venturing out of Bitcoin and to more “liquid venues.” Expectedly, such a massive dispersal of their holdings would translate into price as increased sell-side pressure, especially in the short-term. Notably, the analyst makes it clear that inflows alone do not tell a sure story of an immediate reversal. More accurately, spikes in exchange inflows often come before heightened volatility periods or corrective price action. Related Reading: Are XRP ETFs About To Act Like Banks? Expert Thinks So Analyst Highlights Mid- To Large-Size Bands As Main BTC ‘Movers’ CryptoZeno provides more context by merging the Spent Output Value Bands with the Exchange Inflow metric. This shows which investor cohort was more involved in creating the distribution signal seen. On inspection of the blended metric, it becomes apparent that the spike in exchange inflows was largely induced by mid-to-large size bands (10-100 BTC, and 100-1,000BTC). These size bands, according to the crypto expert, are associated with whales, long-term investors who are repositioning, or even ETFs. These investor classes do not merely act without strategic reasons. As a result, their activity is usually more important compared to retail activity. A simultaneous increment to exchange inflows, alongside large investor distribution, is another sign that the Bitcoin market is on the brink of a fragile phase. In the event that inflows remain high as price struggles to reclaim past highs, the world’s leading cryptocurrency could be entering a phase of trouble, as it would suggest the predominance of supply over demand. As of this writing, Bitcoin is worth $95,250, recording almost no growth since the past day. Featured image from Flickr, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin Exchange Inflows|Bitcoin large holders|Bitcoin whales|btcusd|BTCUSDT|cryptoquant",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57269112,
     "published": 1768734034000,
     "title": "SUI Price Breakout Next? Analyst Sets $2.3 Short-Term Target",
@@ -1224,6 +1177,146 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57293667,
+    "published": 1768805739000,
+    "title": "Hyperliquid surges ahead in decentralized futures race as rivals fade",
+    "body": "Hyperliquid is consolidating its lead in on-chain derivatives, even as falling volumes elsewhere highlight the limits of incentive-driven growth.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Hyperliquid|hype|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57294132,
+    "published": 1768806900000,
+    "title": "Why wrench attacks are becoming one of the most violent forms of crypto crimes",
+    "body": "Rising crypto wealth is bringing new physical risks. Wrench attacks show how digital assets can become real-world targets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57296170,
+    "published": 1768813258000,
+    "title": "XRP Is Doing Something It Hasn’t Done Since 2021: Here’s Why It Matters",
+    "body": "XRP is flashing a rare relative-strength signal against ETH, according to crypto analyst Matt Hughes (“The Great Mattsby”), who points to a 2-week Ichimoku cloud flip that he says hasn’t meaningfully held as support since 2021. With XRP also boxed inside a defined USD range on lower timeframes, Hughes frames the next phase as a conditional “prove it” moment: reclaim one level, and the market has room to work; fail it, and the breakout narrative stays premature. XRP Poised To Outperform ETH? Hughes’ primary claim is anchored to the XRP/ETH pair on a 2-week chart. In his read, there’s a massive regime change: “When looking at the 2-week Ichimoku cloud, you can see that XRP is doing something it hasn’t done since 2021: flipping the 2-week cloud to support. The cloud has been a massive resistance for most of the chart’s history until now (with a notable breakout in 2021, but only a few weeks).” On Hughes’ chart, XRP/ETH is pressing into the top side of the 2-week Ichimoku cloud, with the latest candle marked around 0.00062. His bullish read is that a clean flip, price holding above the cloud and treating it as a floor on pullbacks, would be a regime change for the pair. XRP Roadmap To $9 Hughes’ shorter-timeframe work shifts from relative performance to mechanics in spot USD terms. On the daily XRP/USD chart, price is still behaving like a market that has not resolved its larger consolidation, oscillating between stacked horizontal levels while respecting sloping fan lines that visually reinforce why upside attempts have repeatedly stalled. Related Reading: XRP To Repeat Its 2017 Playbook? Analyst Forecasts 1,250% Expansion Hughes boils that structure down to one actionable threshold: “Price moves in increments, and this Gann fan perfectly illustrates why price is stuck in its current range. Once XRP can close candles above $2.30, the move up can continue.” Above that, the next targets on the daily timeframe are $2.59 and $2.95. The weekly XRP/USD chart adds the next level if that acceptance arrives. Two extension levels (drawn from the 2014 low to the 2017 high) are explicitly marked: 2.272 at $3.09882 and 2.618 at $9.00194, with Hughes’ drawn path stepping first toward the low-$3 area before stretching higher if momentum persists. Related Reading: Surge In XRP Transactions: 1.45 Million Daily Users Could Signal Price Rally Ahead, Says Expert Thus, Hughes’ bullish scenario is a two-part sequence: first, clear the USD range trigger (a sustained close above $2.30), then convert the last major zone before the 2025 high into support. He states it in more pointed terms on X: “XRP’s been grinding sideways for 1+ year while many other alts were bleeding. Not IF it hits $9—it’s WHEN. Key flip: $3.09 becomes support and then its go time.” The failure scenario is simpler and more immediate. If XRP cannot secure closes above $2.30, the fan-and-range framework remains intact: rallies are still just rallies into the same ceiling, and the market risks reverting back towards $1.78. However, a dip towards this price would not change anything about the long-term bullish chart of XRP. Pointing to a gap between chart structure and crowd sentiment, Hughes wrote: “An actual infant in diapers and a 120-year-old grandpa who’s forgotten his own name can look at this chart and go, ‘Yep, classic breakout above the 2021 top, now flipping it to rock-solid support.’ Meanwhile, every bear on X, their mailman, their mailman’s dog walker, and that one guy who still thinks it’s 2022 are out here screaming ‘BEARISH! DOOM! SELL YOUR KIDS!’ like it’s still the bear market special. Bro, even my grandma’s bingo partner is bullish at this point. Wake up and smell the bull fuel.” At press time, XRP traded at $1.9799. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP Price|XRP Price Anaysis|XRP Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57296337,
+    "published": 1768813740000,
+    "title": "Bitcoin and ether ETFs log their best week since October",
+    "body": "U.S.-listed spot bitcoin and ether ETFs logged their strongest week in three months, led by bullish bets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ether|ETFs|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
