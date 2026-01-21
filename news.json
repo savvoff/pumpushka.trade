@@ -467,275 +467,6 @@
     ]
   },
   {
-    "id": 57324179,
-    "published": 1768899629000,
-    "title": "XRP Market Structure Resembles That Of February 2022, Glassnode Warns",
-    "body": "Glassnode says XRP is slipping back into a cost-basis configuration last seen in February 2022, with newer buyers accumulating at levels that leave a prior cohort “top” increasingly underwater, an on-chain setup that can shape sell pressure around key price zones. In a note shared Monday via X, the analytics firm pointed to a rotation in realized prices by age band. “The current market structure for XRP closely resembles February 2022,” Glassnode wrote. It added that “psychological pressure on top buyers builds over time,” framing the current tape as one where patience is being tested rather than rewarded. What This Means For XRP Price The firm’s core observation is that wallets active in the short-term window, roughly the 1-week to 1-month cohort, are accumulating below the cost basis of holders in the 6-month to 12-month band. In practice, that means newer demand is stepping in at prices that are cheaper than what a meaningful slice of mid-term holders paid. Related Reading: XRP Is Doing Something It Hasn’t Done Since 2021: Here’s Why It Matters That relationship matters because cohorts tend to behave differently when price revisits their cost basis. When spot trades below a cohort’s realized price, that cohort is, on average, underwater. If the market rallies back toward that level, some of that supply can become eager to de-risk into breakeven, creating overhead liquidity that can cap upside until it is absorbed. Glassnode’s “Realized Price by Age” chart (7-day moving average) visualizes this dynamic by plotting cohort realized prices against spot. The standout feature is the gap between shorter-term and 6–12 month cost bases during the most recent consolidation, echoing the firm’s February 2022 comparison. With XRP price again trading slightly below the $2 mark, a post by Glassnode from Nov. 24 2025 also comes back into focus. Glassnode quoted this old X post in which it singled out $2 as the level where this cohort stress has been most visible in flows. “The $2.0 level remains a major psychological zone for Ripple holders,” the firm said. “Since early 2025, each retest of $2 saw $0.5B–$1.2B per week in losses,” a reminder that many holders have been exiting at a loss as price revisits that handle. Related Reading: XRP Longs Get Wiped: Binance Leads $5M Liquidation Wave Those realized loss estimates are a key qualifier: they suggest that $2 is not just a chart level, but a behavior level, where spending decisions change and where capitulation (or forced de-risking) can cluster. Notably, in February 2022, XRP put in a sharp round-trip: after slipping to about $0.6034 on Feb. 2, it ripped higher to the month’s peak near $0.8758 on Feb. 8, then rolled over into the back half of the month as macro risk accelerated. Then, XRP was back around $0.70 by Feb. 23–24 (roughly 20% off the Feb. 8 high), before bouncing into month-end near $0.7856 on Feb. 28. The late-month downdraft coincided with the Russia–Ukraine escalation and the Feb. 24 invasion, which hit risk assets broadly and pushed major crypto lower intraday, consistent with the risk-off impulse seen across the entire crypto market. At press time, XRP traded at $1.9294. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|glassnode|xrp|xrp news|XRP On-Chain Data|XRP Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57325748,
-    "published": 1768898213000,
-    "title": "Yield trading platform Pendle debuts new token to boost user capital efficiency",
-    "body": "Pendle is overhauling its token economics, scrapping multi-year locks in favor of a liquid staking model and a new revenue-driven reward system.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Pendle|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 57323673,
-    "published": 1768897728000,
-    "title": "Bitcoin holders see first 30-day stretch of realized losses since late 2023",
-    "body": "Gold hit fresh record highs on Tuesday as rising geopolitical tensions and trade-war fears continued to push investors toward safe-haven assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57322752,
-    "published": 1768895345000,
-    "title": "'White Whale' memecoin slides 60% after top holder dumps $1.3 million",
-    "body": "A major holder’s exit sent White Whale sharply lower on Monday, with the project calling the move a “liquidity event.\"",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57321752,
-    "published": 1768892429000,
-    "title": "Solana At Risk Of Breakdown After Key Rejection – Is $100 Next?",
-    "body": "A year after reaching its all-time high (ATH), Solana (SOL) is trading 54.3% below its $293 2025 milestone, attempting to hold a crucial zone as support. Some analysts warned that the altcoin could risk a deeper correction if the price fails to recover the recently lost ground. Related Reading: Ethereum’s 4-Hour Chart Says A Big Dump Is Coming, Here’s The Target Solana Breaks Below Key Support On Sunday, Solana recorded an 8% pullback and hit a two-week low of $130. Since losing the $200 phycological barrier in late October, the cryptocurrency has struggled to hold bullish momentum, hovering between the $115-$145 levels over the past three months. The start-of-the-year rally saw SOL break out of its multi-month downtrend, reclaim the upper zone of its local range, and briefly breach above the key $145 resistance last week. However, Sunday’s market pullback has sent Solana back below key areas. Amid this performance, market observer BitGuru affirmed in an X analysis that the cryptocurrency “just swept liquidity into a strong demand zone after a clean structure breakdown.” He explained that the price is attempting to rebound from its local support area, which could trigger a “sharp relief move toward previous highs” if the price can hold the current levels. Meanwhile, analyst Man of Bitcoin noted that the altcoin’s price broke below its two-week ascending trendline, which had been supporting its 17% surge from its yearly opening. Moreover, it also dropped below the $136 mark, where the price had consistently bounced after the recent breakout. The market observer pointed out that Solana’s short-term support sits between the $129-$136 area, adding that a breach and sustained breakdown from this area would spell trouble for the cryptocurrency. According to the chart, if selling pressure persists and Solana fails to reclaim the recently lost ground, the price could see a scenario where it retraces deeper and potentially falls up to 25% to challenge the $100 area. Analysts Warn Of Head And Shoulder Pattern Other market watchers highlighted a macro pattern on Solana’s chart, suggesting that a breakdown to new lows could be coming. Notably, the altcoin displays a two-year Head and Shoulders formation in the weekly timeframe. According to the chart, this bearish pattern has been forming since 2024, with the left shoulder developing during the Q1-Q2 2024 rally and the neckline sitting around the $120 area. Meanwhile, the pattern’s head formed during its late 2024 and early 2025 bullish run, which led to its ATH of $293 a year ago. Lastly, the right shoulder developed after the Q3 2025 rally and Q4 correction. Based on this performance, trader Slashology affirmed that Solana is “really looking bad here,” warning that investors should “prepare for the worst” as the price trades near the pattern’s neckline. He forecasted that a breakdown from this key level could lead to a 35%-40% “bloodbath” toward the $75-$80 levels. On the contrary, market observer Crypto Curb suggested a different outcome could be possible. Related Reading: XRP To Repeat Its 2017 Playbook? Analyst Forecasts 1,250% Expansion In an X post, he compared SOL’s recent performance to the S&P 500 (SPX) price action between 2009 and 2011. Per the post, SPX displayed the same pattern as Solana, but ultimately invalidated the pattern after bouncing from the neckline and breaking above the right shoulder’s peak, eventually reaching new highs. To the analyst, the altcoin could display a similar performance if it rebounds from the current levels and starts to climb higher. As of this writing, Solana is trading at $134, a 5.6% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto analyst|crypto market correction|Crypto Market Recovery|Crypto trader|Sol|SOL analysis|SOL breakdown|Solana|Solana price analysis|SOLUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57321595,
-    "published": 1768891623000,
-    "title": "Bitcoin institutional demand remains strong: Cryptoquant",
-    "body": "Cryptoquant found that large custody wallets accumulated $53 billion in Bitcoin over 12 months, suggesting that institutional demand for Bitcoin hasn’t gone away.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57321436,
-    "published": 1768891523000,
-    "title": "Bitcoin falls under $91,000 as solana, xrp and cardano nurse weekly losses",
-    "body": "Tuesday’s crypto tape was steadier after Monday’s tariff-driven wobble, but sentiment remains cautious with altcoins still weaker than bitcoin.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57328961,
     "published": 1768914011000,
     "title": "Shiba Inu Whales Are On The Move Again, 361 Billion SHIB Stuns Community",
@@ -2871,6 +2602,252 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57350483,
+    "published": 1768977123000,
+    "title": "Rolex, Patek lead high-end watch market rebound even as bitcoin struggles",
+    "body": "Secondary watch prices are up about 4% over six months, even as crypto slides and gold and silver absorb the macro stress trade.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|btc|Watches|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57350586,
+    "published": 1768977107000,
+    "title": "Bhutan to deploy Sei validator in Q1, eyes tokenization collab",
+    "body": "Bhutan is adding to its growing list of blockchain initiatives. It already runs a Bitcoin mining operation and also launched a self-sovereign ID system powered by Ethereum.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57338134,
+    "published": 1768940506000,
+    "title": "New Bitcoin whales raise risk of BTC pullback toward $85K",
+    "body": "Analysts say Bitcoin’s volatile price action reflects an increasing risk of distribution as new BTC whales dominate short-term flows. Is a drop to $85,000 in play for the short term?",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57351065,
+    "published": 1768978854000,
+    "title": "Trove’s New Token Craters 95%, Sparking Investor Revolt",
+    "body": "Trove Markets’ new token collapsed almost immediately after trading began, wiping out the vast majority of early gains and leaving many backers angry and confused. The drop was brutal. Traders who bought early watched their holdings shrink by about 95% in a matter of hours. Related Reading: Bitcoin Bulls Fired Up As Saylor Teases ‘Bigger Orange’ After Huge Buy Token Price Plunges After Launch Initial prices implied a market value near $20 million. Based on reports, the token fell to roughly $0.0008 per unit, trimming the market cap to below $1–2 million. Some wallets unloaded huge chunks of coins right after the token generation event. That selling pressure coincided with a flood of posts on social platforms calling the launch a rug pull. Trove Had Raised Millions Before The Fall According to reports, the project raised roughly $11.5 million in its public sale. The Trove team announced it would keep about $9.4 million to fund further work and pay for a switch of blockchains. Refunds totaling about $2.44 million were returned to some investors, and another $100,000 was earmarked for additional reimbursements. The numbers left many buyers feeling shortchanged and asking why a large share of the money stayed with the team. Team Keeps Majority Of Funds On-chain analysts and tracing tools flagged unusual transfers tied to a handful of new accounts. Reports note that a meaningful slice of the token supply moved into one cluster of wallets, and some transfers were routed through services like ChangeHero. That activity raised questions about whether all token allocations were handled openly. Legal calls and demands for public audits followed soon after. Investors reacted quickly. Some demanded full refunds. Others threatened legal steps. Community moderators and influencers amplified complaints and demanded clear timelines for fixes. We’re pivoting Trove to Solana. After recent sentiment around Trove, the liquidity partner that had been supporting our Hyperliquid path chose to unwind their 500k $HYPE position. That was their decision and we fully respect it. This changes our constraints: we’re no longer… — unwise (@unwisecap) January 18, 2026 Trove posted updates, saying a partner had pulled out and that the pivot to Solana was necessary to keep the project alive. The team promised to continue building and to be more open about their choices, while pledging to deliver a working platform that might justify holding the funds. https://t.co/sc8b59sjYE — TROVE (@TroveMarkets) January 19, 2026 Related Reading: Bitcoin Senses Risk As Trump Balks At Europe With Major Tariffs Trust Hinges On Delivery And Transparency What happens next will matter more than the words now being exchanged. If the team can show tangible progress on the exchange and create real trading depth, some anger may fade. If not, the episode could be used as a warning: token sales that change terms late in the process can trigger swift market punishment and reputational damage. Regulatory scrutiny could also increase if large sums are held after a collapse like this. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoins|crypto|meme coins|Rug Pull|Solana|Trove",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57351705,
+    "published": 1768980793000,
+    "title": "Bitcoin stages rebound to nearly $90,000 as traders await Trump’s Davos talks",
+    "body": "BTC and major altcoins saw early signs of stabilization after macro-driven losses.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57352768,
+    "published": 1768983694000,
+    "title": "Nansen launches AI crypto trading tools on Base and Solana",
+    "body": "The new AI-powered crypto trading platforms aim to replace traditional trading charts and order books with trading execution offered through natural language processing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
