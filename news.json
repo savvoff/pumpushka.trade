@@ -1,180 +1,5 @@
 [
   {
-    "id": 57328961,
-    "published": 1768914011000,
-    "title": "Shiba Inu Whales Are On The Move Again, 361 Billion SHIB Stuns Community",
-    "body": "Shiba Inu’s on-chain data shows an interesting dynamic among SHIB holders and their relationship with crypto exchanges. Recent metrics from CryptoQuant show sustained withdrawals from exchanges alongside a noticeable increase in burn activity in the past few days, all of which are signs of tighter supply conditions. This dwindling exchange supply reflects hundreds of billions of SHIB tokens removed from exchanges in recent days in a trend that dates back up to a year. Massive Decline In SHIB Held On Exchanges According to data from on-chain analytics platform CryptoQuant, SHIB exchange reserves have declined noticeably as whale wallets withdraw large amounts of tokens from trading platforms. On January 16, the total Shiba Inu exchange reserves stood at approximately 82.6 trillion SHIB. As of January 20, that figure has fallen to about 82.23 trillion SHIB. This change means that roughly 370 billion SHIB has been removed from exchanges in just a few days. Such movements are typically attributed to whale activity, as transfers of this size are rarely caused by retail traders. When whales move SHIB off exchanges, the tokens are often sent to cold storage or long-term holding wallets, reducing the amount of supply immediately available for selling. SHIB Exchange Reserve. Source: CryptoQuant This short-term outflow also fits into a much larger trend of outflows from crypto exchanges since January 2025. CryptoQuant data shows that SHIB exchange reserves were close to 140 trillion tokens in early January 2025. Since then, however, SHIB whales have steadily reduced exchange balances, and this has pushed the reserves down to current levels around 82.2 trillion SHIB. The consistency of this decline suggests deliberate accumulation or long-term positioning by large holders. SHIB Exchange Reserve. Source: CryptoQuant Whale Activity Correlates With Increased SHIB Burn Rates Burn activity across the Shiba Inu network has intensified alongside whales withdrawing SHIB from exchanges. According to recent on-chain data, the SHIB burn rate has witnessed a jump of more than 1,200% in the past 24-hour period, with almost 29 million SHIB permanently removed from circulation. Although burns are not exclusively initiated by whales, large holders often play a role by sending large tokens to burn addresses or interacting with ecosystem mechanisms like Shibarium that lead to burns. Data from the burn tracker website Shibburn shows that the bulk of these burns were made with one single transfer of 28 million SHIB tokens sent to burn address CA. SHIB Burn Rate. Source: Shibburn.com According to CryptoQuant data, over 51.2 billion SHIB tokens have been withdrawn from crypto exchanges in the past 24 hours alone. So far, Shiba Inu’s price action has not made a decisive move in response to these changes. At the time of writing, Shiba Inu is trading at $0.00000794, up by 1% in the past 24 hours but down by 7.6% in a seven-day timeframe. SHIB Exchange Netflow. Source: CryptoQuant Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Shiba Inu|SHIB|SHIB news|SHIB price|Shiba Inu news|Shiba Inu Price|SHIBUSD|SHIBUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 44,
-        "NAME": "SHIB",
-        "CATEGORY": "SHIB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57329112,
-    "published": 1768914000000,
-    "title": "Argentina’s Pomelo Raises $55 Million to Boost Payment Offerings",
-    "body": "Argentina-based financial technology startup Pomelo has raised $55 million in a Series C round as it looks to deepen its presence in Latin America and expand globally with new products tied to stablecoins and real-time agentic payments.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
-    "id": 57329433,
-    "published": 1768915080000,
-    "title": "Coinbase says capital access beats income in wealth creation",
-    "body": "The policy paper argues that access to capital markets, rather than income or banking, now defines who can build wealth and says tokenization could widen participation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57329973,
-    "published": 1768916762000,
-    "title": "Morning Minute: NYSE Leans Into 24/7 Tokenized Trading Onchain",
-    "body": "Crypto led the way and Wall Street is finally following, as the NYSE prepares to support 24/7 trading of tokenized stocks and ETFs.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 57330892,
-    "published": 1768919405000,
-    "title": "Slow Rug? Trump-Associated World Liberty Fi Accused Of Value Extraction",
-    "body": "A governance vote at World Liberty Financial (WLFI), a DeFi project marketed around the Trump brand, is drawing allegations of “slow” value extraction after a prominent trader claimed affiliated wallets pushed through a proposal while many public holders remained unable to access or vote with their tokens. DeFi^2 (@DeFiSquared), who describes himself as the #1 ranked trader on Bybit in 2023 and 2024, wrote on X that he was “bringing up an alarming governance vote by World Liberty Fi this month that appears to be the start of a slow extraction of value from WLFI holders by the team.” World Liberty Fi Hit With ‘Rigged Vote’ Claims DeFiSquared wrote: “What you see above appears to be a rigged vote, where the majority of top voters are indicated to be team wallets or strategic partner wallets by Bubble Maps. This is in contrast to the real voters lower in the screenshot, who have all been locked from accessing their WLFI tokens since TGE, and unable to vote on an unlock until the team allows it.” Related Reading: Trump-Linked World Liberty Backs USD1 With Treasury-Fueled Expansion The proposal at the center of the thread is what he calls the “USD1 growth proposal.” He argues it reads as “fairly mundane” on its face, but says the governance sequencing is the tell: “why would the team go out of their way to force this vote through, instead of voting on the WLFI token unlock that the majority of holders are asking for?” His thesis hinges on WLFI economics. DeFiSquared claims WLFI holders “are not entitled to ANY protocol revenue at all,” and says the project’s “Gold Paper” specifies revenue routing: “75% of protocol revenue goes to the Trump family, and 25% goes to the Witkoff family.” In his framing, that creates a perverse incentive: “It’s actually as crazy as it sounds: the team is forcing a vote to sell WLFI tokens at the expense of locked holders, in order to fund protocol revenue that goes only to themselves.” Related Reading: Trump’s WLFI Moves To Contain Wallet Breach While Federal Inquiry Looms He also alleges the vote’s outcome was manufactured late in the process. “This vote was actually failing by the time it reached quorum with a majority of votes rejecting the proposal, until the team / partners forced the vote through,” he wrote, adding token allocation context: “the WLFI team is allocated 33.5% of all tokens and strategic partners another 5.85%, while the public sale was allocated only 20%.” Post-vote, he points to on-chain flows as corroboration, citing “fresh transfers such as this one of 500 million WLFI tokens to Jump Trading,” while “investor WLFI allocations remain forcibly locked.” DeFiSquared closes with a valuation and positioning call: “it’s difficult to see the intrinsic value behind a 17 billion dollar token that has no real governance power, no revenue share, and new foundation sell pressure occurring for their own benefit.” He adds he has shorted WLFI “on and off since pre-market prices above $0.34,” and expects continued downside “due to dilution, intentional extraction,” and “other factors related to Trump’s final term in office.” At press time, WLFI traded at $0.1608. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Trump|WLFI|WLFI news|WLFI price|World Liberty Financial",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57332065,
     "published": 1768922660000,
     "title": "Bitcoin Dips Briefly Below $90,000 as Global Selloff Deepens",
@@ -251,29 +76,6 @@
     ]
   },
   {
-    "id": 57331917,
-    "published": 1768922198000,
-    "title": "Chainalysis bets on automation to scale onchain investigations beyond developers",
-    "body": "The feature allows non-technical teams to conduct onchain investigations and compliance analyses without relying on custom code.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57332194,
     "published": 1768923080000,
     "title": "Ethereum DeFi Platform Makina Hit by Flash Loan Exploit, Loses $4M in ETH",
@@ -311,53 +113,6 @@
         "ID": 218,
         "NAME": "SECURITY INCIDENTS",
         "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57332314,
-    "published": 1768921081000,
-    "title": "TenX adds Tezos to its crypto treasury, targets staking revenue after buying 5.5M XTZ",
-    "body": "The public blockchain infrastructure firm said it expects Tezos staking yields in the high single digits and plans to disclose rewards in its financial reporting.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Treasury|Crypto Capital|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
@@ -2626,6 +2381,549 @@
         "ID": 13,
         "NAME": "BLOCKCHAIN",
         "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 57358082,
+    "published": 1768998690000,
+    "title": "Bitpanda expands into stocks and ETFs with universal exchange push",
+    "body": "More crypto platforms are edging toward universal exchange ambitions, with research firms predicting a crypto “super app” race.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57358613,
+    "published": 1769000409000,
+    "title": "Pundit Clarifies XRP Roadmap To $10: How Price Will Play Out In 2026",
+    "body": "Although the XRP price has remained in a downtrend and largely range-bound since falling below its 2025 peak, a crypto analyst believes it could still surge to $10 in 2026. The analyst has shared a detailed roadmap supporting this bullish outlook, outlining how XRP’s price could play out this year and the key factors that could influence its movements. A Roadmap To XRP $10 Price Surge In a YouTube video released on January 20, crypto market analyst Zach Rector laid out his honest expectations for XRP’s outlook in 2026, offering insights into how it could get to $10 and the catalysts that could fuel this rally. According to the analyst, the XRP market is currently dominated by Fear, Uncertainty, and Doubt (FUD), along with signs of capitulation, which have pushed the price down and negatively impacted the sentiment and confidence of newer investors. Related Reading: Is Dogecoin About To Repeat NVIDIA’s Run? Here’s What The Chart Says Rector revealed that long-term XRP holders are also becoming increasingly frustrated with the prolonged downtrend, with many wishing they had taken profits during last year’s rally, particularly when XRP rose to a peak around $3.6. He added that there has also been discontent and negative sentiment regarding XRP’s slow adoption, delay in industry regulation, and more. However, from both a technical and investment standpoint, the analyst said he remains excited and optimistic about XRP’s price prospects in 2026. He explained that the market is already entering a renewed liquidity cycle, a shift that typically leads to an expansion in the broader business cycle. According to him, this stage has always correlated with powerful bull runs during an altcoin season. Rector mentioned that although many investors and analysts expected an altcoin season in 2025, it never came. He believes that market conditions could still align for an altcoin season this year, with XRP positioned for significant gains during that period. He further acknowledged that he does not expect XRP to skyrocket to $50 or $100 in 2026, calling those price targets highly ambitious. For his more realistic projection, Rector said he believes XRP could rise to between $5 and $10 in 2026. He noted that a significant sell wall exists around this range, as many investors are likely to take profits amid potential price volatility. Despite this, the analyst said that XRP still brings a strong ROI opportunity for investors. He pointed to factors that could drive the market, including US interest rate cuts, the implementation of the CLARITY Act, and billions of dollars expected from the Fed’s QE programs. XRP Could Double ROI Faster Than Gold And Silver In his video, Rector compared XRP’s long-term profitability potential to that of gold and silver. He noted that both precious metals performed exceptionally during this cycle, reaching new all-time highs. Silver, in particular, exceeded expectations, breaking past $95 in the last 24 hours after experiencing a years-long downtrend. Related Reading: Shiba Inu Whales Are On The Move Again, 361 Billion SHIB Stuns Community Rector believes that the chances of silver doubling to $200 or gold reaching $9,000-$10,000 per ounce this year are low. However, he says XRP has much stronger upside potential, forecasting a surge to $4 and beyond. If this happens, long-term investors who bought at or below $2 could effectively double their ROI. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57358850,
+    "published": 1769001090000,
+    "title": "Chainlink is one of crypto’s most undervalued infrastructure bets: Bitwise",
+    "body": "Chainlink is a dominant software platform quietly powering stablecoins, tokenization, DeFi and institutional adoption across crypto, said Matt Hougan.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Chainlink|Bitwise|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57359184,
+    "published": 1769001935000,
+    "title": "Spot Bitcoin, Ether ETFs see heavy outflows as ‘institutional caution’ grows",
+    "body": "Crypto markets dip as global macro pressures mount, with US-EU trade tensions and Japanese bond sell-offs fueling institutional caution.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57359117,
+    "published": 1769001756000,
+    "title": "Blockchain technology can accelerate global GDP growth, Citizens says",
+    "body": "The bank said the technology is shifting from experimentation to real-world deployment, with implications for capital markets, governments and global GDP.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Blockchain Adoption|AI|Tokenization|Analysts|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57359107,
+    "published": 1769001588000,
+    "title": "Bitcoin sharks scoop up BTC like it's 2013 despite 'perfect bull trap'",
+    "body": "Several chartists warn that Bitcoin could decline toward $30,000 in February as the price action mirrors previous four-year cycles.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57359541,
+    "published": 1769003026000,
+    "title": "Vitalik Buterin proposes simpler ‘distributed validator’ staking for Ethereum",
+    "body": "The aim is to make staking more resilient while dramatically reducing technical complexity for large ETH holders.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum News|Vitalik Buterin|Staking|Validators|distributed validator technology|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57359445,
+    "published": 1769002704000,
+    "title": "Trump coin price plunges 94% in a year as memecoin frenzy fades",
+    "body": "Token falls sharply from its peak just before US president’s inauguration in January 2025",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57359934,
+    "published": 1769004002000,
+    "title": "Bitcoin utility blockchain VerifiedX debuts ‘Venmo-for crypto’ payment app Butterfly",
+    "body": "The Butterfly app goes live in partnership with Crypto.com, Moonpay and Blockdaemon.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|payments|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57359999,
+    "published": 1769004107000,
+    "title": "Guernsey Authorities Seize $11.4M Tied to ‘Cryptoqueen’ OneCoin Fraud",
+    "body": "A court in Guernsey, a self-governing British finance hub, upheld a German forfeiture order linked to crypto fraud proceeds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57360597,
+    "published": 1769005833000,
+    "title": "Solana Will Become A ‘Decentralized Nasdaq’ In 2026, Delphi Digital Predicts",
+    "body": "Delphi Digital is betting that Solana’s next major upgrade cycle will reposition the network as an “exchange grade” environment capable of supporting onchain order books that can realistically contend with centralized venues on latency, liquidity depth, and market structure. In a Jan. 20 post on X titled “2026 is the Year of Solana”, the research firm argued Solana’s 2026 roadmap is its “most aggressive upgrade cycle” yet, one that “overhaul[s] everything from consensus to infrastructure to become the decentralized Nasdaq.” Why Delphi Digital Calls 2026 “The Year Of Solana” Delphi framed the roadmap less as a grab bag of performance enhancements and more as a capital-markets push: “Solana’s roadmap is about transforming it into an exchange grade environment where a native onchain CLOB can viably compete with CEX latency, liquidity depth, and fairness. Here are all the upgrades making this possible.” In that view, shaving milliseconds matters only insofar as it produces predictable, enforceable execution outcomes for applications like high-frequency trading and central limit order books. The centerpiece, Delphi wrote, is Alpenglow, a consensus redesign it called “the most significant protocol level change in Solana’s history.” The firm said Alpenglow introduces a new architecture built around Votor and Rotor, with Votor changing how validators reach agreement. Rather than “chaining multiple voting rounds together,” validators would aggregate votes offchain and “commit to finality in one or two rounds,” producing “theoretical finality in the 100-150 millisecond range, down from the original 12.8 seconds.” Related Reading: Solana At Risk Of Breakdown After Key Rejection – Is $100 Next? Delphi emphasized Votor’s parallel finalization paths as a resilience feature, not just a speed play. If a block gets “overwhelming support (80%+ stake)” it finalizes immediately; if support is between 60% and 80%, a second round triggers, and finality follows if that also clears 60%. The goal, Delphi argued, is to preserve finality even with unresponsive segments of the network. Alpenglow also introduces what Delphi called a “20+20” resilience model: safety holds as long as no more than 20% of stake is malicious, while liveness persists even if another 20% is offline, “tolerat[ing] up to 40% of the network being either malicious or inactive while still maintaining finality.” Under this design, Proof of History is “effectively deprecated,” replaced by deterministic slot scheduling and local timers. Delphi said the upgrade is expected to roll out in early to mid 2026. Delphi also pointed to Firedancer, Jump’s C++ validator client, as a structural upgrade aimed at reducing a long-standing operational risk. Solana has historically relied on a single client, now known as Agave, and Delphi described that “monoculture” as a central weakness because client-level faults can cascade into broader network halts. Firedancer’s objective, Delphi said, is a deterministic, high-throughput engine that can process “millions of TPS with minimal latency variance.” Ahead of full readiness, Delphi highlighted “Frankendancer,” a transitional build that combines Firedancer’s networking and block production modules with Agave’s runtime and consensus components, as a bridge to “substantially” increased client diversity. On infrastructure, Delphi spotlighted DoubleZero as a private fiber overlay for validators, likening its transmission profile to traditional exchange connectivity: “the same infrastructure traditional exchanges like Nasdaq and CME rely on for microsecond level transmission.” The argument is that as validator sets expand, propagation variance becomes the enemy of tight finality windows. By routing messages along “optimal paths” and supporting multicast delivery, Delphi said DoubleZero can narrow latency gaps across validators—an enabler for both Votor’s quorum formation and Rotor’s propagation design. Related Reading: SOL Price Faces Key Support Amid Solana’s Rapid Network Expansion Delphi also framed Solana’s block-building roadmap as a market-structure project. It described Jito’s BAM (Block Assembly Marketplace) as separating ordering from execution via a marketplace and privacy layer, with transactions ingested into TEEs so “neither validators nor builders can see raw transaction content before ordering takes effect,” reducing pre-execution behavior like frontrunning. Harmonic, meanwhile, targets builder competition by introducing an open aggregation layer so validators can accept proposals from “multiple competing builders in real time,” with Delphi summarizing: “Think of Harmonic as a meta-market and BAM as a micro-market.” Raiku rounds out the thesis by adding deterministic latency and programmable execution guarantees adjacent to Solana’s validator set, using Ahead-of-Time (AOT) transactions for pre-committed workflows and Just-in-Time (JIT) transactions for real-time needs—without modifying L1 consensus. Delphi ultimately tied the technical roadmap to market demand: Solana’s spot trading gravity, the consolidation of onchain perps toward a handful of venues, and the need to reach performance parity with centralized platforms. It cited expectations for “new Solana native perps like Bulk Trade coming early next year,” and pointed to products like xStocks bringing “onchain equities directly to Solana,” arguing that liquidity and attention are consolidating toward a chain with faster settlement, better UX, and denser capital. At press time, SOL traded at $127. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Solana|Delphi Digital|Sol|SOL news|SOL Price|Solana news|Solana Price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57360593,
+    "published": 1769005800000,
+    "title": "Ondo Finance Brings 200+ Tokenized U.S. Stocks and ETFs to Solana",
+    "body": "The expansion comes as tokenized real-world assets continue to gain traction across crypto markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 108,
+        "NAME": "ONDO",
+        "CATEGORY": "ONDO"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57353831,
+    "published": 1768986900000,
+    "title": "Gen Z To Inherit $15 Trillion—And They Trust Crypto More Than Banks",
+    "body": "As $84 trillion transfers from Boomers to younger generations, a survey shows heirs trust crypto five times more than their parents do. Gen Z prefers crypto to stocks.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57360984,
+    "published": 1769006916000,
+    "title": "Trump aimes to sign major crypto bill 'very soon' in a push to make U.S. crypto capital of the world",
+    "body": "U.S. President Donald Trump said he supported efforts to legislate crypto because of the political support he received for doing so.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Donald Trump|crypto policy|China|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57361460,
+    "published": 1769007927000,
+    "title": "Bitcoin eyes $90K as Donald Trump sees crypto bill signing 'very soon'",
+    "body": "Bitcoin joined stocks in a relief bounce as US President Donald Trump hinted at new legislation \"very soon\" and a doubling of the Dow Jones.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
