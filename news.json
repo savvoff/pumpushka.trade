@@ -1,565 +1,5 @@
 [
   {
-    "id": 57390563,
-    "published": 1769095850000,
-    "title": "Bitcoin tumbles back below $89,000 as Wednesday afternoon rally attempt fades",
-    "body": "\"The consensus view is that crypto markets are bearish until about September,\" said one analyst.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Breaking News|top news|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57390566,
-    "published": 1769095826000,
-    "title": "Coinbase Exec Points Out The Big Difference Between Bitcoin And Central Banks",
-    "body": "Bitcoin’s role in the global financial system remains widely misunderstood, even at the highest levels of policy and finance. That disconnect surfaced during a major international forum, prompting a pointed clarification from a Coinbase executive. The moment centered on a fundamental question with growing relevance: what truly separates Bitcoin from central banks? Bitcoin’s Structural Design Sets It Apart – Coinbase Executive During the World Economic Forum in Davos, where global policymakers and financial leaders were debating the future of money and tokenization, Brian Armstrong, CEO of Coinbase, responded to remarks made by François Villeroy de Galhau, Governor of the Banque de France, who argued that central banks deserve greater trust than Bitcoin because they operate under democratic mandates and institutional oversight. Related Reading: Pundit Clarifies XRP Roadmap To $10: How Price Will Play Out In 2026 Armstrong’s response focused on how Bitcoin is designed. Bitcoin operates as a decentralized protocol with no issuing authority, no governing committee, and no single entity capable of altering its monetary rules. Its supply is fixed, its issuance is algorithmic, and its operation depends on a distributed network of participants rather than institutional oversight. This design makes Bitcoin structurally independent in a way no central bank can replicate. By contrast, central banks sit at the top of national monetary systems. They control currency issuance, influence interest rates, and adjust monetary policy in response to political and economic pressures. Even when described as “independent,” they remain tightly connected to governments and fiscal policy. Armstrong highlighted that this link introduces discretion, policy shifts, and long-term currency debasement through money creation—a vulnerability Bitcoin was explicitly built to avoid. This distinction becomes especially relevant during periods of aggressive deficit spending. Because Bitcoin’s supply cannot be expanded, it functions as a constraint rather than a tool. In Armstrong’s view, this makes Bitcoin a direct counterweight to systems where new money can be introduced at will, gradually reducing purchasing power over time. That structural constraint is the foundation of Bitcoin’s appeal as a hedge during periods of uncertainty. Trust, Accountability, And Individual Choice The exchange also exposed a deeper disagreement about how trust is formed. Villeroy de Galhau emphasized trust in central banks as institutions backed by legal authority and democratic systems. Armstrong countered by reframing trust as something derived from transparency and verifiability rather than institutional reputation. Related Reading: Is Dogecoin About To Repeat NVIDIA’s Run? Here’s What The Chart Says Armstrong further positioned Bitcoin as an accountability mechanism. Because its supply cannot be adjusted to accommodate government spending, it imposes discipline by design. In this sense, Bitcoin functions less as a policy tool and more as a constraint—similar to how gold historically limited monetary excess. This characteristic has driven its growing perception as a store of value during times of economic uncertainty. Importantly, Armstrong did not frame the relationship between Bitcoin and fiat currencies as a zero-sum battle. Instead, he described it as a healthy competition that leaves the ultimate decision with individuals. Users can choose between systems: one based on institutional control and policy flexibility, and another based on fixed rules and decentralization. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57390460,
-    "published": 1769095539000,
-    "title": "AI infrastructure firm secures up to $500 million onchain loan after bypassing banks",
-    "body": "The credit facility used GPU hardware as tokenized collateral, enabling faster capital access without traditional credit checks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenization|Credit|Loan|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57390458,
-    "published": 1769095516000,
-    "title": "Crypto regulation to become global reality this year, PwC says",
-    "body": "PwC says 2026 is when crypto rules go live globally, reshaping stablecoins, compliance, and the race to become the industry’s most trusted hub.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|PwC|Regulation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57390735,
-    "published": 1769096358000,
-    "title": "Bitcoin in a deep bear market against gold, history suggests downside may persist",
-    "body": "Bitcoin is now down 55% against gold from its December 2024 peak.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Gold|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57391124,
-    "published": 1769097332000,
-    "title": "Thailand SEC’s New Three-Year Plan Pushes Tokenization, Crypto ETFs",
-    "body": "The strategy aims to pivot Thailand from a retail trading hub to a “sophisticated venue” for institutional investors, said one analyst.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 57391859,
-    "published": 1769098490000,
-    "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!",
-    "body": "Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC (+15%), SKY (+11%) and SAND (+10%) led top movers. Crypto markets saw more than $1B in liquidations as Bitcoin rebounded sharply after President Trump signaled a retreat from proposed tariff measures. Vitalik Buterin proposed native DVT staking to strengthen Ethereum security and decentralization, signaling continued protocol-level experimentation. Bitgo announced its IPO at $18 per share, valuing it at ~$2B. The Senate Ag Committee confirmed that its version of the Clarity Act will move forward to markup next week despite lack of bipartisan support. Mortgage lender Newrez explored counting Bitcoin and Ethereum toward mortgage qualification, applying discounted valuations to account for crypto volatility. Hong Kong regulators moved to issue stablecoin licenses under a new framework that imposes strict compliance, reserve, and operational requirements. Russian courts ruled that cryptocurrencies qualify as property under law, setting a legal precedent for future criminal and civil cases. President Trump said he hopes to sign the crypto market structure bill soon, despite ongoing legislative roadblocks and disagreements over regulatory scope. Saga’s EVM blockchain halted operations following a $7M hack, with stolen funds bridged to Ethereum. Steak ’n Shake rolled out a Bitcoin bonus program for hourly employees, allowing workers to earn a portion of compensation in BTC.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57392327,
-    "published": 1769100899000,
-    "title": "Ondo to put BitGo stock onchain following New York Stock Exchange debut",
-    "body": "The crypto company's stock will be available in a tokenized version on Ethereum, Solana and BNB Chain closely after it starts trading on NYSE.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenized Assets|BitGo|tokenized stocks|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57392620,
-    "published": 1769101612000,
-    "title": "Ex-Binance CEO ‘talking with probably a dozen governments‘ about tokenization",
-    "body": "Former Binance CEO Changpeng Zhao said at the World Economic Forum in Davos that he is advising several governments on tokenizing state assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57392496,
-    "published": 1769101366000,
-    "title": "Superstate Raises $82.5 Million, Cashing in on Wall Street's Tokenization Bonanza",
-    "body": "Crypto startup Superstate helps Wall Street firms bring assets on-chain—a trend that has exploded as traditional finance and crypto converge.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57392494,
-    "published": 1769101262000,
-    "title": "'PGA Tour Rise' Mobile Golf Game to Launch on Skale's Base Network",
-    "body": "Blockchain game PGA Tour Rise is set to be one of the first major apps to launch on Skale’s new layer-3 network on Base.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Gaming",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      }
-    ]
-  },
-  {
-    "id": 57393048,
-    "published": 1769103000000,
-    "title": "Solana-based Natix brings DePIN data into self-driving AI with Valeo",
-    "body": "Natix and Valeo are building a decentralized, self-driving camera model to offer a transparent foundation for the safe mainstream deployment of physical AIs.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57392794,
-    "published": 1769102385000,
-    "title": "Trump-linked World Liberty Financial partners with Spacecoin on satellite-powered DeFi",
-    "body": "Spacecoin aims to provide permissionless internet access via satellite constellation, targeting remote and underserved communities.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|World Liberty Financial|Internet|Space|telecom|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57392822,
-    "published": 1769102329000,
-    "title": "Bitcoin, Ethereum ETFs Shed $1 Billion Amid Trump Waffling on Greenland and Tariffs",
-    "body": "Investors sought refuge from crypto exposure on Wednesday as President Donald Trump pulled back from his Greenland-related threats.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57393334,
-    "published": 1769103861000,
-    "title": "BitGo stock gains 25% in opening trades on NYSE as investors bet on the ‘plumbing’ of the crypto world",
-    "body": "The crypto custodian priced its initial public offering at $18 per share late Wednesday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|IPO|BitGo|NYSE|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57393444,
-    "published": 1769103758000,
-    "title": "Crypto Firm BitGo Jumps 25% in Debut After $212.8 Million IPO",
-    "body": "BitGo Holdings Inc. shares opened 25% above their IPO price, after the crypto firm and some of its backers raised $212.8 million in a US initial public offering.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57394280,
     "published": 1769106628000,
     "title": "This Bitcoin Price Level Must Hold Or It’s Mid-$50,000s: Veteran Analyst",
@@ -638,41 +78,6 @@
         "ID": 39,
         "NAME": "MINING",
         "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57394008,
-    "published": 1769105763000,
-    "title": "BitGo Debuts on NYSE With $18 Shares, $2B Valuation",
-    "body": "The digital asset infrastructure firm’s shares were priced above the expected range as it debuted on the New York Stock Exchange.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
@@ -2753,6 +2158,544 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57415628,
+    "published": 1769182498000,
+    "title": "Bitcoin slips back to $88,500 as silver tops $100 for first time ever and gold eyes $5,000",
+    "body": "Spot bitcoin ETFs booked over $1.6 billion in outflows in four days, underscoring the rapid reversal in investor demand after last week's strong inflows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Silver|Wintermute|Copper|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57415969,
+    "published": 1769184058000,
+    "title": "Dogecoin Is A ‘Client-Statement Risk’ For Advisers, ETF Experts Say",
+    "body": "Dogecoin’s attempt to join the institutional ETF lineup is running into a basic problem: institutions may not want it. In a Jan. 22 conversation on the Crypto Prime podcast, Bloomberg Intelligence ETF analyst James Seyffart and host Nate Geraci who is also the President of NovaDius Wealth Management said spot Dogecoin ETFs have attracted “near zero” demand so far, an outcome they tied to who typically buys DOGE, and how financial advisers think about reputational risk inside client portfolios. The Dogecoin datapoint landed inside a broader discussion about a crowded crypto ETF pipeline. Seyffart said his running tally of crypto ETF filings has climbed “over 150 unquestionably,” with many products spanning spot and derivatives, income overlays, buffers, and multi-asset structures. The surge, he argued, looks like issuers “throw[ing] the spaghetti at the wall” in 2026. Dogecoin ETF Reality Check But volume of filings doesn’t guarantee demand, and Dogecoin is the clearest example offered of that gap thus far. Pressed on which existing products stood out, Seyffart said “nothing really stands out,” before singling out Dogecoin as the exception, precisely because it has not resonated. Related Reading: Dogecoin Flirts With An Inverse Head And Shoulders: $0.15 Break Is The Trigger “The real honest answer is like nothing really stands out to me honestly if I have to pick one thing that kind of stands out, it’s probably that the Doge ETFs have gotten almost no interest whatsoever,” he said. He added that while some newer altcoin products have done “decently well,” Dogecoin has not. My conversation w/ @JSeyff on current state of crypto ETFs… We discuss: -Crypto ETF sentiment -150+ crypto-related ETF filings -Morgan Stanley crypto ETFs -BlackRock’s next move -Index & active crypto ETFs -Recent flows -What’s nexthttps://t.co/2TzJAnKXuK via @CryptoPrimePod pic.twitter.com/mtDuuDirB7 — Nate Geraci (@NateGeraci) January 22, 2026 Seyffart and Geraci converged on a demand thesis: the marginal buyer of DOGE likely already has the tooling and habit set to buy it directly, rather than through an ETF wrapper. “I remember talking to the guys at Bitwise. I was like, I don’t think anyone’s going to buy this,” Seyffart said. “But maybe I’m wrong. I’ve been wrong plenty of times before. But I mean, literally no one has bought like the Doge ETFs […] I had pretty low expectations, but I thought maybe they could get to a point where they’re slightly profitable.” Seyffart pointed to Bitwise’s product—ticker BWOW—as an early scoreboard: “it’s under a million in assets right now,” he said, calling that “near zero demand.” He cautioned the funds are still new, noting the Bitwise product launched at the end of November, but framed the initial traction as “very minuscule.” Geraci’s explanation was blunter: ”The people who buy that, in general, these are degens and they already know how to access this. They already have digital wallets. They don’t need an ETF to access this […]. And I think that’s going to be a lot of these other coins that are much further down the market cap spectrum.” Related Reading: Dogecoin Foundation-Backed ETF Launches On Nasdaq As Analysts Call For Massive DOGE Rally Geraci argued Dogecoin faces an additional headwind that doesn’t show up in crypto-native narratives but matters in the ETF market: advisers. “The other aspect here […] is what I call client statement risk,” Geraci said. “So financial advisors, they’re the biggest driver of ETF flows. And so let’s take Dogecoin as an example […] If you’re a financial adviser and you have a Dogecoin ETF show up on a client statement […] it’s like a flashing red light saying, ‘Please fire me and go find another adviser.’” That framing matters because the episode repeatedly returned to distribution realities. Seyffart said he’s most excited about basket and index-style crypto ETFs, in part because advisers don’t want to “pick those winners and losers” across a growing long tail of assets. In Geraci’s view, a basket is the “easy button” for professional allocators who want crypto exposure without underwriting each token’s story or defending it to clients. Seyffart also suggested “what the actual chain is doing” can shape adviser appetite, contrasting niche infrastructure plays such as Chainlink, which he described as connecting DeFi and TradFi, against meme assets like DOGE, which he implied may be less “appetizing” for ETF buyers. At press time, DOGE traded at $0.12479. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|doge|DOGE news|Doge price|Dogecoin|Dogecoin ETF|Dogecoin news|dogecoin price|Spot Dogecoin ETF",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 31,
+        "NAME": "LINK",
+        "CATEGORY": "LINK"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57415936,
+    "published": 1769183889000,
+    "title": "Crypto ‘flex’ gone wrong exposes $90 million wallet tied to U.S. government seizure",
+    "body": "A recorded online dispute between alleged threat actors led blockchain investigator ZachXBT to trace millions in illicit crypto to a single wallet.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Zachxbt|crypto crime|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57415904,
+    "published": 1769183700000,
+    "title": "Spot Bitcoin ETFs Shed $1.62B in Four-Day Negative Streak",
+    "body": "U.S. spot Bitcoin ETFs have seen a four-day outflow streak as fading basis trade yields and macro jitters force a hedge fund retreat.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57416174,
+    "published": 1769184758000,
+    "title": "Grayscale files for ETF tracking Binance's BNB token, following VanEck’s bid",
+    "body": "The proposed \"GBNB\" trust would offer investors exposure to the native token of the BNB chain without having to directly own the tokens, but approval still hinges on Nasdaq’s filing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bnb chain|Grayscale|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57416460,
+    "published": 1769185833000,
+    "title": "'Professional Money Launderer' Ordered to Pay UK $7.6M Over Zhimin Qian Case",
+    "body": "The Crown Prosecution Service has given Zhimin Qian’s fixer Sen Hok Ling three months to cough up the funds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57416769,
+    "published": 1769187166000,
+    "title": "UBS Planning Bitcoin, Ethereum Trading for Some Wealthy Clients: Bloomberg",
+    "body": "UBS will reportedly offer Bitcoin and Ethereum trading to select private banking clients in Switzerland, signaling growing crypto adoption.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57416702,
+    "published": 1769186609000,
+    "title": "Grayscale seeks SEC approval for spot BNB ETF in expansion beyond BTC, Ether",
+    "body": "The product, if approved, would give US investors access to regulated BNB exposure without needing to hold the token themselves.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57416941,
+    "published": 1769187989000,
+    "title": "Crypto custodian BitGo down 12%, falling well below IPO price on second trading day",
+    "body": "The company came public at around a $2 billion valuation on Thursday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|BitGo|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57417314,
+    "published": 1769189430000,
+    "title": "Stablecoins May Soon Power Payments Made Entirely By AI—CEO",
+    "body": "Circle’s chief executive painted a brisk picture at Davos this week: autonomous software agents that act for people could be using stablecoins to pay for everyday things within three to five years. He said these agents will need a money system that is stable, fast, and programmable. That, he argued, points to stablecoins as the likely choice. Related Reading: Bitcoin’s Sharp Reversal Leaves Over $800 Million Liquidated In 1 Day AI Agents And Money According to reports, Jeremy Allaire of Circle said “literally billions” of AI agents may be transacting on behalf of users in the near term. “Three years, five years from now, one can expect that there will be billions, literally billions of AI agents conducting economic activity in the world on a continuous basis,” Allaire said during the World Economic Forum in Davos, Switzerland. He described work on new networks and tools aimed at letting software act like small businesses or helpers that buy services, settle bills, and tip content creators. This idea is simple on the surface: software needs a reliable unit of account when it spends, and tokenized dollars can fit that role. Building The Tools Reports say companies across the crypto and tech world are racing to build the plumbing for this future. Circle is pitching USDC as a neutral payments layer that software can plug into. Other firms are testing protocols that let a machine sign off on a payment when certain conditions are met. Some large tech groups are also exploring ways for their platforms to let software pay for services automatically. Progress is visible, but the path is not yet clear. What Regulators Might Ask Regulators will have questions. Reports note concerns about money flow, consumer protections, and where bank deposits sit if stablecoins grow rapidly. At Davos, the CEO pushed back on the idea that stablecoins would drain bank deposits the way some fear, saying comparisons to other financial instruments are more fitting. Still, lawmakers in the US and elsewhere are watching closely. Rules could move faster if policy makers see real volume coming from so-called agentic commerce. New Networks, New Risks Based on reports, the technical choices will shape both convenience and danger. If agents can move value at scale, fraud and theft risks may rise too. Related Reading: Bitcoin Influencers Get Spotlight In X’s New ‘Starterpacks’ Systems will need clear identity checks, fault handling, and ways to stop runaway payments. Some safety work is already under way, but much remains to be designed and tested. Featured image from Pexels, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|AI|AI Agents|bots|crypto|payments system|smart contract|Stablecoins",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57417306,
+    "published": 1769189213000,
+    "title": "French authorities investigate data breach of crypto tax platform",
+    "body": "A local news outlet reported that a hacking group called the Shiny Hunters sent ransom demands to Waltio after seizing personal data from about 50,000 users.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57417249,
+    "published": 1769188800000,
+    "title": "Bitcoin prediction markets say $100K BTC price out of reach for now",
+    "body": "Bitcoin bull market optimism has suffered since the October crash, as chances of a short-term BTC price rally above $100,000 appeared to be fading.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57417559,
+    "published": 1769190395000,
+    "title": "Bitcoin surges to $91,000, showing signs of life on suspected Bank of Japan intervention",
+    "body": "Having earlier breached $100 per ounce for the first time ever, silver has risen to $101, while gold sits just shy of $5,000 per ounce.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Market Wrap|Breaking News|top news|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57417978,
+    "published": 1769192086000,
+    "title": "Olympic Snowboarder Turned Alleged Crypto Crime Kingpin Arrested in Mexico",
+    "body": "Ryan James Wedding was accused of using stablecoin Tether to fuel a cocaine smuggling and murder operation in Latin America and the U.S.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
       },
       {
         "TYPE": "122",
