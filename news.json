@@ -1,420 +1,5 @@
 [
   {
-    "id": 57383380,
-    "published": 1769074216000,
-    "title": "Santiment Says XRP Social Sentiment Hits ‘Extreme Fear’: Buy Signal?",
-    "body": "XRP is back in a familiar spot: social chatter has turned sharply bearish even as the market probes support after an early-January surge. Analytics firm Santiment said its social data shows XRP slipping into “Extreme Fear” after a roughly 19% pullback from its early-month high, a setup it argues has historically preceded rallies. Santiment wrote on Jan. 22 via X: “According to our social data, XRP has fallen into ‘Extreme Fear’ territory. Small retail traders have become pessimistic toward the #5 market cap cryptocurrency after a -19% drop since the high back on January 5th. Historically, this high level of bearish commentary leads to rallies. Prices move the opposite to retails’ expectations more often than not.” Related Reading: Pundit Clarifies XRP Roadmap To $10: How Price Will Play Out In 2026 The chart Santiment shared pairs XRP’s 6-hour candles with a social ratio measuring positive versus negative commentary, and overlays three “buy” and three “sell” markers tied to sentiment bands. Those bands are explicitly labeled as a “fear zone” (where prices “go up”), a neutral zone, and a “greed zone” (where prices “go down”). How Reliable Is The XRP Social Sentiment Signal? To check the timing, daily XRP spot data for the same late-December-to-January window broadly supports the chart’s claim that extreme sentiment readings often show up near inflection points, with an important caveat: not every signal front-runs a turn cleanly, and some arrive early. The first “buy” marker on the chart is dated Jan. 2. On that day, XRP closed around $2.01 after trading as low as roughly $1.87, and the market proceeded to accelerate into the week’s blow-off move: by Jan. 5 XRP closed near $2.35, and the Jan. 6 session printed a high around $2.42. In other words, the Jan. 2 “buy” call landed ahead of the sharp leg higher that set the period’s high. Related Reading: XRP Market Structure Resembles That Of February 2022, Glassnode Warns The first “sell” marker is dated Jan. 7, immediately after the peak. XRP closed around $2.16 that day and then bled lower across the next sessions, sliding toward the low-$2.00s by Jan. 12. On sequence alone, that sell signal aligns with the market shifting from post-spike distribution into a steadier downtrend. The second “sell” marker, Jan. 11, is less straightforward. XRP closed near $2.07 on Jan. 11 and dipped again on Jan. 12, but then logged a sharp rebound on Jan. 13, closing around $2.17. Traders treating the Jan. 11 marker as an immediate top signal would have faced a short-term whipsaw before downside resumed. That brings the chart’s third “sell” marker (Jan. 13) which appears to target that rebound itself. From Jan. 13’s close near $2.17, XRP rolled back over: it faded through mid-month and ultimately slid into the Jan. 20 low around $1.87 (intraday), which maps cleanly to the chart’s contention that “greed-zone” sentiment can coincide with local exhaustion. On the “buy” side late in the window, Santiment flags Jan. 18 and Jan. 20–21. The Jan. 18 marker arrived early: XRP closed around $1.99 on Jan. 18 but continued lower into Jan. 20 before rebounding. The current Jan. 20–21 marker fits better in the short term, with XRP bouncing from the Jan. 20 close near $1.89 to roughly $1.95 by today. Even so, that rebound has so far been modest relative to the broader drawdown from the $2.4 area peak. Santiment’s broader point is contrarian: when social feeds tip into one-sided pessimism, marginal selling pressure may already be exhausted, setting up mean reversion. The recent signal history partially supports that while also showing the practical risk: entries can be early, and “extreme fear” can persist if trend conditions remain heavy. At press time, XRP traded at $1.9498. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|Santiment|xrp|xrp news|XRP Price|XRP Social Sentiment",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57383618,
-    "published": 1769074763000,
-    "title": "Bitcoin analysts predict ‘prolonged consolidation’ for BTC price",
-    "body": "Bitcoin’s onchain structure “remains fragile,” said Glassnode, which warned of a prolonged consolidation period ahead for BTC price.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57385264,
-    "published": 1769079929000,
-    "title": "AI Hiring Firm Eightfold Sued Over Alleged Secret Scoring Of Job Applicants",
-    "body": "The lawsuit alleges that Eightfold used hidden AI to score job seekers on a 0 to 5 scale without required disclosures or dispute rights.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57385147,
-    "published": 1769079642000,
-    "title": "Here’s Why The XRP Price Is Still Weak, And Could Crash Further",
-    "body": "With the market still weak and uncertainty lingering, concerns of another XRP price crash are growing. This comes as selling pressure increases and market dynamics show no clear indications of an upcoming bullish reversal. Notably, XRP’s ongoing downtrend also coincides with a decline in both retail and institutional activity, underscoring weakened confidence across the broader market. XRP Price Stays Weak Amid Retail And Institutional Decline After jumping above $2 earlier this year, the XRP price stayed stuck around that level for weeks, repeatedly attempting to break to the upside but failing. Following last week’s unexpected price increase, the cryptocurrency crashed down toward $1.95, where it has since stabilized and continued to consolidate for several days. This unexpected downturn suggests that XRP remains just as weak as it was last year despite the brief rally. Related Reading: Is Dogecoin About To Repeat NVIDIA’s Run? Here’s What The Chart Says This weakness and price volatility appear to be driven by a slowdown in institutional participation. As selling pressure continues to mount, Spot XRP ETFs have recently recorded their second outflow since launching in November 2025. This latest outflow marks the largest ever recorded by XRP ETFs. According to SoSoValue, the first XRP ETF outflow occurred earlier this year, on January 7, when $40,80 million exited the investment products. The most recent data shows that XRP ETFs recorded another outflow of approximately $53.32 million on Tuesday, January 20. Grayscale was the only issuer to post outflows that day, with more than $55.39 million leaving its GXRP ETF, while products issued by Canary, Bitwise, and 21 Shares saw zero flows. Meanwhile, Franklin Templeton’s XRPZ recorded inflows of $2.07 million, which only slightly offset the losses, bringing the net daily outflow to $53.32 million. If more outflows occur, the continued drop in institutional activity, combined with XRP’s weakened price, could push the cryptocurrency lower. At present, XRP is trying to recover from recent losses, with its price rising approximately 1.62% over the past 24 hours, according to CoinMarketCap. XRP Open Interest Crash Adds To Weakness In addition to the decline in ETF inflows, XRP’s Open Interest (OI) has reportedly crashed to new lows, signaling a sharp reduction in trading activity and retail market participation. Data from Coinglass shows that XRP’s derivatives market saw its futures Open Interest fall to $3.35 billion this Wednesday. This marks the lowest level recorded since January 1, 2026, when OI declined to $3.33 billion. Related Reading: Shiba Inu Whales Are On The Move Again, 361 Billion SHIB Stuns Community A drop in Open Interest often indicates that traders may be losing interest in XRP’s upside potential. This waning optimism and confidence may be further fueled by growing geopolitical and regulatory uncertainty. Investors appear to be adopting a more risk-off approach, reflected in the crypto Fear and Greed Index, which has entered extreme fear territory. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 44,
-        "NAME": "SHIB",
-        "CATEGORY": "SHIB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57385143,
-    "published": 1769079149000,
-    "title": "Binance co-founder Zhao in talks with ‘probably a dozen’ governments on asset tokenization",
-    "body": "Tokenization could allow governments to raise funds by selling fractional ownership of state-owned assets like infrastructure, real estate or commodities.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Binance|Tokenization|World Economic Forum|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57385713,
-    "published": 1769081158000,
-    "title": "$18B asset manager F/m seeks SEC approval to tokenize US Treasury ETF",
-    "body": "F/m Investments seeks SEC relief to record ownership of its $6 billion Treasury ETF on a permissioned blockchain as tokenization spreads on Wall Street.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 57385528,
-    "published": 1769080484000,
-    "title": "Nomura’s Laser Digital rolls out yield-bearing Bitcoin fund",
-    "body": "The fund targets institutional investors seeking returns beyond traditional long-only, “vanilla” Bitcoin exposure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57385974,
-    "published": 1769081035000,
-    "title": "Bitcoin volatility shrinks as tariff jitters fade: Crypto Markets Today",
-    "body": "Crypto prices stabilized after Wednesday’s tariff-driven volatility, with bitcoin reclaiming $90,000 as equities rebounded and traders rotated back into risk assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Altcoins|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57386193,
-    "published": 1769082717000,
-    "title": "Are Ethereum bears targeting sub-$2K ETH price?",
-    "body": "Despite Ether’s latest recovery to $3,000, data suggested that ETH price could see a deeper correction to $1,850 if key support levels don’t hold.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57386859,
-    "published": 1769085001000,
-    "title": "Here’s How XRP Is Building The Financial Rails For Trillions In Global Value",
-    "body": "XRP is increasingly being positioned as the core infrastructure for moving massive amounts of value across global financial networks. As trillions of dollars move daily across borders, platforms, and asset classes, the limitations of legacy systems are becoming impossible to ignore. Its core value lies in its ability to function as a neutral, high-speed bridge between disparate financial systems. Is XRP Becoming A Standard Layer For Value Transfer? XRP is building the rails for trillions, and the shift is already happening. Crypto analyst Xfinancebull reported a video on X where Ripple CEO Brad Garlinghouse revealed at Davos 2026 that the payment firm has been working directly with banks around the world to connect tokenization and DeFi through the XRP Ledger, thereby turning it into a bridge between traditional finance and on-chain markets. Related Reading: Japan’s XRP Integration Signals A Shift In Global Capital Flows The number alone shows how fast the tokenized asset is moving. In just one year, the volume has grown from $19 trillion to $33 trillion, which is a 75% increase. According to Xfinancebull, most people still have no idea how big this will get. This is the shift; the rails are being laid right now, and XRP Ledger is one of the few networks that are ready to handle it. When institutional money starts moving at scale, it won’t care about the narratives or favorite altcoins. Instead, it will flow to where the infrastructure already exists, which is bullish for XRP. Why Respecting Channel Levels Signals A Healthy Market Structure The XRP market capitalization structure still looks constructive. An analyst known as Bird has highlighted that on the higher-time frame chart, XRP has been moving inside a clear descending accumulation channel for the past six months, and price has respected the top, mid-range, and bottom of that channel almost perfectly, which is exactly what should play out during a healthy accumulation phase. Related Reading: XRP Maintains Bullish Bias Above $1.30 Despite Recent Rejection Recently, the price pushed into the upper half of the channel, and then pulled back this week to retest the mid-range support. If this level continues to hold, the structure suggests that the altcoin is set up for another push higher, in Bird’s opinion. However, what makes this setup more interesting is how well it lines up with what’s happening across the broader market. The Russel 2000 is sitting at all-time highs, metals are starting to look like they are topping, Bitcoin dominance is beginning to feel heavy, Brad Garlinghouse speaks at Davos today, and the recent wave of community riddles has dropped this week. Bird concluded that when multiple signals start lining up like this, it usually means the market is preparing for a larger move. From the chart perspective, Bird remains bullish on the XRP setup. Featured image from Peakpx, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|Bird|bitcoin dominance|Brad Garlinghouse|davos|Descending Accumulation Channel|Ripple|Russel 2000|XFinanceBull|xrp|XRP Ledger|xrp news|XRP Price|XRPL|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57386883,
-    "published": 1769085000000,
-    "title": "Bitcoin doesn’t have 20 years because the quantum threat is already here",
-    "body": "Bitcoin’s 20-year quantum timeline collapses. 25% of the Bitcoin supply sits in vulnerable addresses requiring urgent migration.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57387019,
     "published": 1769085549000,
     "title": "Strategy's credit risk falls as preferred equity value surpasses convertible debt",
@@ -755,47 +340,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57389034,
-    "published": 1769079397000,
-    "title": "Bitcoin Funds Shed $700 Million as Crypto Market Outlook Dims",
-    "body": "Investors pulled more than $700 million from US-listed Bitcoin exchange-traded funds on Wednesday, the largest single-day outflow in nearly two months, as easing geopolitical concerns buoyed traditional risk assets but failed to lift the world’s biggest cryptocurrency.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -3056,6 +2600,328 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57410544,
+    "published": 1769162419000,
+    "title": "Dogecoin Foundation-Backed ETF Launches On Nasdaq As Analysts Call For Massive DOGE Rally",
+    "body": "21Shares has announced the launch of the first spot DOGE Exchange-Traded Fund (ETF) backed by the Dogecoin Foundation, aiming to offer investors regulated, physically backed access to the largest memecoin by market capitalization. Related Reading: Bitcoin To $80,000? Analyst Warns Of Potential Free Fall As BTC Erases 2026 Gains Dogecoin Goes From Memecoin To Wall Street On Wednesday, financial services company 21Shares announced the launch of its 21Shares Dogecoin ETF (TDOG) on Nasdaq to provide “a new way to gain physically-backed DOGE exposure in traditional portfolios.” According to the announcement, the firm’s DOGE ETF is the only investment product of its category to be officially endorsed by the Dogecoin Foundation, the nonprofit organization dedicated to supporting the ecosystem’s development. Notably, two other spot DOGE ETFs are live: Grayscale’s GDOG and Bitwise’s BWOW. As reported by NewsBTC, the funds debuted in late November, becoming the first DOGE ETFs in the US market. TDOG’s launch builds on 21Shares’ collaboration with the House of Doge, the corporate arm of the foundation supporting the ecosystem, to create new opportunities across the Dogecoin ecosystem. The newly launched product will offer investors direct exposure to DOGE through a fully backed, transparent, and exchange-traded vehicle, holding the asset on a 1:1 basis in institutional-grade custody. Regarding its decision to launch a DOGE ETF, 21Shares affirmed that the memecoin “captures the spirit of internet culture and continues to evolve in our digital economy.” Moreover, the firm argued that it has “helped onboard many new users to crypto, and for many people, this may serve as their first step into crypto.” Federico Brokate, 21Shares’s Global Head of Business Development, stated that “Dogecoin is a unique asset with a global community and expanding real-world use cases,” adding that “TDOG offers investors regulated, physically backed exposure to DOGE through an ETF structure they already understand and trust.” DOGE Prepares For New Rally Analyst Bitcoinsensus suggested that the leading memecoin “could be on for a massive rally to the upside” based on its performance throughout this cycle. The market watcher explained that the cryptocurrency has been experiencing “mini cycles” since 2023, which have led to “bigger and bigger rallies.” According to the chart, after its late 2022 pump, Dogecoin consolidated within a tight range before a 190% breakout in early 2024. Similarly, the memecoin repeated the same pattern throughout 2024, accumulating for months before a 480% breakout at the end of that year. Now, DOGE has been consolidating within the $0.125-$0.280 price range for nearly a year, leading the analyst to believe that a breakout towards a higher target near the $0.750 level is possible. Meanwhile, Trader Tardigrade also suggested that Dogecoin may be preparing for a massive breakout as it appears to be following its performance between late 2022 and 2024. Related Reading: BitMine’s Ethereum Holdings Near 3.5% Supply Milestone As ETH Falls Below $3,000 At the time, the cryptocurrency had apparently bottomed out but ultimately recorded another local low before reversing. Based on this, the analyst affirmed that the memecoin “might see a slightly lower low” in the coming weeks, before the next massive surge occurs. As of this writing, Dogecoin is trading at $0.1249, a 1.75% decline in the daily timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|21Shares Doge ETF|crypto analyst|crypto market correction|Crypto trader|doge|DOGE Analysis|DOGE ETFs|Dogecoin|Dogecoin ETF|dogecoin foundation|dogecoin price|dogeusdt|House of Doge",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57410857,
+    "published": 1769163320000,
+    "title": "Kansas bill would create state-managed Bitcoin and digital assets reserve",
+    "body": "The proposal would fund the reserve with unclaimed crypto and staking rewards rather than direct state Bitcoin purchases.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57411692,
+    "published": 1769166791000,
+    "title": "Farcaster to return $180M to investors following Neynar takeover",
+    "body": "Decentralized social network Farcaster says it remains operational after its acquisition by Neynar and confirms plans to return $180 million in capital to investors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57411592,
+    "published": 1769166476000,
+    "title": "Bitcoin in ‘early-stage bear market’ as $84K becomes crucial for BTC Price",
+    "body": "Bitcoin profit cycle has turned negative for the first time since 2023, and suggested that BTC was transitioning into a bear market",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57411528,
+    "published": 1769166225000,
+    "title": "Kansas Lawmakers Propose State-Run Bitcoin and Digital Assets Reserve Fund",
+    "body": "The proposal seeks to place abandoned digital assets under state custody, allowing staking rewards to flow into a reserve fund.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57411931,
+    "published": 1769167810000,
+    "title": "XRP Targets $6–$14 After Final Shakeout: Certified Elliott Wave Analyst",
+    "body": "Certified Elliott Wave analyst XForceGlobal (@XForceGlobal) told followers on X that “$5+ remains on the horizon,” arguing that the token’s past year of range-bound trading is validating an Elliott Wave “flat” correction that typically resolves with a sharp, final move before a continuation higher. In a 10-minute video shared alongside the post, the analyst framed XRP’s recent price action as the late stage of a flat pattern, an extended period where neither bulls nor bears can force a clean trend. “A flat occurs when the market fails to trend on both sides. They’re basically evenly matched,” he said. “And that’s not a sign of weakness, it’s a sign of balance.” XRP Traders ‘Exhausted’ As Breakout Nears XForceGlobal positioned the structure as a corrective phase within a larger bullish sequence, describing the market as forming a new floor rather than breaking down. “This is where the buyers and sellers enter a Mexican standoff with each other, creating a new price floor,” he said, adding that the sideways feel is the point: “They’re not designed to go anywhere, basically. And the markets naturally alternate between expansion and compression.” Related Reading: Santiment Says XRP Social Sentiment Hits ‘Extreme Fear’: Buy Signal? The analyst emphasized the psychological aspect of prolonged consolidation, arguing that flats tend to “eliminate even the leverage traders through time rather than price” by exhausting both sides. “By the time the flat actually resolves, which is very close, in my opinion, most traders are emotionally already exhausted,” he said. “Positioning has been pretty much neutralized, and the path for continuation, to me, becomes very clear.” In Elliott Wave terms, XForceGlobal described the flat as a three-part A-B-C structure, with waves A and B unfolding as corrective “three-wave” moves and wave C completing as an impulsive “five-wave” move. He argued that this final phase is the moment the market stops drifting and forces a resolution. “Wave C must be impulsive because it represents the resolution of the balance that we have for waves A and B,” he said. “It’s not the continuation of a larger structure to the downside.” He framed impulsiveness as behavioral rather than directional, attributing it to urgency and follow-through once one side “decisively gives up,” clearing out the range that built during the earlier legs. That distinction matters for positioning, because his base case anticipates one more decisive shakeout before a move higher. He said the market is currently in an “expanded flat” configuration where wave B pushed above the prior high, and he expects a break of local structure “once” before the market turns up. He highlighted $1.70 as a prior low that could be undercut as part of the process without invalidating the larger setup, so long as broader support holds. Related Reading: XRP Distribution Phase Continues, But Funding Rates Suggest Shorts Are Overextended XForceGlobal’s post leaned heavily on conviction built over time—“I didn’t spend 2,000+ days accumulating XRP for no reason!”—while also stressing that he has already taken some profit. In the transcript, he said he “personally took some profits around the $2.70 level” and would continue to “sell into strength.” On upside expectations, he called for higher levels “in this current cycle,” tying potential targets to the duration of the consolidation. “The longer that we distribute here, the higher the targets are going to be,” he said, adding that “a minimum of a $6 range all the way up to even the $14 range is my personal target.” He also flagged conditions that would change the trade management. If the market shows “red flags” and breaks further structure than he expects, he suggested that is where risk management should take priority. For XRP traders, the practical takeaway from his framework is timing and path, not direction: a final, forceful leg lower could still be consistent with a bullish continuation thesis while a deeper structural breakdown would challenge it. At press time, XRP traded at $1.91. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|xrp|xrp news|XRP Price|XRP Price Analysis|XRP Technical Analysis",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57411785,
+    "published": 1769167272000,
+    "title": "Hardware Wallet Manufacturer Ledger Eyes $4B US IPO Listing: Report",
+    "body": "The hardware wallet firm is following BitGo in tapping U.S. public markets, amid renewed crypto investor appetite.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57412584,
+    "published": 1769170491000,
+    "title": "Binance applies for EU crypto license in Greece under MiCA framework",
+    "body": "The exchange confirmed it has applied for regulatory approval under the MiCA regime, part of a broader effort to regain footing in major markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Binance|Europe|MiCA|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
       },
       {
         "TYPE": "122",
