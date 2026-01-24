@@ -1,396 +1,5 @@
 [
   {
-    "id": 57398272,
-    "published": 1769117906000,
-    "title": "Trump sues JPMorgan in Florida court for $5B over debanking claims: Report",
-    "body": "The lawsuit was filed days after the president threatened on social media to sue the banking giant for debanking him weeks after his supporters attacked the US Capitol in 2021.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 57398228,
-    "published": 1769117805000,
-    "title": "Another XRP Record Ahead? Ripple CEO Forecasts Crypto All-Time Highs in 2026",
-    "body": "Ripple CEO Brad Garlinghouse remains bullish despite recent dips, and thinks 2026 will bring new highs for the crypto market.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57398707,
-    "published": 1769119095000,
-    "title": "Nasdaq moves to remove position limits on Bitcoin, Ether ETF options",
-    "body": "The filing with the US SEC seeks to eliminate contract caps on crypto ETF options, a change Nasdaq argues would address unequal treatment in derivatives markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57399011,
-    "published": 1769120015000,
-    "title": "SEC, CFTC to push united crypto work now that they both have Trump-appointed heads",
-    "body": "The two U.S. markets regulators will have a joint event to highlight their unified crypto agenda, following the arrival of permanent CFTC chief Mike Selig.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|U.S. Commodity Futures Trading Commission|U.S. Securities and Exchange Commission|Paul Atkins|Mike selig|Regulation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57399338,
-    "published": 1769120879000,
-    "title": "Coinbase VP says ‘fatal flaws’ in Senate crypto bill forced sudden withdrawal of support",
-    "body": "Coinbase VP of US Policy Kara Calvert explains what tipped the scales for Coinbase against the legislation just hours before a scheduled markup.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Coinbase|Policy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57399336,
-    "published": 1769120874000,
-    "title": "Capital One agrees to acquire credit card, stablecoin payment enabler Brex",
-    "body": "In a press release from September, Brex said it was planning to launch native stablecoin payments as part of its business.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      }
-    ]
-  },
-  {
-    "id": 57399196,
-    "published": 1769120508000,
-    "title": "Binance Forms New Company In Greece, Moves Forward With MiCA Licensing",
-    "body": "Cryptocurrency exchange Binance has taken a significant step toward strengthening its regulatory standing in Europe by establishing a formal presence in Greece and applying for a Markets in Crypto-Assets (MiCA) license ahead of the July 1 deadline. Binance’s Greek Subsidiary Corporate filings show that Binance has set up a new wholly owned subsidiary in Greece under the name “Binary Greece.” The entity has been incorporated as a single-shareholder public limited company with an initial share capital of €25,000. Related Reading: ‘I’m Very Bullish’: Ripple CEO Forecasts Record Performance For Crypto In 2026 Binary Greece has been structured as a holding company. According to its articles of association, its primary activities include acquiring and managing equity stakes in companies both within Greece and internationally. It is also authorized to provide advisory services related to capital structuring, investment strategy, and liquidity management. Leadership of the new entity has been assigned to Gillian Majella Lynch, a senior executive with experience in banking, fintech, and digital assets. Lynch joined Binance in mid-2025 as Head of Europe and the United Kingdom. Greece’s Regulatory Stability Key In License Bid A Binance spokesperson confirmed to Fortune that the besides formally applying for a MiCA license in Athens, the cryptocurrency exchange is currently engaged in discussions with Greece’s Hellenic Capital Market Commission (HCMC). The spokesperson emphasized that Binance sees the MiCA framework as a positive development, offering regulatory clarity and a consistent set of rules that support innovation while ensuring compliance across the European Union. Related Reading: Crypto Boom Ahead? Pantera Capital Pinpoints Major Catalysts For 2026 Success Commenting on the choice of Greece, the exchange’s spokesperson noted that the country plays an important role in the European economy, highlighting that Greece’s economy is growing faster than the EU average and operates within a regulatory environment that Binance considers essential. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Breaking News Ticker|Binance|Binance Coin (BNB)|Binance MiCA License|binance news|BNB|BNB Price|bnbusdt|Crypto Exchange Binance|crypto market|crypto news|MiCA Regulations",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57400003,
-    "published": 1769122674000,
-    "title": "Bitwise's 'Debasement' ETF Pairs Bitcoin and Gold as a Hedge Against Your Depreciating Dollars",
-    "body": "Bitwise debuted an ETF offering exposure to Bitcoin and precious metals that's themed around the debasement of fiat currencies.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57400350,
-    "published": 1769123556000,
-    "title": "Coinbase Creates Advisory Board to Study Quantum Computing Risks to Bitcoin",
-    "body": "Coinbase said the group will assess how future quantum advances could affect blockchain security and outline long-term solutions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57401130,
-    "published": 1769126403000,
-    "title": "Elon Musk’s Grok Generated 23K Sexualized Images of Children, Says Watchdog",
-    "body": "The Center for Countering Digital Hate reports that Elon Musk's AI chatbot Grok produced an estimated 23,338 sexualized images of children.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57401898,
-    "published": 1769129175000,
-    "title": "‘Literally billions’ of AI agents to use stablecoins in 5 years: Circle CEO",
-    "body": "Circle CEO Jeremy Allaire says AI agents have no alternative to stablecoins and will conduct everyday activities with the tokens within as little as three years.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57402508,
     "published": 1769131659000,
     "title": "Capital One to Acquire Fintech Company Brex for $5.15 Billion",
@@ -2562,6 +2171,239 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57420837,
+    "published": 1769203268000,
+    "title": "BitGo Stock Plunges Below IPO Price on Second Day of Trading",
+    "body": "BitGo's stock fell nearly 22% on day two of trading after the crypto custody firm's IPO, diving below the offering price.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57421046,
+    "published": 1769203957000,
+    "title": "CertiK keeps IPO on the table as valuation hits $2B, CEO says",
+    "body": "Speaking from Davos on Thursday, co-founder and CEO Ronghui Gu said a CertiK public listing would represent a significant advancement for companies involved in Web3.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57421427,
+    "published": 1769205725000,
+    "title": "FBI arrests ex-Olympian drug 'kingpin' who allegedly used crypto to move proceeds",
+    "body": "The U.S. caught a top-ten most-wanted fugitive when they arrested Ryan Wedding, a former top snowboarder who's said to have used digital assets in his crimes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Federal bureau of investigation|U.S. Department of Justice|Criminal Activities|drug trafficking|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57421783,
+    "published": 1769206902000,
+    "title": "SEC dismisses lawsuit against billionaire Winklevoss twins-backed Gemini over Earn product",
+    "body": "The SEC said Gemini Earn customers had already received 100% of their assets back through Genesis' bankruptcy, warranting the dismissal of the case.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|SEC|Genesis|Gemini|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57422130,
+    "published": 1769208198000,
+    "title": "SEC dismisses civil action against Gemini with prejudice",
+    "body": "The SEC was satisfied with Gemini’s agreement to contribute $40 million toward the full recovery of Gemini Earn investors’ assets lost as a result of the Genesis bankruptcy.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57422813,
+    "published": 1769211059000,
+    "title": "XRP Price Recovery Is Possible If It Reclaims This Ichimoku Base",
+    "body": "The XRP price may be preparing for a long-overdue recovery, as a crypto analyst has just highlighted a critical area that could flip the cryptocurrency’s downward momentum into a bullish one. According to the market expert, XRP must reclaim the Ichimoku Base before it can resume its upside to new levels. XRP Price Recovery To Resume Above Ichimoku Base Market analyst Xaif Crypto took to X this Thursday to deliver a fresh weekly update on XRP as the cryptocurrency enters a pivotal technical area after months of downside pressure. The accompanying chart shows price retreating from a prior peak in late 2024 and sliding back into a clearly marked demand zone in the blue box. Related Reading: What the Triple-Tap At $1.80 Means For The XRP Price According to the analyst, the recent retreat follows a clear downtrend, with lower highs pushing price back toward a previous consolidation zone. This blue-box area represents the main battleground, as prior trading activity built a base that could act as support if XRP revisits that level. So far, XRP appears to be stabilizing within this demand zone. Candles on the chart show hesitation and reduced selling pressure. The chart also draws attention to an Ichimoku structure, with XRP attempting to reclaim its Ichimoku Base. According to Xaif Crypto, this base will determine XRP’s next big move. The analyst has suggested that reclaiming this level could signal a potential shift in market sentiment. He disclosed that a strong close above it could favor upside continuation, weakening the ongoing downtrend and giving buyers more room to target upper resistance levels. Conversely, Xaif Crypto predicts that a break below the Ichimoku Base would likely lead to a deeper correction for XRP, as support would be lost and selling could accelerate. For now, XRP sits at a make-or-break level that could decide whether it recovers from its current slump. Xaif Crypto’s chart has outlined potential targets if the cryptocurrency manages to reclaim and hold above the Ichimoku Base. Currently hovering around $1.95, XRP faces potential bullish targets at $2.09, $2.20, $2.31, and $2.45. The analyst has also highlighted that traders and investors should closely watch the weekly close for confirmation of a sustained recovery. Analyst Says XRP Is Planning A Major Reversal Despite dropping below $2 earlier this week, analysts remain optimistic about XRP’s price outlook. According to market expert Crypto GVR, XRP could be attempting a major price reversal from the $1-$1.5 range. Based on his chart analysis, the analyst predicts that XRP could decline first from its current price around $1.95 to roughly $1.13 before rebounding sharply to new highs. Related Reading: XRP Price Could Surge Another 30% If This Trend Is Confirmed He has set a bullish target at $3.25. marking the next upside for XRP. If XRP were to crash to $1.13 and then surge to $3.25, this would represent a staggering 187% increase in value. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Crypto GVR|Ichimoku Base|Ripple|Xaif Crypto|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57424222,
+    "published": 1769216408000,
+    "title": "Litecoin Structure Intact, But $63 Remains The Line Bulls Must Defend",
+    "body": "Litecoin is once again at a critical crossroads, with its long-term structure remaining intact after years of successful defenses. However, the margin for error is thin. As price hovers near key levels, $63 has emerged as the line bulls must protect. A break below it could shift momentum sharply, while holding above keeps the broader bullish structure alive and sets the stage for the next decisive move. Structure Gives Way, Expansion Phase Begins Columbus’s latest LTC update highlights that the multi-year compression that previously capped price action has finally resolved, resulting in a clean break of the long-term chart setup. This structural change confirms a shift from a neutral state to a clearly bullish one. Related Reading: Here’s Why The Litecoin Price May Be Getting Ready For Another Massive Rally The current price action is described as a pause before expansion rather than the conclusion of the rally. In this phase, Litecoin is holding steady above old resistance levels, allowing the market to load for the next leg of the move, turning previous barriers into new support. Litecoin’s projected path forward is based on the typical behavior of expansion cycles following structural breaks. The strategy follows a clear three-step progression: the initial breakout, followed by the current phase of acceptance. Once the market fully accepts these new price levels, the “real move” begins, representing a phase where the most significant gains are expected to materialize. The 9-Year Trendline That Still Controls Litecoin Matthew Dixon highlighted the immense historical significance of the Litecoin long-term trend line. This line has acted as an unbreakable floor for nine years, with the price never closing below it. While the market has dipped under this line multiple times in the past, every attempt to break down has ultimately failed, maintaining a remarkably consistent structural defense. Related Reading: Litecoin Follows Bitcoin’s Momentum, But Resistance Looms At $79.60 Currently, the market environment is putting this nearly decade-long support to the test once again. Dixon emphasizes that we cannot rely on intra-month volatility to determine the outcome. Instead, the definitive signal rests solely on the monthly candle close. This closing price will serve as a macro-economic pivot point that dictates the primary direction for the coming months. A successful hold above the trend line would be a powerful bullish confirmation, suggesting the long-term uptrend remains intact despite external pressures. Conversely, a confirmed close below this line would shift the narrative to bearish, marking a historic breakdown of a nine-year support system. Specific technical triggers are also in play, particularly the $63 level. Dixon warns that falling below $63 would be devastating, as it would effectively nullify the hidden bullish divergence currently supporting the price. Given these risks, Dixon recommends exercising patience until the monthly close or ensuring strict stop losses are in place for any active trades. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Litecoin|Columbus|Litecoin news|litecoin price|ltc|LTC news|ltc price|ltc/usd|LTCUSDT|Matthew Dixon",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 33,
+        "NAME": "LTC",
+        "CATEGORY": "LTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
