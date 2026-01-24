@@ -1,256 +1,5 @@
 [
   {
-    "id": 57412980,
-    "published": 1769171847000,
-    "title": "Ledger said to seek $4 billion IPO in New York, tripling 2023 valuation: FT",
-    "body": "Ledger is working with Goldman Sachs, Jefferies and Barclays to list in New York, potentially tripling its last valuation, the Financial Times reported.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Ledger|hardware wallet|IPO|NYSE|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      }
-    ]
-  },
-  {
-    "id": 57413335,
-    "published": 1769173217000,
-    "title": "Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard",
-    "body": "Crypto researcher Axel has provided insights into why the Bitcoin, Ethereum, and Solana prices are still crashing. This comes as BTC continues to see a supply overhang, which threatens to put more downward pressure on crypto prices. Why The Bitcoin, Ethereum, and Solana Prices Are Still Crashing In a research report, Axel noted that anomalous exchange inflows accompanied the BTC breakdown below the $90,000 zone as sellers prepared in advance. The market is also still at risk of further selling pressure as the 1.0 level of the short-term holders’ SOPR is now acting as a resistance rather than support. As such, there is a possibility that Bitcoin, Ethereum, and Solana prices will decline further. Related Reading: Altcoin Season In Q1? Bitcoin, Ethereum Breakdown Maps Out Performance Further commenting on Bitcoin netflows into exchanges, Axel noted that between January 20 and 21, almost 17,000 BTC flowed into exchanges, coinciding with BTC dropping to as low as $87,000, while Ethereum and Solana prices also dropped. The crypto researcher explained that these anomalously high values followed a period of predominantly negative netflow in the first half of this month. In the context of the falling Bitcoin price, Axel stated that such a spike is more likely to reflect supply preparation than neutral transfers. In other words, the breakdown below $90,000 appears to be structural rather than emotional. Meanwhile, Bitcoin netflow returned to neutral levels yesterday, but the accumulated inflow still creates a supply overhang, which could lead to further declines in the prices of Bitcoin, Ethereum, and Solana. Axel noted that a signal of improvement would be if netflow turns negative again amid rising prices, which could indicate that the overhang has cleared. However, with the short-term holders’ 7-day SMA SOPR below 0.996, the crypto researcher suggested that BTC faces increased selling pressure on every recovery as these holders look to sell at breakeven. He added that a reversal trigger could be confirmed if the SOPR breaks above 1.0 from below, with the 7-day SMA holding unity for three to five days to filter out false spikes after the selloff. Why A Break Above $100,000 Looks Unlikely For Now In its latest research report, on-chain analytics platform Glassnode explained that a Bitcoin rally above $100,000 looks unlikely for now as the supply overhang persists. They noted how this overhang supply above $98,000 remains the dominant sell-side force capping short to mid-term rebounds. Related Reading: Bitcoin Price Following The 2022 Fractal? Here Was The Previous Outcome Alluding to the Unspent Realized Price Distribution metric, Glassnode noted that the recent BTC rally has partially filled the prior air gap between $93,000 and $98,000, driven by redistribution from top buyers into newer market participants. However, the unresolved supply overhang is expected to likely cap attempts above the $98,400 short-term holders’ cost basis and the $100,000 level. A meaningful and sustained acceleration in demand momentum is said to be required for a clean breakout above $100,000 to occur. Featured image from iStock, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Axel Adler Jr|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|ETH|ethereum|glassnode|Sol|Solana|Unspent Realized Price Distribution",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57413954,
-    "published": 1769175426000,
-    "title": "US yield spread hits 2021 highs: A warning for Bitcoin price?",
-    "body": "BTC price faces pressure as markets brace for a sustained rise in long-term yields driven by economic deficits, particularly in Japan.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57414131,
-    "published": 1769176127000,
-    "title": "UBS weighing crypto trading for private banking clients: Report",
-    "body": "The plan would give ultra-high net worth clients an in-house crypto on-ramp at one of the world's biggest private banks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57414424,
-    "published": 1769177447000,
-    "title": "Swiss banking giant UBS planning to offer crypto services to specific clients",
-    "body": "UBS will gradually introduce crypto services, starting with select private clients in Switzerland, according to Bloomberg.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|UBS|Bitcoin News|Ether|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57414714,
-    "published": 1769178635000,
-    "title": "Ripple’s Next Steps: Where XRP Stops Being Trade And Starts Being Infrastrucutre",
-    "body": "Ripple is laying out a transition in which XRP is no longer positioned primarily as a traded asset, but as infrastructure supporting tokenized finance and institutional settlement. At the World Economic Forum 2026, Ripple CEO Brad Garlinghouse described how this shift is already taking shape through live tokenization activity, regulated integration with banks, and on-chain settlement at scale. XRP Tokenization Shifts From Theory To Balance-Sheet Reality Garlinghouse used tokenization as the primary context for explaining this transition. He described tokenization as a process that has already moved beyond experimentation and into operational use across financial institutions. To support that claim, he pointed to activity on the XRP Ledger, where tokenized asset volume expanded significantly over the course of a single year, rising from roughly $19 trillion to $33 trillion. Related Reading: Coinbase Exec Points Out The Big Difference Between Bitcoin And Central Banks That level of growth signals institutional commitment rather than exploratory testing. Tokenized assets at this scale imply the involvement of banks, custodians, and regulated entities moving real value. According to Garlinghouse, institutions are now focused on how to integrate tokenized assets into existing balance sheets, liquidity structures, and settlement processes. This shift changes what infrastructure is required. Tokenization at institutional scale demands networks that can process high volumes consistently, provide deterministic settlement, and operate continuously. The XRP Ledger is being positioned within this framework as a system capable of supporting that throughput. The emphasis is not on innovation for its own sake, but on reliability and execution under real financial constraints. As tokenized assets become embedded in core financial operations, the supporting rails stop being optional. They become foundational. That is the context in which XRP is being discussed, not as a standalone asset, but as part of the machinery enabling tokenized finance to function. Connecting Regulated Assets And On-Chain Liquidity Garlinghouse also addressed the structural challenge that emerges as tokenization intersects with decentralized finance. Institutions want access to programmability and liquidity, but they cannot compromise compliance, custody, or trust. He described this tension as the central problem Ripple is working to solve. Related Reading: Is Dogecoin About To Repeat NVIDIA’s Run? Here’s What The Chart Says Rather than positioning itself against traditional finance, Ripple is working directly with global banks to build regulated pathways between tokenized assets and on-chain liquidity. The objective is to allow institutions to interact with decentralized systems without stepping outside regulatory frameworks. Within this design, XRP serves as a settlement and connectivity layer, enabling movement between systems. This approach reframes XRP’s utility. Its value lies in facilitating finality, liquidity access, and interoperability across regulated and on-chain environments. As tokenized assets, decentralized rails, and institutional settlement converge, networks capable of delivering finality at scale become increasingly important. Garlinghouse emphasized that the XRP Ledger already provides this capability, giving it a structural advantage. As a result, XRP is no longer positioned primarily as a tradeable asset; it is being aligned as infrastructure that enables the issuance, movement, and settlement of value within an increasingly tokenized financial system. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57414940,
-    "published": 1769179647000,
-    "title": "Buying ether and Bitmine Immersion ahead of weekend a good bet: Standard Chartered",
-    "body": "Increasing transaction activity on Ethereum and Tom Lee's continued buying bode well for the crypto, which has tumbled from 2026 highs in recent days, said Geoff Kendrick.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Ethereum News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57415628,
     "published": 1769182498000,
     "title": "Bitcoin slips back to $88,500 as silver tops $100 for first time ever and gold eyes $5,000",
@@ -1791,6 +1540,53 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57436265,
+    "published": 1769265044000,
+    "title": "Bitcoin Metric Suggests Miners Are In Recovery Mode — Price To Follow?",
+    "body": "Over the past week, the price of Bitcoin faced a significant setback in its goal of reclaiming the six-figure threshold. The flagship cryptocurrency has been hovering around the $90,000 mark, as the market can’t seem to make a decision concerning the next price direction. As Bitcoin faced a mild sell-off, which, in turn, drove its price to fall from its recent highs, specific market participants were under severe pressure, including the miners. Interestingly, a recent on-chain evaluation has raised the possibility that miners’ stress might be ending soon. Miner Financial Health Flashes Classic Reversal Sign In a January 23 post on the social media platform X, market expert Axel Adler Jr highlighted that the Bitcoin miners might have started their post-capitulation recovery journey. The relevant indicator here is the Miner Financial Health Index (7D-SMA). Related Reading: Bitcoin Stuck In Bear Mode For 83 Days: Trend Pulse Confirms Structural Weakness For context, this metric tracks the balance between miner revenue and miner selling pressure. Hence, it reflects whether miners are net BTC distributors or accumulators. Simply put, the metric shows if Bitcoin miners are under pressure, stable, or even profitable. Capitulation events often reflect on the Miner Health Index as a negative value, as the amount of BTC spent surpasses the amount of BTC earned. On the other hand, miners are typically said to be in the recovery phase when the balance between revenue and spending starts to lean away from the negative. From the chart shared by the analyst, it is apparent that the index has taken on an uptrend, targeting neutral levels on the metric’s charts. History shows that the index does not merely target the neutral mark when it trends upward. Hence, if history were to repeat itself, the Bitcoin miners could be in for a rewarding ride, having survived the most recent capitulation event. Interestingly, the price of Bitcoin appears to have a directly proportional relationship with the Miner Health Index. Bitcoin Price Gathers Momentum As Market Condition Shifts In a separate post on X, Bitcoin Vector highlighted that Bitcoin might be garnering strength for a significant move in the near term. According to the analytics platform, this development coincides with the market exiting what was previously a “high-risk environment.” Bitcoin Vector explained that this exit from a risky market environment was last seen in April 2025, just before the bull run resumed. The on-chain analytics firm explained that we could be witnessing the late stages of a classic momentum bottoming pattern, which historically leads to large rallies. Essentially, there has to be one last push lower in price and, at the same time, a momentum boost to the upside, for the bullish signal to be completely formed. As of this writing, Bitcoin is valued at around $89,830 with no significant movement in the past 24 hours. Related Reading: Ethereum Bulls Must Conquer $3,050 Or Momentum Quickly Fades Featured image from iStock, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|bitcoin miners|Bitcoin news|bitcoin price|btc price|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
