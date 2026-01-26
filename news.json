@@ -1,40 +1,5 @@
 [
   {
-    "id": 57452943,
-    "published": 1769333697000,
-    "title": "Colombia’s second-largest pension fund to offer Bitcoin exposure",
-    "body": "AFP Protección says access to the Bitcoin-linked fund will be limited to qualified investors and will not alter the core allocation of Colombian pension savings.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57456074,
     "published": 1769344384000,
     "title": "Cathie Wood’s ARK adds Coinbase, Circle, Bullish as crypto slides",
@@ -1078,6 +1043,258 @@
         "ID": 218,
         "NAME": "SECURITY INCIDENTS",
         "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57475695,
+    "published": 1769421742000,
+    "title": "Metaplanet raises 2026 outlook as Bitcoin write-down tops $670M",
+    "body": "Japanese Bitcoin treasury company Metaplanet has hiked its 2025 revenue and profit guidance, forecasting a near doubling of sales in 2026 as its BTC income and treasury strategy scale up.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57476096,
+    "published": 1769423410000,
+    "title": "Bitcoin Price Prediction: Analyst Forecasts 72.86% Crash To $30,000",
+    "body": "A new Bitcoin price prediction has been put forward following a long-term technical analysis shared on the social media platform X by crypto analyst Leshka.eth. The analysis compares Bitcoin’s current structure on the weekly timeframe to the 2021 market peak, showing how price behavior is repeating an identical pattern. Based on how Bitcoin has interacted with a rising multi-year channel in previous cycles, the analysis proposes a projection as to how Bitcoin could be setting up for a powerful corrective move that sends the price back to as low as $30,000. Bitcoin Weekly Structure About To Break Technical analysis of Bitcoin’s price action on the weekly candlestick timeframe chart shows that the leading cryptocurrency has been trading with higher highs and higher lows since 2018. Interestingly, this trend of higher highs has led to repeated interaction with a rising resistance trendline that has defined every major cycle top. Related Reading: Ripple’s Next Steps: Where XRP Stops Being Trade And Starts Being Infrastrucutre As shown in the chart below, Bitcoin pushes into this upper boundary during each bull market, only to be rejected once momentum fades. These rejection points are clearly marked across multiple cycles, including the 2017 and 2021 peaks. This repeated failure is a defining feature of Bitcoin’s macro cycles of exhaustion after prolonged upside expansion. Bitcoin once again rallied into this same long-term trendline when it broke to new all-time highs in October 2025 before stalling and rolling over. Bitcoin’s price failed to hold above the trendline and has corrected by about 30% since then. The leading cryptocurrency is now trading below $90,000, and this technical outlook introduces the possibility that the current pullback is not yet complete and could extend further. Bitcoin Weekly Candlestick Chart. Source: @leshka_eth on X Bitcoin Crash Extension To $30,000? The chart also highlights the depth of prior bear market declines once Bitcoin was rejected at this long-term structure. After the 2017 cycle top, Bitcoin fell roughly 84.99% from peak to trough. Following the 2021 high, Bitcoin once again declined by about 77.47% before finding a bottom near the lower boundary of the broader rising channel. Based on the current setup, the projected downside move marked on the chart measures approximately 72.86%. Applying a drawdown of that magnitude from the recent cycle high places Bitcoin’s potential bottom around $30,000. Related Reading: Coinbase Exec Points Out The Big Difference Between Bitcoin And Central Banks Interestingly, Grok AI offered a more optimistic interpretation of Bitcoin’s near-term outlook based on responses to questions under the same technical post. According to Grok, aggregated views from sources such as CNBC, Reddit, and Forbes suggest that the probability of Bitcoin dropping into the $30,000 to $40,000 range is relatively low, estimated at around 15% to 25% by bearish cycle models. On the other hand, many analysts instead expect higher price floors, often above $50,000. Some long-term projections extend over $200,000, with names like Binance co-founder Changpeng Zhao predicting $200,000 and Tom Lee predicting $250,000 in 2026. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57476518,
+    "published": 1769424755000,
+    "title": "Bitcoin income windfall drives Metaplanet to revise full-year revenue forecast upward",
+    "body": "The company forecasts revenue of over $100 million for FY2026, with 97.5% of projected sales coming from its Bitcoin Income Generation business.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|MetaPlanet|Bitcoin News|Bitcoin Options|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57477006,
+    "published": 1769425547000,
+    "title": "Japan ETFs said likely to trade by 2028 as SBI, Nomura ready products",
+    "body": "The Financial Services Agency is moving to classify crypto as an eligible asset for exchange-traded funds, with potential inflows reaching $6.4 billion, according to Nikkei.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|exchange-traded funds|cryptocurrencies|Japan|Regulation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57477184,
+    "published": 1769427571000,
+    "title": "Bitcoin risks fourth straight monthly loss, a streak not seen since 2018",
+    "body": "A rare streak of four consecutive declines collides with January options expiry that could influence short term price action.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Deribit|Options|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57477558,
+    "published": 1769428829000,
+    "title": "Global Liquidity Says Bitcoin Is Extremely Undervalued – Here’s The ‘Real’ Figure",
+    "body": "Crypto pundit Kyle Chassé has pointed to the rising global liquidity to prove that Bitcoin is currently undervalued. His comments come as fiat currencies like the Dollar and Yen continue to weaken amid concerns about governments’ fiscal policies. Global Liquidity Points To A Bitcoin Target Of $270,000 In an X post, Kyle Chassé shared an accompanying chart highlighting a Bitcoin target of $270,000 based on rising global liquidity. The pundit stated that the herd says that $90,000 BTC is expensive, but that the fiat ledger has reminded everyone why the digital ledger exists. This came as he revealed that the global M2 money supply has hit a record $98 trillion, driven by aggressive expansion from the U.S., the Eurozone, China, and Japan. Related Reading: Bitcoin Price Following The 2022 Fractal? Here Was The Previous Outcome Chassé further noted that year-to-date (YTD) global liquidity growth is now 6.2%, the fastest pace since the 2020 pandemic response. The pundit warned that in a system where the fiat denominator is permanently diluted, fixed-supply assets are not going up in price, but that cash is “loudly becoming worthless.” As such, he believes that BTC is a good hedge against currency debasement and potentially inflation. The pundit’s comments notably come amid a decline in the dollar, with the DXY down since the start of the year. The yen is also down YTD, as these fiat declines are coming amid a push by the governments to increase spending. Increased government spending is considered bullish for Bitcoin, given its fixed supply compared to fiat currencies, which governments continue to print. BitMEX co-founder Arthur Hayes had also recently predicted that a rise in dollar liquidity would spark higher BTC prices. However, that is yet to be the case as Bitcoin continues to trade like a risk asset and has erased its year-to-date (YTD) gains amid political tensions in the U.S. A U.S. government shutdown is also looking more likely by January 31, sparking a BTC drop below $87,000 yesterday. BTC Will Rise Once Liquidity Returns Crypto pundit Merlijn assured that Bitcoin will rise once liquidity comes back. In an X post, he urged market participants to zoom out and that the BTC pattern would become obvious. The pundit revealed that the flagship crypto has already recorded waves 1, 2, and 3 with lower highs, which signal trend fatigue. Related Reading: Here’s Why The Bitcoin, Ethereum, And Solana Prices Are Still Crashing Hard Now, Bitcoin is looking to form waves 4 and 5, which would signal a reset, absorption, and base building. Merlijn suggested that the bottom may not yet be in, but that once that happens, BTC could rally to as high as $124,000, bringing it close to its current all-time high (ATH) of $126,000. At the time of writing, the Bitcoin price is trading at around $87,700, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|Arthur Hayes|BitMEX|CoinMarketCap|dxy|Global M2 Money Supply|Kyle Chassé|Merlijn|Year-To-Date|YTD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
