@@ -1,28 +1,5 @@
 [
   {
-    "id": 57450766,
-    "published": 1769324963000,
-    "title": "Once-prominent NFT marketplace Nifty Gateway to wind down operations",
-    "body": "The Gemini-owned NFT platform will close on Feb. 23, 2026, entering withdrawal-only mode as another major casualty of the sector’s prolonged downturn.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57452943,
     "published": 1769333697000,
     "title": "Colombia’s second-largest pension fund to offer Bitcoin exposure",
@@ -48,53 +25,6 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57454489,
-    "published": 1769328027000,
-    "title": "Money Keeps Leaving: Bitcoin ETFs Shed $1.72 Billion In Just 5 Sessions",
-    "body": "US-based spot Bitcoin exchange-traded funds pulled funds for a fifth straight trading day, and the totals added up quickly. According to Farside data, about $103.5 million left on Friday, bringing the five-day sum to roughly $1.72 billion. Related Reading: Crypto Meets Private Banking: UBS Weighs New Offering Bitcoin was trading near $89,160 at the time of these reports — still well below the $100,000 mark it last reached on November 13. This movement has sent a clear signal: many investors are stepping back right now. ETF Flows And Who Is Selling Reports note that ETF flows are often on the radar as a quick read on investor mood, but the picture is not always simple. Large outflows can reflect institutional rebalancing or tactical moves by funds, not only mass retail selling. The US market had a four-day trading week because of Martin Luther King Jr. Day on Monday, which may have concentrated trades into fewer sessions and amplified the numbers. Still, losing more than a billion dollars in a few days will get attention. Market Mood And Metals The wider mood has soured. The Crypto Fear & Greed Index registered an Extreme Fear score of 25, and sentiment trackers have been flashing caution. Reports say Santiment believes retail traders are pulling back while attention drifts toward more traditional assets. Meanwhile, metals have been strong. Reports disclose that with gold trading near $5,000 and silver approaching $100, some market players feel Bitcoin has been left out of a rally that lifted metals, which has weighed on confidence in the crypto market. Source: Alternative.me Bitcoin Price Action Bitcoin has struggled to find a steady rhythm over the past week. Prices slipped below the $89,000 to $90,000 range as traders reacted to fresh geopolitical tension and renewed trade worries, before stabilizing as nerves eased. This was driven higher after some soft political indicators around tariff threats, only to substantiate the idea that markets rarely react to conflict but rather to changes in tone and expectations. Signals That Could Matter These movements illustrate how Bitcoin behaves more like a risk asset rather than an asset shelter, falling in tandem with equities when unexpected financial shocks hit the globe, before rebounding when the fever subsides to gather fresh buyers. Related Reading: Gold Becomes The Whale Safe Haven As Bitcoin Takes A Back Seat Current price patterns indicate caution, where traders are weighing short-term political risks against medium- and long-term macro patterns, as well as institutional interests. There are some quieter indications that the rout could be losing steam. To this effect, there are assertions suggesting that supply distribution on-chain and social chatter can be circumstantial evidence showing there is less selling pressure. Featured image from Money; Shutterstock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|btc|btcusd|crypto|digital currency|etf",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -1090,6 +1020,64 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57473660,
+    "published": 1769414423000,
+    "title": "Japan plans framework that could permit crypto ETFs by 2028: Nikkei",
+    "body": "Japan’s financial regulator is weighing rule changes that could allow crypto assets to qualify for ETFs, signaling a possible shift in retail access.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57474853,
+    "published": 1769418645000,
+    "title": "Matcha Meta breach tied to SwapNet exploit drains up to $16.8M",
+    "body": "Matcha Meta urged users to revoke one-time approvals for SwapNet’s router contract after a smart contract vulnerability saw up to $16.8 million stolen on the Base blockchain.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
       }
     ]
   }
