@@ -1,34 +1,5 @@
 [
   {
-    "id": 57445798,
-    "published": 1769304539000,
-    "title": "US Bitcoin ETFs bleed $1.72B in five-day outflow streak",
-    "body": "The extended outflow streak comes as a widely used crypto sentiment indicator has stayed within the “Extreme Fear” range since Wednesday.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57450766,
     "published": 1769324963000,
     "title": "Once-prominent NFT marketplace Nifty Gateway to wind down operations",
@@ -773,6 +744,223 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57468599,
+    "published": 1769393497000,
+    "title": "Gold tops $5,000 as bitcoin stalls near $87,000 in widening macro-crypto split: Asia Morning Briefing",
+    "body": "Bitcoin’s onchain data points to supply overhang and weak participation, while gold’s breakout is priced by markets as a durable macro regime shift.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Gold|Bitcoin News|btc|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57469282,
+    "published": 1769396362000,
+    "title": "Bitcoin Price Breakdown Risk Grows As Bears Aim For $85K",
+    "body": "Bitcoin price extended losses and traded below $88,500. BTC is consolidating losses and might attempt a recovery wave if it clears $88,500. Bitcoin started a minor recovery wave from the $86,000 level. The price is trading below $88,200 and the 100 hourly Simple moving average. There is a new bearish trend line forming with resistance at $88,000 on the hourly chart of the BTC/USD pair (data feed from Kraken). The pair might recover if it manages to settle above $86,200 and $86,000. Bitcoin Price Dips Further Bitcoin price failed to stay above the $89,000 support and extended losses . BTC declined sharply below the $88,500 and $87,000 support levels. The bears even pushed the price below $86,500. A low was formed at $86,007, and the price is now attempting a recovery wave. There was a move above the 23.6% Fib retracement level of the downward move from the $91,099 swing high to the $86,007 low. Bitcoin is now trading below $88,500 and the 100 hourly Simple moving average . If the price remains stable above $86,500, it could attempt a fresh increase. Immediate resistance is near the $88,000 level. There is also a new bearish trend line forming with resistance at $88,000 on the hourly chart of the BTC/USD pair. The first key resistance is near the $88,500 level since it is close to the 50% Fib retracement level of the downward move from the $91,099 swing high to the $86,007 low. A close above the $88,500 resistance might send the price further higher. In the stated case, the price could rise and test the $89,200 resistance. Any more gains might send the price toward the $90,000 level. The next barrier for the bulls could be $91,000 and $91,500. More Losses In BTC? If Bitcoin fails to rise above the $88,500 resistance zone, it could start another decline. Immediate support is near the $86,700 level. The first major support is near the $86,200 level. The next support is now near the $85,500 zone. Any more losses might send the price toward the $83,500 support in the near term. The main support sits at $82,500, below which BTC struggle to recover in the near term. Technical indicators: Hourly MACD – The MACD is now losing pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for BTC/USD is now below the 50 level. Major Support Levels – $86,700, followed by $86,000. Major Resistance Levels – $88,500 and $89,200.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "BTC|bitcoin|bitcoin price|btcusd|BTCUSDT|xbtusd",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57469138,
+    "published": 1769395178000,
+    "title": "Bitcoin Starts Week on Shaky Ground Amid Geopolitical Jitters",
+    "body": "Bitcoin suffered a sharp fall Sunday to start the week on shaky ground, even as it staged a minor rebound in early Asia, as global geopolitical tensions prompted a move away from risk assets and into safe havens such as gold.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57469578,
+    "published": 1769397491000,
+    "title": "Ethereum Price Sinks To $2,800, Raising Fresh Downside Fears",
+    "body": "Ethereum price extended losses and traded below the $2,865 zone. ETH is now consolidating losses and might aim for a recovery if it clears $2,920. Ethereum remained in a bearish zone and traded below $2,950. The price is trading below $2,900 and the 100-hourly Simple Moving Average. There is a bearish trend line forming with resistance at $2,920 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh increase if it stays above the $2,800 zone. Ethereum Price Dips Further Ethereum price failed to remain stable above $2,950 and extended losses, like Bitcoin . ETH price declined below $2,880 and $2,865 to enter a bearish zone. The bears even pushed the price below $2,840. The price finally tested $2,800 and is currently consolidating losses. There was a minor upside above the 23.6% Fib retracement level of the downward wave from the $3,067 swing high to the $2,784 swing low. Ethereum price is now trading below $2,900 and the 100-hourly Simple Moving Average. If the bulls can protect more losses below $2,800, the price could attempt another increase. Immediate resistance is seen near the $2,920 level. There is also a bearish trend line forming with resistance at $2,920 on the hourly chart of ETH/USD. The first key resistance is near the $2,960 level or the 61.8% Fib retracement level of the downward wave from the $3,067 swing high to the $2,784 swing low. The next major resistance is near the $3,000 level. A clear move above the $3,000 resistance might send the price toward the $3,065 resistance. An upside break above the $3,065 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $3,120 resistance zone or even $3,150 in the near term. More Losses In ETH? If Ethereum fails to clear the $2,920 resistance, it could start a fresh decline. Initial support on the downside is near the $2,840 level. The first major support sits near the $2,800 zone. A clear move below the $2,800 support might push the price toward the $2,780 support. Any more losses might send the price toward the $2,720 region. The main support could be $2,650. Technical Indicators Hourly MACD – The MACD for ETH/USD is losing momentum in the bearish zone. Hourly RSI – The RSI for ETH/USD is now below the 50 zone. Major Support Level – $2,800 Major Resistance Level – $2,920",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57469800,
+    "published": 1769398299000,
+    "title": "Gold hits record high over $5K, further diverging from Bitcoin",
+    "body": "Gold reached a record over $5,000 amid trade tensions while Bitcoin fell to $86,000, marking a sharp divergence as the precious metal surged 17% in January.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
