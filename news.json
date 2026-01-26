@@ -1,134 +1,5 @@
 [
   {
-    "id": 57456074,
-    "published": 1769344384000,
-    "title": "Cathie Wood’s ARK adds Coinbase, Circle, Bullish as crypto slides",
-    "body": "The fourth-quarter crypto pullback hit ARK ETFs, with Coinbase emerging as the biggest drag on performance.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57457485,
-    "published": 1769349605000,
-    "title": "Bitcoin Whale Demand Hits Extreme Levels As Next Rally Loads Up",
-    "body": "The Bitcoin price action has been muted over the past few days, trading within the $90,000 and $88,000 levels. Classically, consolidation periods often precede major moves either to the upside or downside of the market. As such, questions on the next trajectory of the flagship cryptocurrency are being asked. A latest on-chain evaluation has offered a positive prognosis on the next direction for the Bitcoin price. Accumulation Demand Metric Surges To All-Time-High In a Quicktake post on CryptoQuant, on-chain analyst CoinNiel hypothesized that the Bitcoin price could be at the beginning of a bullish trend. The market quant based this prognosis on two metrics — the Accumulator Address Demand and the Liquidity Inventory Ratio (month). Related Reading: Bitcoin Metric Suggests Miners Are In Recovery Mode — Price To Follow? The Accumulator Address Demand metric monitors the net buying pressure coming from addresses that buy Bitcoin consistently, and without any significant selling. This behavior (of buying and rarely selling) is typical of the large-scale Bitcoin holders, commonly known as the whales. Notably, CoinNiel also pointed out that when major withdrawals from exchanges occur, they are rarely ever incited by retailers, but by whales. As such, when the Bitcoin whales withdraw their holdings from exchanges, their buying pressure translates into an increase in the Accumulator Address Demand. From the chart above, the indicator has reached an all-time high level. According to the crypto pundit, this could be a sign that the whales are currently experiencing, on intense levels, the “fear of missing out.” The second metric, the Liquidity Inventory Ratio (Month), also reinforces CoinNiel’s bullish outlook. This metric tracks and compares existing Bitcoin demand to the supply available on exchanges, showing whether demand can overwhelm available supply. When this ratio rises sharply, it is usually a sign that demand is absorbing newly created supply. From the data shared by the analyst, the Liquidity Inventory Ratio has also reached an extreme value of 3.8. However, this extreme reading is only a reflection of what is happening on US exchanges. Hence, CoinNiel implied that, for the first time in years, US exchanges are recording exceptionally high demand relative to the coins available. In theory, a 3.8 reading implies the imminence of a supply shock in the scenario where current conditions prevail. But, the analyst highlighted that it may not necessarily happen, as a 3.8 reading is more a sign of intensified whale demand than a surefire means to predict supply shocks. The big picture, especially when these two metrics are looked at together, appears to be distinctly bullish. This is because available data points out that the whales are likely positioning for what could be a resumed bullish trajectory for the Bitcoin price. Bitcoin Price At A Glance As of this writing, Bitcoin is valued at $88,520, reflecting an over 1% decline in the past 24 hours. Related Reading: XRP Price Recovery Is Possible If It Reclaims This Ichimoku Base Featured image by DALL.E, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 47,
-        "NAME": "SPONSORED",
-        "CATEGORY": "SPONSORED"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57457482,
-    "published": 1769349600000,
-    "title": "Sui Group charts new course for crypto treasuries with stablecoins and DeFi",
-    "body": "The Nasdaq-listed firm said it is evolving beyond a crypto treasury vehicle into a yield-generating operating business.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Sui|Digital Asset Treasury|Stablecoins|DeFi|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57459047,
     "published": 1769355402000,
     "title": "RWA Tokenization Accelerates With Blockchain-Based Markets",
@@ -1283,6 +1154,269 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57478532,
+    "published": 1769432478000,
+    "title": "Bitcoin Liquidations Spike to $750M Amid Weekend Slide",
+    "body": "Long positions bore the brunt of a $750 million crypto liquidation spike, as prices slid toward $88K amid Japan's financial turmoil.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57479238,
+    "published": 1769435069000,
+    "title": "Michael Saylor’s Strategy buys 2,932 Bitcoin amid market sell-off",
+    "body": "Strategy acquired $264 million of Bitcoin last week during the market pullback, lifting its holdings to more than 712,000 BTC, according to a Monday SEC filing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57479330,
+    "published": 1769435599000,
+    "title": "Coreweave stock gains 9% on fresh $2 billion Nvidia investment",
+    "body": "Already an investor in CoreWeave, Nvidia last September had agreed to purchase $6.3 billion of computing services from the AI infrastructure provider.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Coreweave|Nvidia|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57479305,
+    "published": 1769435348000,
+    "title": "Crypto users affected in massive 149M infostealer data dump",
+    "body": "A researcher uncovered a 149 million-record credential dump from infostealer malware, including 420,000 Binance logins, exposing growing risks to crypto users.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57479851,
+    "published": 1769437089000,
+    "title": "US Bitcoin Miners Slow as Winter Storm Hits Power Grids",
+    "body": "Extreme cold led miners to curb their electricity use, briefly cutting hashrate as grid stress spread across several regions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57479819,
+    "published": 1769436802000,
+    "title": "UK banks block or delay 40% of crypto exchange transfers: Survey",
+    "body": "A new UK Cryptoasset Business Council report found that almost all major banks are imposing blanket limits or blocks on transfers to crypto exchanges, effectively debanking crypto users.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57480756,
+    "published": 1769439641000,
+    "title": "Gold Hits Record $5K While Bitcoin Struggles To Keep Pace",
+    "body": "Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide. Related Reading: Money Keeps Leaving: Bitcoin ETFs Shed $1.72 Billion In Just 5 Sessions On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace and traded well below its recent highs. Gold Hits Record Levels Safe-haven demand pushed gold sharply higher. Prices were up above $5k an ounce and inked roughly $5,110 at the peak. Silver, for its part, did not go unnoticed, jumping to fresh peaks near $107/ounce. Source: Gold Price Traders pointed to simmering geopolitical friction and talk of tougher trade moves led by US President Donald Trump as fuel for the rally. A weaker greenback made metals more attractive to customers overseas, and central bank buying provided steady backing. Liquidity in some corners were thin as investors rushed to shift cash into things that feel stable when risk elevates. Bitcoin Falls Behind Market numbers show Bitcoin hovering in the mid-$80,000s range, retreating from peaks seen late last year. Reports note the alpha crypto is roughly 30% below the highest level it hit reached in October 2025, leaving some holders quite jittery. Volatility was another factor. Where bullion is being sought for safety, Bitcoin is viewed more as a growth or speculative play, and that difference in investor application becomes clear when markets tighten. Some funds slashed their crypto exposure, signaling a short reroute away from high-risk gambits. Why Investors Are Shifting Analysts and traders described a simple choice: shelter or swing for gains. When headlines push worry, money flows into assets that are widely trusted across markets and governments. Metals fit that ticket. Based on market chatter, fears of a US government funding clash and fresh tariff announcements stacked pressure on stocks and added a sense of urgency to safe-haven acquisition. Options and futures trading hinted at a more cautious perpective, with volatility indexes rising and bond yields behaving in ways that made the yellow metal look more appealing by comparison. Related Reading: XRP Charts Flash Familiar Signal As Analyst Calls For $11, Then $70 What Traders Are Watching Market watchers said eyes will be glued on a few key metrics: The dollar’s path, moves by major central banks, and any sign that US politics escalates could keep metals elevated. For Bitcoin, network activity, large wallet flows, and regulatory headlines will likely set the tone. Some traders expect swings both ways. Others caution that when risk appetite is back, crypto may bounce hard, but that outcome is not a sure thing and will be dependent on a string of policy and macro moves. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btcusd|crypto|digital currency|gold|silver|tariffs|Trump|US Dollar",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
