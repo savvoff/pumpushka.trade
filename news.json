@@ -1,63 +1,5 @@
 [
   {
-    "id": 57473660,
-    "published": 1769414423000,
-    "title": "Japan plans framework that could permit crypto ETFs by 2028: Nikkei",
-    "body": "Japan’s financial regulator is weighing rule changes that could allow crypto assets to qualify for ETFs, signaling a possible shift in retail access.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57474853,
-    "published": 1769418645000,
-    "title": "Matcha Meta breach tied to SwapNet exploit drains up to $16.8M",
-    "body": "Matcha Meta urged users to revoke one-time approvals for SwapNet’s router contract after a smart contract vulnerability saw up to $16.8 million stolen on the Base blockchain.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
     "id": 57475695,
     "published": 1769421742000,
     "title": "Metaplanet raises 2026 outlook as Bitcoin write-down tops $670M",
@@ -2187,6 +2129,199 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57497453,
+    "published": 1769495617000,
+    "title": "60% of top US banks are geared up for Bitcoin: River",
+    "body": "Brian Armstrong, the CEO of crypto exchange Coinbase, said a takeaway from his time at the Davos forum was that most of the bank CEOs he met were pro-crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57497923,
+    "published": 1769497201000,
+    "title": "Tether Reveals Massive Gold Accumulation In Q4: Adds 27 Tons To Reserves",
+    "body": "Tether, the company behind the world’s largest stablecoin USDT, has disclosed a substantial expansion of its gold holdings, underscoring a growing shift toward hard‑asset backing amid uncertainty across crypto and traditional financial markets. Tether Expands Gold‑Backed Stablecoin Reserves Gold crossed the $5,000 per ounce threshold for the first time on Monday, a milestone that market observers had not previously seen. Prices briefly climbed to around $5,110 per ounce as safe‑haven demand accelerated. Tether revealed that it significantly increased its gold exposure during the fourth quarter of 2025. The company disclosed that gold‑backed stablecoins (XAU₮) experienced rapid growth throughout the year, with total market capitalization rising from roughly $1.3 billion to more than $4 billion. Related Reading: Expert Who Nailed The Bitcoin Top Now Says Buy At These Levels According to Tether’s attestation report, this expansion was fueled by record‑high gold prices, rising geopolitical fragmentation, and growing demand from both institutional investors and crypto‑native users for fully on‑chain safe‑haven assets. Within the gold‑backed stablecoin sector, Tether Gold emerged as the dominant issuer, accounting for approximately 60% of the total supply in circulation. By the end of the fourth quarter, total physical gold reserves stood at 520,089.350 fine troy ounces. Each token is backed on a one‑to‑one basis by a fine troy ounce of physical gold. At current prices, the total market value of these holdings reached approximately $2.25 billion. Crypto Giant Ranks Among Top 30 Global Gold Holders Tether confirmed that all gold reserves are securely stored in Switzerland and comply fully with the London Good Delivery standards established by the London Bullion Market Association, a key benchmark for institutional gold custody. The scale of Tether’s accumulation has also positioned the company among major global gold holders. Based on data from the International Monetary Fund and a Jefferies report published in late 2025, Tether now ranks within the top 30 gold holders worldwide. Its holdings surpass those of several countries, including Greece, Qatar, and Australia. During the fourth quarter of 2025 alone, Tether Gold Investments added roughly 27 metric tons of gold to its exposure. Related Reading: Crypto Traders Share Odds Of XRP Price Rising 40% This Year, Can It Still Rally? Paolo Ardoino, Tether’s CEO, said the company’s growing role in gold markets carries significant responsibility. He emphasized that Tether Gold is designed to bring clarity and verifiability at a time when confidence in traditional monetary systems is being tested. Ardoino noted that each XAU₮ token represents vaulted physical gold that can be independently verified on‑chain, adding that the product’s rapid growth reflects rising expectations for tokenized assets to meet the same standards as sovereign and institutional reserves. Featured image from OpenArt, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tether|crypto|crypto market|crypto news|cryptocurrency|gold|Paolo Ardoino|tether|Tether CEO|Tether Gold|Tether news|Tether report|Tether reserves",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 164,
+        "NAME": "XAUT",
+        "CATEGORY": "XAUT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57498593,
+    "published": 1769499284000,
+    "title": "ASIC wins $9.3M penalty against BPS Financial over misleading Qoin Wallet",
+    "body": "Australia's Federal Court ordered BPS Financial to pay $1.3 million for unlicensed conduct and $8 million for misleading and deceptive representations.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57500280,
+    "published": 1769504417000,
+    "title": "Bitcoin Price At Risk Of 50% Correction As BTC’s 2022 Bearish Playbook Repeats",
+    "body": "As the crypto market recovers from the latest pullback, Bitcoin (BTC) is attempting to bounce from its one-month low. Some analysts have warned that the correction has left the cryptocurrency in a “fragile position” that resembles the start of the previous bear market. Related Reading: XRP At ‘Critical Inflection Point’: Analyst Signals Major Expansion If This Level Holds Bitcoin Risks 2022-Like Correction On Sunday, Bitcoin saw a 3.6% intraday decline, closing the day below its yearly opening for the first time. Since November, the flagship crypto has been hovering between $86,000-$93,500 in the weekly timeframe, failing to turn the range’s resistance into support despite multiple attempts. During the early January breakout, BTC climbed 11.5% from its $87,600 2026 opening price, reaching a two-month high of $97,924 nearly two weeks ago. Since then, the cryptocurrency has erased all its recent gains, diving below this key area and closing the week at the base of its range. Amid this performance, Market observer Philarekt affirmed that Bitcoin is repeating its 2022 playbook, highlighting the similarities between the leading crypto’s performance at the start of the last bear market and its current price action. As the chart shows, the cryptocurrency formed a bear flag pattern after the initial drop from its cycle top of $69,000. At the time, the cryptocurrency tested and rejected the 100-day Moving Average (MA), leading to a pullback towards the pattern’s lower boundary. This was followed by a rebound towards the formation’s upper boundary, where the 200-day MA was located, and a rejection from this area, which led to a breakdown from the pattern and 55% correction. This time, Bitcoin has rejected from the 100-day MA and is currently retesting the pattern’s support line. Based on this, he suggested that the flagship crypto could see one more leg up toward the 200-day MA, located around the $100,000 barrier, before “the real show” begins. BTC Price In Precarious Position Meanwhile, Rekt Capital explained that Bitcoin was in a “particularly fragile position,” as it needed to hold the previous week’s marginal close above the range high. “When Weekly Closes occur marginally beyond a key level, the subsequent retest becomes structurally precarious,” he detailed. In his analysis, the market watcher noted that Bitcoin saw a sharp rejection from the $98,000 region, where the 21-week and 50-week Bull Market Exponential Moving Averages (EMAs) are located. This coincided with the loss of a higher low structure that had been building similarly to 2021. “Losing that Higher Low is significant, as it removes a key structural buffer that could have supported continued consolidation within the Weekly Range,” he asserted. The rejection has shifted focus to the strength of the $86,000 support and the character of the upcoming rebounds from this area. He warned that shallower bounces from the range lows would suggest weakening demand, increasing the chances of a breakdown below this support. Related Reading: Crypto Traders Share Odds Of XRP Price Rising 40% This Year, Can It Still Rally? Strong rejections that lead to downside continuation historically tend to occur later in the cycle toward the end of Q1 or the start of Q2, Rekt Capital pointed out, but Bitcoin is already testing the lower boundary of its weekly range. This adds “importance to the integrity of this support, as any early breakdown would represent a shift relative to that typical timing.” At the moment, the weekly range remains pivotal, “acting as the key decision point between a prolonged relief structure and the risk of deeper downside,” the analyst concluded. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin Bear Flag|Bitcoin Bearish Crossover|Bitcoin price analysis|btc|BTC breakdown|btc price|BTCUSDT|crypto analyst|crypto market correction|Crypto Market Recovery|Crypto trader",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57500283,
+    "published": 1769504164000,
+    "title": "South Korea’s central bank flags FX risks as lawmakers debate stablecoin issuance",
+    "body": "South Korea’s stablecoin debate remains stalled as the central bank raises concerns over capital flows, issuer oversight and US dollar-linked risks.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       }
     ]
   }
