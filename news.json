@@ -1,268 +1,5 @@
 [
   {
-    "id": 57478532,
-    "published": 1769432478000,
-    "title": "Bitcoin Liquidations Spike to $750M Amid Weekend Slide",
-    "body": "Long positions bore the brunt of a $750 million crypto liquidation spike, as prices slid toward $88K amid Japan's financial turmoil.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57479238,
-    "published": 1769435069000,
-    "title": "Michael Saylor’s Strategy buys 2,932 Bitcoin amid market sell-off",
-    "body": "Strategy acquired $264 million of Bitcoin last week during the market pullback, lifting its holdings to more than 712,000 BTC, according to a Monday SEC filing.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57479330,
-    "published": 1769435599000,
-    "title": "Coreweave stock gains 9% on fresh $2 billion Nvidia investment",
-    "body": "Already an investor in CoreWeave, Nvidia last September had agreed to purchase $6.3 billion of computing services from the AI infrastructure provider.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Coreweave|Nvidia|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57479305,
-    "published": 1769435348000,
-    "title": "Crypto users affected in massive 149M infostealer data dump",
-    "body": "A researcher uncovered a 149 million-record credential dump from infostealer malware, including 420,000 Binance logins, exposing growing risks to crypto users.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57479851,
-    "published": 1769437089000,
-    "title": "US Bitcoin Miners Slow as Winter Storm Hits Power Grids",
-    "body": "Extreme cold led miners to curb their electricity use, briefly cutting hashrate as grid stress spread across several regions.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57479819,
-    "published": 1769436802000,
-    "title": "UK banks block or delay 40% of crypto exchange transfers: Survey",
-    "body": "A new UK Cryptoasset Business Council report found that almost all major banks are imposing blanket limits or blocks on transfers to crypto exchanges, effectively debanking crypto users.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57480756,
-    "published": 1769439641000,
-    "title": "Gold Hits Record $5K While Bitcoin Struggles To Keep Pace",
-    "body": "Gold shone brightly today, racing to a new high while crypto took the back seat, and the gap between the two assets opened wide. Related Reading: Money Keeps Leaving: Bitcoin ETFs Shed $1.72 Billion In Just 5 Sessions On Monday, the precious metal moved past the $5,000 mark, registering a price point market sentinels had not witnessed before. Bitcoin, by contrast, failed to keep pace and traded well below its recent highs. Gold Hits Record Levels Safe-haven demand pushed gold sharply higher. Prices were up above $5k an ounce and inked roughly $5,110 at the peak. Silver, for its part, did not go unnoticed, jumping to fresh peaks near $107/ounce. Source: Gold Price Traders pointed to simmering geopolitical friction and talk of tougher trade moves led by US President Donald Trump as fuel for the rally. A weaker greenback made metals more attractive to customers overseas, and central bank buying provided steady backing. Liquidity in some corners were thin as investors rushed to shift cash into things that feel stable when risk elevates. Bitcoin Falls Behind Market numbers show Bitcoin hovering in the mid-$80,000s range, retreating from peaks seen late last year. Reports note the alpha crypto is roughly 30% below the highest level it hit reached in October 2025, leaving some holders quite jittery. Volatility was another factor. Where bullion is being sought for safety, Bitcoin is viewed more as a growth or speculative play, and that difference in investor application becomes clear when markets tighten. Some funds slashed their crypto exposure, signaling a short reroute away from high-risk gambits. Why Investors Are Shifting Analysts and traders described a simple choice: shelter or swing for gains. When headlines push worry, money flows into assets that are widely trusted across markets and governments. Metals fit that ticket. Based on market chatter, fears of a US government funding clash and fresh tariff announcements stacked pressure on stocks and added a sense of urgency to safe-haven acquisition. Options and futures trading hinted at a more cautious perpective, with volatility indexes rising and bond yields behaving in ways that made the yellow metal look more appealing by comparison. Related Reading: XRP Charts Flash Familiar Signal As Analyst Calls For $11, Then $70 What Traders Are Watching Market watchers said eyes will be glued on a few key metrics: The dollar’s path, moves by major central banks, and any sign that US politics escalates could keep metals elevated. For Bitcoin, network activity, large wallet flows, and regulatory headlines will likely set the tone. Some traders expect swings both ways. Others caution that when risk appetite is back, crypto may bounce hard, but that outcome is not a sure thing and will be dependent on a string of policy and macro moves. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btcusd|crypto|digital currency|gold|silver|tariffs|Trump|US Dollar",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57481912,
     "published": 1769442783000,
     "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026",
@@ -341,47 +78,6 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57482321,
-    "published": 1769440398000,
-    "title": "BlackRock doubles down on bitcoin fund offerings with income-focused filing",
-    "body": "The ETF would actively manage a covered call bitcoin exposure through BlackRock's existing iShares Bitcoin Trust (IBIT), to generate income for investors.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|BlackRock|Bitcoin News|Bitcoin ETF|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -2386,6 +2082,571 @@
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57504796,
+    "published": 1769517746000,
+    "title": "Bitcoin’s Falling Price Puts Miners on Edge",
+    "body": "Data from the CBECI suggest that any miner paying at least $0.10 per kWh for energy will be making a loss on each Bitcoin mined.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57504626,
+    "published": 1769517030000,
+    "title": "Bitcoin trend line cross mimics 2022 amid ‘insane’ BTC vs. silver breakdown",
+    "body": "Bitcoin saw two long-term moving averages cross over for the first time since April 2022 in a fresh BTC price bear market warning.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57505196,
+    "published": 1769517000000,
+    "title": "Crypto’s ‘Safe’ Yield Trade Hits $6 Billion After 2022 Blowups",
+    "body": "When crypto platform Stream Finance collapsed late last year, after roughly $93 million in user funds were lost, it exposed a familiar fault line in digital assets: promises of “safe yield” tend to unravel when markets turn.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57505646,
+    "published": 1769520286000,
+    "title": "Bitcoin miners HIVE, Bitfarm and Bitdeer downgraded as analyst warns on AI shift",
+    "body": "KBW's Stephen Glagola said that turning business models toward AI and HPC may take longer to pay off than the market expects.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin Mining|AI|Bitdeer|Bitfarms|Hive|Kbw|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57505645,
+    "published": 1769518800000,
+    "title": "Chinese-Language Money Laundering Networks Are Driving Crypto Crime",
+    "body": "A growing share of global crypto crime is being driven by Chinese-language money laundering networks, which have processed an estimated 20% of illicit digital funds over the past five years, according to blockchain analysis firm Chainalysis.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506129,
+    "published": 1769521572000,
+    "title": "Tether debuts federally regulated USAT stablecoin via Anchorage Digital",
+    "body": "The new token is issued by Anchorage Digital Bank and designed to comply with the GENIUS Act, targeting institutional demand for a U.S.-regulated digital dollar.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tether|Anchorage Digital|Stablecoins|USDT|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506038,
+    "published": 1769520600000,
+    "title": "Crypto Payments Network Mesh Connect Hits $1 Billion Valuation",
+    "body": "Mesh Connect Inc. secured a $1 billion valuation after a recent $75 million funding round.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57506410,
+    "published": 1769522400000,
+    "title": "Privacy-focused Miden, Korea Digital Asset agree to build crypto infrastructure for institutional adoption",
+    "body": "The partnership focuses on privacy, compliance and standards for regulated digital-asset adoption in South Korea.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|KODA|South Korea|Exclusive|Custody|Privacy|Institutional Adoption|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506411,
+    "published": 1769522400000,
+    "title": "Crypto money laundering balloons to $82B as Chinese-language services dominate, Chainalysis says",
+    "body": "Chinese-language networks now handle a disproportionate share of global crypto money laundering flows, according to a new Chainalysis report.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Money Laundering|China|Chainalysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506364,
+    "published": 1769522064000,
+    "title": "Tether introduces USAt under new US stablecoin rules",
+    "body": "Tether’s new US-regulated stablecoin, issued by Anchorage Digital Bank and backed by Cantor Fitzgerald reserves, launches on major exchanges under the US GENIUS Act.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506469,
+    "published": 1769522400000,
+    "title": "US ‘crypto capital’ claim tested by developer prosecutions",
+    "body": "The Trump administration is celebrating the GENIUS Act and its pro‑crypto agenda, yet Tornado Cash and Samourai prosecutions fuel doubts that US developers are truly in the clear.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506497,
+    "published": 1769522054000,
+    "title": "Galaxy Digital leads $7M investment in Tenbin to build improved tokenized gold and FX markets",
+    "body": "Tenbin plans to bring gold and foreign exchange currencies to blockchain rails using CME futures for faster and better tokenized asset trading.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tokenization|Tokenized Assets|Galaxy|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57507104,
+    "published": 1769524240000,
+    "title": "What Davos Revealed About BlackRock, Ripple And XRP: Pundits Weigh In",
+    "body": "A panel of XRP-focused commentators is leaning heavily into Davos optics as evidence that BlackRock and Ripple are converging on a shared vision for tokenized finance, even as none of the participants produced direct confirmation of a formal partnership between the two firms. BlackRock, Ripple And XRP After Davos Host Versan Aljarrah opened by pointing to “BlackRock and Brad Garlinghouse at Davos,” asking guest Jake Claver what he took from their presence and the “conclusion they had over there.” Claver’s answer centered on what he said he heard from BlackRock CEO Larry Fink about settlement consolidation. “He mentioned that it would be ideal if everything was on one blockchain or at least settled back to one blockchain,” Claver said. “For Ripple to be in the room and having been in the room for years at this point, it gives me you know a lot of confidence that it is the XRPL I feel like BlackRock and Ripple are much more involved than people realize.” Today we’re joined by @beyond_broke to discuss BlackRock’s quiet ties with Ripple, the soft disclosures around XRP, and the future of digitization and tokenization. Excited to have everyone back together for this one.https://t.co/oMHGWqMehB pic.twitter.com/u1s7LyOAhs — Black Swan Capitalist (@VersanAljarrah) January 26, 2026 Aljarrah immediately widened the claim beyond Davos stagecraft, asserting, “it’s quite obvious at this point that Blackrock, JP Morgan, Ripple and all these major banks they have some ties to Ripple [and] XRP,” before returning to the recurring theme that Davos access itself is a filter. Later, he argued that the set of crypto-native executives allowed near institutions like the WEF and BIS was narrowing and that Garlinghouse’s inclusion mattered more than “headline hype.” Related Reading: ‘I’m Very Bullish’: Ripple CEO Forecasts Record Performance For Crypto In 2026 David (Digital Outlook) pushed the discussion toward implementation, but repeatedly brought BlackRock back into the frame as a connective thread in Ripple’s institutional strategy. “When it came out to like, okay, has Ripple really positioned themselves to be like […] the main leader in the space […] with the acquisitions that they’ve made […] custody with Palisade,” he said. “I think they got Metaco and Standard Custody in there […] clearance through Hidden Road, all that. Then […] you see all these other linkages between their partners like what they’re doing with Blackrock. You know, they’ve got some stuff going on there.” A second line of argument was that BlackRock’s eventual entry could be the trigger for an XRP liquidity event. Edo Farina framed it in “order size” terms: “It takes one huge institutional order from a Blackrock a great scale and that’s it,” he said, claiming market pricing can stay muted if institutional positioning happens through OTC arrangements. Related Reading: Ripple Builds XRP ‘Wall Street Kit’: Developer Claims ‘Billions Incoming’ Claver added: “When Blackrock steps in, there will be likely a supply shock that allows XRP to decouple from the rest of the crypto market and Bitcoin,” and tied that idea to a viral episode the panel said briefly moved XRP out of sync with the rest of crypto. “We’ve seen it decoupled once […] when […] the [fake] trust that had been filed in Delaware for Blackrock’s iShares XRP ETF […] hit Twitter,” Claver said. Still, BlackRock’s observable crypto footprint still tilts towards Ethereum and Bitcoin rather than XRP. BlackRock’s flagship US spot exposure is via products tracking bitcoin and ether, IBIT and ETHA, while its tokenization beachhead has also been Ethereum-first: BlackRock’s BUIDL fund debuted on Ethereum via Securitize in March 2024, and only later expanded to additional networks. Also, BlackRock’s own 2026 thematic outlook is explicitly naming Ethereum as the infrastructure layer that “collects the toll” as tokenization scales, with stablecoins treated as an early proxy for tokenization “in action.” BlackRock highlights data indicating “65%+” of tokenized assets sit on Ethereum, an argument for why “one blockchain” speculation often defaults to ETH in institutional circles. At press time, XRP traded at $1.88. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|BlackRock|davos|Ripple|ripple news|xrp|xrp news|XRP Price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57507008,
+    "published": 1769524010000,
+    "title": "Standard Chartered says U.S. regional banks most at risk in $500 billion stablecoin shift",
+    "body": "The delay of market structure legislation highlights a growing threat to domestic lenders as digital dollars begin to cannibalize traditional bank deposits.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoins|Standard chartered|Analysts|Market Structure Legislation|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57506976,
+    "published": 1769523691000,
+    "title": "Ethereum already ‘20%’ of the way toward quantum resilience: Interview",
+    "body": "Ethereum has a “clear plan” for post-quantum security involving major upgrades to execution, consensus and even data blobs, explains researcher Antonio Sanso.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57506835,
+    "published": 1769523467000,
+    "title": "Australia’s ASIC flags crypto as ‘regulatory perimeter’ risk alongside AI, payments",
+    "body": "Australia’s securities regulator has bundled digital assets with AI and payments in its 2026 outlook, warning that firms exploiting licensing gray areas will be a top priority this year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57507138,
+    "published": 1769524265000,
+    "title": "WH advisor Patrick Witt: Davos 2026 was ‘turning point’ for global crypto normalization",
+    "body": "White House crypto advisor Patrick Witt said stablecoins are the “gateway drug” for global finance and that Washington is racing to deliver regulatory clarity.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|White House|Stablecoin|Davos|Clarity Act|Market Structure Legislation|Patrick Witt|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
