@@ -1,385 +1,5 @@
 [
   {
-    "id": 57516088,
-    "published": 1769549035000,
-    "title": "Bitcoin climbs above $89,000 as U.S. dollar tumbles on President Trump's remarks",
-    "body": "The president said he isn't concerned about the dollar's recent declines, sending the greenback plunging even lower.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Donald Trump|Market Wrap|Breaking News|top news|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57516441,
-    "published": 1769549818000,
-    "title": "Chinese National Gets 46 Months in Prison for $37 Million Crypto Scam Targeting Americans",
-    "body": "A Chinese national was sentenced to nearly four years in prison for his role in a $37 million crypto scam that claimed American victims.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57516938,
-    "published": 1769551226000,
-    "title": "5 Months In Red: What Happens If Ethereum Price Closes January With A Loss?",
-    "body": "The Ethereum price has struggled to regain momentum amid a persistent downtrend. After closing the last four months in the red, the world’s second-largest cryptocurrency is showing no signs of relief in January 2026. On-chain data shows that Ethereum’s current trajectory mirrors past cycle downturns, raising the possibility of further price declines and prolonged bearish sentiment. Ethereum Price Nears Fifth Consecutive Month Of Losses Ethereum has been in a prolonged slump, marking its fourth straight month of losses in 2025. As the market navigates the final week of January, the cryptocurrency is poised to potentially close a fifth consecutive month in the red, a streak that would reinforce the ongoing bearish trend. Related Reading: Analyst Says You’re Not Bullish Enough On Ethereum – What Does He Mean? On-chain data from CryptoRank shows that throughout 2025, Ethereum saw more red months than green ones. The cryptocurrency began the year with four consecutive months of decline from January to April, followed by a brief recovery in May, only to fall again in June. After this, ETH posted two months of gains, finishing July and August in the green. However, this recovery was short-lived, and since then, the cryptocurrency has been in a downtrend. During its most recent four-month decline, CryptoRanks reported that Ethereum closed September down by 5.59%. The downtrend accelerated at the end of November, with the cryptocurrency crashing by 22.2%, more than four times the decline of the previous monthly close. December 2025 saw another month in the red, though the drop was much smaller, at just 0.83%. Now, in January 2026, Ethereum is still in a downtrend. On-chain data indicates the cryptocurrency has already fallen 1.78% this month, and shows no sure signs of a bullish reversal. Moreover, at the time of writing, ETH is trading above $2,900, reflecting a roughly 5.95% decline over the past week. What A Red January Could Mean For ETH The last time Ethereum closed five consecutive months in the red was in 2018. That year, Ethereum significantly underperformed, recording gains in only 3 of 12 months. The cryptocurrency had posted continuous monthly losses, with November marking its steepest monthly decline at 42.5%. Related Reading: Ethereum Funding Rates Pushing Towards Negative: What’s Going On? After the four-month closing streak, Ethereum’s downtrend persisted for another two months before experiencing a sharp but brief recovery in December 2018. Despite this temporary rebound, the cryptocurrency closed January 2019 in the red, falling 20%. If history were to repeat itself in the current cycle, Ethereum could end January in a decline, similar to its 2018 performance. Interestingly, historical data shows that February has often been a bullish month for ETH. However, 2025 has seen declines from January through to April; it’s uncertain if Ethereum will follow past bullish patterns. For now, what is certain is that ETH’s price is down and would need a significant boost in its bullish momentum. Featured image from iStock, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|altcoin|CryptoRank|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57516874,
-    "published": 1769550998000,
-    "title": "Crypto Funds Funneled To Money Launderers Hit $82 Billion, According To Chainalysis",
-    "body": "Blockchain analytics firm Chainalysis has released a new report highlighting a sharp escalation in crypto-based money laundering, warning that Chinese-language money laundering networks are emerging as one of the most serious and rapidly growing threats in the digital asset ecosystem. The Rise of Chinese‑Language Networks In Crypto Crime According to the report, illicit on‑chain money laundering activity has expanded dramatically over the past five years. In 2020, crypto-related laundering was estimated to be around $10 billion. By 2025, that figure had climbed to more than $82 billion. A key driver behind this growth has been the rapid rise of Chinese‑language money laundering networks, often referred to as CMLNs. In 2025, these networks accounted for roughly 20% of all identified illicit crypto laundering activity on‑chain. Related Reading: XRP Outlook For 2026: AI Model Signals New Record Ahead — Can Price Reach $6? Chainalysis noted that this regional concentration is further supported by off‑ramping behavior observed on the blockchain. As detailed in the report, CMLNs now routinely launder more than 10% of funds stolen through so‑called “pig butchering” scams. The pace at which these networks have grown stands out even within the broader crypto crime landscape. Since 2020, inflows to identified CMLNs have increased 7,325 times faster than those to centralized exchanges (CEXs). Growth has also outstripped other laundering channels, expanding 1,810 times faster than decentralized finance (DeFi) platforms and 2,190 times faster than illicit on‑chain flows that remain within criminal ecosystems. While CMLNs are not the only actors involved in crypto laundering, Chainalysis found that Chinese‑language, Telegram‑based services now represent a disproportionately large share of attributed global laundering activity. Cross‑Border Crime At Scale The report also shows that CMLNs function openly across multiple platforms and rely on complex, multi‑layered systems. Their operations are characterized by industrial‑level processing capacity and a high degree of technical sophistication. In 2025 alone, Chainalysis identified six distinct service types that together form the CMLN ecosystem. Combined, these services processed $16.1 billion in illicit inflows during the year. The number of active entities within these networks has also grown rapidly, expanding from a small number of wallets just a few years ago to more than 1,799 active on‑chain wallets in 2025. Related Reading: Tether Reveals Massive Gold Accumulation In Q4: Adds 27 Tons To Reserves Tom Keatinge, Director at the Centre for Finance & Security at the Royal United Services Institute, said the speed and scale of these networks are the result of converging global forces. He noted that Chinese money laundering networks have rapidly evolved into “multi‑billion‑dollar cross‑border operations” offering efficient and competitively priced services to organized crime groups across Europe and North America. Chris Urben, Managing Director at Nardello & Co, highlighted another major shift within these networks. He explained that Chinese money laundering groups have increasingly moved away from informal value transfer systems, such as traditional underground banking methods. Instead, Urben emphasized that these criminals have embraced cryptocurrencies as a “faster and more discreet way” to move funds across borders, eliminating the need for complex manual ledgers spread across multiple jurisdictions. Featured image from DALL-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Breaking News Ticker|chainalysis|criminal activity|crypto|Crypto Crime|crypto market|crypto news|cryptocurrency|illicit crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57517006,
-    "published": 1769551149000,
-    "title": "US Marshals confirm probe into $40M theft claims involving seized crypto",
-    "body": "The US Marshals Service confirmed “the matter is under investigation” following claims that millions in government-seized crypto was stolen.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57517506,
-    "published": 1769552863000,
-    "title": "Circle faces first major 'threat' for institutional dollars from Tether’s USAT",
-    "body": "While Circle's USDC has operated without a \"credible domestic competitor,\" Tether's USAT has the potential to shake up the landscape, analysts said.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Tether|Anchorage Digital|Circle|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57518316,
-    "published": 1769554859000,
-    "title": "Analyst Says Chainlik Price Could Crash 50% If This Level Fails",
-    "body": "Chainlink is approaching a technically sensitive area with a growing downside risk on higher timeframes that was flagged by a crypto analyst. Based on a recent technical analysis on X, the analyst noted that LINK’s current weekly structure leaves the market vulnerable if an important support zone around $10 gives way. The price action is still holding above that area for now, but the chart shows that a decisive move below it could quickly change the outlook into a bearish mood. Head And Shoulders Formation On Weekly Timeframe According to a popular crypto analyst known as CryptoBullet on X, LINK’s weekly chart has carved out a standard head and shoulders formation. Based on the rules of technical analysis, the Head and Shoulders (H&S) pattern is bearish. The pattern resolves bearish when there is a confirmed break below the neckline resistance. Related Reading: Bitcoin Price Prediction: Analyst Forecasts 72.86% Crash To $30,000 Technical analysis of Chainlink’s price action shows the left shoulder formed during the early stages of the 2024 recovery, followed by a higher peak that marked the head in early 2025. This was then followed by another lower high that completed the right shoulder in the second half of 2025. However, the most important zone to watch is the neckline support, which slopes slightly upward and is currently sitting in the $10 to $11 region. This support zone has acted as structural support during multiple pullbacks while the head and shoulders pattern was taking shape, making it the most important level to watch going forward. As long as the price holds above it, then the pattern is unconfirmed. ChainLink Price Chart. Source: @CryptoBullet1 on X Losing Support Level And Price Targets The analyst cautioned that a decisive weekly close below the neckline would activate the bearish setup. In technical analysis, a confirmed head and shoulders breakdown is known to open the path to a measured move equal to the height of the pattern. Applied here, that projection places LINK’s downside target in the $4 to $5 range, which would represent just about a 50% decline from current price levels. CryptoBullet described this outcome as the lowest area LINK could reach this year if there’s strong selling pressure, and that such a move would only come into play if support fails very quickly. Related Reading: Ripple’s Next Steps: Where XRP Stops Being Trade And Starts Being Infrastrucutre Notably, the analysis also pointed to an intermediate level that could act as a stopping point that might stop LINK from crashing to $4. A more conservative downside target is around $7.15, which is connected with the Point of Control on the Volume Range Visible Profile and overlaps with the 2022 to 2023 accumulation zone that’s shown on the chart above. At the time of writing, LINK is trading at $11.98, up by 1.1% in the past 24 hours but down by 5.4% in a seven-day timeframe. A rebound from the neckline area would shift the short-term outlook to a relief bounce. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Chainlink|chainlink|Chainlink news|Chainlink price|Link|LINK news|link price|LINKUSD|linkusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57519400,
-    "published": 1769557613000,
-    "title": "WhatsApp Lawsuit Draws Skepticism From Cryptographers, Privacy Lawyers",
-    "body": "A proposed class action accusing Meta of accessing WhatsApp messages is drawing early skepticism from experts, claiming it lacks evidence.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57519890,
-    "published": 1769558871000,
-    "title": "Bitcoin Seen Entering a More Stable Phase, Coinbase and Glassnode Say",
-    "body": "New analysis points to steadier market conditions for Bitcoin as liquidity support holds and investors shift toward hedging over leverage.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57521112,
-    "published": 1769562050000,
-    "title": "Bitcoin Hiring Surged In 2025 As 1,800 Positions Hit The Market",
-    "body": "According to the Bitvocation 2025 Bitcoin Jobs Data report, a total of 1,801 Bitcoin-related job openings were posted last year. That number was about 6% higher than the 1,707 listings recorded in 2024. Related Reading: Bitcoin’s Sharp Reversal Leaves Over $800 Million Liquidated In 1 Day Many of the new roles were not for engineers. Non-technical positions — like product managers, marketing leads, and executive support — made up roughly 74% of the openings. This points to firms trying to build stronger day-to-day operations as they grow. Hiring Hot Spots And Fast Movers Reports say the US kept its lead with around 500 listings. But Singapore recorded the fastest jump, with job postings rising by close to 160% year over year, pushing it up the rankings. Some smaller markets also stood out: a few countries in Europe and Asia showed sizable gains, while Switzerland saw a sharp drop in opportunities. Companies appear to be spreading hiring across more places, not just the usual tech hubs. Companies And Roles That Stood Out More than 150 Bitcoin-first firms advertised roles in 2025. Miner companies and payment firms were among the busiest hirers, and a handful of names filled a lot of listings. Director-level spots increased dramatically, by a factor of about 10, as teams added senior hires to manage growth. Remote work dipped. The share of fully remote jobs fell from about 53% to 45%, which suggests more roles now need some physical presence or hybrid schedules. A Tough Match For Some Jobs Reports note that specialized technical roles remain hard to fill. Finding developers with deep Bitcoin protocol knowledge and experience with Lightning remains a challenge for recruiters. At the same time, companies say they want people who understand Bitcoin’s culture and can work within a team. That mix is rare. Salaries were not always listed, but some senior positions had clear compensation bands, signaling firms are willing to pay for experience. Related Reading: Crypto’s Q4 Weakness Mirrors Pre-Rebound 2023: Analysts What This Means For Job Seekers For candidates, the market now rewards broader skill sets. People who can write, manage products, or run operations with a basic grasp of Bitcoin found more openings. Recruiters preferred people who could move between tasks and handle multiple responsibilities, because many teams remained small even as hiring increased. Featured image from Pexels, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|bitcoin hiring|btc|btcusd|crypto|digital currency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57522500,
     "published": 1769565603000,
     "title": "Bitcoin Derivatives Pressure Hits 30-Day Extreme, Price Refuses To Break",
@@ -3030,6 +2650,222 @@
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57546874,
+    "published": 1769635856000,
+    "title": "Ripple takes blockchain into the back office with new treasury platform",
+    "body": "Built on Ripple’s GTreasury acquisition, the platform integrates cash management with blockchain settlement as digital assets gain a foothold on corporate balance sheets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57547520,
+    "published": 1769638003000,
+    "title": "Bitcoin Backers, Cypherpunks Sour on Trump Following Fatal Minneapolis Shooting",
+    "body": "Some members of the crypto industry are publicly distancing themselves from President Trump after the killing of Alex Pretti—and the White House's comments around it.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57547941,
+    "published": 1769639438000,
+    "title": "Bitcoin Supply In Loss Turns Upward—Early Bear Market Signal?",
+    "body": "On-chain data shows the Bitcoin Supply in Loss indicator has witnessed a shift in direction that has often led into bearish phases in past cycles. 365-Day SMA Of The Bitcoin Supply In Loss Has Been Rising Recently As pointed out by an analyst in a CryptoQuant Quicktake post, the Bitcoin Supply in Loss has started to trend up again. This metric measures, as its name suggests, the percentage of the total BTC circulating supply that’s currently being held at some net unrealized loss. Related Reading: Next Ethereum Move Hinges On This Level, Says Glassnode Analyst The indicator works by scanning through the transaction history of each token in circulation to determine the price at which it was last transacted on the network. If this previous transaction value for any coin was greater than the latest spot price, then the metric assumes that particular token to be underwater. The Supply in Loss adds up all coins falling in this category and finds what part of the supply they make up for. A counterpart metric known as the Supply in Profit tracks the supply of the opposite type. Since the total supply must add up to a 100%, however, the Supply in Profit is simply equal to the Supply in Loss subtracted from 100. Now, here is a chart that shows the trend in the 365-day simple moving average (SMA) of the Bitcoin Supply in Loss over the cryptocurrency’s history: As displayed in the above graph, the 365-day SMA Bitcoin Supply in Loss plummeted to the lowest point for the cycle back in October. This plunge came as the asset rallied to a new all-time high (ATH) beyond the $126,000 level. Since the low, however, the indictor has witnessed a rapid climb, a consequence of the bearish momentum that BTC has faced following its ATH. So far, the indicator hasn’t risen to a significant level compared to past capitulation levels, but the change in direction has been solidifying itself. “Historically, this shift has marked the early phase of bear markets, when losses begin to spread beyond short-term holders and gradually reach longer-term participants,” explained the quant. From the chart, it’s visible that bearish transitions in past cycles occurred as the indicator shot up, with a high value in it coinciding with the cycle bottom. Related Reading: Bitcoin Social Interest Fades As Retail Chases Gold, Silver Hype Whether the recent reversal in the Supply in Loss is the beginning of something similar only remains to be seen. Earlier in this cycle, an upward turn in the indicator ended up only being temporary, as the H1-2025 drawdown gave way to renewed bullish momentum rather than a prolonged bear phase. BTC Price At the time of writing, Bitcoin is trading around $89,000, up over 1% in the last 24 hours. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin bear market|Bitcoin Supply In Loss|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57547752,
+    "published": 1769638837000,
+    "title": "Gemini Launches Zcash Credit Card That Pays ZEC Rewards",
+    "body": "Publicly traded crypto exchange Gemini launched a new Zcash-themed credit card that pays ZEC rewards to holders.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "zcash|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 61,
+        "NAME": "ZEC",
+        "CATEGORY": "ZEC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57548210,
+    "published": 1769640244000,
+    "title": "World token jumps 27% as Sam Altman reportedly eyes a biometric social network to kill off bots",
+    "body": "The WLD token surged after Forbes reported that Sam Altman's OpenAI is planning to use Worldcoin to fight bots online.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 145,
+        "NAME": "WLD",
+        "CATEGORY": "WLD"
+      }
+    ]
+  },
+  {
+    "id": 57548713,
+    "published": 1769641602000,
+    "title": "US crypto industry raises record war chest for midterm election campaigns",
+    "body": "Fairshake political action committee has amassed $193mn to support candidates sympathetic to the sector",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Financial Times (Crypto)",
+      "source_key": "financialtimes_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
