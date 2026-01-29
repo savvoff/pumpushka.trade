@@ -1,397 +1,5 @@
 [
   {
-    "id": 57526097,
-    "published": 1769574821000,
-    "title": "Bitwise Registers Uniswap ETF Trust in Early Step Toward Potential Filing",
-    "body": "The filing comes after regulators closed their probe into Uniswap Labs, shifting attention from enforcement toward questions over liquidity.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 53,
-        "NAME": "UNI",
-        "CATEGORY": "UNI"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57526671,
-    "published": 1769576453000,
-    "title": "Record Pain: Bitcoin Investors Suffer $4.5B Loss, Most In 3 Years",
-    "body": "Reports note that Bitcoin holders realized large losses as prices slid, and the headline number is hard to ignore. According to on-chain tracker CryptoQuant, about $4.5 billion in net losses was recorded on January 23. Related Reading: Bitcoin Influencers Get Spotlight In X’s New ‘Starterpacks’ That number reflects moved coins sold at prices lower than when they were bought. It is a big transfer of paper pain into real losses. Realized Losses Spike While the dollar figure grabs attention, the meaning is what matters. Many who bought late in the run higher are choosing to sell rather than hold through more decline. That behavior shows frustration. Reports say the Net Realized Profit and Loss metric tallies this by comparing sell prices to purchase prices, and a negative reading this large signals a wave of capitulation. Some larger, long-term holders have been quieter. Their activity appears muted while smaller and mid-term participants make the day-to-day moves. According to analyst posts on CryptoQuant, this mix — quiet big holders and active smaller sellers — is common during corrective stretches. It does not automatically mean the market is broken; it means sentiment has shifted toward caution. $4.5 Billion in Realized Loss on Bitcoin “Highest amount of realized losses in three years. The last time this occurred in Bitcoin, the price was trading at $28,000 after a brief correction period that lasted about a year.” – By @gaah_im pic.twitter.com/OJ7bbL3RSC — CryptoQuant.com (@cryptoquant_com) January 26, 2026 Bitcoin Price Action Midway through the week, Bitcoin traded around the mid-$80,000s, well below the $90,000 mark that some investors had eyed as a key level. Market chatter shows traders watching macro cues like the US Federal Reserve and inflation data for guidance. Volatility has not disappeared; it has simply become more tied to broader economic signals than to isolated crypto headlines. Whale addresses appeared to step in at times, helping to hold local price floors. But many traders remain cautious. Reports note that geopolitical headlines can cause quick swings, yet the current movement looks more like slow digestion of profit and repositioning than explosive panic selling. Activity on spot exchanges and ETF flows has been variable, reflecting the mixed mood across the market. Related Reading: XRP Showing Strength, Analyst Points To $4 Potential Capitulation Has Come Before Similar loss spikes were seen in March 2023, when realized losses reached close to $6 billion, and in November 2022, when losses hit roughly $4.3 billion. These events were followed by consolidation and then eventual recovery. Based on reports from analytics firms and market observers, spikes in realized losses can mark the late stages of selling pressure, after which the market sometimes finds a base. Featured image from Pexel, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|canada|crypto|etf|tariffs|Trump",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57526663,
-    "published": 1769576416000,
-    "title": "Tether scores $5bn windfall as gold price rockets",
-    "body": "Stablecoin company owns at least 116 tonnes of bullion, making it one of biggest winners from blistering rally",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57526529,
-    "published": 1769575898000,
-    "title": "Coinbase moves closer toward rolling out ‘custom stablecoins’",
-    "body": "Coinbase has been working with Solflare, R2, and Flipcash to bring custom stablecoins to market, with the latest testing focused on Flipcash's USDF.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57526836,
-    "published": 1769576906000,
-    "title": "Solana (SOL) Recovery Reaches A Level That Changes Everything",
-    "body": "Solana started a recovery wave above the $125 zone. SOL price is now consolidating and faces hurdles near the $128 zone. SOL price started a decent recovery wave above $122 and $125 against the US Dollar. The price is now trading above $125 and the 100-hourly simple moving average. There was a break above a key bearish trend line with resistance at $124 on the hourly chart of the SOL/USD pair (data source from Kraken). The price could continue to move up if it clears $128 and $130. Solana Price Faces Resistance Solana price remained stable and started a decent recovery wave from $118, like Bitcoin and Ethereum . SOL was able to climb above the $122 level. There was a move above the 61.8% Fib retracement level of the downward move from the $132 swing high to the $117 low. Besides, there was a break above a key bearish trend line with resistance at $124 on the hourly chart of the SOL/USD pair. The bulls even pushed the price above $125. However, the bears remained active near $128. Solana is now trading above $125 and the 100-hourly simple moving average. On the upside, immediate resistance is near the $128 level, and the 76.4% Fib retracement level of the downward move from the $132 swing high to the $117 low. The next major resistance is near the $130 level. The main resistance could be $135. A successful close above the $135 resistance zone could set the pace for another steady increase. The next key resistance is $142. Any more gains might send the price toward the $145 level. Another Decline In SOL? If SOL fails to rise above the $128 resistance, it could continue to move down. Initial support on the downside is near the $124.50 zone. The first major support is near the $122 level. A break below the $122 level might send the price toward the $117 support zone. If there is a close below the $117 support, the price could decline toward the $105 zone in the near term. Technical Indicators Hourly MACD – The MACD for SOL/USD is losing pace in the bullish zone. Hourly Hours RSI (Relative Strength Index) – The RSI for SOL/USD is above the 50 level. Major Support Levels – $125 and $122. Major Resistance Levels – $128 and $130.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Technical analysis|Sol|Solana|solbtc|SOLUSD|SOLUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57527365,
-    "published": 1769578249000,
-    "title": "Coinbase Shares Extend Losses as It Expands Into New Metal Futures",
-    "body": "Experts say the metals expansion builds infrastructure, not a near-term volatility hedge, as Coinbase stock falls 46% from its peak.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57527282,
-    "published": 1769578044000,
-    "title": "Top stablecoins shrink as crypto cash flees, posing risk to bitcoin's bounce",
-    "body": "USDC leads the decline in the market cap of top stablecoins, posing risk to crypto market valuations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Stablecoin|Tether|USDC|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57527660,
-    "published": 1769578889000,
-    "title": "A Fed move to backstop Japan bonds could boost Bitcoin: Arthur Hayes",
-    "body": "BitMEX founder Arthur Hayes says the yen is weakening while Japanese government bond yields are rising, which could lead to Japanese investors selling US Treasuries.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57527494,
-    "published": 1769578528000,
-    "title": "UK bans Coinbase ads that ‘trivialized’ crypto risks: Report",
-    "body": "Coinbase’s musical ad depicting a run-down UK, which was already blacklisted from TV, has reportedly seen a wider ban by the country’s ad watchdog for being “irresponsible.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57528523,
-    "published": 1769581092000,
-    "title": "Crypto launderers are turning away from centralized exchanges: Chainalysis",
-    "body": "Chainalysis says the on-chain money laundering ecosystem processed $82 billion in funds in 2025, with Chinese-language networks now dominating.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57529052,
     "published": 1769582660000,
     "title": "BTC, ETH, SOL move higher as markets eye Fed, Mag 7 earnings and weaker dollar",
@@ -2822,6 +2430,445 @@
         "ID": 145,
         "NAME": "WLD",
         "CATEGORY": "WLD"
+      }
+    ]
+  },
+  {
+    "id": 57554317,
+    "published": 1769660332000,
+    "title": "XRP Price Signals Vulnerability With Another Drop On The Table",
+    "body": "XRP price failed to surpass $1.950 and started another decline. The price is now correcting gains and might struggle to stay above $1.860. XRP price started a downside correction and declined below $1.90. The price is now trading below $1.890 and the 100-hourly Simple Moving Average. There was a break below a key bullish trend line with support at $1.910 on the hourly chart of the XRP/USD pair (data source from Kraken). The pair could start another increase if it stays above $1.860. XRP Price Dips Further XRP price failed to clear $1.950 and started a downside correction, like Bitcoin and Ethereum . The price dipped below the $1.90 and $1.880 levels to enter a negative zone. The price even dipped below the 50% Fib retracement level of the upward move from the $1.810 swing low to the $1.945 high. Besides, there was a break below a key bullish trend line with support at $1.910 on the hourly chart of the XRP/USD pair. The price is now trading below $1.880 and the 100-hourly Simple Moving Average. If there is a fresh upward move, the price might face resistance near the $1.90 level. The first major resistance is near the $1.9250 level, above which the price could rise and test $1.950. A clear move above the $1.950 resistance might send the price toward the $2.00 resistance. Any more gains might send the price toward the $2.00 resistance. The next major hurdle for the bulls might be near $2.050. More Losses? If XRP fails to clear the $1.9250 resistance zone, it could start a fresh decline. Initial support on the downside is near the $1.860 level and the 61.8% Fib retracement level of the upward move from the $1.810 swing low to the $1.945 high. The next major support is near the $1.8420 level. If there is a downside break and a close below the $1.8420 level, the price might continue to decline toward $1.820. The next major support sits near the $1.80 zone, below which the price could continue lower toward $1.7650. Technical Indicators Hourly MACD – The MACD for XRP/USD is now gaining pace in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for XRP/USD is now below the 50 level. Major Support Levels – $1.860 and $1.8420. Major Resistance Levels – $1.9250 and $1.950.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|XRPBTC|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57554752,
+    "published": 1769661522000,
+    "title": "SEC clarifies rules for tokenized stocks, tightening scrutiny on synthetic equity",
+    "body": "The agency says issuer approval is required for true tokenized ownership, warning that many stock tokens sold to retail investors provide only indirect or synthetic exposure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Securities and Exchange Commission|Tokenized Securities|Robinhood|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57555179,
+    "published": 1769662806000,
+    "title": "Bitcoin Supply In Loss Begins To Rise, Raising Early Bear Market Concerns",
+    "body": "Crypto research firm CryptoQuant has flagged a potentially troubling development for Bitcoin (BTC) and the wider digital asset market, pointing to an early warning signal that has historically appeared ahead of prolonged downturns. In a report released Wednesday, the firm noted that Bitcoin’s supply in loss metric has begun to rise again, a shift that has often marked the early stages of past bear markets. Possible Shift Toward Bear Market Structure According to analysis by CryptoQuant contributor Woominkyu, increases in supply held at a loss tend to signal that market weakness is spreading beyond short‑term traders and gradually affecting longer‑term holders. In previous market cycles, including 2014, 2018, and 2022, this indicator started trending upward well before prices reached their eventual lows. Related Reading: Bitcoin Price Braces For FOMC Volatility As History Shows Major Post‑Fed Sell‑Offs During those periods, Bitcoin prices continued to decline even after the metric turned higher, with true market bottoms forming only once supply in loss expanded much further and broader capitulation set in. At present, CryptoQuant notes that Bitcoin’s supply in loss remains well below levels typically associated with full market capitulation. However, the change in direction itself is significant. The analysts say it suggests the market may be shifting into a bearish structural phase, rather than experiencing a brief correction within an ongoing bull market. Bitcoin’s recent price action appears to reflect that uncertainty. The asset is currently trading around $89,700 and has struggled to reclaim the key $90,000 level as support. This follows a steady decline from earlier yearly-highs near $98,000, where upward momentum faded as buying pressure weakened and gains recorded at the start of the year were fully erased. US Dollar Tests Historic Zone For Bitcoin Rallies Despite these cautionary signals, not all analysts believe the outlook is entirely negative. Analysts at Bull Theory have highlighted a potentially bullish catalyst that could emerge in the months ahead, centered on movements in the US dollar. In a recent post on social media platform X (previously Twitter) the firm pointed out that the US Dollar Index is testing the same zone that preceded major Bitcoin bull runs in both 2017 and 2021. According to their analysis, the Dollar Index has broken below a long‑term trendline that has held for roughly 16 years and is now hovering around the critical level of 96. Historically, periods when the DXY fell below 96 and remained there coincided with strong Bitcoin rallies. Related Reading: Crypto Funds Funneled To Money Launderers Hit $82 Billion, According To Chainalysis As seen in the chart below, in mid‑2017, the index dropped under that level, after which Bitcoin surged nearly eightfold over the following five to six months. A similar pattern played out during the 2020 pandemic era. When a wave of liquidity entered financial markets at the time, the DXY again slipped below 96, and Bitcoin went on to rise roughly seven times over the next seven to eight months. During that same period, Ethereum (ETH) and many altcoins posted gains of tenfold or more. For now, the market sits at a crossroads. On‑chain data points to early bear‑market dynamics, while macro signals linked to the US dollar offer a counter‑narrative that could favor renewed strength. Featured image from OpenArt, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin chart|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57555354,
+    "published": 1769663292000,
+    "title": "Dogecoin (DOGE) Slips Back As Bears Regain The Upper Hand",
+    "body": "Dogecoin corrected some gains and traded below $0.1220 against the US Dollar. DOGE is now holding the $0.120 support but might decline further. DOGE price started a fresh downside correction from $0.1275. The price is trading below the $0.1225 level and the 100-hourly simple moving average. There was a break below a bullish trend line with support at $0.1245 on the hourly chart of the DOGE/USD pair (data source from Kraken). The price could aim for a fresh increase if it remains stable above $0.1200. Dogecoin Price Trims Gains Dogecoin price started a downside correction after it failed to clear $0.1275, like Bitcoin and Ethereum . DOGE declined below the $0.1250 and $0.1245 levels. There was a move below the 50% Fib retracement level of the upward move from the $0.1175 swing low to the $0.1275 high. Besides, there was a break below a bullish trend line with support at $0.1245 on the hourly chart of the DOGE/USD pair. Dogecoin price is now trading below the $0.1225 level and the 100-hourly simple moving average. Immediate resistance on the upside is near the $0.1235 level. The first major resistance for the bulls could be near the $0.1250 level. The next major resistance is near the $0.1275 level. A close above the $0.1275 resistance might send the price toward $0.1350. Any more gains might send the price toward $0.1380. The next major stop for the bulls might be $0.1420. More Losses In DOGE? If DOGE’s price fails to climb above the $0.1250 level, it could continue to move down. Initial support on the downside is near the $0.120 level and the 76.4% Fib retracement level of the upward move from the $0.1175 swing low to the $0.1275 high. The next major support is near the $0.1192 level. The main support sits at $0.1150. If there is a downside break below the $0.1150 support, the price could decline further. In the stated case, the price might slide toward the $0.1080 level or even $0.1050 in the near term. Technical Indicators Hourly MACD – The MACD for DOGE/USD is now gaining momentum in the bearish zone. Hourly RSI (Relative Strength Index) – The RSI for DOGE/USD is now below the 50 level. Major Support Levels – $0.1200 and $0.1150. Major Resistance Levels – $0.1250 and $0.1275.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "DOGE|DOGE news|Doge price|DOGE USD|DOGE/BTC|DOGE/USDT|Dogecoin|Dogecoin news|dogecoin price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57555767,
+    "published": 1769664518000,
+    "title": "Bitcoin trader warns of downside as gold rally continues to pull focus from BTC",
+    "body": "Crypto prices stabilized after an early-week dip, but bitcoin continued to trail gold and silver as macro trades dominated after the Fed’s policy hold.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57555644,
+    "published": 1769664134000,
+    "title": "First gold and silver, now oil's starting to rally and that's bad news for bitcoin",
+    "body": "Higher oil prices could add to inflation, making it harder for the Fed to cut rates rapidly.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crude Oil|Bitcoin News|crypto markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 16,
+        "NAME": "COMMODITY",
+        "CATEGORY": "COMMODITY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57556131,
+    "published": 1769665378000,
+    "title": "Australia Fines Qoin Wallet Operator $14 Million for Unlicensed Activity",
+    "body": "The ruling marks one of the largest court-imposed penalties yet tied to crypto marketing practices in Australia.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57556452,
+    "published": 1769666417000,
+    "title": "Bitcoin Death Cross That Last Preceded A 66% Drop Is Back",
+    "body": "A cryptocurrency analyst has pointed out how Bitcoin has recently formed a technical crossover that preceded bearish shifts in the past. Bitcoin Has Seen A Death Cross Between 21-Day & 50-Day SMAs In a new post on X, analyst Ali Martinez has shared a daily price chart for Bitcoin showcasing a crossover between two simple moving averages (SMAs) that the asset has gone through recently. An SMA is a statistical tool that averages a quantity over a given period of time and that, as its name suggests, updates in time with the quantity. This tool can be useful for studying long-term trends, as it smooths out the graph by eliminating short-term fluctuations. Related Reading: Bitcoin Supply In Loss Turns Upward—Early Bear Market Signal? SMAs can be taken over any window, but in the context of the current topic, two specific periods are of relevance: 21-day and 50-day. Below is the chart posted by Martinez that shows the trend in these SMAs for Bitcoin over the past decade. From the graph, it’s visible that the daily Bitcoin price has seen its 21-day SMA fall below the 50-day one recently. In the past, this crossover has tended to act as a “death cross” for the cryptocurrency, with its price plunging after the signal’s appearance. In the chart, the analyst has highlighted the previous instances of this death cross. It would appear that the asset experienced drawdowns ranging between 54% and 69% following the crossover. The most recent occurrence of the crossover was in 2022, leading into a price decline of almost 66% to the bear market bottom. Given the past pattern, it only remains to be seen whether the 21-day SMA going below the 50-day SMA will prove to be bearish for Bitcoin this time. In the scenario that bearish momentum does follow for the asset, it could be at risk of breaching below an on-chain level known as the Realized Price-to-Liveliness Ratio. This level represents the ratio between two on-chain indicators: the Realized Price and Liveliness. The first of these tracks the cost basis of the average investor or address on the Bitcoin blockchain, while the latter encapsulates the spending/HODLing behavior of long-term investors. As Martinez has highlighted in another X post, Bitcoin has been trading near the Realized Price-to-Liveliness Ratio recently. As displayed in the above graph, the Bitcoin Realized Price-to-Liveliness Ratio is situated around $87,500 right now. BTC briefly fell below this mark during the Sunday dip, but the coin has since recovered back above it. Related Reading: Next Ethereum Move Hinges On This Level, Says Glassnode Analyst “The last time Bitcoin $BTC fell below the Realized Price-to-Liveliness Ratio, it moved toward the Realized Price,” noted the analyst. Currently, the Realized Price is located at $56,000. BTC Price At the time of writing, Bitcoin is floating around $89,500, up 2% in the last seven days. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Death Cross|bitcoin signal|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57556449,
+    "published": 1769666400000,
+    "title": "UAE's central bank has approved a USD-backed stablecoin",
+    "body": "The USDU stablecoin is issued by Universal Digital, a crypto firm regulated by the Financial Services Regulatory Authority (FSRA) of Abu Dhabi Global Market (ADGM).",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Stablecoin|UAE|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57556355,
+    "published": 1769666038000,
+    "title": "Cere Network co-founder, board face $100M lawsuit over token sales",
+    "body": "Cere Network is facing a second lawsuit this month that accuses its co-founder and board of fraud in relation to a public token launch for the platform in 2021.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 205,
+        "NAME": "TOKEN SALE",
+        "CATEGORY": "TOKEN SALE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57556256,
+    "published": 1769665656000,
+    "title": "XRP millionaire wallets are ramping up in 'encouraging sign': Santiment",
+    "body": "The rise in XRP wallets holding more than 1 million tokens comes despite a weakening of broader crypto market sentiment, with a popular crypto indicator sitting in “fear” territory.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
