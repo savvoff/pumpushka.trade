@@ -1,145 +1,5 @@
 [
   {
-    "id": 57565500,
-    "published": 1769695031000,
-    "title": "Robinhood is investing in crypto trading platform Talos at $1.5 billion valuation",
-    "body": "The $45 million Series B extension also includes participation from new strategic investors Sony Innovation Fund, IMC, QCP and Karatage.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Robinhood|Talos|Fundraising|Crypto Trading|Exclusive|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57565690,
-    "published": 1769695863000,
-    "title": "Morning Minute: Gold Soars Toward $5,600; Bitcoin Falls",
-    "body": "Gold continues its parabolic rally, up 100% over the past year and seemingly finding new highs by the day. When will Bitcoin have its turn?",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57565566,
-    "published": 1769695156000,
-    "title": "Single Bitcoin entity keeping BTC price 'suppressed' below $90K: Analysis",
-    "body": "Bitcoin order-book analysis said that BTC price action was being held back by just one trading entity, while risking a trip to \"Bearadise.\"",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57566234,
-    "published": 1769697854000,
-    "title": "DePIN rebounds into a $10B overlooked sector: Messari",
-    "body": "DePIN’s “death” narrative hides a market that’s quietly compounding revenues, as Messari’s new report pegs the sector at $10 billion with growing real‑world usage and cash flow.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 57567116,
     "published": 1769700640000,
     "title": "XRP Price At $10,000 Is Not A Prophecy: Analyst Shares Simple Framework That Points Higher",
@@ -2726,6 +2586,339 @@
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57592203,
+    "published": 1769777071000,
+    "title": "XRP-linked Ripple rolls out treasury platform after $1 billion GTreasury deal",
+    "body": "New product lets companies manage cash, stablecoins and tokenized funds in one system, cutting cross-border settlement times from days to seconds.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57592104,
+    "published": 1769776452000,
+    "title": "Bitcoin, Ether ETFs see $1B outflows as crypto market tumbles 6%",
+    "body": "US spot Bitcoin ETF flows turned negative for January after a series of outflows this week totaling nearly $1 billion, data from SoSoValue show.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57592037,
+    "published": 1769776200000,
+    "title": "There is no trust in DeFi without proper risk management",
+    "body": "DeFi's composability creates cascading exploit risks while protocols handle risk idiosyncratically. Institutional adoption demands TradFi-style standardized frameworks.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57592751,
+    "published": 1769778834000,
+    "title": "Ethereum breaks below $2.8K as charts hint at another 22% ETH price drop",
+    "body": "Ethereum dipped below $2,800 as onchain data suggested a transition into a bear market. The technical setup pointed to a $2,100 ETH price.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57593183,
+    "published": 1769780431000,
+    "title": "Trump picks crypto friendly Kevin Warsh as new Fed chair",
+    "body": "US President Donald Trump has nominated former Fed governor Kevin Warsh to replace Jerome Powell as Federal Reserve chair, setting up a Senate confirmation fight.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57593568,
+    "published": 1769781619000,
+    "title": "Bitcoin Suppression? Analyst Claims Single Force Keeping Price Under $90K",
+    "body": "Bitcoin drifted under $83,000 on Thursday as market focus shifted toward how liquidity is stacked on exchanges. Reports say a mix of big orders and tight ranges has left traders feeling boxed in. Some analysts warn that a break under a key level could spark sharper selling, while others point to concentrated buy orders that might cushion a drop. Related Reading: Gold, Silver Steal The Spotlight As Crypto Hype Fades On Social Media: Santiment Order-Book Pressure And Liquidity According to trading-room data, one group or a cluster of large accounts appears to be shaping short-term moves by placing big bids and offers in the order book. This can keep price stuck in a narrow band. Material Indicators’ research flagged a pattern where bids are clustering around $85,000 to $87,500 — a zone that could act like a floor for now. The idea is simple: by piling up liquidity at certain prices, large players can get fills on their orders or discourage quick recoveries before options expiry. Market participants say this kind of behavior can trap less-experienced traders who react to sudden moves. At times, the pressure seems deliberate; at other times, it may be a byproduct of many traders aiming for the same levels. Either way, the result has been choppy price action and rising tension in the book. FireCharts shows $BTC price is being suppressed by one entity using a liquidity herding strategy to push price lower, potentially to get their own bids filled, or possible to keep price pinned in the lower end of this range before Friday’s options expiry. A significant amount of… pic.twitter.com/c63miAxBkh — Material Indicators (@MI_Algos) January 29, 2026 Whales, Wyckoff And The Spring Idea Reports note that a group of traders using Wyckoff-style thinking expects a “spring” — a drop below recent lows that then leads to a strong bounce as heavy hands buy at lower prices. Pseudonymous analysts have pointed to $86,000 as a strong buy wall provided by large orders. One commentator shared charts showing how a quick dip under $80,000 could serve as the spring before a rebound. Some traders view this pattern as part of accumulation. Others see it as a risky setup that could widen losses if support fails. The truth may sit between those views: both accumulation and the risk of a flush are possible in a tense market. Bitcoin Price Action Bitcoin has been moving in a tight range after failing to hold above $90,000. Price slid near $82,300 as fresh worries about monetary policy and world events hit risk assets. Volatility has been low at times and then spikes quickly, which makes trading tricky. Buyers have stepped in at certain levels, but they have not yet forced a clear break higher. Geopolitics And Fed Moves Reports say rising tensions in parts of the Middle East and talk about a new Federal Reserve chair pick have added to uncertainty. Some investors fear tighter policy would drain liquidity from markets and weigh on crypto. Market chatter has even mentioned US President Donald Trump in relation to political shifts that could influence economic policy. Safe-haven flows into other assets have been seen when headlines worsen, and those moves have pulled money away from riskier holdings. Related Reading: Bitcoin’s Slide To $82K Sets Off A $1.7 Billion Chain Reaction Key Levels To Watch Traders should watch the $83,000–$85,000 zone closely. A daily close below $86,000 would be read by many as a negative sign and could open the door to deeper selling. On the flip side, sustained buying at those levels could set up a rally if big liquidity holders decide to lift offers. For most people, patience and clear stop rules matter right now, because the market is being pushed by both order-book tactics and outside news, and either factor can shift price fast. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|btc|btcusd|crypto|iran|Trump|us",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57565566,
+    "published": 1769739247000,
+    "title": "Analyst claims single entity is ‘suppressing’ Bitcoin below $90K",
+    "body": "Bitcoin order-book analysis said that BTC price action was being held back by just one trading entity, while risking a trip to \"Bearadise.\"",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57593942,
+    "published": 1769782500000,
+    "title": "Bitcoin bear market almost over? BTC price metric outpaces 2022 bottom",
+    "body": "Bitcoin's MVRV Z-score printed record lows on a rolling two-year basis, making BTC price more \"undervalued\" than at the pit of past bear markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57594341,
+    "published": 1769784070000,
+    "title": "Morning Minute: Washington Just Gave Crypto the Green Light",
+    "body": "It was a big day for crypto policy in the US yesterday, but work still remains to be done",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
