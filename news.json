@@ -1,543 +1,5 @@
 [
   {
-    "id": 57561414,
-    "published": 1769681699000,
-    "title": "More than half of bitcoin’s invested supply has a cost basis above $88,000",
-    "body": "Most invested bitcoin supply sits above current prices, increasing price vulnerability if key support levels fail.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57561412,
-    "published": 1769681577000,
-    "title": "Bybit is adding bank accounts to its crypto platform with eye on U.S. expansion: Bloomberg",
-    "body": "The exchange is working with local banks like Pave Bank to enable fiat-to-crypto conversions and encourage digital asset adoption.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Bybit|Crypto Exchanges|Fiat-Crypto Exchange|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57561226,
-    "published": 1769680991000,
-    "title": "South Korea tightens crypto licensing rules for exchanges and shareholders",
-    "body": "Regulators gain wider discretion to vet shareholders, finances and controls as South Korea tightens crypto market access.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57561210,
-    "published": 1769680862000,
-    "title": "DePIN Data Layer AIOZ Pin Pushes to Keep Web3 Files Permanently Online",
-    "body": "AIOZ Pin replicates data into multiple, independent copies that are tamper-proof—meaning it will stay accessible for years to come.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 177,
-        "NAME": "AIOZ",
-        "CATEGORY": "AIOZ"
-      }
-    ]
-  },
-  {
-    "id": 57561884,
-    "published": 1769683136000,
-    "title": "World Liberty Financial’s USD1 Tops $5B Market Cap as TRUMP Meme Coin Stumbles",
-    "body": "Trump-linked stablecoin USD1 is surging on institutional adoption, while the U.S. President’s official meme coin reels from waning hype.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57562241,
-    "published": 1769684439000,
-    "title": "Pundit Says XRP Price Is Not A ‘Crypto’ Question, But A Systemically Important Liquidity Asset",
-    "body": "A crypto analyst has provided a new update on the XRP price, highlighting its role as a systemically important liquidity asset. According to the pundit, its price dynamics go beyond the typical crypto speculation, emphasizing its value as a foundational financial tool for global liquidity, settlement, and treasury management. XRP Price Signals Value Beyond Crypto Speculation On January 27, crypto analyst and investor Rob Cunningham shared a new take on the XRP price that challenges conventional crypto thinking. He emphasized that the question of XRP’s value is not primarily about crypto speculation but about balance sheets, liquidity, and risk management. He also argued that understanding the altcoin requires viewing it as a structural tool within the global financial system rather than just a market-traded asset. Related Reading: XRP’s 173-Day Theory: What Happens If This Historical Trend Plays Out Again Cunningham noted that when XRP is treated as plumbing, neutral collateral, and a source of settlement certainty, its price logic will stop looking like Bitcoin’s. He described XRP as a systemically important liquidity asset, meaning its valuation reflects systemic function rather than market hype. This framing positions XRP as an essential infrastructure for liquidity and cross-border settlement. The crypto pundit also cited a previous commentary from Ripple’s CTO Joel Katz, who reportedly argued that XRP’s price would need to be well above $200 to achieve its intended purpose. According to Katz, this price target is necessary to make the token a cost-effective neutral bridge of liquidity and settlement globally. Building on this, Cunningham concluded that regulatory clarity could come first for XRP, followed by adoption, and that price would then adjust. The analyst underscored the importance of maintaining patience, noting that the token’s future is inevitable once its functional purpose is fully recognized and integrated into global financial systems. Price When Driven By Global Liquidity And Settlement In his post, Cunningham referenced an image illustrating XRP’s potential flow, liquidity, and price relationships. The data highlighted the price levels XRP’s price could reach if driven by global liquidity and settlements. Related Reading: XRP To $11, And Then $70: The Next Impulse Wave To Watch Out For According to the image, if XRP captures just 15% of SWIFT’s annual flow, it would represent $22.5 trillion in yearly liquidity processed through the cryptocurrency. At 25% XRP settlement rate and tight liquidity corridors, the yearly XRP-settled flow would total $5.6 trillion. Notably, the liquidity required to support these flows depends on its velocity, which ranges from 1:6 to 1:12 per year. Based on an annual flow of $5.6 trillion and a buffer of 2x to 5x, Cunningham estimates the required XRP liquidity would range from $280 billion to $700 billion. This calculation reflects the treasury scale of XRP necessary to absorb and settle global flows effectively. The price scenarios in the image show a wide range, depending on settlement and treasury reserve assumptions. The base case assumes a price range of $2.50 to $7.50 for XRP, while full ripple effects could push the token to $10 to $200. If XRP were to function as a major reserve currency, the image suggests its price could reach $50 to $100 or higher. Featured image from Peakpx, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|Joel Katz|Ripple|Rob Cunningham|swift|Treasury Reserve|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57562011,
-    "published": 1769683533000,
-    "title": "Metaplanet approves $137M overseas raise to buy Bitcoin and repay debt",
-    "body": "Metaplanet said proceeds will be used for Bitcoin purchases, its Bitcoin income business, and partial debt repayment as it executes its capital strategy.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57562679,
-    "published": 1769685894000,
-    "title": "OSL Group raises $200M to expand stablecoin and payments business",
-    "body": "Hong Kong-listed OSL Group plans acquisitions and global expansion after securing fresh capital to scale its stablecoin and digital payments business.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 57562667,
-    "published": 1769685147000,
-    "title": "Metaplanet is raising $137 million to pay down debt and buy even more bitcoin",
-    "body": "The Tokyo-based bitcoin treasury company secures fresh capital through a share and warrant issuance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|MetaPlanet|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57563017,
-    "published": 1769687141000,
-    "title": "Crypto Markets Today: Largest tokens decline, with derivatives signaling caution ahead",
-    "body": "Even though the Fed's decision to hold interest rates was widely expected, geopolitical tensions and a rotation into haven assets left crypto traders facing a sea of red.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Altcoins|Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57563243,
-    "published": 1769686498000,
-    "title": "Investors accuse Cere Network of $100 million fraud and token-dump scheme in lawsuit",
-    "body": "Plaintiffs say insiders sold millions of dollars’ worth of tokens immediately after Cere’s 2021 ICO, sending prices into a near-total collapse.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Legal|Blockchain|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 205,
-        "NAME": "TOKEN SALE",
-        "CATEGORY": "TOKEN SALE"
-      }
-    ]
-  },
-  {
-    "id": 57563553,
-    "published": 1769688788000,
-    "title": "Bitcoin vs. gold: Key differences that could position BTC for a big rally",
-    "body": "Bitcoin has been called \"digital gold,\" and some of its key properties may help BTC rally more than the precious metal in percentage terms.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57564076,
-    "published": 1769689803000,
-    "title": "Crypto’s ‘Digital Gold’ Myth Exposed as Traders Pivot to Metals",
-    "body": "Bitcoin’s “digital gold” promise is unraveling as traders forgo the token for surging metals, hurting a narrative that once defined the asset’s macro appeal.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57010975,
-    "published": 1769689800000,
-    "title": "The 24/7 global stock market is impossible on today’s blockchain",
-    "body": "Current blockchain infrastructure has inadequate throughput and systematic front-running. Real-world finance demands sub-second finality and fair transaction ordering.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
     "id": 57565500,
     "published": 1769695031000,
     "title": "Robinhood is investing in crypto trading platform Talos at $1.5 billion valuation",
@@ -2866,6 +2328,403 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57588811,
+    "published": 1769765828000,
+    "title": "U.S. listed bitcoin, ether ETFs bleed nearly $1 billion in a day",
+    "body": "U.S.-listed spot bitcoin and ether ETFs saw one of their worst combined outflow days of 2026 as falling prices, rising volatility and macro uncertainty pushed investors to cut exposure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|Bitcoin ETF|ether ETF|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57589558,
+    "published": 1769768711000,
+    "title": "Binance to convert $1B SAFU reserves into Bitcoin within 30 days",
+    "body": "The shift takes Binance’s insurance-style fund out of US dollar-pegged assets and into Bitcoin within 30 days, raising questions about user protection.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57588727,
+    "published": 1769766534000,
+    "title": "Vitalik Buterin to spend $43 million on Ethereum development",
+    "body": "Ethereum’s co-founder said the $43 million withdrawal will support a broader “full-stack openness and verifiability” vision as the foundation tightens spending.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Ethereum Foundation|Vitalik Buterin|Ethereum News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57589839,
+    "published": 1769769548000,
+    "title": "Former Google Engineer Convicted of Stealing AI Secrets for China",
+    "body": "A U.S. jury found Linwei Ding guilty of economic espionage and trade secret theft after he stole Google’s sensitive AI infrastructure data.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 57589721,
+    "published": 1769769032000,
+    "title": "Bitcoin loses crucial $84K support: How low can BTC price go?",
+    "body": "BTC could drop to as low as $50,000 in the worst-case scenario after BTC price failed to hold the important $84,000 support level.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57590230,
+    "published": 1769770843000,
+    "title": "Solana Could Reach $1,600+ Within Five Years, Bitwise CIO Says",
+    "body": "Matt Hougan, the chief investment officer at Bitwise Asset Management, said he thinks Solana could plausibly become a trillion-dollar asset within five years—an outcome that would roughly translate into a ~$1,600 SOL price on a simple market-cap-per-token basis, depending on circulating supply. Hougan made the remarks on the Jan. 29 episode of When Shift Happens, framing his Solana view through what he called a “two ways to win” setup: growth in the addressable market (stablecoins and tokenized assets), plus an increasing share captured by Solana versus competing networks. Why Solana Could Hit $1,600+ Within 5 Years Hougan argued that the “infrastructure market” for stablecoins and tokenization is expanding quickly enough that large, liquid L1s should be valued less like niche crypto experiments and more like enabling rails for traditional finance. “The US Secretary of Treasury expects the stablecoin market to 12x over the next four years,” he said, adding that Larry Fink has described a future where “every asset, every fund, ETF, stock, bond, real estate will be tokenized.” From there, his Solana thesis leaned heavily on relative positioning. Ethereum remains the incumbent in stablecoins and tokenization, Hougan said, but Solana is “a legit competitor with an interesting technological differentiation,” and crucially “it’s extraordinarily easy to use and the community has a ship first attitude.” Related Reading: Solana Scores Major Institutional Adoption As WisdomTree Goes On-Chain That usability point, in his view, is underpriced by investors who focus on benchmark-style comparisons. “I think ease of use is a killer app that’s underrated by investors,” Hougan said. “Investors like to talk about throughput and they like to talk… TPS… who cares about this? …For an end user who’s trading, who’s on-ramping, ease of use is the killer app. And Solana is just easy to use, just dead easy to use.” Hougan also acknowledged a common investor blind spot: token supply dynamics can separate price action from market cap growth. He noted that Solana’s market value can rise meaningfully even if the token price revisits prior highs, and suggested staking yield partially offsets dilution, citing “roughly like 7% a year.” Another thread in the discussion was how regulation shaped institutional behavior. Hougan said Solana’s footprint in stablecoins and tokenization was constrained during the prior US regulatory environment, arguing that institutions “couldn’t build on Solana” if they believed it sat “outside of the regulatory perimeter.” With that cloud lifting, he said, mandates are starting to broaden. He also described why the ETF wrapper matters more for a smaller asset. “You put a little bit of inflows into an ETF package and they’re chasing a relatively small supply of Solana,” Hougan said. “It’s one of the best setups for an asset that I’ve ever seen because you have this small constrained size, you have significant institutional demand, you have stablecoins and tokenization… you put all that together and it seems like a winner.” Still, he avoided hard price targets and instead stayed in market-cap terms. “In 5 years I think it could be a trillion dollar asset. I think that’s relatively easy to imagine,” he said. “It’s hard to give a precise target because it depends on the pace of growth on stablecoins and tokenization. It depends on whether Congress passes the Clarity Act. It depends on the sort of crypto market cycles.” E156: @Matt_Hougan from @BitwiseInvest – $6.5M Bitcoin and the strongest Solana setup ever? This might be the most bullish yet rational episode we’ve done on the future of crypto: why debasement, institutional flows & tokenization are just getting started. Timestamps: 0:00… pic.twitter.com/WMqvKL7pCj — MR SHIFT 🦁 (@KevinWSHPod) January 29, 2026 On simple market-cap math, a $1 trillion Solana valuation implies a four-figure token price depending on supply. The relationship is straightforward: token price equals market cap divided by supply. Using Solana’s circulating supply of roughly 566 million SOL, a $1 trillion market cap works out to about $1,766 per SOL ($1,000,000,000,000 ÷ 566,000,000). Related Reading: Solana Pauses After 20% Drop — This Key Level Could Decide What’s Next If you instead use a fully diluted-style denominator closer to 619 million SOL, the same $1 trillion market cap implies roughly $1,615 per SOL ($1,000,000,000,000 ÷ 619,000,000). In other words, Hougan’s “trillion-dollar asset” framing maps to something like the mid-$1,000s per token on today’s supply assumptions, with the exact number moving as supply changes. Notably, Hougan’s Solana call sat alongside a broader macro narrative he returned to repeatedly: monetary debasement pushing investors toward scarce and non-sovereign stores of value. On Bitcoin, he argued the “two ways to win” are the store-of-value market expanding and Bitcoin taking share from gold, an arc he said could drive multi-million-dollar BTC over decades if the last 10–15 years of adoption trends persist. For Solana, the equivalent is less about being “digital gold” and more about becoming a primary venue for stablecoin flows and tokenized securities. If those rails scale and if Solana continues gaining share as a high-velocity, institution-friendly network, Hougan’s trillion-dollar scenario implies the market is still pricing the opportunity too conservatively. At press time, SOL traded at $115.40. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Solana|bitwise|Matt Hougan|Sol|SOL news|SOL Price|Solana news|Solana Price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57590778,
+    "published": 1769772600000,
+    "title": "Bitcoin, ether extend declines as leverage unwind accelerates: Crypto Markets Today",
+    "body": "Crypto markets fell further overnight as bitcoin and ether extended losses, metals tumbled and liquidation pressure hit leveraged traders across derivatives markets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57590705,
+    "published": 1769772288000,
+    "title": "Bitcoin ETFs Shed $817M as BTC Hits Nine-Month Low",
+    "body": "Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57590981,
+    "published": 1769773160000,
+    "title": "Vitalik Buterin earmarks $45M in ETH for privacy and open tech",
+    "body": "The move comes as the Ethereum Foundation enters a period of “mild austerity” while sticking to its core technical roadmap, Buterin said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57591425,
+    "published": 1769774495000,
+    "title": "Latin America’s biggest digital bank just won a key battle to offer crypto custody in U.S.",
+    "body": "The Brazilian digital bank announced it received conditional OCC approval to provide deposit accounts, credit cards, lending and digital asset custody in the United States.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Nubank|OCC|banks|Crypto Custody|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57591985,
+    "published": 1769776236000,
+    "title": "Crypto Expert Says The Bitcoin Cycle Is Already Over, Here’s Why",
+    "body": "Questions are already surfacing over whether Bitcoin is still in the expansion phase that many market participants assume it is. However, a crypto expert opted for a conservative stance, arguing that when Bitcoin is analyzed through traditional cycle theory and macroeconomic indicators, the primary cycle may already be complete. This crypto expert, Tony Severino, challenged popular bullish claims from “snake oil salesmen” and instead pointed to economic data and historical patterns that show the Bitcoin cycle has already transitioned into a different phase. PMI And ISM Datan Shows Where Bitcoin Is According to Tony Severino, Bitcoin’s bullish cycle is already over, and analysts saying otherwise are pushing a fairy tale that may or may not come true. Severino’s outlook is based on the U.S. ISM Purchasing Managers’ Index, which he views as a reliable macro gauge for cyclical behavior. Related Reading: Global Liquidity Says Bitcoin Is Extremely Undervalued – Here’s The ‘Real’ Figure The PMI data shown in the chart below highlights a clear pattern of lower highs and lower lows, which is a signal of a weakening manufacturing environment. According to Severino, real cycles are measured from trough to trough, not from speculative projections of future upside. From that perspective, the current PMI structure means that the cycle has already peaked and is now rolling over. At the time of writing, this index is sitting around 47.9. Severino warned that a sustained move below the 46 level would change the PMI from a local pullback into a more pronounced intermediate downtrend. A drop beneath 41.6 would carry even more serious implications, as that level would fall below the COVID-era low. Such a move would leave only extreme historical comparisons, including conditions last seen during the 2007-2009 Great Financial Crisis or the stagflation period of the 1970s and early 1980s. Therefore, this macro backdrop directly challenges the idea that Bitcoin is on the verge of a guaranteed new bullish phase. Severino also took direct aim at popular Bitcoin valuation models that compare BTC to gold or rely on long-term projections detached from economic reality. The current reality is that Bitcoin is lagging behind gold and silver, which are attracting consistent inflows in contrast to Bitcoin’s show of fatigue around $80,000. Bullish Conviction To Bearish Targets Severino’s current stance is notable because it is a significant difference from his outlook before the current cycle began, when he was very bullish on Bitcoin. His recent analysis, shown in the chart below, shows Bitcoin breaking below a moving average on the monthly candlestick timeframe. This is notable because similar breakdowns in previous years were followed by drawdowns averaging around 50%. Related Reading: Analyst Reveals How Far Bitcoin Price Will Crash If The Uptrend Doesn’t Continue The chart highlights multiple instances where Bitcoin suffered declines of 40% to over 60% after losing this type of technical support. Based on that historical behavior, Severino has floated a downside target of at least $45,000 before another bullish reversal. Featured image from Getty Images, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|COVID|ISM|PMI|Tony Severino",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       },
       {
         "TYPE": "122",
