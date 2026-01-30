@@ -1,221 +1,5 @@
 [
   {
-    "id": 57546874,
-    "published": 1769635856000,
-    "title": "Ripple takes blockchain into the back office with new treasury platform",
-    "body": "Built on Ripple’s GTreasury acquisition, the platform integrates cash management with blockchain settlement as digital assets gain a foothold on corporate balance sheets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57547520,
-    "published": 1769638003000,
-    "title": "Bitcoin Backers, Cypherpunks Sour on Trump Following Fatal Minneapolis Shooting",
-    "body": "Some members of the crypto industry are publicly distancing themselves from President Trump after the killing of Alex Pretti—and the White House's comments around it.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57547941,
-    "published": 1769639438000,
-    "title": "Bitcoin Supply In Loss Turns Upward—Early Bear Market Signal?",
-    "body": "On-chain data shows the Bitcoin Supply in Loss indicator has witnessed a shift in direction that has often led into bearish phases in past cycles. 365-Day SMA Of The Bitcoin Supply In Loss Has Been Rising Recently As pointed out by an analyst in a CryptoQuant Quicktake post, the Bitcoin Supply in Loss has started to trend up again. This metric measures, as its name suggests, the percentage of the total BTC circulating supply that’s currently being held at some net unrealized loss. Related Reading: Next Ethereum Move Hinges On This Level, Says Glassnode Analyst The indicator works by scanning through the transaction history of each token in circulation to determine the price at which it was last transacted on the network. If this previous transaction value for any coin was greater than the latest spot price, then the metric assumes that particular token to be underwater. The Supply in Loss adds up all coins falling in this category and finds what part of the supply they make up for. A counterpart metric known as the Supply in Profit tracks the supply of the opposite type. Since the total supply must add up to a 100%, however, the Supply in Profit is simply equal to the Supply in Loss subtracted from 100. Now, here is a chart that shows the trend in the 365-day simple moving average (SMA) of the Bitcoin Supply in Loss over the cryptocurrency’s history: As displayed in the above graph, the 365-day SMA Bitcoin Supply in Loss plummeted to the lowest point for the cycle back in October. This plunge came as the asset rallied to a new all-time high (ATH) beyond the $126,000 level. Since the low, however, the indictor has witnessed a rapid climb, a consequence of the bearish momentum that BTC has faced following its ATH. So far, the indicator hasn’t risen to a significant level compared to past capitulation levels, but the change in direction has been solidifying itself. “Historically, this shift has marked the early phase of bear markets, when losses begin to spread beyond short-term holders and gradually reach longer-term participants,” explained the quant. From the chart, it’s visible that bearish transitions in past cycles occurred as the indicator shot up, with a high value in it coinciding with the cycle bottom. Related Reading: Bitcoin Social Interest Fades As Retail Chases Gold, Silver Hype Whether the recent reversal in the Supply in Loss is the beginning of something similar only remains to be seen. Earlier in this cycle, an upward turn in the indicator ended up only being temporary, as the H1-2025 drawdown gave way to renewed bullish momentum rather than a prolonged bear phase. BTC Price At the time of writing, Bitcoin is trading around $89,000, up over 1% in the last 24 hours. Featured image from Dall-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin bear market|Bitcoin Supply In Loss|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57547752,
-    "published": 1769638837000,
-    "title": "Gemini Launches Zcash Credit Card That Pays ZEC Rewards",
-    "body": "Publicly traded crypto exchange Gemini launched a new Zcash-themed credit card that pays ZEC rewards to holders.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "zcash|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57548210,
-    "published": 1769640244000,
-    "title": "World token jumps 27% as Sam Altman reportedly eyes a biometric social network to kill off bots",
-    "body": "The WLD token surged after Forbes reported that Sam Altman's OpenAI is planning to use Worldcoin to fight bots online.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 145,
-        "NAME": "WLD",
-        "CATEGORY": "WLD"
-      }
-    ]
-  },
-  {
-    "id": 57548713,
-    "published": 1769641602000,
-    "title": "US crypto industry raises record war chest for midterm election campaigns",
-    "body": "Fairshake political action committee has amassed $193mn to support candidates sympathetic to the sector",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57551812,
     "published": 1769652000000,
     "title": "Sony doubles down on Soneium after first year of mainnet activity",
@@ -2870,6 +2654,369 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57574166,
+    "published": 1769722248000,
+    "title": "Dogecoin Price Could Continue To Decline If This Doesn’t Happen; Analyst",
+    "body": "The Dogecoin price is facing renewed pressure as market watchers warn the meme coin may not be out of the woods yet. A crypto analyst warns that unless Dogecoin meets certain key conditions, its ongoing weakness could trigger another price crash, further extending its bearish trend. Dogecoin Price Could Extend Downtrend Like many meme coins, Dogecoin is experiencing a major downturn after failing to break key resistance levels. This continuous rejection has kept selling pressure intact and prevented the DOGE price from building sustained upward momentum. As a result, Dogecoin’s bearish structure, which has been in place for months, shows few signs of relief. Bulls are also facing major roadblocks, leaving Dogecoin vulnerable to further declines so long as it trades below key levels. Related Reading: What’s Going On With The US Dollar And How Does It Affect Bitcoin, Ethereum Prices? According to crypto market expert KrissPax, Dogecoin remains weak and could extend its already intense downtrend if its price fails to recover. He explained that without a solid bullish catalyst to drive the price upward, the meme coin could experience another price crash. KrissPax presented a TradingView chart showing just how far he believes Dogecoin could decline if it fails to recapture market interest and demand. Firstly, the chart highlights a higher-timeframe descending channel pattern that began after the broader market flash crash on October 10, 2025. At the time, Dogecoin recorded one of its largest single-day price crashes, falling from above $0.26 to below $0.10 before quickly recovering. Following that steep decline, Dogecoin price remained stuck in the descending channel, with its overall structure reflecting a bearish trend. Typically, a descending channel pattern favors more downside pressure unless a decisive breakout occurs. So far, Dogecoin has made a few recovery attempts; however, its price has failed to sustain any bullish rally. Recent price action, as shown in the chart, also indicates consolidation near the lower to middle part of the channel, with a gradual base forming around $0.12-$0.14. For now, a clear break below the lower trendline of the channel would confirm the continuation of Dogecoin’s prolonged downtrend. On the flip side, a breakout above the upper trendline of the descending channel with volume confirmation could invalidate DOGE’s bearish structure and signal a potential trend change. Related Reading: Analyst Says Chainlink Price Could Crash 50% If This Level Fails Update On Dogecoin’s Current Price Action According to CoinMarketCap data at the time of writing, Dogecoin remains in negative territory, recording a price correction of more than 3% over the past 24 hours. Data indicates that the meme coin’s daily, weekly, and monthly price performances are in a pronounced slump. If this trend persists, Dogecoin could close January in the red, extending the downtrend that marked the end of 2025. Beyond weak price action, Dogecoin’s total market capitalization has also declined by more than 3%. Daily trading volume remains subdued, down over 2.5%, further highlighting waning investor confidence and reduced interest in the meme coin. Featured image created with Dall.E, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57574231,
+    "published": 1769722478000,
+    "title": "Bitcoin Plunge Could Get Much Worse as Death Cross Gains Power",
+    "body": "Bitcoin's technical setup is turning ugly, as the charts suggest bulls might want to buckle up for more pain ahead.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57574552,
+    "published": 1769723311000,
+    "title": "21Shares launches first Jito staked Solana ETP in Europe",
+    "body": "The product offers exchange-traded exposure to JitoSOL with staking rewards embedded, as liquid staking ETFs remain under review in the United States.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57574788,
+    "published": 1769724222000,
+    "title": "WallStreetBets Founder Cries Foul After Reddit Cracks Down on Miami Convention",
+    "body": "Jaime Rogozinski litigated the trademark to the Supreme Court—and lost.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57574765,
+    "published": 1769724209000,
+    "title": "Bitcoin holds $84,000 — for now — but analysts warn of drop to $70,000 if support fails",
+    "body": "Thursday's decline showed that, despite hopes for being a macro hedge, bitcoin continues to trade like the riskiest of risk assets when markets turn lower.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Market Wrap|Gold|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57574974,
+    "published": 1769725183000,
+    "title": "El Salvador's central bank buys $50 million of gold as government keeps adding bitcoin",
+    "body": "The bitcoin-friendly nation's central bank now holds over $360 million of the yellow metal, while the government, led by President Nayib Bukele, has bitcoin holdings worth $635 million.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|El Salvador|Gold|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57575261,
+    "published": 1769726132000,
+    "title": "Ethereum's Oldest Crisis Reborn as a $220 Million Security Fund",
+    "body": "Unclaimed Ethereum from a decade-long hack will be staked and distributed to fund audits, tooling, and incident responses.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57576190,
+    "published": 1769728759000,
+    "title": "Strategy, BitMine Stock Prices Dive as Bitcoin and Ethereum Sink",
+    "body": "Leading crypto treasury firms BitMine and Strategy both saw their stocks plunge nearly 10% amid broader market uncertainty, as a possible U.S. government shutdown looms.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57577757,
+    "published": 1769733000000,
+    "title": "Solana Scores Major Institutional Adoption As WisdomTree Goes On-Chain",
+    "body": "Solana is rapidly positioning itself as a core hub for tokenized finance following WisdomTree’s deployment of fund infrastructure on the blockchain. The move reflects growing confidence among traditional asset managers in SOL’s ability to support large-scale, regulated financial products with the speed and cost efficiency required by modern capital markets. How Traditional Asset Managers Expand On-Chain Operations WisdomTree’s deployment of $159 billion in fund infrastructure on Solana marks a turning point for how regulated money moves. A research and news site, Genfinity, revealed on X that regulated money market funds are now settling natively on SOL, which means institutional cash flow assets no longer require traditional banking rails. One of the clearest signals is the Government money market digital fund, which already holds around $730 million in on-chain assets. Direct minting eliminates synthetic exposure with real Treasury-backed settlement. This allows retail investors to access institutional-grade financial products with blockchain speed and low costs. The multi-chain deployment is proof that financial institutions prioritize performance over narrative. Currently, SOL is processing the same regulated funds that previously required correspondent banks and a 3-day settlement. The gap between on-chain infrastructure and traditional finance products has just collapsed. An industry-leading commentary on the global capital markets, The Kobeissi Letter, reported that Coinbase has announced it is integrating with Jupiter Exchange directly into its on-chain trading stack. With this move, millions of Solana-based tokens can now be traded on Coinbase for the first time, all through Jupiter on-chain liquidity. Instead of relying on the slow manual process of listing assets on a centralized order book, Coinbase is currently using on-chain infrastructure to provide instant access to Solana-native markets. Under the new integration, users can deploy existing Coinbase balances and payment methods to trade tokens from a self-custodial wallet. “Even the centralized exchanges are moving on-chain,” The Kobeissi Letter noted. Why Liquidity Grabs Often Precede Reversals According to Larskooistra, the local context on Solana is fairly conducive to building a structure. The Price has already completed a Model 2 accumulation schematic, and grabbed all buy-side liquidity while taking the range high and broke market structure back to bearish, creating a supply in the process. Related Reading: Solana Structure Suggests One Final Test Before Bulls Can Step In From a higher-timeframe perspective, this gives a bearish context on BTC whenever accumulation models complete themselves and break the market structure, and then turn back to bearish afterwards, which shows a full reversal towards the lows. Larskooistra expects the equal lows acting as the next liquidity target to be taken out, and is looking for distribution schematics on the current move up. Featured image from Adobe Stock, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Solana|bitcoin|btc|coinbase|Genfinity|Jupiter Exchange|Larskooistra|Sol|SOL news|SOL Price|Solana news|Solana Price|SOLUSD|SOLUSDT|The Kobeissi Letter",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
