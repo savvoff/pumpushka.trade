@@ -1,52 +1,5 @@
 [
   {
-    "id": 57587208,
-    "published": 1769761808000,
-    "title": "XRP To $100? Ex-Ripple CTO David Schwartz Weighs In On The Hype",
-    "body": "Ex-Ripple CTO David “JoelKatz” Schwartz pushed back on viral XRP price calls, arguing that today’s market price is already a referendum on how much credible capital actually believes in a near-term path to $100. His comments also spilled into a broader discussion about XRPL economics and scaling tradeoffs that, in his view, get lost in the hype cycle. Can XRP Reach $100? Schwartz was responding to an X user urging him to tell “xrp supporters” that XRP “can’t and won’t go to 50-100$,” warning that “So many people get poor with investing in xrp.” Schwartz declined to make an absolute claim, but framed the debate in probabilistic terms, pointing to his own history of being surprised by crypto’s upside. Related Reading: 21Shares Drops 3 XRP Price Predictions For 2026: What’s The Upside? “I don’t feel comfortable saying something like that,” Schwartz wrote. “While I don’t think it’s likely, I didn’t think it was likely that XRP would ever hit $0.25. I started selling XRP at $0.10 because it seemed insane. I remember when bitcoin hitting $100 seemed like an impossible dream.” Rather than debating narratives, Schwartz offered a market-math thought experiment: if rational investors truly believed there was a meaningful chance of XRP reaching $100 within a few years, the current price would not sit far below double digits for long. “If many rational people believed that there was a 10% chance that XRP hit $100 within a few years, they definitely wouldn’t sell very much today at much less than $10,” he said. “Those with that belief would quickly buy up most of the XRP, because they’d value it more highly than those without that belief, and soon the supply of XRP well below $10 would dry up.” Schwartz then drew his conclusion from the gap between the hypothetical and the tape. “That the current trading price is well below $10 shows that there aren’t very many people who really think it has a 10% chance of hitting $100 within a few years with enough confidence to put their money where their mouth is,” he wrote, adding: “So anyone who says otherwise is not telling the truth.” He emphasized that readers can “do that same math” with different odds, time frames, and target prices. In a final note, Schwartz argued his baseline assumption is that crypto markets are “rational most of the time,” with major bull runs typically catalyzed by “unpredictable external changes,” rather than widely telegraphed certainties. Related Reading: XRP Risk-Adjusted Returns Signal Consolidation Rather Than Trend Formation – Details In a separate reply, Schwartz revisited an older famous X post by himself where he said that XRP “can’t be cheap.” Asked what he meant by this, he answered: “It means that a low price for XRP actually makes it more expensive to use for payments and exchanges.” The implication is mechanical: if XRP’s price is lower, more units are required to represent the same value in flight, potentially impacting how the asset is used across payment and exchange flows. Scaling The XRP Ledger Schwartz also addressed concerns about XRPL throughput after a user questioned whether “1500 per second (theoretical) is sufficient,” asking about ways to increase on-chain transactions per second. Schwartz said higher TPS is possible, but warned that most approaches shift costs onto node operators. “There are ways, but I don’t think you really want to,” he wrote. “Almost any way you do it imposes costs on everyone who runs a node. They have to receive more transactions, process and store more transactions, and relay more transactions to others.” He argued that decentralization pressure shows up when node costs rise without a matching benefit, and suggested a different optimization target: “This is why I think it makes more sense to try to increase the value of each transaction rather than trying to increase the number of transactions you can support.” With XRPL fees “so low,” he added, many transactions are “very low in value,” leaving room to “get more useful transactions on XRPL, even crowding out the worthless ones,” before throughput becomes the binding constraint. At press time, XRP traded at $1.76. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP News|David Schwarz|Ripple|xrp|XRP $100|xrp news|XRP Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57588360,
     "published": 1769765423000,
     "title": "Bitcoin’s Slide To $82K Sets Off A $1.7 Billion Chain Reaction",
@@ -1839,6 +1792,164 @@
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57609073,
+    "published": 1769842849000,
+    "title": "Hyperliquid (HYPE) Rally: Expert Suggests Continued Growth, $35 Target Looms",
+    "body": "Hyperliquid (HYPE) has emerged as one of the few large‑cap cryptocurrencies showing sustained strength across multiple time frames, even as the broader digital asset market remains under pressure. While Bitcoin (BTC), Ethereum (ETH), and most major tokens have struggled amid a market‑wide pullback, Hyperliquid has continued to post notable gains, setting it apart during what many consider the early stages of a bear market. What’s Driving Hyperliquid Higher Market data from CoinGecko shows that HYPE surged roughly 31% over the past week, pushing the token toward the $34 level earlier in the week, and marking its highest price in more than a month. Over the past 14 days, HYPE is up around 17%, while gains of 13% and 8% were recorded over the 30‑day and year‑over‑year periods, respectively. By comparison, Bitcoin has fallen 12% over two weeks, slipped 4% over the past month, and is down roughly 21% year‑over‑year. Related Reading: Bitcoin Supply In Loss Begins To Rise, Raising Early Bear Market Concerns Experts have pointed to fundamental and structural developments as key drivers behind HYPE’s performance. Crypto analyst Elite Crypto highlighted the impact of Hyperliquid’s HIP‑3 upgrade, which introduced permissionless perpetual contracts tied to real‑world assets (RWAs) such as gold, silver, and other commodities. According to the analyst, trading activity in these products has expanded rapidly, with silver‑based perpetuals alone exceeding $1 billion in daily volume on many occasions. Elite Crypto also pointed to signs of institutional accumulation, noting that decentralized autonomous traders, including strategies operating directly on Hyperliquid, have been steadily increasing their exposure. In addition, research firm Citrini has published bullish commentary on the platform, and speculation around a potential HYPE exchange‑traded fund (ETF) has added to market interest. HYPE Faces Crucial Technical Test From a technical perspective, analysts see important levels coming into focus. DeFi Guru noted that HYPE is currently testing its primary descending resistance, describing recent price action as impulsive and confidence‑driven, suggesting a shift in momentum. The analyst identified $30 as a key level to reclaim decisively. A clean move above that area could open the door to the next major target near $35, which aligns with the 0.618 Fibonacci retracement level. Related Reading: Bitcoin Slides Toward $85,000 Despite Progress On US Crypto Market Structure Bill Another analyst, Efloud, offered a more cautious view and outlined potential support and resistance zones for Hyperliquid. He identified a key support region near the $23.7 level, which is crucial in determining whether the cryptocurrency will continue its rally. Efloud noted that price has already reached an intermediate resistance area and suggested that short‑side setups would only be considered if bearish market structure appears on lower time frames, either at current levels or closer to the $38–$39 range. Despite the broader bullish narrative, Hyperliquid has not been immune to short‑term volatility. Over the past 24 hours, HYPE has pulled back by roughly 10%, falling toward around $29. Analyst Ox Kaize described the recent dip as a normal market reaction, particularly given recent developments affecting both gold and Bitcoin. He asserts that a recovery in those markets could provide additional upside momentum for Hyperliquid, potentially pushing the token toward the $50 level. Additional catalysts remain on the horizon. A second Hyperliquid airdrop is expected in the near future, and Kaize believes the timing could be deliberate, as distributing tokens while prices remain below peak levels may support longer‑term ecosystem growth. Featured image from OpenArt, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Crypto|crypto|crypto news|HYPE news|HYPE price|HYPE price action|Hype price anaysis|HYPE price forecast|HYPE price news|Hyperliquid|Hyperliquid (HYPE)|Hyperliquid news|Hyperliquid price|HYPEUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57609232,
+    "published": 1769843202000,
+    "title": "Coinbase insider trading lawsuit against Armstrong, directors moves forward",
+    "body": "The lawsuit alleges Marc Andreessen sold $118.7 million in Coinbase shares through Andreessen Horowitz, while CEO Brian Armstrong offloaded about $291.8 million.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57609558,
+    "published": 1769844587000,
+    "title": "Bitcoin, ether fall as shutdown clock hits and markets brace for a messy Monday",
+    "body": "Bitcoin fell toward $83,000 as the U.S. entered a partial shutdown, with traders leaning defensive ahead of a House vote expected Monday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57609839,
+    "published": 1769845628000,
+    "title": "Silver's 35% plunge ends up beating bitcoin in a rare crypto liquidation shock",
+    "body": "Tokenized silver futures recorded the largest liquidations across crypto markets over the past 24 hours, overtaking bitcoin and ether as a sharp pullback in metals collided with leverage-heavy trading on crypto venues.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
       {
         "TYPE": "122",
         "ID": 37,
