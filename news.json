@@ -1,344 +1,5 @@
 [
   {
-    "id": 57617491,
-    "published": 1769874064000,
-    "title": "ETH, SOL and DOGE slide 7% as $850 million bullish bets end up liquidated",
-    "body": "Ether, solana and XRP led losses across crypto as a wave of long liquidations swept futures markets, showing stress spreading beyond bitcoin during weekend trading.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57617302,
-    "published": 1769873400000,
-    "title": "Bitcoin 'fear' sentiment hits a 2026 high as price downtrends toward $80,000",
-    "body": "Social chatter around bitcoin has turned sharply negative after the token slid to its lowest level since Nov. 21, a setup Santiment says often appears near capitulation, even if near term trading stays messy.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57617871,
-    "published": 1769875238000,
-    "title": "Bitcoin Adjusted SOPR Shows Market At Pivotal Junction — What’s Next?",
-    "body": "Over the past week, the Bitcoin market experienced new waves of liquidations with prices dropping to around $81,000 on Thursday. Though the premier cryptocurrency has seen a slight rebound since then, bearish sentiments remain dominant with analysts expecting a potential decline to as low as $56,000. Amid this recent correction, a developing on-chain situation has reached a boiling point, putting the Bitcoin market at a critical juncture. Related Reading: Bitcoin’s Slide To $82K Sets Off A $1.7 Billion Chain Reaction Bitcoin aSOPR Holds Clue To Next Market Phase – Analyst The Adjusted Spent Output Profit Ratio (aSOPR) is an on-chain metric used to measure whether Bitcoin investors are, on average, selling their coins at a profit or at a loss, while filtering out noise from short-term, low-value movements. In usual market trends, each new price peak is accompanied by higher conviction as investors are willing to hold longer, take profits later, and tolerate larger drawdowns because they expect even higher prices. However, during Bitcoin’s ascent from around $40,000 in early 2024 to over $100,000, the aSOPR has shown a different pattern as observed by market analyst MorenoDV. Despite a consistent uptrend resulting in multiple price peaks, Bitcoin aSOPR established a downtrend pattern marked by lower highs and lower lows, thereby creating a puzzling market divergence. According to MorenoDV, this development suggests that Bitcoin traders were aggressively taking profits with each rally, indicating a lack of long-term market confidence. Considering the descending profit-taking pattern, it can also be inferred that investors were satisfied with smaller and smaller gains, suggesting they were no longer convinced that upside continuation was likely. Related Reading: Bitmine Stakes Additional 250,912 Ethereum Worth $745M – 61% Is Now Staked The Present Market Debacle Despite the ongoing divergence, it is still observed that aSOPR respects the general market trend with each high in its descending channel aligning with a local price top, while each retest of the lower boundary coincides with a market bottom. Presently, the aSOPR is retesting this lower boundary, in a fear-ridden market with over 30% of market supply in a loss. Ideally, MorenoDV explains these are accumulation opportunities, especially in further consideration of the negative aSOPR. However, the analyst warns that a decisive fall below this line could strengthen present bearish sentiments, resulting in an intense market capitulation, as an already fearful set of investors would likely initiate a sell-off. At press time, Bitcoin continues to trade around $83,819, reflecting 0.41% decline in the past day. Following the recent liquidations, the market leader is now 34% away from its all time high of around $126,100. Featured image from Freepik, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin aSOPR|btcusd|BTCUSDT|cryptoquant|Market divergence|MorenoDV",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57618001,
-    "published": 1769875557000,
-    "title": "VC Roundup: Crypto funding rebounds as institutions test onchain finance",
-    "body": "From venture rounds to onchain credit, capital is moving cautiously back into crypto as institutions focus on infrastructure and real-world use cases.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57618298,
-    "published": 1769877062000,
-    "title": "India Faces Pressure to Rethink Crypto Taxes Ahead of Union Budget as Trading Shifts Offshore",
-    "body": "Industry leaders are pushing for tax reform as traders flee offshore, draining domestic exchanges and undermining regulatory oversight.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 57618716,
-    "published": 1769878800000,
-    "title": "The market for tokenized equities has exploded by almost 3,000% in a single year",
-    "body": "Tokenized stocks grew nearly 3,000% in 2025 as new SEC rules and a DTCC pilot pushed the asset class toward the $1 billion milestone, led by Ondo and Securitize.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenization|Real World Assets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57618954,
-    "published": 1769879640000,
-    "title": "Bitcoin breaks key support level as Glassnode warns of further price breakdown",
-    "body": "Long-term bitcoin holders are selling at the fastest pace since August, while some industry observers suggest the market may be approaching a bear-market bottom.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Santiment|Sentiment|crypto market|fear and greed index|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57619223,
-    "published": 1769880614000,
-    "title": "Crypto Funds Bleed $1.80 Billion As Metals Rally Heats Up",
-    "body": "Investors stepped back this week as a mix of shifting bets and quick profit-taking pushed money out of spot crypto ETFs. Markets moved fast, and some of the biggest swings were driven by short-term reactions rather than a change in long-term views. Related Reading: Ethereum Boost: Vitalik Buterin Sets Aside $45M In ETH For Privacy And Open Tech Spot Crypto ETF Flows Based on reports from Farside, US-based spot Bitcoin ETFs saw about $1.50 billion leave over five trading days, while spot Ether ETFs had roughly $327 million in outflows. That adds up to about $1.80 billion pulled from these funds in just a few days. On Jan. 14, reports note a very large inflow for Bitcoin ETFs — $840 million — which shows how quickly money can go in and out. Some traders treated that day as a buying moment. Others used it to take profit. That push-and-pull shows up in the numbers. A Rally In Metals, Then A Sudden Drop Gold and silver grabbed attention when they climbed to fresh highs. Prices surged, and many investors moved money into precious metals. But the rally was short-lived. On a single trading day, gold fell sharply from its peak and silver tumbled even more. Reports say those sudden reversals left some investors rethinking their moves and helped create a wave of selling across other risk assets, including crypto. Bitcoin Price Action Bitcoin has been swinging. Over the past week, BTC fell about 6.50% while Ether dropped around 8.90%, and they were trading around $82,500 and $2,685, respectively, according to CoinMarketCap. The market had a short spike after talk of the US CLARITY Act, but prices then cooled. Moves like this are often tied to positioning, margin calls, and traders reacting to headlines. At times, large flows into ETFs have pushed prices up. Other times, outflows coincide with volatile days when traders close positions quickly. Related Reading: Bitcoin’s Slide To $82K Sets Off A $1.7 Billion Chain Reaction What Analysts Are Saying Reports note that some market watchers view the pullback as temporary. ETF analyst Eric Balchunas said the current negativity about Bitcoin’s price is short-sighted and pointed to strong performance in prior years as context. Another voice, Bitwise’s Matt Hougan, suggested that continued ETF demand could send Bitcoin into a much higher trajectory over time. These views reflect different timeframes — some focus on immediate flows, others on how steady demand might shape prices months from now. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|btc|btcusd|CLARITY Act|gold|iran|metals|Precious Metals|silver|Trump",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57619983,
-    "published": 1769882681000,
-    "title": "CoreWeave shows how crypto-era infrastructure quietly became AI’s backbone",
-    "body": "From crypto mining to AI compute, former cryptocurrency miners are reshaping data center economics as Big Tech’s grip on infrastructure begins to loosen.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57620376,
     "published": 1769883738000,
     "title": "Solana DeFi platform step finance hit by $27 million treasury hack as token price craters",
@@ -1395,6 +1056,362 @@
         "NAME": "ETH",
         "CATEGORY": "ETH"
       },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57642058,
+    "published": 1769960700000,
+    "title": "'Join Them'—Apps Copying Pelosi And Polymarket Insiders Go Viral",
+    "body": "A new generation of tools promises to level the playing field by tracking congressional trades and prediction market whales. The results are effective.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57641959,
+    "published": 1769960255000,
+    "title": "Bitcoin price forecasts tap sub-$50K levels as BTC copies old bear markets",
+    "body": "Bitcoin bear market history was \"repeating,\" said BTC price analysis after key support failed and realized price flipped to new resistance.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57642307,
+    "published": 1769961613000,
+    "title": "Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels",
+    "body": "The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the market still showing signs of further downside risk, there is no telling how deep the Ethereum price will fall in the current bearish setup. However, the latest on-chain data has offered insights into the next critical levels for the second-largest cryptocurrency. ETH’s Next Support Stands At $2,475: Glassnode In a recent post on the X platform, crypto analyst Ali Martinez identified the next three on-chain support levels for the Ethereum price. This on-chain evaluation revolves around the UTXO Realized Price Distribution (URPD) metric, which helps to pinpoint strong resistance and support levels based on investor cost bases. Related Reading: Ripple’s David Schwartz Shuts Down Claims Of XRP Hitting $100 For context, an investor’s cost basis refers to the actual price at which they purchased a particular cryptocurrency (Ethereum, in this scenario). Typically, the ability of a price level to function as an on-chain support or resistance zone depends on the number of investors who have their cost basis at the given level. As inferred earlier, the UTXO Realized Price Distribution tracks the amount of a particular cryptocurrency that was acquired at a specific price level. Now, the price levels below the present spot value with significant trading activity are often considered as major support zones, as shown in the chart below. The reasoning behind this expectation is that investors with their cost bases around these price levels are likely to double down on their positions and purchase more coins. This increased buying activity will, hence, offer a cushion for the Ethereum price to stay afloat and potentially bounce back. Highlighting data from Glassnode, Martinez identified the $2,623, $2,475, and $1,881 levels as the next crucial support zones for the Ethereum price after losing the $2,772 mark. However, it appears that the altcoin’s price has also lost the $2,623 and $2,475 support following its latest decline over the weekend. Ethereum Price Overview As of this writing, the price of ETH stands at around $2,410, reflecting an over 10% decline in the past 24 hours. With this latest decline, the altcoin’s price seems to be hovering around the support cushion at around $2,475. If ETH’s stay below this support level is sustained, investors could see the Ethereum price fall to as low as $1,881. A fall of this magnitude would represent a 25% decline from the current price point and an over 60% correction from the cycle high. Related Reading: Ethereum Boost: Vitalik Buterin Sets Aside $45M In ETH For Privacy And Open Tech Featured image from iStock, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ETH URPD|ethereum|ethereum price|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57642304,
+    "published": 1769961600000,
+    "title": "How instant gratification is sucking the air out of the bitcoin market",
+    "body": "Society is experiencing a shift toward gambles that offer rapid feedback and immediate stimulation over long-term investment.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|options market|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57641812,
+    "published": 1769959978000,
+    "title": "Here's why bitcoin traders are now betting billions on a drop to $75,000 and bailing on price rising higher",
+    "body": "This surge in demand for lower-strike puts contrasts with the post-Trump-election pattern of enthusiasm for high-strike calls.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Bitcoin Options|Cryptocurrency Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57643283,
+    "published": 1769965200000,
+    "title": "Hints of progress: State of Crypto",
+    "body": "The White House is meeting folks, Congress advanced a bill and key regulators are back to joint press appearances.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Newsletters|State of Crypto|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57643643,
+    "published": 1769966493000,
+    "title": "Crypto’s $19 billion '10/10' nightmare: Why everyone is blaming Binance for the bitcoin crash that won't end",
+    "body": "Months after the Oct. 10 liquidation cascade, market depth has yet to recover, and traders are divided over Binance's role as bitcoin continues to crash.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Binance|market turbulence|Leveraged Trading|Liquidations|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57644183,
+    "published": 1769968451000,
+    "title": "Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket",
+    "body": "The Ethereum founder claims his strategy of betting against extreme market sentiment \"usually makes money\" on Polymarket.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|polygon|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57644101,
+    "published": 1769967840000,
+    "title": "Bitcoin sell-off pushes IBIT investor returns into the red — asset manager",
+    "body": "Based on dollar-weighted flows, aggregate returns for investors in BlackRock’s iShares Bitcoin Trust have turned negative following Bitcoin’s recent sell-off.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57644459,
+    "published": 1769969416000,
+    "title": "Senator Elizabeth Warren is sounding the alarm on Trump’s 'spy sheikh' crypto deal",
+    "body": "Senator demands probe after report links Emirati intelligence chief to secret investment in U.S. crypto venture.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Policy|Policy|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 211,
