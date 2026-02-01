@@ -1,169 +1,5 @@
 [
   {
-    "id": 57614840,
-    "published": 1769864449000,
-    "title": "U.S. imposes sanctions on crypto exchanges tied to Iran for the first time",
-    "body": "The exchanges were accused of facilitating transactions for the Islamic Revolutionary Guard Corps and are linked to an Iranian businessman convicted of embezzlement.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Iran|Treasury|Sanctions|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57614839,
-    "published": 1769864400000,
-    "title": "NYSE's 24/7 plan could fix key problem for stock tokens, Ondo's de Bode says",
-    "body": "NYSE and Nasdaq introducing 24/7 trading with tokenized stock would be a \"godsend,\" solving thin weekend liquidity, Ondo Finance President Ian de Bode told CoinDesk in an interview.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Tokenization|tokenized stocks|Real World Assets|Consensus Miami 2026|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 108,
-        "NAME": "ONDO",
-        "CATEGORY": "ONDO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57615757,
-    "published": 1769868000000,
-    "title": "Record Token Failures In 2025 Reinforce The Role Of Utility",
-    "body": "The digital asset market went through a major reset in 2025, as token failures reached record levels.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57616506,
-    "published": 1769870806000,
-    "title": "Bitcoin plunges under $81,000 amid reports of Iran explosions and Binance spat",
-    "body": "Bitcoin slid toward $81,000 on Saturday as thin weekend liquidity magnified selling pressure, with traders pointing to Middle East tensions, U.S. political risk and lingering crypto-specific uncertainty.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57617491,
     "published": 1769874064000,
     "title": "ETH, SOL and DOGE slide 7% as $850 million bullish bets end up liquidated",
@@ -1506,6 +1342,58 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57640261,
+    "published": 1769954400000,
+    "title": "The era of ‘suitcase money’ is over: Why your offshore crypto is no longer safe from the taxman",
+    "body": "Holders with large troves of unreported crypto held offshore are rightly getting nervous about new and invasive tax-reporting regimes.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|CoinDesk Wealth|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57641280,
+    "published": 1769958000000,
+    "title": "Quantum threat gets real: Ethereum Foundation prioritizes security with leanVM and PQ signatures",
+    "body": "Earlier in January, the Ethereum Foundation formally elevated post-quantum security to a strategic priority, creating a dedicated Post-Quantum team.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Ethereum News|Ethereum Foundation|quantum computing|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
