@@ -1,81 +1,5 @@
 [
   {
-    "id": 57632653,
-    "published": 1769926435000,
-    "title": "Bitcoin’s Break Below $80,000 Signals New Crisis of Confidence",
-    "body": "Price, relevance, conviction — Bitcoin is bleeding all three.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57632772,
-    "published": 1769927885000,
-    "title": "Bitcoin drops to $78,000 as MicroStrategy-fueled rally runs out of buyers, traders say",
-    "body": "Bitcoin sank to its lowest levels since April as profit-taking by early holders collided with thinning liquidity and a sharp drop-off in fresh capital.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57633071,
     "published": 1769928877000,
     "title": "Tom Lee’s BitMine sits on $6 billion loss from ether bets",
@@ -229,53 +153,6 @@
     "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "Bitcoin|Bitcoin Spot ETF cost basis|Bitcoin Spot ETFs|btcusd|BTCUSDT|Burak Kesmeci|True Market Mean",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57634925,
-    "published": 1769922001000,
-    "title": "Bitcoin Air Pocket Presents Potential Fall To $73,000 – Details",
-    "body": "Bitcoin bearish sentiments continue to dominate the market, after prices fell below the key $80,000 on January 31, resulting in a new wave of market liquidations. Interestingly, a pseudonymous analyst with the username CryptoMe has identified an “air pocket” in the present price structure, which potentially points to the downside target of this recent price drop. Related Reading: Bitcoin Adjusted SOPR Shows Market At Pivotal Junction — What’s Next? Bitcoin Now Below $80K Support Zone – What Next? In a QuickTake post on January 31, CryptoMe draws attention to an existing price vacuum between $73,000 – $80,000 as confirmed by three different market metrics. This observation is important in anticipating Bitcoin downside targets, considering the presently heightened market fears following the latest price decline. According to CryptoMe, liquidity levels on the Binance spot order book showed a concentration of limit buy orders between $73,000 – $80,000 that formed between late October and early November. Despite the price surge from $80,000 to around $100,000 seen in late Q4 2025, the liquidity cluster price zone remained untouched. Therefore, the zone is likely to act as a short-term price magnet should bearish momentum persist, as markets often gravitate toward areas of unfilled liquidity during periods of heightened volatility. Another on-chain metric that supports the existence of an air pocket between $73,000 – $80,000 is the Unspent Transaction Output (UTXO) price histogram. Each Bitcoin transaction consumes existing UTXOs and creates new ones; therefore, UTXOs are a good measure of on-chain transaction activity. As seen in the chart above, the sparse UTXO density between $73,000 and $80,000 suggests that a small number of transactions occurred within this price range. Thus, investors failed to establish a cost basis that would prevent further price decline, as prices have now slipped below $80,000. The final metric highlighted by CryptoMe is the Spot ETF Investor Average Cost, which currently stands at $79,000. Following the launch of the Bitcoin Spot ETFs in January 2024, Bitcoin has failed to trade below its realized price until now. Considering all three metrics, it’s likely that Bitcoin is headed for the $73,000 price mark, which the market has not visited since April 2025. Moreover, such a decline would represent a 40% devaluation from the present market all-time high. Related Reading: Bitcoin Historical Performance Shows How Low The Price Will Go Before A Bottom Bitcoin Price Overview At the time of writing, Bitcoin trades at $78,558, reflecting a 6.5% increase in the last 24 hours. Meanwhile, total trading volume is up by 37.15% and valued at $74.67 billion. Featured image from iStock, chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin Spot ETF cost basis|Bitcoin UTXO|BTCUSDT|cryptoquant|market liquidity",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -1170,6 +1047,257 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57657220,
+    "published": 1770009209000,
+    "title": "Nevada Court Grants Temporary Restraining Order Against Polymarket",
+    "body": "Nevada's court ruling against Polymarket comes as prediction markets face global regulatory pressure and bans across multiple jurisdictions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57657193,
+    "published": 1770008518000,
+    "title": "Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain",
+    "body": "Bitcoin’s latest plunge is putting the world’s largest corporate crypto treasury under renewed pressure.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "NMS:MSTR",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57657832,
+    "published": 1770011056000,
+    "title": "CrossCurve Threatens Legal Action After $3M Cross-Chain Bridge Exploit",
+    "body": "The protocol warned it may pursue criminal and civil action after identifying addresses tied to a hack of its token transfer system.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57658180,
+    "published": 1770011791000,
+    "title": "Crypto stolen hit $370M in January, quadrupling year on year: CertiK",
+    "body": "The amount of crypto stolen in January is also a 214% increase from the month before, with a majority of the value lost due to a single phishing incident.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57658037,
+    "published": 1770011621000,
+    "title": "Jupiter brings Polymarket to Solana and lands $35 million investment deal",
+    "body": "Jupiter said Polymarket will be integrated on its platform, while ParaFi Capital has made a $35 million strategic investment in JUP with an extended lockup.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 123,
+        "NAME": "JUP",
+        "CATEGORY": "JUP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57657964,
+    "published": 1770011492000,
+    "title": "Average Bitcoin ETF buy underwater as investors pull $2.8B in 2 weeks",
+    "body": "Bitcoin fell as low as $74,600 on Monday following a weekend rout, a nine-month low. for the cryptocurrency.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57656291,
+    "published": 1770006015000,
+    "title": "Bitcoin Flirts With Lowest Price Since Trump’s Return to Office",
+    "body": "Bitcoin fell to a 10-month low in Asia trading Monday following a weekend selloff, with sentiment fragile amid broader market turbulence.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
