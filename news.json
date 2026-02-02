@@ -1,361 +1,5 @@
 [
   {
-    "id": 57642058,
-    "published": 1769960700000,
-    "title": "'Join Them'—Apps Copying Pelosi And Polymarket Insiders Go Viral",
-    "body": "A new generation of tools promises to level the playing field by tracking congressional trades and prediction market whales. The results are effective.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57641959,
-    "published": 1769960255000,
-    "title": "Bitcoin price forecasts tap sub-$50K levels as BTC copies old bear markets",
-    "body": "Bitcoin bear market history was \"repeating,\" said BTC price analysis after key support failed and realized price flipped to new resistance.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57642307,
-    "published": 1769961613000,
-    "title": "Ethereum Price Slips Below $2,500 — Here Are The Next Support Levels",
-    "body": "The Ethereum price has been under intense bearish pressure over the past few weeks, reflecting the overall fragile state of the cryptocurrency market. The altcoin lost nearly 20% of its value in the past week, free-falling under the psychological $3,000 level since Thursday, January 29th. With the market still showing signs of further downside risk, there is no telling how deep the Ethereum price will fall in the current bearish setup. However, the latest on-chain data has offered insights into the next critical levels for the second-largest cryptocurrency. ETH’s Next Support Stands At $2,475: Glassnode In a recent post on the X platform, crypto analyst Ali Martinez identified the next three on-chain support levels for the Ethereum price. This on-chain evaluation revolves around the UTXO Realized Price Distribution (URPD) metric, which helps to pinpoint strong resistance and support levels based on investor cost bases. Related Reading: Ripple’s David Schwartz Shuts Down Claims Of XRP Hitting $100 For context, an investor’s cost basis refers to the actual price at which they purchased a particular cryptocurrency (Ethereum, in this scenario). Typically, the ability of a price level to function as an on-chain support or resistance zone depends on the number of investors who have their cost basis at the given level. As inferred earlier, the UTXO Realized Price Distribution tracks the amount of a particular cryptocurrency that was acquired at a specific price level. Now, the price levels below the present spot value with significant trading activity are often considered as major support zones, as shown in the chart below. The reasoning behind this expectation is that investors with their cost bases around these price levels are likely to double down on their positions and purchase more coins. This increased buying activity will, hence, offer a cushion for the Ethereum price to stay afloat and potentially bounce back. Highlighting data from Glassnode, Martinez identified the $2,623, $2,475, and $1,881 levels as the next crucial support zones for the Ethereum price after losing the $2,772 mark. However, it appears that the altcoin’s price has also lost the $2,623 and $2,475 support following its latest decline over the weekend. Ethereum Price Overview As of this writing, the price of ETH stands at around $2,410, reflecting an over 10% decline in the past 24 hours. With this latest decline, the altcoin’s price seems to be hovering around the support cushion at around $2,475. If ETH’s stay below this support level is sustained, investors could see the Ethereum price fall to as low as $1,881. A fall of this magnitude would represent a 25% decline from the current price point and an over 60% correction from the cycle high. Related Reading: Ethereum Boost: Vitalik Buterin Sets Aside $45M In ETH For Privacy And Open Tech Featured image from iStock, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ETH URPD|ethereum|ethereum price|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57642304,
-    "published": 1769961600000,
-    "title": "How instant gratification is sucking the air out of the bitcoin market",
-    "body": "Society is experiencing a shift toward gambles that offer rapid feedback and immediate stimulation over long-term investment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|options market|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57641812,
-    "published": 1769959978000,
-    "title": "Here's why bitcoin traders are now betting billions on a drop to $75,000 and bailing on price rising higher",
-    "body": "This surge in demand for lower-strike puts contrasts with the post-Trump-election pattern of enthusiasm for high-strike calls.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Bitcoin Options|Cryptocurrency Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57643283,
-    "published": 1769965200000,
-    "title": "Hints of progress: State of Crypto",
-    "body": "The White House is meeting folks, Congress advanced a bill and key regulators are back to joint press appearances.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Newsletters|State of Crypto|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57643643,
-    "published": 1769966493000,
-    "title": "Crypto’s $19 billion '10/10' nightmare: Why everyone is blaming Binance for the bitcoin crash that won't end",
-    "body": "Months after the Oct. 10 liquidation cascade, market depth has yet to recover, and traders are divided over Binance's role as bitcoin continues to crash.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Binance|market turbulence|Leveraged Trading|Liquidations|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57644183,
-    "published": 1769968451000,
-    "title": "Ethereum Founder Vitalik Buterin Made $70K Betting Against 'Crazy Mode' on Polymarket",
-    "body": "The Ethereum founder claims his strategy of betting against extreme market sentiment \"usually makes money\" on Polymarket.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|polygon|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57644101,
-    "published": 1769967840000,
-    "title": "Bitcoin sell-off pushes IBIT investor returns into the red — asset manager",
-    "body": "Based on dollar-weighted flows, aggregate returns for investors in BlackRock’s iShares Bitcoin Trust have turned negative following Bitcoin’s recent sell-off.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57644459,
-    "published": 1769969416000,
-    "title": "Senator Elizabeth Warren is sounding the alarm on Trump’s 'spy sheikh' crypto deal",
-    "body": "Senator demands probe after report links Emirati intelligence chief to secret investment in U.S. crypto venture.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Policy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57645279,
     "published": 1769972400000,
     "title": "Hong Kong is positioning itself as crypto’s global connector, says lawmaker Johnny Ng",
@@ -2087,6 +1731,321 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57669519,
+    "published": 1770046760000,
+    "title": "Why India wants the e-rupee to move beyond borders",
+    "body": "India is exploring cross-border use of the e-rupee to reduce payment costs, improve trade settlement efficiency and expand the rupee’s global role.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57670731,
+    "published": 1770050719000,
+    "title": "Jeffrey Epstein Was an Early Investor in Coinbase, Emails Reveal",
+    "body": "Coinbase co-founder Fred Ehrsam appears to have been personally aware and supportive of the convicted sex offender’s early investment in the company.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57670638,
+    "published": 1770050262000,
+    "title": "NY prosecutors raise alarm over GENIUS Act on fraud: Report",
+    "body": "Five New York officials reportedly said Tether and Circle had been incentivized to not work with law enforcement, allowing them to profit off crimes involving stablecoins.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57670933,
+    "published": 1770051230000,
+    "title": "Bed Bath & Beyond stock jumps on deal to tokenize real estate with Tokens.com buy",
+    "body": "The new platform, planned to debut by July, will use tools from tZERO and integrate with blockchain firm Figure to offer services such as mortgages and renovation loans.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Tokenization|Figure|Tzero|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57670574,
+    "published": 1770050296000,
+    "title": "Bitcoin can still fall further. Historical data shows $60,000 will be the bottom",
+    "body": "Historical data show that bitcoin has always found support in bear markets at the 200-week moving average.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|moving average|Ichimoku cloud|Technical Analysis|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57671212,
+    "published": 1770052021000,
+    "title": "Bitcoin, Ethereum ETF Investments Flip Negative for 2026 as Crypto Funds Shed $1.7B",
+    "body": "U.S.-listed crypto funds led withdrawals as Bitcoin and Ethereum prices slid after Donald Trump’s nomination of Kevin Warsh for Fed chair.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57671153,
+    "published": 1770051957000,
+    "title": "Bitcoin bounces 7% from lows, but crypto remains under pressure in U.S. trade",
+    "body": "Crypto-related stocks like Robinhood, Coinbase, and Strategy continued to sport sizable losses on Monday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57671169,
+    "published": 1770051946000,
+    "title": "Bed Bath & Beyond to acquire Tokens.com in tokenized real estate push",
+    "body": "The retailer plans to build a platform for tokenized real-world assets, expanding beyond e-commerce after its 2023 bankruptcy.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57671579,
+    "published": 1770051838000,
+    "title": "Bitcoin ETF Buyers Sit on Losses as Crypto Conviction Fades",
+    "body": "At the heart of Bitcoin’s slow-motion selloff lies a simple problem: the investors meant to be its most reliable new base aren’t buying.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
