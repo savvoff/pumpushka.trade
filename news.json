@@ -1,180 +1,5 @@
 [
   {
-    "id": 57645279,
-    "published": 1769972400000,
-    "title": "Hong Kong is positioning itself as crypto’s global connector, says lawmaker Johnny Ng",
-    "body": "The Hong Kong lawmaker and Web3 advocate said common law, open capital flows and ties to southern China give the city a unique role in global crypto markets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Consensus Hong Kong 2026|Hong Kong|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57645366,
-    "published": 1769972810000,
-    "title": "Bitcoin's 'hopium' for bulls may be over and this weekend's slide could be just the beginning",
-    "body": "Bitcoin’s sharp weekend drop triggered fresh liquidations, with analyst Eric Crown warning the market may face months of further downside.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|crypto market|liquidation|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57648434,
-    "published": 1769983233000,
-    "title": "Bitcoin Breaks Key Support, Analyst Signals Lower Levels Ahead",
-    "body": "Bitcoin’s price action has fallen into bearish territory after dropping below an important previous low that had supported the rally for months. At the time of writing, Bitcoin is trading at $78,560 after falling to as low as $77,082 in the past 24 hours, a move that crypto analyst XForceGlobal says represents a significant change in the technical structure. According to his detailed Elliott Wave analysis shared on X, the price action has now invalidated the bullish framework many traders were relying on, and lower levels are becoming more likely in the coming weeks and months. Related Reading: Ethereum Boost: Vitalik Buterin Sets Aside $45M In ETH For Privacy And Open Tech Breakdown Below Previous Low Changes Primary Wave Count According to XForceGlobal, Bitcoin had been working through a complex sideways structure, specifically a WXY combination that was expected to resolve through distribution rather than outright breakdown. Bulls managed to complete three of the five required components of this triangle-like structure, but the failure to defend the prior low was the signal that led to a structural shift. This prior low refers to the $82,000 low in November 2025. Bitcoin bulls failed to defend this low when the price action broke below $80,000 in the most recent 24 hours. Once that level gave way, the primary wave count could no longer be maintained. In terms of the Elliott Wave count, that lower low means that price action from the all-time high should now be treated as separated and corrective, not part of a healthy continuation. This restructuring gives the current decline more room to develop from a Fibonacci extension perspective and changes how minimum and maximum downside targets should be evaluated. Bitcoin Price Chart. Source: @XForceGlobal On X Two Bearish Scenarios Point To The Same Zone The resulting analysis shows two main scenarios of how Bitcoin’s price action can continue from here, both of which are converging on similar downside levels. The first is a flat correction, where Bitcoin is currently unfolding a C wave. Although XForceGlobal describes this as the least attractive option, it would still imply a full distribution range that invalidates a bullish structure and drags the Bitcoin price to as low as $60,000. The second scenario is a macro ending diagonal structured as a WXY move to the downside. This scenario uses the October 2025 all-time high above $126,000 as a cut point to improve wave separation of the current price action. Interestingly, the price projection from this scenario also aligns with targets in the same $60,000 area. Despite different technical paths, both interpretations point to comparable downside risk over the medium timeframe. Related Reading: Crypto Funds Bleed $1.80 Billion As Metals Rally Heats Up Now that the larger structure is now compromised, XForceGlobal says it makes sense to adopt a shorter-timeframe bearish bias while reorganizing the next wave count. The outlook is that Bitcoin continues its decline to at least $60,000 before rebounding to stage a return above $100,000. Featured image from Pixabay, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|btcusd|crypto|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57649317,
-    "published": 1769986034000,
-    "title": "Crypto protocol CrossCurve under attack, $3M reportedly exploited",
-    "body": "Crypto bridge CrossCurve has told users to pause interacting with its protocol while it conducts an investigation into a smart contract breach.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57652479,
-    "published": 1769995716000,
-    "title": "UAE Royal’s Alleged Stake in Trump Crypto Venture Raises Ethical Concerns",
-    "body": "A foreign investment in a Trump crypto firm reportedly preceded a reversal in U.S. AI chip restrictions, prompting corruption allegations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57653983,
     "published": 1770000067000,
     "title": "Bitcoin Price Can’t Reclaim $80K, Putting $70K On The Radar",
@@ -2040,6 +1865,368 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57674507,
+    "published": 1770060517000,
+    "title": "ParaFi Capital makes $35M investment in Solana-based Jupiter",
+    "body": "Jupiter said the deal marks its first outside capital and was structured as a market-priced token purchase with extended lockups.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57675170,
+    "published": 1770062433000,
+    "title": "Analyst Highlights What People Are Missing In The XRP Price Chart",
+    "body": "An XRP analyst is pushing back against the growing sense of boredom surrounding XRP’s price action, with the outlook that people are misreading what is actually happening on the higher timeframes. Taking to the social media platform X, an analyst known as XRP QUEEN said traders are overlooking a typical setup that has always preceded some of XRP’s most notable rallies. Her view is based on XRP’s weekly price structure and a comparison with how previous long consolidation phases eventually resolved. Why XRP $1.50 To $3 Range Matters More Than It Looks A look at the weekly candlestick timeframe chart shows that XRP’s price action over multiple months has been largely confined between support at $1.5 and resistance just above $3. Interestingly, according to the analysis from XRP Queen, XRP’s price action being pinned between roughly $1.50 and $3 is not a sign of weakness but a repeat of earlier accumulation zones. Related Reading: Pundit Says XRP Price Is Not A ‘Crypto’ Question, But A Systemically Important Liquidity Asset The chart shows how the token has previously spent long stretches moving sideways for hundreds of days, highlighted on the chart as 200-day, 800-day, and even 1,000-day consolidation phases. In each case, price compression eventually gave way to a vertical move higher, labeled as MOON on the chart. The key point being made is that these flat, frustrating periods tend to drain interest and attention from the market. That drop in engagement, according to the analyst, has always aligned with smart accumulation. The longer the range holds, the more pressure builds beneath the surface. $2.72 And The Projection Of A Teleport Move A notable level on the chart is the $2.72 zone, which is sitting around the 0.786 Fibonacci extension level projected from XRP price lows in 2018. Breaking and holding above $2.72 would be important to how XRP rallies to new all-time highs. As noted by XRP Queen, if $2.72 holds, then the next outlook is looking at $9-$15. Related Reading: Pundit Explains Why The XRP Price Hitting $100 Isn’t Delusional Once XRP leaves this range, it teleports. No pullbacks and no second chances. The projection on the chart shows Fibonacci extensions stretching far above the current price. These extensions include 0.786 at $2.71, the 1.0 extension around $3.40, followed by 1.618 at $5.47, 2.818 at $8.78, and the most extreme 4.764 extension around $15.89, all pointing to price targets to be broken once the current range is broken. However, the altcoin is currently trading far below the $2.72 level needed to confirm the price teleportation to interesting highs. At the time of writing, XRP is trading around $1.60, meaning the price would need to climb by about 69% just to retest $2.72. Until that happens, XRP is in consolidation mode, and it is unclear how long it will keep trading sideways in the current range. Featured image from Freepik, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Fibonacci Extension level|moon|Ripple|xrp|xrp news|XRP Price|XRP Queen|XRPUSD|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57675021,
+    "published": 1770061707000,
+    "title": "Wrench attacks increased by 75% in 2025, resulting in $41M losses: CertiK",
+    "body": "The blockchain security auditor said violence against wallet holders was a ”core threat vector in the crypto ecosystem,” reporting a significant increase from 2024 to 2025.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57675305,
+    "published": 1770062771000,
+    "title": "Bed Bath & Beyond Makes Real World Asset Tokenization Move, Acquiring Tokens.com",
+    "body": "Shares in publicly traded consumer brand Bed Bath and Beyond (BBBY) are up as the firm expands its blockchain push.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57676126,
+    "published": 1770064970000,
+    "title": "Family offices shun crypto despite hype, with 89% holding no digital assets: JPMorgan Private Bank",
+    "body": "The appetite for traditional and emerging hedges remains limited among wealthy families, according to JPMorgan Private Bank’s 2026 Global Family Office Report.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|CoinDesk Wealth|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57676716,
+    "published": 1770066407000,
+    "title": "Russia's biggest bitcoin mining firm's founder arrested for tax evasion while his company faces bankruptcy",
+    "body": "An En+ subsidiary has filed an insolvency claim against the crypto mining firm, adding to pressure from energy debts, regulatory curbs and internal turmoil.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Russia|Bitriver|Crypto-Mining|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57676631,
+    "published": 1770066172000,
+    "title": "Opera Shares Jump After MiniPay Wallet Adds Support for Tether's USDT",
+    "body": "Browser firm Opera's stock climbed Monday after the company said its MiniPay wallet now supports USDT and Tether Gold.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 164,
+        "NAME": "XAUT",
+        "CATEGORY": "XAUT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57678076,
+    "published": 1770069922000,
+    "title": "Elon Musk merges AI company xAI with rocket company SpaceX to build AI in space",
+    "body": "The combined company is expected to price its IPO at a valuation of $1.25 trillion, according to Bloomberg.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Artificial Intelligence|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57679305,
+    "published": 1770073212000,
+    "title": "Solana Price Forecast Turns Bearish After $100 Breakdown, Can Next Support Stop the Slide?",
+    "body": "The Solana price has entered the new month under pressure after losing a level that had acted as a psychological anchor for much of the past year. The token’s drop below $100 shifted market attention from recovery narratives to damage control. Related Reading: Crypto Hacks Explode: $370 Million Stolen In January Alone: Researchers Traders are now closely watching whether upcoming support levels can halt a decline that has accelerated amid overall weakness in the crypto market. Although network activity and institutional interest continue to draw attention, short-term price movements have clearly shifted into a bearish trend. SOL's price trends to the downside on the daily chart. Source: SOLUSD on Tradingview Solana Price Breaks $100 as Selling Pressure Builds Before bouncing back to the current $102 level, the Solana price dipped to around $98, marking its lowest point in nearly ten months and extending losses to nearly 20% over the past week and approximately 25% over the last month. Trading activity has thinned as prices fell, with spot volume and derivatives participation both declining. Data from CoinGlass shows falling open interest, suggesting long positions are being unwound rather than a surge in aggressive short selling. The move has not occurred in isolation. A wave of market-wide liquidations over the weekend, combined with thin liquidity, amplified downside moves across major cryptocurrencies. Macroeconomic concerns have also weighed on sentiment after renewed expectations of tighter U.S. monetary policy following President Trump’s nomination of Kevin Warsh as the next Federal Reserve chair, a choice viewed as hawkish by markets. Technical Outlook Points to Lower Support Levels From a technical perspective, Solana’s structure has weakened. The break below $100 confirmed a pattern of lower highs and lower lows, with the Solana price hovering well beneath its declining short-term moving averages. Bollinger Bands are widening, and Solana price action remains near the lower band, suggesting downward momentum remains dominant rather than stabilizing. Momentum indicators underline the pressure. The daily relative strength index is hovering near 25, placing SOL deep in oversold territory. While this increases the probability of short-term bounces, it does not, on its own, signal a trend reversal. On the downside, traders are watching the $95 area closely, followed by a broader $92–90 zone. Below that, $85 and $80 stand out as larger historical support levels. Some on-chain and pattern analyses suggest that if selling accelerates, thinner support could expose deeper zones later in the year. Fundamentals Remain Active Despite Weak Price Action Despite the bearish price forecast, Solana’s underlying network metrics remain comparatively strong. January transaction counts rose sharply, and recent data shows continued growth in on-chain activity and stablecoin usage. Institutional interest has been mixed but not absent, with earlier January inflows offset by more recent Solana ETF outflows. Related Reading: Is The Bitcoin Bottom In? CMT Reveals What Traders Need To See Now Currently, the technical picture dominates. Solana would need to reclaim $110 and hold above key moving averages to ease bearish pressure. Until that happens, rallies are likely to be viewed as corrective moves within a broader downtrend, leaving the next support levels as the market’s immediate test. Cover image from ChatGPT, SOLUSD chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Solana|Sol|SOL Price|SOLUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57681514,
+    "published": 1770078631000,
+    "title": "XRP Market Structure “Very Similar” To April 2022, Glassnode Says",
+    "body": "As XRP slides below $1.60, on-chain analytics firm Glassnode has highlighted how the current structure is looking similar to that of April 2022. XRP Is Fast Approaching Its Realized Price In a new post on X, Glassnode has talked about where XRP is currently trading with respect to its Realized Price. This on-chain indicator measures the cost basis or acquisition price of the average address on the blockchain. When the spot price of the cryptocurrency is trading above this metric, it means the investors as a whole can be assumed to be in a state of profit. On the other hand, it being below the indicator suggests the majority of the supply is underwater. Related Reading: Bitcoin Death Cross That Last Preceded A 66% Drop Is Back Now, here is the chart shared by Glassnode that shows the trend in the XRP Realized Price over the last several years: As is visible in the above graph, the XRP spot price has been above the Realized Price since 2024, indicating that holders have been enjoying net unrealized gains. The degree of profitability, however, hasn’t been constant in this period. The asset’s price had the largest gap over the metric back in late 2024, owing to a fast bull rally. Then, over the first three quarters of 2025, profitability gradually dropped as tokens changed hands at higher levels, leading to an increase in the Realized Price. The indicator hit a plateau in the last quarter of the year, but the bearish shift in the asset meant that it was now the price’s turn to approach the line, cutting back on average investor profits further. This trend has deepened recently. Following the sector-wide crash during the past week, XRP has come dangerously close to the Realized Price, which now sits at $1.48. “The current market structure is very similar to that of April 2022,” noted the analytics firm. Back then, the asset was transitioning to a bear market and its price fell to the Realized Price. That retest failed, and what followed was a steep move down that eventually led to the cycle low. Given the proximity that the current XRP price has to the indicator, it now remains to be seen whether a retest will occur in the near future and if it would lead to further bearish action like in 2022. Related Reading: Bitcoin Supply In Loss Turns Upward—Early Bear Market Signal? In the scenario that the cryptocurrency’s decline continues, technical support levels pointed out by analyst Ali Martinez may come into play. As displayed in the chart, Martinez has drawn levels based on a parallel channel pattern. “For XRP, resistance sits at $1.86, while support is at $1.38 and $1.02,” noted the analyst. XRP Price At the time of writing, XRP is trading around $1.60, down nearly 15% over the last week. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "XRP News|glassnode|xrp|XRP Bear Market|XRP Realized Price|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
