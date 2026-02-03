@@ -1,279 +1,5 @@
 [
   {
-    "id": 57656561,
-    "published": 1770007425000,
-    "title": "Story delays $IP token supply unlock as usage lags and dump fears grow",
-    "body": "Team and investor tokens now set to unlock in August 2026 as the IP-focused blockchain moves to slow new supply, tighten token economics and buy time to build network usage amid weak market sentiment.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Story protocol|IP|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57656543,
-    "published": 1770007360000,
-    "title": "Bitcoin Derivatives Signal Elevated Stress Following Market Rout",
-    "body": "Bitcoin’s weekend plunge opened a rare CME futures gap, as macro and geopolitical pressures drove a broad deleveraging.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57657220,
-    "published": 1770009209000,
-    "title": "Nevada Court Grants Temporary Restraining Order Against Polymarket",
-    "body": "Nevada's court ruling against Polymarket comes as prediction markets face global regulatory pressure and bans across multiple jurisdictions.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57657193,
-    "published": 1770008518000,
-    "title": "Michael Saylor’s High-Stakes Bitcoin Bet Faces Fresh Strain",
-    "body": "Bitcoin’s latest plunge is putting the world’s largest corporate crypto treasury under renewed pressure.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57657832,
-    "published": 1770011056000,
-    "title": "CrossCurve Threatens Legal Action After $3M Cross-Chain Bridge Exploit",
-    "body": "The protocol warned it may pursue criminal and civil action after identifying addresses tied to a hack of its token transfer system.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 57658180,
-    "published": 1770011791000,
-    "title": "Crypto stolen hit $370M in January, quadrupling year on year: CertiK",
-    "body": "The amount of crypto stolen in January is also a 214% increase from the month before, with a majority of the value lost due to a single phishing incident.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57658037,
-    "published": 1770011621000,
-    "title": "Jupiter brings Polymarket to Solana and lands $35 million investment deal",
-    "body": "Jupiter said Polymarket will be integrated on its platform, while ParaFi Capital has made a $35 million strategic investment in JUP with an extended lockup.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 123,
-        "NAME": "JUP",
-        "CATEGORY": "JUP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57657964,
-    "published": 1770011492000,
-    "title": "Average Bitcoin ETF buy underwater as investors pull $2.8B in 2 weeks",
-    "body": "Bitcoin fell as low as $74,600 on Monday following a weekend rout, a nine-month low. for the cryptocurrency.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57659297,
     "published": 1770015380000,
     "title": "Bitcoin's crash exposes painful truth – crypto market still dances to BTC's tune",
@@ -305,41 +31,6 @@
         "ID": 205,
         "NAME": "TOKEN SALE",
         "CATEGORY": "TOKEN SALE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57657566,
-    "published": 1770010332000,
-    "title": "India's 2026 budget keeps 30% crypto tax, adds $545 penalty for missed reports",
-    "body": "The Finance Bill introduced daily fines and a flat penalty for incorrect crypto disclosures while leaving the existing tax and TDS framework untouched.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
       },
       {
         "TYPE": "122",
@@ -2356,6 +2047,550 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687466,
+    "published": 1770093705000,
+    "title": "Tether expands support for USDT, Tether Gold in Opera’s MiniPay wallet",
+    "body": "Stablecoin issuer Tether said the initiative will help millions of users from emerging markets such as Africa, Latin America and Southeast Asia with global financial inclusion.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 164,
+        "NAME": "XAUT",
+        "CATEGORY": "XAUT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687380,
+    "published": 1770093691000,
+    "title": "Bitcoin, ether and major tokens stage relief rally after weekend bloodbath",
+    "body": "Bitcoin rebounded toward $79,000 after dipping below $75,000 over the weekend, as traders weighed heavy liquidation-driven selling against macro tailwinds and a potential inflection point for crypto markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687867,
+    "published": 1770094826000,
+    "title": "Bitcoin Bear Market Signal Emerges: Supply in Loss Rises Above 40%",
+    "body": "Bitcoin slipped below the $80,000 level over the weekend as selling pressure intensified across global markets. Reinforcing a climate of uncertainty that has weighed heavily on risk assets in recent weeks. The move came amid broad weakness in equities, elevated volatility, and declining liquidity conditions, pushing many investors into a defensive posture. While the price action alone may resemble prior corrective phases, on-chain data suggest that the underlying market structure is beginning to change. A recent analysis from CryptoQuant indicates that Bitcoin is starting to exhibit characteristics historically associated with the early stages of bear markets. One of the clearest signals comes from the Supply in Loss (%) metric, which has climbed sharply to around 44% and continues to trend higher. This means a growing share of circulating BTC is now held at an unrealized loss. Reflecting increasing stress across market participants. Related Reading: Bitcoin Miner Fees Remain Near Cycle Lows: What Does This Signal? Importantly, Bitcoin is still trading above its Realized Price, suggesting the market has not yet reached full capitulation. However, the combination of rising losses and weakening price structure raises the risk that the current phase represents the transition into a broader bear market, rather than a temporary correction within an ongoing uptrend. Supply in Loss Signals Structural Shift Toward a Bear Market The report explains that Bitcoin’s current on-chain structure closely mirrors conditions observed at the onset of previous bear markets. Historically, several signals have tended to appear together at the start of prolonged downside phases rather than at the end of routine corrections. These include Supply in Loss expanding above roughly 40%, a simultaneous decline in Supply in Profit, and price remaining elevated relative to realized value. When these conditions align, they have typically marked the beginning of structural weakening, not a reset before another leg higher. The present setup fits this historical pattern. Supply in Loss has moved decisively above the 40% threshold, while profitable supply is gradually contracting. This shift is occurring without widespread panic or capitulation. Indicating that losses are spreading across the supply in a controlled but persistent manner. This dynamic suggests a slow deterioration in market health, as more participants hold BTC at a loss while price struggles to recover meaningfully. Related Reading: Ethereum Trades At A Historical Accumulation Level: Can Bulls Hold $2,600 In past cycles, durable market bottoms only formed after Supply in Loss expanded further, usually alongside deeper price compression and a clearer capitulation phase. At current levels, those conditions have not yet been fully met. As a result, the data implies that the market is still in a transitional phase. This no longer resembles a mid-cycle dip. On-chain signals point to Bitcoin entering a bear market structure, with downside risk remaining unresolved until stronger signs of capitulation or structural stabilization emerge. Bitcoin Higher Timeframe Confirms Bearish Market Structure Bitcoin’s price structure has deteriorated sharply on the higher time frame, as shown by the 3-day chart. After months of consolidation below the prior all-time highs, BTC has now broken decisively below the $80K psychological level, with the latest close around $77,500. This move confirms a loss of medium-term support and marks a clear transition from distribution into downside continuation. From a trend perspective, price has slipped below the 50-period and 100-period moving averages, both of which are now rolling over. The 200-period moving average, still rising but flattening near the mid-$80K area, failed to act as durable support and now represents a major overhead resistance zone. Historically, sustained trading below these averages signals weakening trend strength and reduced probability of immediate trend recovery. Related Reading: XRP Risk-Adjusted Returns Signal Consolidation Rather Than Trend Formation – Details The recent sell-off also stands out for its impulsive character. Large bearish candles with limited lower wicks suggest aggressive selling pressure rather than orderly consolidation. Volume expanded on the breakdown, reinforcing the validity of the move and indicating forced exits rather than passive rebalancing. Structurally, the market is now forming lower highs and lower lows on this timeframe. Unless BTC can quickly reclaim the $80K–$85K region, downside risk remains dominant. In this context, the chart supports a bearish continuation. At best, a prolonged basing phase precedes any meaningful recovery attempt. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|bitcoin bear market|Bitcoin breakdown|Bitcoin Crashes|Bitcoin news|Bitcoin Supply In Loss|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687758,
+    "published": 1770094416000,
+    "title": "Musk's SpaceX–xAI mega deal sharpens focus on bitcoin accounting ahead of IPO",
+    "body": "The move concentrates crypto exposure across Musk’s businesses, with energy company Tesla’s among the top public holders of the asset.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687685,
+    "published": 1770094330000,
+    "title": "HYPE pops 20% after Hyperliquid team nods prediction markets plan",
+    "body": "Hyperliquid said the outcome trading feature would function like a form of derivatives trading without leverage, liquidations or margin calls.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57687583,
+    "published": 1770093514000,
+    "title": "Bitcoin Stalls After Weak Rebound as Options Signal Caution",
+    "body": "Bitcoin remained under pressure Tuesday, stalling after a brief rebound from a 10-month low as trader caution persisted in options activity.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57688606,
+    "published": 1770096633000,
+    "title": "Just as bitcoin tries to steady, the dollar index wakes up",
+    "body": "A resurgent U.S. dollar index, which has logged its strongest two-day gain in nine months, could arrest potential bitcoin recovery.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Dollar index|btc|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57688574,
+    "published": 1770096518000,
+    "title": "Arizona Attorney General Issues Warning as Crypto ATM Scams Hit Older Adults",
+    "body": "Arizona has launched a fraud reporting tool as crypto ATM scams surge and losses mount, especially among older consumers.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57686237,
+    "published": 1770090494000,
+    "title": "Tether releases open-source operating system for Bitcoin mining",
+    "body": "Tether first announced plans for an open-source mining OS in June last year, aiming to let Bitcoin miners “enter the game” without relying on expensive third-party vendors.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57689316,
+    "published": 1770098447000,
+    "title": "XRP Tops All Assets On Risk/Reward, Analyst Says",
+    "body": "XRP sits at a crossroads. Trading around the $1.6 area after a steep run higher and a later pullback, the token now rests on a weekly support band that traders are watching closely. According to crypto analyst Scott Melker, this is one of the cleaner risk/reward setups in crypto right now — a small stop can limit losses while a bounce could offer meaningful gains. Related Reading: Crypto Funds Bleed $1.80 Billion As Metals Rally Heats Up Support Zone Holds The Key Based on reports, the zone around $1.55 to $1.60 is important. It lines up with the midpoint of the breakout that began in November 2024 and has acted as resistance before flipping to support. When price briefly dipped toward $1.50 and then closed January above the $1.60 mark, some traders read that as a liquidity sweep that cleared short orders. That kind of action can presage either a bounce or a deeper move, depending on whether fresh buying shows up. What History Shows XRP moved sideways in 2023 and much of 2024 before breaking out from roughly $0.50 to $0.60 in November 2024. A fast advance followed, carrying price toward the $2.00 area and then higher into the $3.66 peak in July 2025. $XRP Crazy chart. Trading exactly at the last meaningful support on the chart before a huge air pocket. For traders, this is about the best risk/reward you get on an asset. Easy to cut loose with a small loss if support fails. pic.twitter.com/wySapwsnT0 — The Wolf Of All Streets (@scottmelker) January 31, 2026 Those gains set a higher structure, but they also left large pockets of profit taking above current levels. Reports say that repeated failed attempts above $3.50 marked weakening demand, which helped trigger the current drop back to the $1.6 region. Tight Downside, Open Upside According to Scott Melker, a.k.a. “Wolf of All Streets”, traders can manage risk with a stop between $1.45 and $1.50. That makes the downside measured. On the flip side, a recovery would likely test $2.00 first, then run into supply around $2.50–$2.60, before facing heavier resistance near $3.00 and the old highs. That path is straightforward on paper, but market context changes outcomes. Volume confirmation is absent from many of the bullish takes; a support hold without visible buying on the tape is fragile. Broader liquidity in US markets and risk appetite for crypto will also play a major role in whether the bounce can sustain itself. Related Reading: Crypto Hacks Explode: $370 Million Stolen In January Alone: Researchers XRP’s Sweet Spot: Small Risk, Big Upside For Melker, setups like XRP’s current level are rare in crypto right now — a defined support, a tight stop, and clear upside targets create a scenario where the potential reward outweighs the risk. He emphasizes that traders don’t need to predict every twist in the market; instead, focusing on trades with controlled losses and meaningful gains can be the difference between surviving and thriving in volatile conditions. In XRP’s case, the near-term risk is small relative to the possible rebound, making it a setup many are watching closely. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoin|crypto|digital currency|xrp|XRPUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57688984,
+    "published": 1770097611000,
+    "title": "Bitcoin miners get an open-source alternative as Tether launches MiningOS",
+    "body": "Stablecoin issuer Tether said its new MiningOS is a modular, self-hosted software stack built to run mining operations from small home rigs to multi-site industrial setups.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57689811,
+    "published": 1770099619000,
+    "title": "Cathie Wood’s ARK boosts crypto shares amid stock pullback",
+    "body": "ARK Invest increased exposure to Robinhood, Circle, BitMine, Bullish and other crypto-linked firms within several innovation and fintech-focused ETFs this week.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57689724,
+    "published": 1770099264000,
+    "title": "Bitcoin may fall to $56K as reasons for gains ‘remain hard to find’: Galaxy",
+    "body": "Galaxy’s Alex Thorn says Bitcoin’s realized price is currently $56,000, a level it is likely to fall to without clear drivers to spark a rally.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57689771,
+    "published": 1770099034000,
+    "title": "Germans can now buy bitcoin, ether, solana products directly from their ING accounts",
+    "body": "These crypto products receive the same German tax treatment as directly held bitcoin.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|Solana News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
