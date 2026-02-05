@@ -1,309 +1,5 @@
 [
   {
-    "id": 57709983,
-    "published": 1770154751000,
-    "title": "Nevada authorities file lawsuit against Coinbase over unlicensed wagering",
-    "body": "The enforcement action over wagers on sports event contracts followed Coinbase announcing the launch of prediction markets in all 50 US states.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57710431,
-    "published": 1770156026000,
-    "title": "Bitcoin’s Pain Trade Inflicts Maximum Punishment on Shareholders",
-    "body": "David Pan reports on how the unwinding of Bitcoin’s record rally since the re-election of Donald Trump is weighing on the shareholders of the dozens of digital asset treasury companies that sprung up during the euphoria.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NMS:MSTR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57710406,
-    "published": 1770156025000,
-    "title": "Bitcoin Hits Year-To-Date Low Amid Heavy Outflows, Signs Of Spot Buying Emerge",
-    "body": "Bitcoin slid to a year-to-date low of $74,500 on Monday, a move that wiped roughly 38% off its peak. Markets reacted sharply, and traders felt the pinch as flows out of big funds accelerated. Related Reading: Bitcoin Suppression? Analyst Claims Single Force Keeping Price Under $90K Fund Flows And Market Mood According to reports, global crypto exchange-traded products saw heavy withdrawals last week. Big US spot ETFs led the selling, and that pushed overall fund flows into deep negative territory. Based on Bitwise’s Weekly Crypto Market Compass report, Bitcoin’s recent drop pushed its two-year rolling MVRV z-score to a record low, a level tied to undervaluation and suggesting fire-sale conditions for the asset. Sentiment gauges fell hard. Reports note that a two-year rolling MVRV z-score — a measure comparing market price to the average cost basis of holders, adjusted for volatility — hit its lowest reading ever. That kind of number points to widespread selling and prices that many investors now view as distressed. Buying Interest On The Spot Market On shorter time frames, signs of buying have appeared. The daily RSI plunged into the low 20s. This is a level that has often been followed by quick rebounds. Spot volume data on major venues such as Binance and Coinbase showed net aggressive buying as Bitcoin bounced back toward about $79,420. Open interest did not spike. Funding rates stayed negative. In plain terms: people were buying on the spot market rather than piling into leveraged long bets, which reduces the chance of a cascade of forced liquidations that can make moves messier. Capitulation And Liquidations Reports say long positions were crushed last week, with close to 2 billion in BTC long liquidations recorded across derivatives markets. That pain can clear the field for fresh entrants. At the same time, there are multiple billions of dollars of short positions clustered near higher price levels, around $85,000, that could be hit if Bitcoin climbs. Short-covering could add fuel to a bounce. Market structure now offers a mix of strong selling behind prices and real buying in front of them. Where Support Might Hold Based on reports, buying interest combined with very low valuation metrics could create an asymmetric trade. That means the potential upside may be larger than the near-term downside, at least for traders willing to accept volatility. Historically, dips into the RSI zone seen last week have led to roughly 10% rebounds most of the time since August 2023, although outcomes vary and nothing is guaranteed. Related Reading: Bitcoin ETF Investors Pull Nearly $3 Billion, Pushing Average Buy Below Water A Quiet But Real Conclusion Institutional flows remain cautious. Major products such as the Grayscale Bitcoin Trust and the iShares Bitcoin Trust posted sizable outflows, signaling that some big holders stepped back. Yet, on-chain and spot-volume signals hint that bargain hunting has started. The near-term path will probably be bumpy. Traders who want exposure will need to weigh the low valuation readings and pockets of buying against the very real possibility of further weakness if sentiment deteriorates again. Featured image from Vecteezy, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|btc|btcusd|crypto|digital currency|etf|gold",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57711106,
-    "published": 1770157850000,
-    "title": "AI Made Sam Altman Feel 'Useless and Sad'—X Users Tried to Make Him Feel Worse",
-    "body": "OpenAI CEO Sam Altman said Codex made him feel useless. X users responded by roasting his vulnerability—and airing months of anger over AI job losses.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57711167,
-    "published": 1770157935000,
-    "title": "French Police Raid X’s Paris Office in Probe of Grok AI and Illegal Content",
-    "body": "The French action comes as investigations into X’s Grok chatbot expand across multiple jurisdictions, including the UK and EU.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57711773,
-    "published": 1770159638000,
-    "title": "Here’s What To Expect If The Bitcoin Price Maintains Support Above $74,400",
-    "body": "Crypto analyst and Elliott Wave expert Gert van Lagen has highlighted a critical level that could determine the next move in the Bitcoin price. In a recently shared 2-week chart, Lagen points to a broader market structure that suggests Bitcoin may be preparing for another strong upward leg, provided it continues to hold above $74,000. According to the analyst, this level now serves as a key support zone, marking the boundary between bull-market continuation and a potentially more concerning structural breakdown. Why $74,000 Matters For Bitcoin Price Bull Structure In an X post, Lagen shared a detailed analysis of Bitcoin, predicting its next price move based on Elliott wave structures. His accompanying chart shows BTC completing an extended corrective phase following a multi-year rally. This correction, labeled Wave IV, has pulled the price back into a previous consolidation zone without disrupting the broader bullish structure. As long as Bitcoin remains above $74,400, the analyst views this move as a healthy reset rather than the beginning of an extended bear market. Related Reading: Here’s Why The Bitcoin, Dogecoin, And XRP Price Are Crashing This Week Looking back at earlier phases of the cycle helps explain why the $74,400 support level is so critical. Lagen noted that during the build-up to Wave III, Bitcoin experienced a deep retracement that nearly revisited the low from the previous corrective wave before pushing higher. The cryptocurrency’s current price action appears to follow the same pattern, with the latest pullback approaching the bottom of Wave IV at mid-$70,000. This type of pattern repetition is common in Elliott Wave structures and often signals that the market may be preparing for a stronger upward move. In line with this, Lagen highlighted that BTC’s recent price movements match the characteristics of a Wave II correction within a broader Wave V advance. He said that $74,000 remains in the invalidation area. Holding above it keeps Bitcoin’s bullish outlook intact, while a decisive break below it would force a reassessment of BTC’s entire market structure. In any case, the analyst has stated he does not expect Bitcoin to break this support zone. What The Chart Says About Bitcoin’s Next Move If the $74,400 support level continues to hold, the projected path on Lagen’s chart suggests the start of a new impulsive rally that would mark the early phase of Wave V. The initial move higher is expected to push the Bitcoin price back above previous highs, signaling that the corrective phase has ended and momentum has flipped back in favor of the bulls. According to the analyst, if Bitcoin continues to mirror past patterns, a bearish outcome remains less likely. Related Reading: Bitcoin Price Will Still Rally Above $99,000 Despite Bearish Sentiment, Here’s Why Looking at his chart, Lagen has projected that Bitcoin could experience a bullish continuation toward the $260,000 to $320,000 region, which aligns with sub-wave 3, the strongest phase of a Wave V advance. Following this, the final extension of Wave V is expected to push Bitcoin toward $400,000, reflecting a final-cycle advance and representing a surge of more than 410% from current levels around $78,000. Featured image from Peakpx, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|Elliott Wave Structure|Gert Van Lagen",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57711850,
-    "published": 1770159662000,
-    "title": "'We Need a New Path': Ethereum Founder Vitalik Buterin Rips Up L2-Focused Roadmap",
-    "body": "Some layer-2 networks have made concessions when it comes to decentralization, Buterin said, and shouldn’t be “branded” as extensions of Ethereum.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57712183,
-    "published": 1770160614000,
-    "title": "‘Big Short’ investor Michael Burry warns bitcoin plunge could trigger $1 billion gold, silver sell-off",
-    "body": "Burry said crypto losses may have forced institutions to liquidate precious metals as bitcoin slid below $73,000.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57715811,
     "published": 1770170404000,
     "title": "Bitcoin LTH Profit-Taking Collapses: Is Smart Money Done Selling?",
@@ -3484,6 +3180,262 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57739325,
+    "published": 1770241333000,
+    "title": "Anthropic Trolls OpenAI's ChatGPT in Super Bowl Ad Campaign",
+    "body": "Claude AI developer Anthropic is using the Super Bowl to mock OpenAI’s planned shift toward ads in ChatGPT—in front of a global audience.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57739222,
+    "published": 1770240875000,
+    "title": "Telegram's Durov slams Spain's online age verification proposal",
+    "body": "The proposed laws are meant to create a mass-surveillance state and are not about protecting children, Pavel Durov warned on Wednesday.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57739654,
+    "published": 1770242455000,
+    "title": "PEPE’s 48% Crash Sends It To Yearly Lows, But It’s Far From Over",
+    "body": "PEPE has pushed deeper into its corrective phase in early February after a sharp selloff wiped out nearly half of its value in just two weeks. The meme coin is now trading around its yearly low zone following a 48% decline that unfolded in line with a technical outlook shared by an analyst on X. PEPE’s price action since the start of the year shows a full unwind of a few days’ rally, and the next question is whether the meme coin is still working through distribution or preparing the ground for its next major phase. PEPE Completes Full Reversal To Yearly Lows PEPE, like the rest of the crypto market, is trading in a bearish momentum. This bearish momentum is much more established among meme coins like PEPE, which have mostly been trading in a downtrend. PEPE, in particular, has been trading in a consistent series of lower highs and lower lows since May 2025. Related Reading: PEPE’s Reversal Move: Pushing Out Bears As Confirmation Closes In According to a technical update from an analyst, PEPE has now completed what he described as a full reversal toward its yearly low, with price unwinding the upside move that marked the opening weeks of 2026. The February update ties directly back to an earlier analysis published on January 5, where the same analyst warned that PEPE’s early-year rally showed characteristics of a manipulated move. Back then, its price surged directly from the yearly open to $0.00000715 without printing lower wicks across multiple timeframes. Also, price failed to confirm quality accumulation confirmations at the bottom, which then led to a downside move just as fast as price pumped up. As it stands, PEPE has now corrected by around 48% from this January peak. No Accumulation Signals Yet Unlike the rally in early January, the ensuing drop did not occur impulsively in a single flush. Instead, it followed a steady corrective path that respected higher-timeframe targets laid out in advance. This is important context, with the analyst noting that hitting bearish targets does not automatically translate into an immediate bullish response. Related Reading: Why Meme Coins Like PEPE And FARTCOIN Are Ready To Explode Looking at PEPE from a structural standpoint, its price has done what was expected, but it has yet to show any behavior that would suggest accumulation or sustained demand stepping in at the current price level. Based on this perspective, there is a need for patience, as further consolidation or even additional volatility could still be required before a more constructive structure develops. At the time of writing, PEPE is trading at $0.00000425, having rebounded a little from an intraday low of $0.00000402. The technical outlook for now is that while the major corrective objectives have been met, PEPE might still continue its decline and keep falling in the near term. Featured image from Medium, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "PEPE|meme coin|Pepe Coin|PEPE news|PEPE price|pepeusd|PEPEUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 93,
+        "NAME": "PEPE",
+        "CATEGORY": "PEPE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57739405,
+    "published": 1770241345000,
+    "title": "CME CEO Duffy says exchange is exploring issuing its own token",
+    "body": "Speaking on the company's earnings call, CEO Terry Duffy said the exchange is exploring a CME-issued token and is also piloting tokenized cash infrastructure with Google.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      }
+    ]
+  },
+  {
+    "id": 57739887,
+    "published": 1770242918000,
+    "title": "Spot Bitcoin ETF outflows total $2.9B as BTC price drops to new 2026 low",
+    "body": "Bitcoin’s 12-day ETF outflows, derivatives data and the crypto market in tandem trading with tech stocks suggest traders will continue to cut exposure to risk assets.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57740006,
+    "published": 1770243750000,
+    "title": "Multicoin Capital co-founder Kyle Samani steps down after nearly a decade to pursue other areas of tech",
+    "body": "\" I’m more confident than ever that crypto is going to fundamentally rewire the circuitry of finance,\" said Samani, who will remain chairman of Solana treasury company, Forward Industries.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Multicoin Capital|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57740790,
+    "published": 1770245866000,
+    "title": "Anthropic’s AI Tools Rattle Software Stocks, Prompt Rethink of Sector Valuations",
+    "body": "A selloff in professional-services stocks followed fresh concerns that AI agents could disrupt traditional software pricing.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      }
+    ]
+  },
+  {
+    "id": 57742007,
+    "published": 1770249600000,
+    "title": "DeFi Is Finally Moving From Apps To Systems With Fewer Interfaces",
+    "body": "As DeFi matures, it is moving towards fewer touchpoints, tighter coordination, and systems that absorb complexity instead of exporting it to the user.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
