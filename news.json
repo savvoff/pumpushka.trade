@@ -1,637 +1,5 @@
 [
   {
-    "id": 57792071,
-    "published": 1770391088000,
-    "title": "Bitcoin rises past $68,000, extending bounce from Thursday's crash",
-    "body": "Strategy, MARA Holdings and Galaxy Digital are among crypto-related stocks posting double-digit percentage gains early Friday.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57792392,
-    "published": 1770392089000,
-    "title": "Virginia Advances Bill For State Bitcoin Fund Strengthening $HYPER Market Position",
-    "body": "What to Know: Virginia’s legislative advance toward a state Bitcoin fund validates the asset class and increases the need for scalable Bitcoin infrastructure. Bitcoin Hyper ($HYPER) leverages the Solana Virtual Machine (SVM) to bring high-speed smart contracts and DeFi utility to the Bitcoin ecosystem. Institutional interest is reflected in on-chain data, with over $31.2 million raised in presale so far. The race for state-level crypto adoption just shifted gears. Virginia lawmakers are advancing legislation to establish a dedicated state Bitcoin fund, moving from mere regulatory curiosity to strategic accumulation. The legislation would set up the Commonwealth Strategic Cryptocurrency Reserve Fund. Currently winding through committee, the bill aims to diversify the Commonwealth’s reserves and use digital assets as a hedge against fiat debasement. The legislation would enable Virginia to invest state-held funds directly into $BTC or other qualifying crypto. This could create a reserve that modernizes treasury management and puts the state in a good position, ready for the future of digital finance. Headlines focus on the asset class, but the real story is infrastructure. If states start hoarding Bitcoin, the demand for yield-bearing utility on the network will likely explode. Bitcoin in cold storage is a passive vault; Bitcoin on a high-performance Layer 2 is active capital. That distinction drives capital toward infrastructure plays, unlocking Bitcoin’s liquidity. The narrative isn’t just about holding $BTC anymore; it’s about using it. As institutional interest crystallizes around state-backed adoption, liquidity flows toward solutions fixing Bitcoin’s scalability issues. Bitcoin Hyper ($HYPER) is positioning itself to capture this ‘utility rotation.’ By fusing the Solana Virtual Machine (SVM) with Bitcoin’s security architecture, the project acts as the execution layer for this incoming wave of institutional adoption. The SVM Advantage: Why Bitcoin Hyper Is The Logical Hedge The Virginia bill is a massive catalyst, but a technical bottleneck remains: Bitcoin’s base layer manages roughly 7 transactions per second (TPS). That’s too slow. State funds and managers need high-frequency execution for rebalancing, something the main chain just can’t support. Bitcoin Hyper ($HYPER) tackles this by introducing the first-ever Bitcoin Layer 2 powered by the Solana Virtual Machine. It’s not a subtle upgrade. It swaps Bitcoin’s sluggish speeds for low-latency execution while keeping L1 security for final settlement. For developers, this unlocks a Rust-based environment where dApps run at Solana speeds (but settle on Bitcoin). Liquidity follows the path of least resistance. Current ‘wrapped’ Bitcoin solutions often rely on clunky centralized bridges or slow sidechains. In contrast, Bitcoin Hyper uses a decentralized Canonical Bridge, offering a trust-minimized path for $BTC transfers. By enabling high-speed payments and complex DeFi protocols (swaps, lending, staking), the protocol turns passive state reserves into productive assets. The market’s appetite for this modular architecture, L1 settlement plus SVM L2 execution, is clearly growing. As Virginia moves to legitimize Bitcoin holdings, the premium on ‘programmable Bitcoin’ expands. Frankly, the ability to offer smart contract support where none existed before makes this a critical piece of infrastructure for the post-adoption era. FIND OUT MORE ABOUT BITCOIN HYPER Whale Accumulation Signals Smart Money Positioning While lawmakers debate policy, on-chain metrics suggest smart money is already front-running the trade. The gap between retail uncertainty and whale is wide. Bitcoin Hyper has raised over $31M, a figure signaling serious confidence despite broader volatility. At $0.0136752, the entry point appears to be attracting high-net-worth volume. Whales are moving. With accumulations totalling $500K and $379.9K they scream conviction in the project’s long-term value. Beyond capital inflows, the tokenomics encourage patience. Staking opens immediately after the Token Generation Event (TGE) with high APY rewards. Plus, presale stakers face a 7-day vesting period, a mechanism likely designed to dampen post-launch volatility and reward true believers. With a trusted sequencer ensuring rapid state anchoring to Bitcoin L1, technical risk is minimized while throughput stays high. For investors watching Virginia, $HYPER represents a leveraged bet on the infrastructure needed to support state-level adoption. BUY YOUR $HYPER NOW This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry inherent risks, and readers should conduct their own due diligence before making any investment decisions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57792905,
-    "published": 1770393168000,
-    "title": "Bitcoin beats FTX, COVID-19 crash with record dive below 200-day trend line",
-    "body": "Bitcoin bear market momentum sparked a record crash below the 200-day simple moving average as analysis expected BTC price \"mean reversion\" next.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57792752,
-    "published": 1770392960000,
-    "title": "Robinhood CEO Forecasts Prediction Market Explosion; Traders Pivot to $MAXI",
-    "body": "What to Know: Robinhood CEO Vlad Tenev predicts prediction markets and event contracts will become a major asset class, validating the retail shift toward active, high-stakes speculation. The ‘gamification of finance’ is driving capital toward projects that offer competitive environments, moving beyond simple asset holding to interactive trading cultures. Maxi Doge capitalizes on this trend with ‘Leverage King’ branding and holder-only trading competitions, raising over $4.5 million in its presale phase. Institutional interest is visible on-chain, with verified whale wallets accumulating over $618K in $MAXI, signaling confidence in the project’s competitive utility model. Robinhood CEO Vlad Tenev has officially signaled that prediction markets are no longer just a niche corner of the internet; they are becoming a fundamental component of the financial landscape. Speaking recently on the surge of ‘event contracts,’ Tenev highlighted how platforms allowing users to trade on election outcomes, economic indicators, and cultural events are seeing volumes that rival traditional asset classes. The logic is sound. Retail traders have evolved (and gotten significantly more aggressive). They aren’t satisfied with the passive accumulation of ETFs anymore; they seek active participation in outcomes. The explosion of activity on platforms like Polymarket, which has regularly surpassed $1B in monthly volume during peak political seasons, validates this shift. Tenev’s commentary suggests major brokerages are scrambling to integrate these binary outcome derivatives, effectively gamifying finance for the masses. But this isn’t just about betting on who wins an election. It signals a broader psychological shift toward high-conviction, high-leverage environments. The ‘degen economy’ is maturing into a ‘conviction economy,’ where capital flows to assets that reward bold positioning. This appetite for gamified, high-stakes trading creates a massive tailwind for projects merging community culture with trading utility. As the lines between prediction markets and meme culture blur, liquidity is moving toward tokens that embody this aggressive mentality. One such project capturing this specific momentum is Maxi Doge ($MAXI) , a protocol designed explicitly for the leverage-hungry cohort of the crypto market. High-Octane Trading Culture Fuels Demand For Maxi Doge If the rise of prediction markets proves one thing, it’s that traders want immediate feedback loops. Maxi Doge ($MAXI) taps into this exact vein, not by offering binary bets on news, but by gamifying the trading experience itself. And it’s fronted by a muscle-bound shiba-inu who never skips a leg day. While legacy meme coins rely solely on social sentiment, Maxi Doge frames itself around the ‘Leverage King Culture.’ Think of it as a digital ecosystem for traders who view 1000x leverage not as a risk, but as a lifestyle. The project’s central utility will revolve around Holder-Only Trading Competitions, where participants compete for leaderboard rewards. This mirrors the competitive nature of prediction markets but focuses the adrenaline purely on ROI rather than external events. The market response? Quantifiable. Maxi Doge has raised over $4.5M to date. That level of capital injection during a presale phase suggests the narrative of ‘Lift, trade, repeat’ resonates with a retail demographic tired of low-volatility assets. The project’s treasury, known as the ‘Maxi Fund,’ will back liquidity to facilitate these high-octane partner events, ensuring the ecosystem remains solvent even when the market gets choppy. By aligning its brand with the ‘gym-bro’ aesthetic of relentless self-improvement, Maxi Doge acts as a metaphor for the bull market grind. EXPLORE THE MAXI DOGE ECOSYSTEM Whales Target $MAXI As The Next Evolution Of Competitive Finance Smart money appears to be positioning itself ahead of the public listing, likely anticipating that the ‘gamification of finance’ trend identified by Robinhood’s CEO will spill over into competitive trading tokens. On-chain data tells a compelling story. Etherscan records show that two whale wallets have accumulated $618K. Each transaction was for $314K . Large-scale accumulation of this magnitude during a presale typically indicates that institutional-sized players are betting on a post-launch supply squeeze or high demand for the token’s utility. This conviction likely stems from the tokenomics. Unlike standard inflationary meme tokens, Maxi Doge incorporates a staking protocol with dynamic APY. The smart contract is planned to manage a daily automatic distribution from a 5% staking allocation pool, rewarding holders who lock their assets while participating in the ecosystem. With the current token price sitting at $0.0002802, early entrants are positioning themselves to capture both the yield and the potential price appreciation driven by the platform’s trading contests. The intersection is clear: Robinhood validates the trend of speculative markets, and projects like Maxi Doge provide the decentralized infrastructure for traders to act on that impulse. As the ‘event contract’ economy grows, tools that allow traders to prove their superiority, like $MAXI’s leaderboards, are poised to capture significant mindshare. BUY YOUR $MAXI FROM THE OFFICIAL PRESALE PAGE The content of this article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments, particularly in presale projects and meme tokens, carry high risk and volatility. Always conduct your own due diligence.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 62,
-        "NAME": "ZRX",
-        "CATEGORY": "ZRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57792991,
-    "published": 1770393635000,
-    "title": "Why The Market Cap Argument For XRP Price Not Reaching $10,000 Is ‘Flawed’",
-    "body": "The debate over whether the XRP price could reach $10,000 has reignited in the crypto market. However, this time, one crypto analyst challenges the common argument that market capitalization could limit XRP’s growth. According to the analyst, this claim is flawed and does not take into context XRP’s liquidity and utility as a global settlement currency. Why Market Cap Does Not Limit Price Surge To $10,000 Some critics argue that XRP would never hit $10,000 because doing so would make its market capitalization exceed the global money supply. Market analyst Crypto_Luke has addressed this misconception in a recent X post, emphasizing that market cap does not limit the XRP price in any way. Related Reading: Expert Explains Why The Market Cap Theory Doesn’t Apply To XRP The analyst explained that market cap is simply the last traded price multiplied by a cryptocurrency’s circulating supply, which is a snapshot of overall trading activity and not a reflection of how much money is required to achieve a certain price. He noted that the common criticism that market capitalization represents the amount of money invested in an asset is inaccurate. One reason Crypto_Luke believes the market cap argument is flawed is that it fails to account for how XRP operates. Unlike assets designed primarily for storing value, such as BTC, XRP is designed for rapid liquidity and settlement across global corridors. He stated that XRP can be used multiple times in a single day, facilitating transactions without requiring additional capital. As a result, he suggests that XRP’s price is determined by its “actively traded float,” rather than by the total supply that is idle. In his analysis, Crypto_Luke emphasized that liquidity and price adjustments go hand-in-hand in XRP’s design. He explained that assets that move quickly through settlements allow the blockchain network to satisfy demand without requiring equivalent dollar-for-dollar backing. As XRP’s transaction volume increases, its price naturally adjusts to reflect the value of its utility rather than a fixed market cap. The analyst noted that XRP’s supply was intentionally designed to be large, fixed, and non-reissuable. This structure supports a multi-trillion-dollar liquidity pool and enables the network to handle high-volume settlement throughput. XRP Market Cap Crashes Nearly 10% More recently, XRP faces additional downward pressure, as CMC data shows that the cryptocurrency’s market capitalization has crashed by nearly 10%. As of writing, XRP’s market cap has fallen to approximately $79.25 billion following a massive decline in its price over the past 24 hours. Related Reading: XRP Completes ‘Super Guppy Compression’ Against Bitcoin, Next Target Emerges The downturn aligns with the broader market sell-off across major cryptocurrencies, as sentiment has become increasingly bearish. XRP has been among the worst affected, with its price slipping toward $1.3, marking its lowest levels since 2024. The cryptocurrency shows no clear signs of a rebound despite a recent surge in daily trading volume, which has increased by more than 148%. Featured image from Freepik, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP|bitcoin|btc|CMC|Crypto_Luke|Ripple|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57792922,
-    "published": 1770393474000,
-    "title": "Bitwise says peak anxiety signals crypto market is nearing a bottom",
-    "body": "The crypto asset manager argued that while the current drawdown mirrors the anxiety of 2018 and 2022, long-term upside catalysts remain intact.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Bitwise|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57793407,
-    "published": 1770395147000,
-    "title": "Bitcoin Briefly Crashed On Bithumb Amid Airdrop Error Plus High-Performance $HYPER Climbs",
-    "body": "What to Know: A Bithumb flash crash exposed deep liquidity risks in centralized exchanges, driven by a rumored 2,000 $BTC airdrop error. Capital is rotating from volatile spot trading into infrastructure plays that solve Bitcoin’s speed and cost limitations. Bitcoin Hyper leverages the Solana Virtual Machine (SVM) to bring high-speed smart contracts and sub-second finality to the Bitcoin network. Liquidity is the lifeblood of crypto. But this week on Bithumb? It looked more like a hemorrhage. The South Korean giant witnessed a sudden, violent dislocation in Bitcoin’s price following a messy rumor regarding a 2K $BTC airdrop distribution. For a few heart-stopping minutes, order books evaporated. Wicks dived deep into sub-market territory before arbitrage bots and market makers could step in to stop the bleeding. Call it a glitch if you want, but really, it was a stress test. Panic spiraled from a misunderstanding of an internal distribution mechanism, yet the reaction, immediate sell-side pressure followed by a violent V-shape recovery, exposes how fragile centralized order books get during high-velocity events. While Western traders watched spreads widen, the ‘ Kimchi Premium ‘ briefly inverted. Institutional algorithms devoured that rare arbitrage window in seconds. This incident exposes a narrative: Bitcoin, the asset, is pristine; the rails we trade it on are clunky. As legacy infrastructure creaks under volatility, capital is rotating toward protocols fixing these structural inefficiencies. Investors are looking past the drama of CEX wicks and toward the burgeoning Layer 2 ecosystem. Leading the pack? Bitcoin Hyper ($HYPER) , a protocol quietly amassing capital by promising to overhaul how value moves on the world’s oldest blockchain. Solving The Latency Crisis: Bitcoin Hyper Integrates SVM The Bithumb flash crash is a wake-up call regarding settlement layers. When networks congest or exchange engines falter, liquidity traps form. Bitcoin Hyper tackles this by fundamentally altering the Bitcoin transaction architecture. By integrating the Solana Virtual Machine (SVM) as a Layer 2 execution environment, the project attempts to marry Bitcoin’s security guarantees with the throughput that makes Solana a favorite among high-frequency traders. It moves Bitcoin from a passive ‘digital gold’ asset to an active, programmable platform. Right now, Bitcoin’s base layer manages roughly 7 transactions per second (TPS) with 10-minute block times, metrics that make modern DeFi applications impossible. Bitcoin Hyper uses a decentralized canonical bridge and a modular design, L1 for settlement, SVM L2 for execution. The result? Sub-second finality and costs that are fractions of a cent, effectively enabling the kind of high-speed trading that prevents liquidity crunches like the one at Bithumb. The implications for builders are huge. By supporting Rust-based smart contracts via the SVM, Bitcoin Hyper opens the door for complex DeFi swaps, lending protocols, and gaming applications previously stuck on other chains. The market is signaling a clear appetite for this utility; protocols that successfully activate dormant BTC capital are currently outperforming pure governance tokens. CHECK OUT BITCOIN HYPER ON ITS OFFICIAL PRESALE SITE Smart Money Rotation: Presale Metrics and Whale Positioning While retail traders were glued to the Bithumb charts, sophisticated actors seem to be positioning themselves in the $HYPER presale. Internal data indicates robust inflows, with the project raising over $31M so far. Seeing that level of liquidity injection during a choppy market suggests institutional conviction in the ‘Bitcoin L2’ thesis is deepening. On-chain behavior backs this up. Smart money is moving, with whale purchases as high as $500K scooping up early. With the token currently priced at $0.0136752, early entrants are betting on the gap between the current valuation and the massive addressable market of unwrapped Bitcoin liquidity. The tokenomics structure prioritizes alignment over mercenary capital. Bitcoin Hyper features a high APY staking program active immediately post-TGE, paired with a 7-day vesting period for presale stakers. That’s designed to dampen post-launch volatility, ensuring liquidity is sticky rather than transient. In this case, sticky is good. For investors watching the Bithumb chaos from the sidelines, the stability of a programmed L2 environment offers a sharp alternative to the ‘wild west’ of spot exchange trading. BUY YOUR $HYPER NOW The content provided in this article is for informational purposes only and does not constitute financial advice. Cryptocurrency markets are highly volatile; conduct your own due diligence before investing.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 204,
-        "NAME": "AIRDROP",
-        "CATEGORY": "AIRDROP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57793284,
-    "published": 1770394481000,
-    "title": "Bitcoin crashed to $55,000 on Bithumb after exchange accidentally airdropped users 2,000 BTC",
-    "body": "An internal reward distribution mistake briefly sent bitcoin prices sharply lower on South Korea’s Bithumb exchange after users were mistakenly credited with large phantom balances.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Bithumb|South Korea|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57793683,
-    "published": 1770396041000,
-    "title": "Tether Mints 1B $USDT: Liquidity Injection Hits as SUBBD Targets $85B Creator Economy",
-    "body": "What to Know: Tether’s $1B mint signals institutional preparation for increased market activity and potential buy-side pressure. Liquidity typically flows from major caps to high-utility sectors, specifically AI and decentralized applications. SUBBD Token uses AI and Web3 to eliminate the 70% fees common in the $85B creator economy. Smart money is accumulating early, with over $1.47M raised in the ongoing presale phase. Tether Treasury just printed another 1 billion $USDT . While historically linked to volatility, this massive mint signals immense buy-side pressure building beneath the surface of the digital asset landscape. The transaction took place on the Ethereum network, pushing the stablecoin market cap toward yearly highs. Why does this matter? Stablecoin issuance is effectively the starting gun for capital inflows. When institutions and whales prepare to enter positions, they don’t buy with fiat on-chain; they load up on stablecoins first. The timing aligns perfectly with Bitcoin’s consolidation near critical resistance, suggesting smart money is positioning for a breakout. But there’s a catch. While Bitcoin opens the door, the biggest percentage gains usually rotate into high-utility altcoins shortly after the liquidity tap opens. The current market structure is favoring specific sectors rather than lifting all boats. Investors are looking past broad indexing to find application-layer protocols fixing actual Web2 headaches. This search for yield has landed squarely on the collision of AI and the creator economy, a sector where legacy platforms shamelessly take up to 70% cuts. As liquidity floods the system, projects like SUBBD Token ($SUBBD) are catching that early capital by attacking these monetization bottlenecks head-on. CHECK OUT $SUBBD ON ITS OFFICIAL PRESALE PAGE AI Agents and Web3 Fix the ‘OnlyFans Problem’ The content creation industry churns out over $85B annually, yet the infrastructure supporting it remains predatory. Platforms act as centralized gatekeepers, extracting the lion’s share of revenue and enforcing arbitrary censorship. SUBBD isn’t just tweaking this model; it’s dismantling it. By merging Web3 transparency with advanced AI tools, the protocol hands control back to the creators. This is more than a payment layer; it’s an operational overhaul for the gig economy. SUBBD integrates proprietary AI models for content generation, including AI Voice Cloning and specialized chatbots that automate creator-fan interactions. For influencers juggling thousands of subscribers, the ‘AI Personal Assistant’ handles engagement without losing that personal touch. That’s a utility that directly impacts the bottom line. By running on Ethereum with EVM-compatible smart contracts, SUBBD removes the friction of traditional banking rails. While legacy platforms sit on payouts for weeks, blockchain settlement offers near-instant liquidity. Plus, the governance model separates it from Web2 giants; holding $SUBBD lets users vote on feature rollouts and policies. The ecosystem evolves based on what stakeholders need, not what a corporate boardroom decides. BUY $SUBBD ON ITS OFFICIAL PRESALE PAGE Smart Money Rotates Into Presale Utility As Tether juices market liquidity, speculative capital is moving further out on the risk curve to find undervalued assets before they list on public exchanges. SUBBD’s raise data reflects this shift. The project has already pulled in over $1.4M, signaling serious demand for AI-centric utility tokens despite the broader market chop. At $0.0574925, the current entry point sits well before the typical volatility of open market trading. But it’s not just about price appreciation. The protocol incentivizes holding through a structured staking mechanism. Investors can lock tokens to earn a fixed 20% APY during the first year, a rate that significantly outpaces traditional DeFi yields and helps offset inflation. High-yield staking meets deflationary utility. As the platform launches its ‘HoneyHive’ membership tiers and token-gated exclusive content, the circulating supply of $SUBBD is designed to contract relative to usage. With the creator economy projected to double in size by 2027, the presale metrics suggest sophisticated investors are betting on SUBBD to eat legacy incumbents’ lunch. Find out more about $SUBBD in our ‘ How to Buy SUBBD Token ‘ guide. This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry inherent risks, and presale assets can be volatile. Always conduct your own due diligence.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57793618,
-    "published": 1770395773000,
-    "title": "China Formalizes Ban on Yuan Stablecoins, RWA Tokenization",
-    "body": "Chinese regulators have locked in a sweeping crypto clampdown, banning unapproved yuan-linked stablecoins and curbing tokenized assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57793988,
-    "published": 1770397104000,
-    "title": "China Tightens Stance On RWA Tokenization While LiquidChain Continues Presale Raise",
-    "body": "What to Know: China is intensifying scrutiny on public RWA tokenization to prevent capital flight, favoring permissioned state-run blockchains over open crypto networks. This regulatory fragmentation increases the need for permissionless interoperability solutions that unify global liquidity outside restrictive jurisdictions. LiquidChain addresses this by fusing Bitcoin, Ethereum, and Solana into a single execution layer, allowing developers to deploy once and access users everywhere. The LiquidChain presale has raised over $530K at $0.01355, signaling strong market demand for infrastructure that solves cross-chain friction. The divergence between Eastern and Western approaches to digital assets, specifically Real World Assets (RWA), is widening. Fast. Recent signaling from the People’s Bank of China and agencies like the National Development and Reform Commission and the Ministry of Public Security points to a renewed crackdown on ‘public’ tokenization. This reinforces the firewall between Beijing’s permissioned blockchain garden and the open, permissionless crypto economy. While Hong Kong courts Web3 innovation with sandbox environments, mainland regulators are reportedly eyeing RWA platforms that touch public chains like Ethereum with suspicion. The real worry is capital flight. Beijing sees permissionless RWA, tokenized bonds, real estate, or commodities, as a backdoor in its capital control regime. If a Shanghai investor can buy a tokenized US Treasury bill on-chain, the firewall is breached. Consequently, the narrative is shifting toward ‘compliant, permissioned tokenization’ solely on state-sanctioned infrastructure like the Blockchain-based Service Network (BSN), effectively banning public crypto for settlement. That forces a bifurcation in global liquidity. We’re seeing a ‘Splinternet’ of value: a closed, state-run intranet in China, and a chaotic, high-efficiency internet of value everywhere else. For global DeFi, this tightening highlights the need for infrastructure that’s resilient, decentralized, and capable of unifying liquidity outside restrictive jurisdictions. As nations build walls, the crypto market funds bridges. That architectural demand is driving attention toward interoperability protocols like LiquidChain ($LIQUID) , which is quietly absorbing capital in its ongoing presale. Unified L3 Architecture Solves The Silo Problem The core issue here is fragmentation. Whether it’s caused by regulatory firewalls or technical incompatibilities, fractured liquidity kills efficiency. When assets get trapped on one chain, or within one country’s digital borders, slippage spikes and the user experience degrades. The market’s response? A pivot toward Layer 3 (L3) infrastructure designed specifically as connective tissue. LiquidChain steps in as a dedicated ‘Cross-Chain Liquidity Layer.’ Unlike traditional bridges that wrap assets (often creating honeypots for hackers), LiquidChain uses a Cross-Chain VM (Virtual Machine) to fuse execution environments. It merges Bitcoin, Ethereum, and Solana into a single interface. For developers, this is a ‘deploy-once’ architecture. Instead of writing separate smart contracts for the EVM (Ethereum) and SVM (Solana), they deploy on LiquidChain, and the protocol handles the asynchronous state changes across the underlying chains. That technical nuance matters. In a market where regulators are trying to choke off entry points, protocols that abstract away the underlying chain complexity offer the path of least resistance. LiquidChain isn’t just moving tokens; it’s creating a unified settlement layer where a user’s Bitcoin can serve as liquidity for a Solana app without complex hopping. The data suggests smart money is betting on this convergence thesis rather than the siloed approach favored by state actors. FIND OUT MORE FROM THE OFFICIAL LIQUIDCHAIN WEBSITE LiquidChain Presale Data Signals Appetite For Infrastructure While macro headlines obsess over government bans and ETF flows, the venture capital cycle is rotating back into deep infrastructure. Speculative meme coins are flashy, sure, but the ‘picks and shovels’ plays are where long-term conviction settles. LiquidChain’s current presale performance reflects this shift toward utility-driven value. According to the latest internal data, LiquidChain has raised $526,615.32, with the token currently priced at $0.01355. Raising over half a million dollars ($530K) during a period of regulatory uncertainty in major markets implies that investors are pricing in the success of cross-chain interoperability. The value proposition is clear: LiquidChain solves the ‘fragmented liquidity’ problem plaguing the current L1/L2 landscape. Frankly, the tokenomics support a long-term hold thesis. By positioning $LIQUID as the fuel for this unified execution environment, the protocol captures value from every cross-chain interaction. It could be one of the best crypto to watch . As users stake liquidity to secure the network, the floating supply constricts. The risk here (as with any presale) is execution; delivering a mainnet that handles atomic swaps securely is tough. But for investors looking at a price point of $0.01355, the asymmetry lies in the potential for LiquidChain to become the default routing layer for the next generation of DeFi. BUY YOUR $LIQUID FROM THE PRESALE PAGE This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments, especially presales, carry high risk and volatility. Always conduct your own due diligence.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57794513,
-    "published": 1770398405000,
-    "title": "China bans stablecoin and RWA issuance by foreign and domestic companies",
-    "body": "The latest announcement from the People's Bank of China follows months of flip-flopping on privately issued yuan-pegged stablecoins.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      }
-    ]
-  },
-  {
-    "id": 57794656,
-    "published": 1770399055000,
-    "title": "Bitcoin Shaken By Major Capitulation Event As Price Drops To $65K",
-    "body": "Bitcoin’s market shook hard on a single day of trading, sending prices tumbling to $65,000 and nerves flaring. Reports note the move wiped out a big chunk of recent gains and pushed many recent buyers into loss. Price action this sharp rarely comes without a story behind it — and this one had several threads pulling at once. Related Reading: Polygon Hits $3.50 Billion In Payments As Crypto Activity Expands Bitcoin: Capitulation And Selling Pressure According to Glassnode, the spike in forced sales is one of the biggest seen in about two years. Traders who had used borrowed money were hit first. Liquidations swept through positions, and many coins moved from hands that bought recently to hands that sold quickly. Realized losses climbed to the highest levels since late 2022, with close to $890 million a day recorded on a seven-day average. The sell-off unfolded over roughly 10 hours of intense trading, with panic and program trades both playing a role. The $BTC capitulation metric has printed its second-largest spike in two years, highlighting a sharp escalation in forced selling. These stress events typically coincide with accelerated de-risking and elevated volatility as market participants reset positioning.… pic.twitter.com/mcvVqXJcYq — glassnode (@glassnode) February 5, 2026 Prices Fall Below Buyer Cost Lines Reports say Bitcoin’s market price has fallen under several on-chain cost markers that many investors watch. Short-term buyers who picked up coins in recent months now sit below their purchase price. That creates a kind of pressure where emotional selling can feed into more selling. Active investor costs and broader market averages were all above the spot price, which made the slide feel deeper. When a market drops under the average cost of recent buyers, volatility tends to rise and traders begin hunting for the next reliable support. News Flow And Timing The move comes after a run of strong gains earlier in the year. Price was last at these levels back in November 2024, just before US President Donald Trump won his reelection. That timing put the fall in sharper relief for some observers who had started to see those prior highs as a fresh floor. Headlines and big trades added friction to the market. Social chatter and rapid shifts in order books amplified selling, and some long-term holders did move to lock in gains or cut risk. Related Reading: Russia’s Biggest Exchange To Launch XRP Indices And Futures What The Numbers Tell Us Based on on-chain measures, the recent drop forced a large group of holders to realize losses, not just paper losses but actual transactions where coins left wallets at a lower price than they were bought. That kind of clearing can remove built-up leverage and leave a cleaner market on the other side. It also leaves fewer buyers near current levels, which means rebounds can be choppy and uneven. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin|Bear market|bitcoin|btc|capitulation|crypto|crypto winter|digital currency|glassnode",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57794654,
-    "published": 1770398954000,
-    "title": "Russia’s largest bank, Sberbank, prepares to issue crypto-backed loans",
-    "body": "Russia’s biggest bank said it plans to offer loans secured by cryptocurrency following a pilot deal with a mining firm, with legislation expected by mid-2026.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Russia|Sberbank|Crypto Lending|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57795203,
-    "published": 1770400483000,
-    "title": "Ondo wants to rebuild prime brokerage on-chain — and perps are the first step",
-    "body": "Ondo showcases rapid growth in tokenized assets and unveils plans to turn that momentum into a full-stack on-chain financial services ecosystem at its summit.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk News|Media Network Interview|Tokenization|Real World Assets|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57795193,
-    "published": 1770400408000,
-    "title": "AI.com bought by Crypto.com founder for $70mn in biggest-ever website name deal",
-    "body": "Kris Marszalek plans to launch new site with a Super Bowl ad this weekend",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57796227,
     "published": 1770403497000,
     "title": "Crypto's eligibility for 401k retirement funds is under fire after brutal market rout wipes out $2 trillion",
@@ -1751,6 +1119,211 @@
         "ID": 58,
         "NAME": "XRP",
         "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57817922,
+    "published": 1770478229000,
+    "title": "Pundit Says It’s Time To Get Your XRP Off Crypto Exchanges – Here’s Why",
+    "body": "XRP’s price crash earlier this week has kept many bullish investors in the XRP community on edge, but one outspoken voice in the community believes the move is not as random as it looks. A crypto pundit known as Stellar Rippler has encouraged XRP holders to pull their cryptocurrencies off centralized exchanges immediately, with the outlook that the recent volatility is not just another routine market dip but a warning sign of what’s to come. Related Reading: Bitcoin Edges Past Gold In Appeal, JPMorgan Says Engineered XRP Crash? Stellar Rippler’s position is based on the idea that XRP is being treated differently from most digital assets behind the scenes. He pointed to past remarks from David Schwartz, co-creator of the XRP Ledger, where XRP was described as a form of pre-allocated liquidity for institutional use, as well as statements suggesting that XRP currently held in escrow can be sold to institutions but will not be circulated until NDAs are disclosed. He went further to name large financial players, including BlackRock, JPMorgan, Bank of America, and institutions linked to the BRICS, the United Arab Emirates, the United Kingdom, and European central banking structures. According to the pundit, all these institutions have bought the right to buy the XRP currently held in escrow by Ripple. At the time of writing, there are no public filings that confirm coordinated buying of XRP escrows by these entities, but the argument has found receptive ears among investors unsettled by the recent sell-off. From that angle, the pundit noted that sudden downside moves, such as the recent drop to $1.15, are engineered. By “engineered,” this means the price crash serves a strategic purpose of creating opportunity for large financial players to accumulate XRP at lower prices before any market repricing takes place. Should You Take Your XRP Off Exchanges? Another part of the warning focused on user experience at major crypto exchanges. According to the pundit, Binance and Coinbase users have reportedly been facing difficulties getting their crypto off the exchanges. This, in itself, is a warning for XRP holders to get their cryptos off crypto exchanges and into a cold wallet. That message taps into conversation in crypto about self-custody versus keeping holdings on crypto exchanges. Calls to be your own bank tend to resurface whenever price action turns volatile. The alarm was sounded against the backdrop of a Bitcoin price crash below $70,000 that pulled most cryptocurrencies lower. XRP, in particular, dipped to around $1.15 during the sell-off before rebounding. Related Reading: Bitcoin Sell-Off May Be Done, Analyst Flags Recovery Signs At the time of writing, XRP is trading near $1.42, easing some immediate pressure but not fully restoring confidence. On the subject of confidence, sentiment surrounding XRP on social media is relatively optimistic. Data shows XRP is drawing more positive commentary than other large-cap assets such as Bitcoin and Ethereum despite the recent market-wide crash. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Altcoin|altcoin|crypto|crypto market|crypto news|cryptocurrency|Ripple|xrp|XRPUSD",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57818519,
+    "published": 1770480524000,
+    "title": "Bitcoin falls below $70,000 after erasing post-election gains during 'sell at any price' rout",
+    "body": "Crypto sentiment was hit as Gemini plans to close operations in several regions and cut staff, while spot bitcoin ETF flows turned negative.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|crypto market|crypto prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57819423,
+    "published": 1770483621000,
+    "title": "Bitcoin Crash Linked To BlackRock IBIT Hedging, Arthur Hayes Claims",
+    "body": "Arthur Hayes, co‑founder of BitMEX, has pointed to hedging tied to BlackRock’s iShares Bitcoin Trust (IBIT) as a major driver behind the recent Bitcoin sell‑off. Related Reading: Bitcoin Edges Past Gold In Appeal, JPMorgan Says According to Hayes, dealer hedging related to IBIT and similar structured products can force large, mechanical selling when markets move against those positions. Reports note that such moves can amplify a price drop already set off by other pressures. Heavy Hedges Can Trigger Sudden Selling Pressure: Hayes Hayes argues that banks and dealers who underwrite structured notes and ETF‑linked products often hedge their exposure in the spot and derivatives markets. Those hedges can be heavy and fast. When a large product faces outflows or redemption triggers, hedges are adjusted quickly. That can translate into sudden selling pressure that pushes prices down further, especially if liquidity is thin. $BTC dump probably due to dealer hedging off the back of $IBIT structured products. I will be compiling a complete list of all issued notes by the banks to better understand trigger points that could cause rapid price rises and falls. As the game changes, u must as well. pic.twitter.com/9DF8VE9XBL — Arthur Hayes (@CryptoHayes) February 7, 2026 Market Moves And Liquidity Stress The market behaved like a room of people trying to leave at once. Prices plunged, then bounced. Reports say Bitcoin fell steeply from its recent highs before staging a partial recovery. Bitcoin has fallen to around $68,500 Saturday, down 16% in the last seven days, data from Coingecko shows. Trades and order books showed spikes in volume, which is one sign that hedging flows and quick rebalancing were at play. Some analysts say macro news and trader positioning also mattered. The truth likely sits in the overlap of these causes. Who Bears The Risk Dealers carry risk when they underwrite complex products. In certain moments, that risk is passed back into the market through hedging. That’s how, according to Hayes, a few large issuers can indirectly set off a chain reaction that affects many other holders and traders. The moves can be sudden and mechanical, not always driven by sentiment. A Watchful Washington Reports say the role of spot ETFs in crypto markets is now on regulators’ and policymakers’ radar. US President Donald Trump’s economic team has been monitoring big flows into and out of institutional vehicles, while market participants debate whether ETFs stabilize prices or add new stress points. Whatever the view, structured products now form a clear link between traditional finance and crypto volatility. Broader Takeaways This episode underlines how new financial plumbing can create new channels for contagion. Some see the presence of large, regulated players as a net positive for long‑term adoption. Others warn those same players introduce conventional market mechanics that can behave unpredictably when stretched. Reports note both perspectives are useful when piecing together why prices moved the way they did. Related Reading: Bitcoin Sell-Off May Be Done, Analyst Flags Recovery Signs Who Is Right, And What Next Hayes has laid out a theory that ties observable hedging flows to the crash. It is a compelling thread that fits many of the market signals seen in recent days. Still, other factors—macro shifts, concentrated profit‑taking, and liquidity gaps—likely played parts as well. Traders will watch flows closely, and structured product issuers will be asked hard questions. Featured image from Unsplash, chart from TradingView",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Arthur Hayes|bitcoin|BlackRock|btcusd|crypto|IBIT|liquidity",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57819422,
+    "published": 1770483600000,
+    "title": "SOL-focused Forward Industries has had a tough run, but CIO says it's positioned for success",
+    "body": "With no debt and the largest public solana treasury, Forward Industries' CIO says it can play offense and consolidate rivals as the sector strains.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Digital Asset Treasury|Solana News|mergers and acquisitions|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      }
+    ]
+  },
+  {
+    "id": 57820898,
+    "published": 1770485590000,
+    "title": "South Africa’s Kganyago Warns on Risk of Growing Stablecoin Use",
+    "body": "South African Reserve Bank Governor Lesetja Kganyago warned about the risk of the increasing popularity of stablecoins, saying there’s a danger the cryptocurrency assets could “break apart.”",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
       },
       {
         "TYPE": "122",
