@@ -1,297 +1,5 @@
 [
   {
-    "id": 57796227,
-    "published": 1770403497000,
-    "title": "Crypto's eligibility for 401k retirement funds is under fire after brutal market rout wipes out $2 trillion",
-    "body": "\"401ks exist to help people save for a secure retirement, not gamble on speculative assets,\" said an industry observer.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|CoinDesk Wealth|401(k)|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57796574,
-    "published": 1770404431000,
-    "title": "What Went Wrong With Crypto? A Postmortem",
-    "body": "Crypto’s latest drawdown hit the majors in size: bitcoin fell about 8.1% over the past 24 hours and is down roughly 29.5% over the past 30 days, while Ether dropped about 9.4% on the day and about 41.4% over the past month; XRP was off about 10.3% in 24 hours and roughly 42.7% over 30 days, and Solana slid about 12.3% on the day and around 42.8% over the month. While many point to the nomination of Kevin Warsh as next US Federal Reserve chair, renowned macro analyst Alex Krüger argued on X on Friday that it is the cumulative effect of narrative fatigue, weakening marginal demand, and a macro regime wake-up call that hit after the market had already started to roll over. What Went Wrong For Crypto? Krüger framed the move as a momentum break that turned into a seller’s market. In his telling, the “10/10 slaughter” — a nod to the sharpness of the unwind, with a pointed aside about whether he’d “get sued” for mentioning Binance — was less a mystery than a pileup of factors that steadily drained risk appetite and then yanked away the last hope of a liquidity tailwind. Related Reading: Bitwise CIO Warns Market Is Facing A ‘Full-Bore’ Crypto Winter, Not A Pullback He pointed first to the hangover from Digital Asset Treasuries (DATs), and then to a reversal in flows tied to criminal networks. Krüger said “major flows reversed after the DoJ indictment of the Cambodian Prince Group last October,” describing it as a material shift in demand that the market may have been underappreciating while price was still holding up. What went wrong with crypto 1. 10/10 slaughter (will I get sued if I mention Binance?). 2. Digital Asset Treasuries (DATs) hangover. 3. Reversed flows from crime syndicates: major flows reversed after the DoJ indictment of the Cambodian Prince Group last October. 4. Quantum… — Alex Krüger (@krugermacro) February 6, 2026 Two other themes in his post leaned explicitly on fear and opportunity cost. Krüger flagged “quantum fears (real)” as a psychological overhang, and then argued that the AI boom has become a direct competitor for both capital and talent. He said the pivot isn’t subtle: “capital pivoting to AI,” “talent pivoting to AI,” and even “miners pivoting to AI,” all of which tighten the loop around crypto’s ability to reaccelerate. In parallel, he suggested the market’s global bid has narrowed. Krüger cited a “perception of Bitcoin as American,” adding that there are “few Chinese buyers,” a contrast with the participation he said had been “behind the metals uptrend in large numbers.” He also described a structural shift in who “owns” the trade. “The Swamp & Institutions taking over,” he wrote, arguing the market has moved from “Cypherpunk/Rebel tech to ETF tech.” In his framing, crypto used to be “for misfits & geniuses,” but now “it’s a line item in a 401k” — a change that, in his view, crowds out the volatility-driven momentum that historically pulled in OGs and retail. Other pressure points were more familiar: political risk around Trump association (“what happens once Democrats are back?”), “minimal innovation (since Hyperliquid),” and the brutal reflexivity of the Solana memecoin cycle — “Solana casino massacre (thank Pump Fun & the Memecoin Supercycle).” He paired that with a supply critique: “There are 29.91 million cryptocurrencies tracked by CoinMarketCap,” he wrote, warning that “almost every coin in the top 200 is grossly overvalued” alongside “never ending” launches that “pump then dump to oblivion where only insiders profit.” He even declared the “dead digital gold narrative” as another drag on marginal buyers. Related Reading: Crypto Isn’t Broken, It’s A US Liquidity Squeeze, Says Raoul Pal The mechanical result, Krüger said, was straightforward: “sellers dumping more aggressively than usual on every pump,” while “buyers not showing up to buy the dips as much any longer.” Then came what he framed as the macro trigger that hardened the selloff. “And then came the Warsh nomination (beating Hassett and Rieder), and the market suddenly became deeply aware that Warsh is a strong advocate of a small balance sheet: goodbye Quantitative Easing (QE) and Yield Curve Control (YCC) dreams, hello Quantitative Tightening (QT) fears. That is what happened.” Krüger stressed he was describing the past, not forecasting the next move, arguing the damage has already been done. Still, he noted that “volume, liquidations, implied volatility and options skew indicate that a local bottom is likely in.” In replies, the conversation turned toward what crypto might still be for in an AI-led cycle. A user said the rotation “makes sense,” but argued the bigger upside is in “agent stacks” that could eventually “manage crypto liquidity,” positioning crypto rails as infrastructure for machine-to-machine value transfer. Krüger largely agreed on the asymmetry. “I don’t know. I was hoping momentum. Momentum can do magic,” he wrote. “I’m very concerned about points #3 and #4. Saylor just started a new initiative on #4, maybe that helps. Reality is crypto can’t compete with AI. It’s impossible. But it could be used by AI. That’s high quality hopium right there. Agent-to-Agent payments would be better served on crypto rails.” At press time, BTC traded at $66,029. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|crypto|Crypto bear market|crypto news|Crypto Prices|Why Is Crypto Down",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57797024,
-    "published": 1770405617000,
-    "title": "Lots More With Charlie McElligott on This Week's SaaSpocalypse",
-    "body": "A terrible few days for software, crypto, and more.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57796997,
-    "published": 1770405552000,
-    "title": "Coinbase's Crypto-Backed Loans Notch Record Liquidations Amid Bitcoin, Ethereum Plunge",
-    "body": "Coinbase customers faced losses in fresh ways through the exchange’s crypto-backed lending product as Bitcoin and Ethereum tumbled this week.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57798146,
-    "published": 1770409327000,
-    "title": "AI platform founded by Crypto.com's Kris Marszalek launches AI agents",
-    "body": "Proponents of AI agents say the new technology will simplify crypto trading and other financial activities for the average user.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57798033,
-    "published": 1770408904000,
-    "title": "Galaxy Digital shares jump 18% after company approves $200 million buyback",
-    "body": "The repurchase plan follows a volatile earnings week and signals confidence in the firm’s balance sheet.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Galaxy Digital|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 57798233,
-    "published": 1770409826000,
-    "title": "Bitcoin Realized Loss Nears $900 Million, Highest Since FTX Crash",
-    "body": "On-chain data shows the Bitcoin Realized Loss has spiked to its highest level since November 2022 as investors have capitulated after the price crash. Bitcoin Realized Loss Has Hit A Value Of $889 Million In a new post on X, on-chain analytics firm Glassnode has talked about the latest trend in the Bitcoin Realized Loss. This indicator measures, as its name suggests, the total amount of loss that investors on the network are ‘realizing’ with their transactions. Related Reading: XRP Social Sentiment Still Bullish While Bitcoin Mood Sours This metric works by going through the transaction history of each coin being sold to see at what price it changed hands before this. If the previous selling price was greater than the latest spot price for any token, then its sale is considered to be resulting in some loss realization. The exact degree of loss involved in the transaction is equal to the difference between the two prices. The Realized Loss sums up this value for all loss transfers to find the total for the network. A counterpart indicator called the Realized Profit deals with the transactions of the opposite type (that is, those with a cost basis lower than the latest selling value). Now, here is the chart shared by Glassnode that shows the trend in the 7-day moving average (MA) of the Bitcoin Realized Loss over the last few years: As displayed in the above graph, the Bitcoin Realized Loss has witnessed a sharp spike recently, implying investors have participated in a notable amount of loss-taking. Something to note is that the version of the metric used by the analytics firm here is the “entity-adjusted” one, meaning that it only tracks transactions occurring between two different entities, rather than just two addresses. Glassnode defines an “entity” to be a cluster of addresses that it has determined to belong to the same owner. In the context of the Realized Loss, the entity-adjusted indicator filters out transactions occurring between the wallets of the same investor. These naturally never involve a true realization of loss (or profit), so removing them from the data provides a more accurate representation of the market. Applying for this filtration, the 7-day MA Realized Loss hit a peak value of $889 million on Wednesday. This is the highest single-day spike in the metric since November 2022, when the market crashed to the bear market bottom following the collapse of cryptocurrency exchange FTX. Related Reading: Social Media Now Talking Sub-$60,000 Bitcoin Prices As Fear Rises The latest investor capitulation has arrived as Bitcoin has been in freefall, with its price now breaking below the $70,000 level. It now remains to be seen whether the loss-taking will sustain or if investor panic will subside in the coming days. BTC Price Bitcoin has taken a blow of more than 21% over the past week that has taken its price to the $66,700 level. Featured image from Dall-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin FTX Crash|Bitcoin Realized Loss|btc|BTCUSDT|FTX crash",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57798803,
-    "published": 1770411600000,
-    "title": "Crypto’s stress test hits balance sheets as Bitcoin, Ether collapse",
-    "body": "Crypto’s downturn is rippling through treasuries, ETFs and mining infrastructure, exposing how digital asset volatility reshapes balance sheets and operations.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57799259,
     "published": 1770413197000,
     "title": "How Bitcoin’s Volatility Is Testing Crypto’s Appeal",
@@ -311,35 +19,6 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57799008,
-    "published": 1770412320000,
-    "title": "Justin Bieber Paid $1.3 Million for a Bored Ape NFT. It's Now Worth $12K",
-    "body": "Back when NFTs were hot, Justin Bieber dropped $1.3 million to join the Bored Ape Yacht Club. The Ethereum NFTs now start at just $12K.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|NFTs",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
@@ -1324,6 +1003,170 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57820998,
+    "published": 1770489006000,
+    "title": "XRP Price Returns Above $1.5 — On-Chain Data Says Whales Are Behind It",
+    "body": "The XRP price was on the verge of losing the $1 level merely two days ago, as the entire crypto market succumbed to an almost unprecedented level of volatility and bearish pressure. The altcoin fell to as low as $1.16, its lowest level since November 2024. While the general cryptocurrency market appears to be showing some signs of recovery, the XRP price activity has been particularly impressive since bottoming out at around the $1.15 mark. According to a prominent crypto analytics firm, below are the reasons behind the altcoin’s latest resurgence. Whale And Network Activity Throw XRP A Lifeline On Friday, February 6, popular blockchain firm Santiment took to the social media platform X to discuss the recent correction and the subsequent recovery experienced by the XRP price going into this weekend. With the strong volatility witnessed in the market, XRP seemed to be bound for $1 in that downward movement. Related Reading: Ethereum Coinbase Premium Drops To 2022 Bear-Market Levels: Capitulation Or Further Downside? Santiment said on X: Panic sellers should have stopped to notice the massive activity on the XRP Ledger as speculators were discussing whether the coin would fall below $1.00. However, the fourth-largest cryptocurrency by market capitalization briefly reclaimed the $1.5 level on Friday, signaling the return of fresh buying momentum to the market. According to Santiment, this XRP price jump might have been triggered by the group of large investors known as the whales. The latest on-chain data shows that an “obvious” whale accumulation took place while the XRP price headed for the bottom. Santiment data shows that about 1,389 $100,000 whale transactions occurred during the dip, the highest volume seen over the past four months. Meanwhile, activity on the XRP Ledger has been on the rise since the altcoin’s price fell to its lowest level in over a year. According to Santiment’s post on X, the amount of unique addresses on the blockchain saw a notable surge to 78,727 in just one 8-hour candle, its highest level in approximately six months. The crypto analytics noted that these occurrences are both significant to the potential price resurgence of any asset. With an uptick in whale demand and network activity, the XRP price could build the foundation required to return to a bullish structure. However, investors might want to approach the market with extreme caution, as a relief rally is not the strangest phenomenon in a bear market. XRP Price At A Glance As of this writing, the price of XRP stands at around $1.46, reflecting an almost 25% jump in the past 24 hours. However, this single-day action is not enough to erase the past week’s losses, which still sit roughly over 16%. Related Reading: XRP Social Sentiment Still Bullish While Bitcoin Mood Sours Featured image from iStock, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Santiment|xrp|XRP Price|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57820990,
+    "published": 1770489000000,
+    "title": "Why machine-to-machine payments are the new electricity for the digital age",
+    "body": "If continuous M2M payments are the new electricity, then blockchains must be seen as the new power grid, Huang contends.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Opinion|Blockchains|Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57795041,
+    "published": 1770494953000,
+    "title": "South Korean Crypto Exchange Accidentally Gave Away $43 Billion in Bitcoin",
+    "body": "The error was quickly corrected, Bithumb said, but not before some users sold off their Bitcoin, temporarily crashing its listed price.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57822633,
+    "published": 1770494414000,
+    "title": "Forget A Bitcoin Yearly Top, BTC Price Might Have Hit A 16-Year Cyclical Peak",
+    "body": "Crypto expert Tony Severino has opined that Bitcoin isn’t just showing signs of a yearly top but also that the BTC price may have hit a 16-year cyclical peak. This comes amid the flagship crypto’s recent crash to $60,000, which sparked fears of a bear market. Bitcoin May Be Showing Signs Of A Peak Amid BTC Price Crash To $60,000 In an X post, Severino alluded to the yearly Bitcoin chart, which he said looks like a 16-year cyclical peak rather than just a yearly top. The expert also outlined several reasons this appears to be a major cyclical top for the BTC price. First, he noted that the white candlesticks have been decreasing in size over time, while black candlesticks engulf more white candles with each appearance. Related Reading: Bitcoin Price Just Hit A 15-Year Trendline After The Crash, What This Means Furthermore, Severino highlighted the Doji at the top of a rising wedge pattern while the Evening Star is in progress, which is a bearish reversal signal for the BTC price. Meanwhile, the Fischer Transform is crossing bearish with divergence, and the Stochastic is crossing bearish after being rejected from 80. He added that Bitcoin’s Relative Strength Index (RSI) is falling back below 70 after making it above this level on the highest timeframe chart. His analysis comes as the BTC price continues to decline, suggesting the crypto market may be in a bear market after topping last October. Bitcoin dropped to as low as $60,000 earlier this week, suffering its largest daily decline since the FTX collapse. Veteran trader Peter Brandt has also opined that Bitcoin is in a bear market, predicting that it could still drop to as low as $42,000 before it sees a bottom. Reason For The Recent BTC Crash BitMEX co-founder Arthur Hayes has commented on the reason for this recent Bitcoin crash, suggesting that it was due to external factors rather than part of an ongoing bear market. In an X post, he stated that the BTC price dump was probably due to a dealer hedging off the back of BlackRock’s BTC ETF structured products. Notably, BlackRock’s IBIT saw a record trading volume of $10 billion on the day of this crash to $60,000. Related Reading: Here’s What To Expect If The Bitcoin Price Maintains Support Above $74,400 Hayes’ comment comes on the back of Bitcoin’s rebound above $70,000, with the flagship crypto recording one of its largest ever daily gains yesterday following the crash to $60,000. Galaxy Digital’s Head of Research, Alex Thorn, suggested that the drop to $60,000 may mark the bottom for the BTC price. This came as he noted that the 200-week MA, which is around $60,000, has historically been a strong entry point for long-term investors. At the time of writing, the BTC price is trading at around $70,000, up over 6% in the last 24 hours, according to data from CoinMarketCap. Featured image from Pngtree, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|Alex Thorn|Arthur Hayes|bitcoin|Bitcoin news|bitcoin price|Bitcoin’s Relative Strength Index|BitMEX|BlackRock’s BTC ETF|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|doji|Galaxy Digital|IBIT|RSI|Tony Severino",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
