@@ -1,216 +1,5 @@
 [
   {
-    "id": 57781089,
-    "published": 1770360749000,
-    "title": "Bitcoin’s crash to $60,000 has traders hunting for a hidden fund blowup",
-    "body": "Traders on X are pointing to everything from a Hong Kong fund blowup to yen funding stress and even quantum security fears as bitcoin’s plunge turns into a full-blown narrative vacuum.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|btc crash|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57781241,
-    "published": 1770361206000,
-    "title": "Bitcoin Short-Term Holders Deep In Loss: MVRV Signals Capitulation Phase",
-    "body": "Bitcoin is struggling to hold the $70,000 level as persistent selling pressure weighs on market sentiment and momentum. After months of volatility, recent price action suggests a fragile structure, with buyers repeatedly failing to reclaim higher resistance zones. Analysts increasingly warn that downside risks remain elevated as short-term investors continue to absorb losses rather than stepping in aggressively to accumulate. Related Reading: Are We Near A Bitcoin Bear Market Bottom? History Offers A Framework A recent report from analyst Axel Adler highlights mounting stress among short-term holders. Data from the Bitcoin Short-Term Holders SOPR indicator shows that many participants are now realizing losses, with this cohort sitting roughly 25% below their average acquisition cost. The SOPR metric, which compares selling price to purchase price, has dropped to 0.949, while its 7-day average remains near 0.97. Values below 1.0 confirm that coins are being sold at a loss, often reflecting forced liquidations or reactive selling behavior. Notably, the indicator has stayed below this threshold since mid-January, signaling sustained pressure rather than a short-lived correction. Historically, prolonged SOPR weakness alongside price stabilization can indicate seller exhaustion. However, a decisive move back above 1.0 would be required to confirm a shift in market regime. Until then, the risk of further downside cannot be ruled out. Short-Term Holder MVRV Signals Deep Unrealized Losses Axel Adler also points to the Bitcoin Short-Term Holder MVRV indicator as further evidence of mounting stress among recent market participants. This metric compares the current market price with the average acquisition price of short-term holders, offering a clear view of unrealized profitability. When MVRV falls below 1.0, it indicates that this cohort is, on average, holding positions at a loss rather than in profit. Recent data shows the STH MVRV dropping sharply to around 0.752, with the cohort’s realized price near $95,400. With Bitcoin trading close to $71,700, short-term holders are roughly 25% underwater. The gap between market price and their cost basis—about $23,700—is currently the widest observed in this cycle, highlighting the scale of recent downside pressure. Historically, MVRV readings approaching or falling below the 0.8 level have often coincided with accumulation phases or local market bottoms. However, such signals are not sufficient on their own. Confirmation typically requires price stabilization alongside a recovery in SOPR above 1.0, indicating that forced selling has eased. Until those conditions emerge, the data suggests continued fragility despite increasing signs of capitulation. Related Reading: Ethereum Transfer Surge Mirrors 2018 And 2021 Peaks – What Happens Next? Bitcoin Breaks Key Weekly Support As Downtrend Accelerates Bitcoin’s weekly structure shows clear deterioration after price decisively broke below the mid-range support that had previously held near the $75K area. The latest candle reflects strong downside momentum, pushing BTC toward the $70K zone while trading well below the 50-week moving average. Historically, sustained trading under this average tends to coincide with corrective or transitional bear phases rather than bullish continuation. The 100-week moving average, currently positioned slightly above $80K, has shifted from support to resistance. The market requires a reclaim of this level to stabilize sentiment. Meanwhile, the 200-week average continues to trend upward near the $55K–$60K region, marking a deeper macro support band if selling pressure persists. Related Reading: Bitcoin Unrealized Losses Reach 22% – Still No Capitulation Phase Volume expansion accompanying the latest decline suggests active distribution rather than low-liquidity drift. However, capitulation phases often show similar volume characteristics, meaning interpretation depends on whether follow-through selling continues or begins to fade. Structurally, BTC now faces a critical test. Holding above the $68K–$70K range could allow consolidation before a potential recovery attempt. Failure to stabilize there would increase the probability of a deeper retracement toward longer-term moving average support, keeping the broader market cautious despite growing oversold conditions. Featured image from ChatGPT, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin MVRV|Bitcoin news|Bitcoin Short-Term Holder|Bitcoin STH MVRV|btc|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57782569,
-    "published": 1770364837000,
-    "title": "Ethereum Targets April 2025 Lows As Price Drops Below $2,000 – What’s Next For ETH?",
-    "body": "Ethereum (ETH) has continued to decline alongside the rest of the crypto market, dropping over 9% in the daily timeframe and reaching new lows. As the cryptocurrency loses a “do-or-die” level, some analysts have expressed concern about ETH’s near-term future. Related Reading: Solana Eyes Deeper Correction As Bearish Pattern Confirmation Targets $40 Ethereum Correction Targets $1,500 On Thursday, Ethereum, the second-largest cryptocurrency by market capitalization, reached an eight-month low of $1,934 after dropping below the psychological $2,000 barrier for the first time since May. The cryptocurrency has traded between $2,100 and $4,400 over the past two years, moving between the upper and lower boundaries of its macro range throughout the cycle and only losing its crucial support during the Q1-Q2 2025 market correction. In the past five months, ETH’s price has declined by over 60% from its August all-time high (ATH) of $4,956, raising concerns about the cryptocurrency’s short- and mid-term performance. In an X post, market observer Daan Crypto Trades stated that the “overall price action has been awful this cycle, but the levels have been very clean” on Ethereum’s chart. “These horizontal areas are all you need to be watching for the Ethereum price, in my opinion,” he wrote. “Break one, target the next. Works both ways, obviously.” Based on this, the trader highlighted the lower half of the altcoin’s macro range, where it has been trading for half of the cycle. If Ethereum is unable to reclaim $2,000-$2,100 soon, then the price would likely retest the $1,800 area. “That’s the breakout level from before the large rally driven primarily by Tom Lee/Bitmine,” he pointed out. Similarly, Altcoin Sherpa suggested that Ethereum is in a similar “do-or-die region” like Bitcoin (BTC). To the analyst, ETH’s chart “looks bleak” after losing the 200-Week Exponential Moving Average (EMA), adding that if it officially loses the $2,000 barrier, the altcoin will likely move to the April 2025 lows, located around the $1,400-$1,500 range. ETH Crash Drags Investors Notably, Ethereum liquidations, funds, and large-scale investors have taken a hit amid the recent price action. According to online reports, the unrealized losses of BitMine, the second-largest crypto treasury in the world, have significantly grown over the last couple of days. As reported by NewsBTC, the crypto treasury company’s unrealized losses had risen to $6.6 billion by Monday, leaving the Ethereum treasury company “on track to become the 5th-largest documented principal trading loss in history if sold.” In BitMine’s latest update, the firm’s chairman, Tom Lee, reiterated BitMine’s confidence in the cryptocurrency and its fundamentals despite the recent price action and broader market correction. “We view this pullback as attractive, given the strengthening fundamentals. In our view, the price of ETH is not reflective of the high utility of ETH and its role as the future of finance,” Lee asserted. Nonetheless, Ethereum’s drop below $2,000 has pushed BitMine’s unrealized losses to over $8 billion. Related Reading: BNB Chain Metrics Show Strong Performance As BNB Price Retests ‘Do Or Die’ Level Spot ETH exchange-traded funds (ETFs) also performed negatively over the past day, with the category bleeding nearly $80 million on Wednesday, and total net outflows of $68 million during the first three trading days of the week. Meanwhile, Ethereum liquidations have hit $326.6 million over the past 24 hours, according to CoinGlass data. The data shows that around $245.5 million comes from long ETH positions, with nearly half of the total value wiped out just in the last four hours. Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Bitmine Ethereum|crypto analyst|Crypto bear market|crypto liquidations|crypto market correcion|Crypto trader|ETH|ethereum|Ethereum breakdown|Ethereum correction|ethereum price|ETHUSDT|Tom Lee",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57783233,
-    "published": 1770366631000,
-    "title": "Bitcoin Crash On Feb. 5 Was Historic: The Numbers Behind The Selloff",
-    "body": "Bitcoin printed one of the largest ever daily candles to the downside on Thursday, sliding more than 15%, roughly $10,800, in a move that rippled through derivatives, spot venues, and the US Bitcoin ETF complex. The scale of the drop is what made it stand out. Not just the percentage drawdown, but the mix of stress signals hitting at once: implied volatility spiking, volumes exploding, and momentum gauges collapsing into levels typically associated with forced selling rather than discretionary risk reduction. Bitcoin Crash Sparks Capitulation Signals Real Vision’s Jamie Coutts framed the session as a “capitulation watch,” pointing to a cluster of metrics rarely seen together. He highlighted Bitcoin implied volatility via BVIV at 88.55, “closing in on the FTX-collapse peak of 105,” and noted Coinbase logged its eighth-largest trading day ever by USD value, with $3.34 billion changing hands—roughly 54,000 BTC at ~$62,000. Related Reading: PlanB Lays Out Four Bitcoin Bear-Market Scenarios Coutts also underscored how extreme the momentum reset looked on daily charts, citing a daily RSI of 15.64, “at or below March 2020 COVID crash lows.” He added: “Margin calls are firing. Forced liquidations are likely still working through the system. This has the signature of a capitulation event, but capitulation can be a process, not a single candle (unless we get a massive wick!). These conditions can persist for weeks or even months before a durable low forms.” Macro trader Alex Krüger stopped short of a price target for the lows, but argued the market was registering the kind of positioning and pricing distortions that tend to cluster around turning points in time. “Friends I really do not know where the bitcoin bottom is but I can recognize extreme conditions that you only see close to bottoms in time, such as extreme negative funding, options skew at levels only seen once before since 2022 (FTX day), and volumes & liquidations at extraordinary levels,” he wrote. “You also have some monster shorts that opened between 64k and 60k, material for a short squeeze sending price to 68k, and if we see so then everyone will start talking about the bottom.” Krüger’s caveat was just as direct: “In the meantime of course equities need to hold. And having a bottom in does not mean that you will see a major trend from here.” Galaxy’s Alex Thorn described the tape as historically stretched on RSI measures, saying bitcoin was “the most oversold today than any day since 3AC blew up in June 2022 (30d RSI),” and calling it “basically in the top 3 oversold events ever,” alongside November 2018 and June 2022. The US spot Bitcoin ETF market didn’t cushion the move, it amplified the day’s activity. Bloomberg Intelligence’s Eric Balchunas said BlackRock’s iShares Bitcoin Trust (IBIT) “just crushed its daily volume record with $10b worth of shares traded” as the fund’s price fell 13%, its second-worst daily drop since launch. Head of Research for Anchorage Digital David Lawant added that IBIT alone trading above $10 billion was the highest since launch, beating prior records by 69% in shares and 27% in USD volume. Related Reading: Bitcoin Crash Exposes Colossal Corporate Losses — Here’s Who’s Most Impacted Positioning data hinted at a complex, two-sided ETF ecosystem. Head of Research at K33 Research Vetle Lunde noted net equivalent short exposure in short BTC ETFs was nearing the November 2022 peak at 7,745 BTC, while 2x leveraged long BTC ETFs—products that didn’t exist then—currently hold 39,590 BTC, “at levels not seen since Mar 24.” Volatility remained the throughline. ProCap CIO Jeff Park said: “Bitcoin implied vol is now at 75%. This is the highest level since the ETF launch in 2024. It is also finally higher than gold volatility. Know it’s a lot of pain right now, but this is all part of the process required for Bitcoin to make new highs. The melt up will be fast.” At press time, BTC rebounded from $60,000 to roughly $64,900, a gain of about 9% from the session low. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57784257,
-    "published": 1770369156000,
-    "title": "Bitcoin ETFs shed $434M as BTC briefly touches $60K, assets near $80B",
-    "body": "Net weekly outflows from Bitcoin ETFs reached $690 million as BTC briefly touched $60,000, reigniting analyst criticism over “paper Bitcoin” and scarcity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57784693,
     "published": 1770370725000,
     "title": "Bitcoin Surges Back Above $65K Following Asia Whipsaw As $HYPER Gains Momentum",
@@ -3041,6 +2830,111 @@
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57808980,
+    "published": 1770447601000,
+    "title": "Binance SAFU Fund Adds 3,600 Bitcoin ($233M) As Market Faces Pressure",
+    "body": "Bitcoin has experienced one of its sharpest corrections in recent years, slipping below the $65,000 level and reaching its lowest price since October 2024. The decline reflects persistent selling pressure across the crypto market, accompanied by deteriorating macro sentiment, reduced liquidity, and cautious positioning among institutional participants. Recent price action suggests the market is entering a critical phase where confidence, rather than technical levels alone, may determine the next directional move. Related Reading: Bitcoin Short-Term Holders Deep In Loss: MVRV Signals Capitulation Phase Amid this uncertainty, the Binance SAFU Fund disclosed the purchase of an additional 3,600 BTC, valued at roughly $233.37 million. While such acquisitions do not guarantee a market reversal, they indicate continued strategic accumulation by major industry players even during periods of elevated volatility. Market sentiment has deteriorated markedly. Several sentiment indicators now sit near levels last observed during the 2022 bear market, when risk appetite contracted sharply and investors adopted defensive positioning. This environment typically coincides with reduced speculative activity, heightened caution among retail traders, and increased scrutiny from institutional capital. Institutional Accumulation Emerges Amid Prolonged Capitulation Phase Arkham data indicates that the Binance SAFU fund has continued accumulating Bitcoin, bringing its total recent purchases to approximately 6,230 BTC, valued near $434.5 million. While such activity signals ongoing participation from large institutional entities, it does not necessarily imply an imminent price recovery. Historically, significant purchases during corrective phases often occur alongside broader market stress rather than marking an immediate turning point. Current market conditions increasingly resemble a classic capitulation phase. Capitulation typically emerges when sustained price declines force weaker holders to exit positions, often at losses, leading to elevated exchange inflows, compressed liquidity, and sharp sentiment deterioration. These episodes can persist longer than many participants anticipate, particularly when macroeconomic uncertainty, risk-off positioning, and tightening liquidity conditions coincide. Importantly, capitulation does not follow a fixed timeline. In prior cycles, similar phases unfolded over weeks or even months before a durable bottom formed. During these periods, volatility tends to remain elevated, failed rallies are common, and confidence rebuilds gradually rather than abruptly. The key variables to monitor include exchange flows, derivatives leverage, spot demand recovery, and broader macro signals. Until those metrics stabilize, the base case remains continued market fragility. Large-scale accumulation by institutional funds may provide structural support, but it rarely prevents extended consolidation or further downside during capitulation environments. Related Reading: Ethereum Coinbase Premium Drops To 2022 Bear-Market Levels: Capitulation Or Further Downside? Weekly Structure Shows Breakdown Below Key Support Bitcoin’s weekly chart shows a clear deterioration in market structure after losing the $70K region, a level that had previously acted as both psychological and technical support. The latest candle reflects strong downside momentum, with price briefly touching the $60K zone before stabilizing near $65.9K. This move confirms a breakdown from the prior consolidation range and shifts focus toward whether this decline represents a deeper bear phase or a late-cycle correction. From a trend perspective, Bitcoin is now trading below the 50-week moving average while approaching the 100-week average. Historically, a critical dynamic support during corrective phases. The 200-week average remains far below, indicating the long-term macro trend has not fully reversed, although intermediate momentum has clearly weakened. Related Reading: Are We Near A Bitcoin Bear Market Bottom? History Offers A Framework Volume dynamics also matter here. The recent selloff shows rising participation compared with earlier consolidation periods, suggesting distribution rather than simple profit-taking. However, sustained high volume without further price acceleration downward could signal seller exhaustion. If Bitcoin fails to reclaim the $70K area, downside risk toward the $60K–$55K zone remains plausible. Conversely, stabilization above current levels would indicate absorption, a necessary precursor for any meaningful recovery. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|Binance buying BTC|Binance SAFU|bitcoin|bitcoin analysis|Bitcoin Binance|Bitcoin news|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57808958,
+    "published": 1770447282000,
+    "title": "Crypto-focused Erebor wins first new US bank charter of Trump’s second term: WSJ",
+    "body": "Erebor doubled its valuation to $4 billion after a $350 million Lux Capital-led funding round late last year.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      }
+    ]
+  },
+  {
+    "id": 57811064,
+    "published": 1770454631000,
+    "title": "Vietnam to tax crypto like stocks with 0.1% trading levy: Report",
+    "body": "Vietnam’s Finance Ministry proposes a 0.1% tax on crypto transfers, 20% corporate tax on profits and tough licensing standards for digital asset exchanges.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
