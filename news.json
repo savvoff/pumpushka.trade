@@ -1,52 +1,5 @@
 [
   {
-    "id": 57813109,
-    "published": 1770462025000,
-    "title": "Coinbase Premium Turns Positive Since Mid-January As Bitcoin Sees Price Relief",
-    "body": "Amid a recent Bitcoin price rebound, Coinbase Premium data shows that American investors are renewing their bullish interest. Notably, the latest price relief only closes a negatively volatile trading week in which Bitcoin experienced a free price fall, as 30% loss pushed prices to around $60,000. This market plunge by the premier cryptocurrency has been attributed to many factors, including collapsing leverages, high levels of ETF outflows, metals market volatility, and also investors’ expectations in line with the typical boom and bust market cycle. Related Reading: Bitcoin Sell-Off May Be Done, Analyst Flags Recovery Signs Coinbase Premium Turns Positive After Successful $60K Retest The Coinbase Premium, one of the most important Bitcoin market indicators, shows the price difference between Bitcoin on Coinbase and its price on other major exchanges. It is largely used to measure how much more or less US investors are paying to acquire Bitcoin compared to international traders. According to Julio Moreno, Head of Research at CryptoQuant, the Coinbase premium has maintained a negative value since mid-January, suggesting that US traders valued the asset lower compared to their global counterparts, leading to a weak market demand. However, since Bitcoin bounced off the $60,000 support following the recent bloodbath, the American market participants have rediscovered their market confidence as indicated by a rising demand and corresponding movement of the Coinbase Premium into a positive zone. During this time, the flagship cryptocurrency has shown moderate resilience, climbing by over 16% to presently trade around $70,000. However, it is worth noting that the positive Coinbase Premium reading does not singularly confirm an impending full-scale recovery. Other factors need to be considered, including macroeconomic developments such as Federal Reserve interest rate decisions and liquidity tightening policies, overall global market sentiment, and geopolitical stability. Related Reading: Dogecoin Drops Below $0.09 as Market Weakness Outweighs Musk Hype Bitcoin Market Overview At the time of writing, Bitcoin is trading at $68,892, representing a 6.44% gain in the past day. However, significant losses of 17.34% and 23.38% on the weekly and monthly charts, respectively, show the asset is still deep in bearish territory. According to a recent post from CryptoQuant, Bitcoin has been about 50% away from its all-time high (ATH). Notably, recent bear markets recorded price slumps as low as 70%-80% indicating, indicating that there is a high possibility of a deeper price correction. However, CryptoQuant analysts warn that the bigger concern is time capitulation, i.e., how long this market winter will stay compared to how low prices may fall. With a market cap of $1.4 trillion, Bitcoin continues to account for over 55% of the total crypto market cap and is the largest digital asset in the world. Featured image from Pexels, chart from Tradingview",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin Rebound|Coinbase Premium|cryptoquant|julio moreno|Time Capitulation",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57814980,
     "published": 1770468373000,
     "title": "Tether helps Turkey seize $544M in crypto tied to illegal betting network",
@@ -844,6 +797,100 @@
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57838577,
+    "published": 1770537601000,
+    "title": "Ethereum’s Funding Rates Signal Sentiment Flip Across Major Exchanges",
+    "body": "Ethereum (ETH) has declined noticeably over the past week, with price data from CoinMarketCap reporting a net 14% decline within this period. At the time of the most recent data, ETH is trading around $2,000, significantly lower than the past week’s level near $2,500. Related Reading: Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says ETH Funding Rates Signal A Bullish Turn In a QuickTake post on the CryptoQuant platform, analyst Amr Taha draws attention to recent developments in ETH funding rates, a key sentiment indicator in perpetual futures. The funding rate shows the market sentiment, whether it’s optimistic/greedy (positive) or fearful/cautious (negative). Typically, when funding is highly positive or negative, it means that too many traders are on one side, positions are overleveraged, and then the market becomes unstable. At that point, even a small price move in the opposite direction can trigger liquidations, causing sharp and fast price moves. Although Ethereum’s funding rate was deeply negative over the week, analyst Amr Taha noted there has been a flip as ETH derivatives data shows a clear shift toward bullish positioning. Notably, Funding rates have turned strongly positive on BitMEX (Bitcoin Mercantile Exchange), reaching 0.049%, their highest level since October and well above the previous peak near 0.03. This signals aggressive leverage on the long side. Related Reading: XRP Price Has Just Reached Most Oversold Level In History And This Analyst Is Predicting A Bounce Extreme Optimism In ETH Could Spark Sharp Moves At the same time, ETH funding on Binance has moved from deeply negative levels at -0.025% on February 5 back towards neutral, indicating that short positions are being replaced by new long exposure. In essence, the market has moved from fear to optimism. While this shift reflects a rise in bullish sentiments, history shows that periods of extreme positive funding driven by leverage often increase the risk of liquidations and sharp corrective moves, rather than supporting sustained upside. In short, when everyone is bullish at the same time, the market becomes easier to knock over. In all, Ethereum Derivatives traders have become aggressively bullish, and while that can push price higher in the short term, history shows it often increases the risk of sudden corrective moves rather than a sustained uptrend. At the time of writing, Ethereum trades at $2,089 after a 14.9% decline in the past seven days. Meanwhile, the daily trading volume is down by 32.39% and valued at $37.39 billion. Featured image from Adobe Stock, chart from Tradingview",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|Binance|BitMEX|bullish sentiment|ethereum|ethusd|ETHUSDT|funding rates",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57839640,
+    "published": 1770552019000,
+    "title": "Bitcoin Sharpe Ratio Sinks To Historical Lows — Accumulation Next?",
+    "body": "Since reaching its current all-time-high price of $126,000 in October last year, the Bitcoin market has been on a sell-off, translating into surmounting bear pressure. As a result, the flagship cryptocurrency has maintained a steady decline, falling until it recently reached $60,000 — a deviation of more than 52% from its all-time high. Bitcoin currently seems to be seeing a rebound, but price action alone reflects that it could as well be one of its short-term recoveries. Interestingly, a recent on-chain evaluation suggests that the current upward movement may be driven by a significant underlying metric. Related Reading: Bitcoin Taker Buy Ratio Signals Peak Bearish Sentiment — Relief Soon? What The Bitcoin Sharpe Ratio Is Saying In a Quicktake post on CryptoQuant, Darkfost reveals that the Bitcoin Sharpe Ratio is now at a zone historically relevant to the ends of bear markets. The Sharpe Ratio is a risk-adjusted performance metric that measures how much return an asset (Bitcoin, in this case) generates for risk taken. A high ratio signals that returns are strong in relation to risks taken; a declining ratio, on the other hand, reflects weakening returns, while risk remains elevated. On the severe end of the metric, a very low or negative Sharpe Ratio is a sign that market participants are taking very high risks for poor or negative returns. It is worth noting that very low Sharpe ratios are frequently seen during deep bear markets or even capitulation phases. According to historical data, Darkfost explains that the Sharpe Ratio is currently at a level so low as to be reminiscent of the final phases of past bear markets. This means that the Bitcoin price holds a higher practical risk, compared to returns, for current investors. Notably, the Sharpe ratio is not just at a low point, but continues in a steady state of decline. This, according to the market quant, is a sign that Bitcoin’s performance is yet to be attractive to any willing risk-taker. However, it is this specific dynamic that sets the pace for a turnaround in Bitcoin’s price. This is because sustained poor returns typically force capitulation events, where weaker hands are flushed out; this eventually sets the stage for renewed accumulation among stronger hands. Related Reading: Forget A Bitcoin Yearly Top, BTC Price Might Have Hit A 16-Year Cyclical Peak Two Main Approaches To Consider In This Scenario: Analyst Seeing as the current market condition is still mostly uncertain, Darkfost offers two ways to engage the current scenario. First, the analyst states that investors could begin increasing exposure gradually, and in line with the ratio’s movement towards lower risk zones. Second, Darkfost explains that a market participant could decide to wait for clear improvements in the Sharpe Ratio before entering the market at all. This is to serve as a confirmation strategy for the purpose of investor safety. However, Darkfost notes that the present bear phase could last a couple more months before any true reversal is seen, regardless of the signal being flashed by the Sharpe Ratio. As of this writing, Bitcoin stands at a $69,064 valuation. CoinMarketCap data reflects a 1.71% loss over the past day. Featured image from Unsplash, chart from Tradingview",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin|bitcoin|bitcoin accumulation|bitcoin sharpe ratio|btcusd|BTCUSDT|cryptoquant|Darkfost",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
