@@ -485,70 +485,6 @@
     ]
   },
   {
-    "id": 57842829,
-    "published": 1770562260000,
-    "title": "Bitcoin bear market not over? Trader sees BTC price ‘real bottom’ at $50K",
-    "body": "Bitcoin price analysis stayed bearish on the outlook for BTC, predicting new macro lows in a repeat of the 2022 bear market.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57841501,
-    "published": 1770557950000,
-    "title": "Block weighs cutting up to 10% of jobs: Bloomberg",
-    "body": "The company has told hundreds of employees their jobs are at risk as part of a broader overhaul.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Finance|Block|Payment Systems|Bitcoin News|Jobs|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
     "id": 57861586,
     "published": 1770625173000,
     "title": "South Korea expands crypto market probes after $44B Bithumb Bitcoin blunder",
@@ -1341,6 +1277,346 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57867750,
+    "published": 1770642537000,
+    "title": "OpenClaw AI Faces Poisoned Plugins Crisis as SUBBD Token’s Presale Over-Performs",
+    "body": "What to Know: The OpenClaw ‘poisoned plugin’ incident reveals critical security flaws in Web2 AI agent architectures. Investors are pivoting toward decentralized AI solutions that offer verifiable security and immutable smart contracts. SUBBD Token uses Web3 rails to eliminate high platform fees and secure AI tools for content creators. The project has raised over $1.47 million, signaling high demand for platforms merging AI utility with crypto incentives. The discovery of ‘poisoned plugins’ inside the OpenClaw AI ecosystem has rattled developers. It highlights a critical vulnerability in how autonomous agents handle third-party software. Security analysts identified a vector where malicious code, injected via compromised plugins, allows bad actors to hijack an AI agent’s execution flow. Why does that matter? It exposes a fatal flaw in the current Web2 AI stack: the reliance on blind trust within centralized marketplaces. When an AI agent’s hands are compromised, the agent itself becomes a liability. This isn’t just a technical glitch; it’s a structural warning sign for the $85B automation industry. As developers scramble to patch these holes, the market is already looking elsewhere, specifically toward platforms that mitigate these risks through decentralized infrastructure. Smart money appears to be hedging against this fragility. We’re seeing a rotation into Web3 projects that merge AI utility with blockchain transparency. If centralized vectors are the weak point, decentralized protocols offer the antidote through verifiable smart contracts. This flight to quality is visible in the crypto-AI sector, where specific presales are bucking the broader consolidation trend. One standout, SUBBD Token ($SUBBD) , has started capturing significant liquidity. It suggests investors are actively seeking platforms that return control and security to the users. Buy $SUBBD here. Decentralized Architecture Solves the Trust Deficit While OpenClaw battles supply chain vulnerabilities, SUBBD Token uses Ethereum-based smart contracts to build a tougher environment for the content economy. The project tackles the ‘black box’ problem of Web2 AI by integrating proprietary models, capable of chatbots, voice cloning, and object recognition, directly into a transparent Web3 framework. This setup ensures that revenue-generating tools aren’t subject to the arbitrary failures or malicious injections plaguing purely Web2 alternatives. The pitch extends beyond security; it targets economic inefficiency. Centralized platforms often extract up to 70% of creator earnings in fees. SUBBD Token disrupts this by using a decentralized payment rail that cuts friction. By offering features like AI Personal Assistants and token-gated content, the project moves beyond the speculative nature of many meme coins. It provides tangible utility. The data suggests the market is hungry for this specific intersection of AI utility and financial sovereignty. $SUBBD is available here. Presale Metrics Signal Shift in Investor Sentiment The financial performance of the SUBBD Token presale signals a decoupling from broader market stagnation. According to official data, the project has raised $1.4M. That figure points to strong confidence in the ‘AI + Crypto’ narrative. With tokens priced at $0.057495, early entrants are positioning themselves before the public rollout. This capital inflow is notable given the current risk-off sentiment in macro markets, suggesting that utility-driven AI projects are operating with a distinct liquidity premium. Staking mechanics help stabilize the token’s velocity. The project offers a fixed 20% APY for the first year, alongside perks like XP multipliers and access to exclusive ‘HoneyHive’ content. For investors, the math is simple: while legacy AI tools struggle with security patches, SUBBD Token offers a clean slate with integrated monetization. The presale’s over-performance likely stems from the realization that the future of content creation requires Web3 security combined with generative AI power. Visit the $SUBBD presale. Disclaimer: This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments, particularly in presale stages, carry high risks, including the potential for total loss of capital. Always conduct independent research before investing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57868544,
+    "published": 1770645044000,
+    "title": "Saylor Buys $90M-Worth of Bitcoin Amidst Full Market Crash, While $HYPER Breaks Records",
+    "body": "What to Know: MicroStrategy purchased an additional $90M in Bitcoin during the market crash, signaling strong institutional conviction despite bearish retail sentiment. Bitcoin Hyper utilizes the Solana Virtual Machine (SVM) to bring high-speed smart contracts and sub-second finality to the Bitcoin network. Despite the broader market downturn, Bitcoin Hyper has raised over $31.3M, with verified whale wallets accumulating significant positions. The divergence between falling asset prices and rising infrastructure investment suggests the market is prioritizing utility and scalability solutions. The crypto market is acting schizophrenic right now. On one side of the screen, retail traders are capitulating, panic-selling into a sea of red candles that define the latest crash. On the other? MicroStrategy’s Michael Saylor is doing exactly what he does best: buying the fear. The enterprise analytics firm just added another $90M worth of Bitcoin to its treasury, happily sweeping up coins at depressed prices. The $90 million price tag isn’t the headline here, that’s pocket change for MicroStrategy these days. It’s the timing. Institutional accumulation during high-volatility capitulation events historically signals a localized bottom. While the crowd sees a crash, smart money sees a discount. Saylor’s continued aggression suggests he believes short-term macro headwinds, whether regulatory noise or rate adjustments, are irrelevant compared to Bitcoin’s long-term settlement thesis. But the most interesting data isn’t coming from the legacy Bitcoin chart. It’s in the infrastructure layer being built on top of it. While the mainnet struggles with price action, liquidity is quietly rotating into high-performance Layer 2 solutions. The disconnect between price and development is widening. Investors are looking past the ‘digital gold’ narrative and hunting for actual utility. This capital shift explains why, even as the market bleeds, Bitcoin Hyper ($HYPER) is posting record-breaking fundraising numbers. Money isn’t leaving crypto; it’s just moving to where the tech is evolving. Buy $HYPER here. Bitcoin Hyper Integrates SVM To Solve Mainnet Congestion Bitcoin has always had a ‘trilemma’ problem: it’s the most secure network in existence, but it’s painfully slow. Previous attempts to scale it relied on sluggish sidechains or the complexity of Lightning. Bitcoin Hyper ($HYPER) is flipping the script by integrating the Solana Virtual Machine (SVM) directly as a Layer 2 solution. Why does that architecture matter? By using the SVM for execution while relying on Bitcoin L1 for settlement, the project aims for transaction speeds theoretically faster than Solana itself, all anchored to Bitcoin’s security. For developers, this opens the door to writing smart contracts in Rust. It enables high-frequency trading, complex DeFi protocols, and gaming dApps that were previously impossible on the Bitcoin network. Traders seem interested in this ‘best of both worlds’ approach. The protocol features a Decentralized Canonical Bridge for seamless $BTC transfers and a modular structure where a sequencer handles execution. This isn’t just about faster payments; it represents a shift toward making Bitcoin a programmable asset class (finally). Learn more about Bitcoin Hyper here. Presale Momentum Builds As Whale Wallets Accumulate $1M While the broader market struggles, capital inflows into the Bitcoin Hyper presale are decoupling from the general sentiment. According to the official presale page, the project has raised $31.3M a figure that stands in stark contrast to the low volume seen in legacy altcoins this week. You can actually see the smart money trail on-chain. Sophisticated actors are positioning themselves early, likely anticipating that the ‘Bitcoin DeFi’ narrative will outperform in the next cycle. Specifically, Etherscan records show that two whale wallets have accumulated $1M in recent transactions. The largest individual purchase, $500K , occurred on Jan 15, 2026, signaling high-conviction entry at these levels. With tokens currently priced at $0.0136753, the risk-reward ratio seems to be pulling volume that would otherwise sit in stablecoins. The project also incentivizes holding through a staking model that offers high APY immediately after TGE, with a modest 7-day vesting period for presale stakers. This structure is designed to mitigate the post-launch sell pressure that plagues many infrastructure launches. For investors watching MicroStrategy buy the L1 dip, the logical hedge seems to be allocating to the L2 infrastructure that makes that L1 usable. Visit the $HYPER presale now. Disclaimer: This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments, particularly presales and new Layer 2 protocols, carry significant risk and volatility. Always perform your own due diligence.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57868772,
+    "published": 1770645773000,
+    "title": "Bitcoin Miner Cango Sells 4,445 $BTC To Cover Collateralized Loan as $SUBBD Makes Waves",
+    "body": "What to Know: Cango’s sale of 4,445 $BTC to cover loans underscores the post-halving profitability squeeze facing hardware-dependent mining operations. As infrastructure costs rise for legacy PoW miners, investment flows are shifting toward high-margin software protocols in the AI and Web3 sectors. SUBBD Token uses AI and Ethereum smart contracts to disrupt the $85B creator economy, offering a capital-efficient alternative to traditional mining investments. With over $1.4M raised, the project demonstrates strong market demand for decentralized solutions that lower fees and empower content creators. Cango just dumped 4,445 Bitcoin. That massive divestment, roughly $300M hitting the order books , marks a significant liquidity event in a market already struggling with post-halving economics. It highlights the crushing pressure on Proof-of-Work (PoW) entities to service their collateralized debt obligations. When a miner starts liquidating the family silver (treasury assets) rather than relying on freshly minted coins, the strategy shifts from accumulation to survival, a capitulation that often precedes a broader market rotation. Why does this matter? Because miners are usually the ultimate hodlers. When they sell to cover loans, it signals that operational costs and debt servicing have outpaced the immediate profitability of mining rewards. This structural squeeze is forcing smart money to look elsewhere for yield. While legacy infrastructure providers fight over thin margins and high overhead, capital is quietly rotating into capital-efficient, software-driven sectors. The intersection of AI and the $85B creator economy is emerging as a serious alternative, with projects like SUBBD Token ($SUBBD) catching a bid as miners deleverage. Read more about $SUBBD here. De-Leveraging The Blockchain: Why Capital Efficiency Shifts To AI People often view ‘miner capitulation’ solely through a bearish lens, but it frequently acts as a clearing event that redistributes liquidity. As Cango and similar entities sell BTC to satisfy creditors, the market absorbs the supply shock, often leading to consolidation. But look closer at the second-order effect: investors are becoming wary of the heavy infrastructure risks associated with pure-play mining stocks. They’re seeking exposure to Web3 protocols that offer immediate utility without the massive electricity bills. That’s where the creator economy creates a compelling divergence. Unlike Bitcoin mining—which competes for diminishing block rewards, the content creation industry is expanding. SUBBD Token ($SUBBD) addresses the sector’s most glaring inefficiency: the ‘middleman tax.’ Traditional Web2 platforms often snatch up to 70% of creator earnings in fees. By using Ethereum-based architecture, $SUBBD cuts out these intermediaries, letting creators keep the vast majority of their revenue. The platform distinguishes itself by integrating proprietary AI models directly into the workflow. Features like the AI Personal Assistant for automated interactions and AI Voice Cloning tools allow creators to scale their output without increasing their workload. It’s a sharp contrast to the capital-intensive nature of the Cango sell-off. While miners burn cash to solve hashes, SUBBD Token uses AI to solve the scalability issues of the creator economy. Buy $SUBBD here. SUBBD Token Integrates Web3 Tools For Creator Sovereignty Beyond the macro shift from hardware to software, the specific mechanics of the SUBBD Token ecosystem are turning heads. The project builds a circular economy where the token isn’t just a speculative asset, it’s fuel. Users use $SUBBD for subscriptions, pay-per-view (PPV) access, and tipping, while creators access advanced AI tools and token-gated content features. The market’s appetite for this utility is showing up in the order book. According to live data, the presale has already raised $1.4M so far, a solid figure for a specialized utility token. The current entry price of $0.0574925 offers an accessible price point relative to the project’s roadmap, which targets the massive disruption of arbitrary platform bans and fragmented payment systems. Plus, the protocol incentivizes long-term holding through a structured staking model, something notably absent from holding raw Bitcoin. Investors can lock tokens to earn a fixed 20% APY during the first year. That’s a predictable yield that contrasts with the volatility of mining stocks. This staking mechanism, combined with XP multipliers for platform engagement, aligns the incentives of creators, fans, and investors. As the platform rolls out features like AI-exclusive content and decentralized governance, the utility demand for $SUBBD is positioned to grow independently of Bitcoin’s price action. Buy $SUBBD here. Disclaimer: This article is for informational purposes only and does not constitute financial advice. Cryptocurrencies are high-risk assets, and presales carry inherent volatility. Always conduct your own due diligence before investing.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57869150,
+    "published": 1770647106000,
+    "title": "Why Maxi Doge is the 2026 Superstar: Analyzing the Shift to High-Leverage Culture",
+    "body": "What to Know: The 2026 market cycle is favoring ‘culture coins’ that combine meme appeal with active utility, moving beyond passive holding models. Maxi Doge has seen significant smart money inflows, including a notable $314K single-wallet transaction recorded in October 2025. The project differentiates itself with Holder-Only Trading Competitions and a dynamic staking pool that rewards long-term conviction. With over $4.5M raised in its presale, the project has the liquidity runway to execute its ‘Leverage King’ marketing strategy. Crypto markets love a narrative shift. But spotting one before it hits the mainstream? That’s where the real alpha lives. As we pivot from the accumulation phases of late 2024 and early 2025, the focus for 2026 is moving squarely toward high-beta assets that combine cultural dominance with financial gamification. The ‘Meme Supercycle’ isn’t just a fringe theory anymore, it’s market reality. Retail capital no longer treats meme tokens as mere jokes, but as leveraged bets on specific communities and internet subcultures. That changes the liquidity game. In previous cycles, we watched capital rotate slowly, Bitcoin to Ethereum to large caps. Not this time. Current on-chain data suggests a faster, much more aggressive rotation directly into assets with a psychological ‘hook.’ The winners of 2026 won’t just be cute animals; they’ll be projects that embody the aggression and conviction of the bull market itself. Enter Maxi Doge ($MAXI) . It’s an ERC-20 token aiming for the sweet spot between meme culture and high-leverage trading. Unlike the passive “hold and hope” strategy of legacy coins, Maxi Doge positions itself as the ‘Leverage King.’ It leans heavily into the gym-bro and trading-bro aesthetics dominating Crypto Twitter right now. With a chunky presale volume already in the books, the project is positioning itself to outperform the original DOGE by leveraging a community obsessed with ‘gains’, both physical and financial. $MAXI is available here. Gamifying the Grind: Beyond the Standard Meme Model The biggest risk for memes in 2026? Attention decay. To fix that, Maxi Doge built its utility around action rather than passive holding. The project’s ethos, ‘Never skip leg-day, never skip a pump’, comes alive through Holder-Only Trading Competitions and presale. By incentivizing users to battle for leaderboard rewards, the project creates a retention loop most static tokens lack. Think of it as ‘Proof of Workout’ applied to your portfolio, a sticky ecosystem for traders who identify with the ‘1000x leverage’ mentality. Plus, the project attempts to build a floor for long-term holders via staking. The protocol features a dynamic APY driven by a daily automatic smart contract distribution from a 5% staking allocation pool. This mechanism is designed to lock up supply for up to one year, reducing sell pressure when the market gets shaky. In a market saturated with low-effort derivatives, a project linking its tokenomics directly to the psychological ‘grind’ of trading is refreshing. It gamifies the very act of being a bull. Then there’s the ‘Maxi Fund’ treasury. It uses capital for liquidity provisioning and strategic partnerships, including planned integrations with futures platforms. This moves the token beyond simple speculation and into utility territory for the high-frequency trading crowd. Check out the Maxi Doge presale. Whale Accumulation Signals Institutional Interest Retail sentiment drives noise; whale activity drives price discovery. A look at capital flows into the Maxi Doge presale shows a divergence from typical retail-only launches. According to the official presale page, the project has raised $4.58M, with tokens currently priced at $0.0002803. That level of capitalization prior to a Tier-1 exchange listing implies high conviction from early entrants positioning for the 2026 expansion. But the smart money movement is the real story. Etherscan data reveals 2 high-net-worth wallets accumulated $628K in recent transactions. The largest individual purchase, a massive $314K , occurred on Oct 11, 2025. Large buy orders executed this deep into a presale often indicate “insider” confidence or sophisticated syndicates positioning for a supply shock. A $4.5M+ raise combined with verified six-figure whale entries paints a picture of a project that has graduated from ‘experiment’ to serious contender. If Maxi Doge can sustain this momentum through its roadmap execution, it has a genuine shot at capturing the liquidity overflowing from Ethereum’s ecosystem. Buy $MAXI here. Disclaimer: This article is for informational purposes only and does not constitute financial advice. Cryptocurrency investments, particularly in the meme sector, carry high risk and volatility. Always conduct your own due diligence (DYOR) and consult with a financial advisor before making investment decisions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 62,
+        "NAME": "ZRX",
+        "CATEGORY": "ZRX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57869005,
+    "published": 1770646508000,
+    "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) is only gainer, up 3.4%",
+    "body": "Aptos (APT) declined 9.4% and NEAR Protocol (NEAR) fell 8%, leading index lower.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 12,
+        "NAME": "BCH",
+        "CATEGORY": "BCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 70,
+        "NAME": "APT",
+        "CATEGORY": "APT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 89,
+        "NAME": "NEAR",
+        "CATEGORY": "NEAR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57869289,
+    "published": 1770647440000,
+    "title": "Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go?",
+    "body": "The cryptocurrency industry went under intense pressure last week, with Bitcoin and Ethereum leading the crash and multiple cryptocurrencies hitting new multi-month lows. The crash was more pronounced with Bitcoin, though, and the imbalance in selling pressure is quietly shifting the relationship between the two assets. The interesting imbalance is relayed in Ethereum’s performance relative to Bitcoin. A technical analysis of the ETH/BTC ratio shared on the social media platform X by Jonathan Carter indicates that Ethereum may be approaching a critical breakout point against Bitcoin, following an extended period of compression on the 2-week candlestick timeframe chart. Long-Term Triangle On The Verge Of Break According to technical analysis of the ETH/BTC 2-week chart, Ethereum is nearing an important point against Bitcoin after years of consolidation beneath a descending trendline. This long-running pattern originates from a major peak in relative valuation in July 2017, when 1 ETH was worth 0.154 BTC in Bitcoin terms, and has since formed a series of lower highs to form a falling resistance trendline. The lower boundary of this pattern is a long-tested support zone around 0.02 that has repeatedly drawn buying interest for Ethereum in relation to Bitcoin. Related Reading: Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says At the time of writing, the ETH/BTC ratio is trading around 0.030. However, the most recent 2-week candlestick has flipped green, and this development is important to the bullish outlook of Ethereum’s performance against Bitcoin. The bullish projection is based on a full playout of the green candlestick with a push towards the descending triangle’s resistance trendline. If the pair can convincingly break above the descending triangle’s upper trend boundary with sustained momentum, then this would allow Ethereum to enter a phase of sustained outperformance against Bitcoin. How High Could ETH/BTC Go If A Breakout Happens? Crypto analyst Jonathan Carter outlined a series of potential upside targets should the ETH/BTC pair break free from its downward trend. The first target is around 0.040 BTC, which would represent a clear departure from the compressed range seen across recent months. If momentum continues, higher potential objectives include 0.060, 0.085, 0.105, 0.124, and all the way up to the 2017 peak of 0.154. Related Reading: Here’s Why The Bitcoin And Ethereum Prices Are Still Trading Sideways Translating these ratio-based targets into absolute price levels is less straightforward, as the projections are based on Ethereum’s performance relative to Bitcoin and not standalone price moves. Such a performance can happen in two major ways: either Ethereum receives more inflows than Bitcoin, or Bitcoin could crash more than Ethereum during a market-wide correction. The former scenario would most likely translate into a sustained rotation into Ethereum and the wider altcoin market, setting the stage for an altcoin season. Nonetheless, both scenarios will see the otherwise strong Bitcoin dominance dropping massively. Featured image from Pixabay, chart from Tradingview.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Ethereum|altcoin|Altcoin Season|bitcoin|bitcoin dominance|btc|Descending Trendline|ETH|ETH news|eth price|ETH/BTC|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|Jonathan Carter",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57869287,
+    "published": 1770647436000,
+    "title": "Signature Phishing Up 200% As January Losses Pass $6M",
+    "body": "Nearly 4,700 victims lost $6.27 million in January as scammers exploit cheaper Ethereum fees and familiar wallet habits",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 57869898,
+    "published": 1770649000000,
+    "title": "Crypto Crashes Rattle Venture Capitalists After $19 Billion Haul",
+    "body": "Crypto venture capital funds are confronting an identity crisis.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
