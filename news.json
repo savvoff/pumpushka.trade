@@ -1,52 +1,5 @@
 [
   {
-    "id": 57829994,
-    "published": 1770519628000,
-    "title": "Ethereum Price Is Not Going To Keep Falling Forever, Analyst Says",
-    "body": "Ethereum’s recent sell-off has weighed heavily on sentiment after the price fell below the $2,000 level and pulled much of the altcoin market lower alongside it. The move has caused sweeping fear and caution among Ethereum traders. However, some analysts are of the notion that a bullish upside will roll in soon. In a post shared on X, crypto analyst ChainHub said the current conditions point more toward exhaustion, and after massive downside comes massive upside. Related Reading: Bitcoin Edges Past Gold In Appeal, JPMorgan Says ETHBTC Structure Holds ChainHub emphasized that the ETH/BTC pair is still technically valid and has not seen any structural invalidation despite the recent price crash. Although Ethereum’s price fell much lower than many expected during the crash, it is not going to keep falling forever. He also pointed to fear levels that are now climbing to extremes rarely seen, noting that such environments always tend to appear near major turning points. “After massive fear and massive downside comes massive upside,” the analyst said. On Ethereum itself, ChainHub acknowledged that losing the $2,000 handle was important, but he highlighted the next major area of interest near $1,700. This zone is technically consistent with a broader corrective structure, and it is possible that Ethereum might not even fall that far before it rebounds. However, even if Ethereum does fall to $1,700, price action reaching this area means Ethereum is finally at a region where buyers may begin to reassert control. He linked this outlook to Bitcoin’s recent behavior. Bitcoin’s rejection at $72,000 opened the door to a retest of the upper portion of its summer 2024 demand range, which stretches from around $59,000 down to $49,000. ChainHub pointed out that this is the first significant interaction with that demand area since 2025, with Fibonacci alignment clustering around $57,000 to $58,000. This increases the odds that Bitcoin is in the process of forming a base, and that is where it establishes a bottom. Altcoins Touching Meaningful Demand Levels ChainHub also noted that Ethereum is not alone in testing critical levels. Several major altcoins, including Solana and XRP, have moved into important demand zones. Many of these altcoins have revisited August 2024 lows or filled prior wicks, areas that have not yet been broken on an initial attempt. Solana, for instance, has broken below $100 for the first time since January 2024 and recently traded at a low of $75. As noted by ChainHub, this move saw Solana finally touch meaningful demand for the first time in 2 years. Related Reading: Polygon Hits $3.50 Billion In Payments As Crypto Activity Expands Dogecoin, Cardano, and Avalanche have also all filled the downward wicks on October 10, restoring balance and touching the August 2024 low. Although there is still the possibility for limited downside, the expectation is that the market begins forming a range and then starts building bullish momentum in the coming weeks. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|blockchain|crypto market|crypto news|cryptocurrency|ETH|ethereum",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57832454,
     "published": 1770527449000,
     "title": "CFTC Pivot Gives Prediction Markets Tailwind Just Before Super Bowl",
@@ -452,6 +405,58 @@
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57857809,
+    "published": 1770609472000,
+    "title": "Address poisoning recently cost 2 victims over $62M alone: Scam Sniffer",
+    "body": "Analysts have warned that Ethereum’s Fusaka upgrade has made address poisoning cheaper, as malicious actors can carry out dust attacks for very little cost.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57858408,
+    "published": 1770611617000,
+    "title": "Bessent suggests Warsh nomination hearings alongside Powell probe",
+    "body": "The Fed chair confirmation faces a key hurdle as a senator vows to block the process until a DOJ investigation into Jerome Powell is resolved.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
       }
     ]
   }
