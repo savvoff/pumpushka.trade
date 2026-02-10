@@ -298,53 +298,6 @@
     ]
   },
   {
-    "id": 57854995,
-    "published": 1770599939000,
-    "title": "Takaichi Triumph: Japan’s record 56,000 Nikkei surge sends bitcoin to $72,000, gold past $5,000",
-    "body": "Japanese mandate sparks surge in equities and safe havens.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Gold|Nikkei|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57861586,
     "published": 1770625173000,
     "title": "South Korea expands crypto market probes after $44B Bithumb Bitcoin blunder",
@@ -2078,6 +2031,88 @@
         "ID": 63,
         "NAME": "OTHER",
         "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57881549,
+    "published": 1770682386000,
+    "title": "MrBeast buys Gen Z bank just weeks after BitMine's $200M bet",
+    "body": "The banking acquisition follows a trademark filing for “MrBeast Financial” in October, which specifically mentioned “cryptocurrency exchange services.”",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57882372,
+    "published": 1770685216000,
+    "title": "Ethereum Crash Below $2,000 Triggers Record Token Movement: Hinting At Capitulation",
+    "body": "Ethereum is holding above the $2,000 level as the market enters a consolidation phase following several days of intense selling pressure that forced prices sharply lower. While volatility has eased slightly, sentiment remains fragile as investors assess whether the recent decline represents a temporary correction or the early stage of a broader bearish cycle. Against this backdrop, new on-chain data is drawing attention to an unusual divergence between price behavior and network activity. Related Reading: Bitcoin At $65K: Market Cycle Indicator Points To Possible Bottom Zone A recent CryptoQuant report highlights that the Ethereum network is experiencing a substantial increase in token transfers even as prices struggle to recover. According to the analysis, as Ethereum corrected from roughly $3,000 down to the $2,000 region, on-chain activity accelerated rather than declined. Specifically, the 14-day moving average of total tokens transferred surged from about 1.6 million on January 29 to approximately 2.75 million by February 7. This represents the highest level observed since August 2025. Such a rapid rise in transfer volume during a price downturn often signals heightened stress in the market. It can reflect repositioning, forced liquidations, or large-scale portfolio adjustments. Although not a definitive capitulation signal on its own, the data suggests that underlying market dynamics remain tense, making the coming sessions particularly important for confirming Ethereum’s next directional move. Transfer Activity Signals Stress Rather Than Immediate Recovery The report indicates that the recent spike in ERC-20 token transfers reflects elevated stress conditions rather than organic network growth. During sharp price declines, increased token movement typically suggests panic-driven repositioning. Investors often rotate from volatile assets into stablecoins or move funds toward exchanges, preparing for liquidation or defensive portfolio adjustments. This behavioral shift tends to amplify short-term volatility and reinforces downward momentum. From a historical perspective, abrupt surges in transfer velocity during bearish phases frequently coincide with capitulation dynamics. Rapid increases in on-chain activity can signal that weaker market participants are exiting positions under pressure. Such “flush” phases compress selling into a short window, allowing the market to absorb excess supply more quickly than during gradual declines. Part of the current activity likely originates from decentralized finance mechanisms. Because the metric tracks token transfers broadly, a share of the increase probably reflects forced liquidations, collateral rebalancing, and automated risk management processes across DeFi lending and derivatives protocols. These cascades can intensify price swings even without new fundamental catalysts. Sentiment appears dominated by caution. Historically, when token transfer activity spikes sharply during downtrends, it sometimes precedes stabilization phases. While not a definitive bottom signal, this pattern often suggests that intense selling pressure may be approaching exhaustion. Related Reading: Binance SAFU Fund Adds 3,600 Bitcoin ($233M) As Market Faces Pressure Ethereum Tests Key Support As Momentum Weakens Ethereum’s weekly chart shows sustained downside pressure after failing to hold the $3,000 region, with price now hovering just above the $2,000 level. This zone has become a critical psychological and structural support, especially as recent candles reflect increasing volatility and sharp rejection from higher levels. The market appears to be transitioning from a corrective pullback into a broader consolidation phase, though downside risks remain evident. Technically, ETH is trading below major moving averages, with shorter-term averages trending downward and beginning to cross beneath longer-term ones. This configuration typically signals weakening momentum and suggests that buyers have not yet regained control. The 200-week moving average, currently near the mid-$2,000 range, may act as a pivotal reference level. Sustained trading below it would likely reinforce bearish sentiment. Related Reading: Bitcoin Short-Term Holders Deep In Loss: MVRV Signals Capitulation Phase Recent spikes in selling volume correspond with rapid price declines, indicating distribution rather than accumulation. Historically, such volume expansions during downtrends often precede either capitulation lows or extended sideways consolidation. From a structural standpoint, reclaiming the $2,400–$2,600 range would be necessary to stabilize momentum. Conversely, a decisive break below $2,000 could expose lower historical support zones, potentially accelerating volatility as leveraged positions unwind further. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum News|ETH|ethereum|Ethereum Analysis|Ethereum Capitulation|ethereum news|ethereum price|Ethereum supply|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
