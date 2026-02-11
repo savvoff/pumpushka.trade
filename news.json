@@ -1,256 +1,5 @@
 [
   {
-    "id": 57889798,
-    "published": 1770710404000,
-    "title": "Ethereum Drops Under MVRV Band That Marked Last 3 Bottoms",
-    "body": "On-chain data shows Ethereum dipped under a key Market Value to Realized Value (MVRV) pricing band during the latest price drawdown. Ethereum Fell Under The 0.80 MVRV Band Recently As explained by analyst Ali Martinez in an X post, Ethereum recently dropped below the 0.80 MVRV pricing band. The “MVRV Ratio” is a popular on-chain indicator that tracks the ratio between the ETH market cap and Realized Cap. Related Reading: Bitcoin Sentiment Worst Since 2022 Bear As Price Crash Continues The Realized Cap here refers to a capitalization model that calculates the asset’s total value by assuming that the value of each individual token is equal to the spot price at which it was last transacted on the blockchain. The last transfer of any token is likely to represent the last time that it changed hands, so the price at its time could be considered as its current cost basis. As such, the Realized Cap essentially measures the sum of the acquisition value of all coins in circulation. In other words, it provides an estimate for the amount of capital that the investors as a whole have put into the cryptocurrency. As the market cap can be considered as the value that holders are carrying in the present, its comparison with the Realized Cap in the MVRV Ratio tells us about the profit-loss status of the Ethereum userbase. When the value of the MVRV Ratio is greater than 1, it means the investors are in a state of net unrealized profit. On the other hand, it being under this mark suggests the dominance of loss on the network. Historically, profitability swinging to an extreme value either side of 1 has often paved way for reversals in the asset. At a high level above 1, this happens because investors become more likely to take their profits the higher that they get. Similarly, below 1, the asset can bottom out as losses dominate and selling pressure runs out. The MVRV Pricing Bands is a model that defines price levels for ETH where these behaviors become more apparent. Below is the chart shared by Martinez that shows the trend in this model’s bands for Ethereum. As is visible in the graph, Ethereum plunged below the 1.0 pricing band corresponding to $2,449 during its slide at the end of January. This means that the overall market went underwater due to the price drawdown. With bearish momentum continuing in the first week of February, losses only grew deeper for investors as the asset fell below another pricing band: 0.80. Currently, this level is valued at $1,959. Related Reading: Bitcoin Realized Loss Nears $900 Million, Highest Since FTX Crash “The last three times Ethereum $ETH dipped below the 0.80 Pricing Band, it marked a market bottom,” noted the analyst. It now remains to be seen whether the venture below the level would also mark a bottom for the asset this time. ETH Price Ethereum has rebounded a bit since its plunge last week as its price has returned to $2,044, recovering above the 0.80 MVRV pricing band. Featured image from Dall-E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Ethereum|ETH|ethereum|Ethereum Bottom|Ethereum MVRV Pricing Bands|Ethereum MVRV RAtio|ETHUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57890112,
-    "published": 1770711058000,
-    "title": "Bitcoin ETFs extend rebound as $145M in fresh inflows hit market",
-    "body": "The Bitcoin ETF rebound comes as analysts flag slowing outflows, while early BTC holders trim positions rather than exit as BTC hovers near $70,000, according to Bitwise.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57891038,
-    "published": 1770713273000,
-    "title": "Ether Resumes Plunge, Tracking Bitcoin Slide on Risk-Off Mood",
-    "body": "After a relatively quiet start to the week, the two largest cryptocurrencies began sliding again in early European hours on Tuesday as bearish sentiment weighed on digital assets.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57891177,
-    "published": 1770714012000,
-    "title": "Bernstein Calls Bitcoin Crash A ‘Crisis Of Confidence,’ Maintains $150,000 Target",
-    "body": "Despite a sharp decline in Bitcoin (BTC) prices since last October, analysts at Bernstein argue that the current downturn does not resemble a traditional crypto bear market. In a note to clients released on Monday, the firm described the pullback as “the weakest Bitcoin bear case in its history,” even as the asset has fallen about 44% from its all‑time highs in current trading. Bernstein Defends Bitcoin’s Fundamentals The analysis was led by Bernstein’s Gautam Chhugani, who said the recent sell‑off reflects a loss of confidence rather than deeper structural problems. The analysts emphasized that Bitcoin’s core fundamentals remain intact and that the decline should not be mistaken for a systemic breakdown. Bernstein reaffirmed its long‑term outlook, maintaining a $150,000 price target for Bitcoin by the end of 2026. Related Reading: Ethereum Price Set To Break Out Against Bitcoin, But How High Can It Go? Bernstein noted that many of the “red flags” that have historically preceded major Bitcoin crashes are missing this time. The analyst asserts that there have been no large institutional collapses, no exposure of hidden leverage, and no widespread failures across the crypto ecosystem. Instead, the firm sees a market weighed down by negative sentiment, even as broader conditions appear unusually favorable. The analysts pointed to what they described as strong institutional support for Bitcoin. This includes a pro‑Bitcoin US president, the continued expansion of spot Bitcoin exchange‑traded funds (ETFs), growing adoption by corporate treasuries, and sustained interest from large asset managers. In Bernstein’s view, these factors clearly distinguish the current cycle from past downturns that were driven by excess risk and fragile market structures. Holders And Miners Can Weather Long Downturn The firm also addressed shifting narratives around technology trends. Bernstein noted that some investors now argue Bitcoin has become irrelevant as global attention turns toward artificial intelligence (AI). The analysts dismissed that view, saying it reflects changing investor focus rather than a genuine threat to Bitcoin’s role. They added that fears around quantum computing have similarly been overstated, pointing out that such risks would affect all critical digital systems, not just Bitcoin. The firm further downplayed fears of forced selling driven by corporate treasuries or miner capitulation. Bernstein said major companies holding Bitcoin have structured their balance sheets to withstand prolonged downturns. Related Reading: After Predicting XRP’s Drop, Analyst Says The Bottom May Be In Referencing comments from Strategy’s recent earnings call, the analysts noted that only an extreme scenario—Bitcoin falling to $8,000 and remaining there for five years—would trigger a need for restructuring. Miners, they added, are also better positioned than in past cycles. Many have diversified their revenue by reallocating power resources toward AI data center demand, reducing reliance on Bitcoin mining alone and easing pressure from production costs. As of this writing, Bitcoin is trading at $70,627, having recorded losses of 20% and 22% over the past fourteen and thirty days, respectively. Featured image from OpenArt, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin chart|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|BTCUSDT|crypto|crypto analyst|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57891171,
-    "published": 1770713769000,
-    "title": "LMAX unveils new exchange to break the wall down between crypto and FX",
-    "body": "Omnia allows users to trade any asset directly against any other 24/7, without restrictions on size or type.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|LMAX Group|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57892053,
-    "published": 1770716242000,
-    "title": "Gemini exit a ‘blow for policymakers’ with UK crypto hub ambitions",
-    "body": "Industry groups and exchanges say the United Kingdom’s slow, overlapping crypto rules and compliance frictions are undermining its “global hub” ambition.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57891853,
-    "published": 1770715804000,
-    "title": "I'm not confident we hit a true capitulation in bitcoin, derivatives expert says",
-    "body": "Bitcoin's futures market doesn't show panic capitulation as in late 2022, analyst said.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|Derivatives|Bitcoin Futures|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57892347,
     "published": 1770717268000,
     "title": "Bitcoin ETFs Extend Inflow Streak as Institutional Capital Rotates Into $HYPER",
@@ -2912,6 +2661,796 @@
         "ID": 41,
         "NAME": "REGULATION",
         "CATEGORY": "REGULATION"
+      }
+    ]
+  },
+  {
+    "id": 57922187,
+    "published": 1770793253000,
+    "title": "Bitcoin Drop Wipes Billions From Recent Buyers: New Whale Cost Basis Falls Toward $90K",
+    "body": "Bitcoin is attempting to reclaim the $70,000 level after weeks of volatility. Yet repeated failures to hold that threshold with confirmation suggest that demand remains fragile. Each push above this psychological barrier has been met with renewed selling pressure. Reinforcing the view that the market is still navigating a corrective phase rather than establishing a sustained recovery. Sentiment remains cautious as liquidity conditions tighten and traders look for clearer signs of stabilization. Related Reading: Ethereum Supply on Exchanges Mirrors 2016 Levels: What Happens Next? Recent data shared by top on-chain analyst Maartunn highlights a notable shift among large holders. According to the analysis, many whales who entered the market near the $96,000 region are now sitting on significant unrealized losses following the subsequent price decline. After briefly testing those higher levels, Bitcoin reversed sharply, leaving late-cycle entrants exposed to downside pressure. This dynamic suggests that some large investors may be reassessing risk, either reducing exposure or repositioning portfolios amid uncertain macro and crypto-specific conditions. Such behavior often contributes to heightened volatility, particularly when leveraged positions unwind. Whale Capitulation Signals Market Redistribution Phase Recent data shared by on-chain analyst Maartunn highlights a sharp wave of realized losses among large Bitcoin holders, pointing to an evolving market structure rather than a static downturn. According to the figures, realized losses reached approximately $944 million on Feb. 3, $431 million on Feb. 4, $1.46 billion on Feb. 5, and $915 million on Feb. 6. These numbers reflect significant selling activity from investors who accumulated BTC near higher price levels and are now exiting positions under pressure. Such realized losses typically indicate capitulation among late-cycle entrants. When whales sell at a loss, it often means that conviction has weakened or that risk management considerations are taking priority. However, this process also implies redistribution. Coins do not disappear; they transfer from weaker hands to buyers willing to absorb supply at lower prices. Maartunn notes that the estimated cost basis for the newest cohort of large holders is now around $90,000. This suggests that a substantial portion of recent accumulation occurred near that level, creating a potential overhead resistance zone if the price attempts to recover. Markets often evolve through these phases of redistribution. While short-term sentiment may remain fragile, shifts in cost basis and ownership structure can eventually lay the groundwork for stabilization and future trend development. Related Reading: Ethereum Crash Below $2,000 Triggers Record Token Movement: Hinting At Capitulation Bitcoin Price Structure Signals Continued Distribution Phase Bitcoin’s recent price structure reflects a market still dominated by distribution pressure rather than sustained demand recovery. After failing multiple times to consolidate above the $90K–$100K region, BTC entered a persistent downtrend characterized by lower highs and increasingly aggressive selloffs. The latest decline toward the $60K–$70K zone came with a sharp expansion in volume, typically associated with forced liquidations, panic exits, or large portfolio reallocations. From a technical perspective, price now trades clearly below the major moving averages shown on the chart, all of which are trending downward. This configuration usually signals a mature corrective phase rather than a temporary pullback. The inability to reclaim those averages quickly suggests weak spot demand and continued caution among institutional participants. Related Reading: Binance SAFU Fund Adds 3,600 Bitcoin ($233M) As Market Faces Pressure The $60K–$65K region is emerging as a critical support cluster. A sustained hold above this range could stabilize sentiment and allow consolidation. However, failure to maintain this zone would likely expose deeper liquidity pockets below, potentially accelerating volatility. Short term, price action appears reactive rather than directional. Until volume stabilizes and BTC reclaims key trend indicators, rallies may remain corrective. Market structure currently reflects redistribution rather than confirmed accumulation, keeping downside risks structurally elevated. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin analysis|Bitcoin New Whales|Bitcoin news|bitcoin price|Bitcoin whales|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57922389,
+    "published": 1770793236000,
+    "title": "Bitcoin Slides Below $67,000 as Crypto Diverges From Stocks",
+    "body": "Bitcoin fell to its lowest level since last Friday’s selloff, diverging sharply from Asian equities that climbed to fresh records and highlighting investors’ lack of confidence in a sustained recovery.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57922157,
+    "published": 1770793135000,
+    "title": "Bithumb’s Bitcoin Blunder Puts Burden on Users as Legal Case Favors Civil Recovery",
+    "body": "Legal experts say civil claims offer Bithumb the clearest route to recovering Bitcoin mistakenly distributed in a $43 billion error.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57922483,
+    "published": 1770792603000,
+    "title": "South Koreans Bail on Crypto as Retail Traders Bemoan Losses",
+    "body": "On a South Korean social-media platform last month, an anonymous trader vented their frustration about the crypto crash that began in October last year.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57923483,
+    "published": 1770796063000,
+    "title": "Bitcoin Price Prediction: Why Analysts See a Drop to $55,000 as ETF Outflows Continue",
+    "body": "What to Know: Bitcoin faces significant downward pressure, with analysts targeting the $55,000–$58,000 range due to sustained ETF outflows. A technical breakdown below the 50-day moving average and a hawkish macro environment support the bearish case. To invalidate the bearish trend, Bitcoin must reclaim $68,000 and see ETF inflows turn positive again. As Bitcoin struggles, capital is rotating to Layer 2 solutions like Bitcoin Hyper, which aim to solve its core scalability problems. Bitcoin’s at a crossroads. After weeks of sideways consolidation, it’s showing real signs of weakness and struggling to hold the crucial $65,000 support level. The initial euphoria from the spot ETF approvals? Gone. It’s been replaced by a steady drumbeat of net outflows and a hawkish macroeconomic backdrop. This isn’t just a minor dip; it’s a gut-check for the entire bull market. The data tells a clear story: institutional demand is cooling. U.S. spot Bitcoin ETFs have recorded persistent net outflows (over $1B in just three days), draining hundreds of millions from the market and putting sustained selling pressure on the price. That’s a huge problem, because the ETF narrative (the primary driver of the Q1 rally) is now working in reverse. With that engine sputtering, Bitcoin is vulnerable to technical breakdowns. Analysts are now eyeing key support zones, with some models pointing toward a potential slide to the $55K–$58K range if this keeps up. We’re also seeing a market-wide deleveraging event, a fancy way of saying over-leveraged longs are getting flushed out. As Bitcoin weathers this storm, some capital is starting to rotate, seeking alpha in projects designed to solve the very network congestion issues plaguing the main chain. Think emerging Layer 2 presales like Bitcoin Hyper ($HYPER) . Read more about $HYPER here. Bitcoin’s Path to $55K Looks Increasingly Plausible On the charts, Bitcoin’s setup is looking increasingly shaky. The price is now trading below its 50-day moving average, a classic bearish signal. While immediate support is around $64.5K, a clean break below could open the floodgates for a move toward the 100-day moving average, which sits near the $60K mark. According to analysis from 10x Research, a failure to hold that zone could trigger a much deeper correction toward the $52K–$55K region, a level we haven’t seen since February. This technical weakness is compounded by serious fundamental headwinds. But what most coverage misses is that this isn’t just profit-taking. It’s a direct reaction to a ‘higher for longer’ interest rate world where boring old government bonds are suddenly competing with crypto for capital. Smart money is watching the Fed closely, and any delay in rate cuts could pour more cold water on the market. Bear Case: A daily close below $64K validates the bearish trend, with $58,000 as the next logical target. A major risk-off event in traditional markets could easily accelerate a drop to $55K or lower. Base Case: Bitcoin chops between $64K and $67K for a few more weeks, absorbing ETF selling while long-term holders quietly accumulate. Bullish Invalidation: To kill the bearish thesis, Bitcoin needs to powerfully reclaim the $68K level, supported by at least three straight days of positive ETF inflows. $HYPER is available here. As Bitcoin Stalls, Capital Rotates to High-Speed Layer 2s Ironically, Bitcoin’s stagnation, driven by its own limitations in speed and programmability, is creating the perfect narrative for its own evolution. Every time a user gets hit with high fees or slow confirmations, the case for scalable Layer 2 solutions gets stronger. This has created a fertile ground for projects aiming to bring DeFi, NFTs, and high-speed transactions to the world’s most secure blockchain. It’s no surprise that investors looking for higher-risk, higher-reward plays are digging into this infrastructure build-out. One project capturing attention is Bitcoin Hyper ($HYPER) . It’s aiming to become the first Bitcoin Layer 2 that integrates the Solana Virtual Machine (SVM), a technology famous for its parallel processing and raw speed. The goal is nothing short of ambitious: deliver performance faster than Solana itself, all while settling on the Bitcoin network. The project’s presale has already drawn significant capital, raising $31.3M with tokens currently priced at $0.0136754. On-chain data suggests some big players are getting positioned. A look at Etherscan reveals that a couple of whale wallets have already scooped up $1m+ in tokens, with the largest single purchase of $500K recorded on January 15, 2026. But it’s not without risk. Presales are highly speculative, the L2 space is getting crowded, and both regulatory and technical hurdles are very real. Frankly, projects like Bitcoin Hyper are a high-risk, high-reward bet on the future of the Bitcoin ecosystem. For a deeper analysis, research Bitcoin Hyper yourself. Get your $HYPER today. This article is for informational purposes only and should not be considered financial advice. The cryptocurrency market is highly volatile, and readers should conduct their own independent research before making any investment decisions.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57923993,
+    "published": 1770797296000,
+    "title": "As Meme Coin Dynasties Shift, Could Maxi Doge Become the New King in 2026?",
+    "body": "What to Know: The meme coin market is evolving, rewarding projects with strong cultural identities and engaged communities over simple humorous concepts. Maxi Doge is building a community around a ‘Leverage King Culture,’ targeting high-conviction traders with features like trading competitions. The project’s presale shows significant momentum, having raised over $4.5M and attracting whale investments totaling $628K. History suggests that each crypto cycle crowns a new meme coin leader, and Maxi Doge’s unique positioning makes it a contender for 2026. The crypto market is in a state of tense but calculated volatility. Bitcoin is hovering below its all-time high, consolidating after a period of intense ETF-driven inflows, while Ethereum tackles the complexities of post-Dencun scaling. Yet, beneath the surface of these blue-chip movements, a familiar, chaotic energy is cooking up in the meme coin sector. The reign of Dogecoin, the original meme king, isn’t undisputed anymore. Every cycle, new challengers emerge, capturing the market’s imagination not just with humor, but with potent cultural narratives. But here’s what most coverage misses: the formula for a ‘meme king’ has evolved. A cute animal just isn’t enough anymore. To achieve dominance in 2026 and beyond, a token needs a fanatical, tribe-like community, a distinct cultural identity, and a way to sustain momentum beyond the initial hype. The market is saturated with fleeting jokes, but it starves for projects with an actual ethos. This is the environment where a new contender, Maxi Doge ($MAXI) , is building its foundation by fusing the high-octane world of leverage trading with the viral appeal of gym-bro culture. It’s a surprisingly potent combination. While Dogecoin represents passive, friendly fun, Maxi Doge embodies the aggressive, disciplined grind of a bull market trader, a narrative that resonates deeply with a generation of retail investors who see the market as a competitive sport. Learn more about Maxi Doge. From Mascot to Movement: The Power of a Trading Culture A meme coin’s longevity is directly tied to its ability to build a self-sustaining ecosystem. Maxi Doge approaches this not with complex DeFi mechanics, but by leaning into a powerful subculture: high-leverage trading. Its tagline, ‘Never skip leg-day, never skip a pump,’ isn’t just a catchy phrase; it’s a mission statement for a very specific demographic. And that’s the point, this isn’t for everyone. It targets traders who thrive on high stakes and see outsized returns as a result of conviction and effort.This culture is baked directly into its utility. The project plans to host Holder-Only Trading Competitions, complete with leaderboards and rewards for traders who generate the highest ROI. This gamified approach transforms passive holding into active participation, creating a colosseum for talent and fostering a sticky community where members share strategies and celebrate wins. The second-order effect is powerful: it creates a self-perpetuating hype loop where the token becomes the symbol of a successful trading tribe. A treasury, the Maxi Fund, is also being established to fund liquidity, partnerships with futures platforms, and meme-first marketing campaigns, ensuring the project has the capital to dominate social feeds and charts. Staking rewards, distributed automatically from a dedicated pool, provide an incentive for long-term alignment. Get your $MAXI today. Smart Money Signals a Potential Breakout A strong narrative is essential, but can it actually deliver? The Maxi Doge presale is showing signs that it has the raw power to back it up. The project has already pulled in a formidable $4.5M, with its $MAXI token currently priced at $0.0002803. Raising over $4.5 million in an early funding stage suggests a level of interest that transcends typical meme coin speculation. Frankly, it points to a belief in the project’s unique cultural positioning. The risk here, of course, is the inherent volatility of any meme-driven asset. The very high-leverage culture Maxi Doge champions is synonymous with high risk. However, on-chain data reveals that it’s not just small-time traders taking a position. A look at Etherscan records shows two whale wallets have already snapped up a combined $628K in tokens. The largest single transaction, worth a staggering $314K , occurred on October 11, 2025. This kind of early, concentrated buying from high-net-worth wallets is often a leading indicator. Smart money isn’t chasing a joke; it’s investing in a cultural narrative with the potential for explosive growth. It’s a bet that in the next bull cycle, the crown won’t go to the funniest dog, but the strongest one. Buy your $MAXI here. Disclaimer: This article does not constitute financial advice. All investments, especially in speculative assets like meme coins, carry significant risk.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57923899,
+    "published": 1770796808000,
+    "title": "Bitcoin price drops 3% as analyst warns bulls lack 'momentum' to flip $69K",
+    "body": "Bitcoin analysis warned that the $69,000 mark may end up as long-term resistance again, thanks to its significance in BTC price history.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57923757,
+    "published": 1770796752000,
+    "title": "BNB Price Prediction: Bulls Defend $600 as Next Major Leg Up Looms",
+    "body": "What to Know: BNB is showing impressive strength by holding the $600 support level, hinting at an accumulation phase before its next leg up. A breakout above $630 could pave the way for BNB to challenge its all-time high near $700, backed by solid ecosystem fundamentals. The main risk to this bullish outlook is a drop below $580 support, which could trigger a much deeper correction. At the same time, emerging Layer 3 projects like LiquidChain are capturing attention by tackling DeFi’s persistent liquidity fragmentation problem. BNB is holding a critical line in the sand at $600. While the broader crypto market treads water, Bitcoin trading sideways, altcoins flashing mixed signals, Binance Coin ($BNB) has carved out a solid floor. This resilience isn’t just a number on a chart; it’s a powerful signal of underlying strength in the Binance ecosystem, suggesting a period of accumulation before a potential run at all-time highs. And that’s a big deal, because BNB’s performance is often a bellwether for the entire altcoin market and the DeFi world it powers. Everyone’s waiting for a catalyst, a macro shift from the Fed, perhaps, or a fresh wave of institutional cash, but in the meantime, analysts are glued to BNB’s technicals. Its consolidation above the 50-day moving average points to sustained buyer interest. So, the question isn’t if BNB can hold $600. It’s what will it take to propel it toward the $700 barrier? As savvy traders position themselves for that next move, a parallel trend is emerging: capital is quietly flowing into the next generation of infrastructure projects. LiquidChain ($LIQUID) is the most prominent name in this respect. Read more about $LIQUID here. A Technical and Fundamental Path to $700 From a technical standpoint, BNB’s price structure looks compelling for bulls. The $590-$600 zone, once a stubborn ceiling, has convincingly flipped into solid support. A daily close above the immediate resistance at $625 would likely open the door for a swift run toward the $690-$700 range, putting its previous all-time high within striking distance. But what most market commentary misses is the on-chain story. Data shows the supply of BNB on exchanges continues to dwindle, a classic sign of accumulation as holders move tokens into self-custody or staking, which naturally reduces selling pressure. The fundamental narrative remains robust. The Binance Launchpad and Launchpool continue to be primary venues for high-profile token launches, driving consistent demand for BNB. The second-order effect is a self-reinforcing ecosystem where new projects bring in new users, who in turn need BNB to participate, further strengthening the token’s utility. Bull Case: A clean break above $630, driven by positive market sentiment or a big ecosystem announcement, could send BNB toward $725+ by Q3’s end. Some analysts, like those at Coinpedia, are even calling for a potential run to $1,000 in a sustained bull market. Base Case: BNB chops around in the $580-$650 range for a few more weeks, building a base for a breakout later in the year. Bear Case: If the $580 support floor gives way, a correction toward the $520-$530 zone is likely. That would invalidate the current bullish setup and probably signal a wider market downturn. $LIQUID is available here. While BNB Consolidates, LiquidChain Turns Heads While BNB offers a relatively stable large-cap opportunity, some investors are rotating a portion of their capital into higher-risk, higher-reward presales. They’re seeking exponential growth by targeting next-generation infrastructure before it hits the mainstream. That’s where projects like LiquidChain ($LIQUID) come into play. So what is LiquidChain? It’s positioning itself as a Layer 3 protocol built to solve one of DeFi’s oldest headaches: fragmented liquidity. Think about the walled-off value on Bitcoin, Ethereum, and Solana. Instead of forcing users through clunky bridges and risky wrapped assets, LiquidChain wants to create a single, unified environment to access it all. For developers, the pitch is simple: deploy an app once and tap into the liquidity and users of all three giants. The project is already gaining traction in its presale. So far, early backers have poured in over $535K, with the $LIQUID token priced at just $0.0136. Frankly, the appeal is its moonshot goal of merging the three largest crypto economies into one fluid market. But can it deliver? Investing in a presale is a high-stakes game. The technology is unproven, regulations are a moving target, and the market can turn on a dime. It’s a speculative bet on a team’s ability to pull off a very complex vision. Buy $LIQUID here. This article is for informational purposes only and should not be considered financial advice. All investments carry risks, and readers should conduct their own thorough research before making any decisions.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57924399,
+    "published": 1770798182000,
+    "title": "SUBBD Token’s AI Ambition: A Potential Revolution for the $191B Creator Economy?",
+    "body": "What to Know: The creator economy is plagued by challenges from centralized platforms, including fees as high as 70% and the risk of de-platforming. SUBBD Token aims to solve these issues by combining Web3’s decentralized ownership with integrated AI content creation tools. Core features like an AI Personal Assistant, AI Voice Cloning, and token-gated content give creators more control and revenue. The project’s presale shows strong early momentum, raising over $1.47 million and offering a 20% APY staking incentive to early backers. The digital content landscape is in the middle of a tectonic shift. What started as a niche hobby has ballooned into an $191B creator economy, an industry Goldman Sachs projected will approach half a trillion dollars by 2027. Yet, the very platforms that enabled this growth (YouTube, Twitch, Patreon) are now seen by many creators as restrictive, centralized gatekeepers. The issues are well-documented: steep platform fees that can slash earnings by up to 70%, opaque algorithms that dictate reach, and the ever-present threat of arbitrary demonetization. This friction has created a power vacuum. At the same time, a second revolution is underway: generative AI. Tools that create text, images, and even video aren’t science fiction anymore; they’re becoming integral to the creative process. For creators, this presents both a massive opportunity and a challenge, how do you integrate these powerful but fragmented AI tools into a workflow that also secures your earnings and digital sovereignty? This is the critical intersection where Web3 and AI are poised to offer a new path forward. The market is signaling a clear demand for a solution that returns power, control, and revenue back to creators themselves. It’s a complex problem requiring a multifaceted solution. Enter SUBBD Token ($SUBBD), an Ethereum-based project positioning itself as a direct answer to this industry-wide challenge. It’s merging the transparent, decentralized architecture of Web3 with a suite of integrated, cutting-edge AI tools. The project’s thesis is simple but potent: empower creators to keep more of their earnings, automate workflows, and engage with their communities without fear of a central authority changing the rules. Sound familiar? It’s a fundamental rethinking of the creator-platform relationship. Read more about SUBBD Token here. Beyond the Algorithm: How SUBBD Integrates AI With Web3 Ownership What most coverage of the creator economy misses is that the problem isn’t just about fees; it’s about workflow and control. SUBBD Token’s design targets this directly by embedding AI into its core infrastructure. The platform isn’t just a crypto payment rail, it’s a production studio. Features like an AI Personal Assistant are designed to automate fan interactions and community management, saving creators countless hours. Plus, its AI Voice Cloning and AI Influencer Creation tools tap into one of the most futuristic and rapidly growing segments of the market. This matters because it allows creators to scale their presence in ways previously unimaginable, creating new forms of content and engagement without diluting their brand. The second-order effect is the potential for entirely new revenue streams built around AI-generated, exclusive content. This is all underpinned by a Web3 foundation. By using token-gated access for exclusive content, creators can cultivate and monetize their communities directly. Subscriptions, pay-per-view (PPV) content, and digital collectibles become peer-to-peer transactions, not platform-brokered arrangements. This structure fundamentally disintermediates the legacy platforms, shifting the economic power dynamic decisively back in favor of the individual. Explore the SUBBD Token presale here. Presale Momentum Signals Strong Demand for Creator-First Solutions The market appears to be responding to this creator-centric vision. According to the project’s official site, the SUBBD Token presale has already attracted significant early-stage capital, raising over $1.47M. With tokens currently priced at $0.057495, the momentum points to a strong appetite for solutions that address the creator economy’s deepest pain points. Beyond the capital raised, the project’s tokenomics offer a glimpse into its strategy for long-term community building. Early supporters are incentivized through a staking program that offers a fixed 20% APY during the first year. It’s a smart mechanism designed not only to reward early belief but also to reduce initial sell pressure and foster a stable ecosystem from launch. Stakers also gain access to exclusive content and other platform benefits, creating a utility-driven feedback loop. The risk, as with any emerging crypto project, lies in execution and user adoption. Building a platform that can rival the user experience of Web2 giants is a monumental task. But can it actually deliver? The strong presale performance indicates that both creators and crypto-savvy users are actively seeking alternatives and are willing to invest in projects that promise a fairer, more transparent digital future. The data suggests the demand is real. Buy $SUBBD here. This article is for informational purposes only and should not be considered financial advice. All investments, especially in presale crypto assets, carry significant risk.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 39,
+        "NAME": "MINING",
+        "CATEGORY": "MINING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57924338,
+    "published": 1770797577000,
+    "title": "Spark’s new lending suite tests institutional appetite for onchain stablecoins",
+    "body": "Spark is rolling out Spark Prime and Spark Institutional Lending, aiming to turn its DeFi stablecoin stack into institutional margin and credit lines.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57925146,
+    "published": 1770799747000,
+    "title": "MrBeast's finance bet could become the new generation's Schwab, Robinhood, Tom Lee says",
+    "body": "The BitMine chairman said at Hong Kong Consensus 2026 that MrBeast acquiring neobank Step could win over a new generation of investors to crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Thomas Lee|Consensus Hong Kong 2026|Bitmine|Bitcoin News|Ethereum News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57925558,
+    "published": 1770800597000,
+    "title": "Tom Lee says stop timing the bottom and start buying the dip",
+    "body": "Thomas Lee, speaking on stage at Hong Kong Consensus 2026, said investors should be looking at opportunities as crypto is in the midst of a \"mini winter.\"",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|Market Wrap|Consensus Hong Kong 2026|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57925513,
+    "published": 1770800587000,
+    "title": "Ark Invest’s AI Thesis Sparks CapEx Boom Prediction, Spotlighting a New Wave of AI-Crypto Tokens",
+    "body": "What to Know: Ark Invest predicts a massive, multi-year capital spending boom from tech giants building out AI’s foundational infrastructure. This infrastructure surge is set to enable a new generation of specialized apps, with the creator economy being a prime beneficiary. SUBBD Token aims to solve creator problems like high fees and censorship by integrating AI tools with Web3 monetization. The market is showing strong early interest, with the SUBBD presale raising over $1.4M from investors. Cathie Wood’s Ark Invest is once again sounding the alarm on a technological revolution, this time forecasting a multi-year capital expenditure (CapEx) boom driven by artificial intelligence. The thesis is simple but profound: the world’s largest tech companies, from Amazon and Google to Meta and Microsoft, are just beginning an unprecedented investment cycle into the core infrastructure that powers AI. This isn’t just about buying more servers. It’s a fundamental re-architecting of the digital world, with hundreds of billions pouring into data centers, custom silicon, and GPU fleets. But what does most coverage miss? The second-order effects. This massive infrastructure build-out isn’t just for enterprise cloud services; it’s the foundation for a new generation of consumer-facing AI applications. As compute power gets more accessible and models more sophisticated, the benefits will cascade down to specialized industries. One of the first and most fertile grounds for this disruption is the $191B content creator economy. Sound familiar? For years, creators have been at the mercy of centralized platforms, battling exorbitant fees, opaque algorithms, and sudden de-platforming. This is the exact environment where decentralized, AI-powered solutions are poised to thrive. This macroeconomic tailwind is drawing smart money toward niche tokens that integrate AI directly into their utility. The data points to a growing appetite for platforms that don’t just use AI as a buzzword but as a core functional component. In this environment, projects designed to empower individual users and creators are gaining serious traction, SUBBD Token ($SUBBD) being the most prominent and promising of them. Read more about SUBBD Token here. SUBBD Harnesses AI to Empower the Next Wave of Creators Let’s be honest: the creator economy is fundamentally broken. Platforms can skim up to 70% of a creator’s earnings, enforce arbitrary content policies, and offer a fragmented, inefficient toolkit. SUBBD Token ($SUBBD) tackles this head-on by merging a Web3 framework with a powerful, integrated AI suite. It’s designed as the all-in-one ecosystem that Ark’s CapEx prediction implicitly enables. This matters because creators need more than just a place to post content; they need tools to scale. SUBBD provides this through features that were, until recently, the domain of large studios. Its AI Personal Assistant can automate fan interactions and manage communities, while AI Voice Cloning and AI Influencer Creation open up entirely new monetization avenues. Imagine a creator generating promotional content in their own voice without ever stepping into a studio, or launching a virtual counterpart to engage with fans 24/7. This is the exact application layer the AI infrastructure boom is being built for. Beyond the AI tools, SUBBD leverages a decentralized Web3 architecture. This means lower fees, censorship resistance, and direct creator-to-fan payment channels via crypto. By using token-gated access and NFT sales, creators regain full control over their content and revenue streams. The risk, of course, is in execution and user adoption, but the model itself directly answers the industry’s most pressing pain points. Explore the SUBBD Token presale here. Early Backers Fuel SUBBD’s Vision as Presale Crosses $1.4M Frankly, the market appears to be validating SUBBD’s approach. The project’s presale has already attracted significant early-stage interest, raising $1.47M with tokens currently priced at $0.057495. This level of fundraising suggests strong confidence in the team’s vision to fix the creator economy’s inefficiencies. For participants, the value proposition extends beyond the platform’s utility. SUBBD is offering a staking program with a fixed 20% APY for the first year. This mechanism isn’t just about rewarding early supporters; it’s designed to foster a stable and engaged community from day one. Stakers get access to exclusive content, behind-the-scenes drops, and other VIP benefits, creating a self-reinforcing ecosystem of creators and their most dedicated fans. History suggests that during major technological shifts, the projects providing tangible tools for real problems tend to outperform. While the macro narrative is focused on the giants building the infrastructure, the real opportunity may lie in the application-layer protocols positioned to use it. If Ark’s prediction of a prolonged CapEx surge proves correct, SUBBD Token ($SUBBD) is building the exact kind of platform that stands to benefit directly from the explosion in AI accessibility. Buy $SUBBD here. Disclaimer: This article does not constitute financial advice. The cryptocurrency market is highly volatile, and you should always conduct your own research before investing.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57925463,
+    "published": 1770800422000,
+    "title": "These Three Catalysts Could Spark Bitcoin’s Next Rally, According To Wintermute",
+    "body": "Crypto market maker Wintermute published a detailed market update on Tuesday via X (previously Twitter), offering a comprehensive breakdown of Bitcoin’s (BTC) recent collapse, who was behind the selling pressure, and what conditions must change for a meaningful recovery to take hold. Wintermute Details Brutal Bitcoin Crash The firm described the past week as exceptionally severe for Bitcoin. Prices fell below $80,000 for the first time since April 2025 and continued sliding to around $60,000 before stabilizing in the low $70,000 range by the weekend. According to Wintermute, the decline erased all of Bitcoin’s gains that followed Donald Trump’s election victory in November 2024, accompanied by widespread liquidations. Related Reading: Bernstein Calls Bitcoin Crash A ‘Crisis Of Confidence,’ Maintains $150,000 Target More than $2.7 billion in leveraged positions were wiped out as months of range‑bound trading encouraged excessive leverage that ultimately unraveled. Wintermute also pointed to the growing influence of Bitcoin exchange‑traded funds (ETFs) on price action, noting that BlackRock’s IBIT ETF alone saw more than $10 billion in notional trading volume on Thursday. Wintermute identified three major catalysts that struck the market at the same time. The first was the January 30 nomination of Kevin Warsh as Federal Reserve (Fed) Chair, which altered expectations around monetary policy. The second was a wave of disappointing earnings from large technology firms, highlighted by Microsoft shares dropping 10%. The third was a dramatic reversal in precious metals, where silver plunged 40% in just three days after briefly reaching $121. The Key Conditions For BTC’s Next Recovery Data from spot markets suggest that selling pressure was structural rather than isolated. The Coinbase premium remained in negative territory throughout the decline, a pattern that has persisted since December and signals sustained selling by US investors. Wintermute said its internal over‑the‑counter (OTC) flow data confirmed that US counterparties were heavy sellers throughout the week, a trend that was reinforced by ongoing ETF redemptions. Institutional demand, which had supported prices earlier in the cycle, has largely faded. Since November, spot Bitcoin ETFs have recorded approximately $6.2 billion in cumulative net outflows, representing the longest continuous stretch of redemptions since these products launched. Wintermute explained that when ETF sponsors are forced to sell spot Bitcoin into falling markets, it creates a negative feedback loop that amplifies downside pressure. The firm also highlighted growing fragility in derivatives markets. IBIT and Deribit together now account for half of the crypto options market. Wintermute said the sharp sell‑off reflected investor complacency after periods of low volatility and sideways trading, which left positioning vulnerable once prices began to move. Related Reading: Strategy Expands Bitcoin Holdings With $90M Purchase, Bitmine Follows With ETH Beyond crypto‑specific factors, Wintermute argued that the broader investment landscape has been dominated by artificial intelligence. The firm pointed to a viral chart showing Bitcoin’s performance closely mirroring software stocks in the S&P 500. According to Wintermute, the more important takeaway is that AI has been absorbing a disproportionate share of global capital, often at the expense of other asset classes, including crypto. Looking ahead, Wintermute expects a period of uneven and volatile price discovery. The firm said it is difficult to envision a sustained rally unless several conditions align: the Coinbase premium turning positive, ETF flows reversing back into inflows, and basis rates in derivatives markets stabilizing. Featured image from OpenArt, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin chart|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency|Wintermute",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57926081,
+    "published": 1770801767000,
+    "title": "Arkham Intelligence said to be shutting crypto trading platform as usage fails to sparkle",
+    "body": "Data analytics firm Arkham Intel first floated the idea of adding a crypto derivatives exchange in late 2024.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|Arkham|Crypto Exchanges|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 199,
+        "NAME": "ARKM",
+        "CATEGORY": "ARKM"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57925893,
+    "published": 1770801374000,
+    "title": "Tokenized Commodities Swell Past $6B as Gold Shines and New Contender $MAXI Builds Momentum",
+    "body": "What to Know: The market for tokenized commodities has blown past $6B, mostly thanks to demand for gold-backed tokens in an uncertain economy. This trend shows a split market: money is flowing to both safe havens and high-risk, high-reward speculative plays. Maxi Doge ($MAXI) is tapping into a unique, high-energy trading culture to build its community with gamified competitions. Whale wallets are accumulating and the presale has pulled in over $4.5M, signaling strong early interest in the project. With Bitcoin trading sideways, a different kind of digital asset is quietly booming. The market for tokenized commodities has surged past $6B in total value , according to recent industry data. This growth is predominantly fueled by gold-backed tokens like Tether Gold (XAUT) and Pax Gold (PAXG), which together command the lion’s share of this growing sector. As gold itself tests new highs, investors are increasingly turning to its on-chain counterparts for exposure, seeking the stability of a millennia-old store of value combined with the efficiency of blockchain technology. Why does this matter? It signals a profound shift in market psychology. In a climate of macroeconomic uncertainty and ranging crypto prices, capital is flowing toward assets with perceived safety and tangible value. Tokenized gold offers just that, the ability to hold a claim on physical gold without the custody headaches, settled on-chain with near-instant finality. But that’s only half the story. While one cohort of investors hedges with digital gold, another is hunting for alpha at the opposite end of the risk spectrum. Those same market conditions also fuel an appetite for high-octane, speculative plays capable of delivering outsized returns. What most coverage misses is that these trends aren’t contradictory. In a market desperate for direction, they’re two sides of the same coin. This environment has become the perfect breeding ground for a new class of meme tokens built not just on humor, but on a culture of aggressive market participation. Enter Maxi Doge ($MAXI) , an Ethereum-based meme token that embodies the high-leverage, ‘1000x’ trading mentality. Read more about $MAXI here. From Safe Havens to High-Leverage Culture Where tokenized gold offers stability, a new project channels the market’s raw, unfiltered energy. It’s a direct response to a market where retail traders often feel outgunned by whales. Frankly, Maxi Doge ($MAXI) isn’t just another canine-themed coin. It’s a cultural statement built around strength, discipline, and the relentless grind of the bull market. The project’s ecosystem is designed to foster a community of active traders. Its core features include holder-only trading competitions with leaderboards and rewards, creating a gamified environment for profit-and-loss hunters (a clever move, really). This transforms passive holding into active engagement. Plus, the ‘Maxi Fund’ treasury is designated for securing liquidity, funding partnerships with futures platforms, and amplifying its viral, gym-bro marketing narrative. The second-order effect is the creation of a self-reinforcing community. By building its identity around the ‘Lift, trade, repeat’ mantra, Maxi Doge taps into a powerful subculture that equates financial ambition with physical strength. Is it unconventional? Absolutely. But in the attention economy of crypto, a unique and resonant narrative is often the difference between obscurity and viral adoption. $MAXI is available here. On-Chain Data Signals Early Strength And that narrative is translating into tangible results. According to its official site, the Maxi Doge presale has already attracted significant capital, pulling in an impressive $4.59M with tokens priced at $0.0002803. That level of funding suggests the project’s high-energy message is resonating with a market segment hungry for the next big meme-driven rally. But can it last? As with any meme coin, the real risk is sustaining momentum after the launch, a challenge that hinges entirely on community execution. Digging deeper, on-chain data reveals that smart money is taking notice. Etherscan records show two whale wallets have scooped up a combined $628,000 in $MAXI tokens. The biggest buy was a single quarter-million-dollar ( $314K ) transaction on October 11, a clear signal of high conviction from at least one major player. For market observers, such movements are often a leading indicator of a project’s potential. To further incentivize its community, the project incorporates a dynamic staking APY. Rewards are distributed automatically via smart contract from a dedicated 5% allocation pool, providing a yield-bearing component for holders. Looking ahead, the critical test for Maxi Doge will be its ability to integrate with trading platforms and deliver on its promise of gamified tournaments. That’s what will truly bring its high-leverage culture to life. It’s a project to watch closely. Join the Maxi Doge presale and experience the next wave of community-driven crypto innovation. Buy your $MAXI here. This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are inherently volatile and risky.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 16,
+        "NAME": "COMMODITY",
+        "CATEGORY": "COMMODITY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57926512,
+    "published": 1770802766000,
+    "title": "Hong Kong ready to issue first stablecoin licenses in March, Financial Secretary says",
+    "body": "Hong Kong will begin issuing a small number of stablecoin licenses to companies with credible business models and strong compliance, Paul Chan Mo-po said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Consensus Hong Kong 2026|Hong Kong|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      }
+    ]
+  },
+  {
+    "id": 57926513,
+    "published": 1770802734000,
+    "title": "Uniswap Vindicated in Patent Lawsuit, Highlighting LiquidChain’s Booming Presale",
+    "body": "What to Know: Uniswap’s legal victory over Bancor in a patent infringement case is a significant win for open-source innovation in DeFi. The ruling shifts the industry’s focus from intra-chain capital efficiency to the larger, unresolved issue of cross-chain liquidity fragmentation. LiquidChain is emerging as a Layer 3 protocol designed to unify native liquidity from the Bitcoin, Ethereum, and Solana ecosystems. Solving cross-chain interoperability is one of the next major growth frontiers for the entire decentralized economy. In a landmark decision for open-source finance, a New York federal court has dismissed a patent infringement lawsuit brought by Bancor against Uniswap Labs. The ruling, centered on Uniswap’s Concentrated Liquidity Market Maker (CPAMM) technology, marks a decisive victory for collaborative innovation in an industry built on shared code. A clear win. While the crypto world celebrates this outcome, the legal battle also spotlights a more profound, unresolved challenge: the deep fragmentation of liquidity across major blockchains. The lawsuit, filed in 2022, alleged that Uniswap’s v3 protocol infringed on a Bancor patent related to automated market maker (AMM) technology. The court’s dismissal, as reported by Cointelegraph, is more than a legal footnote; it’s a philosophical statement. It pushes back against attempts to wall off foundational DeFi concepts, ensuring that the building blocks of decentralized finance remain accessible to all. That matters for preserving the composable, open-source ethos that allowed DeFi to flourish in the first place. But the AMM wars are a battle of the last cycle. The victory is crucial, yet it solves a problem within a single ecosystem. The second-order effect is that the industry’s smartest minds can now refocus on the bigger prize: unifying the isolated oceans of capital on Bitcoin, Ethereum, and Solana. This is no longer a question of making one liquidity pool more efficient. It’s about building the infrastructure to connect them all. And frankly, the timing couldn’t be better. This is the precise challenge being tackled by a new generation of protocols, with Layer 3 solution LiquidChain ($LIQUID) emerging at the forefront. Learn more about LiquidChain here. Beyond the AMM Wars: Solving the Liquidity Silo Problem The dispute between Uniswap and Bancor was fundamentally about optimizing capital efficiency on Ethereum. An internal debate. Today’s reality is that DeFi’s most significant friction point is external, the clunky, high-risk process of moving assets between blockchains. Wrapped assets introduce smart contract risk, bridges remain prime targets for hackers, and the user experience is a tangled mess of swaps, signatures, and fees. This is where infrastructure like LiquidChain changes the narrative. As a Layer 3 protocol, it’s designed not to compete with Ethereum or Solana but to unify them. Its core proposition is a Unified Liquidity Layer, creating a single execution environment that fuses the liquidity of Bitcoin, Ethereum, and Solana. For the user, this means native cross-chain swaps without the need for vulnerable wrapped assets. For developers, it means deploying an application once to access the entire addressable market of the three largest crypto ecosystems. Clean and direct. What most coverage misses is that this isn’t just another bridge. It’s a fundamental architectural shift. Features like Single-Step Execution aim to abstract away the complexity of cross-chain transactions, making interoperability feel seamless. By creating a verifiable settlement layer above these base chains, LiquidChain directly addresses the security vulnerabilities that have cost the industry billions. The market is evolving from optimizing isolated pools to creating a single, composable liquidity super-highway. But can it knit them together safely? Explore the LiquidChain ecosystem. A New Infrastructure Play Attracts Early Capital With the legal overhang on AMM innovation now cleared, smart money is searching for the next foundational pillar of DeFi. In past cycles, we’ve seen legal clarity act as an accelerant for builders and capital alike. The data points to a growing interest in protocols that solve systemic, cross-chain challenges. This market sentiment is reflected in the early momentum of the LiquidChain presale. According to its official site , the project has already secured $535K in early funding, with its $LIQUID token priced at $0.0136. This initial traction suggests that investors recognize the value in tackling liquidity fragmentation. And let’s not forget the 1,939% staking rewards. While optimizing a DEX on a single chain is a multi-billion-dollar opportunity, creating the connective tissue for the entire crypto economy is an order of magnitude larger. The prize is bigger. The risk, of course, lies in execution. Building a robust and secure L3 that can handle the scale of three major blockchains is a monumental technical undertaking (no small feat). However, the project’s focus on a Deploy-Once Architecture presents a compelling incentive for developers. By drastically lowering the barrier to building cross-chain applications, LiquidChain could catalyze a new wave of innovation that was previously too complex or capital-intensive to attempt. History suggests that the platforms that best empower builders are the ones that ultimately win. Get your $LIQUID here. Disclaimer: This article is for informational purposes only and should not be considered financial advice. Investing in cryptocurrencies and presales involves a high degree of risk.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57926422,
+    "published": 1770802310000,
+    "title": "Uniswap scores early win as US judge dismisses Bancor patent suit",
+    "body": "The court granted Uniswap’s motion to dismiss without prejudice, allowing plaintiffs 21 days to amend before the dismissal becomes final.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 53,
+        "NAME": "UNI",
+        "CATEGORY": "UNI"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57926223,
+    "published": 1770802077000,
+    "title": "Stripe’s New X402 Protocol for AI Agents Spotlights a Booming Trend, Fueling SUBBD Token’s Presale",
+    "body": "What to Know: Stripe is testing a new crypto protocol (X402) on Base to let AI agents pay each other, validating the machine-to-machine (M2M) economy. This move is a major endorsement for Layer-2 blockchains, showing they’re ready for real-world enterprise use, not just speculation. SUBBD Token is tapping into this trend by building an AI-powered platform for the creator economy that merges AI with Web3 payments. Creators are moving away from platforms with high fees and censorship, seeking decentralized alternatives that give them more control and better earnings. The digital economy is on the verge of a massive shift, and payments giant Stripe just fired the starting gun. The company is exploring a new payment protocol, X402 , built on Coinbase’s Layer-2 network, Base. Its purpose is specific and futuristic: to let AI agents pay each other. This isn’t just some minor update. It’s a foundational piece of infrastructure for the coming wave of machine-to-machine (M2M) commerce, an economy where autonomous software programs transact for data, services, and computation without any human oversight. But what most of the coverage is missing is the sheer scale of this validation. When a Web2 titan like Stripe builds a core piece of its future strategy on a public blockchain, it’s a massive signal that crypto infrastructure is finally ready for the big leagues. The choice of Base, an Ethereum L2, confirms what many already knew: scalability and low fees aren’t just nice-to-haves; they’re non-negotiable. The ripple effect? A surge of interest in projects building practical applications where AI and crypto payments meet. This macro tailwind is creating fertile ground for specialized platforms, especially in high-value industries like the $191B content creator market, a sector practically begging for disruption. SUBBD Token ($SUBBD) is that disruption that the industry sorely needs. Learn more about $SUBBD here. A New Economy for AI-Powered Creators The creator economy has a glaring problem. Sound familiar? Platforms connecting creators with fans often act as extractive middlemen, charging fees as high as 70% while imposing arbitrary rules and payment restrictions. For creators using AI, the landscape is even more fractured, forcing them to juggle separate tools for chatbots, voice synthesis, and content generation. It’s exactly this friction that decentralized, AI-integrated platforms are built to solve. Enter SUBBD Token ($SUBBD) , an Ethereum-based project that merges Web3 infrastructure with a suite of powerful AI tools. The platform is designed to put power back in creators’ hands, giving them the technology to build and monetize their brands directly. But this isn’t just about lower fees; it’s about enabling entirely new forms of interaction. Key features include an AI Personal Assistant for automating fan chats, AI Voice Cloning, and even the ability to launch fully autonomous AI Influencers. It provides a transparent Web3 ecosystem where creators control their content and, frankly, keep more of what they earn. This matters because it takes the abstract concept of an ‘AI agent economy’ and makes it tangible. While Stripe builds the global payment rails, SUBBD is building the specialized apps that will actually run on them. On the SUBBD platform, an AI influencer isn’t just a gimmick, it’s an economic entity capable of generating token-gated content, interacting with fans, and earning revenue via the native $SUBBD token. It’s a perfect microcosm of the M2M economy, tailored for one of the internet’s most dynamic industries. Explore the SUBBD Token presale here. Presale Crosses $1.4M as Investors Back AI Utility And the market is taking notice. In a cycle dominated by the AI narrative, sophisticated investors are hunting for projects with clear utility, and capital is flowing accordingly. The SUBBD Token presale has already turned heads, raising an impressive $1.47M from early backers. With tokens currently priced at just $0.057495, the momentum points to a strong belief in the project’s vision. This isn’t just speculative hype. The $SUBBD token is woven directly into the platform’s ecosystem. It’s the primary medium for transactions, from fan subscriptions and pay-per-view content to tipping and NFT sales. For holders, the token unlocks governance rights, letting the community vote on platform features and creator onboarding. Plus, an aggressive staking program offers a fixed 20% APY in the first year, providing a powerful incentive for long-term participation. The goal is simple: reward early supporters while securing the network. The risk, as with any new platform, comes down to adoption. Can it attract a critical mass of creators and fans away from the Web2 giants? That’s the billion-dollar question. However, by solving real pain points, brutal fees, lack of control, and fragmented tools, and aligning with the powerful AI-crypto trend validated by players like Stripe, SUBBD is positioning itself as a compelling alternative in a market that’s changing by the day. Buy $SUBBD here. This article is for informational purposes only and should not be considered financial advice. All investments, including cryptocurrencies, carry significant risk.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
