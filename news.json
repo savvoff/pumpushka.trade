@@ -1,151 +1,5 @@
 [
   {
-    "id": 57886880,
-    "published": 1770700990000,
-    "title": "US Sentences Fugitive to 20 Years Over $73 Million Crypto Scam",
-    "body": "The sentence was handed down in absentia after prosecutors said the defendant cut off an ankle monitor and fled supervision.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 57886782,
-    "published": 1770700463000,
-    "title": "Chainlink co-founder's 2 reasons this bear market feels different",
-    "body": "Chainlink co-founder Sergey Nazarov says the recent crypto market downturn has inadvertently shown \"how far the industry has progressed.\"",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 31,
-        "NAME": "LINK",
-        "CATEGORY": "LINK"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57887476,
-    "published": 1770703244000,
-    "title": "Tron Accumulates TRX, Price Pops As Justin Sun Weighs In",
-    "body": "Tron’s blockchain operator has been adding to its stash of TRX and that activity is getting attention. Reports say the platform recently bought 179,408 TRX at an average cost of $0.28, lifting its treasury to about 680 million tokens. The buy was one more in a series of purchases that show a clear pattern: steady accumulation over several days. Related Reading: After Predicting XRP’s Drop, Analyst Says The Bottom May Be In Tron Increases Treasury Holdings According to on-chain records, the platform purchased tokens at slightly different prices across recent days. On February 7, it bought more than 184,000 TRX at $0.27 a piece. On February 8, another 181,000+ TRX were added at $0.28. The most recent move of 179,400 TRX followed those buys. These are not one-off trades. They read as deliberate, repeated steps to build a reserve of native tokens over time. Tron Inc. (NASDAQ: TRON) acquired 179,408 TRX tokens today at an average price of $0.28, further increasing its TRX treasury holdings to more than 680.7 million TRX in total. The company aims to further grow its Tron DAT holdings to enhance long term shareholder value. For live… — Tron Inc. (@TRON_INC) February 9, 2026 Tron’s founder, Justin Sun, posted a short message that read “Keep Going.” That simple line was taken by some traders as a vote of confidence. Reports note Sun’s public backing came while his legal fight with regulators remains on pause, and that political voices have criticized the pause. TRX Sees A Small Bounce, Volume Falls Market moves have been modest. The token is trading near $0.27, up about 0.75% from earlier in the day. Still, TRX has slipped 1.5% over the past week and 6% in the last month. Trading activity has cooled; 24-hour volume fell by 20% to roughly $520 million. That lower volume suggests fewer hands are moving funds, which can make any price uptick look fragile. What The Buying Might Mean Large-scale accumulation by a project is usually read two ways. For followers, it can be a sign the team expects future value or wants to support liquidity. For skeptics, it can also look like internal reshuffling or an effort to control supply dynamics. The repeated purchases at nearby price points point to a steady plan rather than panic buys, but steady plans don’t guarantee price rebounds when broader market sentiment is soft. Related Reading: Breathe… XRP Is The ‘Oxygen’ Of The New Financial System, CEO Says Reports say Tron intends to keep buying. If that continues over the next 10 days or longer, the treasury will grow and the narrative around its reserve will strengthen. Yet the wider market’s mood and regulatory pressure will probably matter more for TRX’s path than a handful of buys. Investors watching the token should note the low turnover and the modest nature of the price rise; both hint that stronger momentum has not yet arrived. Featured image from Yellow.com, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoin|bitcoin|crypto|Justin Sun|TRON|TRX",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 51,
-        "NAME": "TRX",
-        "CATEGORY": "TRX"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57888057,
-    "published": 1770704956000,
-    "title": "Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI'",
-    "body": "The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57889798,
     "published": 1770710404000,
     "title": "Ethereum Drops Under MVRV Band That Marked Last 3 Bottoms",
@@ -2895,6 +2749,169 @@
         "ID": 37,
         "NAME": "MARKET",
         "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57919400,
+    "published": 1770786482000,
+    "title": "Solana (SOL) Under Pressure As Downtrend Looks Ready To Resume",
+    "body": "Solana failed to settle above $90 and trimmed some gains. SOL price is now facing hurdles near $88 and might decline again below $82. SOL price started a decent recovery wave above $78 and $82 against the US Dollar. The price is now trading below $85 and the 100-hourly simple moving average. There is a key bearish trend line forming with resistance at $85 on the hourly chart of the SOL/USD pair (data source from Kraken). The price could continue to move up if it clears $85 and $90. Solana Price Faces Resistance Solana price remained stable and started a decent recovery wave above $72, like Bitcoin and Ethereum . SOL was able to climb above the $80 level. There was a move above the 50% Fib retracement level of the downward move from the $106 swing high to the $68 low. However, the bears are active near $90. The price is now moving lower below $88. There is also a key bearish trend line forming with resistance at $85 on the hourly chart of the SOL/USD pair. Solana is now trading below $85 and the 100-hourly simple moving average. On the upside, immediate resistance is near the $85 level and the trend line. The next major resistance is near the $92 level and the 61.8% Fib retracement level of the downward move from the $106 swing high to the $68 low. The main resistance could be $96. A successful close above the $96 resistance zone could set the pace for another steady increase. The next key resistance is $105. Any more gains might send the price toward the $112 level. Downside Continuation In SOL? If SOL fails to rise above the $85 resistance, it could continue to move down. Initial support on the downside is near the $82 zone. The first major support is near the $80 level. A break below the $80 level might send the price toward the $75 support zone. If there is a close below the $75 support, the price could decline toward the $70 zone in the near term. Technical Indicators Hourly MACD – The MACD for SOL/USD is gaining pace in the bearish zone. Hourly Hours RSI (Relative Strength Index) – The RSI for SOL/USD is below the 50 level. Major Support Levels – $82 and $75. Major Resistance Levels – $85 and $92.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Technical analysis|Sol|Solana|solbtc|SOLUSD|SOLUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57919515,
+    "published": 1770786798000,
+    "title": "Hong Kong working to allow perpetual contracts, chief regulator says",
+    "body": "Hong Kong's Securities and Futures Commission will publish a \"high-level framework\" allowing perpetual contracts, SFC CEO Julia Leung said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Hong Kong|Consensus Hong Kong 2026|Securities and Futures Commission|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 57920617,
+    "published": 1770789659000,
+    "title": "Bitcoin Not “Pumpable” Right Now, Says CryptoQuant Founder: Here’s Why",
+    "body": "The founder of CryptoQuant has explained that Bitcoin is not “pumpable” right now based on the divergence in the Market Cap and Realized Cap. Bitcoin Market Cap Fell Even As Realized Cap Grew In a new post on X, CryptoQuant founder Ki Young Ju has talked about the difference in growth that the BTC Market Cap and Realized Cap have witnessed over the past year. The Market Cap here is just the total value of the cryptocurrency’s supply at the current spot price. The Realized Cap is also a model to calculate BTC’s total valuation, but it doesn’t take such a simple approach. This on-chain capitalization model assumes that the ‘real’ value of any coin in circulation is equal to the spot price at which it was last transacted on the blockchain. Related Reading: Ethereum Drops Under MVRV Band That Marked Last 3 Bottoms In short, what the Realized Cap signifies is the amount that the Bitcoin investors as a whole have put into the cryptocurrency. In contrast, the Market Cap represents the value that they are holding in the present. Generally, changes in the former, which can be thought of as capital inflows/outflows, result in changes in the latter. Below is a chart that tracks how the Market Cap is reacting to fluctuations in the Realized Cap. Looks like the value of the metric has been negative in recent weeks | Source: @ki_young_ju on X As displayed in the graph, the growth rate difference between the Bitcoin Market Cap and Realized Cap was positive in mid-2025, suggesting that the Market Cap was going up faster than the Realized Cap. This changed in the last quarter of the year, however, with the indicator dropping into the negative zone as the market observed a crash. 2026 has only seen the metric drop deeper as the price decline in the cryptocurrency has continued. “Bitcoin is not pumpable right now,” noted Young Ju. The CryptoQuant founder has pointed out the contrast in market dynamics between 2024 and 2025 to showcase his point. In 2024, a $10 billion increase in the Realized Cap was enough to cause a $26 billion jump in the Market Cap. Over the course of 2025, a whopping $308 billion in capital flowed into the asset, yet the Market Cap actually fell by $98 billion. “Selling pressure is too heavy for any multiplier effect,” explained the analyst. Related Reading: Bitcoin Sentiment Worst Since 2022 Bear As Price Crash Continues In some other news, New Whales on the Bitcoin network have been capitulating recently, as CryptoQuant community analyst Maartunn has pointed out in an X post. “New Whales” are the investors who entered the market within the past 155 days and are holding more than 1,000 BTC in their balance. During the recent price drawdown, this cohort took massive losses, including a loss-taking spike of $1.46 billion on February 5th. BTC Price At the time of writing, Bitcoin is floating around $68,500, down over 12% in the last seven days. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|bitcoin market cap|Bitcoin Realized Cap|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57920615,
+    "published": 1770789600000,
+    "title": "Spark looks to build building a safe bridge between onchain capital and TradFi",
+    "body": "Spark is opening access to its $9 billion stablecoin liquidity pool for hedge funds and other institutions to bridge onchain capital with off-chain credit markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|DeFi|Institutional DeFi|Crypto Lending|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 57921361,
+    "published": 1770791057000,
+    "title": "Crypto Super PAC to spend $5M on Barry Moore’s Senate bid: Report",
+    "body": "Crypto political action committee Fairshake spent roughly $130 million during the 2024 US elections to support pro-crypto candidates.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
       }
     ]
   }
