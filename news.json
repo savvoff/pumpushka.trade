@@ -888,410 +888,6 @@
     ]
   },
   {
-    "id": 57929938,
-    "published": 1770813112000,
-    "title": "Danske Bank Offers Bitcoin, Ethereum ETPs to Investors, Ending Eight-Year Crypto 'Ban'",
-    "body": "Denmark’s largest bank is ending an eight-year ‘ban’ on crypto services in response to growing customer demand and improved regulation.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57929750,
-    "published": 1770812564000,
-    "title": "Google Cloud flags North Korea-linked crypto malware campaign",
-    "body": "Mandiant, which operates under Google Cloud, has tracked the suspected North Korean scammers since 2018, and AI has helped scale up malicious attacks since November 2025.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57929488,
-    "published": 1770811852000,
-    "title": "Bitcoin Whales Quietly Scoop Up $4.7B in BTC, Pushing Bitcoin Hyper Into the Spotlight",
-    "body": "What to Know: Bitcoin whales have added over $4.7B in $BTC, signaling deep conviction despite a flat market. This buying trend highlights a shift in Bitcoin’s narrative from just a store of value to a productive asset, increasing demand for L2 solutions. Bitcoin Hyper is tackling this demand by using the Solana Virtual Machine to bring fast, cheap smart contracts to Bitcoin. This large-scale whale accumulation could trigger a major supply squeeze when retail interest eventually returns. While the crypto market is treading water, giving everyone that ‘crypto winter’ feeling, on-chain data tells a totally different story. Below the surface of flat price charts, the smart money is making big moves. Crypto intelligence firms are reporting that Bitcoin whales, wallets with huge $BTC holdings, have quietly added over $4.7B worth of Bitcoin during the recent dips. That isn’t the behavior of a market gripped by fear. It’s the signature of cold, hard conviction. This accumulation phase isn’t about short-term price pops; it’s a signal about where the market is headed. When institutions buy into weakness, they aren’t just betting on a bounce. They’re positioning for a fundamental shift. For years, Bitcoin was pitched simply as digital gold, a safe place to park value. But that story is getting bigger. This buying pressure suggests a bet on Bitcoin’s next evolution: from a passive asset into a dynamic, productive financial layer. The only thing holding it back has always been the network’s built-in limitations. Slow transactions and no real support for complex apps. What good is a trillion-dollar asset if you can’t build anything on it? This is the exact problem a new class of projects, led by ambitious platforms like Bitcoin Hyper ($HYPER) , is racing to solve. Read more about $HYPER here. Unlocking Bitcoin’s Trillion-Dollar Ecosystem Bitcoin’s core protocol is a fortress of security, but that security comes at a cost: speed. The trade-off means high fees and a network that’s hostile to the complex smart contracts that make DeFi and NFTs possible on chains like Ethereum and Solana. The demand for a fix is obvious, and the Layer 2 (L2) race is on. So, how does Bitcoin Hyper ($HYPER) plan to win it? It’s entering the race with a genuinely disruptive approach. As the first-ever Bitcoin L2 integrated with the Solana Virtual Machine (SVM), it tackles Bitcoin’s limitations head-on. By using the SVM, known for its lightning-fast, low-cost processing, Bitcoin Hyper aims to deliver performance that could even outpace Solana itself, all while borrowing its security from the Bitcoin network. Frankly, it’s a clever architecture. It lets Bitcoin remain the ultimate settlement layer for value while the L2 handles the kind of rapid-fire transactions needed for modern dApps. For developers, this means building high-speed DeFi and NFT markets with familiar tools. For users, it means finally being able to use their $BTC for more than just HODLing. Get your $HYPER today. Smart Money Is Already Moving into the $HYPER Presale The market seems to agree. Bitcoin Hyper’s presale has already pulled in a massive $31.3M from early backers, with the $HYPER token currently priced at $0.0136754. This isn’t just retail enthusiasm, either. The on-chain data mirrors the whale activity on Bitcoin itself. Etherscan records show three whale wallets have already scooped up $1M+ in $HYPER, with one of those making a single $500K purchase on January 15th, 2026. This kind of activity suggests sophisticated investors see a project that offers more than just a small upgrade, it’s a potential step-change for what Bitcoin can do. The risk, of course, lies in execution and beating out a crowded L2 field. But the unique SVM integration gives it a compelling edge. With high-APY staking set to go live right after launch, the project is clearly designed to reward early believers who help secure the network. Buy $HYPER here. This article is for informational purposes only and should not be considered financial advice. Cryptocurrency investments are high-risk, and you should conduct your own research.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57929363,
-    "published": 1770811343000,
-    "title": "Aviva Investors to tokenize funds on XRP Ledger in Ripple partnership",
-    "body": "The U.K. asset manager teamed up with Ripple to bring traditional fund structures onchain in its first tokenization push.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Ripple|Tokenization|Asset Management|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57929320,
-    "published": 1770811249000,
-    "title": "Strategy Unfazed By Bitcoin Crash, Michael Saylor Vows Quarterly Purchases",
-    "body": "Michael Saylor, the outspoken Bitcoin (BTC) advocate and Strategy (previously MicroStrategy) co-founder, said on Tuesday that the company remains firmly committed to its long‑standing Bitcoin strategy, despite growing concerns about its financial risks. Strategy Will Buy Bitcoin Every Quarter Speaking in an interview with CNBC, Saylor said Strategy plans to continue buying Bitcoin on a regular basis, regardless of price swings or skepticism from market observers. He said the company intends to add to its Bitcoin holdings every quarter and has no plans to reverse course. “I expect we’ll be buying bitcoin every quarter forever,” Saylor said. Related Reading: Strategy Expands Bitcoin Holdings With $90M Purchase, Bitmine Follows With ETH Addressing concerns about the company’s debt load, Saylor was dismissive of the idea that a prolonged Bitcoin downturn could threaten Strategy’s finances. He said that even in a severe scenario, the company would manage its obligations through refinancing. “If Bitcoin falls 90% for the next four years, we’ll refinance the debt,” he said. “We’ll just roll it forward.” Strategy currently carries more than $8 billion in total debt, much of it tied to convertible notes the company issued to fund Bitcoin purchases. Despite this leverage, Saylor said he believes lenders will continue to support the company even if Bitcoin prices decline sharply. Asked whether banks would still be willing to lend under those circumstances, he replied that Bitcoin’s inherent volatility does not undermine its long‑term value. “Yeah,” he said, “because the volatility of Bitcoin is such that it’s always going to be a value.” Saylor also rejected any suggestion that Strategy might be forced to sell its Bitcoin holdings to shore up its balance sheet. He emphasized that liquidation is not part of the company’s plan and reiterated his belief in Bitcoin as a long‑term asset. Short Sellers Increase Bets Market sentiment around Strategy, however, has grown more cautious. Short interest in the company’s stock has risen sharply, increasing about 40% from a low point in September 2025, according to an analysis published by Barron’s. Roughly 30.5 million shares are now sold short, representing about 10% of the company’s public float. At the same time, long‑term investors have pulled back, with Strategy’s shares, MSTR, falling around 70% to current trading prices of $134. Related Reading: Bernstein Calls Bitcoin Crash A ‘Crisis Of Confidence,’ Maintains $150,000 Target Despite the pressure on its stock, Strategy remains the largest corporate holder of Bitcoin. According to figures published on the company’s website, it holds 714,644 BTC, valued at approximately $49 billion at the time of writing. Saylor also noted that the company has sufficient liquidity to support its obligations, stating that Strategy has roughly two and a half years’ worth of cash on its balance sheet to cover dividend payments. At the time of writing, Bitcoin was trading at around $69,192, registering losses of nearly 8% over the past seven days and 3% over the past 24 hours. Featured image from OpenArt, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|bitcoin price|bitcoin strategy|btc|BTC news|btc price|BTCUSDT|crypto|crypto news|Michael Saylor|Michael Saylor news|Microstrategy|MicroStrategy Bitcoin|MicroStrategy bitcoin holdings|MicroStrategy news|MSTR|Strategy news",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57928911,
-    "published": 1770809789000,
-    "title": "Bearish sentiment prevails as bitcoin falls below $67,000, ether drops",
-    "body": "Bitcoin and ether extended declines, dragging down crypto-related stocks, even as gold and silver rallied.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Crypto Markets Today|Derivatives|Altcoins|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57928721,
-    "published": 1770808819000,
-    "title": "European Parliament throws support behind digital euro",
-    "body": "European lawmakers endorsed the ECB’s digital euro plans as a way to shore up the bloc’s monetary sovereignty, while reiterating that the central bank must remain independent.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 57928194,
-    "published": 1770807568000,
-    "title": "Regulation, derivatives helping drive TradFi institutions into crypto, panellists say",
-    "body": "Non-participation in decentralized finance is becoming a career risk for traditional finance professionals, panellists said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|Consensus Hong Kong 2026|Regulation|Policy|Derivatives|Institutions|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57927872,
-    "published": 1770806552000,
-    "title": "Zcash, BNB, Sui Lead Altcoin Losses As Crypto Market Slides",
-    "body": "Leading altcoins dropped, as analysts cite capital flight to gold, ETF outflows, and cascading liquidations for draining market liquidity.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|||zcash|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57927391,
-    "published": 1770805354000,
-    "title": "Russia Tightens Grip on Telegram, Highlighting Urgent Need for Decentralized Infrastructure",
-    "body": "What to Know: Russia’s move to restrict Telegram underscores the vulnerabilities of centralized platforms and strengthens the case for decentralized infrastructure. Bitcoin’s long-standing limits on speed and programmability have created a significant opportunity for Layer 2 solutions to expand its utility. Bitcoin Hyper aims to solve these issues by integrating the Solana Virtual Machine (SVM) to bring high-speed smart contracts to the Bitcoin ecosystem. A successful presale and notable whale buys suggest strong market confidence in the growth of Bitcoin-based DeFi and dApps. Russian authorities are reportedly tightening their grip on Telegram. Citing alleged breaches of local laws , it’s another move in the global trend of governments flexing control over the digital platforms we use every day. But this isn’t just a regional political headline, it’s a stark reminder of the web’s built-in vulnerabilities. For a crypto market founded on decentralization, this development isn’t a surprise. It’s validation. When communication and finance can be throttled by regulators, the case for censorship-resistant alternatives becomes impossible to ignore. Why does this matter? Because crypto’s ultimate promise is a parallel digital world free from these exact chokepoints. Bitcoin is the bedrock of that vision. For years, though, its utility has been hamstrung by slow speeds, high fees, and an almost total inability to support complex apps. It’s been a pristine settlement layer with no scalable way to actually do things on top of it. This long-standing limitation has created a massive opportunity. As geopolitical pressure mounts, the market is aggressively pivoting toward solutions that can finally unlock Bitcoin’s full potential, infrastructure that’s robust, programmable, and fast. Think Bitcoin Hyper ($HYPER) , currently in a $31.3M presale. $HYPER is available here. Unlocking Bitcoin’s True Potential with High-Speed Execution Bitcoin’s core challenge has always been a deliberate trade-off: unmatched security for sluggish speed and limited programmability. Sound familiar? This is where a new generation of projects comes in. Bitcoin Hyper ($HYPER) is a direct answer to this dilemma, introducing what it calls the first-ever Bitcoin Layer 2 integrated with the Solana Virtual Machine (SVM). This isn’t just an incremental upgrade; it’s a fundamental reimagining of what you can build on Bitcoin. By using a modular architecture, Bitcoin’s L1 for settlement and a real-time SVM L2 for execution, the project aims for performance that rivals Solana itself. The team even claims it will surpass it. This setup allows developers to build high-speed DeFi, NFT platforms, and complex dApps using wrapped $BTC, all while inheriting the rock-solid security of the main Bitcoin network. The key innovation is simple but powerful: bringing fast, scalable smart contracts to an ecosystem that’s been desperate for them. Through its Decentralized Canonical Bridge, users can port $BTC to the L2 to power high-speed payments, lending, and gaming with the kind of low-cost execution developers love on chains like Solana. Buy $HYPER here. Presale Momentum Signals Strong Market Conviction The market is listening. The Bitcoin Hyper presale has already pulled in a staggering $31.3M to date, with tokens currently priced at $0.0136754. That kind of raise reflects a groundswell of belief in the Bitcoin ecosystem’s future. But what most coverage misses is that this isn’t just retail enthusiasm. Onchain data shows smart money is paying very close attention. Etherscan records show three whale wallets have already scooped up $1M+ in $HYPER ( $500K , $379.9K , $274K ). This level of early, high-conviction buying often signals that broader market awareness is just around the corner. Of course, the risk is all in the execution. The Bitcoin L2 space is getting crowded, and delivering on such an ambitious roadmap is everything. Still, the project’s high-APY staking, available right after the token launch, is designed to lock in long-term participation and build a resilient network from day one. Buy $HYPER here now. This article is for informational purposes only and should not be considered financial advice. All investments carry risk, and readers should conduct their own research.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 57936400,
     "published": 1770831260000,
     "title": "JPMorgan bullish on crypto for rest of year as institutional flows set to drive recovery",
@@ -2878,6 +2474,432 @@
         "ID": 26,
         "NAME": "FIAT",
         "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57960501,
+    "published": 1770890009000,
+    "title": "zkME Technology wins $20,000 PitchFest prize at Consensus Hong Kong",
+    "body": "The Hong Kong-based DePin company beat out 11 other finalists with its identity verification solution aimed at bringing DeFi to the mainstream.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Consensus Hong Kong 2026|Crypto startup|DePIN|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 49,
+        "NAME": "TECHNOLOGY",
+        "CATEGORY": "TECHNOLOGY"
+      }
+    ]
+  },
+  {
+    "id": 57935294,
+    "published": 1770828201000,
+    "title": "Institutional crypto platform BlockFills said halt withdrawals, restrict trading",
+    "body": "It's shades of 2022, when any number of crypto platforms were forced to suspend withdrawals as prices crumbled.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Finance|BlockFills|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57960680,
+    "published": 1770890440000,
+    "title": "LayerZero (ZRO) Soars 40% Amid Zero Blockchain Debut, Major Institutional Backing",
+    "body": "ZRO, the native token of the omnichain interpretability protocol LayerZero, has skyrocketed more than 40% on the past day following the announcement of its new Layer-1 (L1) blockchain backed by major institutional players. Related Reading: XRP Positioned For Major Structure Shift As Price Tests Critical Level LayerZero Unveils Zero Blockchain On Tuesday, LayerZero Labs announced a new L1 blockchain, Zero, aimed at institutional financial markets. According to the announcement, it is set to launch in fall 2026, with three initial “zones,” described as permissionless environments fully owned and governed by the underlying network. Moreover, ZRO will serve as the network’s native token, providing interoperability between Zones and across the 165+ blockchains it connects. Designed to “eliminate the long-standing scalability challenges of decentralized networks,” Zero is set to process 2 million transactions per second (TPS) per Zone and charge near-zero fees by targeting four primary bottlenecks. “By leveraging Zero-Knowledge (ZK) proofs to decouple execution from verification, Zero transitions the network from redundant replication to a heterogeneous architecture,” LayerZero Labs explained on X. “This structural shift allows for two distinct validator classes: lightweight Block Validators capable of running on low-grade consumer hardware and optional higher performance Block Producers,” it continued. Bryan Pellegrino, CEO of LayerZero Labs, affirmed that Zero’s architecture advances the industry’s roadmap by at least a decade. “We believe we can actually bring the entire global economy onchain with this technology. Our mission is to build permissionless infrastructure for a better world – this is the beginning of that world,” he added. Zero Receives Major Institutional Backing The rollout was backed by key institutional players, including Citadel Securities, The Depository Trust & Clearing Corporation (DTCC), ARK Invest, Google Cloud, and Intercontinental Exchange (ICE). Notably, Citadel Securities is collaborating to evaluate how its technology could apply to trading, clearing, and settlement workflows. Additionally, it made a strategic investment in ZRO. ARK Invest is becoming a shareholder of LayerZero equity and ZRO. Meanwhile, Cathie Wood, the company’s CEO and CIO, joined LayerZero’s new advisory board alongside Michael Blaugrund, VP of Strategic Initiatives at ICE, and Caroline Butler, former head of digital assets at BNY Mellon. “This is a historic opportunity at the intersection of finance and the internet. I am thrilled to join LayerZero’s advisory board and help accelerate the adoption of Zero by the largest markets and companies in the world,” Wood said in a statement. DTCC will investigate the Zero blockchain architecture to enhance the scalability of the DTC Tokenization Service and collateral management, while ICE will examine it for 24/7 trading and tokenized collateral. Moreover, Google Cloud partnered to explore how to enable AI agents to make micropayments and trade resources instantly. Tether also announced a separate strategic investment in LayerZero Labs on Tuesday. ZRO Price Skyrockets Following the news, ZRO soared more than 40% in the last 24 hours, hitting a four-month high of $2.59 on Wednesday morning. The cryptocurrency had been trading between the $1.50 and $2.00 area over the past few weeks, reaching a local low of $1.35 during last week’s crash. Now, the recent momentum has pushed LayerZero back above the $2.00 area and toward a major resistance area. The cryptocurrency has been unable to reclaim the $2.60 mark since June, being rejected from this area after each retest. Related Reading: Bitcoin Could See New Drop To $60,000 Despite Bounce – Here’s The Level To Defend If ZRO reclaims $2.60, it could target the next major resistance, located at around $3.00. Analyst Crypto Tony affirmed that if the cryptocurrency clears this level, “we are good for $3.30. Wave 3 is beginning.” As of this writing, ZRO is trading at $2.45, a 36.5% increase in the weekly timeframe. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|ark invest|Bryan Pellegrino|Cathie Wood|Citadel Securities|dtcc|Intercontinental Exchange|LayerZero blockchain|LayerZero Labs|tether|Zero blockchain|ZRO|ZRO price|ZROUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57961430,
+    "published": 1770891958000,
+    "title": "UK government appoints HSBC for tokenized bond pilot",
+    "body": "The UK appointed HSBC Orion for its DIGIT pilot to explore blockchain bonds, aiming to improve efficiency, cut costs and boost security.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      }
+    ]
+  },
+  {
+    "id": 57962069,
+    "published": 1770893647000,
+    "title": "Agant registers with U.K. FCA ahead of British pound stablecoin debut",
+    "body": "The issuer cleared a key regulatory hurdle as it prepares to roll out GBPA, a fully backed sterling stablecoin targeting institutional use.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Stablecoins|U.K. Financial Conduct Authority|GBP|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 57961704,
+    "published": 1770892864000,
+    "title": "Solana leans into tokenization and payments at Hong Kong’s Accelerate APAC event",
+    "body": "From ETFs to stablecoins to AI infrastructure, Solana’s pitch in Hong Kong was clear: less memecoin mania, more internet capital markets.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Consensus Hong Kong 2026|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57962410,
+    "published": 1770894194000,
+    "title": "AI-powered agents dominate the EasyA x Consensus Hong Kong hackathon",
+    "body": "Winning projects like FoundrAI demonstrate how generative AI is allowing developers to build market-ready products in just 48 hours.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Tech|Consensus Hong Kong 2026|Hackathon|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 57962161,
+    "published": 1770893571000,
+    "title": "Ark Invest buys Bullish stock for 9th straight day in $11.6 million purchase",
+    "body": "Ark bought around 2.1 million BLSH shares in the past nine trading days, valued about $58.8 million based on the stock's closing price each day.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|ARK Invest|Bullish|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 57963285,
+    "published": 1770896599000,
+    "title": "Bitcoin defies 'extreme fear,' hot jobs report to show signs of resilience",
+    "body": "Bitcoin rose after the U.S. jobs report indicated employment growth in many sectors of the economy was restrained even as the headline number surged.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Crypto Markets Today|Derivatives|Altcoins|Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57963771,
+    "published": 1770897600000,
+    "title": "Espresso network launches ESP token with 10% airdrop amid Ethereum layer-2 debate",
+    "body": "The network transitioned to proof-of-stake and coincides with the rollout of the ESP token, which is used for staking, securing the network and protocol participation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|airdrop|layer 2|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 204,
+        "NAME": "AIRDROP",
+        "CATEGORY": "AIRDROP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57964559,
+    "published": 1770899432000,
+    "title": "XRP Community Day Recap: The 7 Most Bullish Takeaways",
+    "body": "Ripple used XRP Community Day to tighten its message: XRP is not an accessory to the business, it’s the organizing principle and the company is positioning its product stack, regulatory posture, and institutional roadmap around that premise. XRP Community Day Highlights CEO Brad Garlinghouse went straight for the ceiling. “There will be a trillion dollar crypto company, I don’t doubt that for a second,” he said. “I think Ripple has the opportunity to be that company, and maybe there’ll be more than one.” The framing matters because it’s not a token price call — it’s a scale argument about where regulated rails, liquidity, and enterprise distribution could concentrate as XRP plugs further into legacy finance. Policy was the second major pillar. Garlinghouse put odds on the table for US legislation, predicting a “75%” chance the CLARITY Act will be “very close to getting signed by the end of April.” Related Reading: XRP Positioned For Major Structure Shift As Price Tests Critical Level Garlinghouse also tried to reconcile market volatility with institutional appetite, pointing to ETF flow behavior during a rough tape. “I believe in a multi-chain world. Even last week, when there was massive carnage going on in the market, there was positive XRP ETF inflows of $30M or $40M,” he said. “Public markets are keen to invest in crypto. Customers want it.” The compliance posture was framed less as defensive and more as a competitive moat by Garlinghouse. “We want to be the most regulated, compliant, because we’re focused on institutional flows—that is the priority,” Garlinghouse said. “The OCC charter makes it very clear that RLUSD is a leader under the GENIUS Act, it cements our leading position.” In Ripple’s telling, regulatory credentials aren’t a cost center; they’re how you win mandates, counterparties, and distribution in the parts of the market that actually move size. He also hinted at some major progress on the Fed Masters Account. “Now, there’s been a lot of speculation about what we could do in the future,” Garlinghouse said. “There’s been some commentary about a Fed Master Account, which we do think is compelling. And there’s things we may do in the future that I’m not gonna go into today.” He then anchored the point in trajectory rather than rumor: conditional OCC approval and engagement, he said, represent “massive progress relative to where we started this journey.” Related Reading: Glassnode: XRP Is Back In Its 2021-2022 Playbook As SOPR Drops Sub 1 On XRP itself, Garlinghouse delivered the cleanest thesis statement of the event: “XRP is the north star for Ripple. It’s our purpose.” He tied Ripple Payments, Ripple Prime, Ripple Treasury, custody, and RLUSD to a single objective: “how we can drive utility, trust, liquidity around XRPL.” President Monica Long expanded that into an execution roadmap: “We’re rewinding the tape back to the founding of the company, like XRP and the Ledger are our reason for being,” she said. “So we call it our North Star, like that this is kind of what guides us in a lot of our product strategy and decision-making.” From there, she outlined three institutional-flavored pushes: bringing more licensed payments flow onto the XRPL DEX, a “payments credit” concept that matches payment-provider financing needs with XRP holders seeking yield via a proposed lending protocol amendment, and growing custody demand as banks move past safekeeping and into tokenization of deposits, funds, and traditional securities. At press time, XRP traded at $1.38. Featured image created with DALL.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP News|Ripple|xrp|XRP Community Day|xrp news|XRP Price",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 57964501,
+    "published": 1770899120000,
+    "title": "Forget $80k: Michael Terpin warns bitcoin could revisit the $40,000s before a real recovery",
+    "body": "Terpin argued that bitcoin’s post-halving bubble followed its typical arc and says history suggests the market may still face another wave of pain.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Consensus Hong Kong 2026|Transform Ventures|Michael Terpin|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
