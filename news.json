@@ -1,555 +1,5 @@
 [
   {
-    "id": 57998514,
-    "published": 1770996765000,
-    "title": "Bitcoin passes $69K on slower US CPI print, but Fed rate-cut odds stay low",
-    "body": "Bitcoin bulls enjoyed a relief rally to $69,000 on the back of soft US CPI inflation data amid hopes of BTC price action making a \"higher low.\"",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57998386,
-    "published": 1770996638000,
-    "title": "FedEx Enters Hedera Network Council With Eye on Supply Chain Transformation",
-    "body": "FedEx joins firms like Google, IBM, and Dell on the Hedera Council, running a network node and contributing to governance.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 81,
-        "NAME": "HBAR",
-        "CATEGORY": "HBAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57998983,
-    "published": 1770998447000,
-    "title": "Bitcoin’s $2.3 Billion Wipeout Marks Harshest Crash In 4 Years: Analysts",
-    "body": "The recent slide of Bitcoin has punched a hole in short-term holders’ wallets and left loud questions about where prices might settle next. Markets are jittery; people who bought high are taking losses. Some sellers reacted fast, and that rush shows up in on-chain numbers. Related Reading: Is XRP About To Surprise The Market? Finance Expert Weighs In Realized Losses Hit Historical Levels According to CryptoQuant and an analyst writing under the name IT Tech, Bitcoin’s seven-day average of realized net losses climbed to about $2.3 billion — a figure that puts this sell-off among the largest loss events on record. “This is one of the largest capitulation events in BTC history, rivaling the 2021 crash, 2022 Luna/FTX collapse, and mid-2024 correction,” IT Tech said. This spike in losses means many traders sold at a loss over the span of a week, not just a day. Price Action And Market Context Reports say Bitcoin fell sharply from its recent peak and has been bouncing between support lines that traders watch closely. After topping near $126,000, the token traded as low as about $60,000 earlier in the month and has been seen around $66,600 on recent checks. That gap is large, and it explains why panic selling pushed realized losses so high. Signs Pointing To Capitulation Reports note that on-chain indicators tied to profit and loss show losses are rising faster than gains. One contributor at CryptoQuant, GugaOnChain, flagged a Z-Score reading that he describes as consistent with deep capitulation — a phase where more holders give up than buy. When that happens, markets often become chaotic first and steady later. What Analysts Are Saying Now Reports say some market commentators expect pressure to continue for a while. Nic Puckrin, an investment analyst, described the market as being in “full capitulation mode,” and warned selling could persist for months before clearer footing appears. Others point out that heavy losses can also clear the way for patient buyers later. Where Bottoms Have Lived Before Reports have disclosed that CryptoQuant’s measure of the “realized price” sits near $55,000 — a level that has been linked in past cycles to the end of big sell-offs and the start of sideways consolidation. That does not mean a floor has formed this time; it only marks a region where past buyers, on average, stopped losing money on their holdings. Markets have traded well below similar marks before they steadied, so history offers patterns, not guarantees. Related Reading: Jim Cramer Suggests US Government Could Buy Bitcoin Near $60K What This Means For Traders And Investors Short term, expect wild swings. Some days will bring sharp rallies that reverse quickly. Other days will drag, and realized losses may keep rising as more investors pull out. Longer term, if institutional demand returns or big holders stop forcing sales, price stability could follow. Right now the market is clearing out positions and testing whether support levels hold. Featured image from Gemini, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|Bear market|bitcoin|btc|btcusd|capitulation|crypto",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57999354,
-    "published": 1770999763000,
-    "title": "Wall Street analysts slash Coinbase price targets after Q4 miss — but shares rally",
-    "body": "Barclays, Benchmark, Clear Street, and JPMorgan all cut targets, citing weak retail trading and macro headwinds.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Coinbase|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57999602,
-    "published": 1771000200000,
-    "title": "Bitcoin most 'undervalued' since March 2023 at $20K, BTC price metric shows",
-    "body": "Bitcoin onchain analysis eyed a potential end to the BTC price downtrend as its MVRV ratio returned to levels not seen in three years.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 57999833,
-    "published": 1771001162000,
-    "title": "State-Sponsored Hackers Using Popular AI Tools Including Gemini, Google Warns",
-    "body": "A new report from Google AI Threat Tracker shows how hackers from North Korea, Iran and Russia are using AI to speed up their attacks.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Business",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 57999775,
-    "published": 1771000940000,
-    "title": "Connecticut Man Faces 375 Years for Gambling Away Crypto Investors' Funds on Stake",
-    "body": "The 24-year-old faces 21 criminal charges for losing nearly a million dollars worth of customer funds prosecutors say were never invested in crypto.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "||Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58000152,
-    "published": 1771002066000,
-    "title": "Crypto investor sentiment will rise once CLARITY Act is passed: Bessent",
-    "body": "Delaying the CLARITY market structure bill until 2027, after the US midterm elections, may significantly reduce its chances of passage, the Treasury Secretary said.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      }
-    ]
-  },
-  {
-    "id": 58000535,
-    "published": 1771000849000,
-    "title": "Fintech Company Figure Starts Marketing Blockchain-Native Shares",
-    "body": "Figure Technology Solutions Inc. has started to formally market 4.23 million shares of its so-called blockchain-native stock to investors, as the financial technology firm joins the race to revolutionize share trading infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "NMS:FIGR",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 58000790,
-    "published": 1771003800000,
-    "title": "Bitcoin $72K target possible if V-shaped recovery pattern completes",
-    "body": "Bitcoin’s post-CPI rally above $69,000 could help complete the V-shaped recovery chart pattern and also confirm that $60,000 was the sell-off bottom.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58001122,
-    "published": 1771005053000,
-    "title": "$3.85 Million in Ethereum From Mixin Network Hack Sent to Tornado Cash",
-    "body": "Wallets linked to the $200 million exploit of Mixin in 2023 woke after nearly two years and moved funds to coin mixer Tornado Cash.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 58001303,
-    "published": 1771005658000,
-    "title": "Cardano Founder Hoskinson Warns Of 90-180 Days Of Pain Ahead: Here’s Why",
-    "body": "Cardano founder Charles Hoskinson says the crypto market is headed for “90–180 days” of more grind, not because the industry lacks catalysts, but because retail is exhausted and the narrative that kept people engaged has stopped working. Speaking with CoinDesk at Consensus 2026 in Hong Kong, the Input Output CEO framed the current drawdown as a morale problem as much as a market one. “This one particularly stings because we expected a really strong cycle in 2025 and we didn’t quite get it,” he said. “So, a lot of people are pretty bitter about it… We just got to get through the next 90-180 days. It’s going to be tough.” Cardano Founder On What Went Wrong For Crypto Hoskinson’s core point was that crypto has spent years promising a near-term “magic fix,” then watching the market fail to respond even when those fixes arrived. He rattled off the sequence retail has lived through: NFT mania, the collapse of Luna, collapse of FTX, the “scary Gary era,” memecoin mania, and “all the Trump stuff” and argued that each cycle offered the same story: endure the pain now, because something big is coming in 6–12 months. “And we got all the mcguffins,” he said. “We got BlackRock coming in. We got the US government doing the reserve thing. We got good regulation with Genius to start… all the things that we were looking for happened and then nothing happened afterwards.” Related Reading: Cardano May Be At A Prime Buying Point, Analyst Says To explain the mood, Hoskinson leaned on a vivid travel metaphor: “We got to the town and the hotel was closed, the restaurants closed and we’re like where do we sleep and eat? … people are deeply frustrated.” That frustration, in his telling, has turned into a broader disengagement. Retail isn’t shocked by volatility, it’s bored and worn down by the repeated promise that the next institutional wave, the next regulatory milestone, or the next narrative pivot will make the market “work” again. Hoskinson also cast the next phase of adoption as politically contentious inside crypto itself. As more traditional finance players get involved, he warned of a future where the industry becomes “federated”, dominated by large corporate-controlled networks and where users are pushed away from self-custody. “What they want to do long term is move everybody into a custodial holder from a non-custodial holder and then ban DeFi and non-custodial wallets so they can consolidate the entire industry to like 10 or 15 of big actors,” he said, adding that it’s feeding apathy among long-time participants. He put it more bluntly a moment later: “We didn’t sign up to have Goldman Sachs and JP Morgan and BlackRock and these other guys run the industry. We signed up to build a new banking system that is pushing power to the edges.” If the industry drifts back into the hands of the institutions crypto originally positioned itself against, Hoskinson argued, the last decade of risk-taking starts to look like a round trip. How To Make Crypto Great Again Hoskinson’s proposed reset centers on making crypto usable for people who aren’t primarily there to trade. That starts with “wallet abstraction”, reducing onboarding to something like “30 seconds with a fingerprint and a pin code,” plus social recovery and then integrating those wallets into mainstream platforms so the default experience becomes non-financial. Related Reading: Cardano Nears End Of 2020-Style Correction: Is $5 To $10 Next? “Right now, I have to understand… private keys, understand how to back up wallets, all this stuff,” he said. “So, really, the only interface is for people that are doing this for financial reasons.” From there, he argued, crypto should stop “over financializing everything,” pointing to the volume of token launches as a symptom. “Anytime I hear anything, I always ask, ‘When’s the token launch?’ And I’m sorry, 11 million tokens went out last year. It’s not sustainable,” he said. He tied that thesis to what he sees as the next wave of demand: agentic AI. By 2030, Hoskinson predicted, “the majority of internet searches in commerce will be agentic,” meaning bots transact more than humans and crypto, via stablecoins and standards he referenced such as x402 becomes the rails that give those agents “economic agency.” Hoskinson also dismissed the idea that quantum fears are driving today’s downturn. “If there are, they’re stupid,” he said of anyone selling Bitcoin due to quantum risk, calling the threat “not… right now.” He pointed instead to DARPA’s Quantum Benchmarking Initiative (QBI), saying the effort is working toward measuring whether quantum computers will be meaningful “by 2033,” and argued the real issue is trade-offs: post-quantum cryptography is “5 to 10 times less efficient,” and few networks want to pay that cost today. Still, he framed the looming transition as an opportunity, especially for Bitcoin, which he said may need a hard fork to fully address post-quantum migration. For Cardano, he argued, on-chain governance makes such changes a more bounded process: “It’s a six-month conversation for us.” At press time, Cardano traded at $0.2638. Featured image from YouTube, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|ADA|ADA news|ADA price|Cardan News|Cardano|Cardano price|Charles Hoskinson",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 206,
-        "NAME": "FORKS",
-        "CATEGORY": "FORKS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58001581,
-    "published": 1771006355000,
-    "title": "Binance France CEO Targeted in Home Invasion Attempt: Report",
-    "body": "The CEO of Binance France was targeted in a recent home invasion attempt, but the executive was unharmed and the criminals were arrested.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 74,
-        "NAME": "BNB",
-        "CATEGORY": "BNB"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58001481,
-    "published": 1771006201000,
-    "title": "Trump Media Files For Cronos, Bitcoin‑Ether ETFs With Staking Focus",
-    "body": "Companies linked to President Donald Trump are expanding their presence in the cryptocurrency industry, with the Trump Media & Technology Group taking another formal step into digital asset markets. Truth Social Funds, an affiliate of Trump Media, has submitted a registration statement to the US Securities and Exchange Commission (SEC) seeking approval to launch two new cryptocurrency exchange‑traded funds (ETFs). Trump Media Latest Crypto Proposal The filings outline plans for Crypto.com’s native token, Cronos (CRO), the Cronos Yield Maximizer ETF, and the Bitcoin (BTC) and Ethereum (ETH) ETFs. Related Reading: Standard Chartered Lowers Bitcoin Forecast: Predicts Price Dive To $50,000 Before Rebound The Cronos-focused product is designed to provide exposure to CRO, the native token of the Cronos blockchain, while also capturing staking rewards associated with holding the asset. The second fund would track the performance of Bitcoin and Ethereum, the two largest cryptocurrencies by market value, and incorporate Ether staking yields into its strategy. Under the proposed structure, Crypto.com would play a central operational role. The digital asset platform is set to provide custody, liquidity, and staking services for the funds. Meanwhile, Yorkville America Equities has been named as the investment adviser, with the filings indicating a 0.95% annual management fee. Bitcoin Struggles Below $70,000 Friday’s announcement builds on a broader strategic partnership formed last year between Trump Media and Crypto.com. As part of that agreement, Trump Media was set to acquire 684.4 million Cronos (CRO) tokens at an approximate price of $0.153 per token. The transaction was structured as a 50% stock and 50% cash exchange and included the creation of a Trump Media Group CRO Strategy aimed at integrating Cronos into the company’s broader digital asset plans. Related Reading: Cardano Founder Hoskinson Warns Of 90-180 Days Of Pain Ahead: Here’s Why The expansion into crypto-linked investment products comes at a time when Bitcoin continues to face technical resistance. Although the leading cryptocurrency has posted gains of roughly 5% over the past 24 hours, it remains unable to decisively break above the $70,000 level. Shares of Trump Media (DJT) also moved modestly higher during Friday’s trading session, rising about 2.5% to trade near $11.18. Featured image from OpenArt, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Breaking News Ticker|Bitcoin ETF|Bitcoin ETF news|Cronos|Cronos (CRO)|Cronos crypto ETF|crypto|crypto market|crypto news|crypto.com|Crypto.com news|Ethereum ETF News|Trump|Trump media|Trump Media crypto ETFs|Trump media crypto news|Trump Media Group",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 75,
-        "NAME": "CRO",
-        "CATEGORY": "CRO"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
     "id": 58002450,
     "published": 1771009257000,
     "title": "Bitcoin Bounces to $69K, But Charts Are Still Bearish: Analysis",
@@ -1383,6 +833,262 @@
         "ID": 49,
         "NAME": "TECHNOLOGY",
         "CATEGORY": "TECHNOLOGY"
+      }
+    ]
+  },
+  {
+    "id": 58027835,
+    "published": 1771083000000,
+    "title": "Blockchain Goes Big: FedEx Joins Google And IBM On Hedera Council",
+    "body": "Blockchain goes mainstream as FedEx joins Google, IBM, and Boeing on the Hedera Council. JPMorgan and Visa prove distributed ledger tech is now essential infrastructure.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 55,
+        "NAME": "WALLET",
+        "CATEGORY": "WALLET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 81,
+        "NAME": "HBAR",
+        "CATEGORY": "HBAR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58028422,
+    "published": 1771084800000,
+    "title": "Galaxy’s Steve Kurz sees ‘great convergence’ driving crypto’s long-term outlook",
+    "body": "The firm's asset-management chief says the recent crypto selloff reflects healthy deleveraging, while infrastructure growth and institutional adoption support a bullish outlook.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Galaxy Digital|Stablecoins|Tokenization|Exclusive|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58028438,
+    "published": 1771084781000,
+    "title": "France Crypto Kidnappings: Leaks And Zero Convictions Fuel The Crisis",
+    "body": "Data leaks, teenage recruits and zero convictions explain why France leads the world in physical attacks on cryptocurrency holders. Here's what's fueling the crisis.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "lang": "EN",
+    "source_data": {
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58028690,
+    "published": 1771085465000,
+    "title": "Bitcoin Is Down Bad, But Hasn't Yet Hit Its 'Ultimate Bear Market Bottom': Analysts",
+    "body": "Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58030321,
+    "published": 1771090434000,
+    "title": "Elon Musk's X to launch crypto and stock trading in ‘couple weeks’",
+    "body": "Users will be able to interact with ticker symbols in posts and execute trades within the app, the company's head of product said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|Crypto Trading|Social Media|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58030788,
+    "published": 1771092000000,
+    "title": "The Genius Act ripple effect: Sui executives say institutional demand has never been higher",
+    "body": "Evan Cheng and Stephen Mackintosh said 2025 marked a turning point for institutional adoption, with tokenization and agentic commerce emerging as the next frontier.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58031256,
+    "published": 1771093221000,
+    "title": "All social program benefits can be distributed onchain: Compliance exec",
+    "body": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 58031135,
+    "published": 1771092886000,
+    "title": "Can Meme Coins Power a Senate Bid? Virginia’s Mark Moran Says Yes",
+    "body": "Mark Moran is using a meme coin on Solana to elevate his U.S. Senate bid, rallying degens against a pro-crypto Democrat in Virginia.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   }
