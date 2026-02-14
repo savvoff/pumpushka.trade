@@ -3,7 +3,7 @@ name: Ingest News (Git-based)
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0 */3 * * *" #"0 * * * *" # 1 hour
+    - cron: "0 0 * * *" # daily at 00:00 UTC
 
 jobs:
   ingest:
