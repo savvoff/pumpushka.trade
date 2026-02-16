@@ -1,57 +1,33 @@
 [
   {
-    "id": 58012188,
-    "published": 1771038014000,
-    "title": "Bitcoin NUPL Back In Hope/Fear Region: What Happens Next?",
-    "body": "On-chain data shows the Bitcoin Net Unrealized Profit/Loss (NUPL) has plunged recently. Here’s what this could mean for the cryptocurrency. Bitcoin NUPL Has Dropped To The 0.18 Level In a new post on X, o-chain analytics firm Glassnode has talked about the latest trend in the Bitcoin NUPL, which is an indicator that compares the amount of unrealized profit and loss held by investors on the BTC blockchain. The metric works by going through the transaction history of each token on the network to find the price at which they were last involved in a transfer. If this previous selling price is greater than the current spot price for any coin, then that particular token is assumed to be carrying some net unrealized profit. Similarly, the cost basis being lower implies the token is underwater. Related Reading: Bitcoin On-Chain Heatmap Shows All Major Metrics In The Red The exact amount of profit/loss held by a coin is equal to the difference between the two prices. The NUPL sums up this value for each category and then subtracts it to determine the net situation for the network. Additionally, it also divides the result by the market cap to showcase how the net profit/loss among investors looks relative to the asset’s total valuation. Now, here is the chart shared by Glassnode that shows the trend in the Bitcoin NUPL over the last few years: As displayed in the above graph, the Bitcoin NUPL shot up above the 0.5 level during the rallies in 2024 and 2025. This suggests that investors were carrying net profits more than half as much as the cryptocurrency’s market cap. These phases of euphoria were followed by price declines that took the metric into the zone between 0.25 and 0.5. BTC managed to recover from the first two of these drops, but the latest one has been followed by an extended phase of downtrend. From the chart, it’s visible that this bearish action has taken the cryptocurrency to a value of 0.18. This level indicates that profits are still dominant on the network, but they are much thinner than before. The level lies inside a region that the analytics firm defines as pertaining to “hope/fear” among the investors. “This regime tends to be reactive: rallies meet sell pressure, and downside can extend as conviction fades,” explained the analytics firm. The last time that the Bitcoin NUPL saw a substantial drawdown into the region was during the 2022 bear market. Back then, the cryptocurrency ended up traveling right through the zone and into the extreme fear area below the zero level, corresponding to net losses being held by the majority of investors. Related Reading: Shiba Inu At Risk of 70% Decline? Price Breaks Below Parallel Channel It now remains to be seen how long the cryptocurrency will stay in the region for this time around and which one will follow next. BTC Price Bitcoin dropped toward $65,000 on Thursday, but the asset has kicked back up to $69,000 on Friday. Featured image from Dall-E, chart from TradingView.com",
+    "id": 58041508,
+    "published": 1771124658000,
+    "title": "Roundhill’s election event contract ETFs ‘potentially groundbreaking'",
+    "body": "The ETF issuer warned investors that selecting the fund tied to the losing US presidential outcome could result in the loss of nearly all invested capital.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin NUPL|bitcoin profitability|btc|BTCUSDT",
+    "keywords": "",
     "lang": "EN",
     "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
   {
-    "id": 58013093,
-    "published": 1771040300000,
-    "title": "Bitcoin holders are being tested as inflation fades: Pompliano",
-    "body": "Bitcoin will become “more valuable than ever” after deflation stops covering “up the impact\" on the US dollar, according to Bitcoin entrepreneur Anthony Pompliano.",
-    "sentiment": "POSITIVE",
+    "id": 58045464,
+    "published": 1771136268000,
+    "title": "Institutions may get 'fed up' and fire Bitcoin devs over quantum: VC",
+    "body": "Bitcoin developers must address the quantum risks to Bitcoin fast to avoid a successful “corporate takeover,” according to venture capitalist Nic Carter.",
+    "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "",
     "lang": "EN",
@@ -69,6 +45,41 @@
       },
       {
         "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58046720,
+    "published": 1771139757000,
+    "title": "Senators ask Bessent to probe $500M UAE stake in Trump-linked WLFI",
+    "body": "Elizabeth Warren and Andy Kim call on Treasury’s Scott Bessent to review a UAE-backed investment in the Trump-linked crypto firm over national security concerns.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
         "ID": 210,
         "NAME": "MACROECONOMICS",
         "CATEGORY": "MACROECONOMICS"
@@ -82,36 +93,13 @@
     ]
   },
   {
-    "id": 58014669,
-    "published": 1771045229000,
-    "title": "Here’s the stupid thing about romance scams",
-    "body": "If anyone should be ashamed of this crime, it’s the social media platforms",
+    "id": 58048092,
+    "published": 1771131623000,
+    "title": "Solana Funding Rates Hit 17-Day Negative Streak — What This Means For Price",
+    "body": "Solana (SOL) has been significantly affected by the bear market, reporting a price loss of 37.38% in the last 30 days alone. Despite the late price relief seen last week, the altcoin remains about 70% off its all-time high, reflecting the dominant selling activity of recent months. Notably, funding rates data suggest traders are yet to see an imminent end to this turmoil, as open interest positioning reflects strong conviction toward further downside. Related Reading: Solana Reclaims $80 Amid Friday Market Bounce – Analysts Set Next Targets Solana Bearish Funding Stretch Sets New Low In 2.5 Years Funding rates are periodic payments exchanged between traders in perpetual futures markets to keep the futures price aligned with the spot price of an asset. Funding rates show which side of the market is more crowded, buyers (longs) or sellers (shorts), and thus a good sentiment indicator. Negative funding rates suggest that short traders are dominant, with a higher percentage of market participants presently betting on a price fall. According to market analyst Ted Pillows, the Solana market has recorded a negative funding rate for 17 consecutive days, indicating that traders have been aggressively positioned on SOL for over two weeks. The market analyst explains that the bearish sentiment around Solana hasn’t touched these extremes in over 2.5 years. Therefore, this development is indicative of a sustained directional conviction and not regular market noise. However, there are two likely scenarios to develop from this concerning situation. Firstly, Solana may continue to bleed downward as spot buying pressure remains weak, combined with the sustained decline in macro risk appetite. On the other hand, the market might also experience a short squeeze marked by rapid upward price movement. This can be due to an exhaustion of selling pressure, after an overwhelming market majority opens short positions. In conclusion, while Solana traders and investors remain strongly bearish, there is still potential for reverse price moves to catch these overcrowded trades off guard. Related Reading: Bitcoin On-Chain Data Indicates High Volatility Ahead Following Post-CPI Reaction Solana Price Outlook At the time of writing, Solana trades at $88.01, reflecting a 3.81% gain in the last day. Meanwhile, the daily trading volume is down by 24.9% and valued at $2.89 billion. According to a renowned market analyst, Ali Martinez, data from the UTXO Realized Price Distribution (URPD) metric highlights key Solana price levels. While $85.55 was previously identified as a resistance zone, Solana’s move toward the $88 level suggests this region may now be flipping into a support area, reinforcing its importance as a short-term demand zone. Featured image from Nairametrics, chart from Tradingview",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Financial Times (Crypto)",
-      "source_key": "financialtimes_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 58014638,
-    "published": 1771045212000,
-    "title": "Solana Reclaims $80 Amid Friday Market Bounce – Analysts Set Next Targets",
-    "body": "As the crypto market recovers, Solana (SOL) has bounced from a major level trendline and momentarily reclaimed a key horizontal level. Some analysts have signaled that a retest of a crucial short-term resistance could be coming, while others have warned that a breakdown to new lows remains possible. Related Reading: Ethereum $1,900 Retest Could Decide Next Major Move – Is ETH Preparing For New Lows? Solana Bounces From Two-Year Trendline On Friday, Solana bounced 10.3% to break past the $85 area for the first time in three days. The cryptocurrency has been hovering between $78-$88 over the past week, briefly falling to $67 during last Thursday’s correction. SOL lost the mid-zone of its local range after recent market volatility, falling below $80 on Thursday. However, Today’s rebound has sent the altcoin above these recently lost levels, setting the stage for a potential recovery. Amid this performance, market observer Daan Crypto Trades highlighted that the cryptocurrency has reclaimed the key $80 level, which has historically served as major resistance and support. To the trader, the Solana must hold above this area and form a base above it before “watching for a low-timeframe market structure break back to bullish.” Analyst Ali Martinez observed that sustained buying pressure could push SOL’s price toward the $88 level, not seen since the start of the week. The altcoin has been unable to break above this level since last week’s breakdown, becoming a key short-term resistance area. A breakout from this level could open the door for a retest of the $90-$96 zone, where the April 2025 lows are. Meanwhile, Crypto Batman noted that Solana is retesting its two-year descending trendline in the weekly timeframe, located around the recent lows. The chart shows that the macro trendline has been holding since early 2024 and has been tapped multiple times throughout the cycle. As the analyst explained, “Over the past 2 years, every time the price touches this level, a massive reversal occurs.” During this period, it has also marked the bottom of each major correction, with the latest retest taking place in Q2 2025 and leading to the following quarter’s rally. SOL Breakdown Still Coming? Despite the bullish outlooks, other market watchers have shared potential bearish forecasts for Solana if momentum weakens. Altcoin Sherpa warned that SOL could drop to $50 if selling pressure pushes the price below a crucial area. The chart shows that after losing the 200-week Exponential Moving Average (EMA), around the $121 mark, and the April 2025 lows, the key area to hold is the recently visited local range lows. As the analyst displayed, if the cryptocurrency fails to hold the $77-$78 price area, the next major historical support sits near the November 2023 breakout area, around the $51 mark. Market watcher Crypto Bullet suggested that Solana’s bottom may not be in yet, arguing that “those who bought BTC above $80k and SOL above $120 must stay trapped for a year or two.” Related Reading: LayerZero (ZRO) Soars 40% Amid Zero Blockchain Debut, Major Institutional Backing He affirmed that “returning to those levels anytime soon doesn’t make sense,” as the cryptocurrencies are in their markdown period. In an X post, he emphasized the market cycle phases, pointing out that the accumulation phase occurred between 2022 and 2023, while the distribution phase occurred between 2024 and the start of 2026. Based on this, the analyst’s chart shows that SOL could potentially find a bottom around the $40 area. As of this writing, Solana is trading at $84.17, a 2.5% decline in the weekly timeframe Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Cryptocurrency Market News|crypto analyst|Crypto bear market|crypto market correction|Crypto Market Recovery|Crypto trader|Sol|SOL price analysis|Solana|Solana breakdown|Solana correction|Solana recovery|SOLUSDT",
+    "keywords": "Solana|altcoin|Solana Funding Rates|Solana URPD|SOLUSDT|Ted Pillows",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -152,13 +140,13 @@
     ]
   },
   {
-    "id": 58020979,
-    "published": 1771059608000,
-    "title": "Bitcoin Funding Rate Falls To Critical Level — Short Squeeze Incoming?",
-    "body": "After a dour performance throughout the week, the price of Bitcoin experienced a fair amount of bullish impetus on Friday, February 13th. Going into the weekend, the premier cryptocurrency seemed on its way to reclaim the psychologically relevant $70,000 level. Interestingly, recent on-chain data shows that this latest bullish spurt might be the start of, at least, a short-term rally for the Bitcoin price. Is Bitcoin On The Verge Of A Short Squeeze? In a Quicktake post on the CryptoQuant platform, market analyst CryptoOnchain revealed that the Bitcoin Funding Rate on Binance, the world’s largest cryptocurrency exchange by trading volume, has dropped to a critically low level — one not seen in over a year. The relevant indicator here is the 14-day Simple Moving Average (SMA-14) of BTC Funding Rate. Related Reading: Ethereum Derivatives Reset Raises Questions About Next Price Move: What Happens Next? Typically, the Funding Rate metric estimates the periodic fee paid by traders in a derivatives market for a particular cryptocurrency (Bitcoin, in this case). When the funding rate is in the positive territory, it usually implies that the long traders (investors with buy positions) are paying a fee to short traders (investors with sell positions) in the derivatives market. On the flip side, a negative funding rate metric, as is the case currently, suggests that the payment is going from the short traders to the long traders. Data from CryptoQuant shows that the 14-day SMA of the Bitcoin Funding Rate on Binance has fallen to -0.002, its lowest level since September 2024. As CryptoOnchain rightly noted, a deeply negative funding rate, especially one that lasts over a 14-day average, indicates that bears (short traders) are increasingly betting against the premier cryptocurrency. The market analyst noted that these extremely negative values often correlate with the bottom of severe downward trends. CryptoOnchain wrote in the post: From an on-chain and market psychology perspective, deeply negative funding rates often serve as a strong Contrarian Signal. The market currently appears to be heavily “overcrowded” on the short side. From a historical perspective, this on-chain trend has often set the stage for a potent short squeeze, where a minor price rebound could trigger a cascade of liquidations of the mounting short positions. This cascade of short liquidations often serves as jet fuel, further propelling the Bitcoin price to the upside. Bitcoin Price At A Glance As of this writing, the price of Bitcoin stands at around $69,000, reflecting an over 5% jump in the past 24 hours. Related Reading: Historical Pattern From 2017 Signals Bitcoin Price Crash To $35,000 Featured image from iStock, chart from TradingView",
+    "id": 58054684,
+    "published": 1771160403000,
+    "title": "XRP Spotlighted In German Media With Bold $9 Projection",
+    "body": "XRP has edged back above $1.40 after weeks of uneven trading, but some investors believe the quiet recovery could be the start of a longer story. Related Reading: Urgent Crypto Reform: Treasury Secretary Says The Clock Is Ticking The token was changing hands near $1.43 at last check, still far from past highs. While the broader crypto market remains cautious, fresh comments from a European investment executive have added fuel to longer-term price discussions. Bold Forecasts From A German Investor During a recent segment on Der Aktionär TV, Michel Oliver, head of Tokentus Investment AG, said XRP could reach between $7 and $9 in a future bull cycle. Based on reports, he tied that projection to growing institutional use of the network and what he sees as its expanding role in global payments. He argued that the token could serve as a core settlement asset if adoption continues at the current pace. Oliver pointed to infrastructure rather than short-term hype. According to him, the foundation is being laid through licensing wins and partnerships that could support larger transaction volumes over time. He stressed that such growth is unlikely to be fully realized in the current market phase, suggesting the bigger move may come after another reset in sentiment. 😳German news media says #XRP will be the backbone of the new financial system. Targets mentioned: ▫️ $7–$9 in the near term pic.twitter.com/u79obRShDL — BULLRUNNERS (@BullrunnersHQ) February 10, 2026 Licenses And Network Expansion Reports note that Ripple has secured more than 60 financial licenses worldwide, including an electronic money license in the United Kingdom. That approval allows the firm to operate certain regulated payment services in the region. The regulatory footprint has been expanding steadily, and that progress has been highlighted as a reason for long-term optimism. The base blockchain is called XRP Ledger. It was created to facilitate quick and cheap transactions. XRP is used to facilitate this. The assumption is that as more institutions are added to this ledger, this token could increase. The counterpoint to this is that this doesn’t necessarily translate to an increase in value. Currently, to go from this price to $9, it would be an increase of more than 500%. While this is possible, it has been done before. It requires a lot of money to come into this market. European Access Broadens Access to XRP has broadened within Europe. The crypto exchange Safello has increased access to XRP within more European Union countries. It has done this after receiving authorization under the Markets in Crypto-Assets framework. The exchange has supported XRP trading since December 2025. Related Reading: XRP Set To Dethrone Bitcoin Within 6 Years, Entrepreneur Says Greater availability can improve liquidity. It can also draw new participants into the market. Still, exchange listings alone rarely drive multi-hundred-percent gains. For now, XRP sits in a rebuilding phase. Some investors are watching licensing growth and ETF inflows as early signs of strength. Others remain cautious, noting that infrastructure progress must eventually show up in sustained demand. The coming cycles will determine whether the $7 to $9 range becomes a milestone or remains an ambitious forecast. Featured image from Unsplash, chart from TradingView",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc price|BTCUSDT",
+    "keywords": "Altcoin|altcoin|bitcoin|crypto|Ripple|xrp|XRPL|XRPUSD",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -168,15 +156,9 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
       },
       {
         "TYPE": "122",
@@ -192,44 +174,9 @@
       },
       {
         "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58021264,
-    "published": 1771064396000,
-    "title": "ARK turns bullish on Coinbase again with $15M purchase after selling spree",
-    "body": "Cathie Wood’s ARK Invest added nearly $15.2 million in Coinbase stock across three ETFs, reversing course days after offloading more than $39 million in shares.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
       },
       {
         "TYPE": "122",
@@ -240,171 +187,13 @@
     ]
   },
   {
-    "id": 58022063,
-    "published": 1771066822000,
-    "title": "‘Go Bitcoin Today,’ Michael Saylor Says— A Warning On Broken Money",
-    "body": "Michael Saylor’s latest message is blunt and direct: “Go Bitcoin today — the money won’t fix itself.” He’s pressing an idea he has pushed for years — that holding Bitcoin is a deliberate choice against the slow decline of fiat money — and his firm’s actions back up the words. Bitcoin sits below Saylor’s firm’s average purchase price, yet buying has continued. Related Reading: Calm Down: Ethereum Has Survived 8 Major 50% Falls, Lee Reminds Investors Strategy’s Massive Position According to reports, Strategy now holds 714,644 BTC. The average cost of that stash is listed at $76,056 per coin. Recent filings show another 1,142 BTC was bought this month at about $78,815 each, a purchase that amounted to roughly $90 million. At today’s trading levels near $68,000, the position shows an estimated unrealized loss of close to $6 billion, while the reported book value of holdings tops $54 billion after nearly six years of steady accumulation. Go bitcoin today. The money won’t fix itself. — Michael Saylor (@saylor) February 13, 2026 Public companies together are reported to hold about 1.13 million BTC, and Strategy makes up almost two-thirds of that total. Reports note that close to 200 public firms hold some Bitcoin, though most of the new buying in January was concentrated in a very small group. One company leads the herd by a large margin. High-Conviction Buying Saylor’s message isn’t just rhetoric. Reports have disclosed that Strategy follows a long-range plan that includes a seven-year road map disclosed in its Q4 2025 filings, which aims to raise Bitcoin per share by 2032 based on various yield scenarios. The firm’s playbook is simple: buy on dips and avoid selling. The mantra is repeated: buy Bitcoin and do not sell. That posture has consequences. Some see it as a show of commitment that can encourage other firms and big investors to act similarly. Others view the heavy concentration of corporate exposure as a source of market fragility — if Strategy were to change course unexpectedly, prices could shift fast. Liquidity matters. That risk is understated when the focus is only on conviction. Related Reading: XRP Set To Dethrone Bitcoin Within 6 Years, Entrepreneur Says Market Impact And Criticism Reports say the firm’s buying has been so large that it dominated corporate additions in January, accounting for more than 90% of net new corporate Bitcoin purchases that month. That level of dominance brings scrutiny. Questions have been raised about governance, balance sheet risk, and what long-term holding means for shareholders who expect stable returns. Some critics argue that a company piling into a volatile asset creates a mismatch with traditional corporate responsibilities. At the same time, supporters argue that patient ownership of Bitcoin can protect against long-term currency erosion. This is the case Saylor makes: losses on paper are temporary if the thesis holds, and time is an ally for those convinced of Bitcoin’s store-of-value case. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|btc|btcusd|crypto|Michael Saylor|Strategy",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58024656,
-    "published": 1771074057000,
-    "title": "Bitcoin SuperTrend Signal That Preceded Last 60% Correction Resurfaces",
-    "body": "Over the past week, the Bitcoin price kept on putting in consecutive lows, with barely any hopes in sight for a bullish reversal. However, on Friday, February 13th, the flagship cryptocurrency saw an upward momentum boost, where its value subsequently grew by 5.4%. While this may have been good for short-term traders (specifically scalpers), a troubling future seems to be lying in wait for the premier cryptocurrency. This bearish prognosis is based on a recent technical evaluation of the Bitcoin price. SuperTrend Indicator Flashes Sell Sign On BTC Monthly Timeframe In a 14 February post on social media platform X, influential technical analyst Ali Martinez revealed that the Bitcoin market could soon experience a significant macro trend shift. This hypothesis is based on the SuperTrend Indicator, which is a technical tool that indicates whether an asset (in this case, Bitcoin) is in an uptrend or in a downtrend. Related Reading: Solana Reclaims $80 Amid Friday Market Bounce – Analysts Set Next Targets This indicator plots a trailing level that acts as dynamic support when the price is in an uptrend, or resistance when in a downtrend. When the price is above the SuperTrend line, the market is considered to be in an uptrend; while when the price is below the line, on the other hand, it indicates that the market is in a downtrend. When a candle closes decisively beneath the dynamic trend line when previously in an uptrend, it indicates that the market has now flipped bearish, and vice versa. Interestingly, on the monthly timeframe, the candle now trades beneath the SuperTrend line, indicating that the market may be leaning bearish. Interestingly, the current setup shares semblance with past cycle transitions. From the chart shared by the analyst, it is clear that Bitcoin’s macro structure has gone through a series of expansions and deep retracements. These retracements were also properly illustrated on the indicator in their early stages. Before the late 2014-2015, the 2018, and the 2022 bear markets, the SuperTrend Indicator flashed a sell signal, after which the market entered a bearish phase. Considering the sell signal was seen on Bitcoin’s monthly chart, this could be a sign that the retracement here might be long-term, as expected in a typical bear market. However, it is worth noting that the present market dynamics are very different from previous cycles, as institutions are more involved and ETFs have expanded investor horizons. Hence, these underlying changes might play a role in the present cycle. If the sell signal from the SuperTrend indicator aligns with on-chain activity and macro events, and Bitcoin manages to close beneath the SuperTrend line, a bear market would likely follow, one where Bitcoin’s devaluation by at least 60% may be seen. On the other hand, if new demand enters the Bitcoin market, and the flagship cryptocurrency demonstrates resilience, the current signal could become a short-term warning, rather than a bear-market signal. Bitcoin Price At A Glance As of this writing, Bitcoin holds a valuation of about $68,984, reflecting a 4.5% price jump in the past 24 hours. According to CoinGecko data, the world’s largest cryptocurrency has shrunk in value by approximately 29% on the monthly timeframe. Related Reading: JPMorgan Keeps Bitcoin Bull Case: $266,000 Remains The Target Featured image from iStock, chart from TradingView",
+    "id": 58055001,
+    "published": 1771164000000,
+    "title": "BlackRock's digital assets head: Leverage-driven volatility threatens bitcoin’s narrative",
+    "body": "Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|BTC news|btc price|BTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58024621,
-    "published": 1771073879000,
-    "title": "Figure Technology suffers data breach, exposing personal customer details",
-    "body": "ShinyHunters hackers leaked user data after a social-engineering attack on a Figure employee and the company reportedly refused to pay a ransom.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
-    "id": 58027835,
-    "published": 1771083000000,
-    "title": "Blockchain Goes Big: FedEx Joins Google And IBM On Hedera Council",
-    "body": "Blockchain goes mainstream as FedEx joins Google, IBM, and Boeing on the Hedera Council. JPMorgan and Visa prove distributed ledger tech is now essential infrastructure.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 55,
-        "NAME": "WALLET",
-        "CATEGORY": "WALLET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 81,
-        "NAME": "HBAR",
-        "CATEGORY": "HBAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58028422,
-    "published": 1771084800000,
-    "title": "Galaxy’s Steve Kurz sees ‘great convergence’ driving crypto’s long-term outlook",
-    "body": "The firm's asset-management chief says the recent crypto selloff reflects healthy deleveraging, while infrastructure growth and institutional adoption support a bullish outlook.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Galaxy Digital|Stablecoins|Tokenization|Exclusive|News",
+    "keywords": "Markets|BlackRock|Bitcoin (Currency)|Bitcoin ETF|News",
     "lang": "EN",
     "source_data": {
       "name": "CoinDesk",
@@ -414,9 +203,15 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -427,36 +222,13 @@
     ]
   },
   {
-    "id": 58028438,
-    "published": 1771084781000,
-    "title": "France Crypto Kidnappings: Leaks And Zero Convictions Fuel The Crisis",
-    "body": "Data leaks, teenage recruits and zero convictions explain why France leads the world in physical attacks on cryptocurrency holders. Here's what's fueling the crisis.",
-    "sentiment": "NEGATIVE",
+    "id": 58059746,
+    "published": 1771178462000,
+    "title": "Her Divorce Was Ugly. Crypto Became a Lifeline",
+    "body": "A mother in Texas said that crypto helped her overcome financial abuse.",
+    "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58028690,
-    "published": 1771085465000,
-    "title": "Bitcoin Is Down Bad, But Hasn't Yet Hit Its 'Ultimate Bear Market Bottom': Analysts",
-    "body": "Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Markets",
+    "keywords": "Law and Order",
     "lang": "EN",
     "source_data": {
       "name": "Decrypt",
@@ -466,24 +238,6 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
@@ -491,81 +245,17 @@
     ]
   },
   {
-    "id": 58030321,
-    "published": 1771090434000,
-    "title": "Elon Musk's X to launch crypto and stock trading in ‘couple weeks’",
-    "body": "Users will be able to interact with ticker symbols in posts and execute trades within the app, the company's head of product said.",
+    "id": 58060935,
+    "published": 1771182000000,
+    "title": "Hong Kong is trying to build up its crypto regulations: State of Crypto",
+    "body": "Several leaders in Hong Kong announced efforts to advance the region's regulatory environment.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Finance|Crypto Trading|Social Media|News",
+    "keywords": "Policy|Newsletters|State of Crypto|Consensus Hong Kong 2026|News",
     "lang": "EN",
     "source_data": {
       "name": "CoinDesk",
       "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58030788,
-    "published": 1771092000000,
-    "title": "The Genius Act ripple effect: Sui executives say institutional demand has never been higher",
-    "body": "Evan Cheng and Stephen Mackintosh said 2025 marked a turning point for institutional adoption, with tokenization and agentic commerce emerging as the next frontier.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 58031256,
-    "published": 1771093221000,
-    "title": "All social program benefits can be distributed onchain: Compliance exec",
-    "body": "Hong Kong, Thailand, and the Marshall Islands are exploring tokenized debt instruments and administering social benefit programs onchain.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
@@ -574,35 +264,6 @@
         "ID": 6,
         "NAME": "ASIA",
         "CATEGORY": "ASIA"
-      }
-    ]
-  },
-  {
-    "id": 58031135,
-    "published": 1771092886000,
-    "title": "Can Meme Coins Power a Senate Bid? Virginia’s Mark Moran Says Yes",
-    "body": "Mark Moran is using a meme coin on Solana to elevate his U.S. Senate bid, rallying degens against a pro-crypto Democrat in Virginia.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
       },
       {
         "TYPE": "122",
@@ -613,10 +274,10 @@
     ]
   },
   {
-    "id": 58034255,
-    "published": 1771102830000,
-    "title": "X exec Nikita Bier says in-app trading coming in a 'couple' of weeks",
-    "body": "An announcement in January teased the potential in-app trading feature, fueling online speculation about X's upcoming Smart Cashtags.",
+    "id": 58060901,
+    "published": 1771181752000,
+    "title": "Michael Saylor signals another Bitcoin buy amid market rout",
+    "body": "The purchase will mark week 12 of consecutive buys by Strategy, which continues accumulating BTC despite a sharp decline in the company's stock price.",
     "sentiment": "POSITIVE",
     "score": 0,
     "keywords": "",
@@ -629,38 +290,15 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 58034202,
-    "published": 1771102825000,
-    "title": "Litecoin Closes Bullish — $57 Break Could Ignite Next Leg Up",
-    "body": "Litecoin has closed the daily session on a bullish note, signaling renewed short-term momentum as price presses against a key resistance level. With $57 now acting as the immediate barrier, a decisive breakout and sustained hold above this zone could open the door for the next leg higher, potentially accelerating upside toward the mid-$60s. Bullish Daily Close Signals Early Strength Providing a daily technical outlook on Litecoin, crypto analyst CryptoWzrd noted that LTC closed the session with a bullish daily candle, largely mirroring Bitcoin’s upward movement. The positive close signals improving short-term momentum, but the expert cautioned that broader continuation will require confirmation from additional market factors, particularly the LTCBTC pair. Related Reading: Litecoin Structure Intact, But $63 Remains The Line Bulls Must Defend Although Litecoin printed a constructive candle, LTCBTC closed indecisively, reflecting hesitation in Litecoin’s relative strength against Bitcoin. Sustained upside for LTC will likely depend on a shift toward clear bullish sentiment in LTCBTC, as that would confirm capital rotation and stronger underlying demand. From a structural perspective, CrytoWzrd emphasized that one more strong bullish daily candle from the current level is needed to validate a breakout above the daily lower-high trendline. If such confirmation occurs, Litecoin could transition into a more established bullish phase, with the $68 resistance level emerging as the next key upside target above the $56 zone. A stable and sustained move beyond resistance would further strengthen the case for trend continuation. Until that higher-timeframe breakout is confirmed, the analyst plans to focus on lower-timeframe setups, particularly over the weekend. His approach remains tactical, looking for quick scalp opportunities while waiting for a more mature chart structure before engaging in larger directional trades. $57: Litecoin Intraday Decision Zone The analyst went on to explain that Litecoin’s intraday structure is currently pressing against the key $57 resistance zone, a level that now acts as a short-term decision point for price. A clean and sustained hold above this area would signal strength and open the path toward $64, with the potential for further extension if momentum accelerates. Related Reading: Litecoin 2M Bollinger Band Width Hits New Lows, CMT-Certified Analyst Reveals What It Means He emphasized that simply wicking above resistance will not be enough. What’s needed is a stable bullish structure, ideally supported by rising volume and constructive follow-through, before considering a long position. Such confirmation would indicate that buyers are in control rather than the move being a temporary liquidity sweep. At the same time, he noted that Bitcoin’s direction will likely dictate whether this breakout gains traction. Litecoin continues to follow broader market sentiment, meaning BTC’s strength could act as a catalyst for further gains. Until a mature and well-defined intraday structure forms, patience remains essential before engaging the next trade. Featured image from iStock, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Litecoin|bitcoin|btc|Litecoin news|litecoin price|ltc|LTC news|ltc price|ltc/usd|ltcbtc|LTCUSDT",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
-        "ID": 33,
-        "NAME": "LTC",
-        "CATEGORY": "LTC"
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
       },
       {
         "TYPE": "122",
@@ -673,6 +311,58 @@
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 58062051,
+    "published": 1771185663000,
+    "title": "OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?",
+    "body": "Peter Steinberger's open-source AI agent OpenClaw hit 180,000 GitHub stars and spawned MoltBook chaos. Now Meta and OpenAI want to buy it, but he's determined to keep it free.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Artificial Intelligence",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 58063239,
+    "published": 1771189152000,
+    "title": "Wall Street giant Apollo deepens crypto push with Morpho token deal",
+    "body": "The asset manager overseeing more than $900 billion assets may buy up to 90 million MORPHO tokens as part of a partnership to support DeFi credit market, it said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|apollo global management|Morpho Protocol|DeFi|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
