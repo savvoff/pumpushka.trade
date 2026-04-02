@@ -1,274 +1,12 @@
 [
   {
-    "id": 59926324,
-    "published": 1774933446000,
-    "title": "US Charges Hacker Behind $53 Million Uranium Finance Exploit",
-    "body": "The Uranium Finance indictment carries potential prison time of up to 30 years for fraud and money laundering counts.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 59926207,
-    "published": 1774933258000,
-    "title": "US Labor Department Eyes 401(k) Crypto Access, Bitcoin Considered In New Rule",
-    "body": "The US Labor Department published a proposed regulation on Monday intended to give 401(k) participants access to alternative investments, including crypto assets such as Bitcoin (BTC). The Employee Benefits Security Administration (EBSA) framed the rule as “historic,” saying it lays out a clear, process-driven framework that plan fiduciaries can follow when evaluating non-traditional assets for defined contribution plans. Safe‑Harbor Rules For 401(k) Considering Crypto At the heart of the proposal are safe-harbor procedures designed to guide plan managers through the selection of designated investment alternatives. Under the rule, fiduciaries would be required to evaluate potential alternatives, addressing factors such as expected performance, fees, liquidity, valuation methods, appropriate performance benchmarks, and the complexity of the crypto assets. The department emphasized that the rule is intentionally neutral with respect to asset classes: it does not endorse any particular type of investment but instead sets out a prudent process for review and selection. Related Reading: XRP Price Alert: Expert Predicts $0.80 On Bitcoin’s Potential Retreat To $60,000 The move follows President Trump’s executive order, “Democratizing Access to Alternative Assets for 401(k) Investors,” and represents an attempt to translate that directive into practical regulatory guidance, according to the statement on the matter. Labor Department officials say the proposed rule returns the agency to a long-standing approach that focuses on fiduciary process rather than picking winners and losers among asset types. “The department’s days of picking winners and losers are over. Our rule clearly spells out that managers must evaluate any and all potential product offerings by following a prudent process,” said Deputy Secretary of Labor Keith Sonderling. Treasury And SEC Back Labor Proposal The EBSA noted that the Biden administration’s 2022 compliance guidance — which effectively discouraged fiduciaries from offering crypto options — diverged from the Employee Retirement Income Security Act’s (ERISA) requirements, contributing to the limited uptake of alternatives in retirement plans. The new proposal aims to remove that regulatory uncertainty by providing concrete, process-based protections for fiduciaries who choose to consider crypto investments. Officials from other agencies welcomed the initiative as part of a broader push to expand retirement investment options. Related Reading: XRP Nears Key Turning Point As Descending Wedge Tightens Treasury Secretary Scott Bessent praised the Labor Department’s rulemaking as “another step in ushering in President Trump’s Golden Age,” saying the proposal seeks to broaden access to additional retirement options for “millions of Americans” while protecting retirement assets. Securities and Exchange Commission (SEC) Chairman Paul Atkins also expressed support, noting that enabling Americans to participate in innovation and economic growth through diversified, long-term investments is important for retirement planning and that the SEC helped formulate the proposal. If finalized, the rule would provide plan fiduciaries with a structured path to consider crypto and other alternative assets without immediately exposing them to the compliance risks that had discouraged inclusion in recent years. At the time of writing, Bitcoin was trading at $66,580, having failed to capitalize on moves slightly above $68,000 earlier on Monday. Featured image from OpenArt, chart from TradingView.com",
+    "id": 59958485,
+    "published": 1775012400000,
+    "title": "TAO Rockets 70% — Here’s What Fueled Bittensor Move And The Near‑Term Outlook",
+    "body": "Bittensor (TAO) has emerged as one of the market’s strongest performers this month, rallying roughly 73% over the past 30 days even as larger cryptocurrencies staged a more modest recovery. NVIDIA Nod Fuels TAO Rally Market analyst Alex Carchidi argues that a key catalyst was public recognition from a major tech figure. NVIDIA CEO Jensen Huang recently acknowledged decentralized AI training — the core use case Bittensor champions — as a practical approach after hearing about the project’s latest technical milestone. Related Reading: US Labor Department Eyes 401(k) Crypto Access, Bitcoin Considered In New Rule The analyst asserted that the endorsement amplified investor interest in the Bittensor blockchain by validating the concept that training large language models (LLMs) can be accomplished outside centralized data centers. Bittensor’s most recent achievement centers on its Templar subnet, which reportedly trained Covenant‑72B, a 72‑billion‑parameter LLM, through a decentralized collaboration involving more than 70 contributors using commercially available hardware. That accomplishment is noteworthy because large‑scale model training normally requires substantial capital and tightly controlled infrastructure; proving such a model can be trained in a distributed manner lends credibility to Bittensor’s thesis that subnets can marshal meaningful compute to build economically valuable services. Bittensor At Risk If Subnets Don’t Scale Carchidi also points to TAO’s tokenomics as a potential upside factor. The chain’s supply dynamics partially resemble Bitcoin’s (BTC), a design Cardichi finds appealing for long‑term appreciation if the network continues to produce in‑demand services. Still, he cautions that the project faces a critical shortcoming: so far, its subnets have not demonstrated robust, sustainable demand that translates into meaningful external revenue. The current economics underline that concern. The protocol’s distribution of newly minted TAO results in the top subnet receiving roughly $52 million in annualized subsidies from the chain, while that subnet brings in at most about $2.4 million in outside revenue. Across the entire Bittensor network, demand‑side revenue ranges from approximately $3 million to $15 million a year, set against a token market capitalization near $3.3 billion. Cardichi concluded that those figures create what he deems as “a valuation mismatch” that could put TAO’s price at risk if the subnets fail to scale revenue significantly. Key Price Levels To Watch Technical levels add another layer to the outlook. TAO was trading around $308 at the time of writing, with immediate resistance positioned near $315 after failing to consolidate above it during last week’s rally. Related Reading: XRP Price Alert: Expert Predicts $0.80 On Bitcoin’s Potential Retreat To $60,000 Analyst Ali Martinez had previously outlined a key conditional scenario for the Bittensor token. Should the support level of $315 hold, the rally could extend towards $580. This makes the $315 level one of the most important to reclaim right now. However, last week’s inability to breach mid‑term resistance at $378 contributed to the pullback to $308, leaving TAO almost 60% below its all‑time high of $757. Featured image from OpenArt, chart from TradingView.com",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Cryptocurrency Market News|401(K) crypto|401(K) Plans|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|BTCUSDT|crypto|crypto market|crypto news|cryptocurrency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59926128,
-    "published": 1774933052000,
-    "title": "Breaking Bitcoin with quantum may be easier than thought, with Taproot partly to blame, Google says",
-    "body": "The findings suggest attackers could one day steal bitcoin mid-transaction, challenging assumptions that the threat is decades away.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59926722,
-    "published": 1774934386000,
-    "title": "KuCoin operator barred from U.S. after CFTC order, following $297 Million DOJ case",
-    "body": "KuCoin operator Peken Global Limited cannot cater to U.S. users on its platform unless it registers as a foreign board of trade.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Regulation|Crime|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59927071,
-    "published": 1774935183000,
-    "title": "Maryland man charged in $50 million Uranium Finance hack after U.S. seized $31 million in crypto",
-    "body": "Prosecutors say Jonathan Spalletta exploited smart contract bugs twice in April 2021, laundering funds through Tornado Cash and spending proceeds on rare collectibles.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|Crime|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 59927033,
-    "published": 1774934006000,
-    "title": "Bitcoin Rises With Risk Assets on Trump Iran War Report",
-    "body": "Cryptocurrencies rose with stocks and bonds in Asia Tuesday as investors weighed a report that US President Donald Trump is considering ending the war with Iran.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59927109,
-    "published": 1774931852000,
-    "title": "US Labor Department takes step toward including crypto in 401(k)s",
-    "body": "The proposed rule change seeks to enable Americans to invest in products like crypto that better reflect the current investment landscape, Labor Secretary Lori Chavez-DeRemer said.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59927410,
-    "published": 1774935975000,
-    "title": "New US Rule Seeks to Open $8T Retirement Market to Crypto",
-    "body": "The safe harbor proposal would allow 401(k) managers to offer crypto-linked funds with stronger legal protections.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Law and Order",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      }
-    ]
-  },
-  {
-    "id": 59927743,
-    "published": 1774936808000,
-    "title": "Bitcoin ‘Absolute Bottom’ Next? Analyst Says BTC’s Final Shakeout Is Near",
-    "body": "As Bitcoin (BTC) retests a crucial level after breaking down of a bearish pattern, an analyst has suggested that the flagship crypto’s final correction before the next bull market could start in the coming days. Related Reading: Ethereum Could Hit $40,000 And Beat Bitcoin, Standard Chartered Says Start Of ‘Final Washout’ Is Days Away In a Monday analysis, market observer Ali Martinez affirmed that Bitcoin’s final leg down before the next bull run could be around the corner based on the flagship crypto’s past cycle’s behavior. The analyst explained that historically, the crossover between BTC’s 50 and 200 Simple Moving Averages (SMAs) has marked the “‘absolute bottom’ of every major cycle since 2014.” Over the past 12 years, whenever these two lines crossed on the three-day chart, it has consistently signaled the start of the “final washout” before the next bull market begins. In 2014, 2018, and 2022, Bitcoin had already declined by 50%-72% from its cycle peaks when the 50- and 200-SMAs crossed. 23-33 days after the crossover, the cryptocurrency continued its correction, retracing another 45%-52% before bottoming. In 2022, “another lower low formed 156 days later, completing the bear structure and opening the door for the next bull market.” Now, Bitcoin has already seen a 52% correction from its October 2025 peak, while the SMAs crossed over on February 27. “As of today, we are exactly 30 days into this signal,” the analyst detailed, adding that “If history ‘rhymes,’ we are likely entering the Final Accumulation Window of this cycle within the next 3 to 6 days.” Martinez noted that while the final leg down could be intimidating, history has shown that the crossover is the “Golden Opportunity” for long-term investors. Based on its 40%-50% “resets,” the analyst suggested two main accumulation zones: the $40,000 and $30,000 levels. Structurally, this setup has historically aligned with the last major downside move before a generational macro bottom forms. (…) The countdown to the next vertical move has begun. Bitcoin Bear Flag Breakdown Confirmed? After closing the week around the $66,000 mark, Bitcoin has surged to the $67,000-$68,000 area to retest a crucial level from below. The flagship crypto has been trading between $62,000-$74,000 for nearly two months, developing a bearish formation during this period. Notably, BTC has formed a bearish flag pattern on the daily timeframe, retesting the formation’s lower and upper boundaries multiple times since early February. Following last week’s correction, the cryptocurrency retraced over 10% from its recent highs to a four-week low of $65,000 on Sunday. Related Reading: The Last Time Bitcoin Sentiment Was This Bad Was 2022, But There Was A Silver Lining Amid this performance, Bitcoin lost the lower boundary of its bear flag formation, risking a second leg down toward lower levels. Analyst Crypto Jelle noted that the cryptocurrency is currently retesting the formation from below after today’s bounce, which could confirm that the pattern’s support has turned into resistance if BTC price is rejected. In addition, the market watcher pointed out that the cryptocurrency’s bear market lows have historically formed below the Fibonacci 0.618 retracement levels, which could place BTC’s bottom below the $57,000 area. “Is this time different? Doubt it,” Jelle concluded. Featured Image from Unsplash.com, Chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|bitcoin bear market|Bitcoin Bottom Signal|Bitcoin bull market|Bitcoin correction|bitcoin price|btc|BTCUSDT|crypto analyst|Crypto analysts|crypto market correction",
+    "keywords": "Crypto|Bittensor|Bittensor (TAO)|Bittensor news|Bittensor price|crypto|crypto market|crypto news|TAO News|TAO price|TAO price analysis|TAOUSDT",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -287,12 +25,6 @@
         "ID": 15,
         "NAME": "BUSINESS",
         "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -302,27 +34,10 @@
       },
       {
         "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59928618,
-    "published": 1774936800000,
-    "title": "Dubai sets formal rules for crypto exchange-traded derivatives",
-    "body": "Dubai’s VARA has set formal rules for crypto exchange-traded derivatives, allowing retail access under suitability checks, margin controls and leverage limits.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
+        "ID": 73,
+        "NAME": "BITTENSOR",
+        "CATEGORY": "BITTENSOR"
+      },
       {
         "TYPE": "122",
         "ID": 211,
@@ -332,17 +47,40 @@
     ]
   },
   {
-    "id": 59929117,
-    "published": 1774939953000,
-    "title": "Bitcoin demand falters as 'real' interest rates surge",
-    "body": "Rising U.S. real yields, especially on 10-year TIPS, pose a headwind to zero-yielding risk assets like bitcoin.",
-    "sentiment": "NEGATIVE",
+    "id": 59959459,
+    "published": 1775014711000,
+    "title": "Regulatory Clarity Can Unlock Tokenization For Small Enterprises",
+    "body": "At a recent Congressional hearing, Plume's Salman Banaei explored tokenization for SMEs, Minority Depository Institutions, Community Development Financial Institutions.",
+    "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
+    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
     "lang": "EN",
     "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
+      "name": "Forbes Digital Assets",
+      "source_key": "forbes",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 63,
+        "NAME": "OTHER",
+        "CATEGORY": "OTHER"
+      }
+    ]
+  },
+  {
+    "id": 59959983,
+    "published": 1775015881000,
+    "title": "Ethereum Price Recovery Picks Up, Is a Breakout Now Brewing?",
+    "body": "Ethereum price started a steady recovery wave above $2,000. ETH is now consolidating above $2,050 and might aim for more gains. Ethereum started a decent upward move from the $1,935 zone. The price is trading above $2,020 and the 100-hourly Simple Moving Average. There was a break above a key bearish trend line with resistance at $2,060 on the hourly chart of ETH/USD (data feed via Kraken). The pair could start a fresh decline if it stays below the $2,150 resistance. Ethereum Price Attempts Recovery Ethereum price failed to stay above $2,050 and extended losses, like Bitcoin . ETH price dipped below $2,020 and $2,000 to enter a bearish zone. Finally, the bulls appeared near $1,935. A low was formed at $1,936, and the price is now recovering losses. There was a move above the $2,050 resistance. The price cleared the 50% Fib retracement level of the downward move from the $2,198 swing high to the $1,936 low. Besides, there was a break above a key bearish trend line with resistance at $2,060 on the hourly chart of ETH/USD. Ethereum price is now trading above $2,020 and the 100-hourly Simple Moving Average . If the bulls remain in action above $2,020, the price could attempt another increase. Immediate resistance is seen near the $2,120 level. The first key resistance is near the $2,150 level or the 76.4% Fib retracement level of the downward move from the $2,198 swing high to the $1,936 low. The next major resistance is near the $2,200 level. A clear move above the $2,200 resistance might send the price toward the $2,250 resistance. An upside break above the $2,250 region might call for more gains in the coming days. In the stated case, Ether could rise toward the $2,320 resistance zone or even $2,350 in the near term. Another Decline In ETH? If Ethereum fails to clear the $2,120 resistance, it could start a fresh decline. Initial support on the downside is near the $2,050 level. The first major support sits near the $2,020 zone. A clear move below the $2,020 support might push the price toward the $1,980 support. Any more losses might send the price toward the $1,950 region. The main support could be $1,880. Technical Indicators Hourly MACD – The MACD for ETH/USD is gaining momentum in the bullish zone. Hourly RSI – The RSI for ETH/USD is now above the 50 zone. Major Support Level – $2,050 Major Resistance Level – $2,150",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "ETH|ethbtc|ethereum|ethusd|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
       "source_type": "RSS"
     },
     "category_data": [
@@ -354,125 +92,389 @@
       },
       {
         "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59930239,
-    "published": 1774941115000,
-    "title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
-    "body": "Prediction markets are facing increasing scrutiny over allegations of insider trading, prompting Kalshi and Polymarket to plan guardrails to curb potential incidents.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      }
-    ]
-  },
-  {
-    "id": 59931576,
-    "published": 1774945800000,
-    "title": "Crypto investment firm Keyrock valued at $1.1 billion in Series C led by SC Ventures",
-    "body": "The Brussels-based digital asset firm said the new capital will bolster its balance sheet and support expansion and acquisitions.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Finance|Exclusive|Crypto Trading|Market Makers|Keyrock|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59932404,
-    "published": 1774947727000,
-    "title": "Hashdex’s diversified crypto ETF adds options for hedging, income generation",
-    "body": "Options on Hashdex’s diversified NCIQ ETF now let investors hedge, generate income and manage risk across a broad basket of digital assets.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Options|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59932361,
-    "published": 1774947646000,
-    "title": "Is XRP Quietly Being Accumulated? Data Suggest Bulls May Be Positioning",
-    "body": "XRP may be showing one of the cleaner accumulation signals in an otherwise weak altcoin market, according to CryptoQuant analyst Darkfost, who pointed to a pickup in Binance outflow transactions as the token continues to trade inside a narrow multi-month range. XRP Flashes This Bullish Signal The setup matters because XRP has held between roughly $1.30 and $1.50 for several months even as broader market conditions have remained difficult, particularly for altcoins. In Darkfost’s reading, that sideways stretch is not just stagnation. It may also be a period in which buyers are quietly repositioning. “Despite difficult conditions for the crypto market, and especially for altcoins, some assets are still showing a certain degree of resilience,” Darkfost wrote. “This is particularly the case for XRP, which has been trading in a well-defined range for several months, oscillating between $1.30 and $1.50. While the asset is still trading more than 60% below its last all-time high, some investors appear to be taking advantage of this consolidation phase to gradually accumulate.” Related Reading: XRP Nears Key Turning Point As Descending Wedge Tightens The chart shared via CryptoQuant focuses on Binance exchange outflow transactions, broken down by XRP size bands. The clearest shift appears from late February onward, when the number of withdrawals begins to rise sharply after a quieter stretch earlier in the quarter. Several sessions printed more than 4,000 outflow transactions, while some spikes came close to 6,000 in a single day. That detail matters because exchange outflows are commonly read as a sign that holders are moving tokens off trading venues and into other wallets, often for storage rather than immediate sale. It is not a perfect one-to-one measure of conviction, but in market structure terms it usually points more toward accumulation than distribution. Darkfost argued that the composition of those flows is just as important as the headline number. “It is also worth noting that most of this activity is driven by transactions ranging between 1,000 and 100,000 XRP, which typically corresponds to mid-sized investors rather than very large whales,” he said. “This type of activity is generally interpreted as a positive signal. An increase in outflow transactions often suggests that investors are withdrawing their tokens from exchanges to hold them elsewhere, which can indicate a gradual accumulation phase.” Related Reading: XRP Ecosystem Enters Regulated UAE Market With Historic Approval That leaves XRP in an interesting spot. The price action itself still looks rangebound rather than impulsive, and the white line on the chart shows no decisive breakout yet. But the underlying behavior on Binance suggests that some market participants are using this period of compression to build positions instead of exiting. The distinction is important. A market can trade sideways for weeks or months without saying much on its own. Sideways price action paired with rising exchange withdrawals, however, gives that same range a different interpretation. It suggests the balance between available sell-side liquidity and long-term holding behavior may be shifting, even if that shift has not yet translated into a clean price expansion. For now, the main question is the one Darkfost raised directly: whether this accumulation phase is strong enough to push XRP out of its current band and “potentially reignite a bullish trend in the coming months.” Until that happens, the range remains intact. But if outflows continue to climb while price holds steady, traders will likely keep watching for signs that the consolidation is less a ceiling than a base. At press time, XRP traded at $1.32. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "XRP News|xrp|XRP Binance data|xrp news|XRP On-Chain Data|XRP Price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 25,
         "NAME": "EXCHANGE",
         "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59961886,
+    "published": 1775020751000,
+    "title": "These catalysts could bump bitcoin as Trump hands three-week target to end Iran war",
+    "body": "Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a $6.2 trillion advisory channel.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59962264,
+    "published": 1775019140000,
+    "title": "New Hampshire’s Bitcoin-backed bond gets Moody's rating",
+    "body": "Moody's assigned a provisional Ba2 rating to New Hampshire’s bond project, placing it below investment grade, as it cited Bitcoin’s volatility.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Latest News",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59962932,
+    "published": 1775023249000,
+    "title": "Recent Bitcoin Rally Saw Retail Shift To Selling, Glassnode Reveals",
+    "body": "On-chain analytics firm Glassnode has revealed how the smaller Bitcoin investor cohorts shifted toward distribution in the recent rally. Bitcoin Accumulation Trend Score Shows Selling From Small Entities In a new post on X, Glassnode has talked about the recent trend in the Bitcoin Accumulation Trend Score. This on-chain indicator basically tells us about whether BTC investors are accumulating or distributing right now. The metric accounts for two factors when calculating its value: the 30-day balance changes happening in the wallets of the investors and the size of those wallets. The latter factor means that larger entities have a higher weightage in the score. Related Reading: Dogecoin Still Trapped In Triangle—29% Move Brewing? When the value of the indicator is greater than 0.5, it means the investors are in a phase of accumulation. The closer is the metric to 1, the stronger is this behavior. On the other hand, the Accumulation Trend Score being under 0.5 suggests distribution is dominant, with the strongest selling occurring at the zero mark. In the context of the current topic, the Accumulation Trend Score of the collective network isn’t of interest, but rather the Wallet Size version, which showcases the behavior of the various investor cohorts divided based on balance size. Below is the chart shared by Glassnode that shows the trend in the Bitcoin Accumulation Trend Score by Wallet Size over the last few months. From the graph, it’s visible that the Bitcoin Accumulation Trend Score took on a shade of blue for some of the groups during February, suggesting investors of various sizes were accumulating. In March, however, distribution has become dominant, with holders across the board participating in no or little accumulation. Two cohorts in particular stand out for their behavior: the below 1 BTC and 1 to 10 BTC ones. These groups, which correspond to the smallest of investors in the market, took to heavy distribution at the start of March, with the Accumulation Trend Score hitting close to zero. From the chart, it’s visible that BTC’s surge toward $76,000 was met with continued selling from these groups, suggesting that the retail hands were exiting alongside the recovery. Recently, BTC’s recovery has retraced, but behavior among the below 1 BTC and 1 to 10 BTC cohorts hasn’t changed. That said, the 1,000 to 10,000 BTC group has seen the metric just edge past the neutral zone, a sign that the whales are participating in some accumulation. Related Reading: OG Bitcoin On-Chain Models Could Hint At $46,000-$54,000 Floor: Analyst On the whole, though, Bitcoin holder behavior remains largely that of distribution. “Broad-based accumulation across wallet sizes remains absent, limiting the sustainability of upward moves,” noted the analytics firm. BTC Price Bitcoin has stayed down since its latest plunge as its price has continued to trade around $66,700. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Accumulation Trend Score|bitcoin rally|Bitcoin retail|Bitcoin Selling|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59962930,
+    "published": 1775023175000,
+    "title": "The first winners of the quantum crypto debate are already clear – and some of them are up 50%",
+    "body": "The so-called quantum-resistant coins rally as traders switch to potential long-term security.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|Bitcoin News|Ethereum News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59963754,
+    "published": 1775023965000,
+    "title": "Bitcoin’s drawdown is ‘less dramatic’ this cycle, Fidelity says",
+    "body": "A shallower Bitcoin trench than previous cycles \"indicates a maturing market with reduced volatility and stronger institutional confidence,\" said Nick Ruck, director of LVRG Research.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Latest News",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59964389,
+    "published": 1775026810000,
+    "title": "Expert Finds Prime Bitcoin Buy Zone Below $60,000, Supported By This Vital Indicator",
+    "body": "A new analysis released by CryptoQuant, written by contributor CryptoMe, suggests that Bitcoin (BTC) may still have room to fall this year, and that the collapse could give the ideal purchasing opportunity for long-term investors. Bitcoin Bottom At $54,000? In a Monday report, CryptoMe highlighted the cryptocurrency’s Realized Price indicator as a key reference point and argued that periods when spot prices dip at or below that level have historically been attractive accumulation zones. The Bitcoin Realized Price is, in simple terms, the market’s average cost basis: the price paid for all coins in circulation weighted by when they last moved. Notably, this Bitcoin metric has frequently acted as meaningful support during past bear markets. Related Reading: XRP Price Alert: Expert Predicts $0.80 On Bitcoin’s Potential Retreat To $60,000 When Bitcoin spot prices drop below the Realized Price indicator, the analyst says, the market is often in a state of capitulation — characterized by negative news, extreme fear, and pervasive pessimism. Bitcoin’s Realized Price sits at roughly $54,000, compared with a market price near $67,000 at the time of writing— a gap of about 19.4% between these levels. CryptoMe argues that if the cryptocurrency were to fall to the Realized Price or below, that area would be a potential market bottom in the current bear cycle, and an optimal zone for spot purchases and step‑by‑step accumulation. Prepare For Drawdowns CryptoMe also reminded investors of two important caveats. First, historical episodes show that when Bitcoin does move beneath the Realized Price, it can remain there for widely varying lengths of time — from as few as seven days to as long as 301 days. The analyst warned prospective buyers at these levels to be prepared for a potentially extended period of underperformance before prices recover. Related Reading: US Labor Department Eyes 401(k) Crypto Access, Bitcoin Considered In New Rule Second, a drop below the Realized Price indicator does not imply a fixed floor: CryptoMe asserts that the broader crypto market may fall further, and investors must be ready for deeper drawdowns. Despite those warnings, the analyst concluded on a bullish note: “Below $54,000, Bitcoin is cheap compared to the market average, and it is a perfect place to make gradual accumulation and collect Bitcoin.” After failing to break through the key resistance level of $76,000 last week, Bitcoin has dropped by almost 12% to its current trading price. This surge in volatility has been linked to increased Middle Eastern tensions and rising oil prices, which have caused investors to withdraw their funds from riskier assets. As a result, Ethereum (ETH), XRP, and Solana (SOL) have all followed Bitcoin’s price movement, falling to crucial support levels. Featured image from OpenArt, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin chart|Bitcoin news|bitcoin price|bitcoin technical analysis|btc|BTC news|btc price|BTCUSDT|crypto|crypto market|crypto news",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59965562,
+    "published": 1775029672000,
+    "title": "Australia passes crypto regulation requiring exchanges to obtain financial services licenses",
+    "body": "Exchanges and custody platforms must obtain financial services licenses within six months under the new framework.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Policy|Australia|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59965893,
+    "published": 1775030451000,
+    "title": "Ethereum Is Flashing a Warning Signal Most Holders Are Ignoring – Here Is What It Says",
+    "body": "Ethereum is holding around $2,000. The level looks like support. The data beneath it suggests the market is not yet being compensated for the risk of being here. A CryptoQuant report tracking risk-adjusted performance on Binance has identified a reading that holders should not dismiss: Ethereum’s Sharpe-like ratio currently stands at approximately -0.0012, while the 30-day average return has turned negative at -0.00039. Both figures are small. Neither is insignificant. Together they describe a market in which the risk of holding ETH is currently exceeding the return it is generating — the precise condition that precedes either a capitulation or a reset. The message the data is sending is specific. At $2,000, Ethereum is not in freefall. It is in a phase where price stability is masking a deterioration in the quality of the risk-reward equation beneath the surface. The asset is not rewarding its holders. It is testing their patience. Related Reading: Binance Inflows Suggest Money Is Starting to Move Back Into Crypto – Find Out What Changed That distinction matters more than the price level itself. A market that stabilizes while its risk-adjusted returns remain negative is not recovering. It is consolidating the conditions for its next move — and the data does not yet indicate which direction that move will be. Stability at $2,000 Is Not the Same as Strength at $2,000 The report draws a distinction that the price chart alone cannot make. Ethereum holding around $2,000 looks like resilience from the outside. The risk-adjusted data describes something more complicated: a market in which price has stabilized but returns have not recovered, leaving holders exposed to risk that their positions are not compensating them for. The Sharpe-like ratio is the instrument that makes that gap visible. Above zero, it signals that returns are outpacing risk — the condition that defines a healthy, rewarding market environment. Below zero, as it is now at -0.0012, it signals the opposite: risk is running ahead of return, and the market is effectively charging its participants for the privilege of staying in it. Combined with a 30-day average return of -0.00039, the picture is consistent. Ethereum is not punishing holders with sharp losses. It is quietly eroding the case for being here. Related Reading: XRP Holders Are Pulling Coins Off Exchanges – History Points To A Strong Move The report identifies what this phase typically represents. Reduced speculative activity, weaker liquidity flows, and sideways price action within a stable range are the hallmarks of a transitional period — the market moving laterally before committing to a direction. That direction is what the data cannot yet provide. What it can confirm is that the transition is not over, and that a $2,000 holding is a necessary condition for recovery, not evidence that recovery has begun. Ethereum Struggles Below Key Averages as Range Tightens Ethereum is trading near the $2,000 level, stabilizing after a sharp breakdown that defined February’s price action. The chart shows a clear loss of structure from the $3,000 region, followed by a violent selloff and a transition into a tight consolidation range between roughly $1,850 and $2,200. From a trend perspective, ETH remains weak. Price is still trading below the 50-day and 100-day moving averages, both trending downward, signaling persistent bearish momentum. The 200-day moving average, positioned near the $3,000 region, continues to act as a distant macro resistance, reinforcing the broader downtrend. Related Reading: An XRP Key Indicator Just Flipped Bullish — and Most Traders Are Not Watching It Recent attempts to reclaim higher levels have failed. The bounce toward the $2,300 area was rejected, confirming that sellers are still active on rallies. At the same time, the repeated defense of the $1,850–$1,900 zone suggests that buyers are absorbing supply at lower levels, preventing further breakdown. Volume provides additional context. The largest spike occurred during the selloff, indicating capitulation or forced liquidations. Since then, activity has normalized, pointing to a market in rebalancing mode rather than expansion. Structurally, Ethereum is compressing. A break above $2,200 is needed to shift momentum, while losing $1,850 would likely trigger another leg down. Featured image from ChatGPT, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|ETH|ethereum|Ethereum Analysis|ethereum news|ethereum price|ethereum technical analysis|ethereum trading|ETHUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 74,
+        "NAME": "BNB",
+        "CATEGORY": "BNB"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59966367,
+    "published": 1775031561000,
+    "title": "Strategy's STRC keeps dividend payout steady at 11.5% after seven straight increases",
+    "body": "The perpetual preferred yield holds at 11.5% for April as the 30-day volume weighted average price stabilizes near $100.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Markets|MicroStrategy|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 59967244,
+    "published": 1775034053000,
+    "title": "Analyst Forecasts More Pain For XRP In Q2 – How Much Lower Can It Go?",
+    "body": "As we approach the end of 2026’s first quarter, a crypto market watcher has shared a bearish outlook for XRP, warning that the altcoin’s correction may not be over yet, and it risks a deeper pullback in the next few months. Related Reading: Bitcoin ‘Absolute Bottom’ Next? Analyst Says BTC’s Final Shakeout Is Near XRP Risks 60% Correction In Second Quarter On Tuesday, XRP continued to move sideways, hovering between $1.30 and $1.35 for the fifth consecutive day. The cryptocurrency has been trading between two crucial levels, $1.21 and $1.55, for nearly two months. Markey observer More Crypto Online highlighted that since the early February correction, there hasn’t been any major price action, as the altcoin has been unable to break out of its local range. However, he noted that XRP has held the lower boundary of this key range, despite market volatility, adding that it is a crucial support zone and decision area for the cryptocurrency. According to the analysis, the next significant move will define the structure and “determine whether a more bullish scenario remains valid or a deeper correction unfolds.” He explained that XRP’s current structure suggests a more bearish scenario is likely short- to mid-term, with a “more complex ABC structure” potentially unfolding unless the market “really starts an impulse rally.” In this scenario, the cryptocurrency may bounce into a crucial resistance area, between $1.76 and $2.86, for its B wave in the coming weeks before the price continues to retrace to lower levels for Wave C. This key resistance area requires close attention, the analyst asserted, as there is a possibility of a bounce into it if the February lows hold. He concluded that “If it’s a corrective move up, which currently would be the expectation, (…) in Q2 we may see a bit of a bounce, (…) and then maybe in late Q2 or early Q3, we could see that C wave down.” Per the chart, this correction could situate XRP’s bottom between the $0.98 and $0.48 levels, which would represent a 30% to 60% pullback from the current levels. Early Q2 Relief Rally Coming? Meanwhile, Chard Nerd shared a similar outlook, affirming that XRP may rally to $1.80-$2.00 in the coming months. The analyst has explained that the altcoin could see a relief rally between April and May, which could mark a very critical inflection point, based on its previous performances. Notably, after peaking in previous cycles, the altcoin has fallen to retest the 200-week Exponential Moving Average (EMA), before seeing a relief rally toward the 20 and 50 EMAs. This has been followed by a rejection and a drop to its bear market lows. Related Reading: Crypto CEO Sounds Warning: If Bitcoin Price Falls Below This Level, The Bear Market Will Worsen The market observer shared that he had expected the relief rally to occur sooner, but noted that the cryptocurrency has been consolidating around its 200 EMA for weeks. This could signal that the retest of this indicator may last longer than in the previous cycle and that the 20 and 50 EMA retests could unfold later. “XRP is hovering around the 200-week EMA. There have been major relief rallies we’ve seen in the past, which means we could get that, but it likely will be followed by another low later in the year (…) between that $0.90 to $0.70 region. (…) This is where we’re trying to get to before continued expansion,” he concluded. Featured Image from Unsplash.com, Chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Cryptocurrency Market News|crypto analyst|crypto bear maker|crypto market correction|Crypto trader|xrp|XRP bearish prediction|XRP breakdown|XRP prediction|XRP Price|XRP relief rally|xrpusdt",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
       },
       {
         "TYPE": "122",
@@ -501,10 +503,10 @@
     ]
   },
   {
-    "id": 59933251,
-    "published": 1774947861000,
-    "title": "F2Pool co-founder says Thailand condo bought for 2,900 Bitcoin sold for 7",
-    "body": "F2Pool co-founder Wang Chun’s decision to sell a Thai condo once bought for 2,900 BTC for just 7 BTC illustrates the opportunity cost of spending Bitcoin early.",
+    "id": 59968381,
+    "published": 1775036184000,
+    "title": "US crypto wash trading case reaches court as three extradited, 10 charged",
+    "body": "Extraditions of executives from market makers Vortex, Contrarian, Gotbit and Antier mark the latest step in a multi‑agency effort targeting alleged “market‑manipulation‑as‑a‑service.”",
     "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "Latest News",
@@ -517,9 +519,15 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -530,13 +538,54 @@
     ]
   },
   {
-    "id": 59933726,
-    "published": 1774950768000,
-    "title": "Google Says End For Bitcoin Is Near? Quantum Computers Could Attack Crypto This Soon",
-    "body": "It sounds out of a sci-fi video game, but new research suggest quantum attackers could break Bitcoin’s blockchain and steal coins mid-transaction sooner than it was originally expected. Is Doomsday Near For Bitcoin? A new whitepaper and blogpost published on Tuesday by Google’s Quantum AI team claims that Bitcoin and Ethereum’s cryptography can be broken with fewer than 500,000 physical qubits and roughly 1,200 “logical” qubits, far below the “millions” that used to be cited. Related Reading: Hyperliquid’s Tokyo Edge Exposed — Secret Time Gap Is Tilting The Market Most blockchains and cryptocurrencies protect wallets and transactions using 256‑bit elliptic curve cryptography (a very strong mathematical lock) based on the discrete logarithm problem (ECDLP‑256). The research points at a significant decreased in the resources needed to break the ECDLP-256. The blog post says: We estimate that these circuits can be executed on a superconducting qubit CRQC with fewer than 500,000 physical qubits in a few minutes, given standard assumptions about hardware capabilities that are consistent with some of Google’s flagship quantum processors. This is an approximately 20-fold reduction in the number of physical qubits required to solve ECDLP-256 and a continuation of a long history of gradual optimization in compiling quantum algorithms to fault-tolerant circuits. “Cryptographically-relevant quantum computers (CRQS) pose a threat to widely deployed public-key cryptography”, the whitepaper claims. Instead of attacking wallets, the research models a live attack where a quantum adversary could steal bitcoin mid‑transaction in about 9 minutes by quickly using the briefly revealed public key to calculate the private key, giving a 41% chance of beating Bitcoin’s 10‑minute block time. In this sense, Ethereum might be less vulnerable than Bitcoin, as it confirms its transactions faster. The Culprit: Taproot This results put Taproot, Bitcoin’s 2021 upgrade, in a different perspective. Although Taproot boosted privacy and efficiency, it started exposing public keys on‑chain by default, stripping away the “hash-first” protective layer that older address formats had. Therefore, it has widened the pool of quantum‑exposed coins to about 6.9 million BTC, including Satoshi‑era and heavily reused addresses. A quantum computer is a computer that uses the rules of quantum physics to process information in ways normal computers can’t. Instead of bits that are either 0 or 1, it uses qubits, which can be 0, 1, or a blend of both at the same time, letting the machine explore many possibilities in parallel. Classical computers explore possibilities one‑by‑one (even if very fast). This means that, for certain math problems (like factoring huge numbers used in cryptography), a powerful quantum computer could solve in minutes what would take a classical supercomputer longer than the age of the universe. What This Means For Concerned Traders Despite it is true that no such machine exists yet, earlier this month Google set 2029 as an internal deadline for post‑quantum migration, compressing the perceived timeline for “Q‑day.” Researchers warn that post-quantum migration will take years, even if the hardware is not here yet. Related Reading: Over Half Of US Crypto Users Don’t Understand This Scary Tax Rule On the social network X, some users have already expressed their quantum panic. Coin Metric co-founder and Bitcoin advocate Nic Carter highlighted another paper released today from Oratomic, Caltech and UC Berkeley, showing quantum computers can break crypto with just 10,000 reconfigurable atomic qubits. and the craziest thing is that the Google Quantum AI paper (above) is maybe not even the most concerning quantum paper released _today_https://t.co/mSZi5Lk7do — nic carter (@nic_carter) March 31, 2026 Roughly one‑third of Bitcoin’s supply is now modeled as potentially quantum‑exposed over a long enough horizon, which could change how desks value old coins, Taproot usage and address‑reuse hygiene. Traders should watch for Taproot adoption metrics, progress or gridlock around BIP‑360‑style upgrades, and whether Bitcoin devs move toward a dated migration plan as Google’s 2029 clock ticks louder. At the moment of writing, BTC trades for the highs $66k. Source: BTCUSD on Tradingview Cover image from Perplexity, BTCUSD chart from Tradingview",
-    "sentiment": "NEGATIVE",
+    "id": 59968822,
+    "published": 1775037932000,
+    "title": "Bitcoin ETFs post first monthly inflows since October as price stabilizes",
+    "body": "ETF AUM fell just 7% from the October highs, highlighting resilience despite a 50% price decline.",
+    "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Breaking News Ticker|bitcoin|Bitcoin Quantum Threat|btc|google|quantum computers",
+    "keywords": "Markets|Bitcoin News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59968718,
+    "published": 1775037647000,
+    "title": "Dogecoin Network Comes Alive: Active Addresses Jump 28%",
+    "body": "On-chain data shows the number of active addresses on the Dogecoin network has shot up recently. Here’s what this could mean for the memecoin. Dogecoin Active Addresses Have Risen To 73,000 As highlighted by analyst Ali Martinez in a new post on X, Dogecoin has seen a surge in Active Addresses recently. This on-chain indicator keeps track of the total amount of addresses that are coming online on the blockchain every day. An address is said to be online when it participates in some kind of transaction activity, whether as a sender or receiver. Thus, the Active Addresses metric measures the daily number of DOGE wallets taking part in transfers. When the value of this indicator rises, it means more investors are using the network every day. Such a trend suggests users are being attracted to the cryptocurrency. Related Reading: Recent Bitcoin Rally Saw Retail Shift To Selling, Glassnode Reveals On the other hand, the indicator going down can imply traders are losing interest in the blockchain as fewer of them are participating in network transaction activity. Now, here is the chart shared by Martinez that shows the trend in the Dogecoin Active Addresses over the last few days: As displayed in the above graph, the Active Addresses indicator has witnessed a surge for Dogecoin over the past week. More specifically, the metric has gone from 57,000 to 73,000 inside this window, representing a notable increase of 28%. Related Reading: Dogecoin Still Trapped In Triangle—29% Move Brewing? Generally, higher user participation can make the cryptocurrency’s price more volatile, as more users potentially mean fuel for larger price moves. As such, considering the uptick in interest that DOGE has witnessed recently, it’s possible that its price could show sharp action in the near future. Though, for now, the memecoin is continuing to show consolidation. DOGE Has Been Stuck In Sideways Movement Dogecoin has displayed stale price action since the crash at the start of February, with all deviations eventually collapsing back into the same consolidation range. As the below chart shows, the memecoin is currently trading around $0.0926, which is about where the memecoin has returned time and again during the phase of sideways movement. The consolidation isn’t something unique to Dogecoin; the digital asset sector as a whole has struggled to find a direction in the same period. Bitcoin, for example, is still trading below the $70,000 level. The market has made some attempts at recovery already, but each one has fizzled out. A reason behind this prolonged consolidation is the uncertainty due to the war situation in Iran. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Dogecoin|doge|Dogecoin active addresses|Dogecoin Activity|dogeusdt",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -558,15 +607,15 @@
       },
       {
         "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
+        "ID": 20,
+        "NAME": "DOGE",
+        "CATEGORY": "DOGE"
       },
       {
         "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -577,32 +626,43 @@
     ]
   },
   {
-    "id": 59934860,
-    "published": 1774953298000,
-    "title": "Bearish sentiment builds in crypto as volatility and hedging rise",
-    "body": "Bitcoin’s brief rally faded amid war-driven oil price surge, rising volatility and declining futures interest, signaling growing caution across crypto markets.",
+    "id": 59968677,
+    "published": 1775037559000,
+    "title": "DOJ Charges 10 Foreign Nationals Over Crypto ‘Wash Trading’ Scheme",
+    "body": "Federal grand juries have indicted ten individuals tied to alleged pump-and-dump schemes, following an FBI undercover operation.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Markets|Crypto Markets Today|News",
+    "keywords": "||Law and Order",
     "lang": "EN",
     "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
+      "name": "Decrypt",
+      "source_key": "decrypt",
       "source_type": "RSS"
     },
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      }
+    ]
+  },
+  {
+    "id": 59970045,
+    "published": 1775034839000,
+    "title": "Zodia Markets CEO Ahmad Departs StanChart-Backed Crypto Firm",
+    "body": "The chief executive officer of Standard Chartered Plc’s crypto trading subsidiary Zodia Markets Holdings Ltd. has left the firm, people with knowledge of the matter said.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "LSE:STAN",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
       {
         "TYPE": "122",
         "ID": 37,
@@ -624,13 +684,48 @@
     ]
   },
   {
-    "id": 59934760,
-    "published": 1774953038000,
-    "title": "Crypto CEO Sounds Warning: If Bitcoin Price Falls Below This Level, The Bear Market Will Worsen",
-    "body": "The Bitcoin price is approaching a decisive moment, according to the head of a major crypto analytics firm. A clearly defined price threshold has been identified, and falling below it could accelerate the current downturn. The warning centers on how both market structure and investor behavior may shift if this level fails, raising concerns about a deeper and more aggressive bear phase. Crypto CEO Flags A Critical Bitcoin Price Level Joao Wedson, founder of the crypto analytics platform called “Alphractal”, has issued a warning about a critical price level that could shape the next phase of the Bitcoin market. According to Wedson, $60,490 represents the realized price of Binance’s Bitcoin reserve, effectively the average cost basis of the exchange’s entire BTC holdings. Related Reading: What Happens To The XRP Price If The 5D Bottoming Blueprint Repeats Itself? As long as Bitcoin trades above this level, Binance’s reserve remains in profit. However, a sustained drop below $60,490 would push the largest exchange-held Bitcoin reserve into unrealized loss. In practical terms, that shift would mean the bulk of BTC held on Binance was acquired at higher prices than the current market value. This is why Wedson views the level as more than just another technical support. Realized price metrics tied to large reserves often function as structural market boundaries. When the price holds above them, it signals that major holders remain comfortably in profit and have little pressure to distribute their coins. That dynamic can help stabilize the market during periods of volatility. But the structure changes if that threshold breaks. Wedson noted a similar scenario in the 2022 bear market, when Bitcoin stayed below Binance’s reserve realized price for months. During that time, large holders faced unrealized losses, keeping downward pressure on the market. This matters because holders in profit are less likely to sell, but once losses appear, selling pressure can rise as they seek to limit further downside. Because Binance controls the largest Bitcoin reserve among exchanges, the $60,490 level carries broader market implications. If Bitcoin loses this zone decisively, it would remove a key profitability cushion for one of the market’s largest holders. According to Wedson, that type of structural shift is exactly the kind of development that tends to deepen bear markets. Related Reading: If Bitcoin Should Be Worth $280,000 Right Now, What’s The Real Value Of Dogecoin And XRP? How Market Psychology Could Amplify The Downtrend The implications extend beyond institutional positioning to overall market sentiment. A decisive break below the identified level could weaken confidence among participants, reinforcing negative expectations. As sentiment shifts, more investors may adopt defensive strategies, contributing to additional selling pressure. This interaction between price movement and psychology creates a feedback loop. Declines can trigger fear, which in turn leads to further declines. Wedson’s warning highlights how this cycle could intensify if the key level fails. However, he believes that if Bitcoin holds above it, the market may retain a degree of stability. If it falls below, the conditions described point toward a deepening bear market. Featured image created with Dall.E, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
+    "id": 59970201,
+    "published": 1775041263000,
+    "title": "Crypto Fund Manager CoinShares Begins Trading on Nasdaq via SPAC Deal",
+    "body": "European crypto asset manager CoinShares positions for U.S. expansion as institutional players consolidate market share against Wall Street giants.",
+    "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT",
+    "keywords": "||Markets",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59970889,
+    "published": 1775043049000,
+    "title": "The Last Time XRP Made This Move Against Bitcoin, It Led To A 500% Increase To $3.3",
+    "body": "In its 12-year history, the XRP price has formed various trends, some of them bullish and some of them bearish. Each one has led to its own unique trend that seems to have sustained through time, thus prompting investors to turn to historical performance as a possible way to predict where the XRP price might be headed next. Recently, another historical trend has emerged as one analyst charts the altcoin’s performance against that of Bitcoin and how it has reacted in the past. XRP Breakout Again, Bitcoin Always Leads To A Triple-Digit Rally Back in 2024, crypto analyst Javon Marks had highlighted that the XRP price had broken out against Bitcoin. This was important because the XRP price breaking out against the leading cryptocurrency had always led to a major rally, and Marks expected this to repeat itself. Related Reading: The Crowd Is Bearish On Bitcoin, But History Says That’s Bullish True to form, following the breakout, the XRP price had begun to rally hard, and while the analyst had previously predicted a 243% increase, the resulting rally was much better. By the time that the XRP price hit its cycle peak in 2025, it had rallied by more than 500%. This made a confirmation that the trend was strong and followed the same trajectory. Fast forward to 2026, and the crypto analyst has pointed out the same trend again. The only difference is that this time around, the trend seems to be much stronger. XRP is already breaking out against Bitcoin, but the current breakout is the result of an even larger setup, suggesting that the result from this would be even more significant. If the current trend against Bitcoin plays out as it has in the past, then Javon Marks is predicting another triple-digit rally. This would be even more significant than the previous 500% rally, with the crypto analyst predicting that the XRP price could rise 635%. Such an increase would put the XRP price above the $10 level, in line with the predictions of other crypto analysts for the cryptocurrency. At the same time, this would lead to XRP losing a zero against Bitcoin, going from 0.00002 BTC to over 0.00014 BTC. Related Reading: Bitcoin Last Line Of Defense Revealed: Can BTC Price Still Go To $40,000? For now, the focus remains on the $1.5 level, where there seems to be significant resistance building up for the cryptocurrency. Breaking this resistance with momentum would likely set the altcoin on the path to the next rally. Featured image from Dall.E, chart from TradingView.com",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "XRP|Ripple|ripple news|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -640,21 +735,15 @@
     "category_data": [
       {
         "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
         "ID": 14,
         "NAME": "BTC",
         "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -664,6 +753,12 @@
       },
       {
         "TYPE": "122",
+        "ID": 58,
+        "NAME": "XRP",
+        "CATEGORY": "XRP"
+      },
+      {
+        "TYPE": "122",
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
@@ -671,81 +766,17 @@
     ]
   },
   {
-    "id": 59934899,
-    "published": 1774952236000,
-    "title": "Crypto market maker Keyrock reaches $1.1B valuation in SC Ventures-led round",
-    "body": "Standard Chartered’s venture arm led the round as Keyrock looks to expand products, pursue acquisitions and scale its global footprint.",
+    "id": 59970759,
+    "published": 1775042654000,
+    "title": "Brazil's B3 exchange to offer bitcoin-linked 'event contracts' for the ultra-rich",
+    "body": "The contracts are regulated by Brazil's securities regulator and designed for professional investors with at least 10 million reais ($1.9 million) in assets.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 59935637,
-    "published": 1774954994000,
-    "title": "Quantum computers could break crypto wallet encryption with just 10,000 qubits, researchers say",
-    "body": "The research shows quantum computers may break bitcoin and ether wallet encryption with far fewer qubits than previously thought, accelerating the push toward post-quantum security.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Markets|News",
+    "keywords": "Markets|Brazil|Crypto Trading|News",
     "lang": "EN",
     "source_data": {
       "name": "CoinDesk",
       "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59935798,
-    "published": 1774954800000,
-    "title": "Cross River Raises $50 Million to Expand Further Into AI, Crypto",
-    "body": "Cross River Bank has tapped existing investors for $50 million in fresh capital, as the fintech-focused lender doubles down on artificial intelligence and cryptocurrency, according to a statement reviewed by Bloomberg News.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
       "source_type": "RSS"
     },
     "category_data": [
@@ -757,23 +788,23 @@
       },
       {
         "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       }
     ]
   },
   {
-    "id": 59936431,
-    "published": 1774956643000,
-    "title": "CoinDCX plans anti-fraud push after founders cleared in impersonation case",
-    "body": "After an Indian court found no case against CoinDCX’s founders, the Coinbase-backed exchange said it will roll out an anti-fraud network to tackle impersonation and cyber fraud.",
+    "id": 59971094,
+    "published": 1775041126000,
+    "title": "Australia passes digital asset bill bringing crypto platforms under licensing",
+    "body": "Australia passes a law requiring crypto exchanges and custodians to obtain financial services licenses as the country moves to regulate digital asset platforms.",
     "sentiment": "POSITIVE",
     "score": 0,
     "keywords": "Latest News",
@@ -786,20 +817,219 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
   {
-    "id": 59936580,
-    "published": 1774957214000,
-    "title": "Forex startup OpenFX raises $94 million to expand stablecoin-powered cross-border payments",
-    "body": "The company acts as a bridge between traditional banking and digital assets, enabling faster and cheaper foreign-exchange conversions for businesses moving large sums of money.",
+    "id": 59971427,
+    "published": 1775044027000,
+    "title": "Grayscale’s research head says tokenization will happen in waves and explains how to play it",
+    "body": "Investors looking to bet on tokenization should think in phases, with institution-friendly networks like Canton likely winning first and Avalanche, Ethereum capturing more upside later, Grayscale's Zach Pandl said.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Finance|Stablecoins|Funding Rounds|News",
+    "keywords": "Markets|Tokenization|Real World Assets|Ethereum News|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 64,
+        "NAME": "RESEARCH",
+        "CATEGORY": "RESEARCH"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59972543,
+    "published": 1775046600000,
+    "title": "Gen Z turns Bitcoin into a solid portfolio diversifier",
+    "body": "Gen Z embraces Bitcoin despite acknowledged volatility. Younger investors treat crypto risk as portfolio diversification rather than pure speculation.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Opinion",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59973108,
+    "published": 1775048431000,
+    "title": "Ripple’s RLUSD Stablecoin Sits On $1.57 Billion In Reserves: Audit Firm",
+    "body": "As of late March 2026, Ripple’s dollar-pegged stablecoin had 1.41 billion tokens in circulation, backed by roughly $1.57 billion in reserves — a surplus that points to a stablecoin holding more cash than it owes. Related Reading: Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold Deloitte Steps In To Verify The Numbers The bigger validation came weeks earlier. On February 27, Deloitte — one of the world’s largest accounting firms — confirmed that RLUSD held $1.568 billion in reserves against 1.49 billion tokens. The Big 4 firm also checked an earlier snapshot from February 19, when the supply stood at 1.54 billion tokens, backed by $1.60 billion in reserves. Both figures showed the same pattern: more money in reserve than tokens outstanding. The attestation was not a full audit. It was a point-in-time check confirming that reported figures matched reserve assets on those two specific dates. Still, having Deloitte sign off carries weight, especially for a stablecoin still building its track record. What The Regulators Require RLUSD operates under a license from the New York State Department of Financial Services, which sets strict rules on how reserve assets can be held. Issuers must keep funds in segregated accounts and limit their holdings to low-risk instruments. Eligible options include short-term US Treasuries, overnight reverse repurchase agreements, insured bank deposits, and approved money-market funds. According to Deloitte’s report, RLUSD’s reserve structure meets all of those requirements. The NYDFS framework is considered one of the tougher regulatory regimes for stablecoins in the US. Passing that standard — and having it verified by an outside firm — gives institutional users a clearer picture of what backs the tokens they hold. Ripple Follows A Trend Already In Motion Ripple is not alone in going this route. Earlier this year, Tether selected KPMG to examine the reserves behind USDT, its own dollar-pegged token, as part of a push into the US market. Data shows that stablecoin issuers across the board are moving toward third-party verification, driven partly by growing regulatory pressure and in part by competition for trust among large financial institutions. Related Reading: Bitcoin Mining Nationalized? US Senators Float Bold New Reserve-Backed Bill RLUSD remains far smaller than USDT or USDC by market size. But consistent reserve surpluses and a clean regulatory record are exactly the kind of credentials that tend to attract banks and payment firms looking for a stablecoin they can rely on. The numbers check out — now Ripple needs the market to take notice. Featured image from Meta, chart from TradingView",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Altcoin|crypto|Deloitte|Ripple|RLUSD|stablecoin|xrp",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 54,
+        "NAME": "USDT",
+        "CATEGORY": "USDT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59973868,
+    "published": 1775050295000,
+    "title": "CoinDesk 20 performance update: Avalanche (AVAX) gains 4% as index moves higher",
+    "body": "Hedera (HBAR), up 3.6% from Tuesday, was also among the top performers.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "CoinDesk Indices|CoinDesk 20|CoinDesk Indices|charts|Prices|News",
+    "lang": "EN",
+    "source_data": {
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 8,
+        "NAME": "AVAX",
+        "CATEGORY": "AVAX"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 81,
+        "NAME": "HBAR",
+        "CATEGORY": "HBAR"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59973969,
+    "published": 1775050121000,
+    "title": "Hong Kong misses March target for first stablecoin licences",
+    "body": "Hong Kong’s first stablecoin licences failed to materialize by the expected end of March target, with the HKMA saying only that it is still advancing the process.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Latest News",
+    "lang": "EN",
+    "source_data": {
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 6,
+        "NAME": "ASIA",
+        "CATEGORY": "ASIA"
+      }
+    ]
+  },
+  {
+    "id": 59974283,
+    "published": 1775051255000,
+    "title": "Franklin Templeton launches crypto division with 250 Digital acquisition",
+    "body": "The asset manager is creating a new “Franklin Crypto” unit to expand beyond ETFs and target institutional demand for active digital asset strategies.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Finance|News",
     "lang": "EN",
     "source_data": {
       "name": "CoinDesk",
@@ -816,13 +1046,60 @@
     ]
   },
   {
-    "id": 59937037,
-    "published": 1774958402000,
-    "title": "Here Are The Main Levels To Watch After Dogecoin Price Completed A Clean Kumo Rejection",
-    "body": "Dogecoin’s H4 chart has delivered an interesting bearish signal. According to a technical analysis published by popular Dogecoin analyst Trader Tardigrade on X, DOGE has just executed a clean rejection from the Kumo, the cloud resistance zone of the Ichimoku technical indicator. That failure is now shaping the next phase of Dogecoin’s price action. The Kumo Held Firm: What The Rejection Signals The technical chart shows that the Dogecoin price, which has been trading below the Ichimoku cloud, rallied into the lower boundary of the indicator, only to stall and reverse at a strong resistance zone. Related Reading: Pundit Reveals What Would Need To Happen For Dogecoin Price To Hit $10 The rejection occurred as the Dogecoin price attempted to push into the cloud from below on the H4 timeframe into a zone Trader Tardigrade identified as strong resistance in the $0.09512 to $0.09564 range. Price tested the underside of the cloud and was denied, and this led to a downward reversal. The analyst noted that when the cloud holds in this manner, the market typically respects it, adding that the episode was Ichimoku analysis at its finest. The rejection confirms that sellers are still defending the $0.09512 to $0.09564 range very hard. For context, trading below the Kumo places the Dogecoin price in a bearish Ichimoku structure. The rejection served to confirm resistance, while also reaffirming the broader technical regime. Price Levels To Watch Trader Tardigrade’s H4 Ichimoku chart identified two important price levels that will determine whether Dogecoin’s rally will extend further. Related Reading: Legendary Dogecoin Breakout That Could Lead To 2,500% Rally To $2 The first is the Kumo zone, spanning between $0.09512 and $0.09564, which the analyst designates as strong resistance. This is the range that capped the most recent rally and produced the clean rejection. The bearish structure on the H4 chart will stay intact as long as the price is trading below this band. Any push back into this zone should be monitored carefully for another potential rejection. Just below that lies the Kijun-sen at $0.09354, which is labelled as the medium-strength resistance level. This baseline sits just beneath the cloud and is the first meaningful resistance that Dogecoin bulls must clear before any recovery attempt can be taken seriously. A failure to break above $0.09354 on a retest would lead to further downside pressure. At the time of writing, Dogecoin is trading at $0.09087, down by 2.6% in the past 24 hours, meaning it has extended its losses since it encountered a clean Kumo rejection. On the downside, the short-term outlook is for continuation below current price levels following the rejection, with the Ichimoku cloud offering no support levels, given that price is already trading under it. Featured image from Pngtree, chart from Tradingview.com",
+    "id": 59974562,
+    "published": 1775052065000,
+    "title": "Ripple Launches Treasury Management System with Native Digital Asset Capabilities",
+    "body": "The novel platform allows CFOs and their treasury teams to manage fiat and digital assets in a single system, Ripple said.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 26,
+        "NAME": "FIAT",
+        "CATEGORY": "FIAT"
+      },
+      {
+        "TYPE": "122",
+        "ID": 41,
+        "NAME": "REGULATION",
+        "CATEGORY": "REGULATION"
+      },
+      {
+        "TYPE": "122",
+        "ID": 209,
+        "NAME": "DIGITAL ASSET TREASURY",
+        "CATEGORY": "DIGITAL ASSET TREASURY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59975269,
+    "published": 1775053830000,
+    "title": "Crypto Pump‑And‑Dump Era Ends Here? Why DOJ’s New Indictments Should Scare Market Makers",
+    "body": "The U.S. Department of Justice (DOJ) charged ten senior staff and employees at four crypto “market‑making” firms with running fraudulent campaigns designed to pump up both the trading volume and the price of certain digital assets. An FBI Crypto-Trap The charges, announced by the DOJ on a Monday press release, include employees from the firms Gotbit, Vortex, Antier and Contrarian. Three of the defendants were taken into custody in Singapore and extradited to the United States. They appeared before a federal judge in Oakland for the first time on Monday. Two of them were CEO’s at the aforementioned companies. 10 Foreign National Executives and Employees of Four Different Cryptocurrency Financial Services Firms Are Charged by @USAO_NDCA With Orchestrating Fraud Schemes to Artificially Inflate the Trading Volume and Price of Cryptocurrencies. Three defendants, including 2 CEOs, were… — U.S. Department of Justice – International (@USDOJ_Intl) March 31, 2026 The charges arise from an undercover FBI FBI and IRS‑CI operation that began on May 2024, targeting “wash-trading”. The FBI created crypto tokens and then watched these firms fall on the trap as they orchestrated artificial volume and price spikes. Let’s remember that wash trading occurs when the same party effectively trades with itself to manufacture fake volume and liquidity, laying the groundwork for pump‑and‑dump style price manipulation. In a pump-and-dump, organizers hype and artificially drive up a token’s price only to dump their holdings at the top. Related Reading: Google Says End For Bitcoin Is Near? Quantum Computers Could Attack Crypto This Soon According to the announcement, the defendants have been charged in three separate indictments. They are accused of not only working together to jack up trading volume and prices, but then cashing out by dumping those tokens at inflated levels onto unsuspecting investors, turning the schemes into the classic pump‑and‑dump play described before. The scheme also harmed buyers beyond the United States. On top of the three extradited individuals, two co‑defendants have already pled guilty and received sentences from U.S. District Court Judge Araceli Martínez‑Olguín. Authorities have so far seized more than $1 million worth of cryptocurrency. Market Impact And Takeaways For Traders This is not the first time the DOJ charges individuals with wash-trading indictments. On October 2024, 18 individuals and entities were charged in Boston for widespread fraud and manipulation in the cryptocurrency markets. In that case, the charges included the leaders of four cryptocurrency companies, four “market makers” (ZM Quant, CLS Global MyTrade and Gotbit) and employees at those firms. “Fake” volume and manufactured liquidity have been structural features of altcoin markets. The charges suggest the DOJ will treat these patterns like traditional securities fraud and not “quirks” of a new asset class. Related Reading: Bitcoin Range Traps Traders At $65K — Are Long‑Term Holders Finally Surrendering? Traders should keep in mind that high on‑chain or exchange volume in illiquid tokens is now a red flag, especially when tied to thinly documented market‑making agreements. This operation may be followed by more enforcement, which translates into higher legal risk premia on small‑cap tokens, more scrutiny for market makers, and potentially cleaner but thinner liquidity in the short term. If the DOJ ends up completely succeeding here, the “high‑beta casino” corner of crypto could shrink, while compliant venues and assets benefit from a credibility re‑rating over time. At the moment of writing, BTC trades for the highs $68k. Source: BTCUSD on Tradingview Cover image from Perplexity, BTCUSD chart from Tradingview",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Dogecoin|doge|DOGE news|Doge price|Dogecoin news|dogecoin price|dogeusd|dogeusdt|Ichimoku Cloud|kumo|Trader Tardigrade",
+    "keywords": "Cryptocurrency Market News|crypto|crypto crimes",
     "lang": "EN",
     "source_data": {
       "name": "NewsBTC",
@@ -832,9 +1109,9 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 20,
-        "NAME": "DOGE",
-        "CATEGORY": "DOGE"
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
       },
       {
         "TYPE": "122",
@@ -863,133 +1140,11 @@
     ]
   },
   {
-    "id": 59937035,
-    "published": 1774958400000,
-    "title": "Prediction markets backlash builds possible stormcloud for 2027",
-    "body": "Odds favor a Democratic rise in Congress next year, when lawmakers who've begun going after firms such as Kalshi and Polymarket may have greater sway.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "News Analysis|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 59936997,
-    "published": 1774958231000,
-    "title": "Bitcoin Holds $66K as Trump Prioritizes Iran War Exit Over Reopening Hormuz",
-    "body": "Bitcoin held $66,000 as Trump reportedly pivoted to an Iran war exit, with analysts eyeing $90,000 if a potential de-escalation holds.",
+    "id": 59975388,
+    "published": 1775051706000,
+    "title": "Franklin Templeton deepens crypto push with CoinFund spinoff deal",
+    "body": "Franklin Templeton has agreed to acquire CoinFund spinoff 250 Digital to launch Franklin Crypto, a dedicated crypto arm targeting institutional crypto investment management.",
     "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59937253,
-    "published": 1774958543000,
-    "title": "Google warns five quantum attack paths could put $100 billion on Ethereum at risk",
-    "body": "A 57-page whitepaper identifies how future quantum computers could target Ethereum's wallets, smart contracts, staking system, Layer 2 networks and data verification layer, with combined exposure exceeding $100 billion.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Tech|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59937647,
-    "published": 1774959986000,
-    "title": "Google Quantum Paper Boosts Odds of Bitcoin ‘Q-Day’ by 2032, Researchers Warn",
-    "body": "Google warned that quantum advances could break crypto security sooner than expected, with analysts recommending ‘appropriate urgency.’",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59937862,
-    "published": 1774957558000,
-    "title": "Supply chain attack hits Axios npm releases, users urged to rotate keys",
-    "body": "Security companies flagged axios@1.14.1 and 0.30.4 as compromised, urging credential rotation and rollback of affected packages.",
-    "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "Latest News",
     "lang": "EN",
@@ -1001,35 +1156,6 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 59938248,
-    "published": 1774961626000,
-    "title": "Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected",
-    "body": "Google published a paper on March 31 that states that Bitcoin's cryptography could be impacted by quantum computing sooner than previously stated.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
@@ -1037,46 +1163,17 @@
     ]
   },
   {
-    "id": 59938407,
-    "published": 1774962064000,
-    "title": "Uniblock Raises $5.2M to Unify Blockchain Infrastructure",
-    "body": "The platform handles routing and failover for 3,000 projects across more than 300 chains through a single API.",
+    "id": 59975386,
+    "published": 1775051633000,
+    "title": "Strategy set to resume buying Bitcoin via STRC: Will BTC price hit $80K?",
+    "body": "Michael Saylor's Strategy has raised funds to purchase at least 1,111 BTC this week, increasing the odds of sending prices higher in April.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "|Business",
+    "keywords": "Market Analysis",
     "lang": "EN",
     "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      }
-    ]
-  },
-  {
-    "id": 59938349,
-    "published": 1774962008000,
-    "title": "Bitcoin Range Traps Traders At $65K — Are Long‑Term Holders Finally Surrendering?",
-    "body": "Bitcoin’s price is still in range rather than in a full risk‑off spill after a post‑expiry sell‑off, a string of red monthly closes, and geopolitical tensions. Bitcoin Remains Rangebound March 30th QCP Market Colour reports that Bitcoin briefly slipped to around $65k during thin Asian trading (low‑liquidity window where smaller orders can push price around disproportionately). It then snapped back into its usual weekend band between $66k and $67k. Throughout the month, this has been a recurring pattern: price softens into the weekend as traders cut risk, then grinds higher again as the new week begins. Bitcoin will likely stay stuck in its current range as Trump’s 10‑day halt on strikes against Iranian energy assets runs toward its April 6 expiry, a point at which traders are bracing for a possible flare‑up. Related Reading: Google Says End For Bitcoin Is Near? Quantum Computers Could Attack Crypto This Soon In options, post‑expiry volatility compression is “muted”; traders are still paying for gamma, overwriters are sidelined, and the vol surface signals caution but not panic. Positioning is defensive rather than euphoric, which fits a market that is stable but not ready to break higher. Everything points at Bitcoin being headed for a sixth straight negative monthly close and its first three‑month losing stretch to kick off the year, highlighting how fragile sentiment remains. Geopolitical Tensions Heighten According to QCP, “Washington is signalling escalation risk”. The U.S. insists talks are moving forward, but the continued troop buildup indicates it is still preparing for potential ground operations. Meanwhile, Iran’s partners in Yemen keep warning they could disrupt key supply routes if the conflict worsens. Any blockade in the Bab al‑Mandeb strait could dramatically worsen the existing inflation shock, a scenario the administration can hardly stomach with approval ratings sagging and midterms on the horizon. Macro and geopolitics are tightly intertwined. Elevated oil, war risk premium and supply‑chain vulnerabilities keep the famous stagflation narrative alive, which continues to muddy Bitcoin’s role between high‑beta risk asset and emerging macro hedge. As long as Trump’s strike pause holds and there is no major policy surprise, BTC likely stays range‑bound and headline‑driven into early April. “The Majority Of Market Participants Are Operating At A Loss” On-chain, all this tension translates to Long‑Term Holder SOPR (profitability) recently slipping below 1.0, new data from Crypto Dan for Crypto Quant shows. Veteran holders are now selling at a loss: classic “surrender” or early capitulation behavior. Since long‑term holders are usually the least reactive to short‑term price swings, a period where they start locking in losses often signals that the entire market has entered a capitulation phase. Bitcoin: Long Term Holder SOPR. Source: Crypto Quant. According to Crypto Dan, these kinds of conditions have often preceded phases where selling pressure slowly runs out, paving the way for market bottoms or areas that sit near long‑term lows. The analyst believes that it may be too early to call this the definitive bottom, but a stage where losses are broadly shared typically marks the last leg of fear and the first real window of opportunity for patient buyers. Related Reading: Over Half Of US Crypto Users Don’t Understand This Scary Tax Rule Put together, range‑bound price, cautious options, and long‑term holder stress suggest we’re in a late correction phase, where the market is still under pressure but closer to washing out and stabilizing, not yet in the clear new bull leg where price starts trending higher with conviction. At the moment of writing, BTC trades for $66k. Source: BTCUSDT on Tradingview Cover image from Perplexity, BTCUSDT chart from Tradingview",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|btc",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
@@ -1100,12 +1197,6 @@
       },
       {
         "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
         "ID": 211,
         "NAME": "CRYPTOCURRENCY",
         "CATEGORY": "CRYPTOCURRENCY"
@@ -1113,130 +1204,13 @@
     ]
   },
   {
-    "id": 59938405,
-    "published": 1774962000000,
-    "title": "Chainalysis adds 'natural language' AI agents to its blockchain investigation platform",
-    "body": "CEO Jonathan Levin says it marks a \"really important moment\" for making such analysis more accessible as the crypto industry grows with non-native entrants.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Policy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59938288,
-    "published": 1774961914000,
-    "title": "Downside risk remains as bitcoin nears record-tying six-month losing streak",
-    "body": "A close below $67,300 for bitcoin would confirm six straight monthly losses amid ongoing macro pressures.",
+    "id": 59975988,
+    "published": 1775055663000,
+    "title": "Agencies Must Create Clear Prediction Market Rules to Avoid FTX-Style ‘Implosions’: CFTC Chair",
+    "body": "Michael Selig argued that prediction markets operating offshore in “unregulated space” could lead to an FTX-style collapse.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59938642,
-    "published": 1774962622000,
-    "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) gains 1.5% as index trades flat",
-    "body": "NEAR Protocol (NEAR), up 1.9% from Monday, joined Bitcoin Cash (BCH) as a top performer.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "CoinDesk Indices|CoinDesk Indices|CoinDesk 20|charts|Prices|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 12,
-        "NAME": "BCH",
-        "CATEGORY": "BCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 13,
-        "NAME": "BLOCKCHAIN",
-        "CATEGORY": "BLOCKCHAIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 89,
-        "NAME": "NEAR",
-        "CATEGORY": "NEAR"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59939242,
-    "published": 1774964076000,
-    "title": "US Users Barred From KuCoin After $500K CFTC Settlement",
-    "body": "A federal court order has permanently prohibited the exchange from serving U.S. customers unless it registers.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "|Business",
+    "keywords": "Business",
     "lang": "EN",
     "source_data": {
       "name": "Decrypt",
@@ -1252,9 +1226,32 @@
       },
       {
         "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      }
+    ]
+  },
+  {
+    "id": 59976602,
+    "published": 1775057409000,
+    "title": "Franklin Templeton to Buy CoinFund Spinoff, Build Out Crypto Investment Offering",
+    "body": "Global asset manager Franklin Templeton is acquiring a CoinFund spinoff to build out its own crypto wing, Franklin Crypto.",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "Business",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 15,
+        "NAME": "BUSINESS",
+        "CATEGORY": "BUSINESS"
       },
       {
         "TYPE": "122",
@@ -1265,32 +1262,20 @@
     ]
   },
   {
-    "id": 59939136,
-    "published": 1774963831000,
-    "title": "Bitcoin Faces Fresh Pressure As Oil Crosses $104 For First Time In 4 Years",
-    "body": "Investors are currently sifting through a decade of market data to see if a massive spike in energy costs will sink Bitcoin and the crypto market. Related Reading: Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold While many people focus on the immediate price of oil, the real damage to Bitcoin in the past often came from internal industry blowouts rather than what was happening at the gas pump. The 2014 crash happened alongside the Mt. Gox exchange failure. In 2022, the Terra-Luna collapse wiped out billions. These events, rather than just expensive fuel, played the biggest role in deepening previous bear markets. The Weight Of Geopolitics On Digital Assets Reports indicate that West Texas Intermediate (WTI) crude oil jumped above the $104 mark on Monday. This is the highest price seen in nearly four years. US President Donald Trump recently expressed a desire for the US to maintain indefinite control over the oil industry in Iran. Such statements and global tensions usually push oil higher. When energy becomes this expensive, it often acts as a drag on the entire economy. It takes money out of the pockets of everyday people who might otherwise buy digital assets. Data shows that Bitcoin miners also feel the sting because their operations require significant amounts of power. In the past 12 years, there have only been three times when oil hit this specific $104 level. Because these events are so rare, some analysts believe it is hard to say for sure that one causes the other. The first instance occurred in June 2014 when ISIS moved into northern Iraq. Bitcoin was trading around $600 at the time but lost 21% of its value over the next 10 weeks. It stayed down for a long time. It actually took more than two years for the price to climb back to where it started before that specific oil spike. Searching For Patterns In A Volatile Market The most recent example happened in May 2022. This followed a proposal by the European Commission to phase out Russian oil imports. Bitcoin did not just dip; it fell 25% in only seven days. That specific crash started a bear market that lasted for 19 months. Even though oil prices eventually dropped back below $100 for several years, the damage to the crypto world was already done. Based on reports, the current return to triple-digit oil prices has many traders on edge. They are watching to see if history will repeat itself or if the market has become strong enough to handle the pressure. Related Reading: 8.25M XRP Exit Long-Term Holders As Whales Buy $1.20–$3 A Fear Of Broad Economic Pullbacks Not every spike leads to a permanent disaster. In March 2022, Bitcoin dropped 15% after the Russia-Ukraine war began and oil soared. However, that loss was erased in less than a month. Even though oil stayed high, Bitcoin managed to recover its footing quickly. This shows that the relationship between the two is not always a straight line. Sometimes the market reacts to the news of war more than the actual cost of the commodity. Featured image from Trade Brains, chart from TradingView",
+    "id": 59976688,
+    "published": 1775055600000,
+    "title": "Token voting is crypto’s broken incentive system",
+    "body": "Token voting fails crypto governance with low participation and whale dominance. Decision markets price conviction to fix broken DAO incentives.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Cryptocurrency Market News|bitcoin|btc|btcusd|crypto|iran|Israel|Middle East|oil|russia|ukraine|us|war|WTI",
+    "keywords": "Opinion",
     "lang": "EN",
     "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
       {
         "TYPE": "122",
         "ID": 37,
@@ -1299,9 +1284,9 @@
       },
       {
         "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
@@ -1312,78 +1297,32 @@
     ]
   },
   {
-    "id": 59939266,
-    "published": 1774963630000,
-    "title": "OpenFX raises $94M to speed up cross-border payments with stablecoins",
-    "body": "OpenFX raised $94 million in Series A funding to expand its stablecoin-based FX network as demand grows for faster cross-border payments.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 59939264,
-    "published": 1774962000000,
-    "title": "Base joins Ethereum, Tron, others in betting big on AI agent future",
-    "body": "Coinbase's Ethereum layer-2 Base said it will be upgrading its chain to allow AI agents to use it the same way developers or traders would.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59939263,
-    "published": 1774962000000,
-    "title": "AI agents like OpenClaw could drain crypto wallets via ‘malicious skills’: CertiK",
-    "body": "CertiK has advised ordinary users “who are not security professionals, developers, or experienced geeks” against installing and using OpenClaw.",
+    "id": 59977248,
+    "published": 1775059181000,
+    "title": "The Protocol: Quantum computing could break Bitcoin sooner, says Google",
+    "body": "Also: OpenAI raises $122 billion, crypto ecosystems diverging post-quantum strategies, and Base’s 2026 roadmap.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Latest News",
+    "keywords": "Tech|Newsletters|Ethereum News|Bitcoin News|Google|News",
     "lang": "EN",
     "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
+      "name": "CoinDesk",
+      "source_key": "coindesk",
       "source_type": "RSS"
     },
     "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
       {
         "TYPE": "122",
         "ID": 211,
@@ -1393,17 +1332,46 @@
     ]
   },
   {
-    "id": 59939262,
-    "published": 1774961162000,
-    "title": "Crypto dispute over Resupply exploit lands in Singapore harassment court",
-    "body": "A Singapore court ordered OneKey founder Wang Lei and an X user to stop threatening or defamatory claims tied to a dispute over the 2025 Resupply exploit.",
-    "sentiment": "NEGATIVE",
+    "id": 59977203,
+    "published": 1775059031000,
+    "title": "Jamie Dimon signals JPMorgan entry into prediction markets as competition surges",
+    "body": "JPMorgan is weighing a move into prediction markets as crypto firms, startups and rivals like Goldman Sachs race to dominate the fast-growing sector.",
+    "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Latest News",
+    "keywords": "Markets|Prediction Markets|News",
     "lang": "EN",
     "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
+      "name": "CoinDesk",
+      "source_key": "coindesk",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59978567,
+    "published": 1775062637000,
+    "title": "Cambodia Extradites Alleged Huione Crypto Scam Kingpin to China: Report",
+    "body": "Chinese authorities have arrested Li Xiong, former chairman of Huione Group, linked by U.S. regulators to billions in illicit crypto flows.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "||Law and Order",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
       "source_type": "RSS"
     },
     "category_data": [
@@ -1415,17 +1383,17 @@
       },
       {
         "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
   {
-    "id": 59940802,
-    "published": 1774966372000,
-    "title": "Crypto gains political clout among 80% of UK young voters",
-    "body": "A Coinbase Institute survey suggests crypto has become the financial starting point for most 16-25-year-olds in the UK, as digital assets become a powerful credibility test for political parties.",
+    "id": 59979436,
+    "published": 1775063553000,
+    "title": "Naoris launches post-quantum blockchain as quantum security risks gain attention",
+    "body": "Naoris Protocol has launched a post-quantum layer-1 blockchain designed to protect transactions against future cryptographic vulnerabilities.",
     "sentiment": "POSITIVE",
     "score": 0,
     "keywords": "Latest News",
@@ -1438,214 +1406,27 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 25,
-        "NAME": "EXCHANGE",
-        "CATEGORY": "EXCHANGE"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
       }
     ]
   },
   {
-    "id": 59937505,
-    "published": 1774959463000,
-    "title": "Tether Cuts Top Gold Traders Months After Hiring Them From HSBC",
-    "body": "Tether Holdings SA has cut two senior precious metals traders just months after hiring them from HSBC Holdings Plc to create what it called “the best trading floor for gold in the world.”",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "LSE:HSBA",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59943585,
-    "published": 1774974092000,
-    "title": "Charles Hoskinson not a fan of CLARITY Act, warns of 'weaponization' by future lawmakers",
-    "body": "The Cardano founder says post-FTX politics, flawed design and a narrow U.S.-only approach risk stifling new crypto projects while benefiting established players",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Policy|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 3,
-        "NAME": "ADA",
-        "CATEGORY": "ADA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59942772,
-    "published": 1774972238000,
-    "title": "Why 12 European banks are teaming up to save the euro from digital dollarization",
-    "body": "In an interview with CoinDesk, the CEO of a 12-member consortium explains why Europe is racing to put the euro onchain and compete with dollar dominance in crypto markets.",
+    "id": 59979434,
+    "published": 1775063068000,
+    "title": "CFTC chair says agency is ready to oversee entire crypto market",
+    "body": "Michael Selig summarized his first 100 days overseeing the commodities regulator since being confirmed by the US Senate in December.",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Finance|Stablecoins|News",
+    "keywords": "Latest News",
     "lang": "EN",
     "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59943819,
-    "published": 1774974702000,
-    "title": "'Massive Disruptive Potential': Benchmark Initiates Securitize Coverage With Buy Rating",
-    "body": "The BlackRock-backed firm has a clear path toward pressuring financial incumbents, according Benchmark’s Mark Palmer.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      }
-    ]
-  },
-  {
-    "id": 59943784,
-    "published": 1774974602000,
-    "title": "20 Bitcoin Indicators Flash Bullish At The Same Time, And This Could Send Price To $150,000",
-    "body": "Crypto analyst Sweep has revealed that 20 Bitcoin indicators have flashed bullish at the same time, providing a bullish outlook for the leading crypto. Based on this development, the analyst has predicted that BTC could rally to $150,000, marking a new all-time high (ATH). 20 Bitcoin Indicators Hint At Rally To $150,000 In an X post, Sweep stated that 20 independent indicators are bullish at the same time. He noted that this has only happened three times in Bitcoin’s history, and each time was followed by a 300% rally. The first of this indicator is the Global M2 money supply, which just hit an all-time high (ATH) while BTC is still lagging. Related Reading: None Of The 30 Bitcoin Market Peak Indicators Have Been Hit, So Why Did The Price Crash? Sweep further revealed that the Dollar Index is at 100, the exact level that preceded 500% rallies twice before. Another bullish indicator is that BTC’s exchange reserves have fallen to a 7-year low, with only 2.1 million BTC remaining across all crypto exchanges. The drop in these exchange reserves has come as whales bought 270,000 BTC over 30 days, the largest accumulation wave since 2013. Another bullish indicator is that the Fear and Greed index has been stuck at extreme fear for 46 straight days, currently at 12. Bitcoin’s weekly RSI has printed 27.48, the third time in history that it has been this low. Furthermore, funding rates have been negative for weeks, with traders paying fees to short BTC. Meanwhile, Sweep also mentioned that the stablecoin supply has hit an all-time high of $320 billion, with supply sitting on the sidelines. Miners have been in capitulation for 4 months straight, the longest stretch this cycle. At the same time, the hash rate is recovering from a 22% decline. The Macro Angle For BTC Sweep mentioned bullish macro indicators, such as the Fed ending quantitative tightening, draining the reverse repo from $2.5 trillion to nearly zero, and resuming purchases of Treasury bills. Furthermore, Consumer confidence is in the second-lowest zone ever recorded in 70 years of data, while the ISM manufacturing is back in expansion for the first time in 40 months. Related Reading: The Last Time Bitcoin Sentiment Was This Bad Was 2022, But There Was A Silver Lining Another bullish indicator is that the Bitcoin ETF flows have turned positive in March, with $2.5 billion in inflows. SoSoValue data shows that the BTC ETFs are on course to end a streak of four consecutive months of outflows. Sweep mentioned that BTC has just printed 5 consecutive red monthly candles, which has happened only once and led to a 308% rally afterwards. Lastly, 92% of short-term holders are underwater. The analyst noted that the last time this many signals aligned was in November 2022, when Bitcoin was trading at $16,000. Since then, BTC has pumped to a new ATH of $126,000. At the time of writing, the Bitcoin price is trading at around $67,500, down in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin|bitcoin|Bitcoin ETF|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|Dollar Index|fear and greed index|funding rates|RSI|SoSoValue|stablecoin|Sweep",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59944510,
-    "published": 1774976343000,
-    "title": "Bitcoin, stocks rise, oil slides, after report of Iran's willingness to end conflict",
-    "body": "Iran's President Masoud Pezeshkian said the country is prepared to end the conflict if it receives security guarantees.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
       {
         "TYPE": "122",
         "ID": 37,
@@ -1667,65 +1448,13 @@
     ]
   },
   {
-    "id": 59945426,
-    "published": 1774977175000,
-    "title": "Massachusetts city to weigh crypto ATM ban, citing financial risks",
-    "body": "Haverhill City Council, following other jurisdictions, is set to consider an ordinance banning crypto ATMs viewed as enabling financial fraud and money laundering.",
+    "id": 59980099,
+    "published": 1775066757000,
+    "title": "Fed's Barr Says Stablecoins Need Tighter Controls to Fight Money Laundering",
+    "body": "The Fed governor has previously said that stablecoins risk undermining the U.S. central bank’s credibility.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59945425,
-    "published": 1774975198000,
-    "title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
-    "body": "GalaxyOne adds Solana staking with variable rewards and zero-fee incentives, extending institutional validator infrastructure to retail users.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 46,
-        "NAME": "SOL",
-        "CATEGORY": "SOL"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59945556,
-    "published": 1774978919000,
-    "title": "Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered",
-    "body": "Standard Chartered says stablecoin velocity has doubled in two years, driven by USDC's new use cases in TradFi and AI payments.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Markets",
+    "keywords": "||Law and Order",
     "lang": "EN",
     "source_data": {
       "name": "Decrypt",
@@ -1733,403 +1462,6 @@
       "source_type": "RSS"
     },
     "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 100,
-        "NAME": "USDC",
-        "CATEGORY": "USDC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59946105,
-    "published": 1774980300000,
-    "title": "The post-quantum transition can’t be postponed any longer",
-    "body": "Google’s new research potentially puts the entire bitcoin supply – and the very foundation of digital trust – at risk, explains Pruden.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Opinion|Google|Opinion",
-    "lang": "EN",
-    "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 64,
-        "NAME": "RESEARCH",
-        "CATEGORY": "RESEARCH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59946072,
-    "published": 1774980176000,
-    "title": "Anthropic Accidentally Leaked Claude Code's Source—The Internet Is Keeping It Forever",
-    "body": "Claude Code exposed: Anthropic is scrambling to contain the leak, but the AI coding agent is spreading far and wide and being picked apart.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Artificial Intelligence",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
-      }
-    ]
-  },
-  {
-    "id": 59945996,
-    "published": 1774980001000,
-    "title": "Jordi Visser Says Bitcoin Was Built For This New Fed Crisis",
-    "body": "Macro investor Jordi Visser is arguing that Bitcoin’s original purpose is coming back into focus as the Federal Reserve faces a new macro trap shaped by debt, oil, slowing growth and weakening employment. In a note published March 30 under the banner “D.O.G.E. 2.0,” Visser says that mix could leave policymakers unable to impose the kind of economic pain a traditional inflation fight would require. His framework repurposes the acronym into four pressures: debt as the structural constraint, oil as the inflation shock, growth as the casualty of tighter conditions, and employment as the side of the Fed’s mandate that may soon take precedence. The broader claim is not simply that inflation could return, but that it could return in a form monetary policy cannot easily fix. Why Bitcoin Could Be The Big Winner Visser’s argument starts with supply-side stress. He points to oil prices rising after the war with Iran disrupted flows through the Strait of Hormuz, while import-price pressures and higher memory-chip costs linked to AI demand were already feeding through global supply chains. “That is what makes this moment dangerous,” he writes. “The inflation problem may be returning, but it is returning for reasons the Fed cannot easily solve, all while affordability remains a major political issue. Rate hikes do not reopen Hormuz. They do not create more DRAM.” Related Reading: OG Bitcoin On-Chain Models Could Hint At $46,000-$54,000 Floor: Analyst From there, he shifts to what he sees as the crucial difference between today and the 1970s. Back then, Visser notes, federal debt stood near 35.5% of GDP in 1970 and around 31.6% by 1979. Today, he says, the comparable figure is about 122.5%. That changes the amount of pain the system can absorb. In his telling, the United States is confronting the possibility of a second inflation wave with a debt burden roughly four times heavier than at the end of the last major oil-driven inflation era. He makes the same point through asset valuations. The stock-market-capitalization-to-GDP ratio, he argues, is now above 200%, versus roughly 42% in 1975 and 38% in 1979. In practical terms, that means a determined inflation fight would not only hit a more indebted fiscal structure and a more fragile Treasury market, but also a far more financialized economy. “This is not just a replay of the 1970s,” Visser writes. “It is the 1970s problem inside a far more levered system.” The labor side of the equation is equally important in his thesis. Visser points to a February 2026 employment report showing nonfarm payrolls down 92,000, unemployment at 4.4%, and payroll employment having changed little on net in 2025. Wage growth, he says, has also eased materially from its 2023 peak. That backdrop matters because it makes a renewed inflation offensive harder to justify politically and economically than it was during the post-COVID tightening cycle. Related Reading: JPMorgan Says Bitcoin Is Beating Gold And Silver During The Iran War Visser argues the Fed has already begun preparing markets for that distinction. He cites Chair Jerome Powell’s March 18 press conference, where Powell acknowledged higher energy prices could lift inflation in the near term while reiterating that central banks often try to “look through” energy shocks if inflation expectations remain anchored. Visser also notes Vice Chair Philip Jefferson’s warning that persistently higher energy prices could weigh on both inflation and spending, intensifying the Fed’s dual-mandate dilemma. That is where Bitcoin enters the story. Visser ties the current setup back to Bitcoin’s creation during the 2008-09 financial crisis, arguing that Satoshi Nakamoto’s design was a direct response to a monetary system dependent on bailouts, intervention and expanding guarantees when stress becomes intolerable. “Bitcoin was born as a response to a system in which governments and central banks could always create more money, extend more guarantees, and socialize more losses when the structure became too fragile to endure discipline,” he writes. “Whether you view that as protest, timestamp, or both, the message was unmistakable.” His conclusion is that Bitcoin does not require hyperinflation to validate that thesis. It only requires markets to believe that each inflation fight will be shorter, each easing cycle will arrive sooner, and each downturn in a debt-heavy system will push policymakers back toward accommodation. At press time, Bitcoin traded at $66,466. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59946848,
-    "published": 1774982141000,
-    "title": "Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
-    "body": "The Tether-backed USAT stablecoin built for the U.S. market has expanded to Ethereum layer-2 network Celo with help from Google Cloud.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "|Coins",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59946710,
-    "published": 1774981739000,
-    "title": "Tether Was Born On Bitcoin. Twelve Years Later, Is It Coming Back?",
-    "body": "USDT went live on Bitcoin’s Lightning Network on March 21. Three infrastructure startups, backed by over $20M from Tether, are racing to build the rails around it.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
-    "lang": "EN",
-    "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 54,
-        "NAME": "USDT",
-        "CATEGORY": "USDT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59946820,
-    "published": 1774978653000,
-    "title": "BitGo rolls out portfolio-based crypto lending platform for institutions",
-    "body": "Looking to streamline collateral management, the platform has enabled borrowing and lending against liquid, staked and locked assets within a single custody account.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59947515,
-    "published": 1774984085000,
-    "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War'",
-    "body": "Stocks are surging while Bitcoin and Ethereum hit their highest prices in days after Iran's president said he's looking to end the conflict.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "||Markets",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 24,
-        "NAME": "ETH",
-        "CATEGORY": "ETH"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59947370,
-    "published": 1774983659000,
-    "title": "More Than 40% Of Altcoins Are Hitting Rock Bottom — And Experts Say It’s Worse Than The Last Crash",
-    "body": "There are now over 47 million cryptocurrencies in existence. That number alone may explain a lot of what is happening to prices of altcoins right now. Related Reading: Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold Altcoins: A Market Spread Too Thin Blockchain networks have become token factories. Solana hosts more than 22 million tokens. Base accounts for over 18 million more. BNB Smart Chain adds another 4 million on top of that. With that much supply chasing a limited pool of investor money, most of these assets simply cannot attract enough buyers to hold their value. Analysts call it liquidity dilution — capital spread too thin to support the crowd. That structural problem is now showing up in the numbers in a dramatic way. Data from CryptoQuant shows that over 40% of all altcoins are currently trading at or near their all-time lows. More than 40% of Altcoins near All-Time Lows “This is even higher than during the previous bear market, which peaked at ~38%… However, when such extreme underperformance appears, it can also create very attractive opportunities.” – By @Darkfost_Coc pic.twitter.com/XvAmKiKyyQ — CryptoQuant.com (@cryptoquant_com) March 30, 2026 That figure surpasses the previous bear market peak of around 38%, making this cycle the worst on record for altcoin performance. CryptoQuant analyst Darkfost put it bluntly. Altcoins, he said, have never faced this kind of pressure in the current cycle. Staggering Losses The losses across individual coins are staggering. Bitcoin has fallen roughly 45% from its all-time high — painful, but modest compared to what has happened further down the market cap rankings. XRP has shed 60% from its peak. Solana sits 70% below its high. Cardano has collapsed 90% from where it once traded. Some smaller assets are in even worse shape. VeChain is down approximately 98% from its record price and is hovering just above an all-time low. Ethena hit a new all-time low recently, last trading around $0.09. Arbitrum and SUI are both sitting at levels where a further drop would push them into all-time low territory. Macroeconomic uncertainty and geopolitical tensions have added weight to an already fragile market. Risk assets across the board have taken hits, and crypto — altcoins above all — has absorbed some of the heaviest blows. Related Reading: 8.25M XRP Exit Long-Term Holders As Whales Buy $1.20–$3 Bitcoin Holds Up. Most Altcoins Don’t. Bitcoin’s relative steadiness compared to the rest of the market has drawn attention. While it is not immune to the selling pressure, its decline has been far less severe than what altcoins have experienced. That gap between Bitcoin and the broader crypto market is a defining feature of this particular downturn. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Altcoin|altcoins|bitcoin|btc|crypto|digital currency",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 5,
-        "NAME": "ALTCOIN",
-        "CATEGORY": "ALTCOIN"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59947786,
-    "published": 1774983943000,
-    "title": "Block’s Dorsey Outlines AI-Powered Vision to Cut Middle Managers",
-    "body": "Jack Dorsey is pitching artificial intelligence as a replacement for middle managers in his reimagined view of how technology companies should function, weeks after Block Inc. announced it was cutting nearly half its staff.",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "NYS:XYZ",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      }
-    ]
-  },
-  {
-    "id": 59948735,
-    "published": 1774987393000,
-    "title": "Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed",
-    "body": "A critical vulnerability in Zcash node software could have allowed attackers to drain millions of dollars of ZEC from a deprecated shielded pool.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "zcash|Technology",
-    "lang": "EN",
-    "source_data": {
-      "name": "Decrypt",
-      "source_key": "decrypt",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 49,
-        "NAME": "TECHNOLOGY",
-        "CATEGORY": "TECHNOLOGY"
-      },
-      {
-        "TYPE": "122",
-        "ID": 61,
-        "NAME": "ZEC",
-        "CATEGORY": "ZEC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 218,
-        "NAME": "SECURITY INCIDENTS",
-        "CATEGORY": "SECURITY INCIDENTS"
-      }
-    ]
-  },
-  {
-    "id": 59948658,
-    "published": 1774987208000,
-    "title": "Bitcoin Isn’t Decoupling From Stocks Yet, And This Chart Shows Why",
-    "body": "Bitcoin may no longer be moving in lockstep with the S&P 500 over a short time frame, but that does not mean it has escaped the broader risk-off regime. In Axel Adler Jr.’s latest morning brief, the more important signal is not the breakdown in short-term correlation, but Bitcoin’s continued relative weakness against US equities. Bitcoin Weakens Against The S&P 500 Adler’s argument rests on two charts that, taken together, push back on the increasingly familiar claim that a lower BTC-equity correlation automatically points to decoupling. The first is the 13-week BTC-S&P correlation, which has recently turned negative and stayed below zero. On the surface, that could look constructive for Bitcoin. But Adler argues that the reading is easy to misinterpret. “The 13-week correlation measures how closely the weekly returns of BTC and the S&P 500 have moved together over a short window,” he wrote. “Over recent weeks, the short-term correlation has turned negative and has been holding below zero. At first glance this might look like a loosening of the link between BTC and equities – but in practice it more likely reflects the choppy nature of recent weeks, where isolated Bitcoin bounces have alternated with continued weakness in the index.” Related Reading: OG Bitcoin On-Chain Models Could Hint At $46,000-$54,000 Floor: Analyst That distinction is central to the note. A falling or negative correlation only says that the two assets are no longer moving neatly together over that window. It does not say Bitcoin is strong. It does not say capital is treating BTC as a defensive asset. And it does not confirm that the market has begun to price Bitcoin independently of the same macro pressures hitting equities. For that, Adler points to the second chart: the BTC/S&P price ratio. This is where the case for decoupling breaks down. The ratio, which tracks Bitcoin’s performance relative to the S&P 500, has declined since the start of the year and remains under pressure. In practical terms, that means Bitcoin has been underperforming stocks even during periods when the short-term correlation has weakened. “What matters to the market here is not the fact of negative correlation per se, but whether it is accompanied by sustained BTC outperformance over the S&P,” Adler wrote. “That confirmation is not there yet, so it is too early to talk about Bitcoin achieving genuine independence from the risk-off regime.” Related Reading: JPMorgan Says Bitcoin Is Beating Gold And Silver During The Iran War That framing matters because it shifts the focus away from a single statistical measure and back toward market behavior. If Bitcoin were truly decoupling, the relative-strength picture would likely be improving. Instead, Adler argues, the market is still assigning Bitcoin the role of a higher-beta risk asset, one with “higher risk and a larger drawdown amplitude” than the index. He makes the point even more explicitly in the note’s conclusion. “The market is currently sending an uncomfortable but fairly honest signal,” Adler wrote. “The S&P 500 continues to decline, and BTC is not merely staying vulnerable to external risk-off pressure – it continues to underperform the index in relative terms. The prevailing regime remains risk-off.” In that framework, the more useful trigger to watch is not whether correlation stays negative for another week, but whether the BTC/S&P ratio can reverse and hold higher. Adler says only “a new stable regime” of relative outperformance would support a real decoupling thesis. Until then, the market message remains straightforward: the relationship between Bitcoin and equities may have become less linear, but not less risk-sensitive. At press time, BTC traded at $66,652. Featured image created with DALL.E, chart from TradingView.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
       {
         "TYPE": "122",
         "ID": 26,
@@ -2138,36 +1470,24 @@
       },
       {
         "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 50,
-        "NAME": "TRADING",
-        "CATEGORY": "TRADING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
+        "ID": 210,
+        "NAME": "MACROECONOMICS",
+        "CATEGORY": "MACROECONOMICS"
       }
     ]
   },
   {
-    "id": 59948961,
-    "published": 1774988058000,
-    "title": "What's next after bitcoin's historic underperformance stretch against stocks",
-    "body": "With a few hours to go, bitcoin has tumbled 22% in the first quarter, following a 25% drop in the last quarter of 2025.",
+    "id": 59980783,
+    "published": 1775065758000,
+    "title": "Warren Buffett bought $17B in US T-bills: A bad omen for Bitcoin price?",
+    "body": "Buffett called the recent US stock market dip “nothing” versus past 50% crashes, signaling more downside for risk assets like Bitcoin in 2026.",
     "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Markets|Bitcoin News|News",
+    "keywords": "Market Analysis",
     "lang": "EN",
     "source_data": {
-      "name": "CoinDesk",
-      "source_key": "coindesk",
+      "name": "Cointelegraph",
+      "source_key": "cointelegraph",
       "source_type": "RSS"
     },
     "category_data": [
@@ -2177,35 +1497,6 @@
         "NAME": "BTC",
         "CATEGORY": "BTC"
       },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59949369,
-    "published": 1774986491000,
-    "title": "Interactive Brokers expands crypto trading to retail investors in Europe",
-    "body": "Brokerage clients in the European Economic Area can now trade 11 cryptocurrencies alongside traditional assets within a single account.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Latest News",
-    "lang": "EN",
-    "source_data": {
-      "name": "Cointelegraph",
-      "source_key": "cointelegraph",
-      "source_type": "RSS"
-    },
-    "category_data": [
       {
         "TYPE": "122",
         "ID": 15,
@@ -2214,6 +1505,12 @@
       },
       {
         "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
         "ID": 50,
         "NAME": "TRADING",
         "CATEGORY": "TRADING"
@@ -2227,11 +1524,11 @@
     ]
   },
   {
-    "id": 59950108,
-    "published": 1774991244000,
-    "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
-    "body": "P2P.me was established to push boundaries, but the startup admitted that wagering on itself via Polymarket may have been a bridge too far.",
-    "sentiment": "NEGATIVE",
+    "id": 59981498,
+    "published": 1775070357000,
+    "title": "Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO",
+    "body": "Elon Musk’s rocket company has confidentially submitted IPO paperwork to U.S. regulators, potentially setting up one of the largest public listings in history.",
+    "sentiment": "POSITIVE",
     "score": 0,
     "keywords": "Business",
     "lang": "EN",
@@ -2250,11 +1547,52 @@
     ]
   },
   {
-    "id": 59950877,
-    "published": 1774992838000,
-    "title": "Wall Street moves benchmarks onchain as S&P tokenizes Treasury index",
-    "body": "S&P Dow Jones Indices puts its iBoxx US Treasuries Index on the Canton Network, allowing institutions to access bond benchmark data through tokens rather than feeds.",
-    "sentiment": "POSITIVE",
+    "id": 59982210,
+    "published": 1775071550000,
+    "title": "Solana-Based DeFi Project Drift Hit by $285 Million Exploit",
+    "body": "Drift, a decentralized finance project built on the Solana blockchain, has been hit by a major exploit that drained nearly $300 million in digital assets from the protocol, according to cybersecurity and data analytics firms.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 59982168,
+    "published": 1775068970000,
+    "title": "Drift Protocol warns users to pause deposits amid 'unusual' trading activity",
+    "body": "The reported incident could be a $200 million exploit of the decentralized crypto exchange due to a leak of a crypto wallet private key.",
+    "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "Latest News",
     "lang": "EN",
@@ -2266,65 +1604,77 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
       },
       {
         "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
       },
       {
         "TYPE": "122",
-        "ID": 209,
-        "NAME": "DIGITAL ASSET TREASURY",
-        "CATEGORY": "DIGITAL ASSET TREASURY"
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
-        "ID": 210,
-        "NAME": "MACROECONOMICS",
-        "CATEGORY": "MACROECONOMICS"
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
       }
     ]
   },
   {
-    "id": 59953338,
-    "published": 1774999287000,
-    "title": "4 Signals For A Mature Healthcare Cryptocurrency Ecosystem",
-    "body": "Healthcare tokens didn’t fail—they were early.",
-    "sentiment": "POSITIVE",
+    "id": 59982375,
+    "published": 1775072192000,
+    "title": "CFTC Resolves Fraud Case Against Ex-FTX Engineering Chief Singh",
+    "body": "Former FTX engineering chief Nishad Singh will have to return $3.7 million in illegal profits under a settlement with the US derivatives regulator over his role at the collapsed cryptocurrency exchange.",
+    "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|Business|/business|Innovation Rx: Visionaries|/feature/innovation-rx/visionaries|money|money|standard",
+    "keywords": "",
     "lang": "EN",
     "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
       "source_type": "RSS"
     },
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
       }
     ]
   },
   {
-    "id": 59954206,
-    "published": 1775001600000,
-    "title": "Crypto Policy Enter A New Phase: Insights From Solana Policy Institute",
-    "body": "With GENIUS Act passed and Clarity Act gaining momentum, Kristin Smith of Solana Policy Institute foresees floodgates for institutional capital and tokenized assets.",
-    "sentiment": "POSITIVE",
+    "id": 59980732,
+    "published": 1775068527000,
+    "title": "Solana DeFi platform Drift confirms 'active attack' as $200M+ leaves platform",
+    "body": "The platform halted deposits while it investigates suspicious activity and urges users to proceed with caution.",
+    "sentiment": "NEGATIVE",
     "score": 0,
-    "keywords": "Forbes Digital Assets|/digital-assets|Forbes Digital Assets|/digital-assets|standard",
+    "keywords": "Tech|Solana News|DeFi|Breaking News|News",
     "lang": "EN",
     "source_data": {
-      "name": "Forbes Digital Assets",
-      "source_key": "forbes",
+      "name": "CoinDesk",
+      "source_key": "coindesk",
       "source_type": "RSS"
     },
     "category_data": [
@@ -2343,13 +1693,136 @@
     ]
   },
   {
-    "id": 59954974,
-    "published": 1775003519000,
-    "title": "Bitcoin, stocks soar as markets respond to chance of US and Israel-Iran war ending",
-    "body": "Bitcoin held gains above $68,000 as investors leaned into news that the US and Iran were ideating ways to end the war. Will markets hold their newfound bullishness?",
+    "id": 59983001,
+    "published": 1775074418000,
+    "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+    "body": "Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "|DeFi",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 46,
+        "NAME": "SOL",
+        "CATEGORY": "SOL"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      },
+      {
+        "TYPE": "122",
+        "ID": 218,
+        "NAME": "SECURITY INCIDENTS",
+        "CATEGORY": "SECURITY INCIDENTS"
+      }
+    ]
+  },
+  {
+    "id": 59983389,
+    "published": 1775075459000,
+    "title": "The Bitcoin Bleed Is Almost Over, But Will Price Reach $40,000 Before Bouncing?",
+    "body": "Crypto analyst Sykodelic has declared that the Bitcoin bleed is almost over and suggested that BTC is unlikely to drop to $40,000 as some experts predict. He alluded to the 2022 bottom to explain why the leading crypto is likely to find a bottom soon and begin a new bull cycle. Analyst Explains Why Bitcoin Will Soon Find A Bottom In an X post, Sykodelic said the Bitcoin bleed is almost over and that people expecting a drop to the $40,000 range will be sidelined. He further remarked that this is how people who were waiting for a drop to $12,000 were sidelined during the 2022 bottom. Commenting on the current BTC price action, the analyst noted that the leading crypto is trading in the largest pocket of supply it has seen in over five years, just below the higher-time-frame (HTF) bullish structure. Related Reading: Bitcoin Price At $59,000 Is The Line In The Sand, Here’s What You Should Know He stated that back in 2022, the Bitcoin price action was totally different. Back then, BTC had lost its HTF structure, and there was zero demand below. Instead, what was below was “clear air” with Bitcoin dropping below. However, the analyst said such price action is unlikely to occur this time around. Sykodelic said that the most he sees happening this time around is a deviation from the range low at around $60,000, then a reclaim, followed by a push back above $74,400, which would confirm an expanded flat. The analyst added that if a deviation move below $60,000 occurs, it is very likely due to the U.S.-Iran war, and that it could happen in the next two weeks. Lastly, he mentioned that there have been signs of large accumulation across the board, with much greater strength. As such, the analyst is confident that this downtrend will be over much faster than most people expect. Why BTC Could Drop To As Low As $46,000 In an X post, popular crypto analyst Willy Woo stated that old-school on-chain models suggest that Bitcoin will form a bottom between $46,000 and $54,000. He further remarked that the Orange line on the accompanying chart corresponds to the capital stored in BTC, and it has been leaving since November. The analyst also pointed out that the CVDD Floor Model has the advantage of climbing over time and is currently at $45,500. Related Reading: The Last Time Bitcoin Sentiment Was This Bad Was 2022, But There Was A Silver Lining However, Willy Woo cautioned that these models rely on past behavior and that there have been only four prior bear markets, all within a secular bull market in risk equities. As such, he noted that if the foundation collapses, Bitcoin and the broader crypto market will enter uncharted territory, which could lead to a deeper bear market. At the time of writing, the Bitcoin price is trading at around $68,600, up in the last 24 hours, according to data from CoinMarketCap. Featured image from Getty Images, chart from Tradingview.com",
     "sentiment": "POSITIVE",
     "score": 0,
-    "keywords": "Markets",
+    "keywords": "Bitcoin|bitcoin|Bitcoin news|bitcoin price|btc|BTC news|btc price|btcusd|BTCUSDT|CoinMarketCap|CVDD Floor Model|Higher-Time-Frame Structure|HTF|Sykodelic|willy woo",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
+      },
+      {
+        "TYPE": "122",
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59984225,
+    "published": 1775077702000,
+    "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
+    "body": "Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets",
+    "sentiment": "POSITIVE",
+    "score": 0,
+    "keywords": "|Coins",
+    "lang": "EN",
+    "source_data": {
+      "name": "Decrypt",
+      "source_key": "decrypt",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 5,
+        "NAME": "ALTCOIN",
+        "CATEGORY": "ALTCOIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59984836,
+    "published": 1775077208000,
+    "title": "Hyperliquid whale makes $80M bet on market crash: Is Bitcoin in trouble?",
+    "body": "A Hyperliquid DEX whale has placed an $80 million bet that Bitcoin will crash and oil will rally, but data show this trader has lost millions in the past.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Market Analysis",
     "lang": "EN",
     "source_data": {
       "name": "Cointelegraph",
@@ -2365,132 +1838,9 @@
       },
       {
         "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
-      },
-      {
-        "TYPE": "122",
-        "ID": 37,
-        "NAME": "MARKET",
-        "CATEGORY": "MARKET"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59954841,
-    "published": 1775003441000,
-    "title": "Bitcoin Mining Nationalized? US Senators Float Bold New Reserve-Backed Bill",
-    "body": "About 97% of the machines used to mine Bitcoin currently come from companies based in China. This heavy reliance on foreign technology has created a bottleneck at American ports and raised alarms about the long-term security of the network. Related Reading: Bitcoin ETFs Pull In $56B As CEO Pitches Crypto Over Gold To fix this, US Senators Bill Cassidy and Cynthia Lummis introduced the Mined in America Act. The bill aims to move the production of specialized computer chips and mining rigs onto American soil. Cleaning Up The Mining Supply Chain The proposed law creates a special “Mined in America” certification for data centers. To earn this label, a facility must prove it is not using equipment made by “foreign adversaries.” This would force a massive shift in how the industry operates. Right now, most miners buy their hardware from Chinese giants like Bitmain or MicroBT. Under the new rules, companies would have to phase out that gear in favor of US-made alternatives. It is a bold attempt to build a domestic industry from the ground up. Digital asset mining is a big part of our economy. We should be doing it here in America. Proud to introduce the Mined in America Act with @SenLummis, which secures supply chains, backs U.S. manufacturing, and supports this key industry.https://t.co/qZdv6SEe3g — U.S. Senator Bill Cassidy, M.D. (@SenBillCassidy) March 30, 2026 Reports indicate that federal agencies would play a major role in this transition. The National Institute of Standards and Technology would be tasked with helping US manufacturers develop more efficient chips. This move is designed to ensure that the US does not just host the mining power, but actually owns the technology behind it. By making the hardware at home, the industry could avoid the shipping delays and customs seizures that have slowed down growth over the last year. Connecting Mining To National Reserves The legislation does more than just worry about hardware. It also seeks to lock in a plan for a Strategic Bitcoin Reserve. US President Donald Trump has previously expressed support for the government holding a stockpile of the digital currency. This bill would codify that idea into law. It suggests that the Bitcoin held in this national reserve should ideally come from “Mined in America” facilities. This creates a direct link between national security and the computers humming in rural warehouses across the country. Related Reading: Bitcoin Faces Fresh Pressure As Oil Crosses $104 For First Time In 4 Years Data shows the US currently accounts for roughly 38% of the global hashrate, which is the total computing power used to secure the Bitcoin network. While that makes the US a leader in operations, it remains a follower in manufacturing. Officials said the bill would use the Manufacturing Extension Partnership to give small and medium-sized American factories the tools they need to compete. The goal is to turn Bitcoin mining into a pillar of American industrial policy rather than just a niche financial activity. Featured image from Unsplash, chart from TradingView",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "Bitcoin News|bitcoin|blockchain|btc|btcusd|crypto|Mined in America Act|Trump",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 26,
-        "NAME": "FIAT",
-        "CATEGORY": "FIAT"
-      },
-      {
-        "TYPE": "122",
-        "ID": 39,
-        "NAME": "MINING",
-        "CATEGORY": "MINING"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59956632,
-    "published": 1775007284000,
-    "title": "Bitcoin Holds Gains in Asia After Five-Month Losing Streak Ends",
-    "body": "Bitcoin was holding onto gains early Wednesday in Asia after snapping a five-month losing streak in March, buoyed along with other risk assets by US President Donald Trump’s intention to end the war on Iran within weeks.",
-    "sentiment": "POSITIVE",
-    "score": 0,
-    "keywords": "",
-    "lang": "EN",
-    "source_data": {
-      "name": "Bloomberg (Crypto)",
-      "source_key": "bloomberg_crypto_",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 6,
-        "NAME": "ASIA",
-        "CATEGORY": "ASIA"
-      },
-      {
-        "TYPE": "122",
-        "ID": 14,
-        "NAME": "BTC",
-        "CATEGORY": "BTC"
-      },
-      {
-        "TYPE": "122",
-        "ID": 41,
-        "NAME": "REGULATION",
-        "CATEGORY": "REGULATION"
-      },
-      {
-        "TYPE": "122",
-        "ID": 211,
-        "NAME": "CRYPTOCURRENCY",
-        "CATEGORY": "CRYPTOCURRENCY"
-      }
-    ]
-  },
-  {
-    "id": 59957034,
-    "published": 1775008815000,
-    "title": "XRP Weakness Persists: A Breakdown Toward $0.87 Building",
-    "body": "XRP continues to show signs of weakness as bearish pressure steadily builds beneath the surface. Despite brief relief bounces, the lack of strong follow-through highlights a market still firmly under seller control. With key resistance holding and downside structure intact, momentum appears to be shifting toward a deeper move, bringing the $0.87 support level increasingly into focus. XRP Struggles To Find Strength As Bearish Pressure Builds Crypto analyst CasiTrades recently revealed that XRP’s price action remains notably weak, signaling that a significant move to the downside is getting closer. There is a firm expectation that XRP will eventually move lower to reach established support levels. The prevailing sentiment is one of caution as the market prepares for a potential breakdown. Related Reading: XRP Nears Key Turning Point As Descending Wedge Tightens While the descent is taking its time, a process described as incredibly frustrating for those watching the charts, the trajectory remains pointed downward. This slow grind lower suggests that the final target hasn’t been met yet, even if the pace of the move has been sluggish. A defining characteristic of the current market is the extreme weakness seen in every attempted bounce. Relief moves are consistently being cut short around the .382 Fibonacci retracement level, a clear technical indicator that sellers remain firmly in control. CasiTrades highlighted that selling momentum picked up again within a 1-hour period on Monday. This sudden increase in activity suggests that the market will likely not stay slow for much longer. As the bears reassert their influence, the stage is set for a more volatile push toward the lower support zones mentioned in the analysis. $1.31 Emerges As Key Resistance Barrier According to CasiTrades, XRP is currently attempting to stabilize around the $1.31 level, but this zone is viewed as a key resistance area, specifically the Wave 4 extreme within the broader structure. The ongoing hesitation and lack of strong follow-through at this level come as no surprise, as price typically struggles when testing important resistance after a corrective move. Furthermore, the analyst emphasizes that once this level breaks, the downside could accelerate rapidly. Related Reading: XRP At Key Transition Zone, And History Says Move Is Near CasiTrades continues to track a developing Wave 3 move to the downside, with a primary target around $1.09 and possible subwave extensions reaching as low as $1.06. After that, a temporary Wave 4 relief bounce is expected to take place, with the price potentially retracing back into the $1.22 to $1.31 range before facing renewed resistance. From there, the broader trend is projected to continue lower toward the $0.87 macro support zone. While the move has been slower than anticipated, the overall structure remains intact, with price gradually aligning with the bearish outlook. Featured image from Adobe Stock, chart from Tradingview.com",
-    "sentiment": "NEGATIVE",
-    "score": 0,
-    "keywords": "XRP|CasiTrades|Fibonacci Retracement Level|Ripple|Wave 3|Wave 4|xrp|xrp news|XRP Price|XRPUSD|xrpusdt",
-    "lang": "EN",
-    "source_data": {
-      "name": "NewsBTC",
-      "source_key": "newsbtc",
-      "source_type": "RSS"
-    },
-    "category_data": [
-      {
-        "TYPE": "122",
-        "ID": 15,
-        "NAME": "BUSINESS",
-        "CATEGORY": "BUSINESS"
+        "ID": 16,
+        "NAME": "COMMODITY",
+        "CATEGORY": "COMMODITY"
       },
       {
         "TYPE": "122",
@@ -2506,9 +1856,38 @@
       },
       {
         "TYPE": "122",
-        "ID": 58,
-        "NAME": "XRP",
-        "CATEGORY": "XRP"
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59985697,
+    "published": 1775081320000,
+    "title": "Bitcoin Buying Fails to Offset a Wave of Selling by Big Holders",
+    "body": "Bitcoin demand remains under pressure even as institutional buying picks up, suggesting the broader market is still selling the token, according to data analytics platform CryptoQuant.",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "",
+    "lang": "EN",
+    "source_data": {
+      "name": "Bloomberg (Crypto)",
+      "source_key": "bloomberg_crypto_",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 37,
+        "NAME": "MARKET",
+        "CATEGORY": "MARKET"
       },
       {
         "TYPE": "122",
@@ -2519,10 +1898,10 @@
     ]
   },
   {
-    "id": 59953594,
-    "published": 1774997396000,
-    "title": "Donald Trump says US will leave Iran within 2 to 3 weeks",
-    "body": "The conflict in Iran has been escalating following US and Israeli strikes against Iran in February, which sent oil prices higher and crypto and broader markets tumbling.",
+    "id": 59986165,
+    "published": 1775080781000,
+    "title": "Crypto exchange Bithumb to delay IPO until after 2028: Report",
+    "body": "According to the company CFO, Bithumb was “strengthen[ing] accounting policies and internal controls” ahead of its IPO plans, already delayed from 2025.",
     "sentiment": "NEGATIVE",
     "score": 0,
     "keywords": "Latest News",
@@ -2535,9 +1914,85 @@
     "category_data": [
       {
         "TYPE": "122",
-        "ID": 16,
-        "NAME": "COMMODITY",
-        "CATEGORY": "COMMODITY"
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59986774,
+    "published": 1775084413000,
+    "title": "Bitcoin Exchange Inflows Flash Rare Signal As Large Deposits Return",
+    "body": "On-chain data shows the average Bitcoin exchange deposit has ballooned to a significant size, a potential sign that whales are making inflows. Average Bitcoin Exchange Inflow Hits 2.62 BTC As pointed out by CryptoQuant community analyst Maartunn in an X post, the mean Exchange Inflow has shot up for Bitcoin. The “Exchange Inflow” here refers to an indicator that keeps track of the BTC transactions that are heading toward centralized exchanges from self-custodial wallets. Related Reading: Dogecoin Network Comes Alive: Active Addresses Jump 28% In the context of the current topic, the version of the metric that’s of interest is the one tracking mean exchange deposits. That is, this indicator measures the size of the average transfer that’s being sent to exchange-related wallets. When the value of the metric is high, it means the average exchange inflow is significant in scale. Such a trend can be a sign that large entities are actively participating in exchange deposit activity. On the other hand, the indicator being low can suggest that smaller hands are the ones responsible for the current exchange inflows. Now, here is the chart shared by Maartunn that shows the trend in the 7-day exponential moving average (EMA) of the mean Bitcoin Exchange Inflow over the past year: As displayed in the above graph, the 7-day EMA of the mean Bitcoin Exchange Inflow has just observed a rapid surge, indicating that whales have potentially ramped up their deposit activity. Generally, one of the main reasons why investors transfer their coins to exchanges is for selling-related purposes, so this spike in the mean Exchange Inflow may be a sign that the big-money hands are preparing to exit from the cryptocurrency. The latest high level of the indicator isn’t ordinarily seen, serving as a rare signal for the network. “The average BTC transaction sent to exchanges climbed to 2.62 BTC, a level that typically only appears during high-stress market moves,” explained the analyst. From the chart, it’s visible that the last time the Exchange Inflow saw a similar surge was alongside the price crash at the start of February. It now remains to be seen whether the latest spike in the indicator will have any effect on the Bitcoin price. Related Reading: Recent Bitcoin Rally Saw Retail Shift To Selling, Glassnode Reveals In some other news, very old Bitcoin hands have shown activity recently, as Maartunn has highlighted in another X post. From the chart, it’s visible that multiple large transactions involving tokens older than ten years have been spotted on the blockchain over the past couple of days. In total, these transactions have broken dormancy for about 600 BTC, worth about $41.2 million right now. BTC Price Bitcoin has made some recovery from its lows as its price has climbed back to $68,500. Featured image from Dall-E, chart from TradingView.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Bitcoin News|bitcoin|Bitcoin Exchange Inflows|Bitcoin whales|btc|BTCUSDT",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 13,
+        "NAME": "BLOCKCHAIN",
+        "CATEGORY": "BLOCKCHAIN"
+      },
+      {
+        "TYPE": "122",
+        "ID": 14,
+        "NAME": "BTC",
+        "CATEGORY": "BTC"
+      },
+      {
+        "TYPE": "122",
+        "ID": 25,
+        "NAME": "EXCHANGE",
+        "CATEGORY": "EXCHANGE"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
+      },
+      {
+        "TYPE": "122",
+        "ID": 211,
+        "NAME": "CRYPTOCURRENCY",
+        "CATEGORY": "CRYPTOCURRENCY"
+      }
+    ]
+  },
+  {
+    "id": 59988119,
+    "published": 1775088000000,
+    "title": "Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens",
+    "body": "Ethereum is currently trading above $2,100 at the start of the new month, but one analyst believes the asset’s next major directional move is based on a single price level: one that, if broken, would invalidate years of macro analysis and cause a price collapse to as low as $900. The Count That Has Held For A Year According to an analyst known as The Penguin, Ethereum’s current price behavior fits into a broader Elliott Wave structure that has been developing for years. The analysis defines Ethereum’s entire price history since 2016 as a developing macro sequence: a completed Cycle Wave 1 that topped out, followed by an extended Wave 2 correction playing out as a flat. According to the analyst, this structure is time-consuming, choppy, and designed to frustrate. Related Reading: Analyst Shares A Good Way To Know When Ethereum Has Hit A Bottom Since Ethereum’s 2021 peak, the Ethereum price has largely moved sideways and downward while repeatedly teasing recoveries that faded. The most notable example of this recovery was in August 2025, when Ethereum moved to new all-time highs. However, this has eventually ended up with a reversal that saw Ethereum fall back below $2,000 again. The chart labels the flat trading sequence in detail, mapping out W, X, A, and B legs that form the larger Wave 2 structure. The current price action is positioned within the final leg of the B structure, and the next outlook is an upward move to C from here. The $1,382 Line That Changes Everything As shown in the chart above, the Ethereum price has spent the period since its 2021 peak trading beneath a well-defined horizontal resistance zone between $4,500 and $4,900, with multiple rallies failing to break through this ceiling. The lows, on the other hand, have been less uniform, with lows forming in a more irregular pattern instead of a clean horizontal base. Related Reading: Brace For Impact: Ethereum Price Is Now Forming A Counter-Trend Correction However, one level stands out in this structure, which is the $1,382 low recorded in April 2025. Based on the context of this analysis, this point is labelled as Wave X and serves as the lower timeframe invalidation level. This is the important price level that will determine whether the price structure continues to fall below the four-digit mark. As long as Ethereum remains above it, the Wave 2 scenario will be valid, and the Ethereum price can still transition into a new impulsive cycle to the upside. The price target in this case is a push to as high as $8,400. A breakdown below $1,382, however, would invalidate the entire wave count. ETH would need to shed about a third of its value to reach that level, but given Q1 2026’s 29% decline and February 6 low at $1,743, it is not out of reach under persistent selling pressure. If that invalidation level fails, the analyst’s projection points to a downside break below $900, with Fibonacci extensions on the chart pointing to lows between $800 and $500. Featured image from iStock, chart from Tradingview.com",
+    "sentiment": "NEGATIVE",
+    "score": 0,
+    "keywords": "Ethereum|Cycle Wave 1|ETH|ETH news|eth price|ethereum|ethereum news|ethereum price|ethusd|ETHUSDT|The Penguin",
+    "lang": "EN",
+    "source_data": {
+      "name": "NewsBTC",
+      "source_key": "newsbtc",
+      "source_type": "RSS"
+    },
+    "category_data": [
+      {
+        "TYPE": "122",
+        "ID": 24,
+        "NAME": "ETH",
+        "CATEGORY": "ETH"
       },
       {
         "TYPE": "122",
@@ -2547,9 +2002,15 @@
       },
       {
         "TYPE": "122",
-        "ID": 63,
-        "NAME": "OTHER",
-        "CATEGORY": "OTHER"
+        "ID": 47,
+        "NAME": "SPONSORED",
+        "CATEGORY": "SPONSORED"
+      },
+      {
+        "TYPE": "122",
+        "ID": 50,
+        "NAME": "TRADING",
+        "CATEGORY": "TRADING"
       },
       {
         "TYPE": "122",
