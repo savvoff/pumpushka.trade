@@ -121,6 +121,11 @@ export const siteConfig: Collection = {
                 { name: 'en', label: 'English', type: 'string' },
               ],
             },
+            {
+              name: 'hidden',
+              label: 'Приховати link',
+              type: 'boolean',
+            },
           ],
         },
       ],
@@ -175,6 +180,11 @@ export const siteConfig: Collection = {
                 { name: 'uk', label: 'Українська', type: 'string' },
                 { name: 'en', label: 'English', type: 'string' },
               ],
+            },
+            {
+              name: 'hidden',
+              label: 'Приховати link',
+              type: 'boolean',
             },
           ],
         },
