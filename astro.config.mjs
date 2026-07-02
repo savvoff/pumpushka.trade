@@ -18,14 +18,20 @@ export default defineConfig({
     service: sharpImageService(),
   },
   output: 'server',
-  base: import.meta.env.MODE === 'development' ? '' : 'pumpushka.trade',
+  base: import.meta.env.MODE === 'development' 
+    ? '' 
+    : (process.env.VERCEL_PROJECT_PRODUCTION_URL || 'pumpushka.win'),
   devToolbar: {
     enabled: false
   },
   server: {
     port: 4343
   },
-  site: 'https://www.pumpushka.trade',
+  site: process.env.VERCEL_ENV === 'production'
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL || 'www.pumpushka.win'}`
+    : process.env.VERCEL_URL
+      ? `https://${process.env.VERCEL_URL}`
+      : 'https://www.pumpushka.win',
   compressHTML: false,
   adapter: vercel({
     isr: {
