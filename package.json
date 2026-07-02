@@ -1,11 +1,11 @@
 {
   "name": "pumpushka.trade",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "build:search": "node scripts/build-pagefind-index.mjs",
-    "build": "tinacms build --skip-search-index && rm -f public/admin/.gitignore && npm run build:search && astro build",
+    "build": "tinacms build --skip-search-index && rm -f public/admin/.gitignore && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^6.0.2",
-    "@tinacms/cli": "^1.12.2",
+    "@tinacms/cli": "^2.5.2",
     "@types/node": "^24.10.0",
     "@types/nodemailer": "^7.0.4",
     "globby": "^15.0.0",
@@ -40,21 +40,7 @@
     "openai": "^6.8.1",
     "sass-embedded": "^1.93.3"
   },
-  "overrides": {
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "@tinacms/schema-tools>yup": "0.32.11",
-    "@tinacms/metrics>fs-extra": "^9.1.0",
-    "@tinacms/mdx>typedoc": "0.28.0"
-  },
   "pnpm": {
-    "overrides": {
-      "react": "18.3.1",
-      "react-dom": "18.3.1",
-      "@tinacms/schema-tools>yup": "0.32.11",
-      "@tinacms/metrics>fs-extra": "^9.1.0",
-      "@tinacms/mdx>typedoc": "0.28.0"
-    },
     "ignoredBuiltDependencies": [
       "esbuild"
     ],

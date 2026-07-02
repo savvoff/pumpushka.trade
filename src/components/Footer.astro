@@ -26,7 +26,7 @@ const footer = config.footer as Footer;
         <span class="text-white uppercase tracking-widest">{ t(SITE.title) }</span>
       </a>
       <SocialsButtons class="mx-auto md:mx-0">
-        { footer.links && footer.links.map((item) => (
+        { footer.links && footer.links.filter((item) => { return !item.hidden; }).map((item) => (
           <li class="group">
             <a class="inline-flex bg-white/[0.2] rounded-full w-11 h-11" href={ t(item.href) } target="_blank" rel="noopener noreferrer">
               <img class="relative m-auto w-5 h-5 scale-100 group-hover:scale-90 transition-transform duration-500" src={item.icon} alt={ t(item.label) } />

@@ -101,6 +101,7 @@ type MenuItem = {
   image: string;
   label: Record<string, string>;
   href: Record<string, string>;
+  hidden?: boolean;
 };
 
 export interface Header {
@@ -114,6 +115,7 @@ type SocialItem = {
   icon: string;
   label: Record<string, string>;
   href: Record<string, string>;
+  hidden?: boolean;
 };
 
 type ContactsItem = {

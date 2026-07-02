@@ -47,6 +47,9 @@ export default defineConfig({
       priority: 0.7,
       filter: (page) => {
         // ❌ We exclude service pages
+        if (page.includes('/blog')) {
+          return false;
+        }
         if (page.includes('/search')) return false;
         if (page.includes('/draft')) return false;
         if (page.includes('/admin')) return false;

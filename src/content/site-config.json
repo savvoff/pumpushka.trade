@@ -87,7 +87,8 @@
         "href": {
           "uk": "/blog",
           "en": "/en/blog"
-        }
+        },
+        "hidden": true
       },
       {
         "image": "/media/menu-link.png",
@@ -162,7 +163,8 @@
         "href": {
           "uk": "https://www.pumpushka.trade/rss.xml",
           "en": "https://www.pumpushka.trade/en/rss.xml"
-        }
+        },
+        "hidden": true
       }
     ],
     "navigation": [
